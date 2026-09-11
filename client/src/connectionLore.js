@@ -2,6 +2,8 @@
  * Client-side shared-lore blurbs for connection cards and lists.
  */
 
+import { entityTypeLabel } from "./entityTypeLabel";
+
 export function normalizeSpace(value) {
     return String(value || "").replace(/\s+/g, " ").trim();
 }
@@ -35,10 +37,7 @@ export function connectionLoreBlurb(connection, opts = {}) {
     const label =
         typeof opts.relationshipLabel === "function"
             ? opts.relationshipLabel(connection)
-            : String(connection.relationship || "connected_to").replace(
-                  /_/g,
-                  " "
-              );
+            : entityTypeLabel(connection);
     const other = connection.name || "another figure";
 
     const explanation = normalizeSpace(connection.explanation);

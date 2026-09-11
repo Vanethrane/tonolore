@@ -57,6 +57,7 @@ const CONFIGS = {
                 {
                     title: "Devil Fruits",
                     type: "object",
+                    kind: "item",
                     parent: "one-piece",
                     includeSubcats: true,
                     maxDepth: 2,
@@ -65,6 +66,7 @@ const CONFIGS = {
                 {
                     title: "Locations",
                     type: "place",
+                    kind: "location",
                     parent: "one-piece",
                     includeSubcats: true,
                     maxDepth: 2,
@@ -73,6 +75,7 @@ const CONFIGS = {
                 {
                     title: "Ships",
                     type: "object",
+                    kind: "ship",
                     parent: "one-piece",
                     includeSubcats: true,
                     maxDepth: 1,

@@ -2,8 +2,8 @@
  * Unique meta + body fragments for long-tail entity pages.
  */
 
-const { relationshipLabel } = require("../../lib/relationshipLabels");
 const { connectionLoreBlurb } = require("../../lib/connectionLore");
+const { entityTypeLabel } = require("../../lib/entityTypeLabel");
 
 function escapeHtml(value) {
     return String(value || "")
@@ -25,8 +25,11 @@ function subjectDisplayName(subjectMeta, universe) {
         .join(" ");
 }
 
-function typeLabel(type) {
-    return String(type || "topic").replace(/_/g, " ");
+function typeLabel(typeOrEntity) {
+    if (typeOrEntity && typeof typeOrEntity === "object") {
+        return entityTypeLabel(typeOrEntity);
+    }
+    return entityTypeLabel({ type: typeOrEntity || "topic" });
 }
 
 function usesWhoHeading(entity) {
@@ -242,10 +245,10 @@ function buildConnectionNarrative(entity, connections, linkEntitiesInText) {
 
     const items = facts
         .map((connection) => {
-            const label = relationshipLabel(connection);
+            const label = entityTypeLabel(connection);
             const detail = connectionLoreBlurb(connection, {
                 fromName: entity.name,
-                relationshipLabel
+                relationshipLabel: entityTypeLabel
             });
             const href = connection.path || `/${connection.slug}`;
 
@@ -371,7 +374,7 @@ function buildUniqueDidYouKnow(entity, connections, subjectMeta) {
             facts.push(normalizeSpace(connection.title));
         } else if (connection.explanation) {
             facts.push(
-                `${relationshipLabel(connection)} ${connection.name}: ${normalizeSpace(connection.explanation)}`
+                `${entityTypeLabel(connection)} ${connection.name}: ${normalizeSpace(connection.explanation)}`
             );
         }
     }

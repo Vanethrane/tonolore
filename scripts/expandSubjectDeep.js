@@ -22,6 +22,7 @@ const {
     CONFIGS,
     listExpandableSubjects
 } = require("./lib/subjectExpandConfigs");
+const { inferEntityKind } = require("./lib/entityTypeLabel");
 
 const BLOCKED_NAME_RE =
     /^(list of|category:|template:|wikipedia:|file:|portal:|module:)/i;
@@ -436,7 +437,13 @@ async function main() {
             wikipedia_url: identity?.wikipedia_url || null,
             metadata: {
                 source: lookup.source,
-                discovered: true
+                discovered: true,
+                kind: inferEntityKind({
+                    type,
+                    name: item.name,
+                    short_description: short,
+                    description
+                })
             }
         };
 

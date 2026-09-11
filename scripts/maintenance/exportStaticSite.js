@@ -43,6 +43,10 @@ const {
     connectionLoreBlurb,
     isGenericSharedLoreTitle
 } = require("../lib/connectionLore");
+const {
+    entityTypeLabel,
+    inferEntityKind
+} = require("../lib/entityTypeLabel");
 
 const SITE_URL = (
     process.env.SITE_URL ||
@@ -153,6 +157,18 @@ async function loadSearchIndex() {
                 id: row.id,
                 name: row.name,
                 type: row.type,
+                kind: inferEntityKind({
+                    type: row.type,
+                    name: row.name,
+                    short_description: row.short_description,
+                    metadata
+                }),
+                type_label: entityTypeLabel({
+                    type: row.type,
+                    name: row.name,
+                    short_description: row.short_description,
+                    metadata
+                }),
                 slug: row.slug,
                 path: row.page_slug,
                 short_description: row.short_description,
@@ -339,6 +355,20 @@ function buildPagePayload(page, connections, rabbitHoles) {
             name: page.entity_name,
             slug: page.entity_slug,
             type: page.entity_type,
+            kind: inferEntityKind({
+                type: page.entity_type,
+                name: page.entity_name,
+                short_description: page.short_description,
+                description: page.entity_full_description,
+                metadata
+            }),
+            type_label: entityTypeLabel({
+                type: page.entity_type,
+                name: page.entity_name,
+                short_description: page.short_description,
+                description: page.entity_full_description,
+                metadata
+            }),
             short_description: page.short_description,
             description:
                 page.entity_full_description || page.short_description,
@@ -355,16 +385,20 @@ function buildPagePayload(page, connections, rabbitHoles) {
         },
         connections: (connections || []).map((connection) => {
             const lore = connectionLoreBlurb(connection, {
-                fromName: page.entity_name
+                fromName: page.entity_name,
+                relationshipLabel: entityTypeLabel
             });
             const title = isGenericSharedLoreTitle(connection.title)
                 ? lore
                 : connection.title;
+            const kind = inferEntityKind(connection);
 
             return {
                 ...connection,
                 title,
-                explanation: connection.explanation || lore
+                explanation: connection.explanation || lore,
+                kind,
+                type_label: entityTypeLabel({ ...connection, kind })
             };
         }),
         rabbit_holes: rabbitHoles,

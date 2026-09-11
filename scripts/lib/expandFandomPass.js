@@ -26,6 +26,10 @@ const {
     isStubDescription,
     shortFromIntro
 } = require("./richDescriptions");
+const {
+    classifyFromCategoryTitle,
+    inferEntityKind
+} = require("./entityTypeLabel");
 
 const BLOCKED_TITLE_RE =
     /^(list of|category:|template:|file:|user:|user blog:|message wall:|thread:|board:|forum:)/i;
@@ -255,15 +259,25 @@ async function expandFandomPass(subjectId, opts = {}) {
                 continue;
             }
             const prev = pageMeta.get(member.title);
+            const classified = classifyFromCategoryTitle(
+                cat.title,
+                cat.type || "topic"
+            );
+            const nextType = cat.type || classified.type;
+            const nextKind = cat.kind || classified.kind;
             if (!prev) {
                 pageMeta.set(member.title, {
                     title: member.title,
-                    type: cat.type || "topic",
+                    type: nextType,
+                    kind: nextKind,
                     parentSlug: cat.parent || config.rootSlug
                 });
-            } else if (prev.type !== "person" && cat.type === "person") {
+            } else if (prev.type !== "person" && nextType === "person") {
                 prev.type = "person";
+                prev.kind = nextKind || "character";
                 prev.parentSlug = cat.parent || config.rootSlug;
+            } else if (!prev.kind && nextKind) {
+                prev.kind = nextKind;
             }
         }
 
@@ -294,6 +308,9 @@ async function expandFandomPass(subjectId, opts = {}) {
             pageMeta.set(title, {
                 title,
                 type: entity?.type || "topic",
+                kind:
+                    entity?.metadata?.kind ||
+                    inferEntityKind(entity || { type: "topic", name: title }),
                 parentSlug: entity?.parentSlug || config.rootSlug,
                 forceCoreSlug: slug
             });
@@ -490,14 +507,26 @@ async function expandFandomPass(subjectId, opts = {}) {
             const prevDesc = prev?.description || "";
             const prevIsStub = isStubDescription(prevDesc);
 
+            const resolvedType = meta.type || prev?.type || "topic";
+            const resolvedName =
+                (prev && prev.name) ||
+                resolvedTitle.replace(/\s*\([^)]*\)\s*$/, "").trim() ||
+                title;
+            const resolvedKind =
+                meta.kind ||
+                prev?.metadata?.kind ||
+                inferEntityKind({
+                    type: resolvedType,
+                    name: resolvedName,
+                    short_description: prev?.short_description,
+                    description: intro || prev?.description
+                });
+
             entityBySlug.set(slug, {
                 ...(prev || {}),
                 slug,
-                name:
-                    (prev && prev.name) ||
-                    resolvedTitle.replace(/\s*\([^)]*\)\s*$/, "").trim() ||
-                    title,
-                type: meta.type || prev?.type || "topic",
+                name: resolvedName,
+                type: resolvedType,
                 description: intro || (prevIsStub ? "" : prevDesc) || "",
                 short_description:
                     prev?.short_description &&
@@ -517,6 +546,7 @@ async function expandFandomPass(subjectId, opts = {}) {
                     canon: false,
                     discovered: true,
                     source: prev?.metadata?.source || "fandom",
+                    kind: resolvedKind,
                     ...patchMeta,
                     sources: [
                         ...new Set([

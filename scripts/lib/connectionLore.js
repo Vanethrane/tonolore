@@ -4,6 +4,8 @@
  * can explain *why* two entities are linked.
  */
 
+const { entityTypeLabel } = require("./entityTypeLabel");
+
 function normalizeSpace(value) {
     return String(value || "").replace(/\s+/g, " ").trim();
 }
@@ -41,9 +43,7 @@ function connectionLoreBlurb(connection, opts = {}) {
 
     const fromName = opts.fromName || "This page";
     const labelFn =
-        opts.relationshipLabel ||
-        ((c) =>
-            String(c.relationship || "connected_to").replace(/_/g, " "));
+        opts.relationshipLabel || ((c) => entityTypeLabel(c));
     const label = labelFn(connection);
     const other = connection.name || "another figure";
 

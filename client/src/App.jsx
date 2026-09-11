@@ -4,6 +4,7 @@ import "./musicSubjectThemes.css";
 import "./tabletopCardThemes.css";
 import { categoryTheme } from "./categoryThemes";
 import { connectionLoreBlurb } from "./connectionLore";
+import { entityTypeLabel } from "./entityTypeLabel";
 import { entityImageToMediaAsset, IpInfobox } from "./fairUse";
 import {
     fetchPageBySlug,
@@ -388,7 +389,7 @@ function SiteSearch({ navigate }) {
                                     }}
                                 >
                                     <span className="site-search-result-type">
-                                        {entity.type}
+                                        {entityTypeLabel(entity)}
                                     </span>
                                     <span className="site-search-result-name">
                                         {entity.name}
@@ -590,7 +591,7 @@ function ConnectionCard({
     );
     const blurb = connectionLoreBlurb(connection, {
         fromName,
-        relationshipLabel
+        relationshipLabel: entityTypeLabel
     });
 
     return (
@@ -623,7 +624,7 @@ function ConnectionCard({
 
             <div className="connection-meta">
                 <span className="connection-type">
-                    {relationshipLabel(connection)}
+                    {entityTypeLabel(connection)}
                 </span>
                 {showBadge ? (
                     <span className="connection-badge">Featured</span>
@@ -660,7 +661,7 @@ function SharedLoreSection({ entityName, connections, navigate }) {
                     ).replace(/^\/+/, "");
                     const blurb = connectionLoreBlurb(connection, {
                         fromName: entityName,
-                        relationshipLabel
+                        relationshipLabel: entityTypeLabel
                     });
 
                     return (
@@ -684,7 +685,7 @@ function SharedLoreSection({ entityName, connections, navigate }) {
                                 {connection.name}
                             </a>
                             <span className="shared-lore-type">
-                                {relationshipLabel(connection)}
+                                {entityTypeLabel(connection)}
                             </span>
                             <p>{blurb}</p>
                         </li>
@@ -1473,7 +1474,7 @@ function App() {
 
                     <IpInfobox
                         title={page.entity.name}
-                        entityType={page.entity.type}
+                        entityType={entityTypeLabel(page.entity)}
                         aliases={page.entity.aliases}
                         franchise={brand?.name || page.entity.universe}
                         image={entityImageToMediaAsset(

@@ -180,6 +180,7 @@ const CATEGORIES = [
     {
         title: "Weapons",
         type: "object",
+        kind: "weapon",
         parent: "star-wars",
         includeSubcats: true,
         maxDepth: 1,

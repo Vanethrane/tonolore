@@ -8,6 +8,10 @@ const {
     connectionLoreBlurb,
     isGenericSharedLoreTitle
 } = require("../../../scripts/lib/connectionLore");
+const {
+    entityTypeLabel,
+    inferEntityKind
+} = require("../../../scripts/lib/entityTypeLabel");
 const { getSiteUrl, absoluteCanonical } = require("../lib/siteUrl");
 
 function extractOverview(content) {
@@ -202,6 +206,20 @@ async function getPage(req, res) {
                 name: page.entity_name,
                 slug: page.entity_slug,
                 type: page.entity_type,
+                kind: inferEntityKind({
+                    type: page.entity_type,
+                    name: page.entity_name,
+                    short_description: page.short_description,
+                    description: page.entity_full_description,
+                    metadata
+                }),
+                type_label: entityTypeLabel({
+                    type: page.entity_type,
+                    name: page.entity_name,
+                    short_description: page.short_description,
+                    description: page.entity_full_description,
+                    metadata
+                }),
                 short_description: page.short_description,
                 description:
                     page.entity_full_description ||
@@ -221,10 +239,14 @@ async function getPage(req, res) {
 
             connections: connectionsResult.rows.map((connection) => {
                 const lore = connectionLoreBlurb(connection, {
-                    fromName: page.entity_name
+                    fromName: page.entity_name,
+                    relationshipLabel: entityTypeLabel
                 });
+                const kind = inferEntityKind(connection);
                 return {
                     ...connection,
+                    kind,
+                    type_label: entityTypeLabel({ ...connection, kind }),
                     title: isGenericSharedLoreTitle(connection.title)
                         ? lore
                         : connection.title,

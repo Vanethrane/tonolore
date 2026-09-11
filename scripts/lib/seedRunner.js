@@ -23,6 +23,7 @@ const path = require("path");
 const { Client } = require(path.join(__dirname, "../../server/node_modules/pg"));
 const { DATABASE_URL } = require("../../server/src/config/env");
 const { EXTRA_RELATIONSHIP_TYPES } = require("./relationshipLabels");
+const { inferEntityKind } = require("./entityTypeLabel");
 const {
     expandMentions,
     dedupeEntities,
@@ -180,6 +181,14 @@ async function seedSubject(subject, options = {}) {
         const entityIds = {};
 
         for (const item of entities) {
+            const metadata = {
+                ...(item.metadata || {}),
+                kind:
+                    item.metadata?.kind ||
+                    item.kind ||
+                    inferEntityKind(item)
+            };
+
             const result = await client.query(
                 `
                 INSERT INTO entities (
@@ -250,7 +259,7 @@ async function seedSubject(subject, options = {}) {
                     item.image_license || null,
                     item.image_usage || null,
                     item.image_alt || null,
-                    JSON.stringify(item.metadata)
+                    JSON.stringify(metadata)
                 ]
             );
 

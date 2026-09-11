@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build / cache
+dist/
+client/dist/
+build/
+.vite/
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# Secrets / local env
+.env
+.env.*
+!.env.example
+
+# Editor / agent
+.cursor/
+.vscode/
+*.swp
+*.tmp
+*_countPages.tmp.js
+
+# OS
+Desktop.ini

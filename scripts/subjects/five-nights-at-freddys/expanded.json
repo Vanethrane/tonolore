@@ -1,0 +1,1243 @@
+{
+  "enrichments": [
+    {
+      "slug": "five-nights-at-freddys",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/d/da/FNaF1.jpg/revision/latest/scale-to-width-down/360?cb=20230410020858",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Five_Nights_at_Freddy%27s",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Five Nights at Freddy's",
+      "metadata": {
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Five_Nights_at_Freddy%27s",
+        "fandom_title": "Five Nights at Freddy's",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": ", commonly abbreviated as FNaF and often referred to as Five Nights at Freddy's 1 or FNaF1, is an independent point-and-click sit-and-survive horror game developed and published by Scottgames, LLC, which released on August 8, 2014, for Windows, as the first installment in the Five Nights at Freddy's series. Shortly after, the game was ported to Android on August 24, 2014, Amazon Fire OS on August 26, 2014, iOS on September 11, 2014, and Windows Phone on December 2, 2014.\n\nScottgames would partner with Clickteam LLC in 2018 to deliver HD, improved \"remastered\" ports to mobile and consoles. The mobile updates would release on July 30, 2019, for iOS, and August 16, 2019, for Android. The Xbox port would release on November 28, 2019, and the PlayStation and Nintendo Switch ports on November 29, 2019. These ports/updates would fix bugs, remove copyrighted material, and add a subtitles and cheats menu.\n\nDue to its universal success upon release, the game spawned a media franchise for a series of video games, spin-offs, books, and merchandise, as well as a film adaptation, which was released on October 27, 2023.\n\nWelcome to your new summer job at Freddy Fazbear's Pizza, where kids and parents alike come for entertainment and food as far as the eye can see! The main attraction is Freddy Fazbear, of course; and his two friends. They are animatronic robots, programmed to please the crowds! The robots' behavior has become somewhat unpredictable at night however, and it was much cheaper to hire you as a security guard than to find a repairman.",
+      "short_description": ", commonly abbreviated as FNaF and often referred to as Five Nights at Freddy's 1 or FNaF1, is an independent point-and-click sit-and-survive horror game developed and published by Scottgames, LLC, which released on…"
+    },
+    {
+      "slug": "scott-cawthon",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/b/b9/Scott_Cawthon.png/revision/latest/scale-to-width-down/360?cb=20241120131805",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Scott_Cawthon",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Scott Cawthon",
+      "metadata": {
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Scott_Cawthon",
+        "fandom_title": "Scott Cawthon",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "Scott Braden Cawthon (born June 4, 1978, in Bell County, Texas), also known under the username Animdude, is an American game developer, publisher, author, animator, screenwriter, and film producer who is the creator and original developer of the Five Nights at Freddy's franchise, including the Scott Games era of games, spin-offs, and troll games. Cawthon is a graduate of the Art Institute of Houston and has developed around 80 games and animated around 30+ shows and films prior to the creation and success of FNaF, from 1999 to 2014. In 2005, Cawthon was a part of [https://hopeanimation.com/ Hope Animation], which is a \"project of Christian animators\" aiming to spread the \"teachings of Jesus Christ.\" He had also worked in Dollar General and Target stores as late as 2014. He currently resides in Salado, Texas, with his family.\n\nAn Interview with Scott Cawthon|Dawko's interview with Scott Cawthon for Five Nights at Freddy's 4th anniversary. An Interview with Scott Cawthon 2.0 - The Creator of Five Nights at Freddy’s|Ditto, for the 10th anniversary. }}\n\nCategory:People Category:Developers Category:Voice Providers\n\nde:Scott Cawthon pt-br:Scott Cawthon es:Scott Cawthon fr:Scott Cawthon it:Scott Cawthon",
+      "short_description": "Scott Braden Cawthon (born June 4, 1978, in Bell County, Texas), also known under the username Animdude, is an American game developer, publisher, author, animator, screenwriter, and film producer who is the creator and…"
+    },
+    {
+      "slug": "steel-wool-studios",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/a/a2/SteelWoolStudios-NewLogo.png/revision/latest/scale-to-width-down/360?cb=20240505225617",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Steel_Wool_Studios,_Inc.",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Steel Wool Studios, Inc.",
+      "metadata": {
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Steel_Wool_Studios,_Inc.",
+        "fandom_title": "Steel Wool Studios, Inc.",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "Steel Wool Studios, Inc., formally known as Steel Wool Games, Inc., is a video game development company that was founded on October 10, 2012, in Oakland, California, by Sequoia Blankenship, Andrew Dayton, Jonathan Hoffman, Joshua Qualtieri, and Jason Topolski.\n\nIn 2017, Scott Cawthon began working with the company to develop Five Nights at Freddy's: Help Wanted, and later its DLC Curse of Dreadbear, both of which would release in 2019. They would become the main developer for the core series Five Nights at Freddy's video games, developing Five Nights at Freddy's: Security Breach, its DLC RUIN, Five Nights at Freddy's: Help Wanted 2, and Five Nights at Freddy's: Secret of the Mimic, with more video games planned to be developed by them in the future.\n\nThe company has held events at PAX West in 2023 and 2024. They're also the production company behind the promotional short series Freddy & Friends: On Tour! and MCM Archive.\n\nOnly those who have worked on the franchise are listed.",
+      "short_description": "Steel Wool Studios, Inc., formally known as Steel Wool Games, Inc., is a video game development company that was founded on October 10, 2012, in Oakland, California, by Sequoia Blankenship, Andrew Dayton, Jonathan…"
+    },
+    {
+      "slug": "fnaf-1",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/d/da/FNaF1.jpg/revision/latest/scale-to-width-down/360?cb=20230410020858",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Five_Nights_at_Freddy%27s",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Five Nights at Freddy's",
+      "metadata": {
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Five_Nights_at_Freddy%27s",
+        "fandom_title": "Five Nights at Freddy's",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": ", commonly abbreviated as FNaF and often referred to as Five Nights at Freddy's 1 or FNaF1, is an independent point-and-click sit-and-survive horror game developed and published by Scottgames, LLC, which released on August 8, 2014, for Windows, as the first installment in the Five Nights at Freddy's series. Shortly after, the game was ported to Android on August 24, 2014, Amazon Fire OS on August 26, 2014, iOS on September 11, 2014, and Windows Phone on December 2, 2014.\n\nScottgames would partner with Clickteam LLC in 2018 to deliver HD, improved \"remastered\" ports to mobile and consoles. The mobile updates would release on July 30, 2019, for iOS, and August 16, 2019, for Android. The Xbox port would release on November 28, 2019, and the PlayStation and Nintendo Switch ports on November 29, 2019. These ports/updates would fix bugs, remove copyrighted material, and add a subtitles and cheats menu.\n\nDue to its universal success upon release, the game spawned a media franchise for a series of video games, spin-offs, books, and merchandise, as well as a film adaptation, which was released on October 27, 2023.\n\nWelcome to your new summer job at Freddy Fazbear's Pizza, where kids and parents alike come for entertainment and food as far as the eye can see! The main attraction is Freddy Fazbear, of course; and his two friends. They are animatronic robots, programmed to please the crowds! The robots' behavior has become somewhat unpredictable at night however, and it was much cheaper to hire you as a security guard than to find a repairman.",
+      "short_description": ", commonly abbreviated as FNaF and often referred to as Five Nights at Freddy's 1 or FNaF1, is an independent point-and-click sit-and-survive horror game developed and published by Scottgames, LLC, which released on…"
+    },
+    {
+      "slug": "fnaf-2",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/e/e3/FNaF_2_Switch.jpg/revision/latest/scale-to-width-down/360?cb=20210405111155",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Five_Nights_at_Freddy%27s_2",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Five Nights at Freddy's 2",
+      "metadata": {
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Five_Nights_at_Freddy%27s_2",
+        "fandom_title": "Five Nights at Freddy's 2",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": ", commonly abbreviated as FNaF2, is an independent point-and-click sit-and-survive horror game developed and published by Scottgames, LLC, which released on November 10, 2014, for Windows, as the second installment in the Five Nights at Freddy's series. Shortly after, the game was ported to Amazon Fire OS on November 13, 2014, released on Desura on November 14, 2014, ported to Android on November 15, 2014, iOS on November 20, 2014, and Windows Phone on December 2, 2014.\n\nScottgames would partner with Clickteam LLC in 2018 to deliver HD, improved \"remastered\" ports to mobile and consoles. The mobile updates would release on October 29, 2019, for Android and iOS. The Xbox port would release on November 28, 2019, and on the PlayStation and Nintendo Switch on November 29, 2019. These ports/updates would fix bugs, remove copyrighted material, and add a subtitles and cheats menu.\n\nA film adaptation was released on December 5, 2025.\n\nWelcome back to the new and improved Freddy Fazbear's Pizza!",
+      "short_description": ", commonly abbreviated as FNaF2, is an independent point-and-click sit-and-survive horror game developed and published by Scottgames, LLC, which released on November 10, 2014, for Windows, as the second installment in…"
+    },
+    {
+      "slug": "ballora",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/f/f9/Ballora_Full_Body.png/revision/latest/scale-to-width-down/360?cb=20260328135839",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Ballora",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Ballora",
+      "description": "is a ballerina dancer Funtime animatronic and major antagonist who first appeared in Five Nights at Freddy's: Sister Location, where she entertains at her own gallery room from the west of Circus Baby's Entertainment and Rental.\n\nOut of all animatronics in the series, Ballora is likely the most human-like animatronic yet. Like Circus Baby, another humanoid animatronic, she has segmented limbs with silver patches. She has some small, visible parts of her endoskeleton, such as with her wrists and upper torso. Her lower torso is slim with a segmented line through the middle, similar to Funtime Foxy. She has pink, rosy cheeks with matching lipstick, and blue hair tied into a bun with matching nails, eyebrows (being slightly lighter), and eyeshadow. Her clothes seemingly resemble a classical ballerina outfit; she wears a blue top and undergarments that follow the same patterns of her segmented body (potentially being a unique bodice or leotard), matching pointe shoes with small, gold orbs on top of each shoe, and finally wears a pinkish-purple tutu with a white outline and gold orbs decorated around the circumference. She wears golden pearl-shaped earrings, and a pearl tiara atop her head (resembling a fan-shaped flamenco-dancer-style comb) with a small group of silver pearls embedded in the front of her hair and between her clothing top, making her one of the most decorated characters in the series.\n\nIn most of her appearances in the game, Ballora stands in a pose with her hands above her head and has her eyes closed. However, her eyes have been shown occasionally. They look smaller than the other animatronic's eyes due to having a metal casing and pink irises. They are usually shown when opening her face-plates during her jumpscare. She notably has small, sharp, humanoid teeth.\n\nIn Five Nights at Freddy's: Help Wanted 2, Ballora's design remains nearly identical, and is mostly unchanged, but her irises are significantly larger and she has purple eyes.",
+      "short_description": "is a ballerina dancer Funtime animatronic and major antagonist who first appeared in Five Nights at Freddy's: Sister Location, where she entertains at her own gallery room from the west of Circus Baby's Entertainment…"
+    },
+    {
+      "slug": "burntrap",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/7/74/AftonReborn.png/revision/latest/scale-to-width-down/360?cb=20220403192430",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Burntrap",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Burntrap",
+      "description": "is the tertiary antagonist of Five Nights at Freddy's: Security Breach. He is an animatronic of enigmatic origin who resided in the underground ruins of Freddy Fazbear's Pizza Place, appearing in the base game's \"Burn It All Down\" Ending.\n\nBurntrap has a physical appearance that resembles both of William Afton's depictions in Five Nights at Freddy's 3 and Freddy Fazbear's Pizzeria Simulator, though with significant differences. His suit is olive and dark yellow in color, with an exposed human jawbone with teeth. His endoskeleton resembles a combination of the Glamrock Animatronics and a Springlock endoskeleton, with some parts of human bone with sharp claws at the tip of each digit with five fingers instead of four, matching the mysterious hand at the end of the February 2021 trailer. His costume is remarkably smooth and appears to have an oily, flesh like texture. The suit has missing segments of its costume, such as on his limbs and pelvis area. His eyes are pitch black with purple glowing pupils. His right foot's endoskeleton is completely exposed, while his left foot still has its costume covering.\n\nBurntrap displays little to no personality, as he doesn't outwardly express any emotion besides sinisterly laughing with sadistic joy. He also appears to be incapable of speech, as he doesn't speak during his encounter with Gregory. However, Burntrap is implied to be persistent as he continues to try and possess Glamrock Freddy during the ending's boss battle even after Gregory repeatedly burns him with the incinerators located in his chambers.\n\n{| class=\"article-table\" align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"text-align:center;\"",
+      "short_description": "is the tertiary antagonist of Five Nights at Freddy's: Security Breach. He is an animatronic of enigmatic origin who resided in the underground ruins of Freddy Fazbear's Pizza Place, appearing in the base game's \"Burn…"
+    },
+    {
+      "slug": "charlotte-emily",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/0/05/GreenBraceletKid.gif/revision/latest?cb=20201211054843",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Charlotte_Emily",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Charlotte Emily",
+      "description": "Charlotte \"Charlie\" Emily was the daughter of Henry Emily, who was murdered by William Afton after she was locked out of Freddy Fazbear's Pizza, possibly turning her into Afton's first victim. Shortly after she was murdered, the Puppet found her body and, due to the rain, deactivated next to her, which allowed Charlie to possess him.\n\nBecause Charlie has only appeared in the minigames, her most detailed appearance is in Security Puppet's minigame, which is mostly in black and white. She has light-colored skin and has dark-colored hair tied into a ponytail. Charlie wears a light-colored shirt, dark-colored pants, and dark-colored shoes. She also wears a green bracelet the Puppet responds to.\n\nEven though Charlie's appearance in the \"Take Cake to the Children\" minigame changes in the Security Puppet minigame, she retains a crying facial expression that shows her emotional state. The more rudimentary graphics depict her as wearing a blue shirt, blue pants, and brown shoes. Unlike other minigame children, she is not bald in the minigame.\n\nHenry describes her as a caring, selfless, and noble person that constantly puts others before herself. Henry states it was always in her nature to protect the innocent, with this trait persisting even after possessing the Puppet. When facing a deadly situation, she is shown crying before her death, indicating that she was incapable of defending herself and is fearful when facing danger.",
+      "short_description": "Charlotte \"Charlie\" Emily was the daughter of Henry Emily, who was murdered by William Afton after she was locked out of Freddy Fazbear's Pizza, possibly turning her into Afton's first victim. Shortly after she was…"
+    },
+    {
+      "slug": "chica",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/1/10/ClassicChica_Infobox.png/revision/latest/scale-to-width-down/360?cb=20260510031724",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Chica_the_Chicken",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Chica",
+      "description": "Chica the Chicken is one of the four original animatronics of Freddy Fazbear's Pizza and a major antagonist in the Five Nights at Freddy's series.\n\nChica is an animatronic chicken and the backup singer in Freddy's band, positioned at the right side of the stage. Undisclosed to Fazbear Entertainment, Inc. and the public, Chica is possessed by the restless spirit of Susie – a little girl murdered by William Afton. Due to this, she and the others are now seeking revenge against their killer by attacking any adults in the pizzeria after-hours in blind rage.\n\nShe became the backup singer for the first Freddy Fazbear's Pizza, opened in 1983. In 1987, she and the original animatronics had all fallen into severe disrepair and Chica was replaced by her newer counterpart for the \"improved\" Freddy Fazbear's Pizza, Toy Chica. After the pizzeria's closing, she and the original animatronics were refurbished for the new pizzeria, as of the events of the first game. However, after the closure of the new pizzeria, she and the other animatronics got dismantled by their killer. Her soul, along with the others, was possibly set free, as evidenced by the Good ending. However, it is possible that it wasn't, as evidenced by both the Bad ending and Tangle having her parts and her eyes still glowing.\n\nChica is a bright yellow animatronic chicken with a spherically-shaped head, orange beak, magenta eyes, and black eyebrows. On the top of her head are three \"tufts\" of feathers. She has two talons from each of her orange feet. She wears a white bib that reads \"LET'S EAT!!!\" in yellow bubble letters, outlined in purple, with the bib flecked with tricolored triangles in patterns of three, and what appear to be tiny stylized pizza slices.",
+      "short_description": "Chica the Chicken is one of the four original animatronics of Freddy Fazbear's Pizza and a major antagonist in the Five Nights at Freddy's series."
+    },
+    {
+      "slug": "circus-baby",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/8/85/Circus_Baby_Full_Body.png/revision/latest/scale-to-width-down/360?cb=20260328135840",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Circus_Baby",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Circus Baby",
+      "description": "(commonly referred to as Baby) is a Funtime animatronic and the main mascot of Circus Baby's Pizza World invented by Afton Robotics, LLC, made for Fazbear Entertainment, Inc.\n\nBaby is haunted by the soul of Elizabeth Afton, who was the daughter of the serial killer William Afton. However, during the completion ending, Elizabeth's soul was presumably set free.\n\nAs Circus Baby, she is a very large female animatronic with an overall appearance reminiscent of a clown. She has auburn hair in high pigtails on either side of her head, held in place by blue hair elastics. She has bright green eyes, long, blue eyelashes, and short, blue eyebrows. The sides of her eyes are also covered in blue. Her mouth is opened in a wide smile, revealing small, flat endoskeleton teeth, framed by thin, red lips. Her cheeks are large, round, and red, and her squarish nose is red and slightly upturned and pointed. Her midsection is exposed, revealing a metal fan surrounded by an orange triangle with rounded points. Her limbs have silver segments in rectangular shapes, and her hands have red palms. The tips of her fingers, which appear to be ball-jointed, are not sealed, revealing shiny silver underneath, similar to the Springlock suits. Her knees have round, shiny, silver caps, and parts of her limbs have what appear to be blue pins sticking out of them. She wears a red crop top with frills on the shoulders, and a matching, frilly, red skirt (which was changed in design for Special Delivery). The toes of her matching red shoes are pointed and curled, white on the bottom, and topped off with shiny, gold orbs (possibly bells); these are the shoes worn by a jester. Under her skirt, she wears red and orange striped panties; this can only be seen through the error of one of her images in the game files. She holds an orange microphone with red accents in her left hand.\n\nLike all the animatronics in game, her body is made of segmented plates, which can move freely or in unison, with a few exceptions; some plates are static and \"float\". The only known plates that can move are her face and left arm.",
+      "short_description": "(commonly referred to as Baby) is a Funtime animatronic and the main mascot of Circus Baby's Pizza World invented by Afton Robotics, LLC, made for Fazbear Entertainment, Inc."
+    },
+    {
+      "slug": "circus-babys-entertainment-and-rental",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/b/b9/FNAFSL_CBE%26R_Layout.png/revision/latest/scale-to-width-down/360?cb=20161008162333",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Circus_Baby%27s_Entertainment_and_Rental",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Circus Baby's Entertainment and Rental",
+      "description": "is a robotics facility owned by Fazbear Entertainment, Inc., previously owned by Afton Robotics, LLC, as well as the primary location of Five Nights at Freddy's: Sister Location.\n\nThe location made a further appearance in Five Nights at Freddy's: Help Wanted, as a digital recreation within The Freddy Fazbear Virtual Experience. It is where the Ennard level in Vent Repair section takes place. The player goes back to the location to do emergency ventilation repair. The Dark Rooms: Funtime Foxy minigame also takes place in the facility, in Funtime Auditorium, where the player has to reach the Parts/Service room, whilst avoiding Funtime Foxy. In Blacklight mode, the player also must evade Lolbit.\n\nThe location reappears in Five Nights at Freddy's: Help Wanted 2, with the Funtimes acting as antagonists, including newer additions of animatronics, such as Funtime Chica, Helpy, and the PlushBabies.\n\n{|class=\"article-table\" align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"text-align:center;\"",
+      "short_description": "is a robotics facility owned by Fazbear Entertainment, Inc., previously owned by Afton Robotics, LLC, as well as the primary location of Five Nights at Freddy's: Sister Location."
+    },
+    {
+      "slug": "elizabeth-afton",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/1/11/ElizabethAftonWalk.gif/revision/latest/scale-to-width-down/360?cb=20240917175105",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Elizabeth_Afton",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Elizabeth Afton",
+      "description": "is a minor character and was the daughter of William Afton and the sister of Michael Afton, who trusted her father and held a deep fascination with his creations, especially Circus Baby, until the machine captured and killed her, which allowed Elizabeth to possess it.\n\nIn Circus Baby's Minigame, Elizabeth, a Caucasian little girl, makes her debut wearing a magenta puff-sleeved blouse with two black buttons, a blue skirt, black loafers with heel straps, and a red hair bow clipped into her hair. She also has shoulder-length blond-orange hair alongside blunt bangs with a split in the middle and large, bright emerald-green eyes.\n\nElizabeth Afton was a sweet, polite, shy, meek, and innocent little girl. Prior to her death, she had an apparent fascination with the animatronics, most notably Circus Baby. She has a child-like mentality, marveling at Circus Baby's ability to make ice cream and balloons, repeatedly asking her father to let her see Circus Baby, via using the excuse that the machine was seemingly made in her honor. Elizabeth is also shown to be disobedient in order to receive what she wants, as she disregarded her father's commands and went close to Baby without his knowledge. Elizabeth's interaction with Circus Baby seems to show that Elizabeth was shy and lonely, with a high sense of humility and gratitude, which resulted in her death, and the cancellation of the grand opening for Circus Baby's Pizza World.\n\n{| class=\"article-table\" align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"text-align:center;\"",
+      "short_description": "is a minor character and was the daughter of William Afton and the sister of Michael Afton, who trusted her father and held a deep fascination with his creations, especially Circus Baby, until the machine captured and…"
+    },
+    {
+      "slug": "ennard",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/6/69/EnnardsActualFullBodyRender.png/revision/latest/scale-to-width-down/360?cb=20251122164202",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Ennard",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Ennard",
+      "description": "is the twisted Amalgamation of the Funtime animatronics. He first appeared in Five Nights at Freddy's: Sister Location as the final antagonist.\n\nEnnard is made out of the five main animatronics in Circus Baby's Entertainment and Rental (Circus Baby, Ballora, Funtime Freddy, Bon-Bon, and Funtime Foxy), as well as the clown mask from the Primary Control Module (evident from its disappearance in Night 5). Ennard has a bulky yet noticeably humanoid build. He also has long, null teeth that are similar to Ballora's endoskeleton. His head shape, beside the mask, is taken from Ballora. Wires hang from his mouth, similar to the appearance of drool.\n\nEnnard has a few eyes attached to his body, each one belonging to one of the five core animatronics, except for Funtime Freddy, who has two eyes. In Five Nights at Freddy's: Help Wanted 2, Ennard's two \"primary\" eyes are now blue while the rest of his eyes are now yellow.\n\nA list of identified eyes are listed as follows:",
+      "short_description": "is the twisted Amalgamation of the Funtime animatronics. He first appeared in Five Nights at Freddy's: Sister Location as the final antagonist."
+    },
+    {
+      "slug": "fazbears-fright",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/8/8e/FazbearsFrightComingSoon.png/revision/latest/scale-to-width-down/360?cb=20150305203723",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Fazbear%27s_Fright:_The_Horror_Attraction",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Fazbear's Fright",
+      "description": "is the name of the location in which Five Nights at Freddy's 3 takes place. The attraction is a replica of the old Freddy Fazbear's Pizza located inside a local amusement park, meant to invoke, revive, and capitalize on the decades-old urban legends that surrounded the establishment. Outfitted with old animatronic parts and suits, as well as dim lighting and true-to-life decor, patrons would walk through the building like a haunted house, reliving the nightmare of 30 years ago.\n\nFazbear's Fright consists of a collection of hallways and the Office, along with several large vents. Any of these areas can be viewed by the use of the Monitor, which is located on the right side of The Office. The establishment also appears to be quite large and well funded, boasting 15 cameras which can view both the hallways and vents, not to mention multiple vintage animatronic heads and suits, including several seemingly-authentic remains from both the first and second game's pizzerias.\n\nIn the Office, there is a Maintenance Panel to the left, containing buttons to allow the player to reboot the Audio Devices, Camera System, and Ventilation. These are typically viewed whenever the player experiences an error, which is displayed next to the function in question.\n\n{|class=\"article-table\" align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"text-align:center;\"",
+      "short_description": "is the name of the location in which Five Nights at Freddy's 3 takes place. The attraction is a replica of the old Freddy Fazbear's Pizza located inside a local amusement park, meant to invoke, revive, and capitalize on…"
+    },
+    {
+      "slug": "fazbear-entertainment",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/5/53/FE_SOTM_logo.png/revision/latest/scale-to-width-down/360?cb=20260519181004",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Fazbear_Entertainment",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Fazbear Entertainment",
+      "description": "Fazbear Entertainment, LLC, formerly Inc. and abbreviated to FE, is the company that owns and runs the establishments (namely pizza and entertainment venues) that player characters are employed under in many of the baseline Five Nights at Freddy's games. The company was founded by Henry Emily and William Afton.\n\nOn the outside, they are a well-known and beloved children's brand, but on the inside, they are a negligent, lazy, and greedy corporation. They have knowledge of the dangers associated with their machines, but deliberately obscure this information and are responsible for many incidents over the years and also show very little concern if at all for their employees.\n\nNot much is known about the company before the 80s.\n\nIt is presumed that the company was founded around this decade (though certain collectibles and characters dialogue suggest it might go back as far as the 1960s) and created Fredbear's Singin' Show followed by Fredbear's Family Diner.",
+      "short_description": "Fazbear Entertainment, LLC, formerly Inc. and abbreviated to FE, is the company that owns and runs the establishments (namely pizza and entertainment venues) that player characters are employed under in many of the…"
+    },
+    {
+      "slug": "fnaf-3",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/f/fd/FNaF_3_Switch.jpg/revision/latest/scale-to-width-down/360?cb=20210405111619",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Five_Nights_at_Freddy%27s_3",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Five Nights at Freddy's 3",
+      "description": ", commonly abbreviated as FNaF3, is an independent point-and-click sit-and-survive horror game developed and published by Scottgames, LLC, which released on March 2, 2015, for Windows, as the third installment in the Five Nights at Freddy's series. The game was ported to Android on March 6, 2015, Amazon Fire OS on March 8, 2015, and iOS on March 11, 2015.\n\nScottgames would partner with Clickteam LLC in 2018 to deliver HD, improved \"remastered\" ports to mobile and consoles. The Xbox port would release on November 28, 2019, and the PlayStation and Nintendo Switch on November 29, 2019. The mobile updates would release on February 4, 2020. These ports/updates would fix bugs, remove copyrighted material, and add a subtitles and cheats menu.\n\nThirty years after Freddy Fazbear's Pizza closed its doors, the events that took place there have become nothing more than a rumor and a childhood memory, but the owners of \"Fazbear's Fright: The Horror Attraction\" are determined to revive the legend and make the experience as authentic as possible for patrons, going to great lengths to find anything that might have survived decades of neglect and ruin.\n\nAt first there were only empty shells, a hand, a hook, an old paper-plate doll, but then a remarkable discovery was made...",
+      "short_description": ", commonly abbreviated as FNaF3, is an independent point-and-click sit-and-survive horror game developed and published by Scottgames, LLC, which released on March 2, 2015, for Windows, as the third installment in the…"
+    },
+    {
+      "slug": "fnaf-4",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/5/55/FNaF_4_Switch.jpg/revision/latest/scale-to-width-down/360?cb=20210405111240",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Five_Nights_at_Freddy%27s_4",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Five Nights at Freddy's 4",
+      "description": ", originally named Five Nights at Freddy's 4: The Final Chapter during development and abbreviated as FNaF4, is an independent point-and-click sit-and-survive horror game developed and published by Scottgames, LLC, which released on July 23, 2015, for Windows, as the fourth installment in the Five Nights at Freddy's series. The game was ported to Android on July 25, 2015, Amazon Fire OS on July 26, 2015, and iOS on August 3, 2015.\n\nScottgames would partner with Clickteam LLC in 2018 to deliver HD remastered ports to all major consoles and update the mobile ports. The Xbox port would release on November 28, 2019, and on the PlayStation and Nintendo Switch on November 29, 2019. The mobile updates were released on January 16, 2020, for Android and iOS. These ports/updates would fix bugs, remove copyrighted material, and add a subtitles and cheats menu.\n\nThis time, the terror has followed you home.\n\nIn this last chapter of the Five Nights at Freddy's original story, you must once again defend yourself against Freddy Fazbear, Chica, Bonnie, Foxy, and even worse things that lurk in the shadows. Playing as a child whose role is yet unknown, you must safeguard yourself until 6am by watching the doors, as well as warding off unwanted creatures that may venture into your closet or onto the bed behind you.",
+      "short_description": ", originally named Five Nights at Freddy's 4: The Final Chapter during development and abbreviated as FNaF4, is an independent point-and-click sit-and-survive horror game developed and published by Scottgames, LLC,…"
+    },
+    {
+      "slug": "help-wanted",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/f/ff/HelpWanted_SwitchKeyArt.jpg/revision/latest/scale-to-width-down/360?cb=20250120215221",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Five_Nights_at_Freddy%27s:_Help_Wanted",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Five Nights at Freddy's: Help Wanted",
+      "description": ", commonly abbreviated to FNaF: HW and also known as Five Nights at Freddy's VR or FNaF VR, is an independent sit-and-survive action horror game developed by Steel Wool Studios, Inc. and published by Scottgames, LLC, which released on May 28, 2019, for SteamVR, PlayStation VR, Oculus Rift, and HTC Vive, as the eighth installment in the Five Nights at Freddy's series. A non-VR mode was released on December 17, 2019, for Windows and PlayStation 4.\n\nHelp Wanted later got ported to Nintendo Switch on May 21, 2020, Meta Quest on July 16, 2020, and Xbox One on October 30, 2020. Now-delisted Android and iOS ports were released on October 26, 2020, though they lacked a lot of content from the game and added a hidden minigame, called Princess Quest. PICO VR systems would receive a port in 2023, which was followed by an enhanced edition on November 21, 2023, ported by Pingle Studio, Ltd., under the subtitle Full Time Edition, for the PlayStation 5 and PlayStation VR2.\n\nA sequel, Five Nights at Freddy's: Help Wanted 2, was released on December 14, 2023.\n\nFive Nights at Freddy's: Help Wanted is a collection of classic and original mini-games set in the Five Nights universe. Survive terrifying encounters with your favorite killer animatronics in a collection of new and classic FIVE NIGHTS AT FREDDY'S™ experiences. \"Where fantasy and fun come to life!\"",
+      "short_description": ", commonly abbreviated to FNaF: HW and also known as Five Nights at Freddy's VR or FNaF VR, is an independent sit-and-survive action horror game developed by Steel Wool Studios, Inc. and published by Scottgames, LLC,…"
+    },
+    {
+      "slug": "security-breach",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/1/1c/SecurityBreach_SwitchKeyArt.jpg/revision/latest/scale-to-width-down/360?cb=20250120215222",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Five_Nights_at_Freddy%27s:_Security_Breach",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Five Nights at Freddy's: Security Breach",
+      "description": ", commonly abbreviated to FNaF: SB, is an independent free-roam survival horror game developed by Steel Wool Studios, Inc. and published by Scottgames, LLC, which released on December 16, 2021, for Windows and PlayStation, as the ninth installment in the Five Nights at Freddy's series. The game was ported to Google Stadia on July 1, 2022, Xbox on November 22, 2022, and, with the help of Pingle Studio, Ltd., Nintendo Switch on April 19, 2023.\n\nFive Nights at Freddy's: Security Breach is the latest installment of the family-friendly horror games loved by millions of players from all over the globe. Play as Gregory, a young boy trapped overnight in Freddy Fazbear's Mega Pizzaplex. With the help of Freddy Fazbear, Gregory must survive the near-unstoppable hunt of reimagined Five Nights at Freddy's characters - as well as new, horrific threats.\n\nTHE HUNTERS AND THE HUNTED - Once nighttime protocols are initiated, the animatronics at Freddy Fazbear's Mega Pizzaplex will relentlessly pursue all intruders. Glamrock Chica, Roxanne Wolf, Montgomery Gator, and the Pizzaplex's security guard, Vanessa, will turn over every Cotton Candy Pizza Stand if they have to - it's not wise to stay in one place for too long.\n\nADAPT TO SURVIVE - Access the building's security cameras to survey the environment and plan your route through danger. Distract enemies by knocking over paint cans and toys - just slip away before enemies are drawn to your location. Hop into hiding spots and allow danger to pass, or try to outrun your pursuers. Play your way, but be prepared to adapt.",
+      "short_description": ", commonly abbreviated to FNaF: SB, is an independent free-roam survival horror game developed by Steel Wool Studios, Inc. and published by Scottgames, LLC, which released on December 16, 2021, for Windows and…"
+    },
+    {
+      "slug": "freddy-fazbear",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/b/b5/Freddy_Fazbear_Render.png/revision/latest/scale-to-width-down/360?cb=20251105172837",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Freddy_Fazbear",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Freddy Fazbear",
+      "description": "is the titular antagonist of the Five Nights at Freddy's series and the main of the four original animatronics of Freddy Fazbear's Pizza.\n\nFreddy is an animatronic bear and the star attraction of the original Freddy Fazbear's Pizza opened in 1983, as well as the face and namesake of the company that owns it—Fazbear Entertainment. Freddy takes the role of lead singer and overall performer of the band, standing in the center of the stage. Undisclosed to Fazbear Entertainment and the public, Freddy is heavily implied to be possessed by the restless spirit of Gabriel – a little boy murdered by William Afton. Due to this, Freddy and his likewise possessed bandmates are now seeking revenge against their common killer by attacking any similar-looking adults in the pizzeria after hours in a blind rage, not knowing that they, the children, are being manipulated by William Afton. However, Freddy is evidently friendly towards children and seeks to save his and his friends' own souls as well as any other children targeted by William Afton.\n\nIt is heavily implied that prior to Freddy Fazbear's Pizza, Freddy had already existed as a singing bear character for many years, if not decades.\n\nFollowing the events of the The Missing Children Incident, in which Gabriel was murdered and heavily implied to be stuffed into Freddy, the animatronic bear soon began to exude a disturbing rotten smell, which added to Fazbear Entertainment's bad reputation caused by the Missing Children Incident. Because of the unsanitary condition of Freddy and his bandmates, who also had missing children's bodies stuffed inside of them, the original Freddy Fazbear's Pizza became involved in legal troubles regarding sanitation, which Fazbear Entertainment failed to resolve. Due to this and a lack of customers, the restaurant was closed down and \"left to rot\" by the end of 1985, which is presumably, and heavily implied to be, when the Missing Children's Incident took place.",
+      "short_description": "is the titular antagonist of the Five Nights at Freddy's series and the main of the four original animatronics of Freddy Fazbear's Pizza."
+    },
+    {
+      "slug": "mega-pizzaplex",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/f/fd/Mega_Pizzaplex_logo_no_bg_%28credit_to_Under_Score%29.png/revision/latest/scale-to-width-down/360?cb=20250322094238",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Freddy_Fazbear%27s_Mega_Pizzaplex",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Freddy Fazbear's Mega Pizzaplex",
+      "description": "is an entertainment complex owned by Fazbear Entertainment LLC, as well as the primary location of Five Nights at Freddy's: Security Breach.\n\nThe pizzeria's main mascot is Glamrock Freddy from the glamrock band, which also includes Glamrock Chica, Montgomery Gator and Roxanne Wolf. The pizzeria also houses the S.T.A.F.F. Bots and Caution Bots, as well as the Daycare Attendant and DJ Music Man.\n\nThe RUIN DLC takes place some time after Security Breach, inside the now abandoned and dilapidated Pizzaplex.\n\n{|class=\"article-table\" align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"text-align:center;\"",
+      "short_description": "is an entertainment complex owned by Fazbear Entertainment LLC, as well as the primary location of Five Nights at Freddy's: Security Breach."
+    },
+    {
+      "slug": "freddy-fazbears-pizza",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/d/dd/Freddy_Fazbear_Pizzeria_Logo.png/revision/latest/scale-to-width-down/360?cb=20230203120939",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Freddy_Fazbear%27s_Pizza",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Freddy Fazbear's Pizza",
+      "description": "Freddy's was a family restaurant owned by Fazbear Entertainment Inc. and established in 1983, reminiscent of ShowBiz Pizza Place and Chuck E. Cheese's, in that Freddy Fazbear's Pizza provided entertainment via singing animatronic mascots and arcade games. The restaurant opened shortly before the closure of its predecessor, Fredbear's Family Diner, and remained in operation for, presumably, about a decade in total, until Fazbear Entertianment Inc. was forced to file for bankruptcy.\n\nThe primary mascot and figurehead of Freddy Fazbear's Pizza is Freddy Fazbear himself, accompanied by his bandmates, namely Bonnie and Chica, both of whom are normally stationed on the Show Stage on either side of their leader. There is also a secondary character named Foxy, who remained decommissioned behind his curtain in Pirate Cove for most of the pizzeria's operation years.\n\nDuring the night, Freddy and the other animatronics would come alive and wander the dark restaurant halls in search of adults to kill. This is due to them having been haunted by the vengeful and scared spirits of five children kidnapped and murdered by William Afton— a serial killer otherwise known as the Purple Guy. The tortured spirits of the Missing Children remained trapped inside the animatronics for several decades until being set free in the event known as the Happiest Day, which took place at some point after the Good Ending of Five Nights at Freddy's 3 and the Completion Ending of Freddy Fazbear's Pizzeria Simulator.\n\n{|class=\"article-table\" align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"text-align:center;\"",
+      "short_description": "Freddy's was a family restaurant owned by Fazbear Entertainment Inc. and established in 1983, reminiscent of ShowBiz Pizza Place and Chuck E. Cheese's, in that Freddy Fazbear's Pizza provided entertainment via singing…"
+    },
+    {
+      "slug": "pizzeria-simulator",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/3/38/FFPS_Switch.jpg/revision/latest/scale-to-width-down/360?cb=20210405111047",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Freddy_Fazbear%27s_Pizzeria_Simulator",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Freddy Fazbear's Pizzeria Simulator",
+      "description": ", commonly abbreviated to FFPS and also known as FNaF 6: Pizzeria Simulator, is an independent point-and-click sit-and-survive horror game developed and published by Scottgames, LLC, which released on December 4, 2017, for Windows, and is the sixth installment of the Five Nights at Freddy's series.\n\nScottgames would partner with Clickteam LLC in 2018 to deliver HD, improved \"remastered\" ports mobile and consoles. The Android and iOS ports released on August 13, 2019, Xbox on October 30, 2020, on Nintendo Switch on October 31, 2020, and PlayStation on March 31, 2021. These ports would fix bugs, remove copyrighted material, and add a subtitles and cheats menu.\n\nStart your own Freddy Fazbear's Pizzeria with Freddy Fazbear Pizzeria Simulator!\n\nPresenting a fun Five Nights at Freddy's adventure with a lighter touch for the holidays, Freddy Fazbear's Pizzeria Simulator puts you in charge of developing your own restaurant! Design pizzas, feed kids, and get high scores!",
+      "short_description": ", commonly abbreviated to FFPS and also known as FNaF 6: Pizzeria Simulator, is an independent point-and-click sit-and-survive horror game developed and published by Scottgames, LLC, which released on December 4, 2017,…"
+    },
+    {
+      "slug": "funtime-freddy",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/2/2f/Funtime_Freddy_Full_Body.png/revision/latest/scale-to-width-down/360?cb=20260328135840",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Funtime_Freddy",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Funtime Freddy",
+      "description": "is a Funtime animatronic and major antagonist who first appeared in Five Nights at Freddy's: Sister Location as the titular antagonist. He is a circus-themed version of Freddy Fazbear. He is also one of the entertainers from the Funtime Auditorium, which is located from the east of Circus Baby's Entertainment and Rental (despite never appearing there), the others being Bon-Bon and Funtime Foxy.\n\nFuntime Freddy's design is very similar to Withered Freddy from the second game with a metal suit, blue eyes, thinner eyebrows, wearing a top hat with a purple stripe (similar to Toy Freddy's hat), a black bowtie, and two black buttons on his chest, as well as a set of human-like teeth. His head appears to be squarish and less bulky than Withered Freddy's version from Five Nights at Freddy's 2, but not as round as Freddy Fazbear's in Five Nights at Freddy's. He is a white and purple bear animatronic, far different from his counterparts. The light-purple color is featured on his muzzle, stomach, shoulders, elbows, knees, insides of his ears, cheeks, eye-sockets, a stripe from his top hat, thighs, knuckles from his left hand, and the top areas from both feet. His left hand has five fingers and holds a microphone with a purple handle. He does not have a right hand, his right arm ending instead in Bon-Bon like a hand-puppet. Like Funtime Foxy, Funtime Chica, and Music Man, he sports a circular speaker located under his bowtie.\n\nLike other animatronics from the game, outside of Funtime Freddy's endoskeleton head are metallic \"face-plates\" that form his actual face. His endoskeleton face is much flatter with the muzzle and jaw being less wider than the \"suit\" head itself. There is also a gray, speaker-like circle printed on the middle of the endoskeleton chest. Funtime Freddy stands at a height of 6'0\" tall and weighs 350 lbs.\n\nIn Five Nights at Freddy's: Help Wanted, Funtime Freddy's design remains nearly identical, and is mostly unchanged save for some added details like small paint chips.",
+      "short_description": "is a Funtime animatronic and major antagonist who first appeared in Five Nights at Freddy's: Sister Location as the titular antagonist. He is a circus-themed version of Freddy Fazbear. He is also one of the entertainers…"
+    },
+    {
+      "slug": "glamrock-chica",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/6/65/Glamrock_Chica_HW2_Gallery.png/revision/latest/scale-to-width-down/360?cb=20240101130826",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Glamrock_Chica",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Glamrock Chica",
+      "description": "is the glamrock counterpart of Chica who appears in Five Nights at Freddy's: Security Breach and its DLC expansion RUIN as a recurring antagonist. She is the guitarist of the glamrock band who gets crushed with a trash compactor by Gregory and her voice box removed for Glamrock Freddy.\n\nGlamrock Chica is a tall and slim white chicken with purple eyes. Her beak and talons are orange. She has three stray \"feathers\" that stick out from the top of her head. Her face is painted to look like she has 1980s makeup on, with purple eyelids, hot pink lipstick, black mascara and pink eyeshadow on her right eye. Much like her toy and funtime counterparts, Glamrock Chica's body is noticeably curvy, instead of round like the original. Her body is segmented at the joints, with ball-jointed arms and legs. Similarly to the Funtime Animatronics, small panels can be found all over her body, mainly on her waist and upper arms.\n\nLike the other Glamrock Animatronics, she is dressed in 1980s-era clothing. Her chest, waist, hip and shoulder pieces are pink and purple, meant to resemble a 80s theme short-sleeve pink leotard. She wears black spiked bracelets on each arm, as well as a pair of lime green fingerless gloves. Her lower legs are painted to resemble 80s theme leg warmers, with her left leg a lime green leopard print and her right leg a pink tiger print. She wears a pink hair bow and lime green triangle earrings.\n\nLike Montgomery Gator, Glamrock Chica holds a star-shaped guitar, her's being colored blue, white, and hot pink.",
+      "short_description": "is the glamrock counterpart of Chica who appears in Five Nights at Freddy's: Security Breach and its DLC expansion RUIN as a recurring antagonist. She is the guitarist of the glamrock band who gets crushed with a trash…"
+    },
+    {
+      "slug": "glamrock-freddy",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/5/5e/Glamrock_Freddy_HW2_Gallery.png/revision/latest/scale-to-width-down/360?cb=20240101102101",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Glamrock_Freddy",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Glamrock Freddy",
+      "description": "Not what you were looking for? See Freddy (disambiguation) or his prototype version from RUIN, Prototype Glamrock Freddy.\n\n, also known simply as Freddy Fazbear, is Freddy Fazbear's glamrock counterpart who appears in Five Nights at Freddy's: Security Breach as the titular deuteragonist and ally to Gregory. He is the leader and mascot of Freddy Fazbear's Mega Pizzaplex who is the only animatronic to not be corrupted by Vanny's power after shutting down in the middle of a performance. Unlike his counterparts, Glamrock Freddy actively assists and protects Gregory.\n\nGlamrock Freddy is based on the original Freddy Fazbear, with a punk-themed design reminiscent of the style associated with the 1980's. His design somewhat resembles that of a jaguar or a lion more than a bear. He wears a top hat adorned with a blue stripe and a black bow tie. His body is primarily colored a bright orange or lighter yellow. His torso has a distinctive seam across the front where his chest compartment opens up. He is equipped with a pair of fangs, as well as light-blue claw nails and red shins. He wears large, red shoulder pauldrons, spiked bracelets, a red earring in his left ear, and face paint in a similar style to the members of rock bands (such as the Kiss band) with light-blue and red colors. Unlike his previous counterparts, his microphone comes with a stand.\n\nThroughout the course of the game, Glamrock Freddy becomes dirty and develops cracks all over his body, however, despite this, he is the least shattered out of the glamrocks and is still in good shape. His bow tie is replaced with a purple bow tie when upgraded with Glamrock Chica's voice box, his eyes become yellow when they're replaced with Roxanne Wolf's, and finally, his hands become purple with green fingers possessing powerful black claws when they're replaced with Montgomery Gator's.",
+      "short_description": "Not what you were looking for? See Freddy (disambiguation) or his prototype version from RUIN, Prototype Glamrock Freddy."
+    },
+    {
+      "slug": "glitchtrap",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/c/c1/GlitchtrapSWRender_%28no_bg%29.png/revision/latest/scale-to-width-down/360?cb=20250618003031",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Glitchtrap",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Glitchtrap",
+      "description": "Glitchtrap, known in game as The Anomaly, is a secondary antagonist of the Steel Wool series of the Five Nights at Freddy's franchise. It is the main antagonist of the Five Nights at Freddy's: Help Wanted duology, as well as the overarching antagonist of Five Nights at Freddy's: Security Breach.\n\nGlitchtrap takes on the form of a person wearing a Spring Bonnie costume - who is a grinning, bipedal, golden-yellow rabbit. He wears a purple star-speckled vest, a purple bow tie, and two black buttons near the top of their chest. He also has stitches stretching across his waving hand. He initially appears translucent, progressing into a less-spectral form over time.\n\nHe also possesses vivid purple eyes with small pupils, which are the first thing visible when he starts to appear to the player's right. In Blacklight Mode, His eyes will turn blue with white, circular pupils. He also have large whiskers on each side of his face, three eyelashes on both of his eyes, and large arching eyebrows.\n\nGlitchtrap's personality remains enigmatic and largely unknown. He is almost entirely silent, with his sole voice line being \"I always come back. Let me out.\" as heard in the Princess Quest minigame. However, judging by his mannerisms in Help Wanted's Pizza Party minigame, he's seemingly very sadistic as evidenced by him dancing around the lobby in Help Wanted after stuffing the player inside a Freddy suit. He also influences Vanessa into looking up various torture methods such as the blood eagle and making her purchase thumbscrews.",
+      "short_description": "Glitchtrap, known in game as The Anomaly, is a secondary antagonist of the Steel Wool series of the Five Nights at Freddy's franchise. It is the main antagonist of the Five Nights at Freddy's: Help Wanted duology, as…"
+    },
+    {
+      "slug": "golden-freddy",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/9/99/YellowBear.png/revision/latest/scale-to-width-down/360?cb=20160508161323",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Golden_Freddy",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Golden Freddy",
+      "description": ", previously known by the filename, Yellow Bear, is a mysterious and ghost-like entity who takes on the form of a yellow animatronic bear. He plays a prominent role in the Five Nights at Freddy's series, although his origins are cryptic and unknown.\n\nUndisclosed to Fazbear Entertainment, Inc. and to the public, Golden Freddy, along with the four original animatronics are possessed by children murdered by a man named William Afton. Due to this, he and the others are now seeking revenge against their killer by attacking any adults in the pizzeria after-hours in blind rage. Despite the good ending presumably showing his soul to be set free, it's speculated that his spirit refuses.\n\nGolden Freddy appears to be a cross between Freddy Fazbear and Fredbear with missing eyes. In the first game, he sports a black bowtie and top hat similar to Freddy, and upon closer inspection a microphone can be seen lying on his right palm, as well as two pinprick white dot-like pupils within his otherwise empty eye sockets. He sits in a slouched position as if he were deceased, with his jaw hanging open and his paws facing palms up. Despite popular belief, he has an endoskeleton that can be easily seen by looking at the arms. If one looks at the arms, a few wires and parts of the endoskeleton are visible, which share the same coloration as his accessories, though this may just be cords holding together the separate pieces of his suit.\n\nIn the second game, Golden Freddy now takes a form mimicking Withered Freddy's appearance as a unique model of his own. He appears to be in a decrepit state, much like the other withered animatronics, with a missing left ear, and a good deal of damage with loose wires and exposed parts. Also, similar to the other withered animatronics, he now has upper teeth, wires are coming out of his empty sockets and shoulders, and small bits of the suit are faded and ripped. His arms and legs seem darker than the rest of his body, and his head is noticeably thinner than Withered Freddy's. He seems to be more visibly clutching his microphone rather than having it lay on his palm. Unlike his form in the first game, he seems much shorter, his pupils are not visible (as he does not seem to have eyes at all), and he appears to have no bow tie, though his lower jaw may be blocking it from view. If one looks closely, he has a black button on his chest, similar to Withered Freddy. In addition, his head seems to be tilting to the left rather than to the right.",
+      "short_description": ", previously known by the filename, Yellow Bear, is a mysterious and ghost-like entity who takes on the form of a yellow animatronic bear. He plays a prominent role in the Five Nights at Freddy's series, although his…"
+    },
+    {
+      "slug": "gregory",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/4/47/Gregory-No-Background.webp/revision/latest/scale-to-width-down/360?cb=20220321132829",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Gregory",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Gregory",
+      "description": "is the main protagonist of Five Nights at Freddy's: Security Breach and a major character of its DLC expansion RUIN.\n\nGregory is a small, thin child with apricot skin, messy brown hair and brown eyes. He has bandages on both his right cheek and his left knee. He wears a blue polo shirt with a pale blue collar and two white stripes positioned horizontally across his chest (as seen in the poster). He also wears a white shirt underneath his shirt. He wears tan cargo shorts that go down to his knees. For footwear, he wears white socks as well as white, red and cyan-colored sneakers with dark grey soles.\n\nGregory is an irritated and outspoken kid. Usually, whenever he gets slightly annoyed or angry, like when he got a \"crappy\" or \"stupid\" item or realized he had five more hours to survive, he openly makes a comment to showcase his rage. Likewise, he will immediately complain to anyone if he dislikes something they're doing, such as when he told Glamrock Freddy to shut up in a slightly aggressive tone. On the other hand, he is cautious to the point that he appears to be distrustful. In his quest to leave Freddy Fazbear's Mega Pizzaplex before closure, he prefers to hide from Vanessa instead of accepting her help, as he is doubtful of her intentions in spite of her position as a security guard and Glamrock Freddy's prompt to trust her. Gregory also has some artistic talent, as seen when Cassie collects some of his comics.\n\nGregory is a brave kid, as rather than just endlessly escaping from the Glamrock animatronics with Glamrock Freddy's help, he resolves to confront them in order to collect their improved features. In doing so, he also demonstrates to be quite pragmatic, as he figures out ways in which he can use the environment and objects at his disposal to his advantage to achieve his goals. He is somewhat resentful, as he expresses no remorse when proposing the idea to disable the animatronics to Glamrock Freddy, and refers to it as \"what they deserve\" due to their constant attempts to capture him, even after Glamrock Freddy suggests that their current behavior was the result of an external agent. He seemingly also has few qualms with committing acts of extreme violence should he feel the need to, commanding Vanny's own S.T.A.F.F. bots to brutally murder her with little hesitation once backed into a corner by the latter, though he is visibly horrified as he watches her die. As intrepid as he can be, he nonetheless isn't without fear, as he is shown to be quite afraid of Vanny.",
+      "short_description": "is the main protagonist of Five Nights at Freddy's: Security Breach and a major character of its DLC expansion RUIN."
+    },
+    {
+      "slug": "henry-emily",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/4/49/HenryEmilyImage1.png/revision/latest/scale-to-width-down/360?cb=20250524014441",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Henry_Emily",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Henry Emily",
+      "description": ", known in-game as \"Cassette Man\" and Hen, is a pivotal yet unseen character in the Five Nights at Freddy's series.\n\nHe was a co-founder of Fazbear Entertainment, as well as an engineer responsible for building some of the animatronics. In Freddy Fazbear's Pizzeria Simulator, he guides the franchisee in the salvaging process through a cassette player with tips on how to deal with the possessed animatronics while filling out the salvage report.\n\nAccording to LadyFiszi's drawing, Henry used to have dirty blond hair and a chinstrap beard. He wore glasses, an orange flannel shirt, blue jean overalls and brown shoes. It's yet to be revealed what his current appearance is in his later years.\n\nAt first glance, Henry Emily may seem to be rather soft-spoken, stoic, and near emotionless. However, as heard in his monologues, Henry is, deep down, a severely broken man drowned in his own guilt and remorse. He immensely regretted trusting his best friend and business partner William Afton, as doing so unknowingly allowed him to kill a number of innocent children, one of which was his own daughter, Charlotte. It is shown that he deeply missed her and displayed immense regret and emotional agony at being unable to save her, claiming that his loss and pain ultimately bled out to cause the things Afton committed. All of these factors drove Henry to the point where he wanted to commit suicide out of regret. However, it appears that he has a strong will, as he refused to die until he killed his friend, and took his vengeance upon the monster who took everything from him. He also feels the need to help the remaining souls of the children pass on to the afterlife. In the end, when his plan came into fruition, he showed no care for his life, as he burned with the rest of the animatronics, feeling happy in the belief that the nightmare would finally end, Henry would be with his daughter in the afterlife, and William would be sent to the depths of hell where he belongs. Despite having these seemingly good intentions, he is also willing to take drastic measures to achieve his goals and even admits that he was partially responsible for William being able to commit great evil and he didn't do anything about it. He expresses disappointment in the bad ending of Freddy Fazbear's Pizzeria Simulator, as evident by his tone of voice, indicating that he does not take failure well, especially when it concerns resolving dire situations.",
+      "short_description": ", known in-game as \"Cassette Man\" and Hen, is a pivotal yet unseen character in the Five Nights at Freddy's series."
+    },
+    {
+      "slug": "michael-afton",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/e/eb/Eggs_Benedict_Silhouette.png/revision/latest/scale-to-width-down/360?cb=20161010223506",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Michael_Afton",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Michael Afton",
+      "description": "(also nicknamed as \"Eggs Benedict\" by the HandUnit) is the main protagonist of Five Nights at Freddy's: Sister Location. He is also the eldest son of Fazbear Entertainment's co-founder and serial killer William Afton, and the older brother of Elizabeth Afton.\n\nAs seen from the Real Ending, the reflection of a simple, black silhouette in a dirty mirror is all that can be seen. In the Custom Night minigames, it's shown that he has a fairly light skin tone, darkish brown hair that seems to be combed over, and blue eyes. He also wears a purple long sleeved-shirt, blue pants, and brown shoes.\n\nLike his father William, he appears to have a elongated smile, although it appears more friendly and warm, rather than his father's sadistic and unnerving smile.\n\nAfter being reanimated and becoming a living corpse, he appears to be physically dark purple, due to his skin rotting. He also seems to have lost his nose, hair, and almost all of his bottom and front teeth. His eyeballs seem to be missing from his now dark and empty sockets. The only sign of life from them is the two small white illuminating pupils, similar to the ones the animatronics sometimes possess.",
+      "short_description": "(also nicknamed as \"Eggs Benedict\" by the HandUnit) is the main protagonist of Five Nights at Freddy's: Sister Location. He is also the eldest son of Fazbear Entertainment's co-founder and serial killer William Afton,…"
+    },
+    {
+      "slug": "mike-schmidt",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/a/a5/5NAF.png/revision/latest/scale-to-width-down/360?cb=20140912021724",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Mike_Schmidt",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Mike Schmidt",
+      "description": "is the main protagonist of the first Five Nights at Freddy's game. He was a security guard employed by Freddy Fazbear's Pizza, working on a 7-night shift from midnight to 6 AM, until he was eventually fired after tampering with the animatronics. The game is played in the first-person perspective, through his eyes.\n\nThere is no possible way to see Mike's physical appearance in most of the game, as the player is forced to stay in the first-person view for its entirety except for in the Game Over screen, in which Mike can be seen stuffed into a Freddy Fazbear suit with his blue eyes and teeth visible inside of it.\n\nLittle is known about Mike's character. The reason he would continue to work at a failing pizzeria with a high risk of death for pay at minimum wage is unknown and could possibly be attributed to either altruism, desperation, or thrill-seeking on his part. Considering Freddy's \"Toreador March\" is one of the main themes of the game and that it deals with thrill-seeking, the latter is somewhat more likely. Notably, he seems to be a competent technician, being able to tamper with the animatronics.\n\nDespite the low pay and clear danger, Mike continues his job every night for the rest of the week for unknown reasons. At the end of Night 5, Mike Schmidt receives a check for $120.",
+      "short_description": "is the main protagonist of the first Five Nights at Freddy's game. He was a security guard employed by Freddy Fazbear's Pizza, working on a 7-night shift from midnight to 6 AM, until he was eventually fired after…"
+    },
+    {
+      "slug": "missing-children-incident",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/6/62/Missing_children_poster_clean.png/revision/latest/scale-to-width-down/360?cb=20140914064149",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/The_Missing_Children_Incident",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Missing Children Incident",
+      "description": ", or MCI for short, was an event that occurred at a Freddy Fazbear's Pizza location in June 1985 where a series of murders committed by William Afton took place. In the first game, the incident was mentioned in newspaper clippings occasionally seen replacing the \"Rules for Safety\" sign, normally appearing in the East Hall.\n\nDuring June 26, long before the events of the first and second games and after the events of the fourth game, a total of five children presumably named Gabriel, Jeremy, Susie, Fritz, and Cassidy went missing at the pizzeria. Police suspected that a man dressed up in a costume resembling one of the animatronics, as implied on Night 6's phone call in the second game and lured them to a hidden room where they were murdered.\n\nThe four mascots - Freddy Fazbear, Bonnie the Rabbit , Chica the Chicken, and Foxy the Pirate - had foul odors and what appeared to be \"blood and mucus\" around their eyes and mouths, which concerned parents and legal guardians, and it was interpreted as \"reanimated carcasses.\" Based on Ralph's remarks in his Night 1 message from the first game, the animatronics hadn't been cleaned in their twenty-ish years of service, which would explain the stench. It could also be attributed to the fact that the missing children were stuffed into the animatronic suits along with the endoskeletons after they were killed, and their decomposing bodies produced the disgusting smell. Allegedly, due to the risk of their servos locking up from non-use, the animatronics were left in a \"free-roaming mode\" at night over the years. They used to be able to roam freely during the day as well, but the Bite of '87 caused the pizzeria's parent company to put a stop to this.\n\n;Kids vanish at local pizzeria - bodies not found.",
+      "short_description": ", or MCI for short, was an event that occurred at a Freddy Fazbear's Pizza location in June 1985 where a series of murders committed by William Afton took place. In the first game, the incident was mentioned in…"
+    },
+    {
+      "slug": "montgomery-gator",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/9/94/Monty_HW2_Gallery.png/revision/latest/scale-to-width-down/360?cb=20240101131241",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Montgomery_Gator",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Montgomery Gator",
+      "description": ", also known as Monty, is a glamrock animatronic who appears in Five Nights at Freddy's: Security Breach and RUIN as a major antagonist. He is the bassist of the Glamrock band, having replaced Glamrock Bonnie, before getting dropped from the catwalks above his attraction by Gregory and having his claws removed for Glamrock Freddy.\n\nMontgomery Gator is an alligator animatronic. He sports pointy teeth, black claws, a red Mohawk, green scale-textured pants, black spots on his arms and cheeks, and a yellow color for the belly and lower jaw. He has the same seam on the front of his torso where Glamrock Freddy's chest compartment would open. He has a long tail that runs in five green and yellow segments with each segment having spots and bumps resembling an alligator's [https://en.wikipedia.org/wiki/Scute scutes]. His eyelids, a lightning-like paint on the muzzle, his feet, and hands (excluding the fingertips) are purple. He wears black spiked bracelets on each arm, yellow star-shaped sunglasses, and purple shoulder pauldrons.\n\nAfter being thrown down from the catwalks in Monty's Gator Golf, he becomes heavily damaged. His jaw is dislocated from his face with one of his teeth turning red. His left arm is completely missing his entire outer shell, including the spare parts on both his hands due to it being taken by Gregory, is gone. He has a huge hole in his chest, exposing his endoskeleton underneath. From his hips downward, his legs are separated from his entire upper body. This forces him to crawl around with his hands instead of walking.\n\nFollowing the events of Security Breach, Montgomery Gator has been stripped to nothing but a rusty, warped endoskeleton. The only remnant of his once-cartoonish exterior is his matted mohawk hairdo, now only a few ragged strands of red hair stuck onto a piece of metal attached to his head. He has lost his left eye as well, leaving a red LED light in its place. He also has a long wire going out from his lower body, resembling a tail of sorts.",
+      "short_description": ", also known as Monty, is a glamrock animatronic who appears in Five Nights at Freddy's: Security Breach and RUIN as a major antagonist. He is the bassist of the Glamrock band, having replaced Glamrock Bonnie, before…"
+    },
+    {
+      "slug": "phone-guy",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/6/67/PhoneGuy_UCN.png/revision/latest?cb=20240911155738",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Ralph",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Phone Guy",
+      "description": ", better known as Phone Guy, is a supporting character in the Five Nights at Freddy's series and the deuteragonist of Five Nights at Freddy's as well as its sequel game . He was an employee who worked for the establishment Fazbear Entertainment, Inc..\n\nIt was once disputed among players if Ralph was actually an ally, however it was later revealed that his tendency to downplay the situation comes from a blind loyalty to Fazbear Entertainment and a deep love of children's entertainment. When he himself began living through the dangerous situations, he recorded a final set of messages with hints for survival so the company would not delete his warnings.\n\nIn the first game, Ralph is somewhat nonchalant, with no official explanation as to why. Throughout the game, he does his best to inform the player that there's \"nothing to worry about,\" despite the obvious danger of being caught by the animatronics. It is unknown if he is obligated to lie to the guards, or if he is simply trying to make Mike feel better.\n\nHe seems to be very hesitant and awkward at times, often stuttering and laughing nervously, implying that he might be worried about the possibility of someone hearing his warnings and advice regarding the animatronics. Of course, it is also likely that he is generally anxious and on edge due to the thought of imminent danger on his conscience.",
+      "short_description": ", better known as Phone Guy, is a supporting character in the Five Nights at Freddy's series and the deuteragonist of Five Nights at Freddy's as well as its sequel game . He was an employee who worked for the…"
+    },
+    {
+      "slug": "remnant",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/e/e1/Alpine_ui_reward_remnant.png/revision/latest/scale-to-width-down/360?cb=20200716040426",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Remnant",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Remnant",
+      "description": "is a key object in the Five Nights at Freddy's series. Remnant is the term for the physical manifestation of memories infused with and possessing inanimate objects, making it a driving force behind the paranormal occurrences in the animatronics besides the spirits themselves. Remnant is often refered to as \"haunted metal\" due to it being a good conductor of the spiritual energy.\n\nRemnant also appears as a collectible in Five Nights at Freddy's AR: Special Delivery.\n\nIn Five Nights at Freddy's AR: Special Delivery, Remnant appears as a bright shimmering orb of light resembling a star.\n\nWhen metal containing Remnant is melted down, it resembles bubbling liquid mercury.",
+      "short_description": "is a key object in the Five Nights at Freddy's series. Remnant is the term for the physical manifestation of memories infused with and possessing inanimate objects, making it a driving force behind the paranormal…"
+    },
+    {
+      "slug": "roxanne-wolf",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/5/51/Roxanne_Wolf_HW2_Gallery.png/revision/latest/scale-to-width-down/360?cb=20240101130217",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Roxanne_Wolf",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Roxanne Wolf",
+      "description": ", also known as Roxy, is a glamrock animatronic who appears in Five Nights at Freddy's: Security Breach as a major antagonist and the RUIN DLC as a deuteragonist. She is the self-centered keytar player of the glamrock band who gets run over by Driver Assist Bot and her eyes removed for Glamrock Freddy. She also has an important connection to the protagonist of RUIN, Cassie, who she saves near the end of the game.\n\nRoxanne is an animatronic wolf with a punk rock aesthetic. She presents as a gray-furred wolf with bright yellow eyes. She has black streaks of makeup on her cheeks and wears purple lipstick. The claws on her feet are painted purple, and the claws on her hands are green. Her hair is long and silver, with a bright green streak. Just like Glamrock Chica, there is a panel-like seam under her chest, upper arms, and upper thighs. She also has light grey markings on the inside of her ears, paw pads, around her muzzle, and on her belly. Her clothes consist of a red crop top, hot pants , and shoulder pads adorned with black star-like patterns. Additional accessories include black and purple earrings, two black spiked bracelets, a spiked belt, and purple arm and leg warmers with black tiger stripes.\n\nAfter being hit by a mini-kart at the Roxy Raceway, Roxanne is heavily damaged. Her eyes are taken by Gregory to upgrade Glamrock Freddy, blinding her and rendering the Fazerblaster and Faz Camera as ineffective. Her face has been mangled, with the centermost area around the \"eyes\" having a large, jagged hole and her jaw being completely loose. Chunks of her casing are broken and missing, exposing the endoskeleton beneath. Her hair is tangled, with oil and dust dirtying the entirety of her body. Her tail has also been almost completely cut off, exposing its wire and endo underneath.\n\nRoxanne Wolf has been damaged even further following the events of Security Breach. Her shell is damaged further, with her endoskeleton being entirely visible due to a near-complete lack of casing on the area. Both of her ears' casing is now missing, leaving the endoskeleton default in their place. She now wears a fish-like mask on her face to hide her disfigurement. Her jaw is noticeably still loose from when the kart slammed onto her, even with the new mask on her endoskeleton head. She’s missing a finger in her left hand. However, when Cassie puts the Security Mask, Roxanne's missing parts reappear in a hologram like state which glow a bright green similar to VR Toy Freddy.",
+      "short_description": ", also known as Roxy, is a glamrock animatronic who appears in Five Nights at Freddy's: Security Breach as a major antagonist and the RUIN DLC as a deuteragonist. She is the self-centered keytar player of the glamrock…"
+    },
+    {
+      "slug": "sister-location",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/c/c6/FNAFSL-NintendoSwitch.jpg/revision/latest/scale-to-width-down/360?cb=20200619153939",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Five_Nights_at_Freddy%27s:_Sister_Location",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Sister Location",
+      "description": ", commonly abbreviated as FNaF: SL and often referred to as Five Nights at Freddy's 5 or FNaF 5, is an independent point-and-click sit-and-survive horror game developed and published by Scottgames, LLC, which released on October 7, 2016, for Windows, as the fifth installment in the Five Nights at Freddy's series. The game was ported to Android on December 22, 2016 and iOS on January 3, 2017.\n\nScottgames would partner with Clickteam LLC in 2018 to deliver HD, improved \"remastered\" ports to mobile and consoles. The mobile updates would release on March 20, 2020, for Android and iOS. The port for Nintendo Switch released on June 18, 2020, Xbox on July 9, 2020, and PlayStation on July 22, 2020. These ports/updates fixed bugs, removed copyrighted material, and added subtitles and a cheats menu.\n\nWelcome to Circus Baby's Pizza World, where family fun and interactivity go beyond anything you've seen at those *other* pizza places! With cutting-edge animatronic entertainers that will knock your kids' socks off, as well as customized pizza catering, no party is complete without Circus Baby and the gang!\n\nNow hiring: Late night technician. Must enjoy cramped spaces and be comfortable around active machinery. Not responsible for death or dismemberment.",
+      "short_description": ", commonly abbreviated as FNaF: SL and often referred to as Five Nights at Freddy's 5 or FNaF 5, is an independent point-and-click sit-and-survive horror game developed and published by Scottgames, LLC, which released…"
+    },
+    {
+      "slug": "springtrap",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/7/71/Purple_man.png/revision/latest?cb=20150723044740",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/William_Afton",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Springtrap",
+      "description": "was the main antagonist of the Five Nights at Freddy's Scott Games series.\n\nHe was the co-founder and owner of Fazbear Entertainment and Afton Robotics, LLC, as well as a serial killer directly and indirectly responsible for most of the incidents and tragedies throughout the series, including being the culprit involved in The Missing Children Incident. Afton's role in the series is pivotal, yet his legacy seems to be carried on by The Mimic (who may have also been Glitchtrap and Burntrap).\n\nThere are no clear depictions of William Afton as a human, since it is mostly only ever seen in minigames. His sprites are very simplistic, being a purple figure with an elongated smile. William is seen as having a cleft chin outside of the minigames.\n\nThe most detail William has shown is during the SAVETHEM death minigame, in which he is revealed to be a tall skinny man with a long neck and has yellow object on his chest that resembles a security badge, and holds a purple object, which is speculated to be a weapon or tool, or possibly just his hands extending in a beckoning pose.",
+      "short_description": "was the main antagonist of the Five Nights at Freddy's Scott Games series."
+    },
+    {
+      "slug": "bite-of-83",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/2/27/TheBiteof83.png/revision/latest/scale-to-width-down/360?cb=20240912121427",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/The_Big_Bite",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for The Bite of '83",
+      "description": "The Big Bite, later known as The Bite of '83 after The Bite of '87 happened, was an incident at Fredbear's Family Diner in 1983 in which the Crying Child was placed in the jaws of Fredbear, resulting in him being fatally injured. The events are shown in the end-of-night minigames of FNaF 4.\n\nThe main protagonist of the minigame, a crying child who is being thrown a party at Fredbear's Family Diner, is harshly tormented by several older kids, including his older brother who targeted his greatest fear, knowing the child's intense fear of the Springlock Animatronics. The bullies forcefully carried the child closer to the animatronics, but their actions escalate as the child's intense panic takes hold. This results in the child's head being shoved entirely into Fredbear's mouth, mockingly labeling it as a \"big kiss\". Amidst squirming and loud wails of terror, the animatronic's mouth then eventually crushes the victim's head, fatally injuring him as the bullies stop laughing, only staring in horror and shock.\n\nAn arcade game named \"Fredbear's Nom Nom Bits\" appears in the Pizzaplex, a clear reference to the bite.\n\nCalling the phone number found on the Fredbear's Family Diner poster reveals that the company has created a pizza based on the event: The Golden Bite, with 83 slices of cheese smothered in a molten layer of Exotic Butters.",
+      "short_description": "The Big Bite, later known as The Bite of '83 after The Bite of '87 happened, was an incident at Fredbear's Family Diner in 1983 in which the Crying Child was placed in the jaws of Fredbear, resulting in him being…"
+    },
+    {
+      "slug": "bite-of-87",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/2/27/TheBiteof83.png/revision/latest/scale-to-width-down/360?cb=20240912121427",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/The_Bite_of_%2787",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for The Bite of '87",
+      "description": "was an incident that occurred at the second Freddy Fazbear's Pizza location in the same year. It was briefly mentioned by Ralph in the first game.\n\nThe attack allegedly caused the victim to lose the frontal lobe of their brain. The victim survived the attack but was seemingly put into a vegetative state, unable to speak or do much else. According to Ralph, the victim's condition allowed the press to blow the incident out of proportion, with the bad press lingering even after a new restaurant was opened shortly after.\n\nThe incident contributed to a loss in the company's reputation, which was one of the numerous incidents that resulted in a major drop in business going forward.\n\nAs a result of the incident, the animatronics were no longer allowed to wander around the building during the day; the management decided to limit their free-roaming mode to nighttime, so as to \"prevent their servos from locking up\", as stated by Ralph.",
+      "short_description": "was an incident that occurred at the second Freddy Fazbear's Pizza location in the same year. It was briefly mentioned by Ralph in the first game."
+    },
+    {
+      "slug": "the-crying-child",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/0/03/The_Crying_Child.png/revision/latest/scale-to-width-down/360?cb=20260618134044",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Crying_Child",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for The Crying Child",
+      "description": "The is the protagonist of Five Nights at Freddy's 4 minigames.\n\nThe Crying Child is a small boy with dark brown hair. He wears a black shirt with two grey stripes, and light blue shorts and gray shoes. His face is usually stained with tears.\n\nThe Crying Child is portrayed as a very scared and confused boy. He constantly cries whenever his older brother sadistically frightens him. He seems to have a connection with his plushies as he calls them his friends, hinting that he may be lonely. The plushies might be the closest thing he has to companions.\n\nThe minigame opens up with \"5 days until the party.\" A scene then appears with a small Fredbear plush. The Crying Child is locked in his bedroom with his plushies. Upon approaching them, he states \"These are my friends.\" After banging on the door several times, he gives up and helplessly collapses down into sobbing, as the Fredbear plush states \"Tomorrow is another day.\"",
+      "short_description": "The is the protagonist of Five Nights at Freddy's 4 minigames."
+    },
+    {
+      "slug": "the-puppet",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/8/89/ThePuppetFullBody.png/revision/latest/scale-to-width-down/360?cb=20160529091041",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/The_Puppet",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for The Puppet",
+      "description": ", also referred to as the Marionette , is a Toy animatronic puppet, a major antagonist and one of the main characters in the Five Nights at Freddy's series. He first appeared in Five Nights at Freddy's 2, but minigames from the second game and afterwards show the Puppet's tragic and heroic side. He possibly serves as the prize vendor of the newly refurbished Freddy Fazbear's Pizza of 1987, although it's implied that it was originally from the original Freddy Fazbear's Pizza prior to the one opened in 1987.\n\nUnlike the other toys who were scrapped due to possible malfunctions, the Puppet was not scrapped, as it later appeared in the new pizzeria from the first game (as evident by the \"end-of-night hallucinations\") and appearing as Lefty in Freddy Fazbear's Pizzeria Simulator. Lefty was an animatronic intended to capture the Puppet, as Charlotte Emily's father, Henry Emily knew that her soul possessed the Puppet.\n\nThe Puppet was haunted by Charlotte Emily, who was killed by William Afton. During the completion ending, the Puppet's soul was presumably set free.\n\nThe Puppet has a white face that looks like a mask, with black, hollow eyes that sometimes gain small, white pupils. His face is similar to that of a Pierrot, with rosy red cheeks, purple stripes that stretch from the bottom of his eyes to the top of his mouth, and red lipstick painted on in an exaggerated pucker.",
+      "short_description": ", also referred to as the Marionette , is a Toy animatronic puppet, a major antagonist and one of the main characters in the Five Nights at Freddy's series. He first appeared in Five Nights at Freddy's 2, but minigames…"
+    },
+    {
+      "slug": "ultimate-custom-night",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/d/dc/UCN_Switch.jpg/revision/latest/scale-to-width-down/360?cb=20230707005816",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Ultimate_Custom_Night",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Ultimate Custom Night",
+      "description": ", commonly abbreviated as UCN, is an independent point-and-click sit-and-survive horror game developed and published by Scottgames, LLC, which released on June 27, 2018, for Windows, and is the seventh installment of the Five Nights at Freddy's series.\n\nScottgames would partner with Clickteam LLC in 2018 to deliver HD, improved \"remastered\" ports mobile and consoles. The Android port was released on April 24, 2020 and on iOS on April 28, 2020. The Xbox released on April 29, 2021, and PlayStation and Nintendo Switch on April 30, 2021. These ports would fix bugs, remove copyrighted material, and add a subtitles and cheats menu.\n\nWelcome to the ultimate FNAF mashup, where you will once again be trapped alone in an office fending off killer animatronics! Featuring 50 selectable animatronic characters spanning seven Five Nights at Freddy's games, the options for customization are nearly endless. Mix and match any assortment of characters that you like, set their difficulty from 0-20, then jump right into the action! From your office desk, you will need to manage two side doors, two vents, as well as two air hoses, all of which lead directly into your office.\n\nThis time you will have to master other tools as well if you want to complete the ultimate challenges, tools such as the heater, A/C, a global music box, a power generator, and more. As if all of that weren't enough, you'll also need to set up laser traps in the vents, collect Faz-Coins, purchase items from the prize counter, and as always, keep a close eye on not one, but two, Pirate Cove curtains!",
+      "short_description": ", commonly abbreviated as UCN, is an independent point-and-click sit-and-survive horror game developed and published by Scottgames, LLC, which released on June 27, 2018, for Windows, and is the seventh installment of…"
+    },
+    {
+      "slug": "vanessa",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/b/be/SB_Files_Vanessa_official_fullbody_render.png/revision/latest/scale-to-width-down/360?cb=20260331091649",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Vanessa",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Vanessa",
+      "description": "Vanessa A., also known as Vanny, was a follower of Glitchtrap, a digital virus similar to that of William Afton, and is a secondary antagonist of the Steel Wool series of the Five Nights at Freddy's franchise.\n\nShe is the main antagonist of Five Nights at Freddy's: Security Breach. It's revealed in the Princess Quest minigames that she was the main protagonist in Five Nights at Freddy's: Help Wanted, where she was first corrupted by Glitchtrap. In Five Nights at Freddy's AR: Special Delivery, she goes by the name Ness in the e-mails.\n\nVanessa is a young woman with pale skin, shoulder-length blonde hair, freckles, green eyes, and glossy lips. As revealed in the e-mails in Special Delivery, she used to wear rainbow streak hair extensions, and is seen wearing purple nail polish. Her former co-worker, Luis, describes Vanessa as someone who could brighten up the room in the scrapped e-mails.\n\nWhile working, she wears a dark gray cap labeled \"SECURITY\" with a white button-down shirt, two small single-chevron collar pins, simple black shoulder marks and an oval patch featuring a silver police-style badge. This is paired with black oxfords, black slacks and a belt, where she wears a gold-tinted badge on her right hip.",
+      "short_description": "Vanessa A., also known as Vanny, was a follower of Glitchtrap, a digital virus similar to that of William Afton, and is a secondary antagonist of the Steel Wool series of the Five Nights at Freddy's franchise."
+    },
+    {
+      "slug": "vanny",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/b/be/SB_Files_Vanessa_official_fullbody_render.png/revision/latest/scale-to-width-down/360?cb=20260331091649",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Vanessa",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Vanny",
+      "description": "Vanessa A., also known as Vanny, was a follower of Glitchtrap, a digital virus similar to that of William Afton, and is a secondary antagonist of the Steel Wool series of the Five Nights at Freddy's franchise.\n\nShe is the main antagonist of Five Nights at Freddy's: Security Breach. It's revealed in the Princess Quest minigames that she was the main protagonist in Five Nights at Freddy's: Help Wanted, where she was first corrupted by Glitchtrap. In Five Nights at Freddy's AR: Special Delivery, she goes by the name Ness in the e-mails.\n\nVanessa is a young woman with pale skin, shoulder-length blonde hair, freckles, green eyes, and glossy lips. As revealed in the e-mails in Special Delivery, she used to wear rainbow streak hair extensions, and is seen wearing purple nail polish. Her former co-worker, Luis, describes Vanessa as someone who could brighten up the room in the scrapped e-mails.\n\nWhile working, she wears a dark gray cap labeled \"SECURITY\" with a white button-down shirt, two small single-chevron collar pins, simple black shoulder marks and an oval patch featuring a silver police-style badge. This is paired with black oxfords, black slacks and a belt, where she wears a gold-tinted badge on her right hip.",
+      "short_description": "Vanessa A., also known as Vanny, was a follower of Glitchtrap, a digital virus similar to that of William Afton, and is a secondary antagonist of the Steel Wool series of the Five Nights at Freddy's franchise."
+    },
+    {
+      "slug": "william-afton",
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/7/71/Purple_man.png/revision/latest?cb=20150723044740",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/William_Afton",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for William Afton",
+      "description": "was the main antagonist of the Five Nights at Freddy's Scott Games series.\n\nHe was the co-founder and owner of Fazbear Entertainment and Afton Robotics, LLC, as well as a serial killer directly and indirectly responsible for most of the incidents and tragedies throughout the series, including being the culprit involved in The Missing Children Incident. Afton's role in the series is pivotal, yet his legacy seems to be carried on by The Mimic (who may have also been Glitchtrap and Burntrap).\n\nThere are no clear depictions of William Afton as a human, since it is mostly only ever seen in minigames. His sprites are very simplistic, being a purple figure with an elongated smile. William is seen as having a cleft chin outside of the minigames.\n\nThe most detail William has shown is during the SAVETHEM death minigame, in which he is revealed to be a tall skinny man with a long neck and has yellow object on his chest that resembles a security badge, and holds a purple object, which is speculated to be a weapon or tool, or possibly just his hands extending in a beckoning pose.",
+      "short_description": "was the main antagonist of the Five Nights at Freddy's Scott Games series."
+    },
+    {
+      "slug": "purple-guy",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Five_Nights_at_Freddy%27s.svg/360px-Five_Nights_at_Freddy%27s.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Five_Nights_at_Freddy%27s",
+      "image_credit": "Fair-use identification thumbnail via Wikipedia. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Purple Guy",
+      "description": "Five Nights at Freddy's (FNaF,  f(ə)-NAF) is a video game series and media franchise created by Scott Cawthon that includes video games, novels, graphic novels, and films. The story arcs typically follow a night guard or other character trying to survive from midnight to 6 a.m. for multiple levels, called \"nights\", while fending off attacks from homicidal animatronic characters. Each game is set in a different location connected to a fictional pizza restaurant franchise called \"Freddy Fazbear's Pizza\". The core gameplay mechanics involve using tools effectively and managing limited resources to avoid being caught by the animatronics.\n\nCawthon conceived the idea for the first video game after his family-friendly resource management game, Chipper & Sons Lumber Co., was criticized for the resemblance of its characters to frightening animatronics. Responding to this feedback, he developed a game that focused on horror. Released in August 2014, the game's success prompted the development of its sequels. Cawthon created most of the games himself using game engine Clickteam Fusion, but partnered with Steel Wool Studios to create various entries in the series, including an open-world game and a virtual reality anthology. Several spin-offs were created in collaboration with groups such as Illumix and Mega Cat Studios.\n\nThe series has had mixed critical reception, with praise for its storytelling and atmosphere but criticism for its gameplay. It has achieved significant commercial success, with merchandise available internationally. The franchise has garnered a cult following that produces numerous forms of fan media.",
+      "short_description": "Five Nights at Freddy's (FNaF, f(ə)-NAF) is a video game series and media franchise created by Scott Cawthon that includes video games, novels, graphic novels, and films. The story arcs typically follow a night guard or…"
+    },
+    {
+      "slug": "abbys-family",
+      "image_url": null,
+      "image_source": null,
+      "image_credit": null,
+      "image_license": null,
+      "image_usage": null,
+      "image_alt": null,
+      "description": "Abby's family in Fazbear Frights comprises the relatives of Abby from the first book's To Be Beautiful story.\n\nAbby is a major character in To Be Beautiful.\n\nAbby's unnamed brother is briefly mentioned by Abby. When asked what she'd do with a million dollars to spend on herself, Abby tells Sarah that she'd use it to travel, going to Paris first. On this hypothetical trip, Abby would go to Paris with her parents and brother, staying at a fancy hotel. They'd go to the Eiffel Tower and the Louver, eat pastries at the best restaurants, drink coffee at fancy cafés, and people-watch.\n\nAbby's unnamed parents are briefly mentioned. When asked what she'd do with a million dollars to spend on herself, Abby tells Sarah that she'd use it to travel, going to Paris first. On this hypothetical trip, Abby would go to Paris with her mother, father, and brother. They'd stay at a fancy hotel, go to the Eiffel Tower and the Louver, eat pastries at the best restaurants, drink coffee at fancy cafés, and people-watch.",
+      "short_description": "Abby's family in Fazbear Frights comprises the relatives of Abby from the first book's To Be Beautiful story."
+    },
+    {
+      "slug": "abigail-sullivan",
+      "image_url": null,
+      "image_source": null,
+      "image_credit": null,
+      "image_license": null,
+      "image_usage": null,
+      "image_alt": null,
+      "description": "Abigail Sullivan is a major character from Pizza Kit, the third story Fazbear Frights 9: The Puppet Carver.\n\nAbigail has mousy-brown hair pulled back in a careless ponytail and glasses that are usually slipped down on her nose.\n\nAbigail and Payton became best friends when they were preschoolers due to the close proximity of their homes. They played dolls, store, and school, and they would get their sandcastle wet in order to build castles and pies. The two were inseparable until seventh grade, when Payton began taking an interest in more popular subjects and became friends with Marley, leaving Abigail to fend for herself. She enjoys reading.\n\nCategory:Fazbear Frights: Characters Category:FF9: Characters",
+      "short_description": "Abigail Sullivan is a major character from Pizza Kit, the third story Fazbear Frights 9: The Puppet Carver."
+    },
+    {
+      "slug": "afton-robotics",
+      "image_url": null,
+      "image_source": null,
+      "image_credit": null,
+      "image_license": null,
+      "image_usage": null,
+      "image_alt": null,
+      "description": "Five Nights at Freddy's: Sister Location is a 2016 point-and-click survival horror game developed and published by Scott Cawthon. It is the fifth main installment in the Five Nights at Freddy's series. Set at a sister location of Freddy Fazbear's Pizzeria called Circus Baby's Entertainment and Rental, players control a new employee who must perform maintenance work while defending themselves from a set of murderous animatronics. The gameplay in Sister Location differs significantly from the previous Five Nights at Freddy's games in that it grants players mobility between rooms where tasks are completed.\n\nCawthon teased the game in April 2016 with the tagline \"there was never just one\". Following a trailer released in May, it was released on Steam on October 7, 2016, on December 22 of the same year on Android, and on January 3 of the following year on iOS. It received mixed reviews, with praise for its voice performances and criticism for some aspects of its gameplay. A sequel, Freddy Fazbear's Pizzeria Simulator, was released on December 4, 2017. Ports for Nintendo Switch, Xbox One, and PlayStation 4 were released in 2020.",
+      "short_description": "Five Nights at Freddy's: Sister Location is a 2016 point-and-click survival horror game developed and published by Scott Cawthon. It is the fifth main installment in the Five Nights at Freddy's series. Set at a sister…"
+    },
+    {
+      "slug": "fnaf-movie",
+      "image_url": null,
+      "image_source": null,
+      "image_credit": null,
+      "image_license": null,
+      "image_usage": null,
+      "image_alt": null
+    },
+    {
+      "slug": "possession",
+      "image_url": null,
+      "image_source": null,
+      "image_credit": null,
+      "image_license": null,
+      "image_usage": null,
+      "image_alt": null
+    },
+    {
+      "slug": "springlock-failure",
+      "image_url": null,
+      "image_source": null,
+      "image_credit": null,
+      "image_license": null,
+      "image_usage": null,
+      "image_alt": null
+    },
+    {
+      "slug": "aaron-mackenzie",
+      "description": "Aaron Mackenzie is a major character in Bunny Call, the first story in the book of the same name. He's Bob's youngest son, and his excitement for Camp Etenia annoys his father.\n\nAaron is very energetic, enjoying outdoorsy activities and getting amped up by more energy. Like his mother, Wanda, and his siblings, he's a light sleeper and gets upset over loud noises and being woken abruptly.\n\nCategory:Fazbear Frights: Characters Category:FF5: Characters Category:Fazbear Frights: Mackenzie Family",
+      "short_description": "Aaron Mackenzie is a major character in Bunny Call, the first story in the book of the same name. He's Bob's youngest son, and his excitement for Camp Etenia annoys his father."
+    },
+    {
+      "slug": "abby-to-be-beautiful",
+      "description": "Abby is a major character in To Be Beautiful, the second story from Fazbear Frights 1: Into the Pit. She is Sarah's best friend who gets increasingly concerned the more obsessed Sarah becomes with her appearance.\n\nAbby wears her hair in braids and wears gold wire-framed glasses, much like how she did when she was younger. Nowadays, she has braces on her teeth and is a few inches taller. Sarah sees potential for beauty in Abby with her flawless coffee-with-cream (brown) complexion, her startling hazel eyes, and her graceful, slender body. However, she tends to wear baggy clothes. At the start of the story, Abby wears a hideous poncho and a long, loose floral-print skirt. Later, she wears gray sweatpants with a bulky purple sweater. At the end of the story, she’s wearing pink overalls.\n\nAbby is said to be nice, smart, and straightforward. Sarah calls her a lovable nerd, as she wants to be a scientist and is always making theories. Abby also likes to joke around and is somewhat childish, which can make her stubborn at times. Unlike Sarah, Abby isn't preoccupied with beauty and doesn't have much interest in fashion, instead focusing on more educational matters. She says that she doesn't judge others based on their looks or their money, although she makes fun of the Beautifuls' outfits and calls them empty-headed.\n\nSarah and Abby have been best friends since kindergarten. When they were little, the two had pink carrying cases filled with Barbies and their various clothes and accessories. They would take turns carrying their cases to each other's houses and playing for hours, only stopping for juice box and graham cracker breaks. Abby tended to experiment on her Barbies, shaving one bald and coloring the hair of another's green with a Magic Marker to make her look like a crazy supervillain. The two also played with finger paint and Play-Doh.",
+      "short_description": "Abby is a major character in To Be Beautiful, the second story from Fazbear Frights 1: Into the Pit. She is Sarah's best friend who gets increasingly concerned the more obsessed Sarah becomes with her appearance."
+    },
+    {
+      "slug": "admin-wing",
+      "description": "The Admin Wing is a location in Murray's Costume Manor. It has two floors and is where the admins work. The Executives work on the third floor in Edwin's office.\n\nThe Admin Wing is a big room full of desks and computers. It has a small dining area and some admin conference rooms. The first admin conference room is decorated for David's birthday, which did not happen, and everything was abandoned. On the second floor there's a desk with Mrs. Helpful, an office with a Data Diver upgrade station and a room themed around Chica's Party World.\n\nEdwin's office is a rather big room with a big window behind the desk. It's decorated like a house, with bookshelves, sofas and different stuff like blueprints and an Unicorn head on the wall. There's a secret passage behind a bookshelf which is a corridor that brings the player into a secret office full of camera monitors and a terminal.\n\n{|class=\"article-table\" align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"text-align:center;\"",
+      "short_description": "The Admin Wing is a location in Murray's Costume Manor. It has two floors and is where the admins work. The Executives work on the third floor in Edwin's office."
+    },
+    {
+      "slug": "afton-robotics-llc",
+      "description": ", fully known as Afton Robotics, Limited Liability Company, is a robotics company founded by William Afton, one of the co-founders of Fazbear Entertainment, Inc..\n\nThe first establishment of the company is Circus Baby's Pizza World, which supposedly had much excitement being built up around the location opening. Before doing so however, [https://freddy-fazbears-pizza.fandom.com/wiki/Minor_Characters_(FNaF:_SL)#Circus_Baby's_Minigame_Children a few kids from here and there] are let in to make sure everything works right. Portrayed in Circus Baby's minigame, Elizabeth Afton is among the handful to see inside of the building and is murdered by Circus Baby while there. According to a local, they just stop talking about it when the grand opening is reportedly cancelled due to gas leaks, as a coverup for Elizabeth's demise. As described in a newspaper article on the situation, sources near to the establishment question the reported gas leaks and wonder if something more is to blame, hinted at by strange activity in the area at night. A tenant from across the street witnesses a large group of car riders surround the building in the night and remove pieces of their large equipment under tarps. The building of Circus Baby's Pizza World is put up for sale after a few weeks, while William refrains from commenting on the situation.\n\nAfton Robotics, LLC's second business venture is an animatronic rental business, Circus Baby's Entertainment and Rental, operated through an underground animatronic maintenance facility. The company appears to be a part of Fazbear Entertainment, Inc., or at least eventually sold to become apart of it, since later games present their animatronics alongside aside Fazbear Entertainment, Inc.'s own characters with little to no distinction between them. They would also most likely require permission from Fazbear Entertainment, Inc. to manufacture new versions of their characters as well. The Survival Logbooks even considers \"Afton Robotics\" to be a \"Fazbear Entertainment-related word\".\n\nAfton Robotics, LLC appears on the blueprints of Circus Baby, Ballora, Funtime Freddy, Funtime Foxy, and Circus Baby's Entertainment and Rental. Similarly to Mike Schmidt's paychecks, the copyright dates for the animatronic blueprints are simply left as \"XXXX\", likely to just keep the year ambiguous. Circus Baby's Entertainment and Rental assumedly closes after the events of Night 5, due to the deaths of several employees, a lack of animatronic entertainers because of Ennard, and the fact that the establishment goes largely unreferenced in future material.",
+      "short_description": ", fully known as Afton Robotics, Limited Liability Company, is a robotics company founded by William Afton, one of the co-founders of Fazbear Entertainment, Inc.."
+    },
+    {
+      "slug": "animatronic-skins",
+      "description": "are special features in Five Nights at Freddy's AR: Special Delivery, used for customizing the delivery animatronics' plush suits. They were first introduced on March 12, 2020 during the St. Patrick's Day event with the introduction of Shamrock Freddy. The latest skin to be implemented in the game was on December 13, 2021 during the Dark Circus event with the introduction of Great Escape Golden Freddy.\n\nThere are a current total of thirty-nine skins (excluding Clockwork Minireena and the cupcakes) implemented into the game.\n\nCurrently, there is a total of sixteen sets of distinctive skins.\n\nThe skins are usually introduced in ongoing Delivery Events, however they are only available via limited time. When encountered randomly with lures, their Plush Suits and lures will rarely be given as rewards upon defeated. Their character packs can also be purchased from the store with Faz-Coins or in-app purchases.",
+      "short_description": "are special features in Five Nights at Freddy's AR: Special Delivery, used for customizing the delivery animatronics' plush suits. They were first introduced on March 12, 2020 during the St. Patrick's Day event with the…"
+    },
+    {
+      "slug": "animatronica-fw",
+      "description": "Animatronica, also known as Animatronic Village, is the overarching setting of FNaF World, it is split into 6 different main sections. Those being:\n\nThere also are multiple sub-locations those being:\n\nCategory:Locations Category:FNaF World: Locations",
+      "short_description": "Animatronica, also known as Animatronic Village, is the overarching setting of FNaF World, it is split into 6 different main sections. Those being:"
+    },
+    {
+      "slug": "arcade-animatronics",
+      "description": "The arcade animatronics are video game-themed animatronics who appeared in Five Nights at Freddy's AR: Special Delivery. While a majority of animatronics were reskins, the event concluded with the release of 8-Bit Baby; a new, separate character. They were first introduced for the Arcade Mayhem Event that started on May 7, 2020.\n\nAll of the arcade animatronics are based on the toy and funtime animatronics. With the exception of 8-Bit Baby, the arcade animatronics are featured with neon skin textures and colors, reminiscent of Neon Bonnie and Neon Chica from Help Wanted. Each one comes with a few unique video game-styled traits.\n\nThe animatronics have a capability to switch between two different forms, excluding System Error Toy Bonnie.\n\n8-Bit Baby is a version of Circus Baby as well as the fourth and last arcade animatronic released on May 28, 2020. Unlike other arcade animatronics, 8-Bit Baby is a whole new character with her own CPU included.",
+      "short_description": "The arcade animatronics are video game-themed animatronics who appeared in Five Nights at Freddy's AR: Special Delivery. While a majority of animatronics were reskins, the event concluded with the release of 8-Bit Baby;…"
+    },
+    {
+      "slug": "arnolds-van",
+      "description": "is a service van with Fazbear Entertainment branding on it. It's owned by Arnold, and was used during the beginning and some endings of Five Nights at Freddy's: Secret of the Mimic.\n\nArnold's van is a faded blue work van with a white stripe and a Fazbear Entertainment logo on the back corner. It has two seats with an open back filled with work supplies, shelves, and makeshift work tables. There is a heater hung behind-above the driver's seat that is connected to a propane tank, suggesting the van doesn't have heating. The passenger's seat and floorboard is filled with trash, both from food and numerous cans of soda. There is also a Spring Bonnie bobble head on the dashboard.\n\nAt the beginning of Secret of the Mimic, Arnold is seen driving on a open stretch of road when he gets a call from Dispatch who informs him that he has a job at Murray's Costume Manor. After entering the parking lot, Arnold takes out a Data Diver and enters the building.\n\nIn the Walk Away Ending, Arnold is allowed to go into the back garage where his van has been moved. He begins to drive off when Dispatch gets in contact and after telling Arnold, promptly fires him. A red light illuminates the back and Arnold looks into the rearview mirror to see that the Mimic has been hiding in the back. Mimic rushes towards him and attacks.",
+      "short_description": "is a service van with Fazbear Entertainment branding on it. It's owned by Arnold, and was used during the beginning and some endings of Five Nights at Freddy's: Secret of the Mimic."
+    },
+    {
+      "slug": "aztec-animatronics",
+      "description": "The Aztec animatronics are animatronic skins in Five Nights at Freddy's AR: Special Delivery, based on the elements of the Aztec culture.\n\nOnly two animatronic skins are available, introduced for the Ancient Equinox Event, which started on March 5, 2021.\n\nSerpent Mangle is Mangle's Aztec skin available on March 5, 2021 for the Ancient Equinox Event. They are Mangle's second animatronic skin, after Magician Mangle in the Dark Circus Event.\n\nSerpent Mangle has green coloring on their head and hands. Their endoskeleton arms and legs are laced with red, green and yellow components. Serpent Mangle has wooden brown teeth, golden brick on their cheeks and around their snout and a giant dahlia flower with orange and white petals around their neck. Their feet are mismatched in color, with their left foot being clothed in a green more organic looking foot, while the right foot is the same golden yellow as the rest of its body. There is also a big bushy tail behind their back with the same orange and white color scheme. Their left eye is a regular one with a glowing yellow retina, and their right eye is entirely orange, similar to the sun. Mangle's second head is inside the mouth of a fake dragon head. The second head, as usual, has Serpent Mangle's left eye. Serpent Mangle carries miniature versions of both the sun and the moon, with the tiny sun giving off a small glow of light.",
+      "short_description": "The Aztec animatronics are animatronic skins in Five Nights at Freddy's AR: Special Delivery, based on the elements of the Aztec culture."
+    },
+    {
+      "slug": "chocolate-animatronics",
+      "description": "The chocolate animatronics are a set of animatronic skins for Five Nights at Freddy's AR: Special Delivery. Chocolate Bonnie was the first chocolate animatronic skin released.\n\nTwo chocolate animatronic skins, Chocolate Freddy and Chocolate Chica, were released as merchandise by Funko. Whether both skins were planned to get implemented into Special Delivery's is unknown.\n\nBased on the classic animatronics, their suits are completely made out of different chocolate flavors and other sweets, with some parts bitten off to reveal candy-textured endoskeletons.\n\nChocolate Bonnie is a chocolate variant of Bonnie and added on April 10, 2020 as the Easter event's first skin. He is Bonnie's first featured animatronic skin. One of the most recurring animatronic skins, Chocolate Bonnie returned on June 23, 2020 for a little bit to celebrate his own exclusive merchandise line. He later reappeared once again on September 24, 2020 for a mini event.",
+      "short_description": "The chocolate animatronics are a set of animatronic skins for Five Nights at Freddy's AR: Special Delivery. Chocolate Bonnie was the first chocolate animatronic skin released."
+    },
+    {
+      "slug": "circus-animatronics",
+      "description": "The circus animatronics are animatronics based on the themes of carnivals and circuses. They appeared in Five Nights at Freddy's AR: Special Delivery as limited time-only custom skins for the animatronics.\n\nThey were first introduced on September 3, 2020 for the Dark Circus Event, which was already started on August 27, 2020. Dark Circus: Encore!, a DLC expansion pack for the event was released on December 13, 2021, creating a new game-mode that takes place in a mixed reality environment.\n\nThe animatronics are modelled around pre-existing animatronics, and based on various types of performers featured in a circus.\n\nRingmaster Foxy is a version of Foxy and the first circus animatronic skin released on September 3, 2020, a week after Ballora was added. He is also Foxy's second skin, with the first being Radioactive Foxy from the Wasteland Event.",
+      "short_description": "The circus animatronics are animatronics based on the themes of carnivals and circuses. They appeared in Five Nights at Freddy's AR: Special Delivery as limited time-only custom skins for the animatronics."
+    },
+    {
+      "slug": "the-office-onaf3",
+      "description": "The office is a location in One Night at Flumpty's 3.\n\nThe office has different appearances depending on the night being played.",
+      "short_description": "The office is a location in One Night at Flumpty's 3."
+    },
+    {
+      "slug": "bonnie",
+      "description": "is one of the four original animatronics of Freddy Fazbear's Pizza and a major antagonist in the Five Nights at Freddy's series.\n\nBonnie is an animatronic rabbit and the guitarist in Freddy's band, positioned at the left side of the stage. Undisclosed to Fazbear Entertainment, Inc. and the public, Bonnie is heavily implied to be possessed by the restless spirit of Jeremy – a little boy murdered by William Afton. Due to this, he and the others are now seeking revenge against their killer by attacking any adults in the pizzeria after-hours in a blind rage.\n\nHe was the guitarist when the first Freddy Fazbear's Pizza was opened in 1983, though, just like Freddy, it is heavily implied that he had already existed as a character for many years, if not decades, prior to Freddy Fazbear's Pizza. In 1987, he and the original animatronics had all fallen into severe disrepair and were put under attempted retrofit before being replaced by his newer counterpart for the \"improved\" Freddy Fazbear's Pizza, Toy Bonnie. After the pizzeria's closing, he and the original animatronics were refurbished for the new pizzeria, as of the events of the first game. However, after the closure of the new pizzeria, he and the other animatronics got dismantled by their killer. His soul, along with the others, was presumably set free, as evidenced by the good ending.\n\nBonnie is an indigo -colored animatronic rabbit with blue accents, magenta eyes and a squarish muzzle. The color from his muzzle, stomach, and insides of his ears is a lavender color (white in Help Wanted). While Bonnie appears purple in artworks and in Special Delivery, he's shown to be more dark blue than purple in most of the games where he and his counterparts appear, including FNaF World. He sports long articulated ears that are capable of bending backwards and forwards (similar to several other animatronics' ears) and wears a red bowtie with a neck strap that is partially obstructed by his chin. On stage, he carried a dark red guitar (most likely modeled after the Gibson Flying V). Unlike the other characters, he has round teeth and lacks eyebrows. Excluding his head , most of Bonnie's body appears identical to Freddy's, apart from the latter's color. This version of Bonnie, like most of the Classic animatronics (except for Foxy), has no visible teeth on his upper jaw.",
+      "short_description": "is one of the four original animatronics of Freddy Fazbear's Pizza and a major antagonist in the Five Nights at Freddy's series."
+    },
+    {
+      "slug": "foxy",
+      "description": "Foxy the Pirate is one of the four original animatronics of Freddy Fazbear's Pizza and a major antagonist in the Five Nights at Freddy's series.\n\nFoxy is a discontinued animatronic pirate fox entertainer. He resides at his own separate stage in the pizzeria. Undisclosed to Fazbear Entertainment, Inc. and the public, Foxy is possessed by the restless spirit of Fritz – a little boy murdered by William Afton. Due to this, he and the others are now seeking revenge against their killer by attacking any adults in the pizzeria after-hours in blind rage.\n\nHe was the pirate fox entertainer when the first Freddy Fazbear's Pizza was opened in 1983 (although, it's unknown if he was discontinued). In 1987, he and the original animatronics had all fallen into severe disrepair and Foxy was replaced by his newer counterpart for the \"improved\" Freddy Fazbear's Pizza, Mangle. After the pizzeria's closing, he and the original animatronics were refurbished for the new pizzeria, as of the events of the first game. However, after the closure of the new pizzeria, he and the other animatronics got dismantled by their killer. His soul, along with the others, was presumably set free, as evidenced by the Good ending. However, it is possible that it wasn't, as evidenced by both the Bad ending and Tangle having parts from the original Chica and Bonnie, though it truly remains unknown which ending is canon.\n\nFoxy is a large, animatronic fox with crimson, tattered fur. He has yellow eyes, red eyebrows, and three strands of hair from the top of his head. He has a hook for his right hand and his left hand has been worn down to the endoskeleton. He also bears an eye patch that is folded over his right eye, although he is usually seen with it above his eye rather than covering it. Unlike the real-world fox, Foxy doesn't have a tail.",
+      "short_description": "Foxy the Pirate is one of the four original animatronics of Freddy Fazbear's Pizza and a major antagonist in the Five Nights at Freddy's series."
+    }
+  ],
+  "entities": [
+    {
+      "slug": "animatronic-skins",
+      "name": "Animatronic Skins",
+      "type": "object",
+      "description": "are special features in Five Nights at Freddy's AR: Special Delivery, used for customizing the delivery animatronics' plush suits. They were first introduced on March 12, 2020 during the St. Patrick's Day event with the introduction of Shamrock Freddy. The latest skin to be implemented in the game was on December 13, 2021 during the Dark Circus event with the introduction of Great Escape Golden Freddy.\n\nThere are a current total of thirty-nine skins (excluding Clockwork Minireena and the cupcakes) implemented into the game.\n\nCurrently, there is a total of sixteen sets of distinctive skins.\n\nThe skins are usually introduced in ongoing Delivery Events, however they are only available via limited time. When encountered randomly with lures, their Plush Suits and lures will rarely be given as rewards upon defeated. Their character packs can also be purchased from the store with Faz-Coins or in-app purchases.",
+      "evidence": "fiction",
+      "parentSlug": "five-nights-at-freddys",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/e/e2/Illumix_Banner.jpg/revision/latest/scale-to-width-down/360?cb=20201126000902",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Animatronic_Skins",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Animatronic Skins",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Animatronic_Skins",
+        "fandom_title": "Animatronic Skins",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": "are special features in Five Nights at Freddy's AR: Special Delivery, used for customizing the delivery animatronics' plush suits. They were first introduced on March 12, 2020 during the St. Patrick's Day event with the…"
+    },
+    {
+      "slug": "arcade-animatronics",
+      "name": "Arcade Animatronics",
+      "type": "object",
+      "description": "The arcade animatronics are video game-themed animatronics who appeared in Five Nights at Freddy's AR: Special Delivery. While a majority of animatronics were reskins, the event concluded with the release of 8-Bit Baby; a new, separate character. They were first introduced for the Arcade Mayhem Event that started on May 7, 2020.\n\nAll of the arcade animatronics are based on the toy and funtime animatronics. With the exception of 8-Bit Baby, the arcade animatronics are featured with neon skin textures and colors, reminiscent of Neon Bonnie and Neon Chica from Help Wanted. Each one comes with a few unique video game-styled traits.\n\nThe animatronics have a capability to switch between two different forms, excluding System Error Toy Bonnie.\n\n8-Bit Baby is a version of Circus Baby as well as the fourth and last arcade animatronic released on May 28, 2020. Unlike other arcade animatronics, 8-Bit Baby is a whole new character with her own CPU included.",
+      "evidence": "fiction",
+      "parentSlug": "five-nights-at-freddys",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/b/bf/Cer5wjs4x8i51.png/revision/latest/scale-to-width-down/360?cb=20200821002738",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Arcade_Animatronics",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Arcade Animatronics",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Arcade_Animatronics",
+        "fandom_title": "Arcade Animatronics",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": "The arcade animatronics are video game-themed animatronics who appeared in Five Nights at Freddy's AR: Special Delivery. While a majority of animatronics were reskins, the event concluded with the release of 8-Bit Baby;…"
+    },
+    {
+      "slug": "aztec-animatronics",
+      "name": "Aztec Animatronics",
+      "type": "object",
+      "description": "The Aztec animatronics are animatronic skins in Five Nights at Freddy's AR: Special Delivery, based on the elements of the Aztec culture.\n\nOnly two animatronic skins are available, introduced for the Ancient Equinox Event, which started on March 5, 2021.\n\nSerpent Mangle is Mangle's Aztec skin available on March 5, 2021 for the Ancient Equinox Event. They are Mangle's second animatronic skin, after Magician Mangle in the Dark Circus Event.\n\nSerpent Mangle has green coloring on their head and hands. Their endoskeleton arms and legs are laced with red, green and yellow components. Serpent Mangle has wooden brown teeth, golden brick on their cheeks and around their snout and a giant dahlia flower with orange and white petals around their neck. Their feet are mismatched in color, with their left foot being clothed in a green more organic looking foot, while the right foot is the same golden yellow as the rest of its body. There is also a big bushy tail behind their back with the same orange and white color scheme. Their left eye is a regular one with a glowing yellow retina, and their right eye is entirely orange, similar to the sun. Mangle's second head is inside the mouth of a fake dragon head. The second head, as usual, has Serpent Mangle's left eye. Serpent Mangle carries miniature versions of both the sun and the moon, with the tiny sun giving off a small glow of light.",
+      "evidence": "fiction",
+      "parentSlug": "five-nights-at-freddys",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/a/a8/AztecAnimatronics.png/revision/latest/scale-to-width-down/360?cb=20210305203825",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Aztec_Animatronics",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Aztec Animatronics",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Aztec_Animatronics",
+        "fandom_title": "Aztec Animatronics",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": "The Aztec animatronics are animatronic skins in Five Nights at Freddy's AR: Special Delivery, based on the elements of the Aztec culture."
+    },
+    {
+      "slug": "chocolate-animatronics",
+      "name": "Chocolate Animatronics",
+      "type": "object",
+      "description": "The chocolate animatronics are a set of animatronic skins for Five Nights at Freddy's AR: Special Delivery. Chocolate Bonnie was the first chocolate animatronic skin released.\n\nTwo chocolate animatronic skins, Chocolate Freddy and Chocolate Chica, were released as merchandise by Funko. Whether both skins were planned to get implemented into Special Delivery's is unknown.\n\nBased on the classic animatronics, their suits are completely made out of different chocolate flavors and other sweets, with some parts bitten off to reveal candy-textured endoskeletons.\n\nChocolate Bonnie is a chocolate variant of Bonnie and added on April 10, 2020 as the Easter event's first skin. He is Bonnie's first featured animatronic skin. One of the most recurring animatronic skins, Chocolate Bonnie returned on June 23, 2020 for a little bit to celebrate his own exclusive merchandise line. He later reappeared once again on September 24, 2020 for a mini event.",
+      "evidence": "fiction",
+      "parentSlug": "five-nights-at-freddys",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/8/82/ChocolateBonnie-ARIcon.png/revision/latest?cb=20200410023512",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Chocolate_Animatronics",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Chocolate Animatronics",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Chocolate_Animatronics",
+        "fandom_title": "Chocolate Animatronics",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": "The chocolate animatronics are a set of animatronic skins for Five Nights at Freddy's AR: Special Delivery. Chocolate Bonnie was the first chocolate animatronic skin released."
+    },
+    {
+      "slug": "circus-animatronics",
+      "name": "Circus Animatronics",
+      "type": "object",
+      "description": "The circus animatronics are animatronics based on the themes of carnivals and circuses. They appeared in Five Nights at Freddy's AR: Special Delivery as limited time-only custom skins for the animatronics.\n\nThey were first introduced on September 3, 2020 for the Dark Circus Event, which was already started on August 27, 2020. Dark Circus: Encore!, a DLC expansion pack for the event was released on December 13, 2021, creating a new game-mode that takes place in a mixed reality environment.\n\nThe animatronics are modelled around pre-existing animatronics, and based on various types of performers featured in a circus.\n\nRingmaster Foxy is a version of Foxy and the first circus animatronic skin released on September 3, 2020, a week after Ballora was added. He is also Foxy's second skin, with the first being Radioactive Foxy from the Wasteland Event.",
+      "evidence": "fiction",
+      "parentSlug": "five-nights-at-freddys",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/0/03/Es25BV4XYAUM3Dt.png/revision/latest/scale-to-width-down/360?cb=20210129010317",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Circus_Animatronics",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Circus Animatronics",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Circus_Animatronics",
+        "fandom_title": "Circus Animatronics",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": "The circus animatronics are animatronics based on the themes of carnivals and circuses. They appeared in Five Nights at Freddy's AR: Special Delivery as limited time-only custom skins for the animatronics."
+    },
+    {
+      "slug": "aaron-mackenzie",
+      "name": "Aaron Mackenzie",
+      "type": "person",
+      "description": "Aaron Mackenzie is a major character in Bunny Call, the first story in the book of the same name. He's Bob's youngest son, and his excitement for Camp Etenia annoys his father.\n\nAaron is very energetic, enjoying outdoorsy activities and getting amped up by more energy. Like his mother, Wanda, and his siblings, he's a light sleeper and gets upset over loud noises and being woken abruptly.\n\nCategory:Fazbear Frights: Characters Category:FF5: Characters Category:Fazbear Frights: Mackenzie Family",
+      "evidence": "fiction",
+      "parentSlug": "five-nights-at-freddys",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/a/a8/Aaron.png/revision/latest/scale-to-width-down/360?cb=20230906031606",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Aaron_Mackenzie",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Aaron Mackenzie",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Aaron_Mackenzie",
+        "fandom_title": "Aaron Mackenzie",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": "Aaron Mackenzie is a major character in Bunny Call, the first story in the book of the same name. He's Bob's youngest son, and his excitement for Camp Etenia annoys his father."
+    },
+    {
+      "slug": "abby-to-be-beautiful",
+      "name": "Abby",
+      "type": "person",
+      "description": "Abby is a major character in To Be Beautiful, the second story from Fazbear Frights 1: Into the Pit. She is Sarah's best friend who gets increasingly concerned the more obsessed Sarah becomes with her appearance.\n\nAbby wears her hair in braids and wears gold wire-framed glasses, much like how she did when she was younger. Nowadays, she has braces on her teeth and is a few inches taller. Sarah sees potential for beauty in Abby with her flawless coffee-with-cream (brown) complexion, her startling hazel eyes, and her graceful, slender body. However, she tends to wear baggy clothes. At the start of the story, Abby wears a hideous poncho and a long, loose floral-print skirt. Later, she wears gray sweatpants with a bulky purple sweater. At the end of the story, she’s wearing pink overalls.\n\nAbby is said to be nice, smart, and straightforward. Sarah calls her a lovable nerd, as she wants to be a scientist and is always making theories. Abby also likes to joke around and is somewhat childish, which can make her stubborn at times. Unlike Sarah, Abby isn't preoccupied with beauty and doesn't have much interest in fashion, instead focusing on more educational matters. She says that she doesn't judge others based on their looks or their money, although she makes fun of the Beautifuls' outfits and calls them empty-headed.\n\nSarah and Abby have been best friends since kindergarten. When they were little, the two had pink carrying cases filled with Barbies and their various clothes and accessories. They would take turns carrying their cases to each other's houses and playing for hours, only stopping for juice box and graham cracker breaks. Abby tended to experiment on her Barbies, shaving one bald and coloring the hair of another's green with a Magic Marker to make her look like a crazy supervillain. The two also played with finger paint and Play-Doh.",
+      "evidence": "fiction",
+      "parentSlug": "five-nights-at-freddys",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/5/55/Abby.jpg/revision/latest?cb=20250324151733",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Abby_(To_Be_Beautiful)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Abby (To Be Beautiful)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Abby_(To_Be_Beautiful)",
+        "fandom_title": "Abby (To Be Beautiful)",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": "Abby is a major character in To Be Beautiful, the second story from Fazbear Frights 1: Into the Pit. She is Sarah's best friend who gets increasingly concerned the more obsessed Sarah becomes with her appearance."
+    },
+    {
+      "slug": "abbys-family",
+      "name": "Abby's Family",
+      "type": "person",
+      "description": "Abby's family in Fazbear Frights comprises the relatives of Abby from the first book's To Be Beautiful story.\n\nAbby is a major character in To Be Beautiful.\n\nAbby's unnamed brother is briefly mentioned by Abby. When asked what she'd do with a million dollars to spend on herself, Abby tells Sarah that she'd use it to travel, going to Paris first. On this hypothetical trip, Abby would go to Paris with her parents and brother, staying at a fancy hotel. They'd go to the Eiffel Tower and the Louver, eat pastries at the best restaurants, drink coffee at fancy cafés, and people-watch.\n\nAbby's unnamed parents are briefly mentioned. When asked what she'd do with a million dollars to spend on herself, Abby tells Sarah that she'd use it to travel, going to Paris first. On this hypothetical trip, Abby would go to Paris with her mother, father, and brother. They'd stay at a fancy hotel, go to the Eiffel Tower and the Louver, eat pastries at the best restaurants, drink coffee at fancy cafés, and people-watch.",
+      "evidence": "fiction",
+      "parentSlug": "five-nights-at-freddys",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Abby%27s_Family",
+        "fandom_title": "Abby's Family",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "image_url": null,
+      "image_source": null,
+      "image_credit": null,
+      "image_license": null,
+      "image_usage": null,
+      "image_alt": null,
+      "short_description": "Abby's family in Fazbear Frights comprises the relatives of Abby from the first book's To Be Beautiful story."
+    },
+    {
+      "slug": "abigail-sullivan",
+      "name": "Abigail Sullivan",
+      "type": "person",
+      "description": "Abigail Sullivan is a major character from Pizza Kit, the third story Fazbear Frights 9: The Puppet Carver.\n\nAbigail has mousy-brown hair pulled back in a careless ponytail and glasses that are usually slipped down on her nose.\n\nAbigail and Payton became best friends when they were preschoolers due to the close proximity of their homes. They played dolls, store, and school, and they would get their sandcastle wet in order to build castles and pies. The two were inseparable until seventh grade, when Payton began taking an interest in more popular subjects and became friends with Marley, leaving Abigail to fend for herself. She enjoys reading.\n\nCategory:Fazbear Frights: Characters Category:FF9: Characters",
+      "evidence": "fiction",
+      "parentSlug": "five-nights-at-freddys",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Abigail_Sullivan",
+        "fandom_title": "Abigail Sullivan",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "image_url": null,
+      "image_source": null,
+      "image_credit": null,
+      "image_license": null,
+      "image_usage": null,
+      "image_alt": null,
+      "short_description": "Abigail Sullivan is a major character from Pizza Kit, the third story Fazbear Frights 9: The Puppet Carver."
+    },
+    {
+      "slug": "animatronica-fw",
+      "name": "Animatronica",
+      "type": "place",
+      "description": "Animatronica, also known as Animatronic Village, is the overarching setting of FNaF World, it is split into 6 different main sections. Those being:\n\nThere also are multiple sub-locations those being:\n\nCategory:Locations Category:FNaF World: Locations",
+      "evidence": "fiction",
+      "parentSlug": "five-nights-at-freddys",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/8/8e/FNaFWorldMap.png/revision/latest/scale-to-width-down/360?cb=20240424190219",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Animatronica_(FW)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Animatronica (FW)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Animatronica_(FW)",
+        "fandom_title": "Animatronica (FW)",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": "Animatronica, also known as Animatronic Village, is the overarching setting of FNaF World, it is split into 6 different main sections. Those being:"
+    },
+    {
+      "slug": "the-office-onaf3",
+      "name": "The Office",
+      "type": "place",
+      "description": "The office is a location in One Night at Flumpty's 3.\n\nThe office has different appearances depending on the night being played.",
+      "evidence": "fiction",
+      "parentSlug": "five-nights-at-freddys",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/2/2a/Officeigeuss.png/revision/latest/scale-to-width-down/360?cb=20230120205043",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/The_Office_(ONaF3)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for The Office (ONaF3)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/The_Office_(ONaF3)",
+        "fandom_title": "The Office (ONaF3)",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": "The office is a location in One Night at Flumpty's 3."
+    },
+    {
+      "slug": "admin-wing",
+      "name": "Admin Wing",
+      "type": "place",
+      "description": "The Admin Wing is a location in Murray's Costume Manor. It has two floors and is where the admins work. The Executives work on the third floor in Edwin's office.\n\nThe Admin Wing is a big room full of desks and computers. It has a small dining area and some admin conference rooms. The first admin conference room is decorated for David's birthday, which did not happen, and everything was abandoned. On the second floor there's a desk with Mrs. Helpful, an office with a Data Diver upgrade station and a room themed around Chica's Party World.\n\nEdwin's office is a rather big room with a big window behind the desk. It's decorated like a house, with bookshelves, sofas and different stuff like blueprints and an Unicorn head on the wall. There's a secret passage behind a bookshelf which is a corridor that brings the player into a secret office full of camera monitors and a terminal.\n\n{|class=\"article-table\" align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"text-align:center;\"",
+      "evidence": "fiction",
+      "parentSlug": "five-nights-at-freddys",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/0/0a/AdminWing.png/revision/latest/scale-to-width-down/360?cb=20250825151144",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Admin_Wing",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Admin Wing",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Admin_Wing",
+        "fandom_title": "Admin Wing",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": "The Admin Wing is a location in Murray's Costume Manor. It has two floors and is where the admins work. The Executives work on the third floor in Edwin's office."
+    },
+    {
+      "slug": "afton-robotics-llc",
+      "name": "Afton Robotics, LLC",
+      "type": "place",
+      "description": ", fully known as Afton Robotics, Limited Liability Company, is a robotics company founded by William Afton, one of the co-founders of Fazbear Entertainment, Inc..\n\nThe first establishment of the company is Circus Baby's Pizza World, which supposedly had much excitement being built up around the location opening. Before doing so however, [https://freddy-fazbears-pizza.fandom.com/wiki/Minor_Characters_(FNaF:_SL)#Circus_Baby's_Minigame_Children a few kids from here and there] are let in to make sure everything works right. Portrayed in Circus Baby's minigame, Elizabeth Afton is among the handful to see inside of the building and is murdered by Circus Baby while there. According to a local, they just stop talking about it when the grand opening is reportedly cancelled due to gas leaks, as a coverup for Elizabeth's demise. As described in a newspaper article on the situation, sources near to the establishment question the reported gas leaks and wonder if something more is to blame, hinted at by strange activity in the area at night. A tenant from across the street witnesses a large group of car riders surround the building in the night and remove pieces of their large equipment under tarps. The building of Circus Baby's Pizza World is put up for sale after a few weeks, while William refrains from commenting on the situation.\n\nAfton Robotics, LLC's second business venture is an animatronic rental business, Circus Baby's Entertainment and Rental, operated through an underground animatronic maintenance facility. The company appears to be a part of Fazbear Entertainment, Inc., or at least eventually sold to become apart of it, since later games present their animatronics alongside aside Fazbear Entertainment, Inc.'s own characters with little to no distinction between them. They would also most likely require permission from Fazbear Entertainment, Inc. to manufacture new versions of their characters as well. The Survival Logbooks even considers \"Afton Robotics\" to be a \"Fazbear Entertainment-related word\".\n\nAfton Robotics, LLC appears on the blueprints of Circus Baby, Ballora, Funtime Freddy, Funtime Foxy, and Circus Baby's Entertainment and Rental. Similarly to Mike Schmidt's paychecks, the copyright dates for the animatronic blueprints are simply left as \"XXXX\", likely to just keep the year ambiguous. Circus Baby's Entertainment and Rental assumedly closes after the events of Night 5, due to the deaths of several employees, a lack of animatronic entertainers because of Ennard, and the fact that the establishment goes largely unreferenced in future material.",
+      "evidence": "fiction",
+      "parentSlug": "five-nights-at-freddys",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/b/b9/FNAFSL_CBE%26R_Layout.png/revision/latest/scale-to-width-down/360?cb=20161008162333",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Afton_Robotics,_LLC",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Afton Robotics, LLC",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Afton_Robotics,_LLC",
+        "fandom_title": "Afton Robotics, LLC",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": ", fully known as Afton Robotics, Limited Liability Company, is a robotics company founded by William Afton, one of the co-founders of Fazbear Entertainment, Inc.."
+    },
+    {
+      "slug": "arnolds-van",
+      "name": "Arnold's Van",
+      "type": "place",
+      "description": "is a service van with Fazbear Entertainment branding on it. It's owned by Arnold, and was used during the beginning and some endings of Five Nights at Freddy's: Secret of the Mimic.\n\nArnold's van is a faded blue work van with a white stripe and a Fazbear Entertainment logo on the back corner. It has two seats with an open back filled with work supplies, shelves, and makeshift work tables. There is a heater hung behind-above the driver's seat that is connected to a propane tank, suggesting the van doesn't have heating. The passenger's seat and floorboard is filled with trash, both from food and numerous cans of soda. There is also a Spring Bonnie bobble head on the dashboard.\n\nAt the beginning of Secret of the Mimic, Arnold is seen driving on a open stretch of road when he gets a call from Dispatch who informs him that he has a job at Murray's Costume Manor. After entering the parking lot, Arnold takes out a Data Diver and enters the building.\n\nIn the Walk Away Ending, Arnold is allowed to go into the back garage where his van has been moved. He begins to drive off when Dispatch gets in contact and after telling Arnold, promptly fires him. A red light illuminates the back and Arnold looks into the rearview mirror to see that the Mimic has been hiding in the back. Mimic rushes towards him and attacks.",
+      "evidence": "fiction",
+      "parentSlug": "five-nights-at-freddys",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/7/79/FE_Van_render.png/revision/latest/scale-to-width-down/360?cb=20260210201237",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Arnold%27s_Van",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Arnold's Van",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Arnold%27s_Van",
+        "fandom_title": "Arnold's Van",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": "is a service van with Fazbear Entertainment branding on it. It's owned by Arnold, and was used during the beginning and some endings of Five Nights at Freddy's: Secret of the Mimic."
+    }
+  ],
+  "relationships": [
+    [
+      "animatronic-skins",
+      "five-nights-at-freddys",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "arcade-animatronics",
+      "five-nights-at-freddys",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "aztec-animatronics",
+      "five-nights-at-freddys",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "chocolate-animatronics",
+      "five-nights-at-freddys",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "circus-animatronics",
+      "five-nights-at-freddys",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "aaron-mackenzie",
+      "five-nights-at-freddys",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abby-to-be-beautiful",
+      "five-nights-at-freddys",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abbys-family",
+      "five-nights-at-freddys",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abigail-sullivan",
+      "five-nights-at-freddys",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "animatronica-fw",
+      "five-nights-at-freddys",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-office-onaf3",
+      "five-nights-at-freddys",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "admin-wing",
+      "five-nights-at-freddys",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "afton-robotics-llc",
+      "five-nights-at-freddys",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "arnolds-van",
+      "five-nights-at-freddys",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 360,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (freddy-fazbears-pizza.fandom.com) for identification and commentary only. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-11T01:39:14.093Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://freddy-fazbears-pizza.fandom.com/wiki/",
+    "host": "freddy-fazbears-pizza.fandom.com"
+  },
+  "stats": {
+    "fandom_titles": 5,
+    "fandom_enriched_core": 5,
+    "fandom_created": 0,
+    "fandom_images": 5,
+    "fandom_intros": 0,
+    "image_backfill_at": "2026-09-11T12:33:22.753Z",
+    "image_backfill_count": 6,
+    "description_backfill_at": "2026-09-11T12:51:44.312Z",
+    "description_backfill_count": 65
+  }
+}

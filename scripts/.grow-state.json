@@ -1,0 +1,36 @@
+{
+  "subjectIndex": 4,
+  "cycle": 1023,
+  "subjects": {
+    "five-nights-at-freddys": {
+      "visits": 1021,
+      "lastRunAt": "2026-09-11T01:39:14.100Z",
+      "lastCreated": 0,
+      "lastEntityCount": 14
+    },
+    "one-piece": {
+      "visits": 1,
+      "lastRunAt": "2026-09-11T11:49:21.017Z",
+      "lastCreated": 1,
+      "lastEntityCount": 2650
+    },
+    "star-wars": {
+      "visits": 1,
+      "lastRunAt": "2026-09-11T11:50:43.742Z",
+      "lastCreated": 6,
+      "lastEntityCount": 5754
+    },
+    "harry-potter": {
+      "visits": 1,
+      "lastRunAt": "2026-09-11T11:51:29.764Z",
+      "lastCreated": 34,
+      "lastEntityCount": 915
+    },
+    "pokemon": {
+      "visits": 1,
+      "lastRunAt": "2026-09-11T11:52:36.853Z",
+      "lastCreated": 15,
+      "lastEntityCount": 3043
+    }
+  }
+}

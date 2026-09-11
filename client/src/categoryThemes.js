@@ -46,6 +46,12 @@ export const CATEGORY_THEMES = {
         glow: "rgba(196, 90, 44, 0.28)",
         surface: "linear-gradient(155deg, rgba(26, 16, 12, 0.98), rgba(10, 10, 12, 0.98))"
     },
+    "card-games": {
+        accent: "#5b7cff",
+        warm: "#e0a45a",
+        glow: "rgba(91, 124, 255, 0.28)",
+        surface: "linear-gradient(155deg, rgba(14, 18, 36, 0.98), rgba(8, 10, 16, 0.98))"
+    },
     music: {
         accent: "#e0459a",
         warm: "#5b9cff",

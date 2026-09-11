@@ -1,0 +1,230 @@
+/* Card game + board game subject themes */
+
+/* ---------- Yu-Gi-Oh! ---------- */
+.theme-yu-gi-oh {
+    --accent: #4a90d8;
+    --accent-soft: color-mix(in srgb, #4a90d8 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #4a90d8 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-yu-gi-oh .hero h1 { color: #f2efe8; }
+.theme-yu-gi-oh .eyebrow,
+.theme-yu-gi-oh .connection-type { color: #4a90d8; }
+.theme-yu-gi-oh .follow,
+.theme-yu-gi-oh .content a,
+.theme-yu-gi-oh .entity-link { color: #4a90d8; }
+.subject-card.theme-preview-yu-gi-oh {
+    border-color: color-mix(in srgb, #4a90d8 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #4a90d8 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-yu-gi-oh .connection-type,
+.subject-card.theme-preview-yu-gi-oh .follow { color: #4a90d8; }
+
+
+/* ---------- Digimon Card Game ---------- */
+.theme-digimon-card-game {
+    --accent: #e86020;
+    --accent-soft: color-mix(in srgb, #e86020 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #e86020 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-digimon-card-game .hero h1 { color: #f2efe8; }
+.theme-digimon-card-game .eyebrow,
+.theme-digimon-card-game .connection-type { color: #e86020; }
+.theme-digimon-card-game .follow,
+.theme-digimon-card-game .content a,
+.theme-digimon-card-game .entity-link { color: #e86020; }
+.subject-card.theme-preview-digimon-card-game {
+    border-color: color-mix(in srgb, #e86020 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #e86020 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-digimon-card-game .connection-type,
+.subject-card.theme-preview-digimon-card-game .follow { color: #e86020; }
+
+
+/* ---------- Disney Lorcana ---------- */
+.theme-disney-lorcana {
+    --accent: #6a4cff;
+    --accent-soft: color-mix(in srgb, #6a4cff 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #6a4cff 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-disney-lorcana .hero h1 { color: #f2efe8; }
+.theme-disney-lorcana .eyebrow,
+.theme-disney-lorcana .connection-type { color: #6a4cff; }
+.theme-disney-lorcana .follow,
+.theme-disney-lorcana .content a,
+.theme-disney-lorcana .entity-link { color: #6a4cff; }
+.subject-card.theme-preview-disney-lorcana {
+    border-color: color-mix(in srgb, #6a4cff 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #6a4cff 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-disney-lorcana .connection-type,
+.subject-card.theme-preview-disney-lorcana .follow { color: #6a4cff; }
+
+
+/* ---------- Flesh and Blood ---------- */
+.theme-flesh-and-blood {
+    --accent: #c43030;
+    --accent-soft: color-mix(in srgb, #c43030 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #c43030 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-flesh-and-blood .hero h1 { color: #f2efe8; }
+.theme-flesh-and-blood .eyebrow,
+.theme-flesh-and-blood .connection-type { color: #c43030; }
+.theme-flesh-and-blood .follow,
+.theme-flesh-and-blood .content a,
+.theme-flesh-and-blood .entity-link { color: #c43030; }
+.subject-card.theme-preview-flesh-and-blood {
+    border-color: color-mix(in srgb, #c43030 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #c43030 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-flesh-and-blood .connection-type,
+.subject-card.theme-preview-flesh-and-blood .follow { color: #c43030; }
+
+
+/* ---------- Catan ---------- */
+.theme-catan {
+    --accent: #d4a024;
+    --accent-soft: color-mix(in srgb, #d4a024 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #d4a024 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-catan .hero h1 { color: #f2efe8; }
+.theme-catan .eyebrow,
+.theme-catan .connection-type { color: #d4a024; }
+.theme-catan .follow,
+.theme-catan .content a,
+.theme-catan .entity-link { color: #d4a024; }
+.subject-card.theme-preview-catan {
+    border-color: color-mix(in srgb, #d4a024 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #d4a024 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-catan .connection-type,
+.subject-card.theme-preview-catan .follow { color: #d4a024; }
+
+
+/* ---------- Pandemic ---------- */
+.theme-pandemic {
+    --accent: #2a8a68;
+    --accent-soft: color-mix(in srgb, #2a8a68 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #2a8a68 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-pandemic .hero h1 { color: #f2efe8; }
+.theme-pandemic .eyebrow,
+.theme-pandemic .connection-type { color: #2a8a68; }
+.theme-pandemic .follow,
+.theme-pandemic .content a,
+.theme-pandemic .entity-link { color: #2a8a68; }
+.subject-card.theme-preview-pandemic {
+    border-color: color-mix(in srgb, #2a8a68 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #2a8a68 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-pandemic .connection-type,
+.subject-card.theme-preview-pandemic .follow { color: #2a8a68; }
+
+
+/* ---------- Gloomhaven ---------- */
+.theme-gloomhaven {
+    --accent: #6a5840;
+    --accent-soft: color-mix(in srgb, #6a5840 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #6a5840 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-gloomhaven .hero h1 { color: #f2efe8; }
+.theme-gloomhaven .eyebrow,
+.theme-gloomhaven .connection-type { color: #6a5840; }
+.theme-gloomhaven .follow,
+.theme-gloomhaven .content a,
+.theme-gloomhaven .entity-link { color: #6a5840; }
+.subject-card.theme-preview-gloomhaven {
+    border-color: color-mix(in srgb, #6a5840 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #6a5840 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-gloomhaven .connection-type,
+.subject-card.theme-preview-gloomhaven .follow { color: #6a5840; }
+
+
+/* ---------- Wingspan ---------- */
+.theme-wingspan {
+    --accent: #3a9a68;
+    --accent-soft: color-mix(in srgb, #3a9a68 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #3a9a68 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-wingspan .hero h1 { color: #f2efe8; }
+.theme-wingspan .eyebrow,
+.theme-wingspan .connection-type { color: #3a9a68; }
+.theme-wingspan .follow,
+.theme-wingspan .content a,
+.theme-wingspan .entity-link { color: #3a9a68; }
+.subject-card.theme-preview-wingspan {
+    border-color: color-mix(in srgb, #3a9a68 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #3a9a68 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-wingspan .connection-type,
+.subject-card.theme-preview-wingspan .follow { color: #3a9a68; }
+
+
+/* ---------- Ticket to Ride ---------- */
+.theme-ticket-to-ride {
+    --accent: #c84838;
+    --accent-soft: color-mix(in srgb, #c84838 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #c84838 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-ticket-to-ride .hero h1 { color: #f2efe8; }
+.theme-ticket-to-ride .eyebrow,
+.theme-ticket-to-ride .connection-type { color: #c84838; }
+.theme-ticket-to-ride .follow,
+.theme-ticket-to-ride .content a,
+.theme-ticket-to-ride .entity-link { color: #c84838; }
+.subject-card.theme-preview-ticket-to-ride {
+    border-color: color-mix(in srgb, #c84838 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #c84838 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-ticket-to-ride .connection-type,
+.subject-card.theme-preview-ticket-to-ride .follow { color: #c84838; }
+
+
+/* ---------- Chess ---------- */
+.theme-chess {
+    --accent: #c8c8d0;
+    --accent-soft: color-mix(in srgb, #c8c8d0 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #c8c8d0 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-chess .hero h1 { color: #f2efe8; }
+.theme-chess .eyebrow,
+.theme-chess .connection-type { color: #c8c8d0; }
+.theme-chess .follow,
+.theme-chess .content a,
+.theme-chess .entity-link { color: #c8c8d0; }
+.subject-card.theme-preview-chess {
+    border-color: color-mix(in srgb, #c8c8d0 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #c8c8d0 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-chess .connection-type,
+.subject-card.theme-preview-chess .follow { color: #c8c8d0; }

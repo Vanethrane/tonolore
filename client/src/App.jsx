@@ -1,6 +1,7 @@
 ﻿import React, { useEffect, useMemo, useState } from "react";
 import "./App.css";
 import "./musicSubjectThemes.css";
+import "./tabletopCardThemes.css";
 import { categoryTheme } from "./categoryThemes";
 import { entityImageToMediaAsset, IpInfobox } from "./fairUse";
 import {
@@ -44,7 +45,54 @@ const FALLBACK_CATEGORIES = [
     {
         id: "tabletop",
         label: "Tabletop",
-        blurb: "RPGs, wargames, and card worlds shaped at the table."
+        blurb: "RPGs, wargames, and board games shaped at the table.",
+        genres: [
+            {
+                id: "rpg",
+                label: "Roleplaying games",
+                blurb: "Character-driven tabletop RPGs and their settings.",
+                subjectIds: [
+                    "dungeons-and-dragons",
+                    "pathfinder",
+                    "vampire-the-masquerade",
+                    "call-of-cthulhu"
+                ]
+            },
+            {
+                id: "wargames",
+                label: "Wargames",
+                blurb: "Miniatures, factions, and campaign battlefields.",
+                subjectIds: [
+                    "warhammer-40k",
+                    "warhammer-fantasy",
+                    "battletech"
+                ]
+            },
+            {
+                id: "board-games",
+                label: "Board games",
+                blurb: "Boxed strategy and co-op games built for the table.",
+                subjectIds: [
+                    "catan",
+                    "pandemic",
+                    "gloomhaven",
+                    "wingspan",
+                    "ticket-to-ride",
+                    "chess"
+                ]
+            },
+            {
+                id: "living-card-at-table",
+                label: "Cards at the table",
+                blurb: "Collectible and living card games often played beside other tabletop hobbies.",
+                subjectIds: ["magic-the-gathering"]
+            }
+        ]
+    },
+    {
+        id: "card-games",
+        label: "Card games",
+        blurb: "Trading and living card games — including franchises that cross from anime, games, and comics."
     },
     {
         id: "music",
@@ -926,7 +974,11 @@ function CategoryPage({ categoryId, navigate }) {
                         </h2>
                         <p className="section-lede">
                             {section.genres?.length
-                                ? "Eight genre shelves — three deep-lore subjects in each."
+                                ? section.id === "music"
+                                    ? "Eight genre shelves — three deep-lore subjects in each."
+                                    : section.id === "tabletop"
+                                      ? "RPGs, wargames, and board games — pick a shelf, then a subject."
+                                      : "Browse the shelves inside this category."
                                 : "Larger graphs first — pick a franchise, then follow its strongest links."}
                         </p>
                     </div>

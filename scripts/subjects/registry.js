@@ -10,6 +10,10 @@ const {
     categoriesForSubject
 } = require("./categories");
 const { musicSubjectIds } = require("./musicCatalog");
+const {
+    newCardGameSubjectIds,
+    boardGameSubjectIds
+} = require("./tabletopCardCatalog");
 
 const SUBJECT_IDS = [
     "one-piece",
@@ -57,7 +61,9 @@ const SUBJECT_IDS = [
     "vampire-the-masquerade",
     "battletech",
     "call-of-cthulhu",
-    ...musicSubjectIds()
+    ...musicSubjectIds(),
+    ...newCardGameSubjectIds(),
+    ...boardGameSubjectIds()
 ];
 
 function loadSubject(id) {

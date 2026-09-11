@@ -8,6 +8,13 @@ const {
     musicSubjectIds,
     genreIdForSubject
 } = require("./musicCatalog");
+const {
+    CARD_GAME_SUBJECTS,
+    BOARD_GAME_SUBJECTS,
+    TABLETOP_SHELVES,
+    newCardGameSubjectIds,
+    boardGameSubjectIds
+} = require("./tabletopCardCatalog");
 
 const CATEGORY_CATALOG = [
     {
@@ -43,7 +50,18 @@ const CATEGORY_CATALOG = [
     {
         id: "tabletop",
         label: "Tabletop",
-        blurb: "RPGs, wargames, and card worlds shaped at the table."
+        blurb: "RPGs, wargames, and board games shaped at the table.",
+        genres: TABLETOP_SHELVES.map((shelf) => ({
+            id: shelf.id,
+            label: shelf.label,
+            blurb: shelf.blurb,
+            subjectIds: shelf.subjectIds
+        }))
+    },
+    {
+        id: "card-games",
+        label: "Card games",
+        blurb: "Trading and living card games — including franchises that cross from anime, games, and comics."
     },
     {
         id: "music",
@@ -59,14 +77,14 @@ const CATEGORY_CATALOG = [
 ];
 
 const SUBJECT_CATEGORY_IDS = {
-    "one-piece": ["anime"],
+    "one-piece": ["anime", "card-games"],
     "star-wars": ["movies", "television"],
     "five-nights-at-freddys": ["video-games"],
     "harry-potter": ["books", "movies"],
-    pokemon: ["video-games", "anime"],
+    pokemon: ["video-games", "anime", "card-games"],
     "lord-of-the-rings": ["books", "movies"],
     cosmere: ["books"],
-    "dragon-ball": ["anime"],
+    "dragon-ball": ["anime", "card-games"],
     "wheel-of-time": ["books", "television"],
     berserk: ["comics"],
     marvel: ["comics", "movies"],
@@ -86,7 +104,7 @@ const SUBJECT_CATEGORY_IDS = {
     "warhammer-40k": ["tabletop", "video-games"],
     "elder-scrolls": ["video-games"],
     "world-of-warcraft": ["video-games"],
-    "final-fantasy": ["video-games"],
+    "final-fantasy": ["video-games", "card-games"],
     fallout: ["video-games"],
     destiny: ["video-games"],
     "doctor-who": ["television"],
@@ -98,13 +116,19 @@ const SUBJECT_CATEGORY_IDS = {
     invincible: ["comics", "television"],
     "teenage-mutant-ninja-turtles": ["comics", "television", "movies"],
     "dungeons-and-dragons": ["tabletop", "books"],
-    "magic-the-gathering": ["tabletop"],
+    "magic-the-gathering": ["tabletop", "card-games"],
     pathfinder: ["tabletop"],
     "warhammer-fantasy": ["tabletop"],
     "vampire-the-masquerade": ["tabletop", "books", "television"],
     battletech: ["tabletop", "video-games"],
     "call-of-cthulhu": ["tabletop", "books"],
-    ...Object.fromEntries(musicSubjectIds().map((id) => [id, ["music"]]))
+    ...Object.fromEntries(musicSubjectIds().map((id) => [id, ["music"]])),
+    ...Object.fromEntries(
+        newCardGameSubjectIds().map((id) => [id, ["card-games"]])
+    ),
+    ...Object.fromEntries(
+        boardGameSubjectIds().map((id) => [id, ["tabletop"]])
+    )
 };
 
 function normalizeCategories(value) {
@@ -135,8 +159,13 @@ module.exports = {
     CATEGORY_CATALOG,
     SUBJECT_CATEGORY_IDS,
     MUSIC_GENRES,
+    CARD_GAME_SUBJECTS,
+    BOARD_GAME_SUBJECTS,
+    TABLETOP_SHELVES,
     categoriesForSubject,
     normalizeCategories,
     genreIdForSubject,
-    musicSubjectIds
+    musicSubjectIds,
+    newCardGameSubjectIds,
+    boardGameSubjectIds
 };

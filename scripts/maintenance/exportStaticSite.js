@@ -95,28 +95,21 @@ async function loadSubjectsCatalog() {
         ORDER BY id
     `);
 
-    const metaById = new Map(
-        listSubjectMeta().map((subject) => [subject.id, subject])
+    const counts = new Map(
+        result.rows.map((row) => [row.id, row.entity_count])
     );
 
-    const subjects = result.rows.map((row) => {
-        const meta = metaById.get(row.id);
-        return {
-            id: row.id,
-            name:
-                meta?.name ||
-                row.id
-                    .split("-")
-                    .map((part) => part[0].toUpperCase() + part.slice(1))
-                    .join(" "),
-            slug: row.id,
-            theme: meta?.theme || row.id,
-            entity_count: row.entity_count,
-            path: `/${row.id}`,
-            logo: meta?.logo || null,
-            categories: meta?.categories || []
-        };
-    });
+    const subjects = listSubjectMeta().map((meta) => ({
+        id: meta.id,
+        name: meta.name,
+        slug: meta.id,
+        theme: meta.theme || meta.id,
+        entity_count: counts.get(meta.id) || 0,
+        path: `/${meta.rootSlug || meta.id}`,
+        logo: meta.logo || null,
+        categories: meta.categories || [],
+        musicGenre: meta.musicGenre || null
+    }));
 
     return {
         categories: CATEGORY_CATALOG,

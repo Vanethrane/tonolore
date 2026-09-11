@@ -46,6 +46,12 @@ export const CATEGORY_THEMES = {
         glow: "rgba(196, 90, 44, 0.28)",
         surface: "linear-gradient(155deg, rgba(26, 16, 12, 0.98), rgba(10, 10, 12, 0.98))"
     },
+    music: {
+        accent: "#e0459a",
+        warm: "#5b9cff",
+        glow: "rgba(224, 69, 154, 0.28)",
+        surface: "linear-gradient(155deg, rgba(28, 12, 24, 0.98), rgba(8, 10, 16, 0.98))"
+    },
     other: {
         accent: "#3db8a0",
         warm: "#c9a227",

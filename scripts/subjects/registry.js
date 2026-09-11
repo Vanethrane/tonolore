@@ -9,6 +9,7 @@ const {
     CATEGORY_CATALOG,
     categoriesForSubject
 } = require("./categories");
+const { musicSubjectIds } = require("./musicCatalog");
 
 const SUBJECT_IDS = [
     "one-piece",
@@ -55,7 +56,8 @@ const SUBJECT_IDS = [
     "warhammer-fantasy",
     "vampire-the-masquerade",
     "battletech",
-    "call-of-cthulhu"
+    "call-of-cthulhu",
+    ...musicSubjectIds()
 ];
 
 function loadSubject(id) {
@@ -73,7 +75,8 @@ function listSubjectMeta() {
             theme: subject.theme || subject.id,
             copyright: subject.copyright || null,
             logo: subject.logo || SUBJECT_LOGOS[id] || null,
-            categories: categoriesForSubject(id, subject.categories)
+            categories: categoriesForSubject(id, subject.categories),
+            musicGenre: subject.musicGenre || null
         };
     });
 }

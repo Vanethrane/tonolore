@@ -711,8 +711,20 @@ a {
     margin: 0 0 8px;
 }
 
-.subject-category {
-    margin-top: 36px;
+.music-genre-shelf {
+    margin-top: 28px;
+}
+
+.music-genre-shelf h3 {
+    margin-bottom: 8px;
+}
+
+.music-genre-shelf .section-lede {
+    margin-bottom: 14px;
+}
+
+.music-genre-shelf .connection-grid {
+    margin-top: 4px;
 }
 
 .subject-category:first-of-type {

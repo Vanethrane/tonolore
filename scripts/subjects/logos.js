@@ -367,7 +367,39 @@ module.exports = {
         url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Cthulhu_sketch_by_Lovecraft.jpg/500px-Cthulhu_sketch_by_Lovecraft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         alt: "Cthulhu sketch — Call of Cthulhu",
         source: "https://commons.wikimedia.org/wiki/File:Cthulhu_sketch_by_Lovecraft.jpg",
-        credit:
+            credit:
             "Public-domain Lovecraft sketch via Wikimedia Commons; Call of Cthulhu RPG © Chaosium."
-    }
+    },
+    // Music subjects — logos optional; collage falls back to genre letter when absent.
+    "the-beatles": {
+        ...FAIR_USE,
+        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/The_Beatles_member_new_york_mid-1964_%28cropped%2C_with_border%29.jpg/330px-The_Beatles_member_new_york_mid-1964_%28cropped%2C_with_border%29.jpg",
+        alt: "The Beatles identification still",
+        source: "https://commons.wikimedia.org/wiki/File:The_Beatles_member_new_york_mid-1964.jpg",
+        credit:
+            "Low-resolution identification image via Wikimedia Commons. © respective rights holders / Apple Corps."
+    },
+    "pink-floyd": { ...FAIR_USE, alt: "Pink Floyd", credit: "Fair-use identification. © Pink Floyd Ltd." },
+    "led-zeppelin": { ...FAIR_USE, alt: "Led Zeppelin", credit: "Fair-use identification. © Led Zeppelin / Warner." },
+    "wu-tang-clan": { ...FAIR_USE, alt: "Wu-Tang Clan", credit: "Fair-use identification. © Wu-Tang Productions." },
+    "public-enemy": { ...FAIR_USE, alt: "Public Enemy", credit: "Fair-use identification. © Public Enemy / Def Jam." },
+    outkast: { ...FAIR_USE, alt: "OutKast", credit: "Fair-use identification. © OutKast / LaFace." },
+    "miles-davis": { ...FAIR_USE, alt: "Miles Davis", credit: "Fair-use identification. © Estate of Miles Davis." },
+    "john-coltrane": { ...FAIR_USE, alt: "John Coltrane", credit: "Fair-use identification. © Estate of John Coltrane." },
+    "duke-ellington": { ...FAIR_USE, alt: "Duke Ellington", credit: "Fair-use identification. © Estate of Duke Ellington." },
+    "daft-punk": { ...FAIR_USE, alt: "Daft Punk", credit: "Fair-use identification. © Daft Punk." },
+    kraftwerk: { ...FAIR_USE, alt: "Kraftwerk", credit: "Fair-use identification. © Kraftwerk / Kling Klang." },
+    "aphex-twin": { ...FAIR_USE, alt: "Aphex Twin", credit: "Fair-use identification. © Richard D. James / Warp." },
+    "ludwig-van-beethoven": { ...FAIR_USE, alt: "Beethoven", credit: "Public-domain composer likenesses preferred when available." },
+    "wolfgang-amadeus-mozart": { ...FAIR_USE, alt: "Mozart", credit: "Public-domain composer likenesses preferred when available." },
+    "johann-sebastian-bach": { ...FAIR_USE, alt: "Bach", credit: "Public-domain composer likenesses preferred when available." },
+    "johnny-cash": { ...FAIR_USE, alt: "Johnny Cash", credit: "Fair-use identification. © Estate of Johnny Cash." },
+    "dolly-parton": { ...FAIR_USE, alt: "Dolly Parton", credit: "Fair-use identification. © Dolly Parton." },
+    "hank-williams": { ...FAIR_USE, alt: "Hank Williams", credit: "Fair-use identification. © Estate of Hank Williams." },
+    "black-sabbath": { ...FAIR_USE, alt: "Black Sabbath", credit: "Fair-use identification. © Black Sabbath." },
+    metallica: { ...FAIR_USE, alt: "Metallica", credit: "Fair-use identification. © Metallica." },
+    "iron-maiden": { ...FAIR_USE, alt: "Iron Maiden", credit: "Fair-use identification. © Iron Maiden." },
+    "michael-jackson": { ...FAIR_USE, alt: "Michael Jackson", credit: "Fair-use identification. © Estate of Michael Jackson." },
+    madonna: { ...FAIR_USE, alt: "Madonna", credit: "Fair-use identification. © Madonna." },
+    prince: { ...FAIR_USE, alt: "Prince", credit: "Fair-use identification. © Estate of Prince." }
 };

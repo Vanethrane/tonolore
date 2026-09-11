@@ -3,6 +3,12 @@
  * Packages may set meta.categories; otherwise SUBJECT_CATEGORY_IDS is used.
  */
 
+const {
+    MUSIC_GENRES,
+    musicSubjectIds,
+    genreIdForSubject
+} = require("./musicCatalog");
+
 const CATEGORY_CATALOG = [
     {
         id: "anime",
@@ -38,6 +44,17 @@ const CATEGORY_CATALOG = [
         id: "tabletop",
         label: "Tabletop",
         blurb: "RPGs, wargames, and card worlds shaped at the table."
+    },
+    {
+        id: "music",
+        label: "Music",
+        blurb: "Artists, catalogs, and scenes mapped by genre — follow the lore behind the songs.",
+        genres: MUSIC_GENRES.map((genre) => ({
+            id: genre.id,
+            label: genre.label,
+            blurb: genre.blurb,
+            subjectIds: genre.subjects.map((subject) => subject.id)
+        }))
     }
 ];
 
@@ -86,7 +103,8 @@ const SUBJECT_CATEGORY_IDS = {
     "warhammer-fantasy": ["tabletop"],
     "vampire-the-masquerade": ["tabletop", "books", "television"],
     battletech: ["tabletop", "video-games"],
-    "call-of-cthulhu": ["tabletop", "books"]
+    "call-of-cthulhu": ["tabletop", "books"],
+    ...Object.fromEntries(musicSubjectIds().map((id) => [id, ["music"]]))
 };
 
 function normalizeCategories(value) {
@@ -116,6 +134,9 @@ function categoriesForSubject(id, fromPackage) {
 module.exports = {
     CATEGORY_CATALOG,
     SUBJECT_CATEGORY_IDS,
+    MUSIC_GENRES,
     categoriesForSubject,
-    normalizeCategories
+    normalizeCategories,
+    genreIdForSubject,
+    musicSubjectIds
 };

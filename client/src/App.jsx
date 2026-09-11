@@ -1,6 +1,8 @@
 ﻿import React, { useEffect, useMemo, useState } from "react";
 import "./App.css";
+import "./musicSubjectThemes.css";
 import { categoryTheme } from "./categoryThemes";
+import { entityImageToMediaAsset, IpInfobox } from "./fairUse";
 import {
     fetchPageBySlug,
     fetchSubjectsCatalog,
@@ -43,6 +45,65 @@ const FALLBACK_CATEGORIES = [
         id: "tabletop",
         label: "Tabletop",
         blurb: "RPGs, wargames, and card worlds shaped at the table."
+    },
+    {
+        id: "music",
+        label: "Music",
+        blurb: "Artists, catalogs, and scenes mapped by genre — follow the lore behind the songs.",
+        genres: [
+            {
+                id: "rock",
+                label: "Rock",
+                blurb: "Bands and catalogs that rewired guitars, albums, and arena myth.",
+                subjectIds: ["the-beatles", "pink-floyd", "led-zeppelin"]
+            },
+            {
+                id: "hip-hop",
+                label: "Hip-hop",
+                blurb: "Crews, catalogs, and myth-making from the block to the global chart.",
+                subjectIds: ["wu-tang-clan", "public-enemy", "outkast"]
+            },
+            {
+                id: "jazz",
+                label: "Jazz",
+                blurb: "Improvisers, composers, and sessions that keep rewriting the standard book.",
+                subjectIds: ["miles-davis", "john-coltrane", "duke-ellington"]
+            },
+            {
+                id: "electronic",
+                label: "Electronic",
+                blurb: "Machines, clubs, and studio identities that turned electricity into genre.",
+                subjectIds: ["daft-punk", "kraftwerk", "aphex-twin"]
+            },
+            {
+                id: "classical",
+                label: "Classical",
+                blurb: "Composers whose catalogs still organize concert halls and music education.",
+                subjectIds: [
+                    "ludwig-van-beethoven",
+                    "wolfgang-amadeus-mozart",
+                    "johann-sebastian-bach"
+                ]
+            },
+            {
+                id: "country",
+                label: "Country",
+                blurb: "Storytellers of place, faith, work, and the American road.",
+                subjectIds: ["johnny-cash", "dolly-parton", "hank-williams"]
+            },
+            {
+                id: "metal",
+                label: "Metal",
+                blurb: "Riffs, mascots, and underground-to-arena worlds built on volume and myth.",
+                subjectIds: ["black-sabbath", "metallica", "iron-maiden"]
+            },
+            {
+                id: "pop",
+                label: "Pop",
+                blurb: "Global star systems where image, choreography, and hit craft intertwine.",
+                subjectIds: ["michael-jackson", "madonna", "prince"]
+            }
+        ]
     }
 ];
 
@@ -858,32 +919,86 @@ function CategoryPage({ categoryId, navigate }) {
 
                 <section className="subjects">
                     <div className="section-heading">
-                        <h2>Subjects</h2>
+                        <h2>
+                            {section.genres?.length
+                                ? "Browse by genre"
+                                : "Subjects"}
+                        </h2>
                         <p className="section-lede">
-                            Larger graphs first — pick a franchise, then follow
-                            its strongest links.
+                            {section.genres?.length
+                                ? "Eight genre shelves — three deep-lore subjects in each."
+                                : "Larger graphs first — pick a franchise, then follow its strongest links."}
                         </p>
                     </div>
-                    <div className="connection-grid">
-                        {section.subjects
-                            .slice()
-                            .sort((a, b) => {
-                                const byCount =
-                                    (b.entity_count || 0) -
-                                    (a.entity_count || 0);
-                                if (byCount !== 0) {
-                                    return byCount;
-                                }
-                                return a.name.localeCompare(b.name);
-                            })
-                            .map((subject) => (
-                                <SubjectCard
-                                    key={subject.id}
-                                    subject={subject}
-                                    navigate={navigate}
-                                />
-                            ))}
-                    </div>
+
+                    {section.genres?.length ? (
+                        section.genres.map((genre) => {
+                            const genreSubjects = section.subjects
+                                .filter(
+                                    (subject) =>
+                                        (genre.subjectIds || []).includes(
+                                            subject.id
+                                        ) ||
+                                        subject.musicGenre === genre.id
+                                )
+                                .sort(
+                                    (a, b) =>
+                                        (b.entity_count || 0) -
+                                            (a.entity_count || 0) ||
+                                        a.name.localeCompare(b.name)
+                                );
+
+                            if (!genreSubjects.length) {
+                                return null;
+                            }
+
+                            return (
+                                <div
+                                    className="subject-category music-genre-shelf"
+                                    key={genre.id}
+                                    id={`genre-${genre.id}`}
+                                >
+                                    <h3>{genre.label}</h3>
+                                    {genre.blurb ? (
+                                        <p className="section-lede">
+                                            {genre.blurb}
+                                        </p>
+                                    ) : null}
+                                    <div className="connection-grid">
+                                        {genreSubjects.map((subject) => (
+                                            <SubjectCard
+                                                key={subject.id}
+                                                subject={subject}
+                                                navigate={navigate}
+                                            />
+                                        ))}
+                                    </div>
+                                </div>
+                            );
+                        })
+                    ) : (
+                        <div className="connection-grid">
+                            {section.subjects
+                                .slice()
+                                .sort((a, b) => {
+                                    const byCount =
+                                        (b.entity_count || 0) -
+                                        (a.entity_count || 0);
+                                    if (byCount !== 0) {
+                                        return byCount;
+                                    }
+                                    return a.name.localeCompare(b.name);
+                                })
+                                .map((subject) => (
+                                    <SubjectCard
+                                        key={subject.id}
+                                        subject={subject}
+                                        navigate={navigate}
+                                    />
+                                ))}
+                        </div>
+                    )}
+
                     <p className="subjects-fair-use muted">
                         Subject logos are low-resolution marks used under a
                         fair-use rationale for commentary and learning
@@ -1246,53 +1361,22 @@ function App() {
                             ) : null}
                         </figure>
                     ) : null}
-                    <div className="eyebrow">{page.entity.type}</div>
-                    <h1>{page.entity.name}</h1>
-                    {page.entity.aliases?.length ? (
-                        <p className="aliases muted">
-                            Also known as {page.entity.aliases.join(", ")}
-                        </p>
-                    ) : null}
 
-                    {page.entity.image_url ? (
-                        <figure className="entity-art">
-                            <img
-                                src={page.entity.image_url}
-                                alt={
-                                    page.entity.image_alt ||
-                                    page.entity.name
-                                }
-                                loading="lazy"
-                                referrerPolicy="no-referrer"
-                                onError={hideBrokenImage}
-                            />
-                            <figcaption>
-                                {page.entity.image_license === "fair_use" ? (
-                                    <span>
-                                        Fair-use identification thumbnail
-                                        — not free artwork.
-                                    </span>
-                                ) : null}
-                                {page.entity.image_credit ? (
-                                    <span>{page.entity.image_credit}</span>
-                                ) : null}
-                                {page.entity.image_source ? (
-                                    <span>
-                                        <a
-                                            href={page.entity.image_source}
-                                            target="_blank"
-                                            rel="noreferrer"
-                                        >
-                                            Source
-                                        </a>
-                                    </span>
-                                ) : null}
-                            </figcaption>
-                        </figure>
-                    ) : null}
+                    <IpInfobox
+                        title={page.entity.name}
+                        entityType={page.entity.type}
+                        aliases={page.entity.aliases}
+                        franchise={brand?.name || page.entity.universe}
+                        image={entityImageToMediaAsset(
+                            page.entity,
+                            page.page.overview ? "overview" : "content"
+                        )}
+                        onBrokenImage={hideBrokenImage}
+                    />
 
                     {page.page.overview ? (
                         <div
+                            id="overview"
                             className="what-is"
                             dangerouslySetInnerHTML={{
                                 __html: page.page.overview

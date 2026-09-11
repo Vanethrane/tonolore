@@ -1,0 +1,120 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://www.tonolore.com/schemas/ip-article.schema.json",
+  "title": "Ton-o-Lore IP Article (Fair Use / NFCC)",
+  "type": "object",
+  "required": ["slug", "title", "entityType", "sections", "gallery"],
+  "additionalProperties": false,
+  "properties": {
+    "slug": { "type": "string", "minLength": 1 },
+    "title": { "type": "string", "minLength": 1 },
+    "subtitle": { "type": "string" },
+    "entityType": { "type": "string" },
+    "aliases": { "type": "array", "items": { "type": "string" } },
+    "franchise": { "type": "string" },
+    "infoboxImage": { "oneOf": [{ "$ref": "#/$defs/mediaAsset" }, { "type": "null" }] },
+    "gallery": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/mediaAsset" }
+    },
+    "sections": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/articleSection" }
+    },
+    "copyrightNotice": {
+      "type": "object",
+      "properties": {
+        "title": { "type": "string" },
+        "body": { "type": "string" }
+      }
+    }
+  },
+  "$defs": {
+    "fairUseRationale": {
+      "type": "object",
+      "required": [
+        "copyrightHolder",
+        "sourceAttribution",
+        "purposeOfUse",
+        "nonReplaceabilityStatement",
+        "minimalityStatement",
+        "commentarySectionId",
+        "commentaryExcerpt"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "copyrightHolder": { "type": "string", "minLength": 2 },
+        "sourceAttribution": { "type": "string", "minLength": 2 },
+        "sourceUrl": { "type": "string", "format": "uri" },
+        "purposeOfUse": { "type": "string", "minLength": 8 },
+        "nonReplaceabilityStatement": { "type": "string", "minLength": 20 },
+        "minimalityStatement": { "type": "string", "minLength": 20 },
+        "commentarySectionId": { "type": "string", "minLength": 1 },
+        "commentaryExcerpt": { "type": "string", "minLength": 40 }
+      }
+    },
+    "mediaAsset": {
+      "type": "object",
+      "required": ["id", "url", "alt", "license"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string" },
+        "url": { "type": "string" },
+        "originalUrl": {
+          "type": "string",
+          "description": "Reference only; never use as img src for non-free assets"
+        },
+        "alt": { "type": "string", "minLength": 3 },
+        "license": {
+          "type": "string",
+          "enum": [
+            "public_domain",
+            "cc0",
+            "cc_by",
+            "cc_by_sa",
+            "fair_use",
+            "unknown_non_free"
+          ]
+        },
+        "width": { "type": "integer", "maximum": 400 },
+        "height": { "type": "integer", "maximum": 400 },
+        "isFree": { "type": "boolean" },
+        "fairUseRationale": { "$ref": "#/$defs/fairUseRationale" }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "license": {
+                "enum": ["fair_use", "unknown_non_free"]
+              }
+            },
+            "required": ["license"]
+          },
+          "then": {
+            "required": ["fairUseRationale", "width", "height"],
+            "properties": {
+              "width": { "type": "integer", "maximum": 400 },
+              "height": { "type": "integer", "maximum": 400 }
+            }
+          }
+        }
+      ]
+    },
+    "articleSection": {
+      "type": "object",
+      "required": ["id", "heading", "html"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string" },
+        "heading": { "type": "string" },
+        "html": { "type": "string", "minLength": 40 },
+        "mediaIds": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    }
+  }
+}

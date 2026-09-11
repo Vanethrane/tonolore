@@ -1,0 +1,552 @@
+/* Auto-scaffolded music subject themes — 8 genres × 3 subjects */
+
+/* ---------- The Beatles (Rock) ---------- */
+.theme-the-beatles {
+    --accent: #e05050;
+    --accent-soft: color-mix(in srgb, #e05050 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #e05050 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-the-beatles .hero h1 { color: #f2efe8; }
+.theme-the-beatles .eyebrow,
+.theme-the-beatles .connection-type { color: #e05050; }
+.theme-the-beatles .follow,
+.theme-the-beatles .content a,
+.theme-the-beatles .entity-link { color: #e05050; }
+.subject-card.theme-preview-the-beatles {
+    border-color: color-mix(in srgb, #e05050 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #e05050 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-the-beatles .connection-type,
+.subject-card.theme-preview-the-beatles .follow { color: #e05050; }
+
+
+/* ---------- Pink Floyd (Rock) ---------- */
+.theme-pink-floyd {
+    --accent: #e05050;
+    --accent-soft: color-mix(in srgb, #e05050 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #e05050 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-pink-floyd .hero h1 { color: #f2efe8; }
+.theme-pink-floyd .eyebrow,
+.theme-pink-floyd .connection-type { color: #e05050; }
+.theme-pink-floyd .follow,
+.theme-pink-floyd .content a,
+.theme-pink-floyd .entity-link { color: #e05050; }
+.subject-card.theme-preview-pink-floyd {
+    border-color: color-mix(in srgb, #e05050 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #e05050 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-pink-floyd .connection-type,
+.subject-card.theme-preview-pink-floyd .follow { color: #e05050; }
+
+
+/* ---------- Led Zeppelin (Rock) ---------- */
+.theme-led-zeppelin {
+    --accent: #e05050;
+    --accent-soft: color-mix(in srgb, #e05050 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #e05050 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-led-zeppelin .hero h1 { color: #f2efe8; }
+.theme-led-zeppelin .eyebrow,
+.theme-led-zeppelin .connection-type { color: #e05050; }
+.theme-led-zeppelin .follow,
+.theme-led-zeppelin .content a,
+.theme-led-zeppelin .entity-link { color: #e05050; }
+.subject-card.theme-preview-led-zeppelin {
+    border-color: color-mix(in srgb, #e05050 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #e05050 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-led-zeppelin .connection-type,
+.subject-card.theme-preview-led-zeppelin .follow { color: #e05050; }
+
+
+/* ---------- Wu-Tang Clan (Hip-hop) ---------- */
+.theme-wu-tang-clan {
+    --accent: #f0a020;
+    --accent-soft: color-mix(in srgb, #f0a020 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #f0a020 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-wu-tang-clan .hero h1 { color: #f2efe8; }
+.theme-wu-tang-clan .eyebrow,
+.theme-wu-tang-clan .connection-type { color: #f0a020; }
+.theme-wu-tang-clan .follow,
+.theme-wu-tang-clan .content a,
+.theme-wu-tang-clan .entity-link { color: #f0a020; }
+.subject-card.theme-preview-wu-tang-clan {
+    border-color: color-mix(in srgb, #f0a020 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #f0a020 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-wu-tang-clan .connection-type,
+.subject-card.theme-preview-wu-tang-clan .follow { color: #f0a020; }
+
+
+/* ---------- Public Enemy (Hip-hop) ---------- */
+.theme-public-enemy {
+    --accent: #f0a020;
+    --accent-soft: color-mix(in srgb, #f0a020 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #f0a020 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-public-enemy .hero h1 { color: #f2efe8; }
+.theme-public-enemy .eyebrow,
+.theme-public-enemy .connection-type { color: #f0a020; }
+.theme-public-enemy .follow,
+.theme-public-enemy .content a,
+.theme-public-enemy .entity-link { color: #f0a020; }
+.subject-card.theme-preview-public-enemy {
+    border-color: color-mix(in srgb, #f0a020 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #f0a020 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-public-enemy .connection-type,
+.subject-card.theme-preview-public-enemy .follow { color: #f0a020; }
+
+
+/* ---------- OutKast (Hip-hop) ---------- */
+.theme-outkast {
+    --accent: #f0a020;
+    --accent-soft: color-mix(in srgb, #f0a020 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #f0a020 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-outkast .hero h1 { color: #f2efe8; }
+.theme-outkast .eyebrow,
+.theme-outkast .connection-type { color: #f0a020; }
+.theme-outkast .follow,
+.theme-outkast .content a,
+.theme-outkast .entity-link { color: #f0a020; }
+.subject-card.theme-preview-outkast {
+    border-color: color-mix(in srgb, #f0a020 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #f0a020 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-outkast .connection-type,
+.subject-card.theme-preview-outkast .follow { color: #f0a020; }
+
+
+/* ---------- Miles Davis (Jazz) ---------- */
+.theme-miles-davis {
+    --accent: #5b9cff;
+    --accent-soft: color-mix(in srgb, #5b9cff 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #5b9cff 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-miles-davis .hero h1 { color: #f2efe8; }
+.theme-miles-davis .eyebrow,
+.theme-miles-davis .connection-type { color: #5b9cff; }
+.theme-miles-davis .follow,
+.theme-miles-davis .content a,
+.theme-miles-davis .entity-link { color: #5b9cff; }
+.subject-card.theme-preview-miles-davis {
+    border-color: color-mix(in srgb, #5b9cff 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #5b9cff 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-miles-davis .connection-type,
+.subject-card.theme-preview-miles-davis .follow { color: #5b9cff; }
+
+
+/* ---------- John Coltrane (Jazz) ---------- */
+.theme-john-coltrane {
+    --accent: #5b9cff;
+    --accent-soft: color-mix(in srgb, #5b9cff 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #5b9cff 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-john-coltrane .hero h1 { color: #f2efe8; }
+.theme-john-coltrane .eyebrow,
+.theme-john-coltrane .connection-type { color: #5b9cff; }
+.theme-john-coltrane .follow,
+.theme-john-coltrane .content a,
+.theme-john-coltrane .entity-link { color: #5b9cff; }
+.subject-card.theme-preview-john-coltrane {
+    border-color: color-mix(in srgb, #5b9cff 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #5b9cff 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-john-coltrane .connection-type,
+.subject-card.theme-preview-john-coltrane .follow { color: #5b9cff; }
+
+
+/* ---------- Duke Ellington (Jazz) ---------- */
+.theme-duke-ellington {
+    --accent: #5b9cff;
+    --accent-soft: color-mix(in srgb, #5b9cff 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #5b9cff 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-duke-ellington .hero h1 { color: #f2efe8; }
+.theme-duke-ellington .eyebrow,
+.theme-duke-ellington .connection-type { color: #5b9cff; }
+.theme-duke-ellington .follow,
+.theme-duke-ellington .content a,
+.theme-duke-ellington .entity-link { color: #5b9cff; }
+.subject-card.theme-preview-duke-ellington {
+    border-color: color-mix(in srgb, #5b9cff 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #5b9cff 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-duke-ellington .connection-type,
+.subject-card.theme-preview-duke-ellington .follow { color: #5b9cff; }
+
+
+/* ---------- Daft Punk (Electronic) ---------- */
+.theme-daft-punk {
+    --accent: #3dcf9a;
+    --accent-soft: color-mix(in srgb, #3dcf9a 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #3dcf9a 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-daft-punk .hero h1 { color: #f2efe8; }
+.theme-daft-punk .eyebrow,
+.theme-daft-punk .connection-type { color: #3dcf9a; }
+.theme-daft-punk .follow,
+.theme-daft-punk .content a,
+.theme-daft-punk .entity-link { color: #3dcf9a; }
+.subject-card.theme-preview-daft-punk {
+    border-color: color-mix(in srgb, #3dcf9a 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #3dcf9a 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-daft-punk .connection-type,
+.subject-card.theme-preview-daft-punk .follow { color: #3dcf9a; }
+
+
+/* ---------- Kraftwerk (Electronic) ---------- */
+.theme-kraftwerk {
+    --accent: #3dcf9a;
+    --accent-soft: color-mix(in srgb, #3dcf9a 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #3dcf9a 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-kraftwerk .hero h1 { color: #f2efe8; }
+.theme-kraftwerk .eyebrow,
+.theme-kraftwerk .connection-type { color: #3dcf9a; }
+.theme-kraftwerk .follow,
+.theme-kraftwerk .content a,
+.theme-kraftwerk .entity-link { color: #3dcf9a; }
+.subject-card.theme-preview-kraftwerk {
+    border-color: color-mix(in srgb, #3dcf9a 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #3dcf9a 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-kraftwerk .connection-type,
+.subject-card.theme-preview-kraftwerk .follow { color: #3dcf9a; }
+
+
+/* ---------- Aphex Twin (Electronic) ---------- */
+.theme-aphex-twin {
+    --accent: #3dcf9a;
+    --accent-soft: color-mix(in srgb, #3dcf9a 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #3dcf9a 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-aphex-twin .hero h1 { color: #f2efe8; }
+.theme-aphex-twin .eyebrow,
+.theme-aphex-twin .connection-type { color: #3dcf9a; }
+.theme-aphex-twin .follow,
+.theme-aphex-twin .content a,
+.theme-aphex-twin .entity-link { color: #3dcf9a; }
+.subject-card.theme-preview-aphex-twin {
+    border-color: color-mix(in srgb, #3dcf9a 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #3dcf9a 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-aphex-twin .connection-type,
+.subject-card.theme-preview-aphex-twin .follow { color: #3dcf9a; }
+
+
+/* ---------- Ludwig van Beethoven (Classical) ---------- */
+.theme-ludwig-van-beethoven {
+    --accent: #d4a24c;
+    --accent-soft: color-mix(in srgb, #d4a24c 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #d4a24c 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-ludwig-van-beethoven .hero h1 { color: #f2efe8; }
+.theme-ludwig-van-beethoven .eyebrow,
+.theme-ludwig-van-beethoven .connection-type { color: #d4a24c; }
+.theme-ludwig-van-beethoven .follow,
+.theme-ludwig-van-beethoven .content a,
+.theme-ludwig-van-beethoven .entity-link { color: #d4a24c; }
+.subject-card.theme-preview-ludwig-van-beethoven {
+    border-color: color-mix(in srgb, #d4a24c 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #d4a24c 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-ludwig-van-beethoven .connection-type,
+.subject-card.theme-preview-ludwig-van-beethoven .follow { color: #d4a24c; }
+
+
+/* ---------- Wolfgang Amadeus Mozart (Classical) ---------- */
+.theme-wolfgang-amadeus-mozart {
+    --accent: #d4a24c;
+    --accent-soft: color-mix(in srgb, #d4a24c 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #d4a24c 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-wolfgang-amadeus-mozart .hero h1 { color: #f2efe8; }
+.theme-wolfgang-amadeus-mozart .eyebrow,
+.theme-wolfgang-amadeus-mozart .connection-type { color: #d4a24c; }
+.theme-wolfgang-amadeus-mozart .follow,
+.theme-wolfgang-amadeus-mozart .content a,
+.theme-wolfgang-amadeus-mozart .entity-link { color: #d4a24c; }
+.subject-card.theme-preview-wolfgang-amadeus-mozart {
+    border-color: color-mix(in srgb, #d4a24c 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #d4a24c 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-wolfgang-amadeus-mozart .connection-type,
+.subject-card.theme-preview-wolfgang-amadeus-mozart .follow { color: #d4a24c; }
+
+
+/* ---------- Johann Sebastian Bach (Classical) ---------- */
+.theme-johann-sebastian-bach {
+    --accent: #d4a24c;
+    --accent-soft: color-mix(in srgb, #d4a24c 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #d4a24c 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-johann-sebastian-bach .hero h1 { color: #f2efe8; }
+.theme-johann-sebastian-bach .eyebrow,
+.theme-johann-sebastian-bach .connection-type { color: #d4a24c; }
+.theme-johann-sebastian-bach .follow,
+.theme-johann-sebastian-bach .content a,
+.theme-johann-sebastian-bach .entity-link { color: #d4a24c; }
+.subject-card.theme-preview-johann-sebastian-bach {
+    border-color: color-mix(in srgb, #d4a24c 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #d4a24c 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-johann-sebastian-bach .connection-type,
+.subject-card.theme-preview-johann-sebastian-bach .follow { color: #d4a24c; }
+
+
+/* ---------- Johnny Cash (Country) ---------- */
+.theme-johnny-cash {
+    --accent: #c9a227;
+    --accent-soft: color-mix(in srgb, #c9a227 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #c9a227 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-johnny-cash .hero h1 { color: #f2efe8; }
+.theme-johnny-cash .eyebrow,
+.theme-johnny-cash .connection-type { color: #c9a227; }
+.theme-johnny-cash .follow,
+.theme-johnny-cash .content a,
+.theme-johnny-cash .entity-link { color: #c9a227; }
+.subject-card.theme-preview-johnny-cash {
+    border-color: color-mix(in srgb, #c9a227 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #c9a227 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-johnny-cash .connection-type,
+.subject-card.theme-preview-johnny-cash .follow { color: #c9a227; }
+
+
+/* ---------- Dolly Parton (Country) ---------- */
+.theme-dolly-parton {
+    --accent: #c9a227;
+    --accent-soft: color-mix(in srgb, #c9a227 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #c9a227 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-dolly-parton .hero h1 { color: #f2efe8; }
+.theme-dolly-parton .eyebrow,
+.theme-dolly-parton .connection-type { color: #c9a227; }
+.theme-dolly-parton .follow,
+.theme-dolly-parton .content a,
+.theme-dolly-parton .entity-link { color: #c9a227; }
+.subject-card.theme-preview-dolly-parton {
+    border-color: color-mix(in srgb, #c9a227 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #c9a227 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-dolly-parton .connection-type,
+.subject-card.theme-preview-dolly-parton .follow { color: #c9a227; }
+
+
+/* ---------- Hank Williams (Country) ---------- */
+.theme-hank-williams {
+    --accent: #c9a227;
+    --accent-soft: color-mix(in srgb, #c9a227 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #c9a227 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-hank-williams .hero h1 { color: #f2efe8; }
+.theme-hank-williams .eyebrow,
+.theme-hank-williams .connection-type { color: #c9a227; }
+.theme-hank-williams .follow,
+.theme-hank-williams .content a,
+.theme-hank-williams .entity-link { color: #c9a227; }
+.subject-card.theme-preview-hank-williams {
+    border-color: color-mix(in srgb, #c9a227 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #c9a227 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-hank-williams .connection-type,
+.subject-card.theme-preview-hank-williams .follow { color: #c9a227; }
+
+
+/* ---------- Black Sabbath (Metal) ---------- */
+.theme-black-sabbath {
+    --accent: #9a9aaa;
+    --accent-soft: color-mix(in srgb, #9a9aaa 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #9a9aaa 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-black-sabbath .hero h1 { color: #f2efe8; }
+.theme-black-sabbath .eyebrow,
+.theme-black-sabbath .connection-type { color: #9a9aaa; }
+.theme-black-sabbath .follow,
+.theme-black-sabbath .content a,
+.theme-black-sabbath .entity-link { color: #9a9aaa; }
+.subject-card.theme-preview-black-sabbath {
+    border-color: color-mix(in srgb, #9a9aaa 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #9a9aaa 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-black-sabbath .connection-type,
+.subject-card.theme-preview-black-sabbath .follow { color: #9a9aaa; }
+
+
+/* ---------- Metallica (Metal) ---------- */
+.theme-metallica {
+    --accent: #9a9aaa;
+    --accent-soft: color-mix(in srgb, #9a9aaa 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #9a9aaa 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-metallica .hero h1 { color: #f2efe8; }
+.theme-metallica .eyebrow,
+.theme-metallica .connection-type { color: #9a9aaa; }
+.theme-metallica .follow,
+.theme-metallica .content a,
+.theme-metallica .entity-link { color: #9a9aaa; }
+.subject-card.theme-preview-metallica {
+    border-color: color-mix(in srgb, #9a9aaa 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #9a9aaa 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-metallica .connection-type,
+.subject-card.theme-preview-metallica .follow { color: #9a9aaa; }
+
+
+/* ---------- Iron Maiden (Metal) ---------- */
+.theme-iron-maiden {
+    --accent: #9a9aaa;
+    --accent-soft: color-mix(in srgb, #9a9aaa 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #9a9aaa 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-iron-maiden .hero h1 { color: #f2efe8; }
+.theme-iron-maiden .eyebrow,
+.theme-iron-maiden .connection-type { color: #9a9aaa; }
+.theme-iron-maiden .follow,
+.theme-iron-maiden .content a,
+.theme-iron-maiden .entity-link { color: #9a9aaa; }
+.subject-card.theme-preview-iron-maiden {
+    border-color: color-mix(in srgb, #9a9aaa 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #9a9aaa 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-iron-maiden .connection-type,
+.subject-card.theme-preview-iron-maiden .follow { color: #9a9aaa; }
+
+
+/* ---------- Michael Jackson (Pop) ---------- */
+.theme-michael-jackson {
+    --accent: #e0459a;
+    --accent-soft: color-mix(in srgb, #e0459a 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #e0459a 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-michael-jackson .hero h1 { color: #f2efe8; }
+.theme-michael-jackson .eyebrow,
+.theme-michael-jackson .connection-type { color: #e0459a; }
+.theme-michael-jackson .follow,
+.theme-michael-jackson .content a,
+.theme-michael-jackson .entity-link { color: #e0459a; }
+.subject-card.theme-preview-michael-jackson {
+    border-color: color-mix(in srgb, #e0459a 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #e0459a 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-michael-jackson .connection-type,
+.subject-card.theme-preview-michael-jackson .follow { color: #e0459a; }
+
+
+/* ---------- Madonna (Pop) ---------- */
+.theme-madonna {
+    --accent: #e0459a;
+    --accent-soft: color-mix(in srgb, #e0459a 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #e0459a 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-madonna .hero h1 { color: #f2efe8; }
+.theme-madonna .eyebrow,
+.theme-madonna .connection-type { color: #e0459a; }
+.theme-madonna .follow,
+.theme-madonna .content a,
+.theme-madonna .entity-link { color: #e0459a; }
+.subject-card.theme-preview-madonna {
+    border-color: color-mix(in srgb, #e0459a 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #e0459a 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-madonna .connection-type,
+.subject-card.theme-preview-madonna .follow { color: #e0459a; }
+
+
+/* ---------- Prince (Pop) ---------- */
+.theme-prince {
+    --accent: #e0459a;
+    --accent-soft: color-mix(in srgb, #e0459a 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #e0459a 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-prince .hero h1 { color: #f2efe8; }
+.theme-prince .eyebrow,
+.theme-prince .connection-type { color: #e0459a; }
+.theme-prince .follow,
+.theme-prince .content a,
+.theme-prince .entity-link { color: #e0459a; }
+.subject-card.theme-preview-prince {
+    border-color: color-mix(in srgb, #e0459a 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #e0459a 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-prince .connection-type,
+.subject-card.theme-preview-prince .follow { color: #e0459a; }

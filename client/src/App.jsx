@@ -3,6 +3,7 @@ import "./App.css";
 import "./musicSubjectThemes.css";
 import "./tabletopCardThemes.css";
 import { categoryTheme } from "./categoryThemes";
+import { connectionLoreBlurb } from "./connectionLore";
 import { entityImageToMediaAsset, IpInfobox } from "./fairUse";
 import {
     fetchPageBySlug,
@@ -580,17 +581,17 @@ function ConnectionCard({
     connection,
     navigate,
     featured = false,
-    showBadge = false
+    showBadge = false,
+    fromName = "This page"
 }) {
     const path = (connection.path || `/${connection.slug}`).replace(
         /^\/+/,
         ""
     );
-    const blurb =
-        connection.title ||
-        connection.short_description ||
-        connection.explanation ||
-        "";
+    const blurb = connectionLoreBlurb(connection, {
+        fromName,
+        relationshipLabel
+    });
 
     return (
         <a
@@ -635,6 +636,62 @@ function ConnectionCard({
 
             <span className="follow">Open →</span>
         </a>
+    );
+}
+
+function SharedLoreSection({ entityName, connections, navigate }) {
+    if (!connections?.length) {
+        return null;
+    }
+
+    return (
+        <section className="shared-lore" id="shared-lore">
+            <div className="section-heading">
+                <h2>Shared lore</h2>
+                <p className="section-lede">
+                    Why {entityName} is linked to each mapped page — not just
+                    that a connection exists.
+                </p>
+            </div>
+            <ul className="shared-lore-list">
+                {connections.map((connection) => {
+                    const path = (
+                        connection.path || `/${connection.slug}`
+                    ).replace(/^\/+/, "");
+                    const blurb = connectionLoreBlurb(connection, {
+                        fromName: entityName,
+                        relationshipLabel
+                    });
+
+                    return (
+                        <li key={connection.id}>
+                            <a
+                                className="shared-lore-name"
+                                href={`/${path}`}
+                                onClick={(event) => {
+                                    if (
+                                        event.metaKey ||
+                                        event.ctrlKey ||
+                                        event.shiftKey ||
+                                        event.altKey
+                                    ) {
+                                        return;
+                                    }
+                                    event.preventDefault();
+                                    navigate({ type: "page", slug: path });
+                                }}
+                            >
+                                {connection.name}
+                            </a>
+                            <span className="shared-lore-type">
+                                {relationshipLabel(connection)}
+                            </span>
+                            <p>{blurb}</p>
+                        </li>
+                    );
+                })}
+            </ul>
+        </section>
     );
 }
 
@@ -1441,6 +1498,12 @@ function App() {
                     )}
                 </section>
 
+                <SharedLoreSection
+                    entityName={page.entity.name}
+                    connections={[...featured, ...more]}
+                    navigate={navigate}
+                />
+
                 <section className="connections">
                     <div className="section-heading">
                         <h2>Where to go next</h2>
@@ -1464,6 +1527,7 @@ function App() {
                                     navigate={navigate}
                                     featured={Boolean(more.length)}
                                     showBadge={Boolean(more.length)}
+                                    fromName={page.entity.name}
                                 />
                             ))}
                         </div>
@@ -1480,6 +1544,7 @@ function App() {
                                         key={connection.id}
                                         connection={connection}
                                         navigate={navigate}
+                                        fromName={page.entity.name}
                                     />
                                 ))}
                             </div>

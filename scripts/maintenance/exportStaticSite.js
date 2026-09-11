@@ -39,6 +39,10 @@ const {
     buildCategoryHtml,
     buildNotFoundHtml
 } = require("../lib/staticSeo");
+const {
+    connectionLoreBlurb,
+    isGenericSharedLoreTitle
+} = require("../lib/connectionLore");
 
 const SITE_URL = (
     process.env.SITE_URL ||
@@ -349,7 +353,20 @@ function buildPagePayload(page, connections, rabbitHoles) {
             image_usage: page.image_usage,
             image_alt: page.image_alt
         },
-        connections,
+        connections: (connections || []).map((connection) => {
+            const lore = connectionLoreBlurb(connection, {
+                fromName: page.entity_name
+            });
+            const title = isGenericSharedLoreTitle(connection.title)
+                ? lore
+                : connection.title;
+
+            return {
+                ...connection,
+                title,
+                explanation: connection.explanation || lore
+            };
+        }),
         rabbit_holes: rabbitHoles,
         copyright: subjectMeta?.copyright
             ? {

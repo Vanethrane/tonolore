@@ -285,14 +285,15 @@ async function seedSubject(subject, options = {}) {
             [ids]
         );
 
-        for (const [
-            from,
-            to,
-            relationship,
-            title,
-            strength = 0.95,
-            discoveryScore = 0.9
-        ] of relationships) {
+        for (const rel of relationships) {
+            const from = rel[0];
+            const to = rel[1];
+            const relationship = rel[2];
+            const title = rel[3];
+            const strength = rel[4] ?? 0.95;
+            const discoveryScore = rel[5] ?? 0.9;
+            const explanation = rel[6] || null;
+
             if (!entityIds[from]) {
                 throw new Error(`Missing FROM entity in relationship: ${from}`);
             }
@@ -308,6 +309,7 @@ async function seedSubject(subject, options = {}) {
                     to_entity_id,
                     relationship,
                     title,
+                    explanation,
                     strength,
                     discovery_score
                 )
@@ -317,7 +319,8 @@ async function seedSubject(subject, options = {}) {
                     $3::relationship_type,
                     $4,
                     $5,
-                    $6
+                    $6,
+                    $7
                 )
                 ON CONFLICT (
                     from_entity_id,
@@ -326,6 +329,7 @@ async function seedSubject(subject, options = {}) {
                 )
                 DO UPDATE SET
                     title = EXCLUDED.title,
+                    explanation = COALESCE(EXCLUDED.explanation, relationships.explanation),
                     strength = EXCLUDED.strength,
                     discovery_score = EXCLUDED.discovery_score,
                     updated_at = NOW()
@@ -335,6 +339,7 @@ async function seedSubject(subject, options = {}) {
                     entityIds[to],
                     relationship,
                     title,
+                    explanation,
                     strength,
                     discoveryScore
                 ]

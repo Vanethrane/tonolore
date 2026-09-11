@@ -4,6 +4,10 @@ const {
     getSubjectMeta,
     listSubjectMeta
 } = require("../../../scripts/subjects/registry");
+const {
+    connectionLoreBlurb,
+    isGenericSharedLoreTitle
+} = require("../../../scripts/lib/connectionLore");
 const { getSiteUrl, absoluteCanonical } = require("../lib/siteUrl");
 
 function extractOverview(content) {
@@ -215,7 +219,18 @@ async function getPage(req, res) {
                 image_alt: page.image_alt
             },
 
-            connections: connectionsResult.rows,
+            connections: connectionsResult.rows.map((connection) => {
+                const lore = connectionLoreBlurb(connection, {
+                    fromName: page.entity_name
+                });
+                return {
+                    ...connection,
+                    title: isGenericSharedLoreTitle(connection.title)
+                        ? lore
+                        : connection.title,
+                    explanation: connection.explanation || lore
+                };
+            }),
 
             rabbit_holes: rabbitHolesResult.rows,
 

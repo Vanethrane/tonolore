@@ -3,6 +3,7 @@
  */
 
 const { relationshipLabel } = require("../../lib/relationshipLabels");
+const { connectionLoreBlurb } = require("../../lib/connectionLore");
 
 function escapeHtml(value) {
     return String(value || "")
@@ -232,13 +233,7 @@ function buildAliasesBlock(entity) {
 
 function buildConnectionNarrative(entity, connections, linkEntitiesInText) {
     const facts = rankConnections(connections)
-        .filter(
-            (connection) =>
-                connection.name &&
-                (connection.explanation ||
-                    connection.title ||
-                    connection.short_description)
-        )
+        .filter((connection) => connection.name)
         .slice(0, 8);
 
     if (!facts.length) {
@@ -248,11 +243,10 @@ function buildConnectionNarrative(entity, connections, linkEntitiesInText) {
     const items = facts
         .map((connection) => {
             const label = relationshipLabel(connection);
-            const detail = normalizeSpace(
-                connection.explanation ||
-                    connection.title ||
-                    connection.short_description
-            );
+            const detail = connectionLoreBlurb(connection, {
+                fromName: entity.name,
+                relationshipLabel
+            });
             const href = connection.path || `/${connection.slug}`;
 
             return `

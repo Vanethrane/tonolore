@@ -7,6 +7,8 @@
  * in either direction between the pair.
  */
 
+const { buildMentionLore } = require("./connectionLore");
+
 function escapeRegex(value) {
     return String(value).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
@@ -113,14 +115,16 @@ function expandMentions(entities, relationships = [], options = {}) {
             linked.add(key);
 
             const other = bySlug.get(slug);
+            const lore = buildMentionLore(entity, other);
 
             expanded.push([
                 entity.slug,
                 slug,
                 "connected_to",
-                `${entity.name} is connected to ${other.name} through shared lore.`,
+                lore.title,
                 0.72,
-                0.78
+                0.78,
+                lore.explanation
             ]);
 
             added += 1;

@@ -223,10 +223,25 @@ a {
     opacity: 0.55;
 }
 
-.app > .site-header,
+.app > .site-header {
+    position: relative;
+    z-index: 50;
+}
+
 .app > .page {
     position: relative;
     z-index: 1;
+}
+
+.site-search {
+    position: relative;
+    width: 100%;
+    justify-self: center;
+    z-index: 1;
+}
+
+.site-search.is-open {
+    z-index: 60;
 }
 
 .theme-one-piece .theme-atmosphere {
@@ -505,12 +520,6 @@ a {
     font-size: 0.85rem;
     justify-self: end;
     text-align: right;
-}
-
-.site-search {
-    position: relative;
-    width: 100%;
-    justify-self: center;
 }
 
 .site-search-form {

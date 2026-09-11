@@ -82,7 +82,31 @@ function loadState() {
 }
 
 function saveState(state) {
-    fs.writeFileSync(STATE_PATH, JSON.stringify(state, null, 2));
+    const payload = JSON.stringify(state, null, 2);
+    const tmp = `${STATE_PATH}.${process.pid}.tmp`;
+    for (let attempt = 0; attempt < 5; attempt += 1) {
+        try {
+            fs.writeFileSync(tmp, payload);
+            fs.renameSync(tmp, STATE_PATH);
+            return;
+        } catch (error) {
+            if (attempt === 4) {
+                console.warn(
+                    `[grow] could not persist state (${error.message}) — continuing`
+                );
+                try {
+                    fs.unlinkSync(tmp);
+                } catch (_) {
+                    /* ignore */
+                }
+                return;
+            }
+            const end = Date.now() + 300;
+            while (Date.now() < end) {
+                /* brief backoff for Windows file locks */
+            }
+        }
+    }
 }
 
 function bustSubjectCache(subjectId) {

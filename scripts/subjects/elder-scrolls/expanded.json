@@ -425,11 +425,11 @@
       },
       "short_description": "Alduin (Dragon Language: ), sometimes referred to as the World Eater, and the First Dragon, is a mighty dragon who ruled over Skyrim during the Merethic Era. Worshipped as a god-king by the ancient Nords through the…",
       "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/7/7f/Alduin_over_Helgen.png/revision/latest/scale-to-width-down/360?cb=20120810223011",
-      "image_source": "https://elderscrolls.fandom.com/wiki/Alduin_(Skyrim)",
+      "image_source": "https://elderscrolls.fandom.com/wiki/Alduin",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Alduin (Skyrim)"
+      "image_alt": "Identification thumbnail for Alduin"
     },
     {
       "slug": "dragonborn",
@@ -444,7 +444,13 @@
           "fandom"
         ]
       },
-      "short_description": "it:Sangue di Drago (Disambigua) de:Drachenblut es:Sangre de Dragón fi:Dragonborn fr:Dovahkiin nl:Dragonborn no:Dovahkiin pl:Dovahkiin pt:Dragonborn ru:Драконорождённый zh:龙裔"
+      "short_description": "it:Sangue di Drago (Disambigua) de:Drachenblut es:Sangre de Dragón fi:Dragonborn fr:Dovahkiin nl:Dragonborn no:Dovahkiin pl:Dovahkiin pt:Dragonborn ru:Драконорождённый zh:龙裔",
+      "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/4/4f/Dovahkiin_%28dragonborn%29.jpg/revision/latest/scale-to-width-down/360?cb=20110831192724",
+      "image_source": "https://elderscrolls.fandom.com/wiki/Last_Dragonborn",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Dragonborn"
     },
     {
       "slug": "tiber-septim",
@@ -528,11 +534,11 @@
       },
       "short_description": "Vivec, also known as Vehk, Vivek, the Warrior-Poet, God-Poet, the Guardian God-King, was one of the three immortal god-kings of Morrowind alongside Sotha Sil and Almalexia. A pillar of the Tribunal Temple and the patron…",
       "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/e/e2/Vivec_ESO_%281%29.png/revision/latest/scale-to-width-down/360?cb=20170531034101",
-      "image_source": "https://elderscrolls.fandom.com/wiki/Vivec_(Online)",
+      "image_source": "https://elderscrolls.fandom.com/wiki/Vivec",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Vivec (Online)"
+      "image_alt": "Identification thumbnail for Vivec"
     },
     {
       "slug": "nerevarine",
@@ -696,7 +702,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Third Empire",
+      "image_alt": "Identification thumbnail for Septim Empire",
       "metadata": {
         "fandom_url": "https://elderscrolls.fandom.com/wiki/Third_Empire",
         "fandom_title": "Third Empire",
@@ -44102,6 +44108,8 @@
     "fandom_enriched_core": 35,
     "fandom_created": 1272,
     "fandom_images": 629,
-    "fandom_intros": 1334
+    "fandom_intros": 1334,
+    "image_backfill_at": "2026-09-11T16:29:42.467Z",
+    "image_backfill_count": 32
   }
 }

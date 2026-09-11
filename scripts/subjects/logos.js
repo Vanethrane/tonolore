@@ -12,7 +12,7 @@ const FAIR_USE = {
 module.exports = {
     "one-piece": {
         ...FAIR_USE,
-        url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/One_piece_logo.svg/360px-One_piece_logo.svg.png",
+        url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/One_piece_logo.svg/500px-One_piece_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         alt: "ONE PIECE logo",
         source: "https://commons.wikimedia.org/wiki/File:One_piece_logo.svg",
         credit:
@@ -68,7 +68,7 @@ module.exports = {
     },
     "dragon-ball": {
         ...FAIR_USE,
-        url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Dragon_Ball_anime_logo.png/360px-Dragon_Ball_anime_logo.png",
+        url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Dragon_Ball_anime_logo.png/500px-Dragon_Ball_anime_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         alt: "Dragon Ball logo",
         source: "https://commons.wikimedia.org/wiki/File:Dragon_Ball_anime_logo.png",
         credit:
@@ -76,7 +76,7 @@ module.exports = {
     },
     "wheel-of-time": {
         ...FAIR_USE,
-        url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Banner_of_Light.svg/360px-Banner_of_Light.svg.png",
+        url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Banner_of_Light.svg/500px-Banner_of_Light.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         alt: "Banner of Light — The Wheel of Time",
         source: "https://commons.wikimedia.org/wiki/File:Banner_of_Light.svg",
         credit:
@@ -148,7 +148,7 @@ module.exports = {
     },
     naruto: {
         ...FAIR_USE,
-        url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Naruto_logo.svg/330px-Naruto_logo.svg.png",
+        url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/500px-Naruto_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         alt: "Naruto logo",
         source: "https://commons.wikimedia.org/wiki/File:Naruto_logo.svg",
         credit:
@@ -164,7 +164,7 @@ module.exports = {
     },
     "attack-on-titan": {
         ...FAIR_USE,
-        url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Shingeki_no_Kyojin_logo.png/330px-Shingeki_no_Kyojin_logo.png",
+        url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Attack_on_Titan_logo.png/500px-Attack_on_Titan_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         alt: "Attack on Titan logo",
         source: "https://commons.wikimedia.org/wiki/File:Shingeki_no_Kyojin_logo.png",
         credit:
@@ -236,7 +236,7 @@ module.exports = {
     },
     fallout: {
         ...FAIR_USE,
-        url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Fallout_logo.svg/330px-Fallout_logo.svg.png",
+        url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Fallout_logo.svg/500px-Fallout_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         alt: "Fallout logo",
         source: "https://commons.wikimedia.org/wiki/File:Fallout_logo.svg",
         credit:
@@ -276,7 +276,7 @@ module.exports = {
     },
     "mass-effect": {
         ...FAIR_USE,
-        url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Mass_Effect_logo.svg/330px-Mass_Effect_logo.svg.png",
+        url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Logo_Mass_Effect.svg/500px-Logo_Mass_Effect.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         alt: "Mass Effect logo",
         source: "https://commons.wikimedia.org/wiki/File:Mass_Effect_logo.svg",
         credit:
@@ -284,7 +284,7 @@ module.exports = {
     },
     "chainsaw-man": {
         ...FAIR_USE,
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Chainsaw_Man_logo.png/360px-Chainsaw_Man_logo.png",
+        url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Chainsaw_Man_English_anime_logo.svg/500px-Chainsaw_Man_English_anime_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         alt: "Chainsaw Man logo",
         source: "https://commons.wikimedia.org/wiki/File:Chainsaw_Man_logo.png",
         credit:
@@ -292,7 +292,7 @@ module.exports = {
     },
     "jojos-bizarre-adventure": {
         ...FAIR_USE,
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Jojo%27s_Bizarre_Adventure_%28English_logo%29.png/360px-Jojo%27s_Bizarre_Adventure_%28English_logo%29.png",
+        url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Jojo%27s_Bizarre_Adventure_%28English_logo%29.png/500px-Jojo%27s_Bizarre_Adventure_%28English_logo%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         alt: "JoJo's Bizarre Adventure logo",
         source: "https://commons.wikimedia.org/wiki/File:Jojo's_Bizarre_Adventure_(English_logo).png",
         credit:
@@ -364,7 +364,7 @@ module.exports = {
     },
     "call-of-cthulhu": {
         ...FAIR_USE,
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cthulhu_sketch_by_Lovecraft.jpg/360px-Cthulhu_sketch_by_Lovecraft.jpg",
+        url: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Cthulhu_sketch_by_Lovecraft.jpg/500px-Cthulhu_sketch_by_Lovecraft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         alt: "Cthulhu sketch — Call of Cthulhu",
         source: "https://commons.wikimedia.org/wiki/File:Cthulhu_sketch_by_Lovecraft.jpg",
         credit:

@@ -87,7 +87,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax / Interplay (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Timothy Cain",
+      "image_alt": "Identification thumbnail for Tim Cain",
       "description": "Timothy \"Tim\" Cain is the original creator of the Fallout series and setting. He was the lead programmer on Fallout and one of the six people responsible for the game's original design.\n\nTim Cain began his career at Interplay Entertainment as a freelancer, working on The Bard's Tale Construction Set, a game creation system. After finishing, he was fully employed by Interplay in August 1991.\n\nInitially, he was the only one working on Interplay's GURPS project, creating the game's engine. Later the team grew and he went from lead programmer to producer when Tom Decker left the project.\n\nAfter completing Fallout, Cain went on to do some pre-production work on Fallout 2. However, he had never wanted to work on a Fallout 2, as he envisioned Fallout as a standalone with no sequel in mind. Despite this, Cain wrote the main story arc, creating the idea of Vault experiments, as well as helping designing The Den area. In an interview, he criticized the bigger influence from the sales/marketing department during Fallout 2s development, saying, \"We were losing part of the game to a larger group who had bigger plans for it.\" Because he did not like the direction Fallout 2 was going in, he left the Fallout 2 project and Interplay due to various reasons:",
       "metadata": {
         "fandom_url": "https://fallout.fandom.com/wiki/Timothy_Cain",
@@ -197,7 +197,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax / Interplay (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Vault-Tec Corporation",
+      "image_alt": "Identification thumbnail for Vault-Tec",
       "description": "Giles Wolstencroft - assistant CEOHugo Stolz - board of directors memberBarb Howard - high-ranking executiveBud Askins - senior junior vice president\n\nThe Vault-Tec Corporation, also known as Vault-Tec Industries, Vault-Tec Incorporated, or simply as Vault-Tec, was a pre-War defense corporation which won the federal government contracts to design and implement a network of bunkers known as Vaults with the stated intent of preserving a small fraction of the U.S. population. By the time of the Great War, it was the largest company in America, valued at an estimated trillion dollars, with stakes in countless industries and businesses. Its wealth gave it immense sway against the United States government, rendered bankrupt by the decade-long Sino-American War.\n\nThese political and economic factors caused the company to deem the U.S.A. a failed nation and shift priorities. The lack of confidence in the United States was so great that one executive, Barb Howard, entertained the idea of Vault-Tec instigating the Great War themselves, to wipe the slate clean and usher in a new world free of war. Project Safehouse was redesigned to ensure the survival of the company at all costs, rather than the survival of America, with the vast majority of the Vaults being used to test the development of a perfect society under varying experimental conditions. In the spirit of competition, other corporate leaders were invited to contribute ideas and take control of their own Vaults for post-apocalyptic monopolies. The Enclave was also deeply affiliated with Vault-Tec and its Vault program, and saw the Vault experiments as a key part of the \"great plan\" for their own survival.\n\nThe company itself became defunct due to the nuclear war, with most Vaults failing to safeguard their populations, and despised by surface dwellers as retreats for the rich. However, select junior employees of Vault-Tec survived well into the late 23rd century through cryostasis in Vault 31 as part of Bud Askins' personal experiment to conquer the future in Vault-Tec's name; they are currently the only known active remnant of Vault-Tec.",
       "metadata": {
         "fandom_url": "https://fallout.fandom.com/wiki/Vault-Tec_Corporation",
@@ -225,12 +225,12 @@
         ]
       },
       "short_description": "The Brotherhood of Steel (commonly abbreviated to BoS) is a post-War quasi-religious technocratic paramilitary order, founded in the immediate aftermath of the Great War by members of the United States Armed Forces and…",
-      "image_url": "https://static.wikia.nocookie.net/fallout/images/3/3a/Fo1_Losthills_Entrance.png/revision/latest/scale-to-width-down/360?cb=20240604163637",
-      "image_source": "https://fallout.fandom.com/wiki/Brotherhood_of_Steel_(Lost_Hills)",
+      "image_url": "https://static.wikia.nocookie.net/fallout/images/2/23/Fo3_Citadel_flag_rev2.png/revision/latest/scale-to-width-down/360?cb=20210415053618",
+      "image_source": "https://fallout.fandom.com/wiki/Brotherhood_of_Steel",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax / Interplay (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Brotherhood of Steel (Lost Hills)"
+      "image_alt": "Identification thumbnail for Brotherhood of Steel"
     },
     {
       "slug": "enclave",
@@ -362,7 +362,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax / Interplay (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Commonwealth Minutemen"
+      "image_alt": "Identification thumbnail for The Minutemen"
     },
     {
       "slug": "capital-wasteland",
@@ -538,7 +538,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax / Interplay (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Courier"
+      "image_alt": "Identification thumbnail for The Courier"
     },
     {
       "slug": "sole-survivor",
@@ -592,7 +592,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax / Interplay (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Robert House",
+      "image_alt": "Identification thumbnail for Mr. House",
       "description": "Robert Edwin House, typically known as Mr. House, is the enigmatic ruler of New Vegas in the Mojave Wasteland. Prior to the Great War, House was the founder and CEO of RobCo Industries, who used life-preservation technology to survive the bombs from within the Lucky 38. He later emerged from hibernation to become the self-styled president, CEO and sole proprietor of the New Vegas Strip, uniting various tribes and using his securitrons to form the post-War city-state of the Free Economic Zone of New Vegas by 2281.\n\nHouse appears as a central character who can facilitate one of the game's major endings. His body double appears in the Fallout TV series' first season, and he fully appears in its second season in a more prominent role. The pre-War House also appears in Fallout Shelter.\n\nRobert House was born on June 25, 2020, and grew up around Las Vegas, Nevada, but was orphaned at a young age when his parents died in a freak accident involving an autogyro and a lightning strike. he nevertheless managed to achieve attendance to the Commonwealth Institute of Technology and later went on to found RobCo Industries in 2042, at the age of 22, in his garage. Under Robert's leadership, it soon became one of the most profitable corporations in the world, which House credited mostly to his own technical genius and business acumen. Whatever the case, House's success led to him being regarded by his peers with envy; by the public as a \"genius,\" a \"captain of industry,\" and a \"titan of the private sector;\" and by the tabloids as the nation's most infamously eccentric businessman. House himself claims that at age 30, just eight years after his company's founding, he had amassed a net worth of at least 30 billion dollars.\n\nThrough his wealth and influence, Robert gained controlling interests in a myriad of other businesses, among them REPCONN Aerospace, the Lucky 38 Hotel & Casino on Las Vegas Boulevard, and the H&H Tools Company, the family business that would have been his before being usurped by his half-brother (although the factory on the outskirts of Vegas was still under the elder House's control in 2077). Feeling a deep love for his home city and wishing to bring it into his vision as a city of \"luxury without decadence, refinement without elitism, [and] class without snobbery,\" House invested deeply in Las Vegas for its future success, to the point that he was publicly known to own \"half of Las Vegas.\" He also became familiar with others among America's wealthiest, including Frederick Sinclair, and gained special arrangements with other major corporations such as Vault-Tec, which gave him free rein over multiple Vaults to do with as he wished.",
       "metadata": {
         "fandom_url": "https://fallout.fandom.com/wiki/Robert_House",
@@ -680,7 +680,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax / Interplay (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Super mutant",
+      "image_alt": "Identification thumbnail for Super Mutants",
       "description": "Super mutant is a general term referring to humanoid mutants created by exposing a regular human to a variety of the Forced Evolutionary Virus (FEV). The resulting hulking mutants typically possess exceptional strength, endurance, resistance or immunity to disease and radiation, and modified intelligence. A common trait of all super mutants is that they are sterile and cannot reproduce (one variety is even explicitly asexual in that they are devoid of identifiable sexual characteristics). All are masculine in appearance, with some mutants being larger and more monstrous in size. They possess increased muscle mass and their skin color is usually green, though some are blue, as in the case of Nightkin.\n\nThe mutation generally cannot be reversed, as once introduced to the subject, FEV automatically corrects any changes to DNA. A theoretical cure would have to both reintroduce the original DNA and prevent the FEV from overwriting it. Only one example of a cure has ever been seen, and only for one specific strain of the FEV; however, this cure's creator has posited that a generalized cure could be possible given sufficient research into the topic.\n\nSuper mutants were first introduced in the original Fallout as a unique mutant menace led by the Master. They have since appeared in all major entries of the Fallout series, in several varieties and playing a variety of roles.\n\nSeveral different groups of super mutants, also known as strains (based on the specific form of the FEV which created them), exist with physiological differences resulting from the use of different varieties of the Forced Evolutionary Virus in different part of the former United States of America. While some super mutants have traveled far from their place of origin, there is little evidence of any contact between these populations.",
       "metadata": {
         "fandom_url": "https://fallout.fandom.com/wiki/Super_mutant",
@@ -726,7 +726,13 @@
           "wikipedia",
           "fandom"
         ]
-      }
+      },
+      "image_url": "https://static.wikia.nocookie.net/fallout/images/5/59/Fallout-boxcover-windows-ESRB.jpg/revision/latest/scale-to-width-down/360?cb=20240406120426",
+      "image_source": "https://fallout.fandom.com/wiki/Fallout",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax / Interplay (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Fallout (1997)"
     },
     {
       "slug": "deathclaws",
@@ -737,7 +743,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax / Interplay (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Deathclaw",
+      "image_alt": "Identification thumbnail for Deathclaws",
       "metadata": {
         "fandom_url": "https://fallout.fandom.com/wiki/Deathclaw",
         "fandom_title": "Deathclaw",
@@ -8265,6 +8271,8 @@
     "fandom_enriched_core": 36,
     "fandom_created": 215,
     "fandom_images": 209,
-    "fandom_intros": 253
+    "fandom_intros": 253,
+    "image_backfill_at": "2026-09-11T16:29:48.090Z",
+    "image_backfill_count": 32
   }
 }

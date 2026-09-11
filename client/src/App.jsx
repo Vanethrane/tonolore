@@ -70,6 +70,29 @@ function routeToPath(route) {
     return `/${route.slug}`;
 }
 
+function hideBrokenImage(event) {
+    const image = event.currentTarget;
+    image.style.display = "none";
+    image.setAttribute("data-broken", "true");
+
+    const collageCell = image.closest(".category-collage-cell");
+    if (collageCell) {
+        collageCell.style.display = "none";
+        return;
+    }
+
+    const logoWrap = image.closest(".subject-card-logo, .subject-brand, .subject-hero-mark");
+    if (logoWrap) {
+        logoWrap.style.display = "none";
+        return;
+    }
+
+    const art = image.closest(".entity-art");
+    if (art) {
+        art.style.display = "none";
+    }
+}
+
 const RELATIONSHIP_LABELS = {
     // creator --created--> work; work --created_by--> creator
     created_by: { outgoing: "Created By", incoming: "Created" },
@@ -317,7 +340,7 @@ function SiteHeader({ navigate, brand = null }) {
                             alt={brand.logo.alt || brand.name}
                             loading="lazy"
                             referrerPolicy="no-referrer"
-                        />
+                                    onError={hideBrokenImage} />
                         <span className="subject-brand-name">{brand.name}</span>
                     </a>
                 ) : null}
@@ -453,7 +476,7 @@ function SubjectCard({ subject, navigate }) {
                         alt={subject.logo.alt || `${subject.name} logo`}
                         loading="lazy"
                         referrerPolicy="no-referrer"
-                    />
+                                    onError={hideBrokenImage} />
                 </div>
             ) : null}
             <span className="connection-type">Subject</span>
@@ -544,7 +567,7 @@ function Home({ navigate }) {
                                                                     alt=""
                                                                     loading="lazy"
                                                                     referrerPolicy="no-referrer"
-                                                                />
+                                    onError={hideBrokenImage} />
                                                             </div>
                                                         )
                                                     )
@@ -1016,7 +1039,7 @@ function App() {
                                 alt={brand.logo.alt || brand.name}
                                 loading="lazy"
                                 referrerPolicy="no-referrer"
-                            />
+                                    onError={hideBrokenImage} />
                             {brand.logo.credit ? (
                                 <figcaption>{brand.logo.credit}</figcaption>
                             ) : null}
@@ -1040,7 +1063,7 @@ function App() {
                                 }
                                 loading="lazy"
                                 referrerPolicy="no-referrer"
-                            />
+                                    onError={hideBrokenImage} />
                             <figcaption>
                                 {page.entity.image_license === "fair_use" ? (
                                     <span>
@@ -1097,7 +1120,7 @@ function App() {
                                         alt=""
                                         loading="lazy"
                                         referrerPolicy="no-referrer"
-                                    />
+                                    onError={hideBrokenImage} />
                                 ) : null}
 
                                 <span className="connection-type">

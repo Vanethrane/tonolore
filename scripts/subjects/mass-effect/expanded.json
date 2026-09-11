@@ -38,9 +38,9 @@
     {
       "slug": "bioware",
       "wikipedia_url": "https://en.wikipedia.org/wiki/BioWare",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Epcor_Tower.JPG/500px-Epcor_Tower.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Epcor_Tower.JPG/360px-Epcor_Tower.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "image_source": "https://en.wikipedia.org/wiki/BioWare",
-      "image_credit": "Fair-use identification thumbnail via Wikipedia. Not free or redistributable artwork.",
+      "image_credit": "Fair-use identification thumbnail via Wikipedia. Character / franchise art © BioWare / Electronic Arts (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
       "image_alt": "Identification thumbnail for BioWare",
@@ -57,9 +57,9 @@
     {
       "slug": "electronic-arts",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Electronic_Arts",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Electronic_Arts_Redwood_City_May_2011.jpg/500px-Electronic_Arts_Redwood_City_May_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Electronic_Arts_Redwood_City_May_2011.jpg/360px-Electronic_Arts_Redwood_City_May_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "image_source": "https://en.wikipedia.org/wiki/Electronic_Arts",
-      "image_credit": "Fair-use identification thumbnail via Wikipedia. Not free or redistributable artwork.",
+      "image_credit": "Fair-use identification thumbnail via Wikipedia. Character / franchise art © BioWare / Electronic Arts (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
       "image_alt": "Identification thumbnail for Electronic Arts",
@@ -217,7 +217,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BioWare / Electronic Arts (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Tali'Zorah nar Rayya"
+      "image_alt": "Identification thumbnail for Tali'Zorah"
     },
     {
       "slug": "illusive-man",
@@ -239,7 +239,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BioWare / Electronic Arts (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Illusive Man"
+      "image_alt": "Identification thumbnail for The Illusive Man"
     },
     {
       "slug": "david-anderson",
@@ -365,12 +365,12 @@
         ]
       },
       "short_description": "Location: Milky Way / Serpent Nebula / Widow",
-      "image_url": "https://static.wikia.nocookie.net/masseffect/images/a/a9/Galaxy_Map_-_Citadel.png/revision/latest/scale-to-width-down/360?cb=20221208170749",
-      "image_source": "https://masseffect.fandom.com/wiki/Citadel",
+      "image_url": "https://static.wikia.nocookie.net/masseffect/images/f/f0/Presidium_Structure.png/revision/latest/scale-to-width-down/360?cb=20210620183000",
+      "image_source": "https://masseffect.fandom.com/wiki/Presidium",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BioWare / Electronic Arts (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Citadel"
+      "image_alt": "Identification thumbnail for The Citadel"
     },
     {
       "slug": "mass-relay",
@@ -392,7 +392,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BioWare / Electronic Arts (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Mass Relay"
+      "image_alt": "Identification thumbnail for Mass relay"
     },
     {
       "slug": "omega",
@@ -468,7 +468,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BioWare / Electronic Arts (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Reaper",
+      "image_alt": "Identification thumbnail for Reapers",
       "description": "The Reapers are a highly-advanced machine race of synthetic-organic starships. The Reapers reside in dark space: the vast, mostly starless space between galaxies. They hibernate there, dormant for fifty thousand years at a time, before returning to the galaxy.\n\nThese giant machines are ancient; their true name is unknown. \"Reapers\" was a name bestowed by the Protheans, the previous galactic power fifty thousand years before, and the geth refer to them as the Old Machines. In the end, the Reapers spare little concern for whatever labels other races choose to call them, and merely claim that they have neither beginning nor end.\n\nThe Reapers are the original creators of the Citadel and the mass relay network. These massive constructs exist so that any intelligent life in the galaxy would eventually discover them and base their technology upon them – all part of a scheme to harvest the galaxy’s sentient life in a repeating cycle of purges that has continued relentlessly over countless millennia.\n\nA Reaper is essentially \"billions of organic minds, uploaded and conjoined within immortal machine bodies.\"",
       "metadata": {
         "fandom_url": "https://masseffect.fandom.com/wiki/Reaper",
@@ -524,7 +524,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BioWare / Electronic Arts (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Quarian"
+      "image_alt": "Identification thumbnail for Quarians"
     },
     {
       "slug": "turians",
@@ -546,7 +546,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BioWare / Electronic Arts (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Turian"
+      "image_alt": "Identification thumbnail for Turians"
     },
     {
       "slug": "asari",
@@ -729,7 +729,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BioWare / Electronic Arts (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Prothean",
+      "image_alt": "Identification thumbnail for Protheans",
       "metadata": {
         "fandom_url": "https://masseffect.fandom.com/wiki/Prothean",
         "fandom_title": "Prothean",
@@ -37308,6 +37308,8 @@
     "fandom_enriched_core": 36,
     "fandom_created": 1031,
     "fandom_images": 975,
-    "fandom_intros": 1068
+    "fandom_intros": 1068,
+    "image_backfill_at": "2026-09-11T16:30:18.158Z",
+    "image_backfill_count": 33
   }
 }

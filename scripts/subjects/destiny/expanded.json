@@ -158,7 +158,13 @@
           "fandom"
         ]
       },
-      "short_description": "Accident Category:Candidates for deletion"
+      "short_description": "Accident Category:Candidates for deletion",
+      "image_url": "https://static.wikia.nocookie.net/destinypedia/images/a/ab/Ghost.png/revision/latest/scale-to-width-down/360?cb=20140824204738",
+      "image_source": "https://destiny.fandom.com/wiki/Ghost",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bungie (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Ghosts"
     },
     {
       "slug": "guardians",
@@ -180,7 +186,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bungie (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Guardian"
+      "image_alt": "Identification thumbnail for Guardians"
     },
     {
       "slug": "vanguard",
@@ -290,7 +296,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bungie (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Eliksni"
+      "image_alt": "Identification thumbnail for Fallen"
     },
     {
       "slug": "taken",
@@ -444,7 +450,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bungie (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Zavala"
+      "image_alt": "Identification thumbnail for Commander Zavala"
     },
     {
       "slug": "cayde-6",
@@ -532,7 +538,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bungie (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Tower (Destiny)"
+      "image_alt": "Identification thumbnail for The Tower"
     },
     {
       "slug": "reef",
@@ -692,7 +698,13 @@
           "wikipedia",
           "fandom"
         ]
-      }
+      },
+      "image_url": "https://static.wikia.nocookie.net/destinypedia/images/5/54/Destiny_Box_Art.png/revision/latest/scale-to-width-down/360?cb=20140611191719",
+      "image_source": "https://destiny.fandom.com/wiki/Destiny",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bungie (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Destiny (2014)"
     },
     {
       "slug": "pyramid-ships",
@@ -704,7 +716,13 @@
           "wikipedia",
           "fandom"
         ]
-      }
+      },
+      "image_url": "https://static.wikia.nocookie.net/destinypedia/images/d/dd/Darkpyramid.jpg/revision/latest/scale-to-width-down/360?cb=20190808063054",
+      "image_source": "https://destiny.fandom.com/wiki/Black_Fleet",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bungie (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Pyramid ships"
     }
   ],
   "entities": [
@@ -22107,6 +22125,8 @@
     "fandom_enriched_core": 41,
     "fandom_created": 628,
     "fandom_images": 392,
-    "fandom_intros": 645
+    "fandom_intros": 645,
+    "image_backfill_at": "2026-09-11T16:30:02.557Z",
+    "image_backfill_count": 32
   }
 }

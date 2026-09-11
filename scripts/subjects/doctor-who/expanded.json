@@ -26,7 +26,13 @@
           "fandom"
         ]
       },
-      "short_description": "Bad Wolf has several meanings pertinent to the Doctor Who universe and the real world. They are the following:"
+      "short_description": "Bad Wolf has several meanings pertinent to the Doctor Who universe and the real world. They are the following:",
+      "image_url": "https://static.wikia.nocookie.net/tardis/images/0/05/Rose_is_stranded_%28D%29.jpg/revision/latest/scale-to-width-down/360?cb=20180812233054",
+      "image_source": "https://tardis.fandom.com/wiki/D%C3%A5rlig_Ulv_Stranden",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BBC (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Bad Wolf"
     },
     {
       "slug": "time-vortex",
@@ -136,7 +142,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BBC (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Doctor Who",
+      "image_alt": "Identification thumbnail for Doctor Who (TV series)",
       "metadata": {
         "fandom_url": "https://tardis.fandom.com/wiki/Doctor_Who",
         "fandom_title": "Doctor Who",
@@ -199,7 +205,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BBC (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Time Lord",
+      "image_alt": "Identification thumbnail for Time Lords",
       "metadata": {
         "fandom_url": "https://tardis.fandom.com/wiki/Time_Lord",
         "fandom_title": "Time Lord",
@@ -262,7 +268,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BBC (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Short Trips: Companions",
+      "image_alt": "Identification thumbnail for Companions",
       "metadata": {
         "fandom_url": "https://tardis.fandom.com/wiki/Short_Trips:_Companions",
         "fandom_title": "Short Trips: Companions",
@@ -451,7 +457,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BBC (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Dalek",
+      "image_alt": "Identification thumbnail for Daleks",
       "metadata": {
         "fandom_url": "https://tardis.fandom.com/wiki/Dalek",
         "fandom_title": "Dalek",
@@ -493,7 +499,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BBC (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Cyberman",
+      "image_alt": "Identification thumbnail for Cybermen",
       "metadata": {
         "fandom_url": "https://tardis.fandom.com/wiki/Cyberman",
         "fandom_title": "Cyberman",
@@ -535,7 +541,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BBC (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Weeping Angel",
+      "image_alt": "Identification thumbnail for Weeping Angels",
       "metadata": {
         "fandom_url": "https://tardis.fandom.com/wiki/Weeping_Angel",
         "fandom_title": "Weeping Angel",
@@ -577,7 +583,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BBC (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Jack Harkness",
+      "image_alt": "Identification thumbnail for Captain Jack Harkness",
       "metadata": {
         "fandom_url": "https://tardis.fandom.com/wiki/Jack_Harkness",
         "fandom_title": "Jack Harkness",
@@ -661,7 +667,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BBC (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Torchwood Institute",
+      "image_alt": "Identification thumbnail for Torchwood",
       "metadata": {
         "fandom_url": "https://tardis.fandom.com/wiki/Torchwood_Institute",
         "fandom_title": "Torchwood Institute",
@@ -25383,6 +25389,8 @@
     "fandom_enriched_core": 32,
     "fandom_created": 795,
     "fandom_images": 171,
-    "fandom_intros": 829
+    "fandom_intros": 829,
+    "image_backfill_at": "2026-09-11T16:30:04.754Z",
+    "image_backfill_count": 31
   }
 }

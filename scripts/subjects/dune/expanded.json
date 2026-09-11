@@ -16,9 +16,9 @@
     {
       "slug": "dune",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Dune",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Dunas_de_Maspalomas.jpg/500px-Dunas_de_Maspalomas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Dunas_de_Maspalomas.jpg/360px-Dunas_de_Maspalomas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "image_source": "https://en.wikipedia.org/wiki/Dune",
-      "image_credit": "Fair-use identification thumbnail via Wikipedia. Not free or redistributable artwork.",
+      "image_credit": "Fair-use identification thumbnail via Wikipedia. Character / franchise art © Herbert estate / Legendary / respective rights holders (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
       "image_alt": "Identification thumbnail for Dune",
@@ -88,7 +88,13 @@
           "wikipedia",
           "fandom"
         ]
-      }
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Legendary_Entertainment_logo_variant.svg/360px-Legendary_Entertainment_logo_variant.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Legendary_Entertainment",
+      "image_credit": "Fair-use identification thumbnail via Wikipedia. Character / franchise art © Herbert estate / Legendary / respective rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Legendary Pictures"
     },
     {
       "slug": "denis-villeneuve",
@@ -322,7 +328,13 @@
           "wikipedia",
           "fandom"
         ]
-      }
+      },
+      "image_url": "https://static.wikia.nocookie.net/dune/images/6/69/Eye_of_the_Storm_-_Proces_Verbal_-_Allegation_of_Treason.png/revision/latest/scale-to-width-down/360?cb=20260103064420",
+      "image_source": "https://dune.fandom.com/wiki/Mentat",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Herbert estate / Legendary / respective rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Mentats"
     },
     {
       "slug": "paul-atreides",
@@ -366,7 +378,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Herbert estate / Legendary / respective rights holders (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Leto Atreides I"
+      "image_alt": "Identification thumbnail for Duke Leto Atreides"
     },
     {
       "slug": "lady-jessica",
@@ -388,7 +400,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Herbert estate / Legendary / respective rights holders (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Jessica Atreides"
+      "image_alt": "Identification thumbnail for Lady Jessica"
     },
     {
       "slug": "chani",
@@ -410,7 +422,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Herbert estate / Legendary / respective rights holders (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Chani Kynes"
+      "image_alt": "Identification thumbnail for Chani"
     },
     {
       "slug": "baron-harkonnen",
@@ -432,7 +444,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Herbert estate / Legendary / respective rights holders (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Vladimir Harkonnen"
+      "image_alt": "Identification thumbnail for Baron Vladimir Harkonnen"
     },
     {
       "slug": "duncan-idaho",
@@ -652,7 +664,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Herbert estate / Legendary / respective rights holders (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Spice Melange"
+      "image_alt": "Identification thumbnail for Spice melange"
     },
     {
       "slug": "sandworms",
@@ -674,7 +686,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Herbert estate / Legendary / respective rights holders (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Sandworm"
+      "image_alt": "Identification thumbnail for Sandworms"
     },
     {
       "slug": "shai-hulud",
@@ -19642,6 +19654,8 @@
     "fandom_enriched_core": 36,
     "fandom_created": 511,
     "fandom_images": 251,
-    "fandom_intros": 542
+    "fandom_intros": 542,
+    "image_backfill_at": "2026-09-11T16:30:12.176Z",
+    "image_backfill_count": 33
   }
 }

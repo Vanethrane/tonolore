@@ -16,9 +16,9 @@
     {
       "slug": "the-witcher",
       "wikipedia_url": "https://en.wikipedia.org/wiki/The_Witcher",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Kolekcjonerskie_wydanie_sagi_o_wied%C5%BAminie.jpg/500px-Kolekcjonerskie_wydanie_sagi_o_wied%C5%BAminie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "image_source": "https://en.wikipedia.org/wiki/The_Witcher",
-      "image_credit": "Fair-use identification thumbnail via Wikipedia. Not free or redistributable artwork.",
+      "image_url": "https://static.wikia.nocookie.net/witcher/images/2/29/Fall_of_the_Witchers_Lore_and_Theories_%28The_Witcher_3_Wild_Hunt%29/revision/latest/scale-to-width-down/360?cb=20181113143958",
+      "image_source": "https://witcher.fandom.com/wiki/Witcher",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Andrzej Sapkowski / CD Projekt (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
       "image_alt": "Identification thumbnail for The Witcher",
@@ -156,7 +156,13 @@
           "wikipedia",
           "fandom"
         ]
-      }
+      },
+      "image_url": "https://static.wikia.nocookie.net/witcher/images/8/84/Map_Nilfgaard.png/revision/latest/scale-to-width-down/360?cb=20081130140510",
+      "image_source": "https://witcher.fandom.com/wiki/Continent",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Andrzej Sapkowski / CD Projekt (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for The Continent"
     },
     {
       "slug": "kaer-morhen",
@@ -183,12 +189,12 @@
     {
       "slug": "nilfgaard",
       "wikipedia_url": "https://en.wikipedia.org/wiki/The_Witcher",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Kolekcjonerskie_wydanie_sagi_o_wied%C5%BAminie.jpg/500px-Kolekcjonerskie_wydanie_sagi_o_wied%C5%BAminie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "image_source": "https://en.wikipedia.org/wiki/The_Witcher",
-      "image_credit": "Fair-use identification thumbnail via Wikipedia. Not free or redistributable artwork.",
+      "image_url": "https://static.wikia.nocookie.net/witcher/images/3/3c/TWotW_Nilfgaardian_expansion.png/revision/latest/scale-to-width-down/360?cb=20200811090210",
+      "image_source": "https://witcher.fandom.com/wiki/Nilfgaardian_Empire",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Andrzej Sapkowski / CD Projekt (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for The Witcher",
+      "image_alt": "Identification thumbnail for Nilfgaard",
       "description": "The Witcher (Polish: Wiedźmin, pronounced [ˈvjɛd͡ʑmin]) is a series of nine fantasy novels and 15 short stories by Polish author Andrzej Sapkowski. The series revolves around the eponymous witcher, Geralt of Rivia. Witchers are monster hunters given superhuman abilities for the purpose of killing dangerous creatures. The Witcher began with a titular 1986 short story that Sapkowski entered into a competition held by Fantastyka magazine, marking his debut as an author. Due to reader demand, Sapkowski wrote 14 more stories before starting a series of novels in 1994. Known as The Witcher Saga, he wrote one book a year until the fifth and final installment in 1999. A standalone prequel novel, Season of Storms, was published in 2013. Another prequel, Crossroads of Ravens, was published in 2024.\nThe books have been described as having a cult following in Poland and throughout Central and Eastern Europe. They have been translated into 37 languages and sold over 15 million copies worldwide as of July 2020. They have also been adapted into a film (The Hexer), two television series (The Hexer and The Witcher), a video game series, and a series of comic books. The video games have been even more successful, with more than 75 million copies sold as of May 2023.",
       "metadata": {
         "fandom_url": "https://witcher.fandom.com/wiki/Nilfgaard",
@@ -322,7 +328,13 @@
           "wikipedia",
           "fandom"
         ]
-      }
+      },
+      "image_url": "https://static.wikia.nocookie.net/witcher/images/2/29/Fall_of_the_Witchers_Lore_and_Theories_%28The_Witcher_3_Wild_Hunt%29/revision/latest/scale-to-width-down/360?cb=20181113143958",
+      "image_source": "https://witcher.fandom.com/wiki/Witcher",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Andrzej Sapkowski / CD Projekt (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Witchers"
     },
     {
       "slug": "dandelion",
@@ -438,7 +450,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Andrzej Sapkowski / CD Projekt (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for CD PROJEKT",
+      "image_alt": "Identification thumbnail for CD Projekt",
       "metadata": {
         "fandom_url": "https://witcher.fandom.com/wiki/CD_PROJEKT",
         "fandom_title": "CD PROJEKT",
@@ -459,7 +471,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Andrzej Sapkowski / CD Projekt (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for CD PROJEKT",
+      "image_alt": "Identification thumbnail for CD Projekt RED",
       "metadata": {
         "fandom_url": "https://witcher.fandom.com/wiki/CD_PROJEKT",
         "fandom_title": "CD PROJEKT",
@@ -32713,6 +32725,8 @@
     "fandom_enriched_core": 33,
     "fandom_created": 912,
     "fandom_images": 699,
-    "fandom_intros": 953
+    "fandom_intros": 953,
+    "image_backfill_at": "2026-09-11T16:30:14.372Z",
+    "image_backfill_count": 29
   }
 }

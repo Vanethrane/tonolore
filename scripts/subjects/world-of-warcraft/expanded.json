@@ -33,7 +33,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Warcraft universe"
+      "image_alt": "Identification thumbnail for Warcraft"
     },
     {
       "slug": "azeroth",
@@ -121,7 +121,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Night elf"
+      "image_alt": "Identification thumbnail for Night Elves"
     },
     {
       "slug": "orcs-of-azeroth",
@@ -143,7 +143,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Orc"
+      "image_alt": "Identification thumbnail for Orcs"
     },
     {
       "slug": "titans",
@@ -165,7 +165,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Titan"
+      "image_alt": "Identification thumbnail for Titans"
     },
     {
       "slug": "thrall",
@@ -458,7 +458,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Stormwind City",
+      "image_alt": "Identification thumbnail for Stormwind",
       "metadata": {
         "fandom_url": "https://wowpedia.fandom.com/wiki/Stormwind_City",
         "fandom_title": "Stormwind City",
@@ -500,7 +500,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Warcraft III: Reign of Chaos",
+      "image_alt": "Identification thumbnail for Warcraft III",
       "metadata": {
         "fandom_url": "https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos",
         "fandom_title": "Warcraft III: Reign of Chaos",
@@ -689,7 +689,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Lich King",
+      "image_alt": "Identification thumbnail for The Lich King",
       "metadata": {
         "fandom_url": "https://wowpedia.fandom.com/wiki/Lich_King",
         "fandom_title": "Lich King",
@@ -711,7 +711,13 @@
           "wikipedia",
           "fandom"
         ]
-      }
+      },
+      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/1/18/Rivendare2.jpg/revision/latest/scale-to-width-down/360?cb=20100327224858",
+      "image_source": "https://wowpedia.fandom.com/wiki/Death_knight",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Death Knights"
     }
   ],
   "entities": [
@@ -98711,6 +98717,8 @@
     "fandom_enriched_core": 39,
     "fandom_created": 2786,
     "fandom_images": 2188,
-    "fandom_intros": 2876
+    "fandom_intros": 2876,
+    "image_backfill_at": "2026-09-11T16:29:44.217Z",
+    "image_backfill_count": 33
   }
 }

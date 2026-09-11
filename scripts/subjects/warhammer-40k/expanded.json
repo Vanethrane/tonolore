@@ -87,7 +87,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Games Workshop (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Horus",
+      "image_alt": "Identification thumbnail for Horus Lupercal",
       "metadata": {
         "fandom_url": "https://warhammer40k.fandom.com/wiki/Horus",
         "fandom_title": "Horus",
@@ -542,7 +542,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Games Workshop (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Primarch",
+      "image_alt": "Identification thumbnail for Primarchs",
       "metadata": {
         "fandom_url": "https://warhammer40k.fandom.com/wiki/Primarch",
         "fandom_title": "Primarch",
@@ -563,7 +563,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Games Workshop (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Abaddon",
+      "image_alt": "Identification thumbnail for Abaddon the Despoiler",
       "metadata": {
         "fandom_url": "https://warhammer40k.fandom.com/wiki/Abaddon",
         "fandom_title": "Abaddon",
@@ -584,7 +584,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Games Workshop (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Immaterium",
+      "image_alt": "Identification thumbnail for The Warp",
       "metadata": {
         "fandom_url": "https://warhammer40k.fandom.com/wiki/Immaterium",
         "fandom_title": "Immaterium",
@@ -40311,6 +40311,8 @@
     "fandom_enriched_core": 34,
     "fandom_created": 1202,
     "fandom_images": 1065,
-    "fandom_intros": 1239
+    "fandom_intros": 1239,
+    "image_backfill_at": "2026-09-11T16:29:40.805Z",
+    "image_backfill_count": 29
   }
 }

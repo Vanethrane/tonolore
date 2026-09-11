@@ -4,13 +4,41 @@
  */
 
 const CATEGORY_CATALOG = [
-    { id: "anime", label: "Anime" },
-    { id: "video-games", label: "Video games" },
-    { id: "books", label: "Books & literature" },
-    { id: "movies", label: "Movies" },
-    { id: "television", label: "Television" },
-    { id: "comics", label: "Comics & manga" },
-    { id: "tabletop", label: "Tabletop" }
+    {
+        id: "anime",
+        label: "Anime",
+        blurb: "Series, studios, and story worlds that moved from the page to the screen."
+    },
+    {
+        id: "video-games",
+        label: "Video games",
+        blurb: "Interactive worlds, studios, and the characters that fill them."
+    },
+    {
+        id: "books",
+        label: "Books & literature",
+        blurb: "Novels, sagas, and literary universes with deep canon trails."
+    },
+    {
+        id: "movies",
+        label: "Movies",
+        blurb: "Film franchises, directors, and the lore that spilled off the screen."
+    },
+    {
+        id: "television",
+        label: "Television",
+        blurb: "Long-form shows and serial worlds built episode by episode."
+    },
+    {
+        id: "comics",
+        label: "Comics & manga",
+        blurb: "Panels, publishers, and the heroes drawn across decades."
+    },
+    {
+        id: "tabletop",
+        label: "Tabletop",
+        blurb: "RPGs, wargames, and card worlds shaped at the table."
+    }
 ];
 
 const SUBJECT_CATEGORY_IDS = {

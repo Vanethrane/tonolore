@@ -1,14 +1,73 @@
 ﻿import React, { useEffect, useMemo, useState } from "react";
 import "./App.css";
+import { categoryTheme } from "./categoryThemes";
 import { siteOrigin, useDocumentSeo } from "./useDocumentSeo";
 
 const API =
     import.meta.env.VITE_API_URL ||
     (import.meta.env.PROD ? "/api" : "http://localhost:3001/api");
 
-function getSlug() {
+const FALLBACK_CATEGORIES = [
+    {
+        id: "anime",
+        label: "Anime",
+        blurb: "Series, studios, and story worlds that moved from the page to the screen."
+    },
+    {
+        id: "video-games",
+        label: "Video games",
+        blurb: "Interactive worlds, studios, and the characters that fill them."
+    },
+    {
+        id: "books",
+        label: "Books & literature",
+        blurb: "Novels, sagas, and literary universes with deep canon trails."
+    },
+    {
+        id: "movies",
+        label: "Movies",
+        blurb: "Film franchises, directors, and the lore that spilled off the screen."
+    },
+    {
+        id: "television",
+        label: "Television",
+        blurb: "Long-form shows and serial worlds built episode by episode."
+    },
+    {
+        id: "comics",
+        label: "Comics & manga",
+        blurb: "Panels, publishers, and the heroes drawn across decades."
+    },
+    {
+        id: "tabletop",
+        label: "Tabletop",
+        blurb: "RPGs, wargames, and card worlds shaped at the table."
+    }
+];
+
+function parseRoute() {
     const path = window.location.pathname.replace(/^\/+|\/+$/g, "");
-    return path || null;
+
+    if (!path) {
+        return { type: "home" };
+    }
+
+    const categoryMatch = path.match(/^category\/([a-z0-9-]+)$/i);
+    if (categoryMatch) {
+        return { type: "category", categoryId: categoryMatch[1].toLowerCase() };
+    }
+
+    return { type: "page", slug: path };
+}
+
+function routeToPath(route) {
+    if (!route || route.type === "home") {
+        return "/";
+    }
+    if (route.type === "category") {
+        return `/category/${route.categoryId}`;
+    }
+    return `/${route.slug}`;
 }
 
 const RELATIONSHIP_LABELS = {
@@ -271,7 +330,61 @@ function SiteHeader({ navigate, brand = null }) {
     );
 }
 
-function Home({ navigate }) {
+const OTHER_CATEGORY = {
+    id: "other",
+    label: "Other",
+    blurb: "Subjects that span genres or sit outside the main shelves."
+};
+
+function categoryStyle(id) {
+    const theme = categoryTheme(id);
+
+    return {
+        "--category-accent": theme.accent,
+        "--category-warm": theme.warm,
+        "--category-glow": theme.glow,
+        "--category-surface": theme.surface,
+        "--accent": theme.accent,
+        "--warm": theme.warm,
+        "--accent-soft": theme.glow
+    };
+}
+
+function buildCategorySections(subjects, categories) {
+    const catalog = categories.length > 0 ? categories : FALLBACK_CATEGORIES;
+
+    const sections = catalog
+        .map((category) => ({
+            ...category,
+            blurb:
+                category.blurb ||
+                FALLBACK_CATEGORIES.find((entry) => entry.id === category.id)
+                    ?.blurb ||
+                "",
+            subjects: subjects.filter((subject) =>
+                (subject.categories || []).includes(category.id)
+            )
+        }))
+        .filter((section) => section.subjects.length > 0);
+
+    const categorizedIds = new Set(
+        sections.flatMap((section) =>
+            section.subjects.map((subject) => subject.id)
+        )
+    );
+    const other = subjects.filter((subject) => !categorizedIds.has(subject.id));
+
+    if (other.length) {
+        sections.push({
+            ...OTHER_CATEGORY,
+            subjects: other
+        });
+    }
+
+    return sections;
+}
+
+function useSubjectsCatalog() {
     const [subjects, setSubjects] = useState([]);
     const [categories, setCategories] = useState([]);
     const [loading, setLoading] = useState(true);
@@ -296,6 +409,7 @@ function Home({ navigate }) {
                         {
                             id: "one-piece",
                             name: "One Piece",
+                            slug: "one-piece",
                             path: "/one-piece",
                             entity_count: null,
                             categories: ["anime"]
@@ -316,83 +430,51 @@ function Home({ navigate }) {
         };
     }, []);
 
-    const categorized = useMemo(() => {
-        const catalog =
-            categories.length > 0
-                ? categories
-                : [
-                      { id: "anime", label: "Anime" },
-                      { id: "video-games", label: "Video games" },
-                      { id: "books", label: "Books & literature" },
-                      { id: "movies", label: "Movies" },
-                      { id: "television", label: "Television" },
-                      { id: "comics", label: "Comics & manga" },
-                      { id: "tabletop", label: "Tabletop" }
-                  ];
+    return { subjects, categories, loading };
+}
 
-        const sections = catalog
-            .map((category) => ({
-                ...category,
-                subjects: subjects.filter((subject) =>
-                    (subject.categories || []).includes(category.id)
-                )
-            }))
-            .filter((section) => section.subjects.length > 0);
+function SubjectCard({ subject, navigate }) {
+    return (
+        <a
+            className={`connection subject-card theme-preview-${subject.theme || subject.id}`}
+            href={subject.path}
+            onClick={(event) => {
+                event.preventDefault();
+                navigate({
+                    type: "page",
+                    slug: subject.slug || subject.id
+                });
+            }}
+        >
+            {subject.logo?.url ? (
+                <div className="subject-card-logo">
+                    <img
+                        src={subject.logo.url}
+                        alt={subject.logo.alt || `${subject.name} logo`}
+                        loading="lazy"
+                        referrerPolicy="no-referrer"
+                    />
+                </div>
+            ) : null}
+            <span className="connection-type">Subject</span>
+            <h3>{subject.name}</h3>
+            <p>
+                {subject.entity_count
+                    ? `${subject.entity_count} mapped entities`
+                    : "Open the graph and keep going."}
+            </p>
+            <span className="follow">Enter →</span>
+        </a>
+    );
+}
 
-        const categorizedIds = new Set(
-            sections.flatMap((section) =>
-                section.subjects.map((subject) => subject.id)
-            )
-        );
-        const other = subjects.filter(
-            (subject) => !categorizedIds.has(subject.id)
-        );
+function Home({ navigate }) {
+    const { subjects, categories, loading } = useSubjectsCatalog();
 
-        if (other.length) {
-            sections.push({
-                id: "other",
-                label: "Other",
-                subjects: other
-            });
-        }
-
-        return sections;
-    }, [categories, subjects]);
-
-    function renderSubjectCard(subject, key) {
-        return (
-            <a
-                className={`connection subject-card theme-preview-${subject.theme || subject.id}`}
-                href={subject.path}
-                key={key || subject.id}
-                onClick={(event) => {
-                    event.preventDefault();
-                    navigate(subject.slug || subject.id);
-                }}
-            >
-                {subject.logo?.url ? (
-                    <div className="subject-card-logo">
-                        <img
-                            src={subject.logo.url}
-                            alt={
-                                subject.logo.alt || `${subject.name} logo`
-                            }
-                            loading="lazy"
-                            referrerPolicy="no-referrer"
-                        />
-                    </div>
-                ) : null}
-                <span className="connection-type">Subject</span>
-                <h3>{subject.name}</h3>
-                <p>
-                    {subject.entity_count
-                        ? `${subject.entity_count} mapped entities`
-                        : "Open the graph and keep going."}
-                </p>
-                <span className="follow">Enter →</span>
-            </a>
-        );
-    }
+    const sections = useMemo(
+        () => buildCategorySections(subjects, categories),
+        [categories, subjects]
+    );
 
     return (
         <div className="app theme-home">
@@ -408,31 +490,97 @@ function Home({ navigate }) {
                 </section>
 
                 <section className="subjects">
-                    <h2>Browse by category</h2>
+                    <h2>Browse by medium</h2>
                     {loading ? (
-                        <p className="muted">Loading subjects…</p>
+                        <p className="muted">Loading categories…</p>
                     ) : (
                         <>
-                            {categorized.map((section) => (
-                                <div
-                                    className="subject-category"
-                                    key={section.id}
-                                >
-                                    <h3>{section.label}</h3>
-                                    <div className="connection-grid">
-                                        {section.subjects.map((subject) =>
-                                            renderSubjectCard(
-                                                subject,
-                                                `${section.id}-${subject.id}`
-                                            )
-                                        )}
-                                    </div>
-                                </div>
-                            ))}
+                            <div className="connection-grid">
+                                {sections.map((section) => {
+                                    const collageSubjects = section.subjects
+                                        .filter((subject) => subject.logo?.url)
+                                        .slice(0, 6);
+                                    const entityTotal = section.subjects.reduce(
+                                        (sum, subject) =>
+                                            sum + (subject.entity_count || 0),
+                                        0
+                                    );
+                                    const subjectCount = section.subjects.length;
+                                    const categoryRoute = {
+                                        type: "category",
+                                        categoryId: section.id
+                                    };
+
+                                    return (
+                                        <a
+                                            className="connection subject-card category-card"
+                                            href={routeToPath(categoryRoute)}
+                                            key={section.id}
+                                            style={categoryStyle(section.id)}
+                                            onClick={(event) => {
+                                                event.preventDefault();
+                                                navigate(categoryRoute);
+                                            }}
+                                        >
+                                            <div
+                                                className="category-collage"
+                                                data-count={
+                                                    collageSubjects.length || 0
+                                                }
+                                            >
+                                                {collageSubjects.length > 0 ? (
+                                                    collageSubjects.map(
+                                                        (subject) => (
+                                                            <div
+                                                                className="category-collage-cell"
+                                                                key={subject.id}
+                                                            >
+                                                                <img
+                                                                    src={
+                                                                        subject
+                                                                            .logo
+                                                                            .url
+                                                                    }
+                                                                    alt=""
+                                                                    loading="lazy"
+                                                                    referrerPolicy="no-referrer"
+                                                                />
+                                                            </div>
+                                                        )
+                                                    )
+                                                ) : (
+                                                    <div className="category-collage-empty">
+                                                        {section.label.charAt(0)}
+                                                    </div>
+                                                )}
+                                            </div>
+                                            <span className="connection-type">
+                                                Category
+                                            </span>
+                                            <h3>{section.label}</h3>
+                                            <p>{section.blurb}</p>
+                                            <div className="category-card-meta">
+                                                <span>
+                                                    {subjectCount}{" "}
+                                                    {subjectCount === 1
+                                                        ? "subject"
+                                                        : "subjects"}
+                                                </span>
+                                                {entityTotal > 0 ? (
+                                                    <span>
+                                                        {entityTotal} entities
+                                                    </span>
+                                                ) : null}
+                                            </div>
+                                            <span className="follow">Open →</span>
+                                        </a>
+                                    );
+                                })}
+                            </div>
                             <p className="subjects-fair-use muted">
-                                Subject logos are low-resolution marks used
-                                under a fair-use rationale for commentary and
-                                learning identification only — not free or
+                                Category collage logos are low-resolution marks
+                                used under a fair-use rationale for commentary
+                                and learning identification only — not free or
                                 redistributable artwork. Rights remain with
                                 their respective holders.
                             </p>
@@ -444,23 +592,138 @@ function Home({ navigate }) {
     );
 }
 
+function CategoryPage({ categoryId, navigate }) {
+    const { subjects, categories, loading } = useSubjectsCatalog();
+
+    const section = useMemo(() => {
+        return buildCategorySections(subjects, categories).find(
+            (entry) => entry.id === categoryId
+        );
+    }, [categories, categoryId, subjects]);
+
+    const themeStyle = categoryStyle(categoryId);
+
+    if (loading) {
+        return (
+            <div className="app theme-home" style={themeStyle}>
+                <SiteHeader navigate={navigate} />
+                <main className="page">
+                    <section className="hero category-page-hero">
+                        <div className="eyebrow">Loading</div>
+                        <h1>Opening the shelf…</h1>
+                    </section>
+                </main>
+            </div>
+        );
+    }
+
+    if (!section) {
+        return (
+            <div className="app theme-default">
+                <SiteHeader navigate={navigate} />
+                <main className="page">
+                    <section className="hero">
+                        <div className="eyebrow">404</div>
+                        <h1>That category isn't on the shelf yet.</h1>
+                        <p className="description">
+                            Try another category, or return home and pick a
+                            subject.
+                        </p>
+                        <a
+                            className="text-link"
+                            href="/"
+                            onClick={(event) => {
+                                event.preventDefault();
+                                navigate(null);
+                            }}
+                        >
+                            ← Back to Ton-o-Lore
+                        </a>
+                    </section>
+                </main>
+            </div>
+        );
+    }
+
+    return (
+        <div className="app theme-home" style={themeStyle}>
+            <SiteHeader navigate={navigate} />
+            <main className="page">
+                <nav className="breadcrumb-trail" aria-label="Breadcrumb">
+                    <a
+                        href="/"
+                        onClick={(event) => {
+                            event.preventDefault();
+                            navigate(null);
+                        }}
+                    >
+                        Home
+                    </a>
+                    <span aria-hidden="true">/</span>
+                    <span>{section.label}</span>
+                </nav>
+
+                <section className="hero category-page-hero">
+                    <div className="eyebrow">Category</div>
+                    <h1>{section.label}</h1>
+                    <p className="description">{section.blurb}</p>
+                </section>
+
+                <section className="subjects">
+                    <h2>Subjects</h2>
+                    <div className="connection-grid">
+                        {section.subjects
+                            .slice()
+                            .sort((a, b) => a.name.localeCompare(b.name))
+                            .map((subject) => (
+                                <SubjectCard
+                                    key={subject.id}
+                                    subject={subject}
+                                    navigate={navigate}
+                                />
+                            ))}
+                    </div>
+                    <p className="subjects-fair-use muted">
+                        Subject logos are low-resolution marks used under a
+                        fair-use rationale for commentary and learning
+                        identification only — not free or redistributable
+                        artwork. Rights remain with their respective holders.
+                    </p>
+                </section>
+            </main>
+        </div>
+    );
+}
+
 function App() {
-    const [slug, setSlug] = useState(getSlug());
+    const [route, setRoute] = useState(parseRoute);
     const [page, setPage] = useState(null);
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState(null);
 
-    function navigate(nextSlug) {
-        const path = nextSlug ? `/${nextSlug}` : "/";
-        window.history.pushState({}, "", path);
-        setSlug(nextSlug || null);
+    function navigate(next) {
+        let nextRoute;
+
+        if (!next) {
+            nextRoute = { type: "home" };
+        } else if (typeof next === "string") {
+            nextRoute = {
+                type: "page",
+                slug: next.replace(/^\/+|\/+$/g, "")
+            };
+        } else {
+            nextRoute = next;
+        }
+
+        window.history.pushState({}, "", routeToPath(nextRoute));
+        setRoute(nextRoute);
         window.scrollTo(0, 0);
     }
 
     useEffect(() => {
-        const handlePopState = () => {
-            setSlug(getSlug());
-        };
+        function handlePopState() {
+            setRoute(parseRoute());
+        }
 
         window.addEventListener("popstate", handlePopState);
 
@@ -470,9 +733,11 @@ function App() {
     }, []);
 
     useEffect(() => {
-        if (!slug) {
+        if (route.type !== "page") {
             setPage(null);
-            return;
+            setLoading(false);
+            setError(null);
+            return undefined;
         }
 
         let cancelled = false;
@@ -482,7 +747,7 @@ function App() {
             setError(null);
 
             try {
-                const response = await fetch(`${API}/pages/${slug}`);
+                const response = await fetch(`${API}/pages/${route.slug}`);
 
                 if (!response.ok) {
                     throw new Error("Page not found");
@@ -510,7 +775,7 @@ function App() {
         return () => {
             cancelled = true;
         };
-    }, [slug]);
+    }, [route]);
 
     useEffect(() => {
         function handleLinks(event) {
@@ -527,8 +792,23 @@ function App() {
             }
 
             event.preventDefault();
-            const nextSlug = href.replace(/^\/+|\/+$/g, "");
-            navigate(nextSlug || null);
+            const path = href.replace(/^\/+|\/+$/g, "");
+
+            if (!path) {
+                navigate(null);
+                return;
+            }
+
+            const categoryMatch = path.match(/^category\/([a-z0-9-]+)$/i);
+            if (categoryMatch) {
+                navigate({
+                    type: "category",
+                    categoryId: categoryMatch[1].toLowerCase()
+                });
+                return;
+            }
+
+            navigate(path);
         }
 
         document.addEventListener("click", handleLinks);
@@ -540,7 +820,7 @@ function App() {
 
     const origin = siteOrigin();
     const seo = useMemo(() => {
-        if (!slug) {
+        if (route.type === "home") {
             return {
                 title: "Ton-o-Lore — Living lore maps for deep rabbit holes",
                 description:
@@ -556,6 +836,43 @@ function App() {
             };
         }
 
+        if (route.type === "category") {
+            const fallback =
+                route.categoryId === "other"
+                    ? OTHER_CATEGORY
+                    : FALLBACK_CATEGORIES.find(
+                          (entry) => entry.id === route.categoryId
+                      );
+            const label =
+                fallback?.label ||
+                route.categoryId
+                    .split("-")
+                    .map((part) => part[0].toUpperCase() + part.slice(1))
+                    .join(" ");
+            const description =
+                fallback?.blurb ||
+                `Browse ${label} subjects and lore maps on Ton-o-Lore.`;
+
+            return {
+                title: `${label} | Ton-o-Lore`,
+                description,
+                canonicalUrl: `${origin}${routeToPath(route)}`,
+                type: "website",
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "CollectionPage",
+                    name: label,
+                    description,
+                    url: `${origin}${routeToPath(route)}`,
+                    isPartOf: {
+                        "@type": "WebSite",
+                        name: "Ton-o-Lore",
+                        url: `${origin}/`
+                    }
+                }
+            };
+        }
+
         if (!page) {
             return {
                 title: loading
@@ -563,7 +880,7 @@ function App() {
                     : "Page not found | Ton-o-Lore",
                 description:
                     "That path is not mapped yet on Ton-o-Lore. Try another connection or return home.",
-                canonicalUrl: `${origin}/${slug}`,
+                canonicalUrl: `${origin}/${route.slug}`,
                 type: "website",
                 jsonLd: null
             };
@@ -607,12 +924,21 @@ function App() {
                     : {})
             }
         };
-    }, [slug, page, loading, origin]);
+    }, [route, page, loading, origin]);
 
     useDocumentSeo(seo);
 
-    if (!slug) {
+    if (route.type === "home") {
         return <Home navigate={navigate} />;
+    }
+
+    if (route.type === "category") {
+        return (
+            <CategoryPage
+                categoryId={route.categoryId}
+                navigate={navigate}
+            />
+        );
     }
 
     const themeClass = page?.page?.theme

@@ -2,6 +2,7 @@
 import "./App.css";
 import "./musicSubjectThemes.css";
 import "./tabletopCardThemes.css";
+import "./expansionSubjectThemes.css";
 import { categoryTheme } from "./categoryThemes";
 import { connectionLoreBlurb } from "./connectionLore";
 import { entityTypeLabel } from "./entityTypeLabel";
@@ -154,6 +155,81 @@ const FALLBACK_CATEGORIES = [
                 subjectIds: ["michael-jackson", "madonna", "prince"]
             }
         ]
+    },
+    {
+        id: "mythology",
+        label: "Mythology",
+        blurb: "Gods, heroes, and cosmologies that still structure modern storytelling."
+    },
+    {
+        id: "history",
+        label: "History",
+        blurb: "Empires, wars, and trade routes with dense people-and-place graphs."
+    },
+    {
+        id: "sports",
+        label: "Sports",
+        blurb: "Leagues, dynasties, and ritual competition with lasting fan lore."
+    },
+    {
+        id: "horror",
+        label: "Horror",
+        blurb: "Monsters, slashers, and dread franchises built to haunt the culture."
+    },
+    {
+        id: "western-animation",
+        label: "Western animation",
+        blurb: "Studios and series outside Japanese anime with deep character maps."
+    },
+    {
+        id: "toys",
+        label: "Toys & collectibles",
+        blurb: "Play lines and collectible myths that spilled into media empires."
+    },
+    {
+        id: "wrestling",
+        label: "Pro wrestling",
+        blurb: "Promotions, personas, and kayfabe histories told as living soap opera."
+    },
+    {
+        id: "science-nature",
+        label: "Science & nature",
+        blurb: "Discoveries, expeditions, and natural histories with encyclopedia depth."
+    },
+    {
+        id: "podcasts",
+        label: "Podcasts & audio",
+        blurb: "Serialized audio worlds — fiction, actual play, and documentary myth."
+    },
+    {
+        id: "internet-culture",
+        label: "Internet culture",
+        blurb: "Platforms, memes, and online commons that became modern folklore."
+    },
+    {
+        id: "theater",
+        label: "Theater & musicals",
+        blurb: "Stages, scores, and dramatic canons that travel from page to performance."
+    },
+    {
+        id: "fighting-games",
+        label: "Fighting games",
+        blurb: "Competitive fighters with deep cast lore and tournament culture."
+    },
+    {
+        id: "sci-fi",
+        label: "Science fiction",
+        blurb: "Futures, first contacts, and speculative franchises beyond a single medium."
+    },
+    {
+        id: "folklore",
+        label: "Folklore & legend",
+        blurb: "Folk heroes and cycle tales that keep getting retold across media."
+    },
+    {
+        id: "culinary",
+        label: "Food & drink",
+        blurb: "Cuisines, staples, and drink cultures with geographic and craft lore."
     }
 ];
 

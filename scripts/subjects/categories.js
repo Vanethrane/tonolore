@@ -15,6 +15,11 @@ const {
     newCardGameSubjectIds,
     boardGameSubjectIds
 } = require("./tabletopCardCatalog");
+const {
+    categoryEntriesForCatalog,
+    expansionSubjectIds,
+    subjectCategoryMap
+} = require("./expansionCatalog");
 
 const CATEGORY_CATALOG = [
     {
@@ -73,7 +78,8 @@ const CATEGORY_CATALOG = [
             blurb: genre.blurb,
             subjectIds: genre.subjects.map((subject) => subject.id)
         }))
-    }
+    },
+    ...categoryEntriesForCatalog()
 ];
 
 const SUBJECT_CATEGORY_IDS = {
@@ -128,7 +134,8 @@ const SUBJECT_CATEGORY_IDS = {
     ),
     ...Object.fromEntries(
         boardGameSubjectIds().map((id) => [id, ["tabletop"]])
-    )
+    ),
+    ...subjectCategoryMap()
 };
 
 function normalizeCategories(value) {
@@ -167,5 +174,6 @@ module.exports = {
     genreIdForSubject,
     musicSubjectIds,
     newCardGameSubjectIds,
-    boardGameSubjectIds
+    boardGameSubjectIds,
+    expansionSubjectIds
 };

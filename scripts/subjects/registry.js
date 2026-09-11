@@ -14,6 +14,7 @@ const {
     newCardGameSubjectIds,
     boardGameSubjectIds
 } = require("./tabletopCardCatalog");
+const { expansionSubjectIds } = require("./expansionCatalog");
 
 const SUBJECT_IDS = [
     "one-piece",
@@ -63,7 +64,8 @@ const SUBJECT_IDS = [
     "call-of-cthulhu",
     ...musicSubjectIds(),
     ...newCardGameSubjectIds(),
-    ...boardGameSubjectIds()
+    ...boardGameSubjectIds(),
+    ...expansionSubjectIds()
 ];
 
 function loadSubject(id) {

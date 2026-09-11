@@ -233,7 +233,8 @@ async function getPage(req, res) {
                       name: subjectMeta.name,
                       theme: subjectMeta.theme || subjectMeta.id,
                       path: `/${subjectMeta.rootSlug || subjectMeta.id}`,
-                      logo: subjectMeta.logo || null
+                      logo: subjectMeta.logo || null,
+                      categories: subjectMeta.categories || []
                   }
                 : null
         });

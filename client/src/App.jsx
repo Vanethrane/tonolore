@@ -1,11 +1,12 @@
 ﻿import React, { useEffect, useMemo, useState } from "react";
 import "./App.css";
 import { categoryTheme } from "./categoryThemes";
+import {
+    fetchPageBySlug,
+    fetchSubjectsCatalog,
+    searchEntities
+} from "./staticData";
 import { siteOrigin, useDocumentSeo } from "./useDocumentSeo";
-
-const API =
-    import.meta.env.VITE_API_URL ||
-    (import.meta.env.PROD ? "/api" : "http://localhost:3001/api");
 
 const FALLBACK_CATEGORIES = [
     {
@@ -162,18 +163,10 @@ function SiteSearch({ navigate }) {
 
         const timer = setTimeout(async () => {
             try {
-                const response = await fetch(
-                    `${API}/entities?search=${encodeURIComponent(term)}&limit=8`
-                );
-
-                if (!response.ok) {
-                    throw new Error("Search failed");
-                }
-
-                const data = await response.json();
+                const entities = await searchEntities(term, 8);
 
                 if (!cancelled) {
-                    setResults(data.entities || []);
+                    setResults(entities);
                     setOpen(true);
                 }
             } catch {
@@ -340,7 +333,8 @@ function SiteHeader({ navigate, brand = null }) {
                             alt={brand.logo.alt || brand.name}
                             loading="lazy"
                             referrerPolicy="no-referrer"
-                                    onError={hideBrokenImage} />
+                            onError={hideBrokenImage}
+                        />
                         <span className="subject-brand-name">{brand.name}</span>
                     </a>
                 ) : null}
@@ -348,8 +342,190 @@ function SiteHeader({ navigate, brand = null }) {
 
             <SiteSearch navigate={navigate} />
 
-            <p className="tagline">Follow the connections.</p>
+            <nav className="header-nav" aria-label="Primary">
+                <a
+                    href="/"
+                    onClick={(event) => {
+                        event.preventDefault();
+                        navigate(null);
+                    }}
+                >
+                    All categories
+                </a>
+            </nav>
         </header>
+    );
+}
+
+function PathTrail({ crumbs, navigate }) {
+    if (!crumbs?.length) {
+        return null;
+    }
+
+    return (
+        <nav className="path-trail" aria-label="You are here">
+            {crumbs.map((crumb, index) => {
+                const isLast = index === crumbs.length - 1;
+                return (
+                    <span className="path-trail-item" key={`${crumb.label}-${index}`}>
+                        {index > 0 ? (
+                            <span className="path-trail-sep" aria-hidden="true">
+                                /
+                            </span>
+                        ) : null}
+                        {crumb.href && !isLast ? (
+                            <a
+                                href={crumb.href}
+                                onClick={(event) => {
+                                    event.preventDefault();
+                                    if (crumb.route) {
+                                        navigate(crumb.route);
+                                    } else if (crumb.href === "/") {
+                                        navigate(null);
+                                    } else {
+                                        navigate(
+                                            crumb.href.replace(/^\/+/, "")
+                                        );
+                                    }
+                                }}
+                            >
+                                {crumb.label}
+                            </a>
+                        ) : (
+                            <span
+                                className={
+                                    isLast ? "path-trail-current" : undefined
+                                }
+                            >
+                                {crumb.label}
+                            </span>
+                        )}
+                    </span>
+                );
+            })}
+        </nav>
+    );
+}
+
+const HIGHLIGHT_RELATIONSHIPS = new Set([
+    "adapted_into",
+    "adapted_from",
+    "created",
+    "created_by",
+    "opposed_by",
+    "influenced",
+    "inspired",
+    "caused",
+    "member_of",
+    "leads",
+    "preceded",
+    "followed",
+    "part_of",
+    "contains"
+]);
+
+function connectionInterest(connection) {
+    const discovery = Number(connection.discovery_score);
+    const strength = Number(connection.strength);
+    const relationship = String(connection.relationship || "");
+    const boost = HIGHLIGHT_RELATIONSHIPS.has(relationship) ? 18 : 0;
+    const hasImage = connection.image_url ? 4 : 0;
+
+    return (
+        (Number.isFinite(discovery) ? discovery : 0) * 100 +
+        (Number.isFinite(strength) ? strength : 0) +
+        boost +
+        hasImage
+    );
+}
+
+function rankConnections(connections) {
+    const seen = new Set();
+    const unique = [];
+
+    for (const connection of connections || []) {
+        if (seen.has(connection.entity_id)) {
+            continue;
+        }
+        seen.add(connection.entity_id);
+        unique.push(connection);
+    }
+
+    unique.sort((a, b) => connectionInterest(b) - connectionInterest(a));
+
+    if (unique.length <= 4) {
+        return { featured: unique, more: [], total: unique.length };
+    }
+
+    const featuredCount = Math.min(
+        6,
+        Math.max(3, Math.ceil(unique.length * 0.35))
+    );
+    const featured = unique.slice(0, featuredCount);
+    const more = unique.slice(featuredCount);
+
+    return { featured, more, total: unique.length };
+}
+
+function ConnectionCard({
+    connection,
+    navigate,
+    featured = false,
+    showBadge = false
+}) {
+    const path = (connection.path || `/${connection.slug}`).replace(
+        /^\/+/,
+        ""
+    );
+    const blurb =
+        connection.title ||
+        connection.short_description ||
+        connection.explanation ||
+        "";
+
+    return (
+        <a
+            className={`connection${featured ? " connection-featured" : ""}`}
+            href={`/${path}`}
+            onClick={(event) => {
+                if (
+                    event.metaKey ||
+                    event.ctrlKey ||
+                    event.shiftKey ||
+                    event.altKey
+                ) {
+                    return;
+                }
+                event.preventDefault();
+                navigate({ type: "page", slug: path });
+            }}
+        >
+            {connection.image_url ? (
+                <img
+                    className="connection-thumb"
+                    src={connection.image_url}
+                    alt=""
+                    loading="lazy"
+                    referrerPolicy="no-referrer"
+                    onError={hideBrokenImage}
+                />
+            ) : null}
+
+            <div className="connection-meta">
+                <span className="connection-type">
+                    {relationshipLabel(connection)}
+                </span>
+                {showBadge ? (
+                    <span className="connection-badge">Featured</span>
+                ) : null}
+            </div>
+
+            <h3>{connection.name}</h3>
+
+            {blurb ? <p>{blurb}</p> : null}
+
+            <span className="follow">Open →</span>
+        </a>
     );
 }
 
@@ -417,28 +593,15 @@ function useSubjectsCatalog() {
 
         async function load() {
             try {
-                const response = await fetch(`${API}/pages/subjects`);
-                if (!response.ok) {
-                    throw new Error("Failed to load subjects");
-                }
-                const data = await response.json();
+                const data = await fetchSubjectsCatalog();
                 if (!cancelled) {
                     setSubjects(data.subjects || []);
                     setCategories(data.categories || []);
                 }
             } catch {
                 if (!cancelled) {
-                    setSubjects([
-                        {
-                            id: "one-piece",
-                            name: "One Piece",
-                            slug: "one-piece",
-                            path: "/one-piece",
-                            entity_count: null,
-                            categories: ["anime"]
-                        }
-                    ]);
-                    setCategories([{ id: "anime", label: "Anime" }]);
+                    setSubjects([]);
+                    setCategories([]);
                 }
             } finally {
                 if (!cancelled) {
@@ -476,7 +639,8 @@ function SubjectCard({ subject, navigate }) {
                         alt={subject.logo.alt || `${subject.name} logo`}
                         loading="lazy"
                         referrerPolicy="no-referrer"
-                                    onError={hideBrokenImage} />
+                        onError={hideBrokenImage}
+                    />
                 </div>
             ) : null}
             <span className="connection-type">Subject</span>
@@ -507,13 +671,19 @@ function Home({ navigate }) {
                     <div className="eyebrow">Start here</div>
                     <h1 className="brand-hero">Ton-o-Lore</h1>
                     <p className="description">
-                        A living map of people, places, events, and ideas —
-                        built so every page opens another path.
+                        Pick a medium, open a subject, then follow the strongest
+                        connections — each page is another door into the lore.
                     </p>
                 </section>
 
                 <section className="subjects">
-                    <h2>Browse by medium</h2>
+                    <div className="section-heading">
+                        <h2>Browse by medium</h2>
+                        <p className="section-lede">
+                            Each shelf groups franchises that share a format —
+                            open one to see the subjects inside.
+                        </p>
+                    </div>
                     {loading ? (
                         <p className="muted">Loading categories…</p>
                     ) : (
@@ -672,19 +842,13 @@ function CategoryPage({ categoryId, navigate }) {
         <div className="app theme-home" style={themeStyle}>
             <SiteHeader navigate={navigate} />
             <main className="page">
-                <nav className="breadcrumb-trail" aria-label="Breadcrumb">
-                    <a
-                        href="/"
-                        onClick={(event) => {
-                            event.preventDefault();
-                            navigate(null);
-                        }}
-                    >
-                        Home
-                    </a>
-                    <span aria-hidden="true">/</span>
-                    <span>{section.label}</span>
-                </nav>
+                <PathTrail
+                    navigate={navigate}
+                    crumbs={[
+                        { label: "Home", href: "/", route: { type: "home" } },
+                        { label: section.label }
+                    ]}
+                />
 
                 <section className="hero category-page-hero">
                     <div className="eyebrow">Category</div>
@@ -693,11 +857,25 @@ function CategoryPage({ categoryId, navigate }) {
                 </section>
 
                 <section className="subjects">
-                    <h2>Subjects</h2>
+                    <div className="section-heading">
+                        <h2>Subjects</h2>
+                        <p className="section-lede">
+                            Larger graphs first — pick a franchise, then follow
+                            its strongest links.
+                        </p>
+                    </div>
                     <div className="connection-grid">
                         {section.subjects
                             .slice()
-                            .sort((a, b) => a.name.localeCompare(b.name))
+                            .sort((a, b) => {
+                                const byCount =
+                                    (b.entity_count || 0) -
+                                    (a.entity_count || 0);
+                                if (byCount !== 0) {
+                                    return byCount;
+                                }
+                                return a.name.localeCompare(b.name);
+                            })
                             .map((subject) => (
                                 <SubjectCard
                                     key={subject.id}
@@ -770,13 +948,7 @@ function App() {
             setError(null);
 
             try {
-                const response = await fetch(`${API}/pages/${route.slug}`);
-
-                if (!response.ok) {
-                    throw new Error("Page not found");
-                }
-
-                const data = await response.json();
+                const data = await fetchPageBySlug(route.slug);
 
                 if (!cancelled) {
                     setPage(data);
@@ -1010,20 +1182,46 @@ function App() {
         );
     }
 
-    const seen = new Set();
-    const graphConnections = page.connections.filter((connection) => {
-        if (seen.has(connection.entity_id)) {
-            return false;
-        }
-        seen.add(connection.entity_id);
-        return true;
-    });
+    const { featured, more, total } = rankConnections(page.connections);
 
     const copyright = page.copyright;
     const brand = page.subject || null;
     const isSubjectRoot =
-        Boolean(brand?.path) &&
-        page.page.slug === brand.path;
+        Boolean(brand?.path) && page.page.slug === brand.path;
+    const primaryCategoryId = brand?.categories?.[0] || null;
+    const primaryCategory =
+        FALLBACK_CATEGORIES.find((entry) => entry.id === primaryCategoryId) ||
+        (primaryCategoryId === OTHER_CATEGORY.id ? OTHER_CATEGORY : null);
+
+    const trail = [
+        { label: "Home", href: "/", route: { type: "home" } }
+    ];
+
+    if (primaryCategory) {
+        trail.push({
+            label: primaryCategory.label,
+            href: `/category/${primaryCategory.id}`,
+            route: {
+                type: "category",
+                categoryId: primaryCategory.id
+            }
+        });
+    }
+
+    if (brand?.name && brand?.path) {
+        if (!isSubjectRoot) {
+            trail.push({
+                label: brand.name,
+                href: brand.path,
+                route: {
+                    type: "page",
+                    slug: brand.path.replace(/^\/+/, "")
+                }
+            });
+        }
+    }
+
+    trail.push({ label: page.entity.name });
 
     return (
         <div className={`app ${themeClass}`}>
@@ -1031,6 +1229,8 @@ function App() {
             <SiteHeader navigate={navigate} brand={brand} />
 
             <main className="page">
+                <PathTrail crumbs={trail} navigate={navigate} />
+
                 <section className="hero">
                     {brand?.logo?.url && isSubjectRoot ? (
                         <figure className="subject-hero-mark">
@@ -1039,7 +1239,8 @@ function App() {
                                 alt={brand.logo.alt || brand.name}
                                 loading="lazy"
                                 referrerPolicy="no-referrer"
-                                    onError={hideBrokenImage} />
+                                onError={hideBrokenImage}
+                            />
                             {brand.logo.credit ? (
                                 <figcaption>{brand.logo.credit}</figcaption>
                             ) : null}
@@ -1063,7 +1264,8 @@ function App() {
                                 }
                                 loading="lazy"
                                 referrerPolicy="no-referrer"
-                                    onError={hideBrokenImage} />
+                                onError={hideBrokenImage}
+                            />
                             <figcaption>
                                 {page.entity.image_license === "fair_use" ? (
                                     <span>
@@ -1104,40 +1306,49 @@ function App() {
                 </section>
 
                 <section className="connections">
-                    <h2>Where the rabbit hole goes next</h2>
-
-                    <div className="connection-grid">
-                        {graphConnections.map((connection) => (
-                            <a
-                                className="connection"
-                                href={connection.path}
-                                key={connection.id}
-                            >
-                                {connection.image_url ? (
-                                    <img
-                                        className="connection-thumb"
-                                        src={connection.image_url}
-                                        alt=""
-                                        loading="lazy"
-                                        referrerPolicy="no-referrer"
-                                    onError={hideBrokenImage} />
-                                ) : null}
-
-                                <span className="connection-type">
-                                    {relationshipLabel(connection)}
-                                </span>
-
-                                <h3>{connection.name}</h3>
-
-                                <p>
-                                    {connection.title ||
-                                        connection.short_description}
-                                </p>
-
-                                <span className="follow">Follow ?</span>
-                            </a>
-                        ))}
+                    <div className="section-heading">
+                        <h2>Where to go next</h2>
+                        <p className="section-lede">
+                            {total
+                                ? more.length
+                                    ? `Start with the strongest links — ${featured.length} featured of ${total}.`
+                                    : `${total} linked ${total === 1 ? "page" : "pages"} from here.`
+                                : "No linked pages are mapped from here yet."}
+                        </p>
                     </div>
+
+                    {featured.length ? (
+                        <div
+                            className={`connection-grid${more.length ? " connection-grid-featured" : ""}`}
+                        >
+                            {featured.map((connection) => (
+                                <ConnectionCard
+                                    key={connection.id}
+                                    connection={connection}
+                                    navigate={navigate}
+                                    featured={Boolean(more.length)}
+                                    showBadge={Boolean(more.length)}
+                                />
+                            ))}
+                        </div>
+                    ) : null}
+
+                    {more.length ? (
+                        <details className="more-connections">
+                            <summary>
+                                More connections ({more.length})
+                            </summary>
+                            <div className="connection-grid">
+                                {more.map((connection) => (
+                                    <ConnectionCard
+                                        key={connection.id}
+                                        connection={connection}
+                                        navigate={navigate}
+                                    />
+                                ))}
+                            </div>
+                        </details>
+                    ) : null}
                 </section>
 
                 <section
@@ -1156,7 +1367,12 @@ function App() {
 
                 {page.rabbit_holes.length > 0 && (
                     <section className="rabbit-holes">
-                        <h2>Guided rabbit holes</h2>
+                        <div className="section-heading">
+                            <h2>Guided rabbit holes</h2>
+                            <p className="section-lede">
+                                Longer trails curated for discovery.
+                            </p>
+                        </div>
 
                         <div className="rabbit-hole-grid">
                             {page.rabbit_holes.map((rabbitHole) => (

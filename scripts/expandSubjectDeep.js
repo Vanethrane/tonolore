@@ -261,7 +261,7 @@ async function main() {
 
     console.log(`Expanding ${subjectId}…`);
 
-    const discovered = await runSparqlCollect(config.sparqlQueries);
+    const discovered = await runSparqlCollect(config.sparqlQueries || []);
     console.log(`Wikidata unique items: ${discovered.length}`);
 
     const categoryTitles = new Set();

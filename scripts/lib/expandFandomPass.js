@@ -239,20 +239,29 @@ async function expandFandomPass(subjectId, opts = {}) {
 
     for (const cat of categories) {
         console.log(`  Category:${cat.title}…`);
-        const members = await listCategoryMembers(host, cat.title, {
-            // When discovering only-new titles, don't clamp category crawl to
-            // the batch size — we need to walk past already-known pages.
-            maxPages: opts.onlyNew
-                ? cat.maxPages || 3000
-                : Math.min(
-                      cat.maxPages || 3000,
-                      opts.limit || cat.maxPages || 3000
-                  ),
-            delayMs: opts.delayMs || 110,
-            pageOnly: !cat.includeSubcats,
-            includeSubcats: Boolean(cat.includeSubcats),
-            maxDepth: cat.maxDepth || 1
-        });
+        let members = [];
+        try {
+            members = await listCategoryMembers(host, cat.title, {
+                // When discovering only-new titles, don't clamp category crawl to
+                // the batch size — we need to walk past already-known pages.
+                maxPages: opts.onlyNew
+                    ? cat.maxPages || 3000
+                    : Math.min(
+                          cat.maxPages || 3000,
+                          opts.limit || cat.maxPages || 3000
+                      ),
+                delayMs: opts.delayMs || 110,
+                pageOnly: !cat.includeSubcats,
+                includeSubcats: Boolean(cat.includeSubcats),
+                maxDepth: cat.maxDepth || 1
+            });
+        } catch (error) {
+            console.warn(
+                `    skip category (${error.message.slice(0, 120)})`
+            );
+            await sleep(opts.delayMs || 110);
+            continue;
+        }
 
         for (const member of members) {
             if (shouldSkipTitle(member.title)) {

@@ -8,7 +8,10 @@
  * Used by scripts/expandSubject.js (tandem) and expandSubjectDeep.js.
  */
 
+const { EXTRA_EXPAND_CONFIGS } = require("./extraExpandConfigs");
+
 const CONFIGS = {
+    ...EXTRA_EXPAND_CONFIGS,
     "one-piece": {
         rootSlug: "one-piece",
         relevanceHints: [

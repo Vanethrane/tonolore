@@ -76,7 +76,7 @@
       "slug": "starfleet-personnel",
       "name": "Starfleet personnel",
       "type": "person",
-      "description": "The following is a list of Starfleet personnel in the 24th century.\n\n01 de:Liste von Angehörigen der Sternenflotte (24. Jahrhundert) fr:Personnel de Starfleet (24ème siècle)",
+      "description": "Lists of personnel who served in United Earth Starfleet or Federation Starfleet.\n\nIf a ship has too few personnel to have a list of personnel linked below, a personnel listing will be included in that ship's article (list of starships).\n\nde:Liste von Angehörigen der Sternenflotte fr:Personnel de Starfleet it:Personale della Flotta Stellare ja:宇宙艦隊の人員 00",
       "short_description": "Lists of personnel who served in United Earth Starfleet or Federation Starfleet.",
       "evidence": "fiction",
       "parentSlug": "star-trek",
@@ -87,8 +87,8 @@
         "discovered": true,
         "source": "fandom",
         "kind": "character",
-        "fandom_url": "https://memory-alpha.fandom.com/wiki/Starfleet_personnel_(24th_century)",
-        "fandom_title": "Starfleet personnel (24th century)",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Starfleet_personnel",
+        "fandom_title": "Starfleet personnel",
         "source_fandom": "memory-alpha.fandom.com",
         "sources": [
           "fandom"
@@ -13928,6 +13928,81 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "planetary-classification",
+      "name": "Planetary classification",
+      "type": "place",
+      "description": "Planetary classification systems were used by many races to categorize planets. Various factors were taken into consideration, including atmospheric composition, surface temperature, vegetation, and size. The classification system used by the Federation used single-letter designations such as class M to describe a planet able to support humanoid life for long periods, while the Vulcans used the term \"Minshara class\" to describe a similar planet.\n\n{| class=\"grey\" ! Class ! Description ! Examples\n\nThe Star Trek: Star Charts book, which was authored and advised by Trek staffers, listed many other planetary classes which may one day be recognized on-screen, but as of now they remain conjectural.\n\nOne such was \"class F\", which was geologically inactive with no atmosphere. Janus VI was given as an example of this.",
+      "short_description": "Planetary classification systems were used by many races to categorize planets. Various factors were taken into consideration, including atmospheric composition, surface temperature, vegetation, and size. The…",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/memoryalpha/images/0/03/Terra_Nova_planet.jpg/revision/latest/scale-to-width-down/360?cb=20190124194024&path-prefix=en",
+      "image_source": "https://memory-alpha.fandom.com/wiki/Planetary_classification",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Planetary classification",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Planetary_classification",
+        "fandom_title": "Planetary classification",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "defense-drone",
+      "name": "Defense drone",
+      "type": "object",
+      "description": "A Defense Drone was a type of armed, atmosphere capable, robotic spacecraft that were known to be in use by the Confederation of Earth around the turn of the 25th Century in an alternate timeline.\n\nThe Defense Drones strongly resembled Federation drones of the equivalent period (late 24th Century / early 25th Century) that were primarily used as part of defense perimeters or else defense nets such as Mars' Planetary defense system circa 2385, and presumably performed much the same role. (, \"Penance\")\n\nCategory:Confederation of Earth timeline Category:Spacecraft Category:Military technology",
+      "short_description": "A Defense Drone was a type of armed, atmosphere capable, robotic spacecraft that were known to be in use by the Confederation of Earth around the turn of the 25th Century in an alternate timeline.",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "ship",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Defense_drone",
+        "fandom_title": "Defense drone",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alpha-and-beta-quadrant-species",
+      "name": "Alpha and Beta Quadrant species",
+      "type": "concept",
+      "description": "The following is a list of species from the Alpha and Beta Quadrants.\n\nde:Völker des Alpha- und Beta-Quadranten fr:Espèces des quadrants Alpha et Beta nl:Alfa en Beta kwadrant rassen pl:Gatunki Kwadrantów Alfa i Beta Alpha and Beta Quadrant species, List of",
+      "short_description": "The following is a list of species from the Alpha and Beta Quadrants.",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Alpha_and_Beta_Quadrant_species",
+        "fandom_title": "Alpha and Beta Quadrant species",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -18274,6 +18349,30 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "planetary-classification",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "defense-drone",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "alpha-and-beta-quadrant-species",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -18282,18 +18381,18 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (memory-alpha.fandom.com) for identification and commentary only. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T17:21:00.800Z",
+  "generated_at": "2026-09-12T21:05:36.516Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://memory-alpha.fandom.com/wiki/",
     "host": "memory-alpha.fandom.com"
   },
   "stats": {
-    "fandom_titles": 45,
+    "fandom_titles": 1,
     "fandom_enriched_core": 0,
-    "fandom_created": 40,
-    "fandom_images": 25,
-    "fandom_intros": 45,
+    "fandom_created": 1,
+    "fandom_images": 0,
+    "fandom_intros": 1,
     "description_ensure_at": "2026-09-12T17:22:06.744Z",
     "description_ensure_count": 1
   }

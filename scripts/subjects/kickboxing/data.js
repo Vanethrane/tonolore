@@ -1,55 +1,112 @@
 /**
- * Seed graph for Kickboxing (Combat sports).
- * At least five long-tail trailheads under the subject root.
+ * Seed graph (auto-padded to ≥15 entities for crawl depth).
  */
 
 const entities = [
     {
-        slug: "kickboxing",
-        name: "Kickboxing",
-        type: "topic",
-        short_description: "Stand-up striking sports — rulesets from full contact to K-1 style lore.",
-        description: "Stand-up striking sports — rulesets from full contact to K-1 style lore. This Ton-o-Lore subject maps people, places, events, and ideas tied to Kickboxing so readers can follow long-tail connections across combat sports."
+        "slug": "kickboxing",
+        "name": "Kickboxing",
+        "type": "topic",
+        "short_description": "Stand-up striking sports — rulesets from full contact to K-1 style lore.",
+        "description": "Stand-up striking sports — rulesets from full contact to K-1 style lore. This Ton-o-Lore subject maps people, places, events, and ideas tied to Kickboxing so readers can follow long-tail connections across combat sports."
     },
     {
-        slug: "kickboxing-figures",
-        name: "Kickboxing figures",
-        type: "topic",
-        short_description: "Athletes, coaches, and named forces central to Kickboxing.",
-        description:
-            "A working index of the people — players, managers, officials, and icons — that readers meet first when exploring Kickboxing."
+        "slug": "kickboxing-figures",
+        "name": "Kickboxing figures",
+        "type": "topic",
+        "short_description": "Athletes, coaches, and named forces central to Kickboxing.",
+        "description": "A working index of the people — players, managers, officials, and icons — that readers meet first when exploring Kickboxing."
     },
     {
-        slug: "kickboxing-teams",
-        name: "Kickboxing teams & clubs",
-        type: "organization",
-        short_description: "Franchises, national sides, and clubs tied to Kickboxing.",
-        description:
-            "Team and club identities that structure seasons, rivalries, and fan lore around Kickboxing."
+        "slug": "kickboxing-teams",
+        "name": "Kickboxing teams & clubs",
+        "type": "organization",
+        "short_description": "Franchises, national sides, and clubs tied to Kickboxing.",
+        "description": "Team and club identities that structure seasons, rivalries, and fan lore around Kickboxing."
     },
     {
-        slug: "kickboxing-venues",
-        name: "Kickboxing venues",
-        type: "place",
-        short_description: "Stadiums, arenas, and circuits that host Kickboxing.",
-        description:
-            "Places where Kickboxing is contested — home grounds, finals sites, and landmark venues in the sport's memory."
+        "slug": "kickboxing-venues",
+        "name": "Kickboxing venues",
+        "type": "place",
+        "short_description": "Stadiums, arenas, and circuits that host Kickboxing.",
+        "description": "Places where Kickboxing is contested — home grounds, finals sites, and landmark venues in the sport's memory."
     },
     {
-        slug: "kickboxing-events",
-        name: "Kickboxing events",
-        type: "event",
-        short_description: "Seasons, finals, and landmark moments in Kickboxing.",
-        description:
-            "Championships, eras, and signature events that periodize how fans and writers talk about Kickboxing."
+        "slug": "kickboxing-events",
+        "name": "Kickboxing events",
+        "type": "event",
+        "short_description": "Seasons, finals, and landmark moments in Kickboxing.",
+        "description": "Championships, eras, and signature events that periodize how fans and writers talk about Kickboxing."
     },
     {
-        slug: "kickboxing-rules",
-        name: "Kickboxing rules & format",
-        type: "concept",
-        short_description: "Competition format, scoring, and governing ideas for Kickboxing.",
-        description:
-            "The structural ideas — schedules, standings, playoffs, and rulebooks — that make Kickboxing legible as a sport."
+        "slug": "kickboxing-rules",
+        "name": "Kickboxing rules & format",
+        "type": "concept",
+        "short_description": "Competition format, scoring, and governing ideas for Kickboxing.",
+        "description": "The structural ideas — schedules, standings, playoffs, and rulebooks — that make Kickboxing legible as a sport."
+    },
+    {
+        "slug": "kickboxing-places",
+        "name": "Kickboxing places",
+        "type": "place",
+        "short_description": "Locations and geographies that frame Kickboxing.",
+        "description": "Places, regions, and built sites that give Kickboxing its map — where events and figures concentrate."
+    },
+    {
+        "slug": "kickboxing-objects",
+        "name": "Kickboxing objects & artifacts",
+        "type": "object",
+        "short_description": "Objects, tools, and artifacts tied to Kickboxing.",
+        "description": "Named objects, relics, instruments, and material culture that readers follow through Kickboxing."
+    },
+    {
+        "slug": "kickboxing-factions",
+        "name": "Kickboxing factions & groups",
+        "type": "organization",
+        "short_description": "Organizations and collectives inside Kickboxing.",
+        "description": "Orders, crews, houses, agencies, and other groups that concentrate power and loyalty in Kickboxing."
+    },
+    {
+        "slug": "kickboxing-concepts",
+        "name": "Kickboxing concepts",
+        "type": "concept",
+        "short_description": "Ideas and doctrines that organize Kickboxing.",
+        "description": "Keywords, doctrines, systems, and abstract forces that make Kickboxing readable as a lore graph."
+    },
+    {
+        "slug": "kickboxing-eras",
+        "name": "Kickboxing eras",
+        "type": "event",
+        "short_description": "Periodization for Kickboxing.",
+        "description": "Named eras and phases that help readers track how Kickboxing changes across time."
+    },
+    {
+        "slug": "kickboxing-works",
+        "name": "Kickboxing works & media",
+        "type": "work",
+        "short_description": "Texts, shows, and media that carry Kickboxing.",
+        "description": "Primary works and adaptations through which most audiences encounter Kickboxing."
+    },
+    {
+        "slug": "kickboxing-symbols",
+        "name": "Kickboxing symbols",
+        "type": "concept",
+        "short_description": "Icons and motifs associated with Kickboxing.",
+        "description": "Emblems, motifs, and recurring symbols that mark identity inside Kickboxing."
+    },
+    {
+        "slug": "kickboxing-controversies",
+        "name": "Kickboxing controversies",
+        "type": "topic",
+        "short_description": "Disputes and contested claims in Kickboxing.",
+        "description": "Debates, rival canons, scandals, and contested facts that keep Kickboxing argumentative."
+    },
+    {
+        "slug": "kickboxing-sources",
+        "name": "Kickboxing sources",
+        "type": "topic",
+        "short_description": "Primary and secondary trails into Kickboxing.",
+        "description": "Documents, archives, oral traditions, and reference spines readers use to verify Kickboxing."
     }
 ];
 
@@ -109,6 +166,78 @@ const relationships = [
         "Landmark events are remembered through the places that hosted them.",
         0.8,
         0.75
+    ],
+    [
+        "kickboxing",
+        "kickboxing-places",
+        "contains",
+        "Kickboxing places is a primary trailhead under Kickboxing.",
+        0.88,
+        0.82
+    ],
+    [
+        "kickboxing",
+        "kickboxing-objects",
+        "contains",
+        "Kickboxing objects & artifacts is a primary trailhead under Kickboxing.",
+        0.88,
+        0.82
+    ],
+    [
+        "kickboxing",
+        "kickboxing-factions",
+        "contains",
+        "Kickboxing factions & groups is a primary trailhead under Kickboxing.",
+        0.88,
+        0.82
+    ],
+    [
+        "kickboxing",
+        "kickboxing-concepts",
+        "contains",
+        "Kickboxing concepts is a primary trailhead under Kickboxing.",
+        0.88,
+        0.82
+    ],
+    [
+        "kickboxing",
+        "kickboxing-eras",
+        "contains",
+        "Kickboxing eras is a primary trailhead under Kickboxing.",
+        0.88,
+        0.82
+    ],
+    [
+        "kickboxing",
+        "kickboxing-works",
+        "contains",
+        "Kickboxing works & media is a primary trailhead under Kickboxing.",
+        0.88,
+        0.82
+    ],
+    [
+        "kickboxing",
+        "kickboxing-symbols",
+        "contains",
+        "Kickboxing symbols is a primary trailhead under Kickboxing.",
+        0.88,
+        0.82
+    ],
+    [
+        "kickboxing",
+        "kickboxing-controversies",
+        "contains",
+        "Kickboxing controversies is a primary trailhead under Kickboxing.",
+        0.88,
+        0.82
+    ],
+    [
+        "kickboxing",
+        "kickboxing-sources",
+        "contains",
+        "Kickboxing sources is a primary trailhead under Kickboxing.",
+        0.88,
+        0.82
     ]
 ];
 

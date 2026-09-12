@@ -1,30 +1,112 @@
 /**
- * Seed graph for Metallica (Metal).
+ * Seed graph (auto-padded to ≥15 entities for crawl depth).
  */
 
 const entities = [
     {
-        slug: "metallica",
-        name: "Metallica",
-        type: "topic",
-        short_description: "Thrash-to-arena titans whose catalog and fan culture dominate modern metal lore.",
-        description: "Thrash-to-arena titans whose catalog and fan culture dominate modern metal lore. This Ton-o-Lore subject maps people, works, places, and ideas tied to Metallica so readers can follow long-tail connections across the metal tradition."
+        "slug": "metallica",
+        "name": "Metallica",
+        "type": "topic",
+        "short_description": "Thrash-to-arena titans whose catalog and fan culture dominate modern metal lore.",
+        "description": "Thrash-to-arena titans whose catalog and fan culture dominate modern metal lore. This Ton-o-Lore subject maps people, works, places, and ideas tied to Metallica so readers can follow long-tail connections across the metal tradition."
     },
     {
-        slug: "metallica-catalog",
-        name: "Metallica catalog",
-        type: "topic",
-        short_description: "Core recordings and works associated with Metallica.",
-        description:
-            "A working index of albums, compositions, and standout tracks that anchor how listeners encounter Metallica in the metal tradition."
+        "slug": "metallica-catalog",
+        "name": "Metallica catalog",
+        "type": "topic",
+        "short_description": "Core recordings and works associated with Metallica.",
+        "description": "A working index of albums, compositions, and standout tracks that anchor how listeners encounter Metallica in the metal tradition."
     },
     {
-        slug: "metallica-era",
-        name: "Metallica eras",
-        type: "event",
-        short_description: "Career phases and stylistic turns in the Metallica story.",
-        description:
-            "Periodization helps encyclopedia readers track how Metallica changed sound, lineup, or public myth across decades of metal history."
+        "slug": "metallica-era",
+        "name": "Metallica eras",
+        "type": "event",
+        "short_description": "Career phases and stylistic turns in the Metallica story.",
+        "description": "Periodization helps encyclopedia readers track how Metallica changed sound, lineup, or public myth across decades of metal history."
+    },
+    {
+        "slug": "metallica-figures",
+        "name": "Metallica figures",
+        "type": "topic",
+        "short_description": "People and named forces central to Metallica.",
+        "description": "A hub for the figures — historical, fictional, or legendary — that readers meet first when exploring Metallica."
+    },
+    {
+        "slug": "metallica-places",
+        "name": "Metallica places",
+        "type": "place",
+        "short_description": "Locations and geographies that frame Metallica.",
+        "description": "Places, regions, and built sites that give Metallica its map — where events and figures concentrate."
+    },
+    {
+        "slug": "metallica-events",
+        "name": "Metallica events",
+        "type": "event",
+        "short_description": "Turning points and dated episodes in Metallica.",
+        "description": "Battles, ceremonies, disasters, debuts, and other timed events that structure the Metallica timeline."
+    },
+    {
+        "slug": "metallica-objects",
+        "name": "Metallica objects & artifacts",
+        "type": "object",
+        "short_description": "Objects, tools, and artifacts tied to Metallica.",
+        "description": "Named objects, relics, instruments, and material culture that readers follow through Metallica."
+    },
+    {
+        "slug": "metallica-factions",
+        "name": "Metallica factions & groups",
+        "type": "organization",
+        "short_description": "Organizations and collectives inside Metallica.",
+        "description": "Orders, crews, houses, agencies, and other groups that concentrate power and loyalty in Metallica."
+    },
+    {
+        "slug": "metallica-concepts",
+        "name": "Metallica concepts",
+        "type": "concept",
+        "short_description": "Ideas and doctrines that organize Metallica.",
+        "description": "Keywords, doctrines, systems, and abstract forces that make Metallica readable as a lore graph."
+    },
+    {
+        "slug": "metallica-eras",
+        "name": "Metallica eras",
+        "type": "event",
+        "short_description": "Periodization for Metallica.",
+        "description": "Named eras and phases that help readers track how Metallica changes across time."
+    },
+    {
+        "slug": "metallica-works",
+        "name": "Metallica works & media",
+        "type": "work",
+        "short_description": "Texts, shows, and media that carry Metallica.",
+        "description": "Primary works and adaptations through which most audiences encounter Metallica."
+    },
+    {
+        "slug": "metallica-symbols",
+        "name": "Metallica symbols",
+        "type": "concept",
+        "short_description": "Icons and motifs associated with Metallica.",
+        "description": "Emblems, motifs, and recurring symbols that mark identity inside Metallica."
+    },
+    {
+        "slug": "metallica-controversies",
+        "name": "Metallica controversies",
+        "type": "topic",
+        "short_description": "Disputes and contested claims in Metallica.",
+        "description": "Debates, rival canons, scandals, and contested facts that keep Metallica argumentative."
+    },
+    {
+        "slug": "metallica-sources",
+        "name": "Metallica sources",
+        "type": "topic",
+        "short_description": "Primary and secondary trails into Metallica.",
+        "description": "Documents, archives, oral traditions, and reference spines readers use to verify Metallica."
+    },
+    {
+        "slug": "metallica-geography",
+        "name": "Metallica geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for Metallica.",
+        "description": "Regions, routes, and spatial systems that situate Metallica beyond single named places."
     }
 ];
 
@@ -44,6 +126,102 @@ const relationships = [
         "Eras organize commentary on stylistic and cultural change over time.",
         0.85,
         0.8
+    ],
+    [
+        "metallica",
+        "metallica-figures",
+        "contains",
+        "Metallica figures is a primary trailhead under Metallica.",
+        0.88,
+        0.82
+    ],
+    [
+        "metallica",
+        "metallica-places",
+        "contains",
+        "Metallica places is a primary trailhead under Metallica.",
+        0.88,
+        0.82
+    ],
+    [
+        "metallica",
+        "metallica-events",
+        "contains",
+        "Metallica events is a primary trailhead under Metallica.",
+        0.88,
+        0.82
+    ],
+    [
+        "metallica",
+        "metallica-objects",
+        "contains",
+        "Metallica objects & artifacts is a primary trailhead under Metallica.",
+        0.88,
+        0.82
+    ],
+    [
+        "metallica",
+        "metallica-factions",
+        "contains",
+        "Metallica factions & groups is a primary trailhead under Metallica.",
+        0.88,
+        0.82
+    ],
+    [
+        "metallica",
+        "metallica-concepts",
+        "contains",
+        "Metallica concepts is a primary trailhead under Metallica.",
+        0.88,
+        0.82
+    ],
+    [
+        "metallica",
+        "metallica-eras",
+        "contains",
+        "Metallica eras is a primary trailhead under Metallica.",
+        0.88,
+        0.82
+    ],
+    [
+        "metallica",
+        "metallica-works",
+        "contains",
+        "Metallica works & media is a primary trailhead under Metallica.",
+        0.88,
+        0.82
+    ],
+    [
+        "metallica",
+        "metallica-symbols",
+        "contains",
+        "Metallica symbols is a primary trailhead under Metallica.",
+        0.88,
+        0.82
+    ],
+    [
+        "metallica",
+        "metallica-controversies",
+        "contains",
+        "Metallica controversies is a primary trailhead under Metallica.",
+        0.88,
+        0.82
+    ],
+    [
+        "metallica",
+        "metallica-sources",
+        "contains",
+        "Metallica sources is a primary trailhead under Metallica.",
+        0.88,
+        0.82
+    ],
+    [
+        "metallica",
+        "metallica-geography",
+        "contains",
+        "Metallica geography is a primary trailhead under Metallica.",
+        0.88,
+        0.82
     ]
 ];
 

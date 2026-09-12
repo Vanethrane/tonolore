@@ -1,55 +1,112 @@
 /**
- * Seed graph for Premier League (Soccer).
- * At least five long-tail trailheads under the subject root.
+ * Seed graph (auto-padded to ≥15 entities for crawl depth).
  */
 
 const entities = [
     {
-        slug: "premier-league",
-        name: "Premier League",
-        type: "topic",
-        short_description: "England's top flight — title races, relegation battles, and global broadcast lore.",
-        description: "England's top flight — title races, relegation battles, and global broadcast lore. This Ton-o-Lore subject maps people, places, events, and ideas tied to Premier League so readers can follow long-tail connections across soccer."
+        "slug": "premier-league",
+        "name": "Premier League",
+        "type": "topic",
+        "short_description": "England's top flight — title races, relegation battles, and global broadcast lore.",
+        "description": "England's top flight — title races, relegation battles, and global broadcast lore. This Ton-o-Lore subject maps people, places, events, and ideas tied to Premier League so readers can follow long-tail connections across soccer."
     },
     {
-        slug: "premier-league-figures",
-        name: "Premier League figures",
-        type: "topic",
-        short_description: "Athletes, coaches, and named forces central to Premier League.",
-        description:
-            "A working index of the people — players, managers, officials, and icons — that readers meet first when exploring Premier League."
+        "slug": "premier-league-figures",
+        "name": "Premier League figures",
+        "type": "topic",
+        "short_description": "Athletes, coaches, and named forces central to Premier League.",
+        "description": "A working index of the people — players, managers, officials, and icons — that readers meet first when exploring Premier League."
     },
     {
-        slug: "premier-league-teams",
-        name: "Premier League teams & clubs",
-        type: "organization",
-        short_description: "Franchises, national sides, and clubs tied to Premier League.",
-        description:
-            "Team and club identities that structure seasons, rivalries, and fan lore around Premier League."
+        "slug": "premier-league-teams",
+        "name": "Premier League teams & clubs",
+        "type": "organization",
+        "short_description": "Franchises, national sides, and clubs tied to Premier League.",
+        "description": "Team and club identities that structure seasons, rivalries, and fan lore around Premier League."
     },
     {
-        slug: "premier-league-venues",
-        name: "Premier League venues",
-        type: "place",
-        short_description: "Stadiums, arenas, and circuits that host Premier League.",
-        description:
-            "Places where Premier League is contested — home grounds, finals sites, and landmark venues in the sport's memory."
+        "slug": "premier-league-venues",
+        "name": "Premier League venues",
+        "type": "place",
+        "short_description": "Stadiums, arenas, and circuits that host Premier League.",
+        "description": "Places where Premier League is contested — home grounds, finals sites, and landmark venues in the sport's memory."
     },
     {
-        slug: "premier-league-events",
-        name: "Premier League events",
-        type: "event",
-        short_description: "Seasons, finals, and landmark moments in Premier League.",
-        description:
-            "Championships, eras, and signature events that periodize how fans and writers talk about Premier League."
+        "slug": "premier-league-events",
+        "name": "Premier League events",
+        "type": "event",
+        "short_description": "Seasons, finals, and landmark moments in Premier League.",
+        "description": "Championships, eras, and signature events that periodize how fans and writers talk about Premier League."
     },
     {
-        slug: "premier-league-rules",
-        name: "Premier League rules & format",
-        type: "concept",
-        short_description: "Competition format, scoring, and governing ideas for Premier League.",
-        description:
-            "The structural ideas — schedules, standings, playoffs, and rulebooks — that make Premier League legible as a sport."
+        "slug": "premier-league-rules",
+        "name": "Premier League rules & format",
+        "type": "concept",
+        "short_description": "Competition format, scoring, and governing ideas for Premier League.",
+        "description": "The structural ideas — schedules, standings, playoffs, and rulebooks — that make Premier League legible as a sport."
+    },
+    {
+        "slug": "premier-league-places",
+        "name": "Premier League places",
+        "type": "place",
+        "short_description": "Locations and geographies that frame Premier League.",
+        "description": "Places, regions, and built sites that give Premier League its map — where events and figures concentrate."
+    },
+    {
+        "slug": "premier-league-objects",
+        "name": "Premier League objects & artifacts",
+        "type": "object",
+        "short_description": "Objects, tools, and artifacts tied to Premier League.",
+        "description": "Named objects, relics, instruments, and material culture that readers follow through Premier League."
+    },
+    {
+        "slug": "premier-league-factions",
+        "name": "Premier League factions & groups",
+        "type": "organization",
+        "short_description": "Organizations and collectives inside Premier League.",
+        "description": "Orders, crews, houses, agencies, and other groups that concentrate power and loyalty in Premier League."
+    },
+    {
+        "slug": "premier-league-concepts",
+        "name": "Premier League concepts",
+        "type": "concept",
+        "short_description": "Ideas and doctrines that organize Premier League.",
+        "description": "Keywords, doctrines, systems, and abstract forces that make Premier League readable as a lore graph."
+    },
+    {
+        "slug": "premier-league-eras",
+        "name": "Premier League eras",
+        "type": "event",
+        "short_description": "Periodization for Premier League.",
+        "description": "Named eras and phases that help readers track how Premier League changes across time."
+    },
+    {
+        "slug": "premier-league-works",
+        "name": "Premier League works & media",
+        "type": "work",
+        "short_description": "Texts, shows, and media that carry Premier League.",
+        "description": "Primary works and adaptations through which most audiences encounter Premier League."
+    },
+    {
+        "slug": "premier-league-symbols",
+        "name": "Premier League symbols",
+        "type": "concept",
+        "short_description": "Icons and motifs associated with Premier League.",
+        "description": "Emblems, motifs, and recurring symbols that mark identity inside Premier League."
+    },
+    {
+        "slug": "premier-league-controversies",
+        "name": "Premier League controversies",
+        "type": "topic",
+        "short_description": "Disputes and contested claims in Premier League.",
+        "description": "Debates, rival canons, scandals, and contested facts that keep Premier League argumentative."
+    },
+    {
+        "slug": "premier-league-sources",
+        "name": "Premier League sources",
+        "type": "topic",
+        "short_description": "Primary and secondary trails into Premier League.",
+        "description": "Documents, archives, oral traditions, and reference spines readers use to verify Premier League."
     }
 ];
 
@@ -109,6 +166,78 @@ const relationships = [
         "Landmark events are remembered through the places that hosted them.",
         0.8,
         0.75
+    ],
+    [
+        "premier-league",
+        "premier-league-places",
+        "contains",
+        "Premier League places is a primary trailhead under Premier League.",
+        0.88,
+        0.82
+    ],
+    [
+        "premier-league",
+        "premier-league-objects",
+        "contains",
+        "Premier League objects & artifacts is a primary trailhead under Premier League.",
+        0.88,
+        0.82
+    ],
+    [
+        "premier-league",
+        "premier-league-factions",
+        "contains",
+        "Premier League factions & groups is a primary trailhead under Premier League.",
+        0.88,
+        0.82
+    ],
+    [
+        "premier-league",
+        "premier-league-concepts",
+        "contains",
+        "Premier League concepts is a primary trailhead under Premier League.",
+        0.88,
+        0.82
+    ],
+    [
+        "premier-league",
+        "premier-league-eras",
+        "contains",
+        "Premier League eras is a primary trailhead under Premier League.",
+        0.88,
+        0.82
+    ],
+    [
+        "premier-league",
+        "premier-league-works",
+        "contains",
+        "Premier League works & media is a primary trailhead under Premier League.",
+        0.88,
+        0.82
+    ],
+    [
+        "premier-league",
+        "premier-league-symbols",
+        "contains",
+        "Premier League symbols is a primary trailhead under Premier League.",
+        0.88,
+        0.82
+    ],
+    [
+        "premier-league",
+        "premier-league-controversies",
+        "contains",
+        "Premier League controversies is a primary trailhead under Premier League.",
+        0.88,
+        0.82
+    ],
+    [
+        "premier-league",
+        "premier-league-sources",
+        "contains",
+        "Premier League sources is a primary trailhead under Premier League.",
+        0.88,
+        0.82
     ]
 ];
 

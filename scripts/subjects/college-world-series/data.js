@@ -1,55 +1,112 @@
 /**
- * Seed graph for College World Series (Baseball).
- * At least five long-tail trailheads under the subject root.
+ * Seed graph (auto-padded to ≥15 entities for crawl depth).
  */
 
 const entities = [
     {
-        slug: "college-world-series",
-        name: "College World Series",
-        type: "topic",
-        short_description: "NCAA Division I baseball's Omaha finale — programs, pitch counts, and summer lore.",
-        description: "NCAA Division I baseball's Omaha finale — programs, pitch counts, and summer lore. This Ton-o-Lore subject maps people, places, events, and ideas tied to College World Series so readers can follow long-tail connections across baseball."
+        "slug": "college-world-series",
+        "name": "College World Series",
+        "type": "topic",
+        "short_description": "NCAA Division I baseball's Omaha finale — programs, pitch counts, and summer lore.",
+        "description": "NCAA Division I baseball's Omaha finale — programs, pitch counts, and summer lore. This Ton-o-Lore subject maps people, places, events, and ideas tied to College World Series so readers can follow long-tail connections across baseball."
     },
     {
-        slug: "college-world-series-figures",
-        name: "College World Series figures",
-        type: "topic",
-        short_description: "Athletes, coaches, and named forces central to College World Series.",
-        description:
-            "A working index of the people — players, managers, officials, and icons — that readers meet first when exploring College World Series."
+        "slug": "college-world-series-figures",
+        "name": "College World Series figures",
+        "type": "topic",
+        "short_description": "Athletes, coaches, and named forces central to College World Series.",
+        "description": "A working index of the people — players, managers, officials, and icons — that readers meet first when exploring College World Series."
     },
     {
-        slug: "college-world-series-teams",
-        name: "College World Series teams & clubs",
-        type: "organization",
-        short_description: "Franchises, national sides, and clubs tied to College World Series.",
-        description:
-            "Team and club identities that structure seasons, rivalries, and fan lore around College World Series."
+        "slug": "college-world-series-teams",
+        "name": "College World Series teams & clubs",
+        "type": "organization",
+        "short_description": "Franchises, national sides, and clubs tied to College World Series.",
+        "description": "Team and club identities that structure seasons, rivalries, and fan lore around College World Series."
     },
     {
-        slug: "college-world-series-venues",
-        name: "College World Series venues",
-        type: "place",
-        short_description: "Stadiums, arenas, and circuits that host College World Series.",
-        description:
-            "Places where College World Series is contested — home grounds, finals sites, and landmark venues in the sport's memory."
+        "slug": "college-world-series-venues",
+        "name": "College World Series venues",
+        "type": "place",
+        "short_description": "Stadiums, arenas, and circuits that host College World Series.",
+        "description": "Places where College World Series is contested — home grounds, finals sites, and landmark venues in the sport's memory."
     },
     {
-        slug: "college-world-series-events",
-        name: "College World Series events",
-        type: "event",
-        short_description: "Seasons, finals, and landmark moments in College World Series.",
-        description:
-            "Championships, eras, and signature events that periodize how fans and writers talk about College World Series."
+        "slug": "college-world-series-events",
+        "name": "College World Series events",
+        "type": "event",
+        "short_description": "Seasons, finals, and landmark moments in College World Series.",
+        "description": "Championships, eras, and signature events that periodize how fans and writers talk about College World Series."
     },
     {
-        slug: "college-world-series-rules",
-        name: "College World Series rules & format",
-        type: "concept",
-        short_description: "Competition format, scoring, and governing ideas for College World Series.",
-        description:
-            "The structural ideas — schedules, standings, playoffs, and rulebooks — that make College World Series legible as a sport."
+        "slug": "college-world-series-rules",
+        "name": "College World Series rules & format",
+        "type": "concept",
+        "short_description": "Competition format, scoring, and governing ideas for College World Series.",
+        "description": "The structural ideas — schedules, standings, playoffs, and rulebooks — that make College World Series legible as a sport."
+    },
+    {
+        "slug": "college-world-series-places",
+        "name": "College World Series places",
+        "type": "place",
+        "short_description": "Locations and geographies that frame College World Series.",
+        "description": "Places, regions, and built sites that give College World Series its map — where events and figures concentrate."
+    },
+    {
+        "slug": "college-world-series-objects",
+        "name": "College World Series objects & artifacts",
+        "type": "object",
+        "short_description": "Objects, tools, and artifacts tied to College World Series.",
+        "description": "Named objects, relics, instruments, and material culture that readers follow through College World Series."
+    },
+    {
+        "slug": "college-world-series-factions",
+        "name": "College World Series factions & groups",
+        "type": "organization",
+        "short_description": "Organizations and collectives inside College World Series.",
+        "description": "Orders, crews, houses, agencies, and other groups that concentrate power and loyalty in College World Series."
+    },
+    {
+        "slug": "college-world-series-concepts",
+        "name": "College World Series concepts",
+        "type": "concept",
+        "short_description": "Ideas and doctrines that organize College World Series.",
+        "description": "Keywords, doctrines, systems, and abstract forces that make College World Series readable as a lore graph."
+    },
+    {
+        "slug": "college-world-series-eras",
+        "name": "College World Series eras",
+        "type": "event",
+        "short_description": "Periodization for College World Series.",
+        "description": "Named eras and phases that help readers track how College World Series changes across time."
+    },
+    {
+        "slug": "college-world-series-works",
+        "name": "College World Series works & media",
+        "type": "work",
+        "short_description": "Texts, shows, and media that carry College World Series.",
+        "description": "Primary works and adaptations through which most audiences encounter College World Series."
+    },
+    {
+        "slug": "college-world-series-symbols",
+        "name": "College World Series symbols",
+        "type": "concept",
+        "short_description": "Icons and motifs associated with College World Series.",
+        "description": "Emblems, motifs, and recurring symbols that mark identity inside College World Series."
+    },
+    {
+        "slug": "college-world-series-controversies",
+        "name": "College World Series controversies",
+        "type": "topic",
+        "short_description": "Disputes and contested claims in College World Series.",
+        "description": "Debates, rival canons, scandals, and contested facts that keep College World Series argumentative."
+    },
+    {
+        "slug": "college-world-series-sources",
+        "name": "College World Series sources",
+        "type": "topic",
+        "short_description": "Primary and secondary trails into College World Series.",
+        "description": "Documents, archives, oral traditions, and reference spines readers use to verify College World Series."
     }
 ];
 
@@ -109,6 +166,78 @@ const relationships = [
         "Landmark events are remembered through the places that hosted them.",
         0.8,
         0.75
+    ],
+    [
+        "college-world-series",
+        "college-world-series-places",
+        "contains",
+        "College World Series places is a primary trailhead under College World Series.",
+        0.88,
+        0.82
+    ],
+    [
+        "college-world-series",
+        "college-world-series-objects",
+        "contains",
+        "College World Series objects & artifacts is a primary trailhead under College World Series.",
+        0.88,
+        0.82
+    ],
+    [
+        "college-world-series",
+        "college-world-series-factions",
+        "contains",
+        "College World Series factions & groups is a primary trailhead under College World Series.",
+        0.88,
+        0.82
+    ],
+    [
+        "college-world-series",
+        "college-world-series-concepts",
+        "contains",
+        "College World Series concepts is a primary trailhead under College World Series.",
+        0.88,
+        0.82
+    ],
+    [
+        "college-world-series",
+        "college-world-series-eras",
+        "contains",
+        "College World Series eras is a primary trailhead under College World Series.",
+        0.88,
+        0.82
+    ],
+    [
+        "college-world-series",
+        "college-world-series-works",
+        "contains",
+        "College World Series works & media is a primary trailhead under College World Series.",
+        0.88,
+        0.82
+    ],
+    [
+        "college-world-series",
+        "college-world-series-symbols",
+        "contains",
+        "College World Series symbols is a primary trailhead under College World Series.",
+        0.88,
+        0.82
+    ],
+    [
+        "college-world-series",
+        "college-world-series-controversies",
+        "contains",
+        "College World Series controversies is a primary trailhead under College World Series.",
+        0.88,
+        0.82
+    ],
+    [
+        "college-world-series",
+        "college-world-series-sources",
+        "contains",
+        "College World Series sources is a primary trailhead under College World Series.",
+        0.88,
+        0.82
     ]
 ];
 

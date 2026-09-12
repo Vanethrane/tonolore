@@ -233,7 +233,9 @@ async function expandFandomPass(subjectId, opts = {}) {
     }
 
     const pageMeta = new Map();
-    const categories = fandom.categories || [];
+    const categories = Array.isArray(opts.categories) && opts.categories.length
+        ? opts.categories
+        : fandom.categories || [];
 
     console.log(`Fandom pass (${host}) for ${subjectId}…`);
 
@@ -241,14 +243,18 @@ async function expandFandomPass(subjectId, opts = {}) {
         console.log(`  Category:${cat.title}…`);
         let members = [];
         try {
+            const categoryCap =
+                opts.categoryMaxPages ||
+                cat.maxPages ||
+                (opts.onlyNew ? 20000 : 3000);
             members = await listCategoryMembers(host, cat.title, {
                 // When discovering only-new titles, don't clamp category crawl to
                 // the batch size — we need to walk past already-known pages.
                 maxPages: opts.onlyNew
-                    ? cat.maxPages || 3000
+                    ? categoryCap
                     : Math.min(
-                          cat.maxPages || 3000,
-                          opts.limit || cat.maxPages || 3000
+                          categoryCap,
+                          opts.limit || categoryCap
                       ),
                 delayMs: opts.delayMs || 110,
                 pageOnly: !cat.includeSubcats,

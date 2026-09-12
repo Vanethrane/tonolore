@@ -865,10 +865,24 @@ async function generatePage(entity, paths, subjectMeta = {}, pathLookup = null) 
 }
 
 async function main() {
-    const universeFilter = process.argv[2] || null;
+    const argv = process.argv.slice(2);
+    const onlyMissing = argv.includes("--only-missing");
+    const universeFilter =
+        argv.find((arg) => arg !== "--only-missing" && !arg.startsWith("-")) ||
+        null;
 
     const entitiesResult = await query(
-        `
+        onlyMissing
+            ? `
+        SELECT e.*
+        FROM entities e
+        WHERE ($1::text IS NULL OR e.metadata->>'universe' = $1)
+          AND NOT EXISTS (
+              SELECT 1 FROM pages p WHERE p.entity_id = e.id
+          )
+        ORDER BY e.name
+    `
+            : `
         SELECT *
         FROM entities
         WHERE ($1::text IS NULL OR metadata->>'universe' = $1)
@@ -882,8 +896,14 @@ async function main() {
     console.log(
         `Generating pages for ${entities.length} entities` +
             (universeFilter ? ` (universe: ${universeFilter})` : "") +
+            (onlyMissing ? " [only-missing]" : "") +
             "..."
     );
+
+    if (!entities.length) {
+        console.log("Nothing to generate.");
+        return;
+    }
 
     // Paths need the full hierarchy, so load parents even when filtering.
     const allForPaths = universeFilter

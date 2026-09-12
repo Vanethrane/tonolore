@@ -1,55 +1,112 @@
 /**
- * Seed graph for Commonwealth Games (Olympics & multi-sport).
- * At least five long-tail trailheads under the subject root.
+ * Seed graph (auto-padded to ≥15 entities for crawl depth).
  */
 
 const entities = [
     {
-        slug: "commonwealth-games",
-        name: "Commonwealth Games",
-        type: "topic",
-        short_description: "The multi-sport Games of the Commonwealth — shared history and rotating hosts.",
-        description: "The multi-sport Games of the Commonwealth — shared history and rotating hosts. This Ton-o-Lore subject maps people, places, events, and ideas tied to Commonwealth Games so readers can follow long-tail connections across olympics & multi-sport."
+        "slug": "commonwealth-games",
+        "name": "Commonwealth Games",
+        "type": "topic",
+        "short_description": "The multi-sport Games of the Commonwealth — shared history and rotating hosts.",
+        "description": "The multi-sport Games of the Commonwealth — shared history and rotating hosts. This Ton-o-Lore subject maps people, places, events, and ideas tied to Commonwealth Games so readers can follow long-tail connections across olympics & multi-sport."
     },
     {
-        slug: "commonwealth-games-figures",
-        name: "Commonwealth Games figures",
-        type: "topic",
-        short_description: "Athletes, coaches, and named forces central to Commonwealth Games.",
-        description:
-            "A working index of the people — players, managers, officials, and icons — that readers meet first when exploring Commonwealth Games."
+        "slug": "commonwealth-games-figures",
+        "name": "Commonwealth Games figures",
+        "type": "topic",
+        "short_description": "Athletes, coaches, and named forces central to Commonwealth Games.",
+        "description": "A working index of the people — players, managers, officials, and icons — that readers meet first when exploring Commonwealth Games."
     },
     {
-        slug: "commonwealth-games-teams",
-        name: "Commonwealth Games teams & clubs",
-        type: "organization",
-        short_description: "Franchises, national sides, and clubs tied to Commonwealth Games.",
-        description:
-            "Team and club identities that structure seasons, rivalries, and fan lore around Commonwealth Games."
+        "slug": "commonwealth-games-teams",
+        "name": "Commonwealth Games teams & clubs",
+        "type": "organization",
+        "short_description": "Franchises, national sides, and clubs tied to Commonwealth Games.",
+        "description": "Team and club identities that structure seasons, rivalries, and fan lore around Commonwealth Games."
     },
     {
-        slug: "commonwealth-games-venues",
-        name: "Commonwealth Games venues",
-        type: "place",
-        short_description: "Stadiums, arenas, and circuits that host Commonwealth Games.",
-        description:
-            "Places where Commonwealth Games is contested — home grounds, finals sites, and landmark venues in the sport's memory."
+        "slug": "commonwealth-games-venues",
+        "name": "Commonwealth Games venues",
+        "type": "place",
+        "short_description": "Stadiums, arenas, and circuits that host Commonwealth Games.",
+        "description": "Places where Commonwealth Games is contested — home grounds, finals sites, and landmark venues in the sport's memory."
     },
     {
-        slug: "commonwealth-games-events",
-        name: "Commonwealth Games events",
-        type: "event",
-        short_description: "Seasons, finals, and landmark moments in Commonwealth Games.",
-        description:
-            "Championships, eras, and signature events that periodize how fans and writers talk about Commonwealth Games."
+        "slug": "commonwealth-games-events",
+        "name": "Commonwealth Games events",
+        "type": "event",
+        "short_description": "Seasons, finals, and landmark moments in Commonwealth Games.",
+        "description": "Championships, eras, and signature events that periodize how fans and writers talk about Commonwealth Games."
     },
     {
-        slug: "commonwealth-games-rules",
-        name: "Commonwealth Games rules & format",
-        type: "concept",
-        short_description: "Competition format, scoring, and governing ideas for Commonwealth Games.",
-        description:
-            "The structural ideas — schedules, standings, playoffs, and rulebooks — that make Commonwealth Games legible as a sport."
+        "slug": "commonwealth-games-rules",
+        "name": "Commonwealth Games rules & format",
+        "type": "concept",
+        "short_description": "Competition format, scoring, and governing ideas for Commonwealth Games.",
+        "description": "The structural ideas — schedules, standings, playoffs, and rulebooks — that make Commonwealth Games legible as a sport."
+    },
+    {
+        "slug": "commonwealth-games-places",
+        "name": "Commonwealth Games places",
+        "type": "place",
+        "short_description": "Locations and geographies that frame Commonwealth Games.",
+        "description": "Places, regions, and built sites that give Commonwealth Games its map — where events and figures concentrate."
+    },
+    {
+        "slug": "commonwealth-games-objects",
+        "name": "Commonwealth Games objects & artifacts",
+        "type": "object",
+        "short_description": "Objects, tools, and artifacts tied to Commonwealth Games.",
+        "description": "Named objects, relics, instruments, and material culture that readers follow through Commonwealth Games."
+    },
+    {
+        "slug": "commonwealth-games-factions",
+        "name": "Commonwealth Games factions & groups",
+        "type": "organization",
+        "short_description": "Organizations and collectives inside Commonwealth Games.",
+        "description": "Orders, crews, houses, agencies, and other groups that concentrate power and loyalty in Commonwealth Games."
+    },
+    {
+        "slug": "commonwealth-games-concepts",
+        "name": "Commonwealth Games concepts",
+        "type": "concept",
+        "short_description": "Ideas and doctrines that organize Commonwealth Games.",
+        "description": "Keywords, doctrines, systems, and abstract forces that make Commonwealth Games readable as a lore graph."
+    },
+    {
+        "slug": "commonwealth-games-eras",
+        "name": "Commonwealth Games eras",
+        "type": "event",
+        "short_description": "Periodization for Commonwealth Games.",
+        "description": "Named eras and phases that help readers track how Commonwealth Games changes across time."
+    },
+    {
+        "slug": "commonwealth-games-works",
+        "name": "Commonwealth Games works & media",
+        "type": "work",
+        "short_description": "Texts, shows, and media that carry Commonwealth Games.",
+        "description": "Primary works and adaptations through which most audiences encounter Commonwealth Games."
+    },
+    {
+        "slug": "commonwealth-games-symbols",
+        "name": "Commonwealth Games symbols",
+        "type": "concept",
+        "short_description": "Icons and motifs associated with Commonwealth Games.",
+        "description": "Emblems, motifs, and recurring symbols that mark identity inside Commonwealth Games."
+    },
+    {
+        "slug": "commonwealth-games-controversies",
+        "name": "Commonwealth Games controversies",
+        "type": "topic",
+        "short_description": "Disputes and contested claims in Commonwealth Games.",
+        "description": "Debates, rival canons, scandals, and contested facts that keep Commonwealth Games argumentative."
+    },
+    {
+        "slug": "commonwealth-games-sources",
+        "name": "Commonwealth Games sources",
+        "type": "topic",
+        "short_description": "Primary and secondary trails into Commonwealth Games.",
+        "description": "Documents, archives, oral traditions, and reference spines readers use to verify Commonwealth Games."
     }
 ];
 
@@ -109,6 +166,78 @@ const relationships = [
         "Landmark events are remembered through the places that hosted them.",
         0.8,
         0.75
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-places",
+        "contains",
+        "Commonwealth Games places is a primary trailhead under Commonwealth Games.",
+        0.88,
+        0.82
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-objects",
+        "contains",
+        "Commonwealth Games objects & artifacts is a primary trailhead under Commonwealth Games.",
+        0.88,
+        0.82
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-factions",
+        "contains",
+        "Commonwealth Games factions & groups is a primary trailhead under Commonwealth Games.",
+        0.88,
+        0.82
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-concepts",
+        "contains",
+        "Commonwealth Games concepts is a primary trailhead under Commonwealth Games.",
+        0.88,
+        0.82
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-eras",
+        "contains",
+        "Commonwealth Games eras is a primary trailhead under Commonwealth Games.",
+        0.88,
+        0.82
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-works",
+        "contains",
+        "Commonwealth Games works & media is a primary trailhead under Commonwealth Games.",
+        0.88,
+        0.82
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-symbols",
+        "contains",
+        "Commonwealth Games symbols is a primary trailhead under Commonwealth Games.",
+        0.88,
+        0.82
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-controversies",
+        "contains",
+        "Commonwealth Games controversies is a primary trailhead under Commonwealth Games.",
+        0.88,
+        0.82
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-sources",
+        "contains",
+        "Commonwealth Games sources is a primary trailhead under Commonwealth Games.",
+        0.88,
+        0.82
     ]
 ];
 

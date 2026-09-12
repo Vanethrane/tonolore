@@ -1,30 +1,112 @@
 /**
- * Seed graph for Wolfgang Amadeus Mozart (Classical).
+ * Seed graph (auto-padded to ≥15 entities for crawl depth).
  */
 
 const entities = [
     {
-        slug: "wolfgang-amadeus-mozart",
-        name: "Wolfgang Amadeus Mozart",
-        type: "topic",
-        short_description: "Prodigy-composer of opera, symphony, and chamber works that define the Classical repertoire.",
-        description: "Prodigy-composer of opera, symphony, and chamber works that define the Classical repertoire. This Ton-o-Lore subject maps people, works, places, and ideas tied to Wolfgang Amadeus Mozart so readers can follow long-tail connections across the classical tradition."
+        "slug": "wolfgang-amadeus-mozart",
+        "name": "Wolfgang Amadeus Mozart",
+        "type": "topic",
+        "short_description": "Prodigy-composer of opera, symphony, and chamber works that define the Classical repertoire.",
+        "description": "Prodigy-composer of opera, symphony, and chamber works that define the Classical repertoire. This Ton-o-Lore subject maps people, works, places, and ideas tied to Wolfgang Amadeus Mozart so readers can follow long-tail connections across the classical tradition."
     },
     {
-        slug: "wolfgang-amadeus-mozart-catalog",
-        name: "Wolfgang Amadeus Mozart catalog",
-        type: "topic",
-        short_description: "Core recordings and works associated with Wolfgang Amadeus Mozart.",
-        description:
-            "A working index of albums, compositions, and standout tracks that anchor how listeners encounter Wolfgang Amadeus Mozart in the classical tradition."
+        "slug": "wolfgang-amadeus-mozart-catalog",
+        "name": "Wolfgang Amadeus Mozart catalog",
+        "type": "topic",
+        "short_description": "Core recordings and works associated with Wolfgang Amadeus Mozart.",
+        "description": "A working index of albums, compositions, and standout tracks that anchor how listeners encounter Wolfgang Amadeus Mozart in the classical tradition."
     },
     {
-        slug: "wolfgang-amadeus-mozart-era",
-        name: "Wolfgang Amadeus Mozart eras",
-        type: "event",
-        short_description: "Career phases and stylistic turns in the Wolfgang Amadeus Mozart story.",
-        description:
-            "Periodization helps encyclopedia readers track how Wolfgang Amadeus Mozart changed sound, lineup, or public myth across decades of classical history."
+        "slug": "wolfgang-amadeus-mozart-era",
+        "name": "Wolfgang Amadeus Mozart eras",
+        "type": "event",
+        "short_description": "Career phases and stylistic turns in the Wolfgang Amadeus Mozart story.",
+        "description": "Periodization helps encyclopedia readers track how Wolfgang Amadeus Mozart changed sound, lineup, or public myth across decades of classical history."
+    },
+    {
+        "slug": "wolfgang-amadeus-mozart-figures",
+        "name": "Wolfgang Amadeus Mozart figures",
+        "type": "topic",
+        "short_description": "People and named forces central to Wolfgang Amadeus Mozart.",
+        "description": "A hub for the figures — historical, fictional, or legendary — that readers meet first when exploring Wolfgang Amadeus Mozart."
+    },
+    {
+        "slug": "wolfgang-amadeus-mozart-places",
+        "name": "Wolfgang Amadeus Mozart places",
+        "type": "place",
+        "short_description": "Locations and geographies that frame Wolfgang Amadeus Mozart.",
+        "description": "Places, regions, and built sites that give Wolfgang Amadeus Mozart its map — where events and figures concentrate."
+    },
+    {
+        "slug": "wolfgang-amadeus-mozart-events",
+        "name": "Wolfgang Amadeus Mozart events",
+        "type": "event",
+        "short_description": "Turning points and dated episodes in Wolfgang Amadeus Mozart.",
+        "description": "Battles, ceremonies, disasters, debuts, and other timed events that structure the Wolfgang Amadeus Mozart timeline."
+    },
+    {
+        "slug": "wolfgang-amadeus-mozart-objects",
+        "name": "Wolfgang Amadeus Mozart objects & artifacts",
+        "type": "object",
+        "short_description": "Objects, tools, and artifacts tied to Wolfgang Amadeus Mozart.",
+        "description": "Named objects, relics, instruments, and material culture that readers follow through Wolfgang Amadeus Mozart."
+    },
+    {
+        "slug": "wolfgang-amadeus-mozart-factions",
+        "name": "Wolfgang Amadeus Mozart factions & groups",
+        "type": "organization",
+        "short_description": "Organizations and collectives inside Wolfgang Amadeus Mozart.",
+        "description": "Orders, crews, houses, agencies, and other groups that concentrate power and loyalty in Wolfgang Amadeus Mozart."
+    },
+    {
+        "slug": "wolfgang-amadeus-mozart-concepts",
+        "name": "Wolfgang Amadeus Mozart concepts",
+        "type": "concept",
+        "short_description": "Ideas and doctrines that organize Wolfgang Amadeus Mozart.",
+        "description": "Keywords, doctrines, systems, and abstract forces that make Wolfgang Amadeus Mozart readable as a lore graph."
+    },
+    {
+        "slug": "wolfgang-amadeus-mozart-eras",
+        "name": "Wolfgang Amadeus Mozart eras",
+        "type": "event",
+        "short_description": "Periodization for Wolfgang Amadeus Mozart.",
+        "description": "Named eras and phases that help readers track how Wolfgang Amadeus Mozart changes across time."
+    },
+    {
+        "slug": "wolfgang-amadeus-mozart-works",
+        "name": "Wolfgang Amadeus Mozart works & media",
+        "type": "work",
+        "short_description": "Texts, shows, and media that carry Wolfgang Amadeus Mozart.",
+        "description": "Primary works and adaptations through which most audiences encounter Wolfgang Amadeus Mozart."
+    },
+    {
+        "slug": "wolfgang-amadeus-mozart-symbols",
+        "name": "Wolfgang Amadeus Mozart symbols",
+        "type": "concept",
+        "short_description": "Icons and motifs associated with Wolfgang Amadeus Mozart.",
+        "description": "Emblems, motifs, and recurring symbols that mark identity inside Wolfgang Amadeus Mozart."
+    },
+    {
+        "slug": "wolfgang-amadeus-mozart-controversies",
+        "name": "Wolfgang Amadeus Mozart controversies",
+        "type": "topic",
+        "short_description": "Disputes and contested claims in Wolfgang Amadeus Mozart.",
+        "description": "Debates, rival canons, scandals, and contested facts that keep Wolfgang Amadeus Mozart argumentative."
+    },
+    {
+        "slug": "wolfgang-amadeus-mozart-sources",
+        "name": "Wolfgang Amadeus Mozart sources",
+        "type": "topic",
+        "short_description": "Primary and secondary trails into Wolfgang Amadeus Mozart.",
+        "description": "Documents, archives, oral traditions, and reference spines readers use to verify Wolfgang Amadeus Mozart."
+    },
+    {
+        "slug": "wolfgang-amadeus-mozart-geography",
+        "name": "Wolfgang Amadeus Mozart geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for Wolfgang Amadeus Mozart.",
+        "description": "Regions, routes, and spatial systems that situate Wolfgang Amadeus Mozart beyond single named places."
     }
 ];
 
@@ -44,6 +126,102 @@ const relationships = [
         "Eras organize commentary on stylistic and cultural change over time.",
         0.85,
         0.8
+    ],
+    [
+        "wolfgang-amadeus-mozart",
+        "wolfgang-amadeus-mozart-figures",
+        "contains",
+        "Wolfgang Amadeus Mozart figures is a primary trailhead under Wolfgang Amadeus Mozart.",
+        0.88,
+        0.82
+    ],
+    [
+        "wolfgang-amadeus-mozart",
+        "wolfgang-amadeus-mozart-places",
+        "contains",
+        "Wolfgang Amadeus Mozart places is a primary trailhead under Wolfgang Amadeus Mozart.",
+        0.88,
+        0.82
+    ],
+    [
+        "wolfgang-amadeus-mozart",
+        "wolfgang-amadeus-mozart-events",
+        "contains",
+        "Wolfgang Amadeus Mozart events is a primary trailhead under Wolfgang Amadeus Mozart.",
+        0.88,
+        0.82
+    ],
+    [
+        "wolfgang-amadeus-mozart",
+        "wolfgang-amadeus-mozart-objects",
+        "contains",
+        "Wolfgang Amadeus Mozart objects & artifacts is a primary trailhead under Wolfgang Amadeus Mozart.",
+        0.88,
+        0.82
+    ],
+    [
+        "wolfgang-amadeus-mozart",
+        "wolfgang-amadeus-mozart-factions",
+        "contains",
+        "Wolfgang Amadeus Mozart factions & groups is a primary trailhead under Wolfgang Amadeus Mozart.",
+        0.88,
+        0.82
+    ],
+    [
+        "wolfgang-amadeus-mozart",
+        "wolfgang-amadeus-mozart-concepts",
+        "contains",
+        "Wolfgang Amadeus Mozart concepts is a primary trailhead under Wolfgang Amadeus Mozart.",
+        0.88,
+        0.82
+    ],
+    [
+        "wolfgang-amadeus-mozart",
+        "wolfgang-amadeus-mozart-eras",
+        "contains",
+        "Wolfgang Amadeus Mozart eras is a primary trailhead under Wolfgang Amadeus Mozart.",
+        0.88,
+        0.82
+    ],
+    [
+        "wolfgang-amadeus-mozart",
+        "wolfgang-amadeus-mozart-works",
+        "contains",
+        "Wolfgang Amadeus Mozart works & media is a primary trailhead under Wolfgang Amadeus Mozart.",
+        0.88,
+        0.82
+    ],
+    [
+        "wolfgang-amadeus-mozart",
+        "wolfgang-amadeus-mozart-symbols",
+        "contains",
+        "Wolfgang Amadeus Mozart symbols is a primary trailhead under Wolfgang Amadeus Mozart.",
+        0.88,
+        0.82
+    ],
+    [
+        "wolfgang-amadeus-mozart",
+        "wolfgang-amadeus-mozart-controversies",
+        "contains",
+        "Wolfgang Amadeus Mozart controversies is a primary trailhead under Wolfgang Amadeus Mozart.",
+        0.88,
+        0.82
+    ],
+    [
+        "wolfgang-amadeus-mozart",
+        "wolfgang-amadeus-mozart-sources",
+        "contains",
+        "Wolfgang Amadeus Mozart sources is a primary trailhead under Wolfgang Amadeus Mozart.",
+        0.88,
+        0.82
+    ],
+    [
+        "wolfgang-amadeus-mozart",
+        "wolfgang-amadeus-mozart-geography",
+        "contains",
+        "Wolfgang Amadeus Mozart geography is a primary trailhead under Wolfgang Amadeus Mozart.",
+        0.88,
+        0.82
     ]
 ];
 

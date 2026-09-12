@@ -309,7 +309,7 @@ const FALLBACK_CATEGORIES = [
     {
         id: "history",
         label: "History",
-        blurb: "Empires, wars, and trade routes with dense people-and-place graphs."
+        blurb: "Empires, wars, frontiers, and trade routes with dense people-and-place graphs."
     },
     {
         id: "sports",
@@ -395,7 +395,47 @@ const FALLBACK_CATEGORIES = [
     {
         id: "folklore",
         label: "Folklore & legend",
-        blurb: "Folk heroes and cycle tales that keep getting retold across media."
+        blurb: "Folk heroes, cycle tales, and living vernacular myths that keep getting retold."
+    },
+    {
+        id: "unexplained",
+        label: "Unexplained",
+        blurb: "Cryptids, sightings, disputed discoveries, and contested narratives with dense witness graphs."
+    },
+    {
+        id: "maritime",
+        label: "Maritime",
+        blurb: "Ships, ports, wrecks, and sea power — explorers, pirates, and naval lore."
+    },
+    {
+        id: "crime",
+        label: "Crime & underworld",
+        blurb: "Organized crime, unsolved cases, and the people and places crime lore maps."
+    },
+    {
+        id: "military",
+        label: "Military & fortresses",
+        blurb: "Weapons, units, sieges, and stone strongholds — technology and power across eras."
+    },
+    {
+        id: "occult",
+        label: "Occult & esoterica",
+        blurb: "Alchemy, vampire myth, witchcraft, and ritual traditions with dense symbolic graphs."
+    },
+    {
+        id: "royalty",
+        label: "Royalty & thrones",
+        blurb: "Dynasties, successions, courts, and the family trees that organize power lore."
+    },
+    {
+        id: "religion",
+        label: "Religion & belief",
+        blurb: "Faiths, heresies, councils, and sacred mysteries mapped across people and places."
+    },
+    {
+        id: "disasters",
+        label: "Disasters & catastrophes",
+        blurb: "Natural and man-made disasters — timelines, places, survivors, and aftermath lore."
     },
     {
         id: "culinary",

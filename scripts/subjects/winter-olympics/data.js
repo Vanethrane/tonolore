@@ -1,55 +1,112 @@
 /**
- * Seed graph for Winter Olympics (Olympics & multi-sport).
- * At least five long-tail trailheads under the subject root.
+ * Seed graph (auto-padded to ≥15 entities for crawl depth).
  */
 
 const entities = [
     {
-        slug: "winter-olympics",
-        name: "Winter Olympics",
-        type: "topic",
-        short_description: "The Winter Olympic Games — snow and ice sports, host mountains, and cold-weather lore.",
-        description: "The Winter Olympic Games — snow and ice sports, host mountains, and cold-weather lore. This Ton-o-Lore subject maps people, places, events, and ideas tied to Winter Olympics so readers can follow long-tail connections across olympics & multi-sport."
+        "slug": "winter-olympics",
+        "name": "Winter Olympics",
+        "type": "topic",
+        "short_description": "The Winter Olympic Games — snow and ice sports, host mountains, and cold-weather lore.",
+        "description": "The Winter Olympic Games — snow and ice sports, host mountains, and cold-weather lore. This Ton-o-Lore subject maps people, places, events, and ideas tied to Winter Olympics so readers can follow long-tail connections across olympics & multi-sport."
     },
     {
-        slug: "winter-olympics-figures",
-        name: "Winter Olympics figures",
-        type: "topic",
-        short_description: "Athletes, coaches, and named forces central to Winter Olympics.",
-        description:
-            "A working index of the people — players, managers, officials, and icons — that readers meet first when exploring Winter Olympics."
+        "slug": "winter-olympics-figures",
+        "name": "Winter Olympics figures",
+        "type": "topic",
+        "short_description": "Athletes, coaches, and named forces central to Winter Olympics.",
+        "description": "A working index of the people — players, managers, officials, and icons — that readers meet first when exploring Winter Olympics."
     },
     {
-        slug: "winter-olympics-teams",
-        name: "Winter Olympics teams & clubs",
-        type: "organization",
-        short_description: "Franchises, national sides, and clubs tied to Winter Olympics.",
-        description:
-            "Team and club identities that structure seasons, rivalries, and fan lore around Winter Olympics."
+        "slug": "winter-olympics-teams",
+        "name": "Winter Olympics teams & clubs",
+        "type": "organization",
+        "short_description": "Franchises, national sides, and clubs tied to Winter Olympics.",
+        "description": "Team and club identities that structure seasons, rivalries, and fan lore around Winter Olympics."
     },
     {
-        slug: "winter-olympics-venues",
-        name: "Winter Olympics venues",
-        type: "place",
-        short_description: "Stadiums, arenas, and circuits that host Winter Olympics.",
-        description:
-            "Places where Winter Olympics is contested — home grounds, finals sites, and landmark venues in the sport's memory."
+        "slug": "winter-olympics-venues",
+        "name": "Winter Olympics venues",
+        "type": "place",
+        "short_description": "Stadiums, arenas, and circuits that host Winter Olympics.",
+        "description": "Places where Winter Olympics is contested — home grounds, finals sites, and landmark venues in the sport's memory."
     },
     {
-        slug: "winter-olympics-events",
-        name: "Winter Olympics events",
-        type: "event",
-        short_description: "Seasons, finals, and landmark moments in Winter Olympics.",
-        description:
-            "Championships, eras, and signature events that periodize how fans and writers talk about Winter Olympics."
+        "slug": "winter-olympics-events",
+        "name": "Winter Olympics events",
+        "type": "event",
+        "short_description": "Seasons, finals, and landmark moments in Winter Olympics.",
+        "description": "Championships, eras, and signature events that periodize how fans and writers talk about Winter Olympics."
     },
     {
-        slug: "winter-olympics-rules",
-        name: "Winter Olympics rules & format",
-        type: "concept",
-        short_description: "Competition format, scoring, and governing ideas for Winter Olympics.",
-        description:
-            "The structural ideas — schedules, standings, playoffs, and rulebooks — that make Winter Olympics legible as a sport."
+        "slug": "winter-olympics-rules",
+        "name": "Winter Olympics rules & format",
+        "type": "concept",
+        "short_description": "Competition format, scoring, and governing ideas for Winter Olympics.",
+        "description": "The structural ideas — schedules, standings, playoffs, and rulebooks — that make Winter Olympics legible as a sport."
+    },
+    {
+        "slug": "winter-olympics-places",
+        "name": "Winter Olympics places",
+        "type": "place",
+        "short_description": "Locations and geographies that frame Winter Olympics.",
+        "description": "Places, regions, and built sites that give Winter Olympics its map — where events and figures concentrate."
+    },
+    {
+        "slug": "winter-olympics-objects",
+        "name": "Winter Olympics objects & artifacts",
+        "type": "object",
+        "short_description": "Objects, tools, and artifacts tied to Winter Olympics.",
+        "description": "Named objects, relics, instruments, and material culture that readers follow through Winter Olympics."
+    },
+    {
+        "slug": "winter-olympics-factions",
+        "name": "Winter Olympics factions & groups",
+        "type": "organization",
+        "short_description": "Organizations and collectives inside Winter Olympics.",
+        "description": "Orders, crews, houses, agencies, and other groups that concentrate power and loyalty in Winter Olympics."
+    },
+    {
+        "slug": "winter-olympics-concepts",
+        "name": "Winter Olympics concepts",
+        "type": "concept",
+        "short_description": "Ideas and doctrines that organize Winter Olympics.",
+        "description": "Keywords, doctrines, systems, and abstract forces that make Winter Olympics readable as a lore graph."
+    },
+    {
+        "slug": "winter-olympics-eras",
+        "name": "Winter Olympics eras",
+        "type": "event",
+        "short_description": "Periodization for Winter Olympics.",
+        "description": "Named eras and phases that help readers track how Winter Olympics changes across time."
+    },
+    {
+        "slug": "winter-olympics-works",
+        "name": "Winter Olympics works & media",
+        "type": "work",
+        "short_description": "Texts, shows, and media that carry Winter Olympics.",
+        "description": "Primary works and adaptations through which most audiences encounter Winter Olympics."
+    },
+    {
+        "slug": "winter-olympics-symbols",
+        "name": "Winter Olympics symbols",
+        "type": "concept",
+        "short_description": "Icons and motifs associated with Winter Olympics.",
+        "description": "Emblems, motifs, and recurring symbols that mark identity inside Winter Olympics."
+    },
+    {
+        "slug": "winter-olympics-controversies",
+        "name": "Winter Olympics controversies",
+        "type": "topic",
+        "short_description": "Disputes and contested claims in Winter Olympics.",
+        "description": "Debates, rival canons, scandals, and contested facts that keep Winter Olympics argumentative."
+    },
+    {
+        "slug": "winter-olympics-sources",
+        "name": "Winter Olympics sources",
+        "type": "topic",
+        "short_description": "Primary and secondary trails into Winter Olympics.",
+        "description": "Documents, archives, oral traditions, and reference spines readers use to verify Winter Olympics."
     }
 ];
 
@@ -109,6 +166,78 @@ const relationships = [
         "Landmark events are remembered through the places that hosted them.",
         0.8,
         0.75
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-places",
+        "contains",
+        "Winter Olympics places is a primary trailhead under Winter Olympics.",
+        0.88,
+        0.82
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-objects",
+        "contains",
+        "Winter Olympics objects & artifacts is a primary trailhead under Winter Olympics.",
+        0.88,
+        0.82
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-factions",
+        "contains",
+        "Winter Olympics factions & groups is a primary trailhead under Winter Olympics.",
+        0.88,
+        0.82
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-concepts",
+        "contains",
+        "Winter Olympics concepts is a primary trailhead under Winter Olympics.",
+        0.88,
+        0.82
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-eras",
+        "contains",
+        "Winter Olympics eras is a primary trailhead under Winter Olympics.",
+        0.88,
+        0.82
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-works",
+        "contains",
+        "Winter Olympics works & media is a primary trailhead under Winter Olympics.",
+        0.88,
+        0.82
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-symbols",
+        "contains",
+        "Winter Olympics symbols is a primary trailhead under Winter Olympics.",
+        0.88,
+        0.82
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-controversies",
+        "contains",
+        "Winter Olympics controversies is a primary trailhead under Winter Olympics.",
+        0.88,
+        0.82
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-sources",
+        "contains",
+        "Winter Olympics sources is a primary trailhead under Winter Olympics.",
+        0.88,
+        0.82
     ]
 ];
 

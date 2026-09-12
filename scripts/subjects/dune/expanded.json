@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T15:31:35.959Z",
+  "generated_at": "2026-09-12T04:31:59.897Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -1059,38 +1059,6 @@
       }
     },
     {
-      "slug": "liet-kynes",
-      "name": "Liet-Kynes",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "planetologist of Arrakis in the Dune universe",
-      "description": "had studied him: tall, thin, dressed for the desert in loose robe, stillsuit, and low boots. The man's hood was thrown back, its veil hanging to one side, revealing long sandy hair, a sparse beard. The eyes were that fathomless blue-within-blue under thick brows. Remains of dark stains smudged his eye sockets.\n\nLiet-Kynes (d. 10191 AG), known outside of the Fremen as simply Dr. Kynes, was the son of Pardot Kynes and the father of Chani (who became the concubine of Emperor Paul Atreides). Kynes was the imperial planetologist/ecologist of Arrakis, the Judge of the Change, and the secret leader of the Fremen at the time House Atreides took control of Arrakis in 10191 AG.\n\nDespite his loyalty to the Imperium, Kynes was the secret spiritual leader of the Fremen. Kynes would later become conflicted in his opinion of the Atreides, but found himself allying himself with them. Kynes later aided Paul and Jessica in their escape from the Sardaukar and Harkonnen troops, an action which would cost him his life.\n\nWhen Liet turned 19, his father Pardot Kynes, the Imperial Planetologist. Kynes was a Fremen child, son of Pardot and a full Fremen Sandrider. Pardot had already nominated Liet to take over his role prior to his death and the transition was painless. Kynes took on his father's mantle and served as both the planetary ecologist of Dune, and leader of the Fremen. He continued his father's vision of gradually terraforming the planet from a harsh desert world into a temperate world with precipitation, greenery, and open water. Compared to his father, Pardot Kynes, who almost entirely focused on the ecologic reformation of Dune and at times appeared to be tactless (though he was kind nonetheless), Liet-Kynes paid more attention to the Fremen and was overall significantly more Fremen and less single-minded than Pardot.",
-      "aliases": [
-        "Liet-Kynes"
-      ],
-      "parentSlug": "dune",
-      "wikidata_id": "Q2583490",
-      "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_Dune_characters",
-      "metadata": {
-        "source": "wikidata",
-        "discovered": true,
-        "canon": false,
-        "fandom_url": "https://dune.fandom.com/wiki/Liet-Kynes",
-        "fandom_title": "Liet-Kynes",
-        "source_fandom": "dune.fandom.com",
-        "sources": [
-          "wikipedia",
-          "fandom"
-        ]
-      },
-      "image_url": "https://static.wikia.nocookie.net/dune/images/e/e0/The_Illustrated_Dune_-_Dr._Liet_Kynes_%28art_by_John_Schoenherr%29.jpg/revision/latest/scale-to-width-down/360?cb=20250604022850",
-      "image_source": "https://dune.fandom.com/wiki/Liet-Kynes",
-      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Herbert estate / Legendary / respective rights holders (as applicable). Not free or redistributable artwork.",
-      "image_license": "fair_use",
-      "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Liet-Kynes"
-    },
-    {
       "slug": "manual-of-muaddib",
       "name": "Manual of Muad'Dib",
       "type": "topic",
@@ -1443,38 +1411,6 @@
         "source": "wikipedia-category",
         "discovered": true
       }
-    },
-    {
-      "slug": "desmond-hart",
-      "name": "Desmond Hart",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Desmond Hart in dune.",
-      "description": "Bashar Desmond Hart was a soldier with an enigmatic past, who sought to gain Emperor Javicco Corrino's trust at the expense of the Sisterhood. He was later revealed to be the love child of Orry Atreides and Tula Harkonnen.\n\nA charismatic soldier with an enigmatic past who seeks to gain the Emperor’s trust.\n\nDesmond was born on Wallach IX, to Tula Harkonnen, who'd been impregnated by Orry Atreides the night before she killed him. Knowing he had tremendous potential and not wanting him to be exploited for that by Valya, Tula pretended he died and had him swapped with a stillborn infant with Francesca's help.\n\nLittle is known about his life after this, but before the series begins he takes twelve tours on Arrakis, a feat since most barely survive their first.",
-      "aliases": [
-        "Desmond Hart"
-      ],
-      "parentSlug": "dune",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Desmond_Hart",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true,
-        "canon": false,
-        "fandom_url": "https://dune.fandom.com/wiki/Desmond_Hart",
-        "fandom_title": "Desmond Hart",
-        "source_fandom": "dune.fandom.com",
-        "sources": [
-          "wikipedia",
-          "fandom"
-        ]
-      },
-      "image_url": "https://static.wikia.nocookie.net/dune/images/6/61/Desmond_Hart.jpg/revision/latest/scale-to-width-down/360?cb=20240904214558",
-      "image_source": "https://dune.fandom.com/wiki/Desmond_Hart",
-      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Herbert estate / Legendary / respective rights holders (as applicable). Not free or redistributable artwork.",
-      "image_license": "fair_use",
-      "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Desmond Hart"
     },
     {
       "slug": "princess-irulan",
@@ -2335,6 +2271,70 @@
       "image_alt": "Identification thumbnail for Dune (franchise)"
     },
     {
+      "slug": "liet-kynes",
+      "name": "Liet-Kynes",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "planetologist of Arrakis in the Dune universe",
+      "description": "had studied him: tall, thin, dressed for the desert in loose robe, stillsuit, and low boots. The man's hood was thrown back, its veil hanging to one side, revealing long sandy hair, a sparse beard. The eyes were that fathomless blue-within-blue under thick brows. Remains of dark stains smudged his eye sockets.\n\nLiet-Kynes (d. 10191 AG), known outside of the Fremen as simply Dr. Kynes, was the son of Pardot Kynes and the father of Chani (who became the concubine of Emperor Paul Atreides). Kynes was the imperial planetologist/ecologist of Arrakis, the Judge of the Change, and the secret leader of the Fremen at the time House Atreides took control of Arrakis in 10191 AG.\n\nDespite his loyalty to the Imperium, Kynes was the secret spiritual leader of the Fremen. Kynes would later become conflicted in his opinion of the Atreides, but found himself allying himself with them. Kynes later aided Paul and Jessica in their escape from the Sardaukar and Harkonnen troops, an action which would cost him his life.\n\nWhen Liet turned 19, his father Pardot Kynes, the Imperial Planetologist. Kynes was a Fremen child, son of Pardot and a full Fremen Sandrider. Pardot had already nominated Liet to take over his role prior to his death and the transition was painless. Kynes took on his father's mantle and served as both the planetary ecologist of Dune, and leader of the Fremen. He continued his father's vision of gradually terraforming the planet from a harsh desert world into a temperate world with precipitation, greenery, and open water. Compared to his father, Pardot Kynes, who almost entirely focused on the ecologic reformation of Dune and at times appeared to be tactless (though he was kind nonetheless), Liet-Kynes paid more attention to the Fremen and was overall significantly more Fremen and less single-minded than Pardot.",
+      "aliases": [
+        "Liet-Kynes"
+      ],
+      "parentSlug": "dune",
+      "wikidata_id": "Q2583490",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_Dune_characters",
+      "metadata": {
+        "source": "wikidata",
+        "discovered": true,
+        "canon": false,
+        "fandom_url": "https://dune.fandom.com/wiki/Liet-Kynes",
+        "fandom_title": "Liet-Kynes",
+        "source_fandom": "dune.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "image_url": "https://static.wikia.nocookie.net/dune/images/e/e0/The_Illustrated_Dune_-_Dr._Liet_Kynes_%28art_by_John_Schoenherr%29.jpg/revision/latest/scale-to-width-down/360?cb=20250604022850",
+      "image_source": "https://dune.fandom.com/wiki/Liet-Kynes",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Herbert estate / Legendary / respective rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Liet-Kynes"
+    },
+    {
+      "slug": "desmond-hart",
+      "name": "Desmond Hart",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Desmond Hart in dune.",
+      "description": "Bashar Desmond Hart was a soldier with an enigmatic past, who sought to gain Emperor Javicco Corrino's trust at the expense of the Sisterhood. He was later revealed to be the love child of Orry Atreides and Tula Harkonnen.\n\nA charismatic soldier with an enigmatic past who seeks to gain the Emperor’s trust.\n\nDesmond was born on Wallach IX, to Tula Harkonnen, who'd been impregnated by Orry Atreides the night before she killed him. Knowing he had tremendous potential and not wanting him to be exploited for that by Valya, Tula pretended he died and had him swapped with a stillborn infant with Francesca's help.\n\nLittle is known about his life after this, but before the series begins he takes twelve tours on Arrakis, a feat since most barely survive their first.",
+      "aliases": [
+        "Desmond Hart"
+      ],
+      "parentSlug": "dune",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Desmond_Hart",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true,
+        "canon": false,
+        "fandom_url": "https://dune.fandom.com/wiki/Desmond_Hart",
+        "fandom_title": "Desmond Hart",
+        "source_fandom": "dune.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "image_url": "https://static.wikia.nocookie.net/dune/images/6/61/Desmond_Hart.jpg/revision/latest/scale-to-width-down/360?cb=20240904214558",
+      "image_source": "https://dune.fandom.com/wiki/Desmond_Hart",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Herbert estate / Legendary / respective rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Desmond Hart"
+    },
+    {
       "slug": "soo-soo",
       "name": "\"Soo-Soo\"",
       "type": "person",
@@ -2359,7 +2359,8 @@
         "source_fandom": "dune.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -2381,7 +2382,8 @@
         "source_fandom": "dune.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -2403,7 +2405,8 @@
         "source_fandom": "dune.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -2425,7 +2428,8 @@
         "source_fandom": "dune.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -2447,7 +2451,8 @@
         "source_fandom": "dune.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -2475,7 +2480,8 @@
         "source_fandom": "dune.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -2497,7 +2503,8 @@
         "source_fandom": "dune.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -2518,7 +2525,8 @@
         "source_fandom": "dune.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -2546,7 +2554,8 @@
         "source_fandom": "dune.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -2568,7 +2577,8 @@
         "source_fandom": "dune.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -2596,7 +2606,8 @@
         "source_fandom": "dune.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -19650,11 +19661,11 @@
     "images_attached": 16,
     "core_enrichments": 35,
     "preserved_fandom": 0,
-    "fandom_titles": 549,
-    "fandom_enriched_core": 36,
-    "fandom_created": 511,
-    "fandom_images": 251,
-    "fandom_intros": 542,
+    "fandom_titles": 18,
+    "fandom_enriched_core": 7,
+    "fandom_created": 0,
+    "fandom_images": 11,
+    "fandom_intros": 17,
     "image_backfill_at": "2026-09-11T16:30:12.176Z",
     "image_backfill_count": 33
   }

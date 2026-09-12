@@ -309,7 +309,9 @@ async function listSubjects(req, res) {
             path: `/${meta.rootSlug || meta.id}`,
             logo: meta.logo || null,
             categories: meta.categories || [],
-            musicGenre: meta.musicGenre || null
+            musicGenre: meta.musicGenre || null,
+            categoryPaths: meta.categoryPaths || {},
+            formatHubs: meta.formatHubs || []
         }));
 
         res.json({

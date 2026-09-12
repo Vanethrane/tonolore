@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T15:32:55.273Z",
+  "generated_at": "2026-09-12T04:32:19.050Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -1193,7 +1193,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -1221,7 +1222,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -1249,7 +1251,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -1277,7 +1280,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -1305,7 +1309,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -1333,7 +1338,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -1361,7 +1367,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -1389,7 +1396,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -1417,7 +1425,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -1445,7 +1454,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -1473,7 +1483,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -7770,7 +7781,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -8264,7 +8276,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -9026,7 +9039,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -11230,7 +11244,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "location"
       },
       "image_url": "https://static.wikia.nocookie.net/witcher/images/2/29/Grotto-velen01.jpg/revision/latest/scale-to-width-down/360?cb=20171005222947",
       "image_source": "https://witcher.fandom.com/wiki/Grotto_(Velen)",
@@ -11264,7 +11279,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "location"
       }
     },
     {
@@ -11708,7 +11724,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "location"
       }
     },
     {
@@ -12857,7 +12874,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "location"
       }
     },
     {
@@ -13069,7 +13087,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "location"
       }
     },
     {
@@ -13817,7 +13836,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "location"
       }
     },
     {
@@ -15068,7 +15088,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "location"
       },
       "image_url": "https://static.wikia.nocookie.net/witcher/images/4/4b/Tw3_abandoned_site_spitfire_bluff.png/revision/latest/scale-to-width-down/360?cb=20231124154140",
       "image_source": "https://witcher.fandom.com/wiki/Abandoned_site_(Spitfire_Bluff)",
@@ -15146,7 +15167,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "location"
       },
       "image_url": "https://static.wikia.nocookie.net/witcher/images/1/1e/Tw3_monster_den_trottheim.png/revision/latest/scale-to-width-down/360?cb=20231015134751",
       "image_source": "https://witcher.fandom.com/wiki/Monster_den_(Trottheim)",
@@ -16730,7 +16752,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "location"
       }
     },
     {
@@ -17480,7 +17503,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "location"
       }
     },
     {
@@ -19030,7 +19054,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "location"
       }
     },
     {
@@ -19528,7 +19553,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "location"
       }
     },
     {
@@ -20692,7 +20718,8 @@
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "location"
       }
     },
     {
@@ -32721,11 +32748,11 @@
     "images_attached": 9,
     "core_enrichments": 15,
     "preserved_fandom": 0,
-    "fandom_titles": 974,
-    "fandom_enriched_core": 33,
-    "fandom_created": 912,
-    "fandom_images": 699,
-    "fandom_intros": 953,
+    "fandom_titles": 45,
+    "fandom_enriched_core": 8,
+    "fandom_created": 0,
+    "fandom_images": 25,
+    "fandom_intros": 45,
     "image_backfill_at": "2026-09-11T16:30:14.372Z",
     "image_backfill_count": 29
   }

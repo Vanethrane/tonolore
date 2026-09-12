@@ -1,0 +1,141 @@
+{
+  "generated_at": "2026-09-12T17:33:53.485Z",
+  "source": {
+    "wikipedia": true,
+    "wikidata": true,
+    "fandom": "https://bladerunner.fandom.com/wiki/",
+    "host": "bladerunner.fandom.com"
+  },
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 360,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (bladerunner.fandom.com) for identification and commentary only. Blade Runner art © Warner Bros. / Alcon (as applicable). Not free or redistributable artwork."
+  },
+  "enrichments": [],
+  "entities": [
+    {
+      "slug": "ennis-house",
+      "name": "Ennis House",
+      "type": "topic",
+      "evidence": "fiction",
+      "short_description": "Ennis House in blade runner.",
+      "description": "Ennis House. Ennis House in blade runner.",
+      "aliases": [
+        "Ennis House"
+      ],
+      "parentSlug": "blade-runner",
+      "wikidata_id": null,
+      "wikipedia_url": null,
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true,
+        "kind": "topic"
+      }
+    },
+    {
+      "slug": "tears-in-rain-monologue",
+      "name": "Tears in rain monologue",
+      "type": "topic",
+      "evidence": "fiction",
+      "short_description": "Tears in rain monologue in blade runner.",
+      "description": "Tears in rain monologue. Tears in rain monologue in blade runner.",
+      "aliases": [
+        "Tears in rain monologue"
+      ],
+      "parentSlug": "blade-runner",
+      "wikidata_id": null,
+      "wikipedia_url": null,
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true,
+        "kind": "topic"
+      }
+    },
+    {
+      "slug": "themes-in-blade-runner",
+      "name": "Themes in Blade Runner",
+      "type": "topic",
+      "evidence": "fiction",
+      "short_description": "Themes in Blade Runner in blade runner.",
+      "description": "Themes in Blade Runner. Themes in Blade Runner in blade runner.",
+      "aliases": [
+        "Themes in Blade Runner"
+      ],
+      "parentSlug": "blade-runner",
+      "wikidata_id": null,
+      "wikipedia_url": null,
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true,
+        "kind": "topic"
+      }
+    },
+    {
+      "slug": "versions-of-blade-runner",
+      "name": "Versions of Blade Runner",
+      "type": "topic",
+      "evidence": "fiction",
+      "short_description": "Versions of Blade Runner in blade runner.",
+      "description": "Versions of Blade Runner. Versions of Blade Runner in blade runner.",
+      "aliases": [
+        "Versions of Blade Runner"
+      ],
+      "parentSlug": "blade-runner",
+      "wikidata_id": null,
+      "wikipedia_url": null,
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true,
+        "kind": "topic"
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "ennis-house",
+      "blade-runner",
+      "part_of",
+      "Ennis House is part of the blade runner subject graph.",
+      0.88,
+      0.82
+    ],
+    [
+      "tears-in-rain-monologue",
+      "blade-runner",
+      "part_of",
+      "Tears in rain monologue is part of the blade runner subject graph.",
+      0.88,
+      0.82
+    ],
+    [
+      "themes-in-blade-runner",
+      "blade-runner",
+      "part_of",
+      "Themes in Blade Runner is part of the blade runner subject graph.",
+      0.88,
+      0.82
+    ],
+    [
+      "versions-of-blade-runner",
+      "blade-runner",
+      "part_of",
+      "Versions of Blade Runner is part of the blade runner subject graph.",
+      0.88,
+      0.82
+    ]
+  ],
+  "stats": {
+    "wikidata": 0,
+    "category_titles": 6,
+    "new_entities": 4,
+    "images_attached": 0,
+    "core_enrichments": 0,
+    "preserved_fandom": 0,
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

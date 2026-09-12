@@ -1,0 +1,24 @@
+{
+  "enrichments": [],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 360,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (www.sarna.net) for identification and commentary only. Character / franchise art © Topps / Catalyst Game Labs (as applicable). Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-12T17:18:58.385Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://www.sarna.net/wiki/",
+    "host": "www.sarna.net"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

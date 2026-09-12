@@ -11,6 +11,7 @@ const {
     buildUniqueDidYouKnow,
     scoreUniqueness
 } = require("./pageSeoContent");
+const { formatHubSummaries } = require("../../subjects/formatHubs");
 
 function escapeHtml(value) {
     return String(value || "")
@@ -21,9 +22,64 @@ function escapeHtml(value) {
         .replace(/'/g, "&#039;");
 }
 
+function buildFormatHubMenu(entity, subjectMeta = {}, pathLookup = null) {
+    const root = subjectMeta.rootSlug || subjectMeta.id;
+    if (!root || entity.slug !== root) {
+        return "";
+    }
+
+    const hubs =
+        subjectMeta.formatHubs?.length > 0
+            ? subjectMeta.formatHubs
+            : formatHubSummaries(subjectMeta.id || root);
+
+    if (!hubs.length) {
+        return "";
+    }
+
+    const items = hubs
+        .map((hub) => {
+            const segment = hub.urlSlug || hub.slug;
+            let href = null;
+            if (typeof pathLookup === "function") {
+                href =
+                    pathLookup(root, hub.slug) ||
+                    pathLookup(root, segment);
+            }
+            if (!href) {
+                href = `/${root}/${segment}`;
+            }
+            return `<li><a href="${href}" class="entity-link">${escapeHtml(hub.name)}</a></li>`;
+        })
+        .join("\n");
+
+    return `
+<section class="overview format-hubs">
+    <h2>Explore by medium</h2>
+    <p>
+        Open the format-specific shelves — movies, games, manga, shows, and more —
+        each with their own long-tail pages.
+    </p>
+    <ul class="format-hub-list">
+        ${items}
+    </ul>
+</section>
+`;
+}
+
+function pathSegment(entity) {
+    const meta =
+        typeof entity.metadata === "string"
+            ? JSON.parse(entity.metadata || "{}")
+            : entity.metadata || {};
+    return meta.urlSlug || entity.slug;
+}
+
 /**
  * Build canonical paths from url_parent_id hierarchy.
  * Roots use /{slug}; children nest under parents.
+ * Format hubs may set metadata.urlSlug for pretty segments
+ * (entity slug star-wars-movies → URL /star-wars/movies).
  */
 function buildPaths(entities) {
     const byId = new Map(entities.map((entity) => [entity.id, entity]));
@@ -47,6 +103,7 @@ function buildPaths(entities) {
         visiting.add(entityId);
 
         let path;
+        const segment = pathSegment(entity);
 
         if (!entity.url_parent_id) {
             path = `/${entity.slug}`;
@@ -57,7 +114,7 @@ function buildPaths(entities) {
                 path = `/${entity.slug}`;
             } else {
                 const parentPath = getPath(parent.id, visiting);
-                path = `${parentPath}/${entity.slug}`;
+                path = `${parentPath}/${segment}`;
             }
         }
 
@@ -636,6 +693,7 @@ function buildGraphSections(connections) {
 function buildContent(entity, connections, subjectMeta, pathLookup = null) {
     return [
         buildIntroduction(entity, connections),
+        buildFormatHubMenu(entity, subjectMeta, pathLookup),
         buildOverview(entity, connections, subjectMeta, pathLookup),
         buildConnectionNarrative(entity, connections, linkEntitiesInText),
         buildGraphSections(connections),

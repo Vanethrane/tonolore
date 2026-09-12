@@ -20,6 +20,12 @@ const {
     expansionSubjectIds,
     subjectCategoryMap
 } = require("./expansionCatalog");
+const {
+    sportsSubjectIds,
+    sportsShelvesForCatalog,
+    subjectCategoryMap: sportsCategoryMap,
+    sportIdForSubject
+} = require("./sportsCatalog");
 
 const CATEGORY_CATALOG = [
     {
@@ -79,30 +85,36 @@ const CATEGORY_CATALOG = [
             subjectIds: genre.subjects.map((subject) => subject.id)
         }))
     },
+    {
+        id: "sports",
+        label: "Sports",
+        blurb: "Leagues, tournaments, and ritual competition — browse by sport.",
+        genres: sportsShelvesForCatalog()
+    },
     ...categoryEntriesForCatalog()
 ];
 
 const SUBJECT_CATEGORY_IDS = {
-    "one-piece": ["anime", "card-games"],
-    "star-wars": ["movies", "television"],
+    "one-piece": ["comics", "anime", "television", "card-games"],
+    "star-wars": ["movies", "television", "video-games"],
     "five-nights-at-freddys": ["video-games"],
     "harry-potter": ["books", "movies"],
-    pokemon: ["video-games", "anime", "card-games"],
+    pokemon: ["video-games", "anime", "movies", "card-games"],
     "lord-of-the-rings": ["books", "movies"],
     cosmere: ["books"],
-    "dragon-ball": ["anime", "card-games"],
+    "dragon-ball": ["comics", "anime", "movies", "card-games"],
     "wheel-of-time": ["books", "television"],
     berserk: ["comics"],
     marvel: ["comics", "movies"],
     dc: ["comics", "movies"],
     "spider-man": ["comics", "movies"],
     mario: ["video-games"],
-    transformers: ["television", "movies"],
+    transformers: ["television", "movies", "video-games"],
     "game-of-thrones": ["books", "television"],
     "the-simpsons": ["television"],
-    naruto: ["anime"],
-    "demon-slayer": ["anime"],
-    "attack-on-titan": ["anime"],
+    naruto: ["comics", "anime"],
+    "demon-slayer": ["comics", "anime"],
+    "attack-on-titan": ["comics", "anime"],
     minecraft: ["video-games"],
     "the-legend-of-zelda": ["video-games"],
     "jurassic-park": ["movies"],
@@ -135,6 +147,7 @@ const SUBJECT_CATEGORY_IDS = {
     ...Object.fromEntries(
         boardGameSubjectIds().map((id) => [id, ["tabletop"]])
     ),
+    ...sportsCategoryMap(),
     ...subjectCategoryMap()
 };
 
@@ -175,5 +188,7 @@ module.exports = {
     musicSubjectIds,
     newCardGameSubjectIds,
     boardGameSubjectIds,
-    expansionSubjectIds
+    expansionSubjectIds,
+    sportsSubjectIds,
+    sportIdForSubject
 };

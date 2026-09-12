@@ -2,7 +2,7 @@
   "enrichments": [
     {
       "slug": "broly",
-      "description": "240 cm (7'10\"; Ikari form) 290 cm (9'6\"; possible height of his SSJ form) 300 cm (9'10\"; FP SSJ) Unlike his counterpart from the Dragon Ball Z movies, Broly is truly a quiet, reserved Saiyan who cares deeply for his friends and loved ones, only letting loose his violent instincts upon being entrenched in fierce combat. Initially serving as the main protagonist and misguided central antagonist of Dragon Ball Super: Broly, he has since become the newest rival to fellow Saiyans Goku and Vegeta. To distinguish him from the other Broly, this Broly is often referred to as Broly: BR in video games and other media. Broly is based off the previous Broly from Dragon Ball Z's Broly film trilogy. It was suggested to Akira Toriyama by his editor to have Broly appear in the movie due to his overwhelming popularity and critical acclaim.",
+      "description": "240 cm (7'10\"; Ikari form) 290 cm (9'6\"; possible height of his SSJ form) 300 cm (9'10\"; FP SSJ)\n\nUnlike his counterpart from the Dragon Ball Z movies, Broly is truly a quiet, reserved Saiyan who cares deeply for his friends and loved ones, only letting loose his violent instincts upon being entrenched in fierce combat. Initially serving as the main protagonist and misguided central antagonist of Dragon Ball Super: Broly, he has since become the newest rival to fellow Saiyans Goku and Vegeta.\n\nTo distinguish him from the other Broly, this Broly is often referred to as Broly: BR in video games and other media.\n\nBroly is based off the previous Broly from Dragon Ball Z's Broly film trilogy.",
       "image_url": "https://static.wikia.nocookie.net/dragonball/images/4/4a/Broly_-_Broly_post_battle.png/revision/latest/scale-to-width-down/360?cb=20240601224015",
       "image_source": "https://dragonball.fandom.com/wiki/Broly_(DBS)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Akira Toriyama / Shueisha / Toei Animation (as applicable). Not free or redistributable artwork.",
@@ -18,7 +18,8 @@
           "fandom"
         ],
         "fandom_preferred_image": true
-      }
+      },
+      "short_description": "Broly's overall character and the general design of his famous Legendary Super Saiyan state was created by Akira Toriyama (who created the full powered golden hair variant) as well as Takao Koyama. The latter in…"
     },
     {
       "slug": "fusion",
@@ -1515,27 +1516,28 @@
       "slug": "android-21",
       "name": "Android 21",
       "type": "person",
-      "description": "Before the split and transformation to her true form, Android 21 (Good) looks identical to her original self: she has pale complexion skin, blue eyes, black nails, and long bushy auburn hair. She wears glasses, gold hoop earrings, a gold ring on her middle finger, a short blue and red checker pattern turtleneck dress with black detached arm sleeves, a white lab coat with sleeves rolled up that has the Red Ribbon Army logo on the left sleeve, and blue (left foot) and red (right foot) ankle heel boots with gold tips and black opaque tights.\n\nWhen in her true form, she has pink skin, long bushy white hair, her ears become pointed, and she gains a tail similar to Frieza's. Her attire changes to a black tube top, keeping the black detached arm sleeves, gold bracelets around her neck, wrists, and ankles, and white baggy pants with a gold belt. However, she retains the blue eyes with white sclera of her human form and her boots become black keeping the gold tips. Android 21 is also a rather tall woman, as she is shown to be slightly taller than Gohan.\n\nThe good Android 21 represents her original self's good side, similar to how Good Buu represents the good aspects of the Innocent Buu. Though she retains her hunger she is better able at controlling it due to the removal of her evil half and her link with the human soul that had been bonded with Android 18.\n\nAfter splitting into two halves, she seems to be incredibly apologetic, even apologizing as she attacks mid-fight, and chooses to work with the heroes to fix her wrongdoings. Though she mourns the loss of Android 16, his death and her resulting fission have made her determined to stop her evil half as a way of honoring his memory. As such, her good self was willing to sacrifice herself in order to help stop her evil self, much to Android 18's reluctance, while also thanking the soul in her for everything it had done for her. In the same setting, Android 21 was shown to trust 18, passing on the soul to her. In spite of this, she is still ravaged by her hunger and has a natural desire to eat her allies, leading 21 to fear herself. This fell to reason why she chose to sacrifice herself, not only to protect the allies she grew to care for, but to prevent anyone else from getting hurt which is presumably born from her guilt over the death of Android 16. Interestingly, she shares this self-sacrificing aspect of her personality with her adoptive son, Android 16. Additionally like Android 16, she is a gentle soul who dislikes fighting in general, though will stand up to protect innocents, as well as her friends and loved ones. It is implied by Beerus and Whis that had she survived the destruction of her evil half, she would have ultimately succumbed to her hunger. Thus, her sacrifice was ultimately for the greater good, though it is possible she could have learned to suppress it completely, though simply chose to not risk even the slightest possibility of her losing control, for fear of destroying her allies as her original self-had with Android 16.",
+      "description": "While her good half and 21 were one, Android 21 (Evil) appeared as a black specter, in the silhouette of Android 21 in her base form. She also appeared with a pink and blue aura.\n\nIn her true form, she has pink skin, pointed ears with gold hoop earrings, long bushy white-pinkish hair, black nails, red eyes with black sclera, and gains a tail similar to Frieza's. She wears gold bracelets around her neck, wrists, and ankles, a gold ring on her middle finger, white baggy pants with a gold belt, black detached arm sleeves, a black tube top, black ankle heel boots with gold tips.\n\nUpon eating and absorbing Cell, she undergoes a transformation where her skin turns pale purple and she has dark purple spots throughout her body like that of Cell's. Her hair also turns whiteish-purple.\n\nAs noted, this side of Android 21 is pure evil, having nothing but a desire to devour all the Z Warriors to satisfy her needs of eating and gaining more power to the point of being seen as nearly insane. However, these desires do not cloud her thinking as she is capable of making rational decisions and assess the situation at hand. Sadistic and sociopathic, 21 will go to extreme lengths to gain the power she desires.",
       "evidence": "fiction",
       "parentSlug": "dragon-ball",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/dragonball/images/f/f0/FighterZ_-_Android_21_%28Good%29.png/revision/latest/scale-to-width-down/360?cb=20180126184233",
-      "image_source": "https://dragonball.fandom.com/wiki/Android_21_(Good)",
+      "image_url": "https://static.wikia.nocookie.net/dragonball/images/e/ef/FighterZ_-_Android_21_%28Evil%29_%28true_form%29.png/revision/latest/scale-to-width-down/360?cb=20180122205640",
+      "image_source": "https://dragonball.fandom.com/wiki/Android_21_(Evil)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Akira Toriyama / Shueisha / Toei Animation (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Android 21 (Good)",
+      "image_alt": "Identification thumbnail for Android 21 (Evil)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://dragonball.fandom.com/wiki/Android_21_(Good)",
-        "fandom_title": "Android 21 (Good)",
+        "fandom_url": "https://dragonball.fandom.com/wiki/Android_21_(Evil)",
+        "fandom_title": "Android 21 (Evil)",
         "source_fandom": "dragonball.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       },
       "short_description": "Before the split and transformation to her true form, Android 21 (Good) looks identical to her original self: she has pale complexion skin, blue eyes, black nails, and long bushy auburn hair. She wears glasses, gold…"
     },
@@ -1563,7 +1565,8 @@
         "source_fandom": "dragonball.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       },
       "short_description": "This is a list of all the minor playable characters in Dragon Ball Fusions. Several Fusions original playable characters appear in Dragon Ball Fusions the Manga!!, including: Saibaking, Yamma, Makma, Kadoola, Assam, and…"
     },
@@ -2795,7 +2798,8 @@
         "source_fandom": "dragonball.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       },
       "short_description": "This is a list of tertiary, inconsequential, or unnamed characters who exist in the Dragon Ball universe. Note that this list only constitutes of characters that do play some kind of role in the story but are tertiary…"
     },
@@ -2915,27 +2919,28 @@
       "slug": "future-warrior",
       "name": "Future Warrior",
       "type": "person",
-      "description": "The is a custom character and main protagonist in Dragon Ball Xenoverse 2.\n\nIn the trailer, promotional material, and Dragon Ball Xenoverse 2 The Manga, Future Warrior is a blue haired young Saiyan male who is seen wearing a black and white tracksuit jacket, similar to the one Goku wears in the beginning of Dragon Ball Z: Battle of Gods though with the Time Patrol logo on the back. He also wears blue colored pants, similar to those worn by Android 17, brown boots, and the Scouter model used by Tagoma. His outfit is known as the Time Patrol Logo Suit in Xenoverse 2.\n\nLike the Future Warrior from Dragon Ball Xenoverse, their appearance, race, and gender can be selected by the player in Xenoverse 2.\n\nThough the warrior is similar to the Toki Toki City Hero, however unlike the previous hero they are shown to be somewhat clumsy during their first mission as they comically forget to use Flight when they find that they appear in the air slightly above the ground on Earth in Age 762 causing them to fall to the ground, which is in sharp contrast to the previous hero, whose entrance during their first mission was flawlessly executed.",
+      "description": "The |Mirai Senshi}}, is a custom character and main protagonist in Dragon Ball Xenoverse and is a crucial part of the game's story.\n\nThe Future Warrior used for promotional material for the original Xenoverse, this promotional hero appears as one of the default heroes for Xenoverse 2 under the name Ace. In Dragon Ball Xenoverse 2, the Future Warrior returns as special NPC who is a legendary Time Patroller known by the title of Toki Toki City Hero though their role as main protagonist is taken over by a new Future Warrior suggested by Old Kai and appointed by Chronoa herself. However, they still play an important role in the game's story.\n\nAs a custom character, the Future Warrior's appearance is entirely dictated by the player, whose race can be Majins, Saiyans, Earthlings, Namekians and Frieza Race, with the first three having male and female versions. The skin and hair color can be customized to make the player character look like some other races such as the Hera Clan. This is strictly cosmetic. Initially the Future Warrior is created with a simple uniform, but the player can buy a wide variety of clothing and accessories historically worn by characters from Dragon Ball to Dragon Ball GT.\n\nOnce selected the Future Warrior's race and/or gender cannot be changed, however the rest of their appearance can be changed by collecting the Dragon Balls and then summon Shenron at the Dragon Ball Pedestal in Toki Toki City then select the wish option \"I want to be drop dead gorgeous!\" which allows the warrior's hair (or other racial features such as horns, antenna, or a Majin's hair-like head tentacles), voice, height, eyes, face, mouth, ears, etc. to be changed. This wish is always available when Shenron is summoned thus it can be made more than once though the Dragon Balls must be collected again to make it again.",
       "evidence": "fiction",
       "parentSlug": "dragon-ball",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/dragonball/images/3/3a/Screen_Shot_2016-10-26_at_8.19.05_PM.png/revision/latest/scale-to-width-down/360?cb=20161027002022",
-      "image_source": "https://dragonball.fandom.com/wiki/Future_Warrior_(Xenoverse_2)",
+      "image_url": "https://static.wikia.nocookie.net/dragonball/images/7/7d/Future_Warrior_XV_Art.png/revision/latest/scale-to-width-down/360?cb=20150119112939",
+      "image_source": "https://dragonball.fandom.com/wiki/Future_Warrior",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Akira Toriyama / Shueisha / Toei Animation (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Future Warrior (Xenoverse 2)",
+      "image_alt": "Identification thumbnail for Future Warrior",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://dragonball.fandom.com/wiki/Future_Warrior_(Xenoverse_2)",
-        "fandom_title": "Future Warrior (Xenoverse 2)",
+        "fandom_url": "https://dragonball.fandom.com/wiki/Future_Warrior",
+        "fandom_title": "Future Warrior",
         "source_fandom": "dragonball.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       },
       "short_description": "The is a custom character and main protagonist in Dragon Ball Xenoverse 2."
     },
@@ -3419,27 +3424,28 @@
       "slug": "great-ape",
       "name": "Great Ape",
       "type": "person",
-      "description": "The Legendary Super Saiyan's |Ōzaru}} form is an alternate version of the Golden Great Ape state. Its user can attain the Super Saiyan 4 state.\n\nIt is always referred to just as Great Ape in all media.\n\nThe Legendary Super Saiyan Great Ape form appears the same as a Golden Great Ape, however, the color of its fur is emerald, like that of the Legendary Super Saiyan form after Broly broke his crown, and his head hair is spiked upwards.\n\nBroly is shown attaining this form by absorbing Blutz Waves emitted from a green orb that appears in Hell during the Reborn Broly Saga in Dragon Ball Heroes. He later transforms back into the form after escaping to the Sacred World of the Kai, before mastering the form and further transforming into a Super Saiyan 4. The JM7 trailer for the game instead depicts Black Smoke Shenron transforming him into a Great Ape off-screen, though he immediately masters the form and transforms straight into Super Saiyan 4.",
+      "description": "The transformation is similar to how werewolves transform at the full moon. Originally in the series, the Great Ape was a transformation for Goku, this character being a parody of a monkey-king, Sun Wukong, from the novel Journey to the West; despite this, many Chinese cultural adaptations of the novel did not involve the original Wukong having access to a giant transformation whatsoever, which supposedly makes this more of a Japanese/contemporary culture trait for him as seen in media such as the Hong Kong 1998 adaptation of Journey to the West and in one of Wukong's attacks in Warriors Orochi 2.\n\nLater in the series, Great Ape is discovered to be a transformation that is accessible to the characters who possess Saiyan heritage.\n\nThe original Japanese name literally translates to \"great ape\" (used by Funimation), \"giant ape\", \"king ape\", or \"large monkey\"; the form has a combination of animalistic features rather being any specific primate, such gorilla-like (almost King Kong-like) torso and legs, baboon-like faces, tails, and red eyes. The bulkiness of the design also varies over time.\n\nIn order for the transformation to take place, the Saiyan needs to have a tail, as the biochemical glands responsible for initiating the transformation are located exclusively there. The Saiyan also needs to absorb at least 17 million zeno units of Blutz Waves through the retina of the eyes to initiate the transformation. Blutz Waves are found only in sunlight reflected by a moon. If there is no moon, a planetary body will reflect the same number of rays and initiate the transformation. The easiest way to achieve this is to gaze at the full moon, making Saiyans similar to werewolves in this aspect. If any clouds covered the moon and/or a planetary body, it would block certain amounts of the radiation and prevent the transformation. Vegeta once made himself transform by firing Power Ball, which is a \"fake moon\" reflecting the requisite amount of Blutz Rays into the air, and then staring at it. A device onboard the Saiyans' Attack Balls also project a hologram of a moon that was realistic enough to allow Blutz Waves to be reflected in the event of their landing on a planet that lacks a moon, as evidenced by an incident where Gohan went Great Ape while training for fighting the Saiyans prior to their invasion due to Goku's attack pod reactivating.",
       "evidence": "fiction",
       "parentSlug": "dragon-ball",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/dragonball/images/1/14/DB_Fusions_-_LSSJ_Great_Ape_Broly.png/revision/latest/scale-to-width-down/360?cb=20160806032224",
-      "image_source": "https://dragonball.fandom.com/wiki/Great_Ape_(Legendary_Super_Saiyan)",
+      "image_url": "https://static.wikia.nocookie.net/dragonball/images/c/cb/The_Tree_of_Might_-_Goku_confronts_Great_Ape_Gohan.jpg/revision/latest/scale-to-width-down/360?cb=20111124230446",
+      "image_source": "https://dragonball.fandom.com/wiki/Great_Ape",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Akira Toriyama / Shueisha / Toei Animation (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Great Ape (Legendary Super Saiyan)",
+      "image_alt": "Identification thumbnail for Great Ape",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://dragonball.fandom.com/wiki/Great_Ape_(Legendary_Super_Saiyan)",
-        "fandom_title": "Great Ape (Legendary Super Saiyan)",
+        "fandom_url": "https://dragonball.fandom.com/wiki/Great_Ape",
+        "fandom_title": "Great Ape",
         "source_fandom": "dragonball.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       },
       "short_description": "The Legendary Super Saiyan's |Ōzaru}} form is an alternate version of the Golden Great Ape state. Its user can attain the Super Saiyan 4 state."
     },
@@ -3551,7 +3557,8 @@
         "source_fandom": "dragonball.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       },
       "short_description": "This is a list of all minor members in the Time Patrol."
     },
@@ -6404,18 +6411,18 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (dragonball.fandom.com) for identification and commentary only. Character / franchise art © Akira Toriyama / Shueisha / Toei Animation (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-10T23:41:18.440Z",
+  "generated_at": "2026-09-12T00:17:02.123Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://dragonball.fandom.com/wiki/",
     "host": "dragonball.fandom.com"
   },
   "stats": {
-    "fandom_titles": 250,
-    "fandom_enriched_core": 11,
-    "fandom_created": 138,
-    "fandom_images": 249,
-    "fandom_intros": 11,
+    "fandom_titles": 50,
+    "fandom_enriched_core": 10,
+    "fandom_created": 0,
+    "fandom_images": 50,
+    "fandom_intros": 50,
     "image_backfill_at": "2026-09-11T12:38:48.580Z",
     "image_backfill_count": 1,
     "description_backfill_at": "2026-09-11T12:52:17.228Z",

@@ -1,0 +1,26 @@
+{
+  "completed": [
+    "one-piece",
+    "star-wars",
+    "five-nights-at-freddys",
+    "harry-potter",
+    "pokemon",
+    "lord-of-the-rings",
+    "cosmere",
+    "dragon-ball",
+    "wheel-of-time",
+    "berserk",
+    "marvel",
+    "dc",
+    "spider-man",
+    "mario",
+    "transformers",
+    "game-of-thrones",
+    "the-simpsons",
+    "naruto"
+  ],
+  "failed": [],
+  "startedAt": "2026-09-12T04:17:15.690Z",
+  "lastCompleted": "naruto",
+  "lastAt": "2026-09-12T04:38:38.658Z"
+}

@@ -63,35 +63,6 @@ const EXPANSION_CATEGORIES = [
         ]
     },
     {
-        id: "sports",
-        label: "Sports",
-        blurb: "Leagues, dynasties, and ritual competition with lasting fan lore.",
-        accent: "#2ecc71",
-        subjects: [
-            {
-                id: "nba",
-                name: "NBA",
-                rights: "NBA / respective teams and rights holders",
-                accent: "#c8102e",
-                blurb: "The National Basketball Association — franchises, eras, and court mythology."
-            },
-            {
-                id: "fifa-world-cup",
-                name: "FIFA World Cup",
-                rights: "FIFA / respective federations and rights holders",
-                accent: "#0a6b3c",
-                blurb: "The quadrennial football tournament that remaps national sporting identity."
-            },
-            {
-                id: "formula-1",
-                name: "Formula 1",
-                rights: "Formula One Group / FIA / respective teams and rights holders",
-                accent: "#e10600",
-                blurb: "Grand Prix racing — constructors, circuits, and technical eras at the limit."
-            }
-        ]
-    },
-    {
         id: "horror",
         label: "Horror",
         blurb: "Monsters, slashers, and dread franchises built to haunt the culture.",

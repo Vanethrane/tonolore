@@ -1,0 +1,288 @@
+{
+  "enrichments": [
+    {
+      "slug": "arthurian-legend",
+      "description": "Arthurian legend, named for its key figure Arthur, is a blanket term for hundreds of tales of knights, ladies, squires, quests, wars, and supernatural figures.\n\nThe Arthurian story has been told and retold for centuries, being innovated or expanded in almost every rendition. Because of this, the Arthurian legends are a dynamic collection of tales which are adapted to be meaningful to each passing generation, rather than being one set story.\n\nWhether Arthur was originally a Celtic folk hero, a real person or the imaginings of an unknown bard, he became a central figure in British history and culture. His story has been adopted by different cultures in Britain and travelled across continents, with each version of the legend being moulded to fit the people and culture who adopted it.\n\nThis article is a chronological journey through the key periods in the development of Arthurian legend, and with it, an insight into how historical changes, shifts in power and religion along with different cultural attitudes have shaped the legends we know today.",
+      "short_description": "Arthurian legend, named for its key figure Arthur, is a blanket term for hundreds of tales of knights, ladies, squires, quests, wars, and supernatural figures."
+    }
+  ],
+  "entities": [
+    {
+      "slug": "aamanz",
+      "name": "Aamanz",
+      "type": "person",
+      "description": "According to Diu Crône, a knight whose nickname was 'the other Gawain', due to his uncanny physical similarity to Sir Gawain.\n\nHe was in purusit of a knight called Gigamec, who had slain his brother. Another knight named Zedoech intercepted and challenged him. Sir Gawain happened to come along and stopped Aamanz as he was about to behead his opponent. The two battled and Gawain won, but Aamanz refused to surrender, which caused Gawain to turn Aamanz over to Zedoech and Gigamec, who murdered him as soon as Gawain had left.\n\nGigamec then brought Aamanz head to Arthur's court, representing it as Gawain's, which caused great distress and confusion. Category:Characters Category:Male",
+      "short_description": "According to Diu Crône, a knight whose nickname was 'the other Gawain', due to his uncanny physical similarity to Sir Gawain.",
+      "evidence": "fiction",
+      "parentSlug": "arthurian-legend",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://kingarthur.fandom.com/wiki/Aamanz",
+        "fandom_title": "Aamanz",
+        "source_fandom": "kingarthur.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "characters",
+      "name": "Characters",
+      "type": "person",
+      "description": "There are hundreds of characters in the Arthurian Legends, many of whom have different spelling variations or have been renamed in different tales. This article is a list of characters who appear in the legends.\n\nMany of the characters who do not yet have a main article on this wiki redirect here. You can help this wiki by creating/writing the page or adding to the notes in this article to help another, future editor.",
+      "short_description": "There are hundreds of characters in the Arthurian Legends, many of whom have different spelling variations or have been renamed in different tales. This article is a list of characters who appear in the legends.",
+      "evidence": "fiction",
+      "parentSlug": "arthurian-legend",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://kingarthur.fandom.com/wiki/Characters",
+        "fandom_title": "Characters",
+        "source_fandom": "kingarthur.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "accalon",
+      "name": "Accalon",
+      "type": "person",
+      "description": "thumb|Accolon portrayed by Ian Duncun in Mists of AvalonAccalon was a knight from Gaul. In Malory's Le Morte d’Arthur, when King Arthur entrusted Excalibur into Morgan le Fay's care, she had a duplicate made; the real scabbard was then passed from her to her lover Accalon.\n\nMorgan then tricked Arthur and Accalon into fighting each other, Accalon using the real Excalibur while Arthur used the duplicate. During the battle Arthur's sword broke; he quickly realized this was not the real Excalibur and that he had been betrayed. Rather than giving up, Arthur continued to fight with what was left of his shield. Nimue, the Lady of the Lake, arrived and used her magic to cause Excalibur to fly from Accalon's hand. Arthur then wrestled the scabbard back and dealt Accalon a mortal wound. Four days after receiving the battle-wound from Arthur, Accalon received Arthur's forgiveness and died. Category:Characters Category:Male Category:Knights",
+      "short_description": "thumb|Accolon portrayed by Ian Duncun in Mists of AvalonAccalon was a knight from Gaul. In Malory's Le Morte d’Arthur, when King Arthur entrusted Excalibur into Morgan le Fay's care, she had a duplicate made; the real…",
+      "evidence": "fiction",
+      "parentSlug": "arthurian-legend",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/kingarthur/images/1/15/Accolon.jpg/revision/latest/scale-to-width-down/360?cb=20100920220110",
+      "image_source": "https://kingarthur.fandom.com/wiki/Accalon",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Arthurian commentary uses public-domain traditions; modern marks remain with rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Accalon",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://kingarthur.fandom.com/wiki/Accalon",
+        "fandom_title": "Accalon",
+        "source_fandom": "kingarthur.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "achilles",
+      "name": "Achilles",
+      "type": "person",
+      "description": "Achilles is a hero from Greek mythology cited in some Arthurian texts. He is the son of the sea-nymph Thetis and King Peleus, who in not to be confused with the Arthurian Pelleas or King Pelleus. Achilles fights in the Trojan war.\n\nMore can be learned about him here [https://mythus.fandom.com/wiki/Achilles] or here [https://hero.fandom.com/wiki/Achilles].",
+      "short_description": "Achilles is a hero from Greek mythology cited in some Arthurian texts. He is the son of the sea-nymph Thetis and King Peleus, who in not to be confused with the Arthurian Pelleas or King Pelleus. Achilles fights in the…",
+      "evidence": "fiction",
+      "parentSlug": "arthurian-legend",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://kingarthur.fandom.com/wiki/Achilles",
+        "fandom_title": "Achilles",
+        "source_fandom": "kingarthur.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aegidius",
+      "name": "Aegidius",
+      "type": "person",
+      "description": "Aegidius (died 464 or 465) magister militum in Gaul under Aëtius around 450. Aegidius rebelled against the Western Emperor Ricimer. This would be in 461 or 462. Aegidius retained his powers in the north of Gaul in a region known as the Domain of Soissons, extending from Armorica in the west to the Vosges in the east, and from the Somme River in the north to the Loire River in the south.\n\nAccording to Gregory of Tours, King Childeric of the Salian Franks was so great a womanizer and committed so many acts of violence, that the Franks drove him into exile. Childeric fled to Thuringia and found refuge with King Basinus and his wife Basina. The Franks took Aegidius as their king. But after eight years the Franks changed their mind and Childeric was welcomed back to the kingship. Then Basina forsook her husband and fled to Childeric. Childeric took her to wife and sired on her Clovis.\n\nBritish immigrants flocked to Aegidius’ country, where he settled them on the north of the Loire in the “Armorican Tract”. The British included a fighting force of 12,000 men.\n\nAegidius died in plague according to Gregory of Tours, in 464 or 465. His son, Syagrius, succeeded him in the Domain of Soissons. Category:Characters Category:Male",
+      "short_description": "Aegidius (died 464 or 465) magister militum in Gaul under Aëtius around 450. Aegidius rebelled against the Western Emperor Ricimer. This would be in 461 or 462. Aegidius retained his powers in the north of Gaul in a…",
+      "evidence": "fiction",
+      "parentSlug": "arthurian-legend",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://kingarthur.fandom.com/wiki/Aegidius",
+        "fandom_title": "Aegidius",
+        "source_fandom": "kingarthur.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aelle",
+      "name": "Aelle",
+      "type": "person",
+      "description": "Aelle is the leader of the Angle forces in Britain for the majority of the Warlord Chronicles. He has many bastards but only six recognised sons:\n\nAcross the books he climbs to power, both helping and hindering Arthur's cause as well as other British Kings. Aelle is a pagan and follows a pantheon of germanic deities. His goals are to take land and claim power, both over the germanic peoples of Britain and over the celtic peoples who inhabit land under his control. Additionally, he attempts to play kingmaker at different points in the story - primarily through attacking those he is paid to.\n\nHe is a tall and broad man, with a flat hard face. His eyes are dark and his beard is black. His cheeks are scarred from battle and he is missing two fingers on his right hand. His teeth are rotting and his demeanour is described as terrifying. Whilst he wears an iron helmet with horns for battle, his trademark attire is an enormous black bear pelt which both insulates and protects him.\n\nWhilst his nature is described as brutal and savage, over time we learn he is a jovial, emotional man who struggles to handle the expectations and demands of his people. He is shown to be a cunning, sage leader who understands his enemies well and exploits their weaknesses. He is superstitious and shows a visible worry over Merlin's power.",
+      "short_description": "Aelle is the leader of the Angle forces in Britain for the majority of the Warlord Chronicles. He has many bastards but only six recognised sons:",
+      "evidence": "fiction",
+      "parentSlug": "arthurian-legend",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://kingarthur.fandom.com/wiki/Aelle",
+        "fandom_title": "Aelle",
+        "source_fandom": "kingarthur.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aetius",
+      "name": "Aëtius",
+      "type": "person",
+      "description": "Flavius Aëtius was the Roman general from 433-454. In the Battle of the Catalaunian Plains Aëtius ended the Hunnic invasion of Attila in 451.\n\nAëtius was born in 390, of Scythian birth.\n\nIn 423, when the western Emperor, Honorius, died, Castinus, who was the most influential western Roman, chose a high-ranking officer named Joannes as Honorius’ succssor. But Joannes did not receive recognition from the eastern emperor Theodosius II, as Joannes was not part of the Theodosian dynasty. Instead, Theodosius sent his general Aspar against Joannes in support of Theodosius’ nephew Valentinian. Valentinian, on his father’s side, was also Honorius' nephew. Aëtius was in Joannes’ service, and was sent by him to ask the Huns for help, for Aëtius had lived among the Huns for many years as a hostage. By the time Aëtius returned with a large num of Huns, Joannes had been killed and power now lay with Valentinian and his mother Galla Placida, Honorius’ sister. After some skirmishing between Aëtius’ Huns and Aspar’s eastern army, a peace arrangement was made in which Aëtius dismissed his Huns and became magister militum per Galliam (commander in chief in Gaul) in 425.\n\nAfter defeating the Visigoths and Franks, Aëtius was promoted to magister militum with no restrictions, one of two such officers in the western empire. The senior magister militum was Flavius Felix. In 430 Aëtius accused Flavius Felix of plotting against him, and had Felix and his wife killed. Aëtius continued his battles against the barbarians, against the Juthingi of Raetia, against the Visigoths of Arelate, against the Nori of Noricum, and against the Franks. In 432 Aëtius was named consul for the first time. But his rival, Bonifacius, the other magister militum was recalled from Africa to Ravenna by Aula Placida and given the rank of patrician. Aëtius fought against Bonifacius at the Battle of Rimini. Bonifacius actually won the battle, but was mortally wounded and died several months later. Meanwhile, aided by the Huns, Aëtius gained an even highter position in the Roman court at Ravenna: magister utriusque militiae. Aëtius had Bonifacius’ son-in-law Sebastianus exiled from Italy and married Bonifacius’ widow Pelagia on whom Aëtius fathered his son Gaudentius.",
+      "short_description": "Flavius Aëtius was the Roman general from 433-454. In the Battle of the Catalaunian Plains Aëtius ended the Hunnic invasion of Attila in 451.",
+      "evidence": "fiction",
+      "parentSlug": "arthurian-legend",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://kingarthur.fandom.com/wiki/A%C3%ABtius",
+        "fandom_title": "Aëtius",
+        "source_fandom": "kingarthur.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "afaon",
+      "name": "Afaon",
+      "type": "person",
+      "description": "Afaon, also known as Addaon, Affaon, and by other spellings, is the son of Taliesin the bard. He appears in Welsh sources, including The Dream of Rhonabwy and the Welsh Triads.\n\nAccording to The Dream of Rhonabwy, Afaon was one of Arthur’s chief counselors at the Battle of Badon. Though he recklessly rode past the king, splashing him with water, he is still considered one of the wisest and most accomplished men in Britain.\n\nIn Triad 7, he is referred to as one of the \"Three Bull-Chieftains of the Island of Britain\". The other Bull-Chieftains are also bards’ sons. He is one of Triad 25’s \"Three Battle-Rulers of the Island of Britain\". According to Triad 33, his death was one of \"Three Unfortunate Slaughters of the Island of Britain\". His killer is variously named as Llawgat Trwm Bargod Eidyn (Heavy Battle-Hand of the Border of Eidyn) or Llongad Grwm Fargod Eidyn (Llongad the Bent of the Border of Eidyn).\n\nAccording to Enlyngion y Clyweit, a collection of proverbs, he coined the expression, “The cheek will not conceal the anguish of the heart”.",
+      "short_description": "Afaon, also known as Addaon, Affaon, and by other spellings, is the son of Taliesin the bard. He appears in Welsh sources, including The Dream of Rhonabwy and the Welsh Triads.",
+      "evidence": "fiction",
+      "parentSlug": "arthurian-legend",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://kingarthur.fandom.com/wiki/Afaon",
+        "fandom_title": "Afaon",
+        "source_fandom": "kingarthur.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "aamanz",
+      "arthurian-legend",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "characters",
+      "arthurian-legend",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "accalon",
+      "arthurian-legend",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "achilles",
+      "arthurian-legend",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "aegidius",
+      "arthurian-legend",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "aelle",
+      "arthurian-legend",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "aetius",
+      "arthurian-legend",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "afaon",
+      "arthurian-legend",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 360,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (kingarthur.fandom.com) for identification and commentary only. Arthurian commentary uses public-domain traditions; modern marks remain with rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-12T17:34:32.567Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://kingarthur.fandom.com/wiki/",
+    "host": "kingarthur.fandom.com"
+  },
+  "stats": {
+    "fandom_titles": 45,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 45,
+    "description_ensure_at": "2026-09-12T03:52:14.599Z",
+    "description_ensure_count": 1
+  }
+}

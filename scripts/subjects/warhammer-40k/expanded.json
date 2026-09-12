@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T15:19:00.648Z",
+  "generated_at": "2026-09-12T04:29:21.991Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -87,7 +87,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Games Workshop (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Horus Lupercal",
+      "image_alt": "Identification thumbnail for Horus",
       "metadata": {
         "fandom_url": "https://warhammer40k.fandom.com/wiki/Horus",
         "fandom_title": "Horus",
@@ -728,7 +728,8 @@
         "source_fandom": "warhammer40k.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -756,7 +757,8 @@
         "source_fandom": "warhammer40k.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -784,7 +786,8 @@
         "source_fandom": "warhammer40k.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -812,7 +815,8 @@
         "source_fandom": "warhammer40k.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -834,7 +838,8 @@
         "source_fandom": "warhammer40k.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -862,7 +867,8 @@
         "source_fandom": "warhammer40k.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -890,7 +896,8 @@
         "source_fandom": "warhammer40k.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -918,7 +925,8 @@
         "source_fandom": "warhammer40k.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -940,7 +948,8 @@
         "source_fandom": "warhammer40k.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -968,7 +977,8 @@
         "source_fandom": "warhammer40k.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -996,7 +1006,8 @@
         "source_fandom": "warhammer40k.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -11084,7 +11095,8 @@
         "source_fandom": "warhammer40k.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -23464,7 +23476,8 @@
         "source_fandom": "warhammer40k.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -32210,7 +32223,8 @@
         "source_fandom": "warhammer40k.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "faction"
       }
     },
     {
@@ -40307,11 +40321,11 @@
     "images_attached": 0,
     "core_enrichments": 2,
     "preserved_fandom": 0,
-    "fandom_titles": 1239,
-    "fandom_enriched_core": 34,
-    "fandom_created": 1202,
-    "fandom_images": 1065,
-    "fandom_intros": 1239,
+    "fandom_titles": 26,
+    "fandom_enriched_core": 12,
+    "fandom_created": 0,
+    "fandom_images": 24,
+    "fandom_intros": 26,
     "image_backfill_at": "2026-09-11T16:29:40.805Z",
     "image_backfill_count": 29
   }

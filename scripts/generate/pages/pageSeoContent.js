@@ -82,6 +82,11 @@ function descriptionParagraphs(text) {
         .map((part) => normalizeSpace(part))
         .filter(Boolean);
 
+    // Hand-authored / structured lore often needs more than four beats
+    // (e.g. film-by-film adaptation notes). Auto-split walls of text stay
+    // shorter so overview sections do not become a dump.
+    const maxParts = parts.length > 1 ? 10 : 4;
+
     if (parts.length === 1 && parts[0].length > 420) {
         const sentences = parts[0].match(/[^.!?]+[.!?]+(?:\s|$)|[^.!?]+$/g) || [
             parts[0]
@@ -107,9 +112,10 @@ function descriptionParagraphs(text) {
             rebuilt.push(buf);
         }
         parts = rebuilt.filter(Boolean).slice(0, 4);
+        return parts;
     }
 
-    return parts.slice(0, 4);
+    return parts.slice(0, maxParts);
 }
 
 function bestDescription(entity) {

@@ -650,7 +650,33 @@ async function expandFandomPass(subjectId, opts = {}) {
         }
     };
 
-    fs.writeFileSync(outPath, JSON.stringify(out, null, 2));
+    const payload = JSON.stringify(out, null, 2);
+    const tmp = `${outPath}.${process.pid}.tmp`;
+    let wrote = false;
+    for (let attempt = 0; attempt < 8; attempt += 1) {
+        try {
+            fs.writeFileSync(tmp, payload);
+            fs.renameSync(tmp, outPath);
+            wrote = true;
+            break;
+        } catch (error) {
+            try {
+                fs.unlinkSync(tmp);
+            } catch (_) {
+                /* ignore */
+            }
+            if (attempt === 7) {
+                throw error;
+            }
+            const end = Date.now() + 250 * (attempt + 1);
+            while (Date.now() < end) {
+                /* brief backoff for Windows file locks */
+            }
+        }
+    }
+    if (!wrote) {
+        throw new Error(`Failed to write ${outPath}`);
+    }
     console.log("  Wrote", outPath);
     console.log("  Fandom stats", out.stats);
 

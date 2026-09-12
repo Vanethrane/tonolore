@@ -1,0 +1,25 @@
+/* Contrasting plates for transparent logos (black→white, white→black). */
+
+.category-collage-cell.logo-backdrop-light {
+    background: #ffffff;
+    border-color: rgba(15, 15, 15, 0.12);
+}
+
+.category-collage-cell.logo-backdrop-dark {
+    background: #0a0a0a;
+    border-color: rgba(255, 255, 255, 0.16);
+}
+
+.category-collage-cell.logo-backdrop-light img {
+    filter: none;
+}
+
+.subject-card-logo.logo-backdrop-light {
+    background: #ffffff;
+    border-color: rgba(15, 15, 15, 0.1);
+}
+
+.subject-card-logo.logo-backdrop-dark {
+    background: #0a0a0a;
+    border-color: rgba(255, 255, 255, 0.14);
+}

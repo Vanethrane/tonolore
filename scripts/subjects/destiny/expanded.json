@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T15:29:13.948Z",
+  "generated_at": "2026-09-12T18:12:34.505Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -450,7 +450,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bungie (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Commander Zavala"
+      "image_alt": "Identification thumbnail for Zavala"
     },
     {
       "slug": "cayde-6",
@@ -538,7 +538,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bungie (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for The Tower"
+      "image_alt": "Identification thumbnail for Tower (Destiny)"
     },
     {
       "slug": "reef",
@@ -565,10 +565,10 @@
     {
       "slug": "dreaming-city",
       "wikipedia_url": "https://en.wikipedia.org/wiki/The_Dreaming_City",
-      "description": "The Dreaming City is a lore book introduced in Forsaken.\n\nEris Morn returned to the Vestian Outpost. Because she spoke well, it was agreed that aid would be traded for intelligence and a long-term alliance. In this way, the Awoken were the first to know of the Great Navigator: his philosophies, his strategies, his weaknesses. And as the coven contemplated the possibilities laid wide before this god-king's far-flung sword, it was decreed that they would build a throne world beneath an energy well as blind as the ferryman Charon.\n\nNascia drew the schematics. Portia worked out the calculations. They made their first test with a small rift generator on the eastern shore. Satisfied that their methods were sound, they then went to a grand cathedral to dig the well. There, Lissyl and Sedia augured the first borehole with the help of Riven, who had taken the shape of a needle-nosed basilisk, while Kalli and Shuro Chi constructed the gate itself, deep below, in a hall they named \"The Confluence.\"\n\nIllyn made tincture after tincture of queensfoil until her clothes stank and her hands were stained reddish-black. Open-eyed, she walked between planes and sorted the threads of reality on a vast metaphysical loom, weaving some closer, some more distant.",
+      "description": "The Dreaming City is a location featured in Destiny 2: Forsaken. The area serves as a major endgame destination and features a raid in the city's core. It is located within The Reef and is accessible after completing the Forsaken campaign.\n\nOne of several secret cities constructed by the Awoken around the Reef, the Dreaming City was their most prized accomplishment, made to emulate and preserve the society brought with the Awoken from the Distributary. The Dreaming City was evacuated prior to the invasion of Oryx. When Oryx killed the Awoken Queen, he became aware of the city and dispatched his Taken there. As of Forsaken, these Taken served the Taken Ahamkara, Riven.\n\nCurrently, the City is trapped under a curse laid down by Riven, who acted upon the final, unspoken wish of her killers. The Dreaming City is trapped in a three-week cycle, where Taken corruption spreads unabated. Guardians must destroy the source of this corruption, but this merely resets the city to the beginning, along with the Awoken trapped there.\n\nThe Dreaming City is the Reefborn Awoken's most significant stronghold. It was created by Mara Sov after her departure from the Distributary as her personal realm. At one point, Prince Uldren Sov brought Mara a baby Ahamkara named Riven; whose assistance was proven essential in the City's construction with its wish-magic. The Dreaming City was built by Mara Sov and Techneun Illyn, the Coven Mother; this artificial world was nothing but bare rocks when they started.",
       "metadata": {
-        "fandom_url": "https://destiny.fandom.com/wiki/The_Dreaming_City",
-        "fandom_title": "The Dreaming City",
+        "fandom_url": "https://destiny.fandom.com/wiki/Dreaming_City",
+        "fandom_title": "Dreaming City",
         "source_fandom": "destiny.fandom.com",
         "sources": [
           "wikipedia",
@@ -577,12 +577,12 @@
         "fandom_preferred_image": true
       },
       "short_description": "The Dreaming City is a location featured in Destiny 2: Forsaken. The area serves as a major endgame destination and features a raid in the city's core. It is located within The Reef and is accessible after completing…",
-      "image_url": "https://static.wikia.nocookie.net/destinypedia/images/9/95/The_Dreaming_City.png/revision/latest/scale-to-width-down/360?cb=20250225005452",
-      "image_source": "https://destiny.fandom.com/wiki/The_Dreaming_City",
+      "image_url": "https://static.wikia.nocookie.net/destinypedia/images/d/d1/D2-DreamingCity2.jpg/revision/latest/scale-to-width-down/360?cb=20180816201956",
+      "image_source": "https://destiny.fandom.com/wiki/Dreaming_City",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bungie (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for The Dreaming City"
+      "image_alt": "Identification thumbnail for Dreaming City"
     },
     {
       "slug": "ikora-rey",
@@ -637,28 +637,29 @@
       "image_usage": "fair_use_identification",
       "image_alt": "Identification thumbnail for Oryx",
       "metadata": {
-        "fandom_url": "https://destiny.fandom.com/wiki/Oryx,_the_Taken_King",
-        "fandom_title": "Oryx, the Taken King",
+        "fandom_url": "https://destiny.fandom.com/wiki/Oryx",
+        "fandom_title": "Oryx",
         "source_fandom": "destiny.fandom.com",
         "sources": [
           "wikipedia",
           "fandom"
-        ]
+        ],
+        "fandom_preferred_image": true
       }
     },
     {
       "slug": "dreadnaught",
-      "description": "The Dreadnaught is a story mission in Destiny. It takes place on the Dreadnaught and is the third mission in the quest The Taken King.\n\nFade in to a view of the Dreadnaught in Saturn's rings. Piloting Eris Morn's ship, the Guardian heads toward the Dreadnaught, navigating through debris of destroyed Hive and Awoken ships.\n\nThe camera cuts to the inside of the ship. The Guardian and Ghost look at each other.\n\nThe body of a dead Awoken soldier floats into view.",
+      "description": "The Dreadnaught is Oryx's ship and fortress and a destination in the Destiny expansion The Taken King.\n\nAfter killing the Worm god Akka, Oryx fashioned the remains of the Worm's body as the base for the Dreadnaught.\n\nOryx used the Dreadnaught to travel to the Solar System after learning that the Guardians of Earth had killed his son, Crota. Upon arrival, he positioned the ship in the rings of Saturn, and promptly wiped out the defending Awoken fleet with the ship's weapon.\n\nAs a result of Oryx's assault on their base on Mars' moon, Phobos, the Cabal sent their own infiltration unit, the Skyburners, to assault the ship, seeking vengeance. The Skyburners rammed their ship, Dantalion Exodus VI, into the Dreadnaught, and managed to breach the hull. Following the crash, Primus Ta'aun attempted to find and confront Oryx, only to be Taken before getting the chance. From there, Valus Mau'ual and Valus Tlu'urn attempted to overload the Dreadnaught's reactor, but were stopped by a team of Guardians, as the resulting explosion would have likely destroyed the entire solar system.",
       "short_description": "The Dreadnaught is Oryx's ship and fortress and a destination in the Destiny expansion The Taken King.",
-      "image_url": "https://static.wikia.nocookie.net/destinypedia/images/8/83/TTK-Story-C.png/revision/latest/scale-to-width-down/360?cb=20150620182457",
-      "image_source": "https://destiny.fandom.com/wiki/The_Dreadnaught",
+      "image_url": "https://static.wikia.nocookie.net/destinypedia/images/f/f2/Dreadnaught3.jpg/revision/latest/scale-to-width-down/360?cb=20160825103851",
+      "image_source": "https://destiny.fandom.com/wiki/Dreadnaught",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bungie (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for The Dreadnaught",
+      "image_alt": "Identification thumbnail for Dreadnaught",
       "metadata": {
-        "fandom_url": "https://destiny.fandom.com/wiki/The_Dreadnaught",
-        "fandom_title": "The Dreadnaught",
+        "fandom_url": "https://destiny.fandom.com/wiki/Dreadnaught",
+        "fandom_title": "Dreadnaught",
         "source_fandom": "destiny.fandom.com",
         "sources": [
           "wikipedia",
@@ -1061,7 +1062,8 @@
         "source_fandom": "destiny.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -1083,7 +1085,8 @@
         "source_fandom": "destiny.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -1111,7 +1114,8 @@
         "source_fandom": "destiny.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -1139,7 +1143,8 @@
         "source_fandom": "destiny.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -1161,7 +1166,8 @@
         "source_fandom": "destiny.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -1189,7 +1195,8 @@
         "source_fandom": "destiny.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -1211,7 +1218,8 @@
         "source_fandom": "destiny.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -1233,7 +1241,8 @@
         "source_fandom": "destiny.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -1255,7 +1264,8 @@
         "source_fandom": "destiny.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -1283,7 +1293,8 @@
         "source_fandom": "destiny.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -1305,7 +1316,8 @@
         "source_fandom": "destiny.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -1333,7 +1345,8 @@
         "source_fandom": "destiny.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "character"
       }
     },
     {
@@ -22121,11 +22134,11 @@
     "images_attached": 1,
     "core_enrichments": 26,
     "preserved_fandom": 0,
-    "fandom_titles": 671,
-    "fandom_enriched_core": 41,
-    "fandom_created": 628,
-    "fandom_images": 392,
-    "fandom_intros": 645,
+    "fandom_titles": 31,
+    "fandom_enriched_core": 20,
+    "fandom_created": 0,
+    "fandom_images": 23,
+    "fandom_intros": 31,
     "image_backfill_at": "2026-09-11T16:30:02.557Z",
     "image_backfill_count": 32
   }

@@ -1,8 +1,10 @@
 ﻿import React, { useEffect, useMemo, useState } from "react";
 import "./App.css";
+import "./logoBackdrop.css";
 import "./musicSubjectThemes.css";
 import "./tabletopCardThemes.css";
 import "./expansionSubjectThemes.css";
+import "./sportsSubjectThemes.css";
 import { categoryTheme } from "./categoryThemes";
 import { connectionLoreBlurb } from "./connectionLore";
 import { entityTypeLabel } from "./entityTypeLabel";
@@ -14,6 +16,149 @@ import {
 } from "./staticData";
 import { siteOrigin, useDocumentSeo } from "./useDocumentSeo";
 
+const LOGO_BACKDROP_CACHE = new Map();
+
+function normalizeLogoBackdrop(value) {
+    const raw = String(value || "").trim().toLowerCase();
+    if (raw === "light" || raw === "white" || raw === "on-dark") {
+        return "light";
+    }
+    if (raw === "dark" || raw === "black" || raw === "on-light") {
+        return "dark";
+    }
+    return null;
+}
+
+function sampleLogoBackdrop(img) {
+    try {
+        const width = Math.min(96, img.naturalWidth || 96);
+        const height = Math.min(96, img.naturalHeight || 96);
+        if (width < 2 || height < 2) {
+            return null;
+        }
+
+        const canvas = document.createElement("canvas");
+        canvas.width = width;
+        canvas.height = height;
+        const ctx = canvas.getContext("2d", { willReadFrequently: true });
+        if (!ctx) {
+            return null;
+        }
+
+        ctx.clearRect(0, 0, width, height);
+        ctx.drawImage(img, 0, 0, width, height);
+        const { data } = ctx.getImageData(0, 0, width, height);
+
+        let opaque = 0;
+        let lumaSum = 0;
+
+        for (let i = 0; i < data.length; i += 4) {
+            const alpha = data[i + 3];
+            if (alpha < 96) {
+                continue;
+            }
+            const r = data[i];
+            const g = data[i + 1];
+            const b = data[i + 2];
+            // Relative luminance for opaque ink.
+            lumaSum += 0.2126 * r + 0.7152 * g + 0.0722 * b;
+            opaque += 1;
+        }
+
+        if (opaque < 24) {
+            return null;
+        }
+
+        const mean = lumaSum / opaque;
+        // Dark ink on alpha → white plate; light/white ink → black plate.
+        return mean < 145 ? "light" : "dark";
+    } catch {
+        // Cross-origin / tainted canvas — leave unset.
+        return null;
+    }
+}
+
+function LogoMark({
+    logo,
+    alt,
+    className = "",
+    imgClassName = "",
+    loading = "lazy",
+    onError,
+    as: Tag = "div",
+    children = null
+}) {
+    const explicit = normalizeLogoBackdrop(
+        logo?.backdrop || logo?.background || logo?.on
+    );
+    const [backdrop, setBackdrop] = useState(
+        () =>
+            explicit ||
+            (logo?.url ? LOGO_BACKDROP_CACHE.get(logo.url) || null : null)
+    );
+
+    useEffect(() => {
+        setBackdrop(
+            explicit ||
+                (logo?.url ? LOGO_BACKDROP_CACHE.get(logo.url) || null : null)
+        );
+    }, [explicit, logo?.url]);
+
+    useEffect(() => {
+        if (explicit || !logo?.url || LOGO_BACKDROP_CACHE.has(logo.url)) {
+            return undefined;
+        }
+
+        let cancelled = false;
+        const probe = new Image();
+        probe.decoding = "async";
+        probe.referrerPolicy = "no-referrer";
+        probe.crossOrigin = "anonymous";
+        probe.onload = () => {
+            if (cancelled) {
+                return;
+            }
+            const detected = sampleLogoBackdrop(probe);
+            if (!detected) {
+                return;
+            }
+            LOGO_BACKDROP_CACHE.set(logo.url, detected);
+            setBackdrop(detected);
+        };
+        probe.onerror = () => {
+            // Non-CORS hosts still show via the visible <img>; plate stays default.
+        };
+        probe.src = logo.url;
+
+        return () => {
+            cancelled = true;
+        };
+    }, [explicit, logo?.url]);
+
+    if (!logo?.url) {
+        return null;
+    }
+
+    const backdropClass = backdrop ? `logo-backdrop-${backdrop}` : "";
+
+    return (
+        <Tag
+            className={[className, "logo-mark", backdropClass]
+                .filter(Boolean)
+                .join(" ")}
+        >
+            <img
+                className={imgClassName || undefined}
+                src={logo.url}
+                alt={alt || logo.alt || ""}
+                loading={loading}
+                referrerPolicy="no-referrer"
+                onError={onError}
+            />
+            {children}
+        </Tag>
+    );
+}
 const FALLBACK_CATEGORIES = [
     {
         id: "anime",
@@ -169,7 +314,33 @@ const FALLBACK_CATEGORIES = [
     {
         id: "sports",
         label: "Sports",
-        blurb: "Leagues, dynasties, and ritual competition with lasting fan lore."
+        blurb: "Leagues, tournaments, and ritual competition — browse by sport.",
+        genres: [
+            {
+                id: "basketball",
+                label: "Basketball",
+                blurb: "Court leagues and tournaments.",
+                subjectIds: [
+                    "nba",
+                    "wnba",
+                    "ncaa-mens-basketball",
+                    "euroleague",
+                    "fiba-basketball-world-cup"
+                ]
+            },
+            {
+                id: "soccer",
+                label: "Soccer",
+                blurb: "Association football cups and leagues.",
+                subjectIds: [
+                    "fifa-world-cup",
+                    "uefa-champions-league",
+                    "premier-league",
+                    "la-liga",
+                    "mls"
+                ]
+            }
+        ]
     },
     {
         id: "horror",
@@ -269,7 +440,15 @@ function hideBrokenImage(event) {
         return;
     }
 
-    const logoWrap = image.closest(".subject-card-logo, .subject-brand, .subject-hero-mark");
+    const brandLink = image.closest(".subject-brand-link");
+    if (brandLink) {
+        brandLink.style.display = "none";
+        return;
+    }
+
+    const logoWrap = image.closest(
+        ".subject-card-logo, .subject-brand, .subject-hero-mark, .logo-mark"
+    );
     if (logoWrap) {
         logoWrap.style.display = "none";
         return;
@@ -502,7 +681,7 @@ function SiteHeader({ navigate, brand = null }) {
 
                 {brand?.logo?.url ? (
                     <a
-                        className="subject-brand"
+                        className="subject-brand-link"
                         href={brand.path || `/${brand.id}`}
                         title={brand.name}
                         onClick={(event) => {
@@ -515,14 +694,16 @@ function SiteHeader({ navigate, brand = null }) {
                             );
                         }}
                     >
-                        <img
-                            src={brand.logo.url}
+                        <LogoMark
+                            className="subject-brand"
+                            logo={brand.logo}
                             alt={brand.logo.alt || brand.name}
-                            loading="lazy"
-                            referrerPolicy="no-referrer"
                             onError={hideBrokenImage}
-                        />
-                        <span className="subject-brand-name">{brand.name}</span>
+                        >
+                            <span className="subject-brand-name">
+                                {brand.name}
+                            </span>
+                        </LogoMark>
                     </a>
                 ) : null}
             </div>
@@ -862,29 +1043,33 @@ function useSubjectsCatalog() {
     return { subjects, categories, loading };
 }
 
-function SubjectCard({ subject, navigate }) {
+function SubjectCard({ subject, navigate, categoryId }) {
+    const hubPath =
+        categoryId && subject.categoryPaths?.[categoryId]
+            ? subject.categoryPaths[categoryId]
+            : null;
+    const href = hubPath || subject.path;
+    const slug = String(href || subject.slug || subject.id).replace(/^\//, "");
+
     return (
         <a
             className={`connection subject-card theme-preview-${subject.theme || subject.id}`}
-            href={subject.path}
+            href={href}
             onClick={(event) => {
                 event.preventDefault();
                 navigate({
                     type: "page",
-                    slug: subject.slug || subject.id
+                    slug
                 });
             }}
         >
             {subject.logo?.url ? (
-                <div className="subject-card-logo">
-                    <img
-                        src={subject.logo.url}
-                        alt={subject.logo.alt || `${subject.name} logo`}
-                        loading="lazy"
-                        referrerPolicy="no-referrer"
-                        onError={hideBrokenImage}
-                    />
-                </div>
+                <LogoMark
+                    className="subject-card-logo"
+                    logo={subject.logo}
+                    alt={subject.logo.alt || `${subject.name} logo`}
+                    onError={hideBrokenImage}
+                />
             ) : null}
             <span className="connection-type">Subject</span>
             <h3>{subject.name}</h3>
@@ -967,21 +1152,17 @@ function Home({ navigate }) {
                                                 {collageSubjects.length > 0 ? (
                                                     collageSubjects.map(
                                                         (subject) => (
-                                                            <div
-                                                                className="category-collage-cell"
+                                                            <LogoMark
                                                                 key={subject.id}
-                                                            >
-                                                                <img
-                                                                    src={
-                                                                        subject
-                                                                            .logo
-                                                                            .url
-                                                                    }
-                                                                    alt=""
-                                                                    loading="lazy"
-                                                                    referrerPolicy="no-referrer"
-                                    onError={hideBrokenImage} />
-                                                            </div>
+                                                                className="category-collage-cell"
+                                                                logo={
+                                                                    subject.logo
+                                                                }
+                                                                alt=""
+                                                                onError={
+                                                                    hideBrokenImage
+                                                                }
+                                                            />
                                                         )
                                                     )
                                                 ) : (
@@ -1156,6 +1337,7 @@ function CategoryPage({ categoryId, navigate }) {
                                                 key={subject.id}
                                                 subject={subject}
                                                 navigate={navigate}
+                                                categoryId={section.id}
                                             />
                                         ))}
                                     </div>
@@ -1180,6 +1362,7 @@ function CategoryPage({ categoryId, navigate }) {
                                         key={subject.id}
                                         subject={subject}
                                         navigate={navigate}
+                                        categoryId={section.id}
                                     />
                                 ))}
                         </div>
@@ -1534,18 +1717,17 @@ function App() {
 
                 <section className="hero">
                     {brand?.logo?.url && isSubjectRoot ? (
-                        <figure className="subject-hero-mark">
-                            <img
-                                src={brand.logo.url}
-                                alt={brand.logo.alt || brand.name}
-                                loading="lazy"
-                                referrerPolicy="no-referrer"
-                                onError={hideBrokenImage}
-                            />
+                        <LogoMark
+                            as="figure"
+                            className="subject-hero-mark"
+                            logo={brand.logo}
+                            alt={brand.logo.alt || brand.name}
+                            onError={hideBrokenImage}
+                        >
                             {brand.logo.credit ? (
                                 <figcaption>{brand.logo.credit}</figcaption>
                             ) : null}
-                        </figure>
+                        </LogoMark>
                     ) : null}
 
                     <IpInfobox

@@ -2101,8 +2101,8 @@
     },
     {
       "slug": "librarian",
-      "description": "Librarians are those who work in a library. The biggest library known is the White Tower Library and as such, most known librarians are Aes Sedai, specifically of the Brown Ajah as they are dedicated to the preservation of knowledge and history. Other major libraries include the Royal Library of Cairhien, the Royal Palace Library in the palace in Caemlyn, and the Terhana Library in Bandar Eban.",
-      "short_description": "Librarians are those who work in a library. The biggest library known is the White Tower Library and as such, most known librarians are Aes Sedai, specifically of the Brown Ajah as they are dedicated to the preservation…"
+      "description": "A librarian is a person who professionally works with information management. The professional duties of librarians encompass a wide range of activities, including the provision of access to information, the conduct of research, the creation and management of information systems, the creation, leadership, and evaluation of educational programs, and the provision of instruction on information literacy to users.\n\nThe role of the librarian has evolved significantly over time, particularly in the past century, which has witnessed the emergence of numerous media and technologies. From the earliest libraries in the ancient world to the modern information hub, there have been individuals responsible for the maintenance and dissemination of information stored in data repositories. The roles and responsibilities of librarians vary considerably based on factors such as the nature of the library, the librarian's area of expertise, and the functions essential for the maintenance of collections and their accessibility to users.\n\nEducation for librarianship has undergone a transformation over time, adapting to the evolution of its roles and responsibilities.",
+      "short_description": "A librarian is a person who professionally works with information management. The professional duties of librarians encompass a wide range of activities, including the provision of access to information, the conduct of…"
     },
     {
       "slug": "lideine-rajan",
@@ -8590,7 +8590,7 @@
       "slug": "librarian",
       "name": "Librarian",
       "type": "person",
-      "description": "Librarians are those who work in a library. The biggest library known is the White Tower Library and as such, most known librarians are Aes Sedai, specifically of the Brown Ajah as they are dedicated to the preservation of knowledge and history. Other major libraries include the Royal Library of Cairhien, the Royal Palace Library in the palace in Caemlyn, and the Terhana Library in Bandar Eban.",
+      "description": "A librarian is a person who professionally works with information management. The professional duties of librarians encompass a wide range of activities, including the provision of access to information, the conduct of research, the creation and management of information systems, the creation, leadership, and evaluation of educational programs, and the provision of instruction on information literacy to users.\n\nThe role of the librarian has evolved significantly over time, particularly in the past century, which has witnessed the emergence of numerous media and technologies. From the earliest libraries in the ancient world to the modern information hub, there have been individuals responsible for the maintenance and dissemination of information stored in data repositories. The roles and responsibilities of librarians vary considerably based on factors such as the nature of the library, the librarian's area of expertise, and the functions essential for the maintenance of collections and their accessibility to users.\n\nEducation for librarianship has undergone a transformation over time, adapting to the evolution of its roles and responsibilities.",
       "evidence": "fiction",
       "parentSlug": "aes-sedai",
       "wikipedia_url": null,
@@ -8612,7 +8612,7 @@
           "fandom"
         ]
       },
-      "short_description": "Librarians are those who work in a library. The biggest library known is the White Tower Library and as such, most known librarians are Aes Sedai, specifically of the Brown Ajah as they are dedicated to the preservation…"
+      "short_description": "A librarian is a person who professionally works with information management. The professional duties of librarians encompass a wide range of activities, including the provision of access to information, the conduct of…"
     },
     {
       "slug": "llana",
@@ -16977,7 +16977,7 @@
     "fandom_intros": 12,
     "image_backfill_at": "2026-09-11T12:38:49.602Z",
     "image_backfill_count": 1,
-    "description_backfill_at": "2026-09-11T12:52:39.675Z",
-    "description_backfill_count": 461
+    "description_backfill_at": "2026-09-11T22:22:17.940Z",
+    "description_backfill_count": 1
   }
 }

@@ -126,6 +126,9 @@ async function seedSubject(subject, options = {}) {
         throw new Error("Subject requires id and rootSlug.");
     }
 
+    const { applyFormatHubs } = require("./applyFormatHubs");
+    subject = applyFormatHubs(subject);
+
     let entities = dedupeEntities(subject.entities || []);
 
     // Every seed fills thin/stub blurbs with multi-paragraph wiki leads
@@ -268,9 +271,28 @@ async function seedSubject(subject, options = {}) {
 
         // Assign URL parents after all IDs exist.
         for (const item of entities) {
+            if (item.slug === subject.rootSlug) {
+                await client.query(
+                    `
+                    UPDATE entities
+                    SET url_parent_id = NULL,
+                        updated_at = NOW()
+                    WHERE id = $1
+                    `,
+                    [entityIds[item.slug]]
+                );
+                continue;
+            }
+
             const parentId = item.parentSlug
                 ? entityIds[item.parentSlug] || null
                 : null;
+
+            // Never clear an existing parent when the declared parentSlug
+            // is missing from this seed batch (avoids flattening hubs).
+            if (item.parentSlug && !parentId) {
+                continue;
+            }
 
             await client.query(
                 `

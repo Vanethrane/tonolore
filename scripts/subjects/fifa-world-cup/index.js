@@ -1,5 +1,5 @@
 /**
- * FIFA World Cup — Sports subject package.
+ * FIFA World Cup — Soccer subject package.
  */
 
 const path = require("path");
@@ -17,6 +17,7 @@ module.exports = mergeSubjectPackage({
         rootSlug: "fifa-world-cup",
         theme: "fifa-world-cup",
         categories: ["sports"],
+        sportsSport: "soccer",
         copyright: {
             title: "FIFA World Cup is not owned by Ton-o-Lore.",
             body:

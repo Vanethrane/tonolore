@@ -76,6 +76,13 @@ a {
     min-width: 0;
 }
 
+.subject-brand-link {
+    display: inline-flex;
+    min-width: 0;
+    text-decoration: none;
+    color: inherit;
+}
+
 .subject-brand {
     display: inline-flex;
     align-items: center;
@@ -85,6 +92,16 @@ a {
     background: rgba(0, 0, 0, 0.22);
     max-width: min(240px, 42vw);
     min-width: 0;
+}
+
+.subject-brand.logo-backdrop-light {
+    background: #ffffff;
+    border-color: rgba(255, 255, 255, 0.35);
+}
+
+.subject-brand.logo-backdrop-dark {
+    background: #0a0a0a;
+    border-color: rgba(255, 255, 255, 0.18);
 }
 
 .subject-brand img {
@@ -197,6 +214,19 @@ a {
 .subject-hero-mark {
     margin: 0 0 18px;
     max-width: min(340px, 70vw);
+    padding: 14px 16px;
+    background: rgba(0, 0, 0, 0.22);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.subject-hero-mark.logo-backdrop-light {
+    background: #ffffff;
+    border-color: rgba(15, 15, 15, 0.12);
+}
+
+.subject-hero-mark.logo-backdrop-dark {
+    background: #0a0a0a;
+    border-color: rgba(255, 255, 255, 0.16);
 }
 
 .subject-hero-mark img {
@@ -206,6 +236,10 @@ a {
     max-height: 88px;
     object-fit: contain;
     filter: drop-shadow(0 8px 24px rgba(0, 0, 0, 0.35));
+}
+
+.subject-hero-mark.logo-backdrop-light img {
+    filter: none;
 }
 
 .subject-hero-mark figcaption {

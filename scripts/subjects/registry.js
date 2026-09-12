@@ -15,6 +15,12 @@ const {
     boardGameSubjectIds
 } = require("./tabletopCardCatalog");
 const { expansionSubjectIds } = require("./expansionCatalog");
+const { sportsSubjectIds } = require("./sportsCatalog");
+const {
+    categoryPathsForSubject,
+    formatHubSummaries
+} = require("./formatHubs");
+const { applyFormatHubs } = require("../lib/applyFormatHubs");
 
 const SUBJECT_IDS = [
     "one-piece",
@@ -65,26 +71,34 @@ const SUBJECT_IDS = [
     ...musicSubjectIds(),
     ...newCardGameSubjectIds(),
     ...boardGameSubjectIds(),
+    ...sportsSubjectIds(),
     ...expansionSubjectIds()
 ];
 
 function loadSubject(id) {
     // eslint-disable-next-line import/no-dynamic-require, global-require
-    return require(path.join(__dirname, id));
+    const subject = require(path.join(__dirname, id));
+    return applyFormatHubs(subject);
 }
 
 function listSubjectMeta() {
     return SUBJECT_IDS.map((id) => {
         const subject = loadSubject(id);
+        const rootSlug = subject.rootSlug || id;
         return {
             id: subject.id,
             name: subject.name,
-            rootSlug: subject.rootSlug,
+            rootSlug,
             theme: subject.theme || subject.id,
             copyright: subject.copyright || null,
             logo: subject.logo || SUBJECT_LOGOS[id] || null,
             categories: categoriesForSubject(id, subject.categories),
-            musicGenre: subject.musicGenre || null
+            musicGenre: subject.musicGenre || null,
+            sportsSport: subject.sportsSport || null,
+            categoryPaths:
+                subject.categoryPaths ||
+                categoryPathsForSubject(id, rootSlug),
+            formatHubs: subject.formatHubs || formatHubSummaries(id, rootSlug)
         };
     });
 }

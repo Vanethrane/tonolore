@@ -1,0 +1,24 @@
+{
+  "enrichments": [],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 360,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (pathfinderwiki.com) for identification and commentary only. Character / franchise art © Paizo Inc. (as applicable). Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-12T17:17:49.587Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://pathfinderwiki.com/wiki/",
+    "host": "pathfinderwiki.com"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

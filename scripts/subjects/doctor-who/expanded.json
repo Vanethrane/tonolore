@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T15:30:44.559Z",
+  "generated_at": "2026-09-12T04:31:43.948Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -685,7 +685,7 @@
       "slug": "alien",
       "name": "Alien",
       "type": "organization",
-      "description": "In a possible future for the Eighth Doctor, (PROSE: ) an alien race of \"monsters\" was responsible for killing nearly every Time Lord on Gallifrey, but they were defeated by the Ninth Doctor and the Master. The Master's final physical body was destroyed in the process. (PROSE: )",
+      "description": "Alien was a broad, subjective term. It could be applied as a noun or an adjective for any entity, object, place or practice which was not familiar. In one sense, it meant someone not from one's nation or locality. But more typically it was a synonym for extraterrestrials, or that which was \"alien to humans\". The Doctor, for instance, often admitted that they were an \"alien\" to their new human companions. (TV: Rose, The Runaway Bride, The Bells of Saint John, The Woman Who Fell to Earth)\n\nTo some, the term was offensive; they sensitively referrer to it as the \"a-word\". (COMIC: )\n\nHowever, the word was equally applicable to humans, from the perspective of extraterrestrials. As Melanie Bush once pointed out to an English cabbie suddenly brought into the presence of extraterrestrials, \"We're all aliens to each other.\" (AUDIO: Unregenerate!) The Time Lords labelled Leela an alien when she visited Gallifrey. The Fourth Doctor, posing to fool the Vardans, ordered that she be banished from the Capitol for being alien. (TV: The Invasion of Time) Romana I once used the label \"Earth alien\" in reference to the natives of Earth. (TV: The Ribos Operation)\n\nThe term was trickier to apply to non-human Earth sapients. For instance, the Third Doctor referred to the Silurians as alien beings even after he discovered they had ruled the planet Earth millions of years before. (TV: Doctor Who and the Silurians) However, the Eleventh Doctor later stated that they were not aliens but rather \"Earth...liens\". (TV: The Hungry Earth)",
       "short_description": "Alien was a broad, subjective term. It could be applied as a noun or an adjective for any entity, object, place or practice which was not familiar. In one sense, it meant someone not from one's nation or locality. But…",
       "evidence": "fiction",
       "parentSlug": "doctor-who",
@@ -701,12 +701,13 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://tardis.fandom.com/wiki/Alien_(Doctor_Who_-_The_Ninth_Doctor)",
-        "fandom_title": "Alien (Doctor Who - The Ninth Doctor)",
+        "fandom_url": "https://tardis.fandom.com/wiki/Alien",
+        "fandom_title": "Alien",
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "faction"
       }
     },
     {
@@ -728,7 +729,8 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "faction"
       }
     },
     {
@@ -750,7 +752,8 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "faction"
       }
     },
     {
@@ -778,7 +781,8 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "faction"
       }
     },
     {
@@ -800,7 +804,8 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "faction"
       }
     },
     {
@@ -822,7 +827,8 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "faction"
       }
     },
     {
@@ -844,7 +850,8 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "faction"
       }
     },
     {
@@ -866,7 +873,8 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "faction"
       }
     },
     {
@@ -888,7 +896,8 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "faction"
       }
     },
     {
@@ -916,7 +925,8 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "faction"
       }
     },
     {
@@ -938,7 +948,8 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "faction"
       }
     },
     {
@@ -960,7 +971,8 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "faction"
       }
     },
     {
@@ -988,7 +1000,8 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "faction"
       }
     },
     {
@@ -3800,8 +3813,8 @@
     {
       "slug": "chiroptera",
       "name": "Chiroptera",
-      "type": "place",
-      "description": "Chiroptera was a planet inhabited by Chiropterans. (AUDIO: The Widow's Assassin)",
+      "type": "organization",
+      "description": "The Chiroptera were a species resembling giant bats which guarded Hellmouth.\n\nThe Chiroptera resembled giant bats. They had dog-like teeth with vampire fangs capable of ripping open Dalekanium. They could fire psionic energy from their blood-red eyes to turn ships to dust.\n\nThe Chiroptera guarded the Hellmouth Wormhole, believed to lead to Nosfera II, home of the ancient Vampire Gods and their Vampire Weapon-Worlds. The Daleks travelled to the wormhole to see if the legends were true. The Dalek Fleet were ordered to fly through the Hellmouth, conquer Nosfera II and take control of the mythical Vampire Weapon-Worlds. As the fleet prepared to enter the wormhole, a hundred thousand Chiroptera came shrieking out. They tore the fleet to pieces, ripping open the Dalek casings and consuming the Kaled mutants within. The Daleks were soon reduced to dust, though legend says their screams could still be heard echoing through the Astral Fog. (PROSE: Bats Out of Hell!)",
       "short_description": "The Chiroptera were a species resembling giant bats which guarded Hellmouth.",
       "evidence": "fiction",
       "parentSlug": "doctor-who",
@@ -3811,12 +3824,13 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://tardis.fandom.com/wiki/Chiroptera_(planet)",
-        "fandom_title": "Chiroptera (planet)",
+        "fandom_url": "https://tardis.fandom.com/wiki/Chiroptera",
+        "fandom_title": "Chiroptera",
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "faction"
       }
     },
     {
@@ -7973,7 +7987,7 @@
       "slug": "harpy",
       "name": "Harpy",
       "type": "organization",
-      "description": "Harpies, informally known as Blazes, were a species that tried to invade planets so they could feed. They originated from the Detritus Belt around the Infernal Moon of Bravo 11 Zebra. (COMIC: The Warkeeper's Crown)\n\nThey were able to switch between their real forms and a human form. In their real forms, they were significantly larger than humans, had red skin, and wings which enabled them to fly. (COMIC: The Warkeeper's Crown)\n\nA group of four Harpies, in the disguise of nursemaids on the Slough of the Disunited Planets, tried to use the Warkeeper's Crown to control the Hawk army and win wars. They killed the original Warkeeper and replaced him with Michael Yates. They transported themselves to Upper Wardleswick on Earth, where Yates declared he would invade France. They were defeated by the Tenth Doctor and the Brigadier. (COMIC: The Warkeeper's Crown)\n\nCategory:Shapeshifters Category:Predators Category:Humanoid species Category:Species with red skin Category:Avian species Category:Species",
+      "description": "Harpies were bird-like creatures mentioned twice by Auteur in his cursed Abecedarium, firstly under the letter H where they were described as \"preening and squawking\" up and down the Interdimensional Black Market's \"twisted lane\" and then under the letter I where the Black Market was stated to be their \"bazaar domain\". (PROSE: )\n\nIris Wildthyme once pondered as to whether she was an archetype, a siren, a witch, a harpy, a femme fatale, or even a Valkyrie from Nordic myth. (AUDIO: Iris Wildthyme Speaks...!)\n\nMehendri Solon once referred to the Sisterhood of Karn as a \"squalid brood of harpies\". (PROSE: Mehendri Solon)",
       "short_description": "Harpies were bird-like creatures mentioned twice by Auteur in his cursed Abecedarium, firstly under the letter H where they were described as \"preening and squawking\" up and down the Interdimensional Black Market's…",
       "evidence": "fiction",
       "parentSlug": "doctor-who",
@@ -7983,12 +7997,13 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://tardis.fandom.com/wiki/Harpy_(The_Warkeeper%27s_Crown)",
-        "fandom_title": "Harpy (The Warkeeper's Crown)",
+        "fandom_url": "https://tardis.fandom.com/wiki/Harpy",
+        "fandom_title": "Harpy",
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "faction"
       },
       "image_url": "https://static.wikia.nocookie.net/tardis/images/a/a2/Harpies.jpg/revision/latest/scale-to-width-down/360?cb=20161125093232",
       "image_source": "https://tardis.fandom.com/wiki/Harpy_(The_Warkeeper%27s_Crown)",
@@ -11895,7 +11910,7 @@
       "slug": "antalin",
       "name": "Antalin",
       "type": "place",
-      "description": "Antalin's ocean world, more often referred to as simply Antalin, was a planet covered entirely in water, with no islands, continents, or any land masses. There seemed to be no native civilisations, but marine life included fish.\n\nThe planet was discovered and hastily surveyed 50 years prior to c.4000, located in human space but close to the Daleks' border. At some point, most likely c.4000, the Daleks built a drilling rig on Antalin to gain new supplies for their war efforts, but the rig was destroyed by Space Security Service agent Dryn Faber. (PROSE: War of the Daleks)\n\nCategory:Planets Category:Aquatic planets Category:Uninhabited planets",
+      "description": "Antalin was a planet which served as a decoy for Skaro.\n\nDuring the 2150s Dalek invasion of Earth, the Daleks discovered records which showed that Skaro had been destroyed during the Imperial-Renegade Dalek Civil War. The Seventh Doctor apparently had destroyed Skaro using the Hand of Omega. (PROSE: War of the Daleks)\n\nAfter an unsuccessful attempt to change history, the Daleks realised that history could not be altered and Skaro would have to appear to be destroyed.\n\nTo fool Davros and the Doctor into thinking Skaro had been destroyed, the Daleks terraformed Antalin to resemble Skaro. Davros was moved from Skaro to Antalin and placed inside a replica of the Kaled bunker. The Daleks also created a race of robots called the Movellans and manufactured a war with them, before reviving Davros. It was Antalin which served as the location for the Doctor and Romana's encounter with the Daleks and which was destroyed by the Hand of Omega. (PROSE: War of the Daleks)",
       "short_description": "Antalin was a planet which served as a decoy for Skaro.",
       "evidence": "fiction",
       "parentSlug": "doctor-who",
@@ -11905,12 +11920,13 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://tardis.fandom.com/wiki/Antalin_(ocean_world)",
-        "fandom_title": "Antalin (ocean world)",
+        "fandom_url": "https://tardis.fandom.com/wiki/Antalin",
+        "fandom_title": "Antalin",
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ]
+        ],
+        "kind": "location"
       }
     },
     {
@@ -25385,11 +25401,11 @@
     "images_attached": 0,
     "core_enrichments": 2,
     "preserved_fandom": 0,
-    "fandom_titles": 831,
-    "fandom_enriched_core": 32,
-    "fandom_created": 795,
-    "fandom_images": 171,
-    "fandom_intros": 829,
+    "fandom_titles": 15,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 3,
+    "fandom_intros": 15,
     "image_backfill_at": "2026-09-11T16:30:04.754Z",
     "image_backfill_count": 31
   }

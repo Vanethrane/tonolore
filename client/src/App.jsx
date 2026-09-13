@@ -441,6 +441,16 @@ const FALLBACK_CATEGORIES = [
         id: "culinary",
         label: "Food & drink",
         blurb: "Cuisines, staples, and drink cultures with geographic and craft lore."
+    },
+    {
+        id: "transport",
+        label: "Transport & machines",
+        blurb: "Vehicles, routes, and the people who moved the modern world — cars, planes, rails, and their long tails."
+    },
+    {
+        id: "built-environment",
+        label: "Built environment",
+        blurb: "Buildings, ruins, and abandoned sites — architecture with owners, scandals, and afterlives."
     }
 ];
 

@@ -5,24 +5,24 @@
 const entities = [
     {
         "slug": "dinosaurs",
-        "name": "Dinosaurs",
+        "name": "Dinosaurs & prehistoric life",
         "type": "topic",
-        "short_description": "Clades, formations, and discoveries that keep rewriting deep-time life.",
-        "description": "Clades, formations, and discoveries that keep rewriting deep-time life. This Ton-o-Lore subject maps people, places, events, and ideas tied to Dinosaurs so readers can follow long-tail connections across science & nature."
+        "short_description": "Species, fossils, formations, eras, discoveries, scientists, anatomy, and the deep-time map of prehistoric life.",
+        "description": "Species, fossils, formations, eras, discoveries, scientists, anatomy, and the deep-time map of prehistoric life. This Ton-o-Lore subject maps people, places, events, and ideas tied to dinosaurs and prehistoric life so readers can follow long-tail connections across science & nature."
     },
     {
         "slug": "dinosaurs-figures",
-        "name": "Dinosaurs figures",
+        "name": "Dinosaurs & prehistoric life figures",
         "type": "topic",
-        "short_description": "People, characters, and named forces central to Dinosaurs.",
-        "description": "A working index of the figures — historical, fictional, or legendary — that readers meet first when exploring Dinosaurs."
+        "short_description": "People, characters, and named forces central to Dinosaurs & prehistoric life.",
+        "description": "A working index of the figures — historical, fictional, or legendary — that readers meet first when exploring Dinosaurs & prehistoric life."
     },
     {
         "slug": "dinosaurs-world",
-        "name": "Dinosaurs world & context",
+        "name": "Dinosaurs & prehistoric life world & context",
         "type": "topic",
-        "short_description": "Places, eras, and structures that frame Dinosaurs.",
-        "description": "Geography, institutions, and periodization that give Dinosaurs its encyclopedia shape."
+        "short_description": "Places, eras, and structures that frame Dinosaurs & prehistoric life.",
+        "description": "Geography, institutions, and periodization that give Dinosaurs & prehistoric life its encyclopedia shape."
     },
     {
         "slug": "dinosaurs-places",

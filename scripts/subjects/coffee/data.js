@@ -5,24 +5,24 @@
 const entities = [
     {
         "slug": "coffee",
-        "name": "Coffee",
+        "name": "Coffee history & culture",
         "type": "topic",
-        "short_description": "Beans, brewing traditions, and café cultures from origin to specialty.",
-        "description": "Beans, brewing traditions, and café cultures from origin to specialty. This Ton-o-Lore subject maps people, places, events, and ideas tied to Coffee so readers can follow long-tail connections across food & drink."
+        "short_description": "Origins, regions, varieties, companies, cafés, inventions, and the personalities who shaped coffee culture.",
+        "description": "Origins, regions, varieties, companies, cafés, inventions, and the personalities who shaped coffee culture. This Ton-o-Lore subject maps people, places, events, and ideas tied to coffee history so readers can follow long-tail connections across food & drink."
     },
     {
         "slug": "coffee-figures",
-        "name": "Coffee figures",
+        "name": "Coffee history & culture figures",
         "type": "topic",
-        "short_description": "People, characters, and named forces central to Coffee.",
-        "description": "A working index of the figures — historical, fictional, or legendary — that readers meet first when exploring Coffee."
+        "short_description": "People, characters, and named forces central to Coffee history & culture.",
+        "description": "A working index of the figures — historical, fictional, or legendary — that readers meet first when exploring Coffee history & culture."
     },
     {
         "slug": "coffee-world",
-        "name": "Coffee world & context",
+        "name": "Coffee history & culture world & context",
         "type": "topic",
-        "short_description": "Places, eras, and structures that frame Coffee.",
-        "description": "Geography, institutions, and periodization that give Coffee its encyclopedia shape."
+        "short_description": "Places, eras, and structures that frame Coffee history & culture.",
+        "description": "Geography, institutions, and periodization that give Coffee history & culture its encyclopedia shape."
     },
     {
         "slug": "coffee-places",

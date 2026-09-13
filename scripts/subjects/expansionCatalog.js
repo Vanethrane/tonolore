@@ -30,6 +30,13 @@ const EXPANSION_CATEGORIES = [
                 rights: "Public-domain traditions / respective modern rights holders",
                 accent: "#e0a020",
                 blurb: "Netjeru, afterlife courts, and Nile cosmology that keep returning in fiction and ritual study."
+            },
+            {
+                id: "world-mythology",
+                name: "World mythology",
+                rights: "Public-domain traditions / respective modern rights holders",
+                accent: "#c9a227",
+                blurb: "Gods, creatures, heroes, myths, symbols, sacred places, and genealogies across global myth systems."
             }
         ]
     },
@@ -115,6 +122,20 @@ const EXPANSION_CATEGORIES = [
                 rights: "Public-domain historical record / respective modern rights holders",
                 accent: "#c9a05a",
                 blurb: "Overland and maritime corridors that moved goods, faiths, and stories across Eurasia."
+            },
+            {
+                id: "native-american-history",
+                name: "Native American history & nations",
+                rights: "Public historical record / respective nations, tribes, and rights holders",
+                accent: "#8a5a2a",
+                blurb: "Nations, leaders, languages, wars, treaties, homelands, and living traditions across Indigenous North America."
+            },
+            {
+                id: "historical-clothing",
+                name: "Historical clothing",
+                rights: "Public historical and material-culture record / respective museums and rights holders",
+                accent: "#a07050",
+                blurb: "Garments, cultures, periods, classes, materials, and the symbolism stitched into dress across eras."
             }
         ]
     },
@@ -249,10 +270,10 @@ const EXPANSION_CATEGORIES = [
             },
             {
                 id: "dinosaurs",
-                name: "Dinosaurs",
+                name: "Dinosaurs & prehistoric life",
                 rights: "Public-domain paleontology / respective museums and rights holders",
                 accent: "#6a8a3a",
-                blurb: "Clades, formations, and discoveries that keep rewriting deep-time life."
+                blurb: "Species, fossils, formations, eras, discoveries, scientists, anatomy, and the deep-time map of prehistoric life."
             },
             {
                 id: "oceanography",
@@ -441,6 +462,20 @@ const EXPANSION_CATEGORIES = [
                 rights: "Public-domain folklore traditions / respective modern rights holders",
                 accent: "#8a6a4a",
                 blurb: "Regional monsters, cautionary tales, origin variants, and cultural connections across oral tradition."
+            },
+            {
+                id: "folk-monsters",
+                name: "Folk monsters",
+                rights: "Public-domain folklore traditions / respective modern rights holders",
+                accent: "#5a6a3a",
+                blurb: "Regional creatures, sightings, local names, folklore variants, and the oral maps that keep monsters alive."
+            },
+            {
+                id: "medieval-monsters-bestiaries",
+                name: "Medieval monsters & bestiaries",
+                rights: "Public-domain manuscripts and traditions / respective museums and rights holders",
+                accent: "#6a4a2a",
+                blurb: "Bestiary beasts, manuscripts, moral symbolism, legends, and the sources that taught medieval readers their monsters."
             }
         ]
     },
@@ -534,6 +569,20 @@ const EXPANSION_CATEGORIES = [
                 rights: "Public historical and nautical record / respective modern rights holders",
                 accent: "#2a5a7a",
                 blurb: "Lost vessels, cargoes, survivors, salvage races, and the underwater sites that keep pulling researchers back."
+            },
+            {
+                id: "lighthouses",
+                name: "Lighthouses",
+                rights: "Public historical and maritime record / respective agencies and rights holders",
+                accent: "#d4a017",
+                blurb: "Individual lights, keepers, shipwrecks nearby, construction feats, and the coastal histories each tower anchors."
+            },
+            {
+                id: "ghost-ships",
+                name: "Ghost ships",
+                rights: "Public historical and maritime record / respective modern rights holders",
+                accent: "#3a5a6a",
+                blurb: "Abandoned or vanished vessels, crews, voyages, sightings, theories, and the discoveries that reopen cold cases at sea."
             }
         ]
     },
@@ -592,6 +641,13 @@ const EXPANSION_CATEGORIES = [
                 rights: "Public historical and technical record / respective governments and rights holders",
                 accent: "#8a9a40",
                 blurb: "Programs, scientists, tests, delivery systems, crises, and the deterrence graph of the atomic age."
+            },
+            {
+                id: "ancient-weaponry",
+                name: "Ancient weapons",
+                rights: "Public historical and archaeological record / respective museums and rights holders",
+                accent: "#8a6a40",
+                blurb: "Individual weapons, cultures, battles, metallurgy, finds, and the makers who forged pre-modern arms."
             }
         ]
     },
@@ -643,6 +699,20 @@ const EXPANSION_CATEGORIES = [
                 rights: "Public historical record / respective Crown and rights holders",
                 accent: "#1a3a6a",
                 blurb: "Sovereigns, consorts, succession crises, palaces, and the long continuity of the British crown."
+            },
+            {
+                id: "heraldry",
+                name: "Heraldry & coats of arms",
+                rights: "Public historical heraldic record / respective colleges and rights holders",
+                accent: "#b8860b",
+                blurb: "Families, charges, kingdoms, knights, tinctures, and the genealogies encoded in coats of arms."
+            },
+            {
+                id: "famous-bloodlines",
+                name: "Genealogy & famous bloodlines",
+                rights: "Public historical and genealogical record / respective houses and rights holders",
+                accent: "#8a5a2a",
+                blurb: "Families, marriages, descendants, monarchs, and the political alliances drawn through bloodlines."
             }
         ]
     },
@@ -691,10 +761,10 @@ const EXPANSION_CATEGORIES = [
         subjects: [
             {
                 id: "coffee",
-                name: "Coffee",
+                name: "Coffee history & culture",
                 rights: "Public agricultural and trade history / respective brands and rights holders",
                 accent: "#6f4e37",
-                blurb: "Beans, brewing traditions, and café cultures from origin to specialty."
+                blurb: "Origins, regions, varieties, companies, cafés, inventions, and the personalities who shaped coffee culture."
             },
             {
                 id: "sushi",
@@ -709,6 +779,78 @@ const EXPANSION_CATEGORIES = [
                 rights: "Public viticultural tradition / respective estates and rights holders",
                 accent: "#722f37",
                 blurb: "Terroir, appellations, and tasting cultures that organize wine as living geography."
+            },
+            {
+                id: "ancient-food",
+                name: "Ancient food & culinary history",
+                rights: "Public historical and archaeological record / respective museums and rights holders",
+                accent: "#c4783a",
+                blurb: "Dishes, ingredients, origins, civilizations, recipes, and the trade routes that moved taste across antiquity."
+            },
+            {
+                id: "spices-trade",
+                name: "Spices & trade",
+                rights: "Public historical and trade record / respective modern rights holders",
+                accent: "#c45a2c",
+                blurb: "Cinnamon and beyond — spice routes, empires, merchants, wars, and the geography of flavor."
+            },
+            {
+                id: "alcohol-history",
+                name: "Alcohol history",
+                rights: "Public historical and trade record / respective brands and rights holders",
+                accent: "#8a4a2a",
+                blurb: "Drinks, distilleries, breweries, regions, prohibition eras, inventions, and the people who made them."
+            }
+        ]
+    },
+    {
+        id: "transport",
+        label: "Transport & machines",
+        blurb: "Vehicles, routes, and the people who moved the modern world — cars, planes, rails, and their long tails.",
+        accent: "#4a6a8a",
+        subjects: [
+            {
+                id: "cars-automotive-history",
+                name: "Cars & automotive history",
+                rights: "Public industrial history / respective manufacturers and rights holders",
+                accent: "#c45a2c",
+                blurb: "Models, engines, designers, races, companies, owners, failures, and the innovations that remade mobility."
+            },
+            {
+                id: "aviation-history",
+                name: "Aviation history",
+                rights: "Public aviation history / respective manufacturers, agencies, and rights holders",
+                accent: "#3a6a9a",
+                blurb: "Aircraft, pilots, manufacturers, crashes, wars, records, airports, and the inventions that conquered the sky."
+            },
+            {
+                id: "railroad-history",
+                name: "Railroad history",
+                rights: "Public railroad history / respective companies and rights holders",
+                accent: "#5a4a3a",
+                blurb: "Railroads, locomotives, towns, engineers, robber barons, disasters, and the routes that stitched continents."
+            }
+        ]
+    },
+    {
+        id: "built-environment",
+        label: "Built environment",
+        blurb: "Buildings, ruins, and abandoned sites — architecture with owners, scandals, and afterlives.",
+        accent: "#7a6a5a",
+        subjects: [
+            {
+                id: "famous-buildings",
+                name: "Famous buildings",
+                rights: "Public architectural history / respective owners, estates, and rights holders",
+                accent: "#8a7a60",
+                blurb: "Architects, owners, construction, scandals, events, renovations, and the lives of landmark structures."
+            },
+            {
+                id: "abandoned-places",
+                name: "Abandoned places",
+                rights: "Public historical record / respective owners and rights holders",
+                accent: "#6a5a4a",
+                blurb: "Individual sites, prior owners, disasters, photographs, legends, and the histories that emptied them."
             }
         ]
     }

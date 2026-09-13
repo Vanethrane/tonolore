@@ -337,6 +337,45 @@ const CATEGORY_FILLERS = {
             accent: "#6f4e37",
             blurb: "Cacao origins, confectionery houses, and the sweet commodity that links Mesoamerica to global dessert lore."
         }
+    ],
+    transport: [
+        {
+            id: "motorcycle-history",
+            name: "Motorcycle history",
+            rights: "Public industrial history / respective manufacturers and rights holders",
+            accent: "#8a2a2a",
+            blurb: "Makes, racers, clubs, innovations, and the two-wheel culture that paralleled the automobile age."
+        },
+        {
+            id: "steamship-history",
+            name: "Steamship history",
+            rights: "Public maritime and industrial history / respective companies and rights holders",
+            accent: "#3a5a6a",
+            blurb: "Ocean liners, packet ships, companies, routes, disasters, and the steam age that remade long-distance travel."
+        }
+    ],
+    "built-environment": [
+        {
+            id: "skyscrapers",
+            name: "Skyscrapers",
+            rights: "Public architectural history / respective owners and rights holders",
+            accent: "#5a6a7a",
+            blurb: "Towers, architects, cities, height races, engineering feats, and the skyline lore of vertical cities."
+        },
+        {
+            id: "bridges-engineering",
+            name: "Bridges & civil engineering",
+            rights: "Public engineering history / respective agencies and rights holders",
+            accent: "#6a7a5a",
+            blurb: "Spans, engineers, failures, rebuilds, and the crossings that reorganized cities and trade."
+        },
+        {
+            id: "worlds-fairs",
+            name: "World's fairs & expositions",
+            rights: "Public historical record / respective organizers and rights holders",
+            accent: "#c9a227",
+            blurb: "Expositions, pavilions, inventions on display, cities remade for fairs, and the temporary architecture of spectacle."
+        }
     ]
 };
 

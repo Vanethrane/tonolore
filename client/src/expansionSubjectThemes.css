@@ -70,6 +70,29 @@
 .subject-card.theme-preview-egyptian-mythology .follow { color: #e0a020; }
 
 
+/* ---------- World mythology ---------- */
+.theme-world-mythology {
+    --accent: #c9a227;
+    --accent-soft: color-mix(in srgb, #c9a227 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #c9a227 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-world-mythology .hero h1 { color: #f2efe8; }
+.theme-world-mythology .eyebrow,
+.theme-world-mythology .connection-type { color: #c9a227; }
+.theme-world-mythology .follow,
+.theme-world-mythology .content a,
+.theme-world-mythology .entity-link { color: #c9a227; }
+.subject-card.theme-preview-world-mythology {
+    border-color: color-mix(in srgb, #c9a227 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #c9a227 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-world-mythology .connection-type,
+.subject-card.theme-preview-world-mythology .follow { color: #c9a227; }
+
+
 /* ---------- Celtic mythology ---------- */
 .theme-celtic-mythology {
     --accent: #3a7a4a;
@@ -91,29 +114,6 @@
 }
 .subject-card.theme-preview-celtic-mythology .connection-type,
 .subject-card.theme-preview-celtic-mythology .follow { color: #3a7a4a; }
-
-
-/* ---------- Hindu mythology ---------- */
-.theme-hindu-mythology {
-    --accent: #e07020;
-    --accent-soft: color-mix(in srgb, #e07020 18%, transparent);
-    --warm: #e0c878;
-    background:
-        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #e07020 22%, transparent), transparent 55%),
-        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
-}
-.theme-hindu-mythology .hero h1 { color: #f2efe8; }
-.theme-hindu-mythology .eyebrow,
-.theme-hindu-mythology .connection-type { color: #e07020; }
-.theme-hindu-mythology .follow,
-.theme-hindu-mythology .content a,
-.theme-hindu-mythology .entity-link { color: #e07020; }
-.subject-card.theme-preview-hindu-mythology {
-    border-color: color-mix(in srgb, #e07020 42%, transparent);
-    background: linear-gradient(155deg, color-mix(in srgb, #e07020 12%, #121018), #0a0a0e);
-}
-.subject-card.theme-preview-hindu-mythology .connection-type,
-.subject-card.theme-preview-hindu-mythology .follow { color: #e07020; }
 
 
 /* ---------- Ancient Egypt ---------- */
@@ -367,6 +367,52 @@
 }
 .subject-card.theme-preview-silk-road .connection-type,
 .subject-card.theme-preview-silk-road .follow { color: #c9a05a; }
+
+
+/* ---------- Native American history & nations ---------- */
+.theme-native-american-history {
+    --accent: #8a5a2a;
+    --accent-soft: color-mix(in srgb, #8a5a2a 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #8a5a2a 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-native-american-history .hero h1 { color: #f2efe8; }
+.theme-native-american-history .eyebrow,
+.theme-native-american-history .connection-type { color: #8a5a2a; }
+.theme-native-american-history .follow,
+.theme-native-american-history .content a,
+.theme-native-american-history .entity-link { color: #8a5a2a; }
+.subject-card.theme-preview-native-american-history {
+    border-color: color-mix(in srgb, #8a5a2a 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #8a5a2a 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-native-american-history .connection-type,
+.subject-card.theme-preview-native-american-history .follow { color: #8a5a2a; }
+
+
+/* ---------- Historical clothing ---------- */
+.theme-historical-clothing {
+    --accent: #a07050;
+    --accent-soft: color-mix(in srgb, #a07050 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #a07050 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-historical-clothing .hero h1 { color: #f2efe8; }
+.theme-historical-clothing .eyebrow,
+.theme-historical-clothing .connection-type { color: #a07050; }
+.theme-historical-clothing .follow,
+.theme-historical-clothing .content a,
+.theme-historical-clothing .entity-link { color: #a07050; }
+.subject-card.theme-preview-historical-clothing {
+    border-color: color-mix(in srgb, #a07050 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #a07050 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-historical-clothing .connection-type,
+.subject-card.theme-preview-historical-clothing .follow { color: #a07050; }
 
 
 /* ---------- Halloween ---------- */
@@ -852,7 +898,7 @@
 .subject-card.theme-preview-nasa .follow { color: #0b3d91; }
 
 
-/* ---------- Dinosaurs ---------- */
+/* ---------- Dinosaurs & prehistoric life ---------- */
 .theme-dinosaurs {
     --accent: #6a8a3a;
     --accent-soft: color-mix(in srgb, #6a8a3a 18%, transparent);
@@ -1611,27 +1657,50 @@
 .subject-card.theme-preview-folklore-urban-legends .follow { color: #8a6a4a; }
 
 
-/* ---------- Beowulf ---------- */
-.theme-beowulf {
-    --accent: #5a6a4a;
-    --accent-soft: color-mix(in srgb, #5a6a4a 18%, transparent);
+/* ---------- Folk monsters ---------- */
+.theme-folk-monsters {
+    --accent: #5a6a3a;
+    --accent-soft: color-mix(in srgb, #5a6a3a 18%, transparent);
     --warm: #e0c878;
     background:
-        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #5a6a4a 22%, transparent), transparent 55%),
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #5a6a3a 22%, transparent), transparent 55%),
         linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
 }
-.theme-beowulf .hero h1 { color: #f2efe8; }
-.theme-beowulf .eyebrow,
-.theme-beowulf .connection-type { color: #5a6a4a; }
-.theme-beowulf .follow,
-.theme-beowulf .content a,
-.theme-beowulf .entity-link { color: #5a6a4a; }
-.subject-card.theme-preview-beowulf {
-    border-color: color-mix(in srgb, #5a6a4a 42%, transparent);
-    background: linear-gradient(155deg, color-mix(in srgb, #5a6a4a 12%, #121018), #0a0a0e);
+.theme-folk-monsters .hero h1 { color: #f2efe8; }
+.theme-folk-monsters .eyebrow,
+.theme-folk-monsters .connection-type { color: #5a6a3a; }
+.theme-folk-monsters .follow,
+.theme-folk-monsters .content a,
+.theme-folk-monsters .entity-link { color: #5a6a3a; }
+.subject-card.theme-preview-folk-monsters {
+    border-color: color-mix(in srgb, #5a6a3a 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #5a6a3a 12%, #121018), #0a0a0e);
 }
-.subject-card.theme-preview-beowulf .connection-type,
-.subject-card.theme-preview-beowulf .follow { color: #5a6a4a; }
+.subject-card.theme-preview-folk-monsters .connection-type,
+.subject-card.theme-preview-folk-monsters .follow { color: #5a6a3a; }
+
+
+/* ---------- Medieval monsters & bestiaries ---------- */
+.theme-medieval-monsters-bestiaries {
+    --accent: #6a4a2a;
+    --accent-soft: color-mix(in srgb, #6a4a2a 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #6a4a2a 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-medieval-monsters-bestiaries .hero h1 { color: #f2efe8; }
+.theme-medieval-monsters-bestiaries .eyebrow,
+.theme-medieval-monsters-bestiaries .connection-type { color: #6a4a2a; }
+.theme-medieval-monsters-bestiaries .follow,
+.theme-medieval-monsters-bestiaries .content a,
+.theme-medieval-monsters-bestiaries .entity-link { color: #6a4a2a; }
+.subject-card.theme-preview-medieval-monsters-bestiaries {
+    border-color: color-mix(in srgb, #6a4a2a 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #6a4a2a 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-medieval-monsters-bestiaries .connection-type,
+.subject-card.theme-preview-medieval-monsters-bestiaries .follow { color: #6a4a2a; }
 
 
 /* ---------- Cryptids ---------- */
@@ -1887,27 +1956,50 @@
 .subject-card.theme-preview-famous-shipwrecks .follow { color: #2a5a7a; }
 
 
-/* ---------- Whaling history ---------- */
-.theme-whaling-history {
-    --accent: #2a5a6a;
-    --accent-soft: color-mix(in srgb, #2a5a6a 18%, transparent);
+/* ---------- Lighthouses ---------- */
+.theme-lighthouses {
+    --accent: #d4a017;
+    --accent-soft: color-mix(in srgb, #d4a017 18%, transparent);
     --warm: #e0c878;
     background:
-        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #2a5a6a 22%, transparent), transparent 55%),
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #d4a017 22%, transparent), transparent 55%),
         linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
 }
-.theme-whaling-history .hero h1 { color: #f2efe8; }
-.theme-whaling-history .eyebrow,
-.theme-whaling-history .connection-type { color: #2a5a6a; }
-.theme-whaling-history .follow,
-.theme-whaling-history .content a,
-.theme-whaling-history .entity-link { color: #2a5a6a; }
-.subject-card.theme-preview-whaling-history {
-    border-color: color-mix(in srgb, #2a5a6a 42%, transparent);
-    background: linear-gradient(155deg, color-mix(in srgb, #2a5a6a 12%, #121018), #0a0a0e);
+.theme-lighthouses .hero h1 { color: #f2efe8; }
+.theme-lighthouses .eyebrow,
+.theme-lighthouses .connection-type { color: #d4a017; }
+.theme-lighthouses .follow,
+.theme-lighthouses .content a,
+.theme-lighthouses .entity-link { color: #d4a017; }
+.subject-card.theme-preview-lighthouses {
+    border-color: color-mix(in srgb, #d4a017 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #d4a017 12%, #121018), #0a0a0e);
 }
-.subject-card.theme-preview-whaling-history .connection-type,
-.subject-card.theme-preview-whaling-history .follow { color: #2a5a6a; }
+.subject-card.theme-preview-lighthouses .connection-type,
+.subject-card.theme-preview-lighthouses .follow { color: #d4a017; }
+
+
+/* ---------- Ghost ships ---------- */
+.theme-ghost-ships {
+    --accent: #3a5a6a;
+    --accent-soft: color-mix(in srgb, #3a5a6a 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #3a5a6a 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-ghost-ships .hero h1 { color: #f2efe8; }
+.theme-ghost-ships .eyebrow,
+.theme-ghost-ships .connection-type { color: #3a5a6a; }
+.theme-ghost-ships .follow,
+.theme-ghost-ships .content a,
+.theme-ghost-ships .entity-link { color: #3a5a6a; }
+.subject-card.theme-preview-ghost-ships {
+    border-color: color-mix(in srgb, #3a5a6a 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #3a5a6a 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-ghost-ships .connection-type,
+.subject-card.theme-preview-ghost-ships .follow { color: #3a5a6a; }
 
 
 /* ---------- The Mafia ---------- */
@@ -2094,6 +2186,29 @@
 .subject-card.theme-preview-nuclear-weapons-history .follow { color: #8a9a40; }
 
 
+/* ---------- Ancient weapons ---------- */
+.theme-ancient-weaponry {
+    --accent: #8a6a40;
+    --accent-soft: color-mix(in srgb, #8a6a40 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #8a6a40 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-ancient-weaponry .hero h1 { color: #f2efe8; }
+.theme-ancient-weaponry .eyebrow,
+.theme-ancient-weaponry .connection-type { color: #8a6a40; }
+.theme-ancient-weaponry .follow,
+.theme-ancient-weaponry .content a,
+.theme-ancient-weaponry .entity-link { color: #8a6a40; }
+.subject-card.theme-preview-ancient-weaponry {
+    border-color: color-mix(in srgb, #8a6a40 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #8a6a40 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-ancient-weaponry .connection-type,
+.subject-card.theme-preview-ancient-weaponry .follow { color: #8a6a40; }
+
+
 /* ---------- Napoleonic Wars ---------- */
 .theme-napoleonic-wars {
     --accent: #5a6a48;
@@ -2115,29 +2230,6 @@
 }
 .subject-card.theme-preview-napoleonic-wars .connection-type,
 .subject-card.theme-preview-napoleonic-wars .follow { color: #5a6a48; }
-
-
-/* ---------- Vietnam War ---------- */
-.theme-vietnam-war {
-    --accent: #4a5a3a;
-    --accent-soft: color-mix(in srgb, #4a5a3a 18%, transparent);
-    --warm: #e0c878;
-    background:
-        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #4a5a3a 22%, transparent), transparent 55%),
-        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
-}
-.theme-vietnam-war .hero h1 { color: #f2efe8; }
-.theme-vietnam-war .eyebrow,
-.theme-vietnam-war .connection-type { color: #4a5a3a; }
-.theme-vietnam-war .follow,
-.theme-vietnam-war .content a,
-.theme-vietnam-war .entity-link { color: #4a5a3a; }
-.subject-card.theme-preview-vietnam-war {
-    border-color: color-mix(in srgb, #4a5a3a 42%, transparent);
-    background: linear-gradient(155deg, color-mix(in srgb, #4a5a3a 12%, #121018), #0a0a0e);
-}
-.subject-card.theme-preview-vietnam-war .connection-type,
-.subject-card.theme-preview-vietnam-war .follow { color: #4a5a3a; }
 
 
 /* ---------- Alchemy & occultism ---------- */
@@ -2301,6 +2393,52 @@
 .subject-card.theme-preview-british-monarchy .follow { color: #1a3a6a; }
 
 
+/* ---------- Heraldry & coats of arms ---------- */
+.theme-heraldry {
+    --accent: #b8860b;
+    --accent-soft: color-mix(in srgb, #b8860b 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #b8860b 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-heraldry .hero h1 { color: #f2efe8; }
+.theme-heraldry .eyebrow,
+.theme-heraldry .connection-type { color: #b8860b; }
+.theme-heraldry .follow,
+.theme-heraldry .content a,
+.theme-heraldry .entity-link { color: #b8860b; }
+.subject-card.theme-preview-heraldry {
+    border-color: color-mix(in srgb, #b8860b 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #b8860b 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-heraldry .connection-type,
+.subject-card.theme-preview-heraldry .follow { color: #b8860b; }
+
+
+/* ---------- Genealogy & famous bloodlines ---------- */
+.theme-famous-bloodlines {
+    --accent: #8a5a2a;
+    --accent-soft: color-mix(in srgb, #8a5a2a 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #8a5a2a 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-famous-bloodlines .hero h1 { color: #f2efe8; }
+.theme-famous-bloodlines .eyebrow,
+.theme-famous-bloodlines .connection-type { color: #8a5a2a; }
+.theme-famous-bloodlines .follow,
+.theme-famous-bloodlines .content a,
+.theme-famous-bloodlines .entity-link { color: #8a5a2a; }
+.subject-card.theme-preview-famous-bloodlines {
+    border-color: color-mix(in srgb, #8a5a2a 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #8a5a2a 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-famous-bloodlines .connection-type,
+.subject-card.theme-preview-famous-bloodlines .follow { color: #8a5a2a; }
+
+
 /* ---------- French monarchy ---------- */
 .theme-french-monarchy {
     --accent: #1a3a8a;
@@ -2322,52 +2460,6 @@
 }
 .subject-card.theme-preview-french-monarchy .connection-type,
 .subject-card.theme-preview-french-monarchy .follow { color: #1a3a8a; }
-
-
-/* ---------- Russian Romanovs ---------- */
-.theme-russian-romanovs {
-    --accent: #8b1a1a;
-    --accent-soft: color-mix(in srgb, #8b1a1a 18%, transparent);
-    --warm: #e0c878;
-    background:
-        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #8b1a1a 22%, transparent), transparent 55%),
-        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
-}
-.theme-russian-romanovs .hero h1 { color: #f2efe8; }
-.theme-russian-romanovs .eyebrow,
-.theme-russian-romanovs .connection-type { color: #8b1a1a; }
-.theme-russian-romanovs .follow,
-.theme-russian-romanovs .content a,
-.theme-russian-romanovs .entity-link { color: #8b1a1a; }
-.subject-card.theme-preview-russian-romanovs {
-    border-color: color-mix(in srgb, #8b1a1a 42%, transparent);
-    background: linear-gradient(155deg, color-mix(in srgb, #8b1a1a 12%, #121018), #0a0a0e);
-}
-.subject-card.theme-preview-russian-romanovs .connection-type,
-.subject-card.theme-preview-russian-romanovs .follow { color: #8b1a1a; }
-
-
-/* ---------- Japanese imperial house ---------- */
-.theme-japanese-imperial-house {
-    --accent: #c43030;
-    --accent-soft: color-mix(in srgb, #c43030 18%, transparent);
-    --warm: #e0c878;
-    background:
-        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #c43030 22%, transparent), transparent 55%),
-        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
-}
-.theme-japanese-imperial-house .hero h1 { color: #f2efe8; }
-.theme-japanese-imperial-house .eyebrow,
-.theme-japanese-imperial-house .connection-type { color: #c43030; }
-.theme-japanese-imperial-house .follow,
-.theme-japanese-imperial-house .content a,
-.theme-japanese-imperial-house .entity-link { color: #c43030; }
-.subject-card.theme-preview-japanese-imperial-house {
-    border-color: color-mix(in srgb, #c43030 42%, transparent);
-    background: linear-gradient(155deg, color-mix(in srgb, #c43030 12%, #121018), #0a0a0e);
-}
-.subject-card.theme-preview-japanese-imperial-house .connection-type,
-.subject-card.theme-preview-japanese-imperial-house .follow { color: #c43030; }
 
 
 /* ---------- Religious history ---------- */
@@ -2600,7 +2692,7 @@
 .subject-card.theme-preview-hurricane-katrina .follow { color: #1a5a7a; }
 
 
-/* ---------- Coffee ---------- */
+/* ---------- Coffee history & culture ---------- */
 .theme-coffee {
     --accent: #6f4e37;
     --accent-soft: color-mix(in srgb, #6f4e37 18%, transparent);
@@ -2669,47 +2761,300 @@
 .subject-card.theme-preview-wine .follow { color: #722f37; }
 
 
-/* ---------- Tea ---------- */
-.theme-tea {
-    --accent: #2d5a27;
-    --accent-soft: color-mix(in srgb, #2d5a27 18%, transparent);
+/* ---------- Ancient food & culinary history ---------- */
+.theme-ancient-food {
+    --accent: #c4783a;
+    --accent-soft: color-mix(in srgb, #c4783a 18%, transparent);
     --warm: #e0c878;
     background:
-        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #2d5a27 22%, transparent), transparent 55%),
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #c4783a 22%, transparent), transparent 55%),
         linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
 }
-.theme-tea .hero h1 { color: #f2efe8; }
-.theme-tea .eyebrow,
-.theme-tea .connection-type { color: #2d5a27; }
-.theme-tea .follow,
-.theme-tea .content a,
-.theme-tea .entity-link { color: #2d5a27; }
-.subject-card.theme-preview-tea {
-    border-color: color-mix(in srgb, #2d5a27 42%, transparent);
-    background: linear-gradient(155deg, color-mix(in srgb, #2d5a27 12%, #121018), #0a0a0e);
+.theme-ancient-food .hero h1 { color: #f2efe8; }
+.theme-ancient-food .eyebrow,
+.theme-ancient-food .connection-type { color: #c4783a; }
+.theme-ancient-food .follow,
+.theme-ancient-food .content a,
+.theme-ancient-food .entity-link { color: #c4783a; }
+.subject-card.theme-preview-ancient-food {
+    border-color: color-mix(in srgb, #c4783a 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #c4783a 12%, #121018), #0a0a0e);
 }
-.subject-card.theme-preview-tea .connection-type,
-.subject-card.theme-preview-tea .follow { color: #2d5a27; }
+.subject-card.theme-preview-ancient-food .connection-type,
+.subject-card.theme-preview-ancient-food .follow { color: #c4783a; }
 
 
-/* ---------- Chocolate ---------- */
-.theme-chocolate {
-    --accent: #6f4e37;
-    --accent-soft: color-mix(in srgb, #6f4e37 18%, transparent);
+/* ---------- Spices & trade ---------- */
+.theme-spices-trade {
+    --accent: #c45a2c;
+    --accent-soft: color-mix(in srgb, #c45a2c 18%, transparent);
     --warm: #e0c878;
     background:
-        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #6f4e37 22%, transparent), transparent 55%),
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #c45a2c 22%, transparent), transparent 55%),
         linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
 }
-.theme-chocolate .hero h1 { color: #f2efe8; }
-.theme-chocolate .eyebrow,
-.theme-chocolate .connection-type { color: #6f4e37; }
-.theme-chocolate .follow,
-.theme-chocolate .content a,
-.theme-chocolate .entity-link { color: #6f4e37; }
-.subject-card.theme-preview-chocolate {
-    border-color: color-mix(in srgb, #6f4e37 42%, transparent);
-    background: linear-gradient(155deg, color-mix(in srgb, #6f4e37 12%, #121018), #0a0a0e);
+.theme-spices-trade .hero h1 { color: #f2efe8; }
+.theme-spices-trade .eyebrow,
+.theme-spices-trade .connection-type { color: #c45a2c; }
+.theme-spices-trade .follow,
+.theme-spices-trade .content a,
+.theme-spices-trade .entity-link { color: #c45a2c; }
+.subject-card.theme-preview-spices-trade {
+    border-color: color-mix(in srgb, #c45a2c 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #c45a2c 12%, #121018), #0a0a0e);
 }
-.subject-card.theme-preview-chocolate .connection-type,
-.subject-card.theme-preview-chocolate .follow { color: #6f4e37; }
+.subject-card.theme-preview-spices-trade .connection-type,
+.subject-card.theme-preview-spices-trade .follow { color: #c45a2c; }
+
+
+/* ---------- Alcohol history ---------- */
+.theme-alcohol-history {
+    --accent: #8a4a2a;
+    --accent-soft: color-mix(in srgb, #8a4a2a 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #8a4a2a 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-alcohol-history .hero h1 { color: #f2efe8; }
+.theme-alcohol-history .eyebrow,
+.theme-alcohol-history .connection-type { color: #8a4a2a; }
+.theme-alcohol-history .follow,
+.theme-alcohol-history .content a,
+.theme-alcohol-history .entity-link { color: #8a4a2a; }
+.subject-card.theme-preview-alcohol-history {
+    border-color: color-mix(in srgb, #8a4a2a 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #8a4a2a 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-alcohol-history .connection-type,
+.subject-card.theme-preview-alcohol-history .follow { color: #8a4a2a; }
+
+
+/* ---------- Cars & automotive history ---------- */
+.theme-cars-automotive-history {
+    --accent: #c45a2c;
+    --accent-soft: color-mix(in srgb, #c45a2c 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #c45a2c 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-cars-automotive-history .hero h1 { color: #f2efe8; }
+.theme-cars-automotive-history .eyebrow,
+.theme-cars-automotive-history .connection-type { color: #c45a2c; }
+.theme-cars-automotive-history .follow,
+.theme-cars-automotive-history .content a,
+.theme-cars-automotive-history .entity-link { color: #c45a2c; }
+.subject-card.theme-preview-cars-automotive-history {
+    border-color: color-mix(in srgb, #c45a2c 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #c45a2c 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-cars-automotive-history .connection-type,
+.subject-card.theme-preview-cars-automotive-history .follow { color: #c45a2c; }
+
+
+/* ---------- Aviation history ---------- */
+.theme-aviation-history {
+    --accent: #3a6a9a;
+    --accent-soft: color-mix(in srgb, #3a6a9a 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #3a6a9a 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-aviation-history .hero h1 { color: #f2efe8; }
+.theme-aviation-history .eyebrow,
+.theme-aviation-history .connection-type { color: #3a6a9a; }
+.theme-aviation-history .follow,
+.theme-aviation-history .content a,
+.theme-aviation-history .entity-link { color: #3a6a9a; }
+.subject-card.theme-preview-aviation-history {
+    border-color: color-mix(in srgb, #3a6a9a 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #3a6a9a 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-aviation-history .connection-type,
+.subject-card.theme-preview-aviation-history .follow { color: #3a6a9a; }
+
+
+/* ---------- Railroad history ---------- */
+.theme-railroad-history {
+    --accent: #5a4a3a;
+    --accent-soft: color-mix(in srgb, #5a4a3a 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #5a4a3a 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-railroad-history .hero h1 { color: #f2efe8; }
+.theme-railroad-history .eyebrow,
+.theme-railroad-history .connection-type { color: #5a4a3a; }
+.theme-railroad-history .follow,
+.theme-railroad-history .content a,
+.theme-railroad-history .entity-link { color: #5a4a3a; }
+.subject-card.theme-preview-railroad-history {
+    border-color: color-mix(in srgb, #5a4a3a 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #5a4a3a 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-railroad-history .connection-type,
+.subject-card.theme-preview-railroad-history .follow { color: #5a4a3a; }
+
+
+/* ---------- Motorcycle history ---------- */
+.theme-motorcycle-history {
+    --accent: #8a2a2a;
+    --accent-soft: color-mix(in srgb, #8a2a2a 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #8a2a2a 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-motorcycle-history .hero h1 { color: #f2efe8; }
+.theme-motorcycle-history .eyebrow,
+.theme-motorcycle-history .connection-type { color: #8a2a2a; }
+.theme-motorcycle-history .follow,
+.theme-motorcycle-history .content a,
+.theme-motorcycle-history .entity-link { color: #8a2a2a; }
+.subject-card.theme-preview-motorcycle-history {
+    border-color: color-mix(in srgb, #8a2a2a 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #8a2a2a 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-motorcycle-history .connection-type,
+.subject-card.theme-preview-motorcycle-history .follow { color: #8a2a2a; }
+
+
+/* ---------- Steamship history ---------- */
+.theme-steamship-history {
+    --accent: #3a5a6a;
+    --accent-soft: color-mix(in srgb, #3a5a6a 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #3a5a6a 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-steamship-history .hero h1 { color: #f2efe8; }
+.theme-steamship-history .eyebrow,
+.theme-steamship-history .connection-type { color: #3a5a6a; }
+.theme-steamship-history .follow,
+.theme-steamship-history .content a,
+.theme-steamship-history .entity-link { color: #3a5a6a; }
+.subject-card.theme-preview-steamship-history {
+    border-color: color-mix(in srgb, #3a5a6a 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #3a5a6a 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-steamship-history .connection-type,
+.subject-card.theme-preview-steamship-history .follow { color: #3a5a6a; }
+
+
+/* ---------- Famous buildings ---------- */
+.theme-famous-buildings {
+    --accent: #8a7a60;
+    --accent-soft: color-mix(in srgb, #8a7a60 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #8a7a60 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-famous-buildings .hero h1 { color: #f2efe8; }
+.theme-famous-buildings .eyebrow,
+.theme-famous-buildings .connection-type { color: #8a7a60; }
+.theme-famous-buildings .follow,
+.theme-famous-buildings .content a,
+.theme-famous-buildings .entity-link { color: #8a7a60; }
+.subject-card.theme-preview-famous-buildings {
+    border-color: color-mix(in srgb, #8a7a60 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #8a7a60 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-famous-buildings .connection-type,
+.subject-card.theme-preview-famous-buildings .follow { color: #8a7a60; }
+
+
+/* ---------- Abandoned places ---------- */
+.theme-abandoned-places {
+    --accent: #6a5a4a;
+    --accent-soft: color-mix(in srgb, #6a5a4a 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #6a5a4a 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-abandoned-places .hero h1 { color: #f2efe8; }
+.theme-abandoned-places .eyebrow,
+.theme-abandoned-places .connection-type { color: #6a5a4a; }
+.theme-abandoned-places .follow,
+.theme-abandoned-places .content a,
+.theme-abandoned-places .entity-link { color: #6a5a4a; }
+.subject-card.theme-preview-abandoned-places {
+    border-color: color-mix(in srgb, #6a5a4a 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #6a5a4a 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-abandoned-places .connection-type,
+.subject-card.theme-preview-abandoned-places .follow { color: #6a5a4a; }
+
+
+/* ---------- Skyscrapers ---------- */
+.theme-skyscrapers {
+    --accent: #5a6a7a;
+    --accent-soft: color-mix(in srgb, #5a6a7a 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #5a6a7a 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-skyscrapers .hero h1 { color: #f2efe8; }
+.theme-skyscrapers .eyebrow,
+.theme-skyscrapers .connection-type { color: #5a6a7a; }
+.theme-skyscrapers .follow,
+.theme-skyscrapers .content a,
+.theme-skyscrapers .entity-link { color: #5a6a7a; }
+.subject-card.theme-preview-skyscrapers {
+    border-color: color-mix(in srgb, #5a6a7a 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #5a6a7a 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-skyscrapers .connection-type,
+.subject-card.theme-preview-skyscrapers .follow { color: #5a6a7a; }
+
+
+/* ---------- Bridges & civil engineering ---------- */
+.theme-bridges-engineering {
+    --accent: #6a7a5a;
+    --accent-soft: color-mix(in srgb, #6a7a5a 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #6a7a5a 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-bridges-engineering .hero h1 { color: #f2efe8; }
+.theme-bridges-engineering .eyebrow,
+.theme-bridges-engineering .connection-type { color: #6a7a5a; }
+.theme-bridges-engineering .follow,
+.theme-bridges-engineering .content a,
+.theme-bridges-engineering .entity-link { color: #6a7a5a; }
+.subject-card.theme-preview-bridges-engineering {
+    border-color: color-mix(in srgb, #6a7a5a 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #6a7a5a 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-bridges-engineering .connection-type,
+.subject-card.theme-preview-bridges-engineering .follow { color: #6a7a5a; }
+
+
+/* ---------- World's fairs & expositions ---------- */
+.theme-worlds-fairs {
+    --accent: #c9a227;
+    --accent-soft: color-mix(in srgb, #c9a227 18%, transparent);
+    --warm: #e0c878;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #c9a227 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-worlds-fairs .hero h1 { color: #f2efe8; }
+.theme-worlds-fairs .eyebrow,
+.theme-worlds-fairs .connection-type { color: #c9a227; }
+.theme-worlds-fairs .follow,
+.theme-worlds-fairs .content a,
+.theme-worlds-fairs .entity-link { color: #c9a227; }
+.subject-card.theme-preview-worlds-fairs {
+    border-color: color-mix(in srgb, #c9a227 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #c9a227 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-worlds-fairs .connection-type,
+.subject-card.theme-preview-worlds-fairs .follow { color: #c9a227; }

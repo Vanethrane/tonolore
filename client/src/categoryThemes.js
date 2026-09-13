@@ -196,6 +196,18 @@ export const CATEGORY_THEMES = {
         glow: "rgba(224, 112, 64, 0.26)",
         surface: "linear-gradient(155deg, rgba(28, 16, 12, 0.98), rgba(10, 8, 8, 0.98))"
     },
+    transport: {
+        accent: "#4a6a8a",
+        warm: "#c45a2c",
+        glow: "rgba(74, 106, 138, 0.28)",
+        surface: "linear-gradient(155deg, rgba(14, 18, 28, 0.98), rgba(8, 10, 12, 0.98))"
+    },
+    "built-environment": {
+        accent: "#7a6a5a",
+        warm: "#c9a227",
+        glow: "rgba(122, 106, 90, 0.26)",
+        surface: "linear-gradient(155deg, rgba(22, 18, 14, 0.98), rgba(10, 10, 10, 0.98))"
+    },
     other: {
         accent: "#3db8a0",
         warm: "#c9a227",

@@ -601,7 +601,7 @@
       "slug": "aint-she-sweet",
       "name": "Ain't She Sweet",
       "type": "work",
-      "description": ";Side one All performances by The Beatles featuring Tony Sheridan unless otherwise indicated\n\n;Side two All performances by The Swallows\n\nCategory:Albums Category:Pages that need to be rewritten",
+      "description": "Ain't She Sweet is a song on The Early Tapes of The Beatles and can also be heard on Anthology 1 , Disc 1, Track 11 and Anthology 3 , Disc 2, Track 19. Paul, Ringo, and George perfomed it with George on Ukulele, Paul singing, and Ringo playing lap drums for the Anthology documentary.\n\nThis song doesn't feature Sheridan, John Lennon singing lead vocal, its a staple of their 1961 stage act.\n\nCategory:The Beatles songs Category:Songs on Anthology 1 Category:Songs on Anthology 3 Category:Cover songs Category:Songs",
       "short_description": "Ain't She Sweet is a song on The Early Tapes of The Beatles and can also be heard on Anthology 1 , Disc 1, Track 11 and Anthology 3 , Disc 2, Track 19. Paul, Ringo, and George perfomed it with George on Ukulele, Paul…",
       "evidence": "fiction",
       "parentSlug": "the-beatles",
@@ -612,8 +612,8 @@
         "discovered": true,
         "source": "fandom",
         "kind": "work",
-        "fandom_url": "https://beatles.fandom.com/wiki/Ain%27t_She_Sweet_(album)",
-        "fandom_title": "Ain't She Sweet (album)",
+        "fandom_url": "https://beatles.fandom.com/wiki/Ain%27t_She_Sweet",
+        "fandom_title": "Ain't She Sweet",
         "source_fandom": "beatles.fandom.com",
         "sources": [
           "fandom"
@@ -1247,7 +1247,7 @@
       "slug": "bad-boy",
       "name": "Bad Boy",
       "type": "work",
-      "description": "Category:Albums Category:Solo Albums Category:Ringo Starr solo albums",
+      "description": "This song was first released in the U.S. on Beatles VI, on Side 1. It was recorded at Abbey Road Studios in England on May 10, 1965, which was also Larry Williams' 30th birthday. Along with Dizzy Miss Lizzy, it was recorded because Capitol needed more songs to fill out Beatles VI. While Dizzy Miss Lizzy ended up becoming the ending track for the Help! LP in the U.K., Bad Boy would remain unreleased until December 10, 1966, when it appeared on the compilation A Collection of Beatles Oldies. It also appears on the CD Past Masters Volume 1.\n\nCategory:The Beatles songs Category:Songs on Past Masters Category:Songs on The Beatles IV Category:Cover songs\n\nCategory:Songs on Mono Masters Category:Article stubs Category:Songs",
       "short_description": "This song was first released in the U.S. on Beatles VI, on Side 1. It was recorded at Abbey Road Studios in England on May 10, 1965, which was also Larry Williams' 30th birthday. Along with Dizzy Miss Lizzy, it was…",
       "evidence": "fiction",
       "parentSlug": "the-beatles",
@@ -1264,8 +1264,8 @@
         "discovered": true,
         "source": "fandom",
         "kind": "work",
-        "fandom_url": "https://beatles.fandom.com/wiki/Bad_Boy_(album)",
-        "fandom_title": "Bad Boy (album)",
+        "fandom_url": "https://beatles.fandom.com/wiki/Bad_Boy",
+        "fandom_title": "Bad Boy",
         "source_fandom": "beatles.fandom.com",
         "sources": [
           "fandom"
@@ -19344,18 +19344,18 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (beatles.fandom.com) for identification and commentary only. The Beatles marks © Apple Corps / respective rights holders. Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T17:36:09.551Z",
+  "generated_at": "2026-09-13T03:22:16.252Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://beatles.fandom.com/wiki/",
     "host": "beatles.fandom.com"
   },
   "stats": {
-    "fandom_titles": 45,
+    "fandom_titles": 1,
     "fandom_enriched_core": 1,
-    "fandom_created": 39,
-    "fandom_images": 39,
-    "fandom_intros": 45,
+    "fandom_created": 0,
+    "fandom_images": 1,
+    "fandom_intros": 1,
     "description_ensure_at": "2026-09-12T17:36:20.709Z",
     "description_ensure_count": 4
   }

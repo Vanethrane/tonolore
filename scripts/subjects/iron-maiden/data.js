@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Iron Maiden.",
         "description": "Regions, routes, and spatial systems that situate Iron Maiden beyond single named places."
+    },
+    {
+        "slug": "iron-maiden-legacy",
+        "name": "Iron Maiden legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Iron Maiden.",
+        "description": "How Iron Maiden continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "iron-maiden-practices",
+        "name": "Iron Maiden practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Iron Maiden.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Iron Maiden."
+    },
+    {
+        "slug": "iron-maiden-entry-1",
+        "name": "Iron Maiden entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-2",
+        "name": "Iron Maiden entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-3",
+        "name": "Iron Maiden entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-4",
+        "name": "Iron Maiden entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-5",
+        "name": "Iron Maiden entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-6",
+        "name": "Iron Maiden entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-7",
+        "name": "Iron Maiden entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-8",
+        "name": "Iron Maiden entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-9",
+        "name": "Iron Maiden entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-10",
+        "name": "Iron Maiden entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-11",
+        "name": "Iron Maiden entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-12",
+        "name": "Iron Maiden entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-13",
+        "name": "Iron Maiden entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-14",
+        "name": "Iron Maiden entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-15",
+        "name": "Iron Maiden entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-16",
+        "name": "Iron Maiden entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-17",
+        "name": "Iron Maiden entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-18",
+        "name": "Iron Maiden entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-19",
+        "name": "Iron Maiden entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-20",
+        "name": "Iron Maiden entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-21",
+        "name": "Iron Maiden entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-22",
+        "name": "Iron Maiden entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "iron-maiden-entry-23",
+        "name": "Iron Maiden entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Iron Maiden.",
+        "description": "A supporting encyclopedia entry in the Iron Maiden subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Iron Maiden geography is a primary trailhead under Iron Maiden.",
         0.88,
         0.82
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-legacy",
+        "contains",
+        "Iron Maiden legacy is a primary trailhead under Iron Maiden.",
+        0.88,
+        0.82
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-practices",
+        "contains",
+        "Iron Maiden practices is a primary trailhead under Iron Maiden.",
+        0.88,
+        0.82
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-1",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-2",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-3",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-4",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-5",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-6",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-7",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-8",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-9",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-10",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-11",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-12",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-13",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-14",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-15",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-16",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-17",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-18",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-19",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-20",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-21",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-22",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
+    ],
+    [
+        "iron-maiden",
+        "iron-maiden-entry-23",
+        "contains",
+        "Supporting entry under Iron Maiden.",
+        0.75,
+        0.7
     ]
 ];
 

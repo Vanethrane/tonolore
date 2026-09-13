@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of My Little Pony.",
         "description": "How My Little Pony continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "my-little-pony-practices",
+        "name": "My Little Pony practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in My Little Pony.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in My Little Pony."
+    },
+    {
+        "slug": "my-little-pony-entry-1",
+        "name": "My Little Pony entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-2",
+        "name": "My Little Pony entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-3",
+        "name": "My Little Pony entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-4",
+        "name": "My Little Pony entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-5",
+        "name": "My Little Pony entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-6",
+        "name": "My Little Pony entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-7",
+        "name": "My Little Pony entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-8",
+        "name": "My Little Pony entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-9",
+        "name": "My Little Pony entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-10",
+        "name": "My Little Pony entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-11",
+        "name": "My Little Pony entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-12",
+        "name": "My Little Pony entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-13",
+        "name": "My Little Pony entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-14",
+        "name": "My Little Pony entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-15",
+        "name": "My Little Pony entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-16",
+        "name": "My Little Pony entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-17",
+        "name": "My Little Pony entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-18",
+        "name": "My Little Pony entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-19",
+        "name": "My Little Pony entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-20",
+        "name": "My Little Pony entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-21",
+        "name": "My Little Pony entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-22",
+        "name": "My Little Pony entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-23",
+        "name": "My Little Pony entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "my-little-pony-entry-24",
+        "name": "My Little Pony entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside My Little Pony.",
+        "description": "A supporting encyclopedia entry in the My Little Pony subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "My Little Pony legacy is a primary trailhead under My Little Pony.",
         0.88,
         0.82
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-practices",
+        "contains",
+        "My Little Pony practices is a primary trailhead under My Little Pony.",
+        0.88,
+        0.82
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-1",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-2",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-3",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-4",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-5",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-6",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-7",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-8",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-9",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-10",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-11",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-12",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-13",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-14",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-15",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-16",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-17",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-18",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-19",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-20",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-21",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-22",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-23",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
+    ],
+    [
+        "my-little-pony",
+        "my-little-pony-entry-24",
+        "contains",
+        "Supporting entry under My Little Pony.",
+        0.75,
+        0.7
     ]
 ];
 

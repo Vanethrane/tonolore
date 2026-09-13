@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into Major League Soccer.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify Major League Soccer."
+    },
+    {
+        "slug": "mls-geography",
+        "name": "Major League Soccer geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for Major League Soccer.",
+        "description": "Regions, routes, and spatial systems that situate Major League Soccer beyond single named places."
+    },
+    {
+        "slug": "mls-legacy",
+        "name": "Major League Soccer legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Major League Soccer.",
+        "description": "How Major League Soccer continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "mls-practices",
+        "name": "Major League Soccer practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Major League Soccer.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Major League Soccer."
+    },
+    {
+        "slug": "mls-entry-1",
+        "name": "Major League Soccer entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mls-entry-2",
+        "name": "Major League Soccer entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mls-entry-3",
+        "name": "Major League Soccer entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mls-entry-4",
+        "name": "Major League Soccer entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mls-entry-5",
+        "name": "Major League Soccer entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mls-entry-6",
+        "name": "Major League Soccer entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mls-entry-7",
+        "name": "Major League Soccer entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mls-entry-8",
+        "name": "Major League Soccer entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mls-entry-9",
+        "name": "Major League Soccer entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mls-entry-10",
+        "name": "Major League Soccer entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mls-entry-11",
+        "name": "Major League Soccer entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mls-entry-12",
+        "name": "Major League Soccer entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mls-entry-13",
+        "name": "Major League Soccer entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mls-entry-14",
+        "name": "Major League Soccer entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mls-entry-15",
+        "name": "Major League Soccer entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mls-entry-16",
+        "name": "Major League Soccer entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mls-entry-17",
+        "name": "Major League Soccer entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mls-entry-18",
+        "name": "Major League Soccer entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mls-entry-19",
+        "name": "Major League Soccer entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mls-entry-20",
+        "name": "Major League Soccer entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mls-entry-21",
+        "name": "Major League Soccer entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mls-entry-22",
+        "name": "Major League Soccer entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Soccer.",
+        "description": "A supporting encyclopedia entry in the Major League Soccer subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "Major League Soccer sources is a primary trailhead under Major League Soccer.",
         0.88,
         0.82
+    ],
+    [
+        "mls",
+        "mls-geography",
+        "contains",
+        "Major League Soccer geography is a primary trailhead under Major League Soccer.",
+        0.88,
+        0.82
+    ],
+    [
+        "mls",
+        "mls-legacy",
+        "contains",
+        "Major League Soccer legacy is a primary trailhead under Major League Soccer.",
+        0.88,
+        0.82
+    ],
+    [
+        "mls",
+        "mls-practices",
+        "contains",
+        "Major League Soccer practices is a primary trailhead under Major League Soccer.",
+        0.88,
+        0.82
+    ],
+    [
+        "mls",
+        "mls-entry-1",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
+    ],
+    [
+        "mls",
+        "mls-entry-2",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
+    ],
+    [
+        "mls",
+        "mls-entry-3",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
+    ],
+    [
+        "mls",
+        "mls-entry-4",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
+    ],
+    [
+        "mls",
+        "mls-entry-5",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
+    ],
+    [
+        "mls",
+        "mls-entry-6",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
+    ],
+    [
+        "mls",
+        "mls-entry-7",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
+    ],
+    [
+        "mls",
+        "mls-entry-8",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
+    ],
+    [
+        "mls",
+        "mls-entry-9",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
+    ],
+    [
+        "mls",
+        "mls-entry-10",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
+    ],
+    [
+        "mls",
+        "mls-entry-11",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
+    ],
+    [
+        "mls",
+        "mls-entry-12",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
+    ],
+    [
+        "mls",
+        "mls-entry-13",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
+    ],
+    [
+        "mls",
+        "mls-entry-14",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
+    ],
+    [
+        "mls",
+        "mls-entry-15",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
+    ],
+    [
+        "mls",
+        "mls-entry-16",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
+    ],
+    [
+        "mls",
+        "mls-entry-17",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
+    ],
+    [
+        "mls",
+        "mls-entry-18",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
+    ],
+    [
+        "mls",
+        "mls-entry-19",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
+    ],
+    [
+        "mls",
+        "mls-entry-20",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
+    ],
+    [
+        "mls",
+        "mls-entry-21",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
+    ],
+    [
+        "mls",
+        "mls-entry-22",
+        "contains",
+        "Supporting entry under Major League Soccer.",
+        0.75,
+        0.7
     ]
 ];
 

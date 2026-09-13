@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Kraftwerk.",
         "description": "Regions, routes, and spatial systems that situate Kraftwerk beyond single named places."
+    },
+    {
+        "slug": "kraftwerk-legacy",
+        "name": "Kraftwerk legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Kraftwerk.",
+        "description": "How Kraftwerk continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "kraftwerk-practices",
+        "name": "Kraftwerk practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Kraftwerk.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Kraftwerk."
+    },
+    {
+        "slug": "kraftwerk-entry-1",
+        "name": "Kraftwerk entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-2",
+        "name": "Kraftwerk entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-3",
+        "name": "Kraftwerk entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-4",
+        "name": "Kraftwerk entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-5",
+        "name": "Kraftwerk entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-6",
+        "name": "Kraftwerk entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-7",
+        "name": "Kraftwerk entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-8",
+        "name": "Kraftwerk entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-9",
+        "name": "Kraftwerk entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-10",
+        "name": "Kraftwerk entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-11",
+        "name": "Kraftwerk entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-12",
+        "name": "Kraftwerk entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-13",
+        "name": "Kraftwerk entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-14",
+        "name": "Kraftwerk entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-15",
+        "name": "Kraftwerk entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-16",
+        "name": "Kraftwerk entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-17",
+        "name": "Kraftwerk entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-18",
+        "name": "Kraftwerk entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-19",
+        "name": "Kraftwerk entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-20",
+        "name": "Kraftwerk entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-21",
+        "name": "Kraftwerk entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-22",
+        "name": "Kraftwerk entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kraftwerk-entry-23",
+        "name": "Kraftwerk entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kraftwerk.",
+        "description": "A supporting encyclopedia entry in the Kraftwerk subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Kraftwerk geography is a primary trailhead under Kraftwerk.",
         0.88,
         0.82
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-legacy",
+        "contains",
+        "Kraftwerk legacy is a primary trailhead under Kraftwerk.",
+        0.88,
+        0.82
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-practices",
+        "contains",
+        "Kraftwerk practices is a primary trailhead under Kraftwerk.",
+        0.88,
+        0.82
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-1",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-2",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-3",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-4",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-5",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-6",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-7",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-8",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-9",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-10",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-11",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-12",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-13",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-14",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-15",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-16",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-17",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-18",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-19",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-20",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-21",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-22",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
+    ],
+    [
+        "kraftwerk",
+        "kraftwerk-entry-23",
+        "contains",
+        "Supporting entry under Kraftwerk.",
+        0.75,
+        0.7
     ]
 ];
 

@@ -25670,6 +25670,175 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "altair-system",
+      "name": "Altair System",
+      "type": "place",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dc",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marvel_dc/images/9/96/Altair_001.jpg/revision/latest/scale-to-width-down/360?cb=20121226225800",
+      "image_source": "https://dc.fandom.com/wiki/Altair_System",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © DC Comics / Warner Bros. Discovery (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Altair System",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://dc.fandom.com/wiki/Altair_System",
+        "fandom_title": "Altair System",
+        "source_fandom": "dc.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "antimatter-universe",
+      "name": "Antimatter Universe",
+      "type": "place",
+      "description": "It's a counter-world where good is evil and vice versa. Not only do this universe's inhabitants worship evil instead of good, but the universal laws are so incredibly inverted that, within this realm, the concept of evil is predestined to always triumph, no matter what, instead of the other way around.\n\nAt the very beginning, the Source of All Existence was born alongside the Greater Omniverse. The Source began spawning \"children,\" like The Hands, and infused them with its Alpha Effect, turning them into Sixth-Dimensional \"super-celestial\" Cosmic Beings. The Source sent them to create life across the Omniverse, so these so-called \"Hands\" began using reflections of the Source Energy—later known as the Seven Positive Forces— to populate the Abyssal Overvoid with \"Creations,\" which were imbued with immense amounts of Alpha Force. At the same time, an obscure version of the Alpha Effect, known as the Omega Effect, was born within the Greater Omniverse.\n\nTwenty billion years ago, the Source sent one of her Hands, the mischievous Perpetua, to create a new within the Void. After the Source gifted her its Cosmic energy, Perpetua imbued its newly-born Creation—the \"original\" Multiverse—with the Source's \"Positive\" side, but also infused dark reflections of this Cosmic power into his Creation, known as the Seven Dark Forces.When Perpetua created the Multiverse, she shaped it in a three tripartite form, rent from the Overvoid.\n\nThe first realm was made with Dark Matter, rich with potential, and became known as the Forge of Worlds; this domain is the realm of Dark Matter, rich with potential, beneath creation, from which all the worlds in the Dark Multiverse, Positive Matter Universe, and the Antimatter Multiverse have been created. The second realm was made with Positive Matter, firm and constant, and became known as the Orrery of Worlds; worlds that were deemed stable were sent here, while others were sent back to the Forge and recycled. The third realm was made with Antimatter, corrosive and all-destroying, and became known as the Antimatter Universe; this realm served as the barrier between Perpetua's multiverse and all other multiverses created by the other Hands, destroying anything that would enter it or dare to cross it.",
+      "short_description": "It's a counter-world where good is evil and vice versa. Not only do this universe's inhabitants worship evil instead of good, but the universal laws are so incredibly inverted that, within this realm, the concept of…",
+      "evidence": "fiction",
+      "parentSlug": "dc",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marvel_dc/images/4/43/Antimatter_Universe_001.jpg/revision/latest/scale-to-width-down/360?cb=20080808053519",
+      "image_source": "https://dc.fandom.com/wiki/Antimatter_Universe",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © DC Comics / Warner Bros. Discovery (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Antimatter Universe",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://dc.fandom.com/wiki/Antimatter_Universe",
+        "fandom_title": "Antimatter Universe",
+        "source_fandom": "dc.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "apiaton",
+      "name": "Apiaton",
+      "type": "place",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dc",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marvel_dc/images/a/a4/Bzzd.JPG/revision/latest/scale-to-width-down/360?cb=20140615202245",
+      "image_source": "https://dc.fandom.com/wiki/Apiaton",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © DC Comics / Warner Bros. Discovery (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Apiaton",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://dc.fandom.com/wiki/Apiaton",
+        "fandom_title": "Apiaton",
+        "source_fandom": "dc.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkansas",
+      "name": "Arkansas",
+      "type": "place",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dc",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marvel_dc/images/e/e5/Ozark_Mountains_001.jpg/revision/latest/scale-to-width-down/360?cb=20121228111033",
+      "image_source": "https://dc.fandom.com/wiki/Arkansas",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © DC Comics / Warner Bros. Discovery (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Arkansas",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://dc.fandom.com/wiki/Arkansas",
+        "fandom_title": "Arkansas",
+        "source_fandom": "dc.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "calvin-college",
+      "name": "Calvin College",
+      "type": "place",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dc",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marvel_dc/images/9/95/Calvin_College_01.jpg/revision/latest/scale-to-width-down/360?cb=20110331092300",
+      "image_source": "https://dc.fandom.com/wiki/Calvin_College",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © DC Comics / Warner Bros. Discovery (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Calvin College",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://dc.fandom.com/wiki/Calvin_College",
+        "fandom_title": "Calvin College",
+        "source_fandom": "dc.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cambridge-massachusetts",
+      "name": "Cambridge, Massachusetts",
+      "type": "place",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dc",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marvel_dc/images/8/81/Harvard_University_01.jpg/revision/latest/scale-to-width-down/360?cb=20110331092301",
+      "image_source": "https://dc.fandom.com/wiki/Cambridge,_Massachusetts",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © DC Comics / Warner Bros. Discovery (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Cambridge, Massachusetts",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://dc.fandom.com/wiki/Cambridge,_Massachusetts",
+        "fandom_title": "Cambridge, Massachusetts",
+        "source_fandom": "dc.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -32616,6 +32785,54 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "altair-system",
+      "dc",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "antimatter-universe",
+      "dc",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "apiaton",
+      "dc",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "arkansas",
+      "dc",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "calvin-college",
+      "dc",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cambridge-massachusetts",
+      "dc",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -32624,18 +32841,18 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (dc.fandom.com) for identification and commentary only. Character / franchise art © DC Comics / Warner Bros. Discovery (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T17:54:01.367Z",
+  "generated_at": "2026-09-13T03:45:42.188Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://dc.fandom.com/wiki/",
     "host": "dc.fandom.com"
   },
   "stats": {
-    "fandom_titles": 45,
+    "fandom_titles": 1,
     "fandom_enriched_core": 0,
-    "fandom_created": 42,
-    "fandom_images": 45,
-    "fandom_intros": 37,
+    "fandom_created": 1,
+    "fandom_images": 1,
+    "fandom_intros": 0,
     "description_ensure_at": "2026-09-12T17:58:19.841Z",
     "description_ensure_count": 7
   }

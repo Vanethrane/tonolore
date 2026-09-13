@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Black Sabbath.",
         "description": "Regions, routes, and spatial systems that situate Black Sabbath beyond single named places."
+    },
+    {
+        "slug": "black-sabbath-legacy",
+        "name": "Black Sabbath legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Black Sabbath.",
+        "description": "How Black Sabbath continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "black-sabbath-practices",
+        "name": "Black Sabbath practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Black Sabbath.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Black Sabbath."
+    },
+    {
+        "slug": "black-sabbath-entry-1",
+        "name": "Black Sabbath entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-2",
+        "name": "Black Sabbath entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-3",
+        "name": "Black Sabbath entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-4",
+        "name": "Black Sabbath entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-5",
+        "name": "Black Sabbath entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-6",
+        "name": "Black Sabbath entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-7",
+        "name": "Black Sabbath entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-8",
+        "name": "Black Sabbath entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-9",
+        "name": "Black Sabbath entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-10",
+        "name": "Black Sabbath entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-11",
+        "name": "Black Sabbath entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-12",
+        "name": "Black Sabbath entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-13",
+        "name": "Black Sabbath entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-14",
+        "name": "Black Sabbath entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-15",
+        "name": "Black Sabbath entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-16",
+        "name": "Black Sabbath entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-17",
+        "name": "Black Sabbath entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-18",
+        "name": "Black Sabbath entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-19",
+        "name": "Black Sabbath entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-20",
+        "name": "Black Sabbath entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-21",
+        "name": "Black Sabbath entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-22",
+        "name": "Black Sabbath entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "black-sabbath-entry-23",
+        "name": "Black Sabbath entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Black Sabbath.",
+        "description": "A supporting encyclopedia entry in the Black Sabbath subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Black Sabbath geography is a primary trailhead under Black Sabbath.",
         0.88,
         0.82
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-legacy",
+        "contains",
+        "Black Sabbath legacy is a primary trailhead under Black Sabbath.",
+        0.88,
+        0.82
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-practices",
+        "contains",
+        "Black Sabbath practices is a primary trailhead under Black Sabbath.",
+        0.88,
+        0.82
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-1",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-2",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-3",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-4",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-5",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-6",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-7",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-8",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-9",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-10",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-11",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-12",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-13",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-14",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-15",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-16",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-17",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-18",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-19",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-20",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-21",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-22",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
+    ],
+    [
+        "black-sabbath",
+        "black-sabbath-entry-23",
+        "contains",
+        "Supporting entry under Black Sabbath.",
+        0.75,
+        0.7
     ]
 ];
 

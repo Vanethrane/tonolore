@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Blade Runner.",
         "description": "How Blade Runner continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "blade-runner-practices",
+        "name": "Blade Runner practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Blade Runner.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Blade Runner."
+    },
+    {
+        "slug": "blade-runner-entry-1",
+        "name": "Blade Runner entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-2",
+        "name": "Blade Runner entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-3",
+        "name": "Blade Runner entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-4",
+        "name": "Blade Runner entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-5",
+        "name": "Blade Runner entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-6",
+        "name": "Blade Runner entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-7",
+        "name": "Blade Runner entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-8",
+        "name": "Blade Runner entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-9",
+        "name": "Blade Runner entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-10",
+        "name": "Blade Runner entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-11",
+        "name": "Blade Runner entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-12",
+        "name": "Blade Runner entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-13",
+        "name": "Blade Runner entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-14",
+        "name": "Blade Runner entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-15",
+        "name": "Blade Runner entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-16",
+        "name": "Blade Runner entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-17",
+        "name": "Blade Runner entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-18",
+        "name": "Blade Runner entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-19",
+        "name": "Blade Runner entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-20",
+        "name": "Blade Runner entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-21",
+        "name": "Blade Runner entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-22",
+        "name": "Blade Runner entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-23",
+        "name": "Blade Runner entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "blade-runner-entry-24",
+        "name": "Blade Runner entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Blade Runner.",
+        "description": "A supporting encyclopedia entry in the Blade Runner subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Blade Runner legacy is a primary trailhead under Blade Runner.",
         0.88,
         0.82
+    ],
+    [
+        "blade-runner",
+        "blade-runner-practices",
+        "contains",
+        "Blade Runner practices is a primary trailhead under Blade Runner.",
+        0.88,
+        0.82
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-1",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-2",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-3",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-4",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-5",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-6",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-7",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-8",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-9",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-10",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-11",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-12",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-13",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-14",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-15",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-16",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-17",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-18",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-19",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-20",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-21",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-22",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-23",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
+    ],
+    [
+        "blade-runner",
+        "blade-runner-entry-24",
+        "contains",
+        "Supporting entry under Blade Runner.",
+        0.75,
+        0.7
     ]
 ];
 

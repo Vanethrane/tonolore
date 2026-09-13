@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for John Coltrane.",
         "description": "Regions, routes, and spatial systems that situate John Coltrane beyond single named places."
+    },
+    {
+        "slug": "john-coltrane-legacy",
+        "name": "John Coltrane legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of John Coltrane.",
+        "description": "How John Coltrane continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "john-coltrane-practices",
+        "name": "John Coltrane practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in John Coltrane.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in John Coltrane."
+    },
+    {
+        "slug": "john-coltrane-entry-1",
+        "name": "John Coltrane entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-2",
+        "name": "John Coltrane entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-3",
+        "name": "John Coltrane entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-4",
+        "name": "John Coltrane entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-5",
+        "name": "John Coltrane entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-6",
+        "name": "John Coltrane entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-7",
+        "name": "John Coltrane entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-8",
+        "name": "John Coltrane entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-9",
+        "name": "John Coltrane entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-10",
+        "name": "John Coltrane entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-11",
+        "name": "John Coltrane entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-12",
+        "name": "John Coltrane entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-13",
+        "name": "John Coltrane entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-14",
+        "name": "John Coltrane entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-15",
+        "name": "John Coltrane entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-16",
+        "name": "John Coltrane entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-17",
+        "name": "John Coltrane entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-18",
+        "name": "John Coltrane entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-19",
+        "name": "John Coltrane entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-20",
+        "name": "John Coltrane entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-21",
+        "name": "John Coltrane entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-22",
+        "name": "John Coltrane entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "john-coltrane-entry-23",
+        "name": "John Coltrane entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside John Coltrane.",
+        "description": "A supporting encyclopedia entry in the John Coltrane subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "John Coltrane geography is a primary trailhead under John Coltrane.",
         0.88,
         0.82
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-legacy",
+        "contains",
+        "John Coltrane legacy is a primary trailhead under John Coltrane.",
+        0.88,
+        0.82
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-practices",
+        "contains",
+        "John Coltrane practices is a primary trailhead under John Coltrane.",
+        0.88,
+        0.82
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-1",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-2",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-3",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-4",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-5",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-6",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-7",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-8",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-9",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-10",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-11",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-12",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-13",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-14",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-15",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-16",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-17",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-18",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-19",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-20",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-21",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-22",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
+    ],
+    [
+        "john-coltrane",
+        "john-coltrane-entry-23",
+        "contains",
+        "Supporting entry under John Coltrane.",
+        0.75,
+        0.7
     ]
 ];
 

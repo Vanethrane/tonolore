@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Ocean & maritime history.",
         "description": "How Ocean & maritime history continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "ocean-maritime-history-practices",
+        "name": "Ocean & maritime history practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Ocean & maritime history.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Ocean & maritime history."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-1",
+        "name": "Ocean & maritime history entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-2",
+        "name": "Ocean & maritime history entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-3",
+        "name": "Ocean & maritime history entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-4",
+        "name": "Ocean & maritime history entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-5",
+        "name": "Ocean & maritime history entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-6",
+        "name": "Ocean & maritime history entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-7",
+        "name": "Ocean & maritime history entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-8",
+        "name": "Ocean & maritime history entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-9",
+        "name": "Ocean & maritime history entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-10",
+        "name": "Ocean & maritime history entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-11",
+        "name": "Ocean & maritime history entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-12",
+        "name": "Ocean & maritime history entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-13",
+        "name": "Ocean & maritime history entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-14",
+        "name": "Ocean & maritime history entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-15",
+        "name": "Ocean & maritime history entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-16",
+        "name": "Ocean & maritime history entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-17",
+        "name": "Ocean & maritime history entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-18",
+        "name": "Ocean & maritime history entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-19",
+        "name": "Ocean & maritime history entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-20",
+        "name": "Ocean & maritime history entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-21",
+        "name": "Ocean & maritime history entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-22",
+        "name": "Ocean & maritime history entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-23",
+        "name": "Ocean & maritime history entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ocean-maritime-history-entry-24",
+        "name": "Ocean & maritime history entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ocean & maritime history.",
+        "description": "A supporting encyclopedia entry in the Ocean & maritime history subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Ocean & maritime history legacy is a primary trailhead under Ocean & maritime history.",
         0.88,
         0.82
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-practices",
+        "contains",
+        "Ocean & maritime history practices is a primary trailhead under Ocean & maritime history.",
+        0.88,
+        0.82
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-1",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-2",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-3",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-4",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-5",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-6",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-7",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-8",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-9",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-10",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-11",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-12",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-13",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-14",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-15",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-16",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-17",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-18",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-19",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-20",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-21",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-22",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-23",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
+    ],
+    [
+        "ocean-maritime-history",
+        "ocean-maritime-history-entry-24",
+        "contains",
+        "Supporting entry under Ocean & maritime history.",
+        0.75,
+        0.7
     ]
 ];
 

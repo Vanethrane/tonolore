@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into Nippon Professional Baseball.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify Nippon Professional Baseball."
+    },
+    {
+        "slug": "nippon-professional-baseball-geography",
+        "name": "Nippon Professional Baseball geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for Nippon Professional Baseball.",
+        "description": "Regions, routes, and spatial systems that situate Nippon Professional Baseball beyond single named places."
+    },
+    {
+        "slug": "nippon-professional-baseball-legacy",
+        "name": "Nippon Professional Baseball legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Nippon Professional Baseball.",
+        "description": "How Nippon Professional Baseball continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "nippon-professional-baseball-practices",
+        "name": "Nippon Professional Baseball practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Nippon Professional Baseball.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Nippon Professional Baseball."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-1",
+        "name": "Nippon Professional Baseball entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-2",
+        "name": "Nippon Professional Baseball entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-3",
+        "name": "Nippon Professional Baseball entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-4",
+        "name": "Nippon Professional Baseball entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-5",
+        "name": "Nippon Professional Baseball entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-6",
+        "name": "Nippon Professional Baseball entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-7",
+        "name": "Nippon Professional Baseball entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-8",
+        "name": "Nippon Professional Baseball entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-9",
+        "name": "Nippon Professional Baseball entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-10",
+        "name": "Nippon Professional Baseball entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-11",
+        "name": "Nippon Professional Baseball entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-12",
+        "name": "Nippon Professional Baseball entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-13",
+        "name": "Nippon Professional Baseball entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-14",
+        "name": "Nippon Professional Baseball entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-15",
+        "name": "Nippon Professional Baseball entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-16",
+        "name": "Nippon Professional Baseball entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-17",
+        "name": "Nippon Professional Baseball entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-18",
+        "name": "Nippon Professional Baseball entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-19",
+        "name": "Nippon Professional Baseball entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-20",
+        "name": "Nippon Professional Baseball entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-21",
+        "name": "Nippon Professional Baseball entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nippon-professional-baseball-entry-22",
+        "name": "Nippon Professional Baseball entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Nippon Professional Baseball.",
+        "description": "A supporting encyclopedia entry in the Nippon Professional Baseball subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "Nippon Professional Baseball sources is a primary trailhead under Nippon Professional Baseball.",
         0.88,
         0.82
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-geography",
+        "contains",
+        "Nippon Professional Baseball geography is a primary trailhead under Nippon Professional Baseball.",
+        0.88,
+        0.82
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-legacy",
+        "contains",
+        "Nippon Professional Baseball legacy is a primary trailhead under Nippon Professional Baseball.",
+        0.88,
+        0.82
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-practices",
+        "contains",
+        "Nippon Professional Baseball practices is a primary trailhead under Nippon Professional Baseball.",
+        0.88,
+        0.82
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-1",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-2",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-3",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-4",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-5",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-6",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-7",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-8",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-9",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-10",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-11",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-12",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-13",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-14",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-15",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-16",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-17",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-18",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-19",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-20",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-21",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "nippon-professional-baseball",
+        "nippon-professional-baseball-entry-22",
+        "contains",
+        "Supporting entry under Nippon Professional Baseball.",
+        0.75,
+        0.7
     ]
 ];
 

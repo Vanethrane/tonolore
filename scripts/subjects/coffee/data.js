@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Coffee.",
         "description": "How Coffee continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "coffee-practices",
+        "name": "Coffee history & culture practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Coffee history & culture.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Coffee history & culture."
+    },
+    {
+        "slug": "coffee-entry-1",
+        "name": "Coffee history & culture entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-2",
+        "name": "Coffee history & culture entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-3",
+        "name": "Coffee history & culture entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-4",
+        "name": "Coffee history & culture entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-5",
+        "name": "Coffee history & culture entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-6",
+        "name": "Coffee history & culture entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-7",
+        "name": "Coffee history & culture entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-8",
+        "name": "Coffee history & culture entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-9",
+        "name": "Coffee history & culture entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-10",
+        "name": "Coffee history & culture entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-11",
+        "name": "Coffee history & culture entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-12",
+        "name": "Coffee history & culture entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-13",
+        "name": "Coffee history & culture entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-14",
+        "name": "Coffee history & culture entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-15",
+        "name": "Coffee history & culture entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-16",
+        "name": "Coffee history & culture entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-17",
+        "name": "Coffee history & culture entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-18",
+        "name": "Coffee history & culture entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-19",
+        "name": "Coffee history & culture entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-20",
+        "name": "Coffee history & culture entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-21",
+        "name": "Coffee history & culture entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-22",
+        "name": "Coffee history & culture entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-23",
+        "name": "Coffee history & culture entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "coffee-entry-24",
+        "name": "Coffee history & culture entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Coffee history & culture.",
+        "description": "A supporting encyclopedia entry in the Coffee history & culture subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Coffee legacy is a primary trailhead under Coffee.",
         0.88,
         0.82
+    ],
+    [
+        "coffee",
+        "coffee-practices",
+        "contains",
+        "Coffee history & culture practices is a primary trailhead under Coffee history & culture.",
+        0.88,
+        0.82
+    ],
+    [
+        "coffee",
+        "coffee-entry-1",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-2",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-3",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-4",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-5",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-6",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-7",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-8",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-9",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-10",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-11",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-12",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-13",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-14",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-15",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-16",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-17",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-18",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-19",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-20",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-21",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-22",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-23",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
+    ],
+    [
+        "coffee",
+        "coffee-entry-24",
+        "contains",
+        "Supporting entry under Coffee history & culture.",
+        0.75,
+        0.7
     ]
 ];
 

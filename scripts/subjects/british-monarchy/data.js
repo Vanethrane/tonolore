@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of British monarchy.",
         "description": "How British monarchy continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "british-monarchy-practices",
+        "name": "British monarchy practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in British monarchy.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in British monarchy."
+    },
+    {
+        "slug": "british-monarchy-entry-1",
+        "name": "British monarchy entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-2",
+        "name": "British monarchy entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-3",
+        "name": "British monarchy entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-4",
+        "name": "British monarchy entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-5",
+        "name": "British monarchy entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-6",
+        "name": "British monarchy entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-7",
+        "name": "British monarchy entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-8",
+        "name": "British monarchy entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-9",
+        "name": "British monarchy entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-10",
+        "name": "British monarchy entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-11",
+        "name": "British monarchy entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-12",
+        "name": "British monarchy entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-13",
+        "name": "British monarchy entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-14",
+        "name": "British monarchy entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-15",
+        "name": "British monarchy entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-16",
+        "name": "British monarchy entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-17",
+        "name": "British monarchy entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-18",
+        "name": "British monarchy entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-19",
+        "name": "British monarchy entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-20",
+        "name": "British monarchy entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-21",
+        "name": "British monarchy entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-22",
+        "name": "British monarchy entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-23",
+        "name": "British monarchy entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "british-monarchy-entry-24",
+        "name": "British monarchy entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside British monarchy.",
+        "description": "A supporting encyclopedia entry in the British monarchy subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "British monarchy legacy is a primary trailhead under British monarchy.",
         0.88,
         0.82
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-practices",
+        "contains",
+        "British monarchy practices is a primary trailhead under British monarchy.",
+        0.88,
+        0.82
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-1",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-2",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-3",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-4",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-5",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-6",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-7",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-8",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-9",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-10",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-11",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-12",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-13",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-14",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-15",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-16",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-17",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-18",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-19",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-20",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-21",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-22",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-23",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
+    ],
+    [
+        "british-monarchy",
+        "british-monarchy-entry-24",
+        "contains",
+        "Supporting entry under British monarchy.",
+        0.75,
+        0.7
     ]
 ];
 

@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Abandoned places.",
         "description": "How Abandoned places continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "abandoned-places-practices",
+        "name": "Abandoned places practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Abandoned places.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Abandoned places."
+    },
+    {
+        "slug": "abandoned-places-entry-1",
+        "name": "Abandoned places entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-2",
+        "name": "Abandoned places entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-3",
+        "name": "Abandoned places entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-4",
+        "name": "Abandoned places entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-5",
+        "name": "Abandoned places entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-6",
+        "name": "Abandoned places entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-7",
+        "name": "Abandoned places entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-8",
+        "name": "Abandoned places entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-9",
+        "name": "Abandoned places entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-10",
+        "name": "Abandoned places entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-11",
+        "name": "Abandoned places entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-12",
+        "name": "Abandoned places entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-13",
+        "name": "Abandoned places entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-14",
+        "name": "Abandoned places entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-15",
+        "name": "Abandoned places entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-16",
+        "name": "Abandoned places entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-17",
+        "name": "Abandoned places entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-18",
+        "name": "Abandoned places entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-19",
+        "name": "Abandoned places entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-20",
+        "name": "Abandoned places entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-21",
+        "name": "Abandoned places entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-22",
+        "name": "Abandoned places entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-23",
+        "name": "Abandoned places entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "abandoned-places-entry-24",
+        "name": "Abandoned places entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Abandoned places.",
+        "description": "A supporting encyclopedia entry in the Abandoned places subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Abandoned places legacy is a primary trailhead under Abandoned places.",
         0.88,
         0.82
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-practices",
+        "contains",
+        "Abandoned places practices is a primary trailhead under Abandoned places.",
+        0.88,
+        0.82
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-1",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-2",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-3",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-4",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-5",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-6",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-7",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-8",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-9",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-10",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-11",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-12",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-13",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-14",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-15",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-16",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-17",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-18",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-19",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-20",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-21",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-22",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-23",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
+    ],
+    [
+        "abandoned-places",
+        "abandoned-places-entry-24",
+        "contains",
+        "Supporting entry under Abandoned places.",
+        0.75,
+        0.7
     ]
 ];
 

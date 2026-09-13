@@ -9,8 +9,10 @@
  */
 
 const { EXTRA_EXPAND_CONFIGS } = require("./extraExpandConfigs");
+const { DEPTH_EXPAND_CONFIGS } = require("./depthExpandConfigs");
 
 const CONFIGS = {
+    ...DEPTH_EXPAND_CONFIGS,
     ...EXTRA_EXPAND_CONFIGS,
     "one-piece": {
         rootSlug: "one-piece",

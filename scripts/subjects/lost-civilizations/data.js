@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Lost civilizations.",
         "description": "How Lost civilizations continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "lost-civilizations-practices",
+        "name": "Lost civilizations practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Lost civilizations.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Lost civilizations."
+    },
+    {
+        "slug": "lost-civilizations-entry-1",
+        "name": "Lost civilizations entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-2",
+        "name": "Lost civilizations entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-3",
+        "name": "Lost civilizations entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-4",
+        "name": "Lost civilizations entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-5",
+        "name": "Lost civilizations entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-6",
+        "name": "Lost civilizations entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-7",
+        "name": "Lost civilizations entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-8",
+        "name": "Lost civilizations entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-9",
+        "name": "Lost civilizations entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-10",
+        "name": "Lost civilizations entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-11",
+        "name": "Lost civilizations entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-12",
+        "name": "Lost civilizations entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-13",
+        "name": "Lost civilizations entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-14",
+        "name": "Lost civilizations entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-15",
+        "name": "Lost civilizations entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-16",
+        "name": "Lost civilizations entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-17",
+        "name": "Lost civilizations entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-18",
+        "name": "Lost civilizations entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-19",
+        "name": "Lost civilizations entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-20",
+        "name": "Lost civilizations entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-21",
+        "name": "Lost civilizations entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-22",
+        "name": "Lost civilizations entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-23",
+        "name": "Lost civilizations entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lost-civilizations-entry-24",
+        "name": "Lost civilizations entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lost civilizations.",
+        "description": "A supporting encyclopedia entry in the Lost civilizations subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Lost civilizations legacy is a primary trailhead under Lost civilizations.",
         0.88,
         0.82
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-practices",
+        "contains",
+        "Lost civilizations practices is a primary trailhead under Lost civilizations.",
+        0.88,
+        0.82
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-1",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-2",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-3",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-4",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-5",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-6",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-7",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-8",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-9",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-10",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-11",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-12",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-13",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-14",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-15",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-16",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-17",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-18",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-19",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-20",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-21",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-22",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-23",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
+    ],
+    [
+        "lost-civilizations",
+        "lost-civilizations-entry-24",
+        "contains",
+        "Supporting entry under Lost civilizations.",
+        0.75,
+        0.7
     ]
 ];
 

@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Religious history.",
         "description": "How Religious history continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "religious-history-practices",
+        "name": "Religious history practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Religious history.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Religious history."
+    },
+    {
+        "slug": "religious-history-entry-1",
+        "name": "Religious history entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-2",
+        "name": "Religious history entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-3",
+        "name": "Religious history entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-4",
+        "name": "Religious history entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-5",
+        "name": "Religious history entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-6",
+        "name": "Religious history entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-7",
+        "name": "Religious history entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-8",
+        "name": "Religious history entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-9",
+        "name": "Religious history entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-10",
+        "name": "Religious history entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-11",
+        "name": "Religious history entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-12",
+        "name": "Religious history entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-13",
+        "name": "Religious history entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-14",
+        "name": "Religious history entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-15",
+        "name": "Religious history entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-16",
+        "name": "Religious history entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-17",
+        "name": "Religious history entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-18",
+        "name": "Religious history entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-19",
+        "name": "Religious history entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-20",
+        "name": "Religious history entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-21",
+        "name": "Religious history entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-22",
+        "name": "Religious history entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-23",
+        "name": "Religious history entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "religious-history-entry-24",
+        "name": "Religious history entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Religious history.",
+        "description": "A supporting encyclopedia entry in the Religious history subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Religious history legacy is a primary trailhead under Religious history.",
         0.88,
         0.82
+    ],
+    [
+        "religious-history",
+        "religious-history-practices",
+        "contains",
+        "Religious history practices is a primary trailhead under Religious history.",
+        0.88,
+        0.82
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-1",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-2",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-3",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-4",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-5",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-6",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-7",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-8",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-9",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-10",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-11",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-12",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-13",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-14",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-15",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-16",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-17",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-18",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-19",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-20",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-21",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-22",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-23",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
+    ],
+    [
+        "religious-history",
+        "religious-history-entry-24",
+        "contains",
+        "Supporting entry under Religious history.",
+        0.75,
+        0.7
     ]
 ];
 

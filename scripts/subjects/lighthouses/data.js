@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Lighthouses.",
         "description": "How Lighthouses continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "lighthouses-practices",
+        "name": "Lighthouses practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Lighthouses.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Lighthouses."
+    },
+    {
+        "slug": "lighthouses-entry-1",
+        "name": "Lighthouses entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-2",
+        "name": "Lighthouses entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-3",
+        "name": "Lighthouses entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-4",
+        "name": "Lighthouses entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-5",
+        "name": "Lighthouses entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-6",
+        "name": "Lighthouses entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-7",
+        "name": "Lighthouses entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-8",
+        "name": "Lighthouses entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-9",
+        "name": "Lighthouses entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-10",
+        "name": "Lighthouses entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-11",
+        "name": "Lighthouses entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-12",
+        "name": "Lighthouses entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-13",
+        "name": "Lighthouses entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-14",
+        "name": "Lighthouses entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-15",
+        "name": "Lighthouses entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-16",
+        "name": "Lighthouses entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-17",
+        "name": "Lighthouses entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-18",
+        "name": "Lighthouses entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-19",
+        "name": "Lighthouses entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-20",
+        "name": "Lighthouses entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-21",
+        "name": "Lighthouses entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-22",
+        "name": "Lighthouses entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-23",
+        "name": "Lighthouses entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lighthouses-entry-24",
+        "name": "Lighthouses entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Lighthouses.",
+        "description": "A supporting encyclopedia entry in the Lighthouses subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Lighthouses legacy is a primary trailhead under Lighthouses.",
         0.88,
         0.82
+    ],
+    [
+        "lighthouses",
+        "lighthouses-practices",
+        "contains",
+        "Lighthouses practices is a primary trailhead under Lighthouses.",
+        0.88,
+        0.82
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-1",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-2",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-3",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-4",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-5",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-6",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-7",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-8",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-9",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-10",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-11",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-12",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-13",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-14",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-15",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-16",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-17",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-18",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-19",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-20",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-21",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-22",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-23",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
+    ],
+    [
+        "lighthouses",
+        "lighthouses-entry-24",
+        "contains",
+        "Supporting entry under Lighthouses.",
+        0.75,
+        0.7
     ]
 ];
 

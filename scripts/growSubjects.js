@@ -7,7 +7,7 @@
  * Stop with Ctrl+C, or auto-stop at --target-pages.
  *
  *   node scripts/growSubjects.js
- *   node scripts/growSubjects.js --batch=1 --target-pages=200000
+ *   node scripts/growSubjects.js --batch=1 --target-pages=500000
  *   node scripts/growSubjects.js --subjects=one-piece,pokemon --delay=250
  *
  * State: scripts/.grow-state.json (resume-safe)
@@ -55,8 +55,8 @@ function parseArgs(argv) {
         betweenSubjectSec: getNum("between", 4),
         wikiEvery: getNum("wiki-every", 0),
         pageConcurrency: String(getNum("page-concurrency", 2)),
-        targetPages: getNum("target-pages", 200000),
-        categoryMaxPages: getNum("category-max", 25000),
+        targetPages: getNum("target-pages", 500000),
+        categoryMaxPages: getNum("category-max", 50000),
         subjects,
         withIntros: !argv.includes("--skip-intros"),
         skipWiki: argv.includes("--skip-wiki") || getNum("wiki-every", 0) === 0,

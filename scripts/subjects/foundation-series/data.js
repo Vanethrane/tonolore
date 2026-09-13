@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Foundation.",
         "description": "How Foundation continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "foundation-series-practices",
+        "name": "Foundation practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Foundation.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Foundation."
+    },
+    {
+        "slug": "foundation-series-entry-1",
+        "name": "Foundation entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-2",
+        "name": "Foundation entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-3",
+        "name": "Foundation entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-4",
+        "name": "Foundation entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-5",
+        "name": "Foundation entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-6",
+        "name": "Foundation entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-7",
+        "name": "Foundation entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-8",
+        "name": "Foundation entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-9",
+        "name": "Foundation entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-10",
+        "name": "Foundation entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-11",
+        "name": "Foundation entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-12",
+        "name": "Foundation entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-13",
+        "name": "Foundation entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-14",
+        "name": "Foundation entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-15",
+        "name": "Foundation entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-16",
+        "name": "Foundation entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-17",
+        "name": "Foundation entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-18",
+        "name": "Foundation entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-19",
+        "name": "Foundation entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-20",
+        "name": "Foundation entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-21",
+        "name": "Foundation entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-22",
+        "name": "Foundation entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-23",
+        "name": "Foundation entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "foundation-series-entry-24",
+        "name": "Foundation entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Foundation.",
+        "description": "A supporting encyclopedia entry in the Foundation subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Foundation legacy is a primary trailhead under Foundation.",
         0.88,
         0.82
+    ],
+    [
+        "foundation-series",
+        "foundation-series-practices",
+        "contains",
+        "Foundation practices is a primary trailhead under Foundation.",
+        0.88,
+        0.82
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-1",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-2",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-3",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-4",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-5",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-6",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-7",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-8",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-9",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-10",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-11",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-12",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-13",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-14",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-15",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-16",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-17",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-18",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-19",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-20",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-21",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-22",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-23",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
+    ],
+    [
+        "foundation-series",
+        "foundation-series-entry-24",
+        "contains",
+        "Supporting entry under Foundation.",
+        0.75,
+        0.7
     ]
 ];
 

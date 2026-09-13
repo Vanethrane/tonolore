@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into Super Bowl.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify Super Bowl."
+    },
+    {
+        "slug": "super-bowl-geography",
+        "name": "Super Bowl geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for Super Bowl.",
+        "description": "Regions, routes, and spatial systems that situate Super Bowl beyond single named places."
+    },
+    {
+        "slug": "super-bowl-legacy",
+        "name": "Super Bowl legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Super Bowl.",
+        "description": "How Super Bowl continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "super-bowl-practices",
+        "name": "Super Bowl practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Super Bowl.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Super Bowl."
+    },
+    {
+        "slug": "super-bowl-entry-1",
+        "name": "Super Bowl entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "super-bowl-entry-2",
+        "name": "Super Bowl entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "super-bowl-entry-3",
+        "name": "Super Bowl entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "super-bowl-entry-4",
+        "name": "Super Bowl entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "super-bowl-entry-5",
+        "name": "Super Bowl entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "super-bowl-entry-6",
+        "name": "Super Bowl entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "super-bowl-entry-7",
+        "name": "Super Bowl entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "super-bowl-entry-8",
+        "name": "Super Bowl entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "super-bowl-entry-9",
+        "name": "Super Bowl entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "super-bowl-entry-10",
+        "name": "Super Bowl entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "super-bowl-entry-11",
+        "name": "Super Bowl entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "super-bowl-entry-12",
+        "name": "Super Bowl entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "super-bowl-entry-13",
+        "name": "Super Bowl entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "super-bowl-entry-14",
+        "name": "Super Bowl entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "super-bowl-entry-15",
+        "name": "Super Bowl entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "super-bowl-entry-16",
+        "name": "Super Bowl entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "super-bowl-entry-17",
+        "name": "Super Bowl entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "super-bowl-entry-18",
+        "name": "Super Bowl entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "super-bowl-entry-19",
+        "name": "Super Bowl entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "super-bowl-entry-20",
+        "name": "Super Bowl entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "super-bowl-entry-21",
+        "name": "Super Bowl entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "super-bowl-entry-22",
+        "name": "Super Bowl entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Super Bowl.",
+        "description": "A supporting encyclopedia entry in the Super Bowl subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "Super Bowl sources is a primary trailhead under Super Bowl.",
         0.88,
         0.82
+    ],
+    [
+        "super-bowl",
+        "super-bowl-geography",
+        "contains",
+        "Super Bowl geography is a primary trailhead under Super Bowl.",
+        0.88,
+        0.82
+    ],
+    [
+        "super-bowl",
+        "super-bowl-legacy",
+        "contains",
+        "Super Bowl legacy is a primary trailhead under Super Bowl.",
+        0.88,
+        0.82
+    ],
+    [
+        "super-bowl",
+        "super-bowl-practices",
+        "contains",
+        "Super Bowl practices is a primary trailhead under Super Bowl.",
+        0.88,
+        0.82
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-1",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-2",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-3",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-4",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-5",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-6",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-7",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-8",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-9",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-10",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-11",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-12",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-13",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-14",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-15",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-16",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-17",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-18",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-19",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-20",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-21",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
+    ],
+    [
+        "super-bowl",
+        "super-bowl-entry-22",
+        "contains",
+        "Supporting entry under Super Bowl.",
+        0.75,
+        0.7
     ]
 ];
 

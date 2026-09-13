@@ -354,6 +354,11 @@
       "slug": "adrian-toomes-earth-3123",
       "description": "The originator of the costume and identity was elderly businessman and inventor Adrian Toomes. After being swindled out of his company and its profits, he used the flight-enabling harness he had been working on to start a life of crime as the Vulture.\n\nRaniero \"Blackie\" Drago was a common crook that shared a cell with Adrian Toomes during one of his many trips to jail. Drago managed to trick Toomes into revealing the location of his spare suits, and after breaking out of prison, Drago took Toomes' suits and used them to commit robberies.\n\nClifton Shallot was an academic who transformed himself into a duplicate of the original Vulture, but with genuine wings and talons.\n\nJimmy Natale was a fixer for the mob until he was forced to to undergo a procedure that turned him into the Vulture.",
       "short_description": "The originator of the costume and identity was elderly businessman and inventor Adrian Toomes. After being swindled out of his company and its profits, he used the flight-enabling harness he had been working on to start…"
+    },
+    {
+      "slug": "100th-street",
+      "description": "100th Street may refer to:\n\n100th Street (Manhattan)\n\n100th Street Depot\n\n100th Street, a street in Los Angeles, California\n\nCalle 100 (Havana), 100th Street in english, street in Havana, Cuba",
+      "short_description": "100th Street may refer to:"
     }
   ],
   "entities": [
@@ -24677,6 +24682,510 @@
         ]
       },
       "short_description": "The originator of the costume and identity was elderly businessman and inventor Adrian Toomes. After being swindled out of his company and its profits, he used the flight-enabling harness he had been working on to start…"
+    },
+    {
+      "slug": "adrian-toomes-earth-4477",
+      "name": "Adrian Toomes",
+      "type": "person",
+      "description": "Dragonfly, along with the rest of the Insectoid Six, was pulled from his home reality of Earth-4477 to Earth-18119 when their Spider-Man attempted to return home through an interdimensional gate, resulting in a battle between them, their Spider-Man, and the native Spider-Man of Earth-18119, accompanied by his family, wife Spinneret and daughter Spiderling. The Insectoid Six were subsequently defeated and sent back to their home universe.",
+      "short_description": "Dragonfly, along with the rest of the Insectoid Six, was pulled from his home reality of Earth-4477 to Earth-18119 when their Spider-Man attempted to return home through an interdimensional gate, resulting in a battle…",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/18/Adrian_Toomes_%28Earth-4477%29_from_Spider-Man_Unlimited_Infinity_Comic_Vol_1_17_001.jpg/revision/latest/scale-to-width-down/360?cb=20240110222549",
+      "image_source": "https://marvel.fandom.com/wiki/Adrian_Toomes_(Earth-4477)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Adrian Toomes (Earth-4477)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://marvel.fandom.com/wiki/Adrian_Toomes_(Earth-4477)",
+        "fandom_title": "Adrian Toomes (Earth-4477)",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cult-earth-616",
+      "name": "$ Cult",
+      "type": "organization",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/ba/%24_Cult_%28Earth-616%29_from_Daredevil_Vol_1_242_0001.jpg/revision/latest/scale-to-width-down/360?cb=20221214034941",
+      "image_source": "https://marvel.fandom.com/wiki/$_Cult_(Earth-616)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for $ Cult (Earth-616)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://marvel.fandom.com/wiki/$_Cult_(Earth-616)",
+        "fandom_title": "$ Cult (Earth-616)",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hor-mi-ga",
+      "name": "\"Hor-Mi-Ga\"",
+      "type": "place",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d1/Hor_Mi_Ga_from_Amazing_Spider-Man_%28MX%29_Vol_1_178.jpg/revision/latest/scale-to-width-down/360?cb=20220228175827",
+      "image_source": "https://marvel.fandom.com/wiki/%22Hor-Mi-Ga%22",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for \"Hor-Mi-Ga\"",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://marvel.fandom.com/wiki/%22Hor-Mi-Ga%22",
+        "fandom_title": "\"Hor-Mi-Ga\"",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "adrian-toomes-earth-5631",
+      "name": "Adrian Toomes",
+      "type": "person",
+      "description": "Obsessed with regaining his youth and original good looks, Adrian Toomes broke into the factory of Glamor Gal cosmetics; a company that in the process of trying to develop an age defying makeup had accidentally found a chemical that could actually reverse a bodies age. Spider-Man interfered and tried to capture him, but in the battle he ended up falling into the chemical himself and was de-aged to a child. Adrian was able to escape with a flask of the chemical, and used it on himself to become a young man again. He briefly retired from supervillainy to enjoy his newly regained youth, but found out the hard way that salt water undid the effects of the chemical.\n\nAfter having been restored to his old age, Vulture rejoined the Sinister Six and teamed up with a Venom-possessed Katie Powers to capture Spider-Man. He was bested in a fight by Lightspeed.",
+      "short_description": "Obsessed with regaining his youth and original good looks, Adrian Toomes broke into the factory of Glamor Gal cosmetics; a company that in the process of trying to develop an age defying makeup had accidentally found a…",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/c6/Adrian_Toomes_%28Earth-5631%29_Spider-Man_and_Power_Pack_Vol_2_1.jpg/revision/latest/scale-to-width-down/360?cb=20140622174954",
+      "image_source": "https://marvel.fandom.com/wiki/Adrian_Toomes_(Earth-5631)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Adrian Toomes (Earth-5631)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://marvel.fandom.com/wiki/Adrian_Toomes_(Earth-5631)",
+        "fandom_title": "Adrian Toomes (Earth-5631)",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "vores-earth-616",
+      "name": "'Vores",
+      "type": "organization",
+      "description": "Category:Criminal Organizations Category:Richard Howell/Creator",
+      "short_description": "Category:Criminal Organizations Category:Richard Howell/Creator",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/b/b5/%27Vores_%28Earth-616%29_from_Marvel_Comics_Presents_Vol_1_52_0001.jpg/revision/latest/scale-to-width-down/360?cb=20081114001951",
+      "image_source": "https://marvel.fandom.com/wiki/%27Vores_(Earth-616)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 'Vores (Earth-616)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://marvel.fandom.com/wiki/%27Vores_(Earth-616)",
+        "fandom_title": "'Vores (Earth-616)",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "0259-s",
+      "name": "0259-S",
+      "type": "place",
+      "description": "After a brief fight, Thanos welcomed Silver Surfer to his garden. He told him that Warlock had entrusted him with the Reality Stone, which he had kept safe on this planet. However, a thief somehow had managed to steal it. Aware of the surfer's vast powers, Thanos asked for his aid in retrieving it from whomever had taken it.\n\nIn the MCU, Planet 0259-S, informally known as The Garden, was an otherwise uninhabited planet to which Thanos always planned to retire after completing his quest of balancing all life in the Universe. After completing his life goal, Thanos did in fact settle on Planet 0259-S to live as a simple farmer, but was murdered by Thor of the Avengers only 23 days later.",
+      "short_description": "After a brief fight, Thanos welcomed Silver Surfer to his garden. He told him that Warlock had entrusted him with the Reality Stone, which he had kept safe on this planet. However, a thief somehow had managed to steal…",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/14/0259-S_from_Avengers_Endgame_001.png/revision/latest/scale-to-width-down/360?cb=20220205175106",
+      "image_source": "https://marvel.fandom.com/wiki/0259-S",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 0259-S",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://marvel.fandom.com/wiki/0259-S",
+        "fandom_title": "0259-S",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "adrian-toomes-earth-6109",
+      "name": "Adrian Toomes",
+      "type": "person",
+      "description": "Vulture was on the list of unregistered superhumans S.H.I.E.L.D. knew about at the start of Civil War. It is unknown if he registered or not.",
+      "short_description": "Vulture was on the list of unregistered superhumans S.H.I.E.L.D. knew about at the start of Civil War. It is unknown if he registered or not.",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://marvel.fandom.com/wiki/Adrian_Toomes_(Earth-6109)",
+        "fandom_title": "Adrian Toomes (Earth-6109)",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "1000-hulks-earth-616",
+      "name": "1000 Hulks",
+      "type": "organization",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2e/1000_Hulks_%28Earth-616%29_from_Incredible_Hulk_Vol_4_2_001.jpg/revision/latest/scale-to-width-down/360?cb=20180113122433",
+      "image_source": "https://marvel.fandom.com/wiki/1000_Hulks_(Earth-616)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 1000 Hulks (Earth-616)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://marvel.fandom.com/wiki/1000_Hulks_(Earth-616)",
+        "fandom_title": "1000 Hulks (Earth-616)",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "1-yarbro-court",
+      "name": "1 Yarbro Court",
+      "type": "place",
+      "description": "Actress Lindsay McCabe moved from Los Angeles into the apartment building after being accepted into the San Francisco Repertory Theater, along with her cat, Casey). Since the place was too big for Lindsay and Casey alone, and she didn't know anyone else in San Francisco yet, Lindsay convinced her supposedly unemployed best friend Jessica Drew to be her roommate, with the idea that she might find work in another city.\n\nAt their housewarming party, David introduced himself to Jessica, giving her a bonsai tree that happened to have a spider on it, which she thought was cute, and he later took Jessica around the garden during the party. While they were immediately attracted to each other, David massaged Jessica's sore shoulder and they kissed; but she left abruptly to investigate an alarm as Spider-Woman, disappearing when David left for a moment. After facing Black Tom Cassidy and Juggernaut, with his new ally Siryn), she escaped and returned home. The X-Men meanwhile tracked Spider-Woman to the building and recognized it. One of them, Angel, was in his civilian identity a member of the board of directors of the San Francisco Repertory Theater, and used his influence with guest Ben Disraeli to crash the party with his friends, secretly the X-Men. The X-Men approached Jessica for friendly questioning and discovered their enemies' activity, and after that Jessica left the party with the X-Men to collaborate with them against the same threat.\n\nLater, as a private investigator, Jessica was hired by Pamela Kramer, a law student who wanted to find her missing father Michael. Pamela was being targeted by agents of the supercriminal Viper, also interested in finding Michael. To protect Pamela, Jessica decided to hide her in her private residence at 1 Yarbro Court from that very night. When Lindsay woke up the next day, Jessica convinced her to stay home to keep an eye on Pamela. Investigating further, Spider-Woman asked Detective Morrell to come to 1 Yarbro Court to assist. Then, Viper arrived and attacked in an attempt to kidnap Pamela but, after a fight with Morrell, fled the scene.\n\nWhen Jessica later arrived with Michael, she found her house in disarray from Viper's attack, with furniture broken; but the phone was still working. Jessica discovered that Lindsay was in the hospital, and met with her emotionally, revealing her secret identity. Jessica was very angry with Viper and also with Morrel for not adequately protecting Lindsay. After tracking Viper, Jessica visited David, kissed him, confirmed that Lindsay would recover, had tea with him, and then asked for his motorcycle to track Viper. David worried about her because it was dangerous, even crying when she left, but agreed, even giving her protective leather clothing.",
+      "short_description": "Actress Lindsay McCabe moved from Los Angeles into the apartment building after being accepted into the San Francisco Repertory Theater, along with her cat, Casey). Since the place was too big for Lindsay and Casey…",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/e/e6/1_Yarbro_Court_from_Spider-Woman_Vol_1_37_001.jpg/revision/latest/scale-to-width-down/360?cb=20231209112148",
+      "image_source": "https://marvel.fandom.com/wiki/1_Yarbro_Court",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 1 Yarbro Court",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://marvel.fandom.com/wiki/1_Yarbro_Court",
+        "fandom_title": "1 Yarbro Court",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "adrian-toomes-earth-6111",
+      "name": "Adrian Toomes",
+      "type": "person",
+      "description": "Category:Engineers Category:Inventors Category:Doctor Octopus Experiment Category:Armor Users",
+      "short_description": "Category:Engineers Category:Inventors Category:Doctor Octopus Experiment Category:Armor Users",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/2/2d/Adrian_Toomes_%28Earth-6111%29_from_Spider-Man_Special_Black_%26_Blue_%26_Read_All_Over_Vol_1_1_0001.jpg/revision/latest?cb=20130928161056",
+      "image_source": "https://marvel.fandom.com/wiki/Adrian_Toomes_(Earth-6111)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Adrian Toomes (Earth-6111)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://marvel.fandom.com/wiki/Adrian_Toomes_(Earth-6111)",
+        "fandom_title": "Adrian Toomes (Earth-6111)",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "101st-airborne-division-earth-616",
+      "name": "101st Airborne Division",
+      "type": "organization",
+      "description": "Category:United States Army (Earth-616)/Members",
+      "short_description": "Category:United States Army (Earth-616)/Members",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/65/Normandy_from_4_Vol_1_4_001.png/revision/latest/scale-to-width-down/360?cb=20140411132900",
+      "image_source": "https://marvel.fandom.com/wiki/101st_Airborne_Division_(Earth-616)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 101st Airborne Division (Earth-616)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://marvel.fandom.com/wiki/101st_Airborne_Division_(Earth-616)",
+        "fandom_title": "101st Airborne Division (Earth-616)",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "10-downing-street",
+      "name": "10 Downing Street",
+      "type": "place",
+      "description": "10 Downing Street, colloquially known in the United Kingdom as \"Number 10\", is the headquarters of Her Majesty's Government and the official residence and office of the Prime Minister of the United Kingdom of Great Britain and Northern Ireland.\n\nThe Mole-Man and his men planned the bombing of 10 Downing Street, in an attempt to eliminate Prime Minister Winston Churchill. However, with Captain America still hunting for them, the Mole-Man decided to bait a trap for the hero. While on the surface, Captain America and Bucky continued in their efforts to find the Mole-Man's secret hideout. As they were walking the streets as car passed by and tossed a note telling them the location of the Mole-Man's hideout. Knowing that they were walking into a trap, the two heroes went anyway as it was their only lead to stopping the Mole-Man. When they went to the address in the note, they got the drop on the thugs placed to attack them and beat them into submission. Cap then forced one of the Nazis to explain what was going on and led him to the bomb placed under 10 Downing Street. There, they were attacked by the Mole-Man and more of his men, who subdued them. When the Mole-Man was briefly blinded by the light of one of his minions' lanterns, Captain America knocked him and his men out. After alerting the British authorities of the spies' locations, Captain America rushed to 10 Downing Street and fought his way to the basement where he disarmed the bomb. With the crisis over, Captain America and Bucky were thanked personally by Winston Churchill for their heroic efforts.\n\nNick Fury met with Prime Minister James Callaghan to discuss the resurgence of Nazism. During an attempted invasion of Britain by the Red Skull, the Skull kidnapped Callaghan, but Callaghan was rescued by Captain Britain.\n\nFrom the 10 Downing Street, Margaret Thatcher witnessed Magneto's declaration, demanding the world total political control in the seven days, and threatening them with the annihilation of all life.",
+      "short_description": "10 Downing Street, colloquially known in the United Kingdom as \"Number 10\", is the headquarters of Her Majesty's Government and the official residence and office of the Prime Minister of the United Kingdom of Great…",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6c/10_Downing_Street_from_Union_Vol_1_4_0001.png/revision/latest/scale-to-width-down/360?cb=20251007152600",
+      "image_source": "https://marvel.fandom.com/wiki/10_Downing_Street",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 10 Downing Street",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://marvel.fandom.com/wiki/10_Downing_Street",
+        "fandom_title": "10 Downing Street",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "adrian-toomes-earth-7642",
+      "name": "Adrian Toomes",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7c/Adrian_Toomes_%28Earth-7642%29_from_Spider-Man_Badrock_Vol_1_2_001.jpg/revision/latest/scale-to-width-down/360?cb=20180923072043",
+      "image_source": "https://marvel.fandom.com/wiki/Adrian_Toomes_(Earth-7642)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Adrian Toomes (Earth-7642)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://marvel.fandom.com/wiki/Adrian_Toomes_(Earth-7642)",
+        "fandom_title": "Adrian Toomes (Earth-7642)",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "13-ninjas-earth-616",
+      "name": "13 Ninjas",
+      "type": "organization",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/1/19/13_Ninjas_%28Earth-616%29_from_Wolverine_Vol_5_10_001.jpg/revision/latest/scale-to-width-down/360?cb=20220820235922",
+      "image_source": "https://marvel.fandom.com/wiki/13_Ninjas_(Earth-616)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 13 Ninjas (Earth-616)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://marvel.fandom.com/wiki/13_Ninjas_(Earth-616)",
+        "fandom_title": "13 Ninjas (Earth-616)",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "1001-nights",
+      "name": "1001 Nights",
+      "type": "place",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/3/3f/1001_Nights_from_Master_of_Kung_Fu_Vol_1_52_001.png/revision/latest/scale-to-width-down/360?cb=20221214040008",
+      "image_source": "https://marvel.fandom.com/wiki/1001_Nights",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 1001 Nights",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://marvel.fandom.com/wiki/1001_Nights",
+        "fandom_title": "1001 Nights",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "adrian-toomes-earth-8107",
+      "name": "Adrian Toomes",
+      "type": "person",
+      "description": "Spider-Man encountered the Vulture attempting to kidnap a scientist from his apartment, but was unable to stop him. The Vulture had kidnapped a number of scientists recently. While dressed in Harry's more expensive clothes, he was soon mistaken for Osborn by the Vulture, who kidnapped him. The Vulture took Peter to his airship base, where he found the other kidnapped scientists being forced to work for the Vulture. He forced Peter to develop enough radar-jamming paint to cover his ship, and Peter developed it using Harry's notes. After coating the Vulture's ship with the invisible paint, the Vulture left and Peter became Spider-Man. Spider-Man was thrown off the airship when the Vulture returned. He figured out that the Vulture's plans were to capture the probe and steal the rare gems. Spider-Man made it on the recovery ship, and prepared to battle the Vulture to prevent the theft of the space probe.",
+      "short_description": "Spider-Man encountered the Vulture attempting to kidnap a scientist from his apartment, but was unable to stop him. The Vulture had kidnapped a number of scientists recently. While dressed in Harry's more expensive…",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f7/Adrian_Toomes_%28Earth-8107%29_from_Spider-Man_%281981_animated_series%29_Season_1_23_0001.jpg/revision/latest/scale-to-width-down/360?cb=20130503185558",
+      "image_source": "https://marvel.fandom.com/wiki/Adrian_Toomes_(Earth-8107)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Adrian Toomes (Earth-8107)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://marvel.fandom.com/wiki/Adrian_Toomes_(Earth-8107)",
+        "fandom_title": "Adrian Toomes (Earth-8107)",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "1400-club-earth-616",
+      "name": "1400 Club",
+      "type": "organization",
+      "description": "In an attempt to impress the Foreigner and become a member of the organization, the assassin Sabretooth volunteered to kill the thief known as the Black Cat.\n\nThe Foreigner hired Blaze to fire-bomb the Black Cat's apartment. Foreigner's agents were responsible for the death of Ned Leeds.\n\nForeigner worked alongside Black Cat in order to destroy Spider-Man, but it was later revealed he planned to recruit Spider-Man to the organization as a assassin.\n\nForeigner hired Death Squad to kill Betty Brant Leeds, who was seeking to expose the Foreigner's role in her husband's death.",
+      "short_description": "In an attempt to impress the Foreigner and become a member of the organization, the assassin Sabretooth volunteered to kill the thief known as the Black Cat.",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://marvel.fandom.com/wiki/1400_Club_(Earth-616)",
+        "fandom_title": "1400 Club (Earth-616)",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "100th-street",
+      "name": "100th Street",
+      "type": "place",
+      "description": "100th Street may refer to:\n\n100th Street (Manhattan)\n\n100th Street Depot\n\n100th Street, a street in Los Angeles, California\n\nCalle 100 (Havana), 100th Street in english, street in Havana, Cuba",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/7/7e/100th_Street_from_Amazing_Spider-Man_Vol_1_135_001.png/revision/latest/scale-to-width-down/360?cb=20200108031638",
+      "image_source": "https://marvel.fandom.com/wiki/100th_Street",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 100th Street",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://marvel.fandom.com/wiki/100th_Street",
+        "fandom_title": "100th Street",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": "100th Street may refer to:"
     }
   ],
   "relationships": [
@@ -31759,6 +32268,150 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "adrian-toomes-earth-4477",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cult-earth-616",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "hor-mi-ga",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "adrian-toomes-earth-5631",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "vores-earth-616",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "0259-s",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "adrian-toomes-earth-6109",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "1000-hulks-earth-616",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "1-yarbro-court",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "adrian-toomes-earth-6111",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "101st-airborne-division-earth-616",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "10-downing-street",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "adrian-toomes-earth-7642",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "13-ninjas-earth-616",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "1001-nights",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "adrian-toomes-earth-8107",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "1400-club-earth-616",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "100th-street",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -31767,19 +32420,19 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (marvel.fandom.com) for identification and commentary only. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T17:47:27.154Z",
+  "generated_at": "2026-09-13T03:43:47.111Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://marvel.fandom.com/wiki/",
     "host": "marvel.fandom.com"
   },
   "stats": {
-    "fandom_titles": 45,
+    "fandom_titles": 1,
     "fandom_enriched_core": 0,
-    "fandom_created": 45,
-    "fandom_images": 39,
-    "fandom_intros": 19,
-    "description_ensure_at": "2026-09-12T17:53:13.999Z",
-    "description_ensure_count": 15
+    "fandom_created": 1,
+    "fandom_images": 1,
+    "fandom_intros": 0,
+    "description_ensure_at": "2026-09-13T03:44:04.762Z",
+    "description_ensure_count": 5
   }
 }

@@ -82,14 +82,32 @@ function ensureDir(dir) {
     fs.mkdirSync(dir, { recursive: true });
 }
 
-function writeJson(filePath, data) {
+function writeWithRetry(filePath, contents, attempts = 8) {
     ensureDir(path.dirname(filePath));
-    fs.writeFileSync(filePath, JSON.stringify(data));
+    let lastError = null;
+    for (let i = 0; i < attempts; i += 1) {
+        try {
+            const tmp = `${filePath}.${process.pid}.tmp`;
+            fs.writeFileSync(tmp, contents);
+            fs.renameSync(tmp, filePath);
+            return;
+        } catch (error) {
+            lastError = error;
+            const end = Date.now() + 150 * (i + 1);
+            while (Date.now() < end) {
+                /* brief backoff for Windows file locks */
+            }
+        }
+    }
+    throw lastError;
+}
+
+function writeJson(filePath, data) {
+    writeWithRetry(filePath, JSON.stringify(data));
 }
 
 function writeText(filePath, text) {
-    ensureDir(path.dirname(filePath));
-    fs.writeFileSync(filePath, text);
+    writeWithRetry(filePath, text);
 }
 
 async function loadSubjectsCatalog() {

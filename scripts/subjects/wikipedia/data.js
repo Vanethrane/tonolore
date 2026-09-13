@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Wikipedia.",
         "description": "How Wikipedia continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "wikipedia-practices",
+        "name": "Wikipedia practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Wikipedia.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Wikipedia."
+    },
+    {
+        "slug": "wikipedia-entry-1",
+        "name": "Wikipedia entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-2",
+        "name": "Wikipedia entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-3",
+        "name": "Wikipedia entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-4",
+        "name": "Wikipedia entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-5",
+        "name": "Wikipedia entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-6",
+        "name": "Wikipedia entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-7",
+        "name": "Wikipedia entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-8",
+        "name": "Wikipedia entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-9",
+        "name": "Wikipedia entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-10",
+        "name": "Wikipedia entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-11",
+        "name": "Wikipedia entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-12",
+        "name": "Wikipedia entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-13",
+        "name": "Wikipedia entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-14",
+        "name": "Wikipedia entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-15",
+        "name": "Wikipedia entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-16",
+        "name": "Wikipedia entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-17",
+        "name": "Wikipedia entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-18",
+        "name": "Wikipedia entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-19",
+        "name": "Wikipedia entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-20",
+        "name": "Wikipedia entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-21",
+        "name": "Wikipedia entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-22",
+        "name": "Wikipedia entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-23",
+        "name": "Wikipedia entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wikipedia-entry-24",
+        "name": "Wikipedia entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wikipedia.",
+        "description": "A supporting encyclopedia entry in the Wikipedia subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Wikipedia legacy is a primary trailhead under Wikipedia.",
         0.88,
         0.82
+    ],
+    [
+        "wikipedia",
+        "wikipedia-practices",
+        "contains",
+        "Wikipedia practices is a primary trailhead under Wikipedia.",
+        0.88,
+        0.82
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-1",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-2",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-3",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-4",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-5",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-6",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-7",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-8",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-9",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-10",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-11",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-12",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-13",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-14",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-15",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-16",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-17",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-18",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-19",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-20",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-21",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-22",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-23",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
+    ],
+    [
+        "wikipedia",
+        "wikipedia-entry-24",
+        "contains",
+        "Supporting entry under Wikipedia.",
+        0.75,
+        0.7
     ]
 ];
 

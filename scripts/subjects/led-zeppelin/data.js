@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Led Zeppelin.",
         "description": "Regions, routes, and spatial systems that situate Led Zeppelin beyond single named places."
+    },
+    {
+        "slug": "led-zeppelin-legacy",
+        "name": "Led Zeppelin legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Led Zeppelin.",
+        "description": "How Led Zeppelin continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "led-zeppelin-practices",
+        "name": "Led Zeppelin practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Led Zeppelin.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Led Zeppelin."
+    },
+    {
+        "slug": "led-zeppelin-entry-1",
+        "name": "Led Zeppelin entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-2",
+        "name": "Led Zeppelin entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-3",
+        "name": "Led Zeppelin entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-4",
+        "name": "Led Zeppelin entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-5",
+        "name": "Led Zeppelin entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-6",
+        "name": "Led Zeppelin entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-7",
+        "name": "Led Zeppelin entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-8",
+        "name": "Led Zeppelin entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-9",
+        "name": "Led Zeppelin entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-10",
+        "name": "Led Zeppelin entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-11",
+        "name": "Led Zeppelin entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-12",
+        "name": "Led Zeppelin entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-13",
+        "name": "Led Zeppelin entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-14",
+        "name": "Led Zeppelin entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-15",
+        "name": "Led Zeppelin entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-16",
+        "name": "Led Zeppelin entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-17",
+        "name": "Led Zeppelin entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-18",
+        "name": "Led Zeppelin entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-19",
+        "name": "Led Zeppelin entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-20",
+        "name": "Led Zeppelin entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-21",
+        "name": "Led Zeppelin entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-22",
+        "name": "Led Zeppelin entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "led-zeppelin-entry-23",
+        "name": "Led Zeppelin entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Led Zeppelin.",
+        "description": "A supporting encyclopedia entry in the Led Zeppelin subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Led Zeppelin geography is a primary trailhead under Led Zeppelin.",
         0.88,
         0.82
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-legacy",
+        "contains",
+        "Led Zeppelin legacy is a primary trailhead under Led Zeppelin.",
+        0.88,
+        0.82
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-practices",
+        "contains",
+        "Led Zeppelin practices is a primary trailhead under Led Zeppelin.",
+        0.88,
+        0.82
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-1",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-2",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-3",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-4",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-5",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-6",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-7",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-8",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-9",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-10",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-11",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-12",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-13",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-14",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-15",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-16",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-17",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-18",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-19",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-20",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-21",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-22",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
+    ],
+    [
+        "led-zeppelin",
+        "led-zeppelin-entry-23",
+        "contains",
+        "Supporting entry under Led Zeppelin.",
+        0.75,
+        0.7
     ]
 ];
 

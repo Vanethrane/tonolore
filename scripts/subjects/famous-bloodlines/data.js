@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Genealogy & famous bloodlines.",
         "description": "How Genealogy & famous bloodlines continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "famous-bloodlines-practices",
+        "name": "Genealogy & famous bloodlines practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Genealogy & famous bloodlines.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Genealogy & famous bloodlines."
+    },
+    {
+        "slug": "famous-bloodlines-entry-1",
+        "name": "Genealogy & famous bloodlines entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-2",
+        "name": "Genealogy & famous bloodlines entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-3",
+        "name": "Genealogy & famous bloodlines entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-4",
+        "name": "Genealogy & famous bloodlines entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-5",
+        "name": "Genealogy & famous bloodlines entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-6",
+        "name": "Genealogy & famous bloodlines entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-7",
+        "name": "Genealogy & famous bloodlines entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-8",
+        "name": "Genealogy & famous bloodlines entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-9",
+        "name": "Genealogy & famous bloodlines entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-10",
+        "name": "Genealogy & famous bloodlines entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-11",
+        "name": "Genealogy & famous bloodlines entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-12",
+        "name": "Genealogy & famous bloodlines entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-13",
+        "name": "Genealogy & famous bloodlines entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-14",
+        "name": "Genealogy & famous bloodlines entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-15",
+        "name": "Genealogy & famous bloodlines entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-16",
+        "name": "Genealogy & famous bloodlines entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-17",
+        "name": "Genealogy & famous bloodlines entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-18",
+        "name": "Genealogy & famous bloodlines entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-19",
+        "name": "Genealogy & famous bloodlines entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-20",
+        "name": "Genealogy & famous bloodlines entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-21",
+        "name": "Genealogy & famous bloodlines entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-22",
+        "name": "Genealogy & famous bloodlines entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-23",
+        "name": "Genealogy & famous bloodlines entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-bloodlines-entry-24",
+        "name": "Genealogy & famous bloodlines entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Genealogy & famous bloodlines.",
+        "description": "A supporting encyclopedia entry in the Genealogy & famous bloodlines subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Genealogy & famous bloodlines legacy is a primary trailhead under Genealogy & famous bloodlines.",
         0.88,
         0.82
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-practices",
+        "contains",
+        "Genealogy & famous bloodlines practices is a primary trailhead under Genealogy & famous bloodlines.",
+        0.88,
+        0.82
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-1",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-2",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-3",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-4",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-5",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-6",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-7",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-8",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-9",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-10",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-11",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-12",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-13",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-14",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-15",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-16",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-17",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-18",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-19",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-20",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-21",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-22",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-23",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-bloodlines",
+        "famous-bloodlines-entry-24",
+        "contains",
+        "Supporting entry under Genealogy & famous bloodlines.",
+        0.75,
+        0.7
     ]
 ];
 

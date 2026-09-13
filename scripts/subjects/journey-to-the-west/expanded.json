@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:37:17.719Z",
+  "generated_at": "2026-09-13T03:22:41.517Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9597,6 +9597,150 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "vulture-peak",
+      "name": "Vulture Peak",
+      "type": "place",
+      "description": "Vulture Peak is a cloud-layered mountain that touches Heaven, with ranges that turn and circle, folding upwards. It is decorated with beautiful pines and cedars, as well as flowers too rare to have names. Arhats and lay-sisters reside on the mountain and lecture.\n\nCategory:Landforms Category:Locations on Earth Category:Buddhism",
+      "short_description": "Vulture Peak is a cloud-layered mountain that touches Heaven, with ranges that turn and circle, folding upwards. It is decorated with beautiful pines and cedars, as well as flowers too rare to have names. Arhats and…",
+      "evidence": "fiction",
+      "parentSlug": "journey-to-the-west",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://journey-to-the-west-xiyouji.fandom.com/wiki/Vulture_Peak",
+        "fandom_title": "Vulture Peak",
+        "source_fandom": "journeytothewest.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "water-belly-cave",
+      "name": "Water Belly Cave",
+      "type": "place",
+      "description": "The cave is where the Demon King of Confusion and his subordinates reside. In the cave were also the utensils, such as stone pots and bowls, that the Demon King stole from the monkeys in the Water Curtain Cave.\n\nAfter Sun Wukong defeated the Demon King of Confusion, killed all imps and rescued the monkeys that the demon had kidnapped, he set fire to the cave and reduced it to ashes.\n\nCategory:Caves Category:Locations on Earth",
+      "short_description": "The cave is where the Demon King of Confusion and his subordinates reside. In the cave were also the utensils, such as stone pots and bowls, that the Demon King stole from the monkeys in the Water Curtain Cave.",
+      "evidence": "fiction",
+      "parentSlug": "journey-to-the-west",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://journey-to-the-west-xiyouji.fandom.com/wiki/Water_Belly_Cave",
+        "fandom_title": "Water Belly Cave",
+        "source_fandom": "journeytothewest.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "water-curtain-cave",
+      "name": "Water Curtain Cave",
+      "type": "place",
+      "description": "Situated within the heart of the mountain, the Water Curtain Cave can be found by traveling through a magnificent waterfall cascading down from a spring that went down to join the waves of the sea. The entrance of the cave is connected to the waterfall by an iron bridge leading to the cave, with water rushing below that poured out through a fissure in the rocks.\n\nThis cavern boasts a serene landscape, which include piles of emerald moss, white clouds gracing the air amidst wisps of colored mist, dragon pearls hanging in niches and exotic blooms all around, tall bamboos, sprigs of plum blossom and a few pines that always attract rain. Within this haven of tranquility, there is a house with windows, which include stone chairs and beds, a stove and fireplace, a table, stone plates and bowls. A stone tablet with the a carved inscription reads: \".\n\n花果山福地、水簾洞洞天 Huāguǒ shān fúdì, shuǐlián dòng dòngtiān\n\nThe Blessed Land of the Mountain of Flowers and Fruit, Cave Heaven of the Water Curtain.",
+      "short_description": "Situated within the heart of the mountain, the Water Curtain Cave can be found by traveling through a magnificent waterfall cascading down from a spring that went down to join the waves of the sea. The entrance of the…",
+      "evidence": "fiction",
+      "parentSlug": "journey-to-the-west",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/journey-to-the-west-xiyouji/images/7/71/Water_Curtain_Cave_%28animation_1998%29.png/revision/latest/scale-to-width-down/360?cb=20230821220806",
+      "image_source": "https://journey-to-the-west-xiyouji.fandom.com/wiki/Water_Curtain_Cave",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Classic novel is public domain; modern adaptations remain with rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Water Curtain Cave",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://journey-to-the-west-xiyouji.fandom.com/wiki/Water_Curtain_Cave",
+        "fandom_title": "Water Curtain Cave",
+        "source_fandom": "journeytothewest.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "wei-river",
+      "name": "Wei River",
+      "type": "place",
+      "description": "The is a river which separates Earth and the Underworld.\n\nAfter travelling the Sixfold Path of Transmigration, Tang Taizong came to a stop at the banks of the Wei River. One of his attendants threw him into the river and drowned him, at which point he woke up alive in his coffin.\n\nCategory:Rivers Category:Locations in the Underworld Category:Locations on Earth",
+      "short_description": "The is a river which separates Earth and the Underworld.",
+      "evidence": "fiction",
+      "parentSlug": "journey-to-the-west",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://journey-to-the-west-xiyouji.fandom.com/wiki/Wei_River",
+        "fandom_title": "Wei River",
+        "source_fandom": "journeytothewest.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "west-sea",
+      "name": "West Sea",
+      "type": "place",
+      "description": "The is one of the Four Seas, the body of water surrounding the Eastern Continent. It is the domain of Ao Run, the Dragon King of the Western Sea.\n\nAfter being unable to find a teacher on the Southern Continent, Sun Wukong made a raft and sailed across the West Sea until he reached the Western Continent.\n\nCategory:Seas Category:Locations on Earth",
+      "short_description": "The is one of the Four Seas, the body of water surrounding the Eastern Continent. It is the domain of Ao Run, the Dragon King of the Western Sea.",
+      "evidence": "fiction",
+      "parentSlug": "journey-to-the-west",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://journey-to-the-west-xiyouji.fandom.com/wiki/West_Sea",
+        "fandom_title": "West Sea",
+        "source_fandom": "journeytothewest.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "western-continent",
+      "name": "Western Continent",
+      "type": "place",
+      "description": "The Western Continent is where the Tathagata Buddha himself dwells. The people of the Western Continent are neither covetous nor prone to violence, and they control their humours and temper their spirits. Because of this, they can live for an incredible amount of time.\n\nThe following places are located on the Western Continent:\n\nCategory:Continents Category:Locations on Earth",
+      "short_description": "The Western Continent is where the Tathagata Buddha himself dwells. The people of the Western Continent are neither covetous nor prone to violence, and they control their humours and temper their spirits. Because of…",
+      "evidence": "fiction",
+      "parentSlug": "journey-to-the-west",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://journey-to-the-west-xiyouji.fandom.com/wiki/Western_Continent",
+        "fandom_title": "Western Continent",
+        "source_fandom": "journeytothewest.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -12639,6 +12783,54 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "vulture-peak",
+      "journey-to-the-west",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "water-belly-cave",
+      "journey-to-the-west",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "water-curtain-cave",
+      "journey-to-the-west",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "wei-river",
+      "journey-to-the-west",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "west-sea",
+      "journey-to-the-west",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "western-continent",
+      "journey-to-the-west",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "stats": {
@@ -12648,11 +12840,11 @@
     "images_attached": 0,
     "core_enrichments": 0,
     "preserved_fandom": 0,
-    "fandom_titles": 11,
+    "fandom_titles": 1,
     "fandom_enriched_core": 0,
-    "fandom_created": 0,
-    "fandom_images": 4,
-    "fandom_intros": 11,
+    "fandom_created": 1,
+    "fandom_images": 0,
+    "fandom_intros": 1,
     "description_ensure_at": "2026-09-12T09:32:04.019Z",
     "description_ensure_count": 3
   }

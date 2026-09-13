@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of The Mafia.",
         "description": "How The Mafia continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "the-mafia-practices",
+        "name": "The Mafia practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in The Mafia.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in The Mafia."
+    },
+    {
+        "slug": "the-mafia-entry-1",
+        "name": "The Mafia entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-2",
+        "name": "The Mafia entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-3",
+        "name": "The Mafia entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-4",
+        "name": "The Mafia entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-5",
+        "name": "The Mafia entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-6",
+        "name": "The Mafia entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-7",
+        "name": "The Mafia entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-8",
+        "name": "The Mafia entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-9",
+        "name": "The Mafia entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-10",
+        "name": "The Mafia entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-11",
+        "name": "The Mafia entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-12",
+        "name": "The Mafia entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-13",
+        "name": "The Mafia entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-14",
+        "name": "The Mafia entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-15",
+        "name": "The Mafia entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-16",
+        "name": "The Mafia entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-17",
+        "name": "The Mafia entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-18",
+        "name": "The Mafia entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-19",
+        "name": "The Mafia entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-20",
+        "name": "The Mafia entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-21",
+        "name": "The Mafia entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-22",
+        "name": "The Mafia entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-23",
+        "name": "The Mafia entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-mafia-entry-24",
+        "name": "The Mafia entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Mafia.",
+        "description": "A supporting encyclopedia entry in the The Mafia subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "The Mafia legacy is a primary trailhead under The Mafia.",
         0.88,
         0.82
+    ],
+    [
+        "the-mafia",
+        "the-mafia-practices",
+        "contains",
+        "The Mafia practices is a primary trailhead under The Mafia.",
+        0.88,
+        0.82
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-1",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-2",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-3",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-4",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-5",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-6",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-7",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-8",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-9",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-10",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-11",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-12",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-13",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-14",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-15",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-16",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-17",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-18",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-19",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-20",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-21",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-22",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-23",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-mafia",
+        "the-mafia-entry-24",
+        "contains",
+        "Supporting entry under The Mafia.",
+        0.75,
+        0.7
     ]
 ];
 

@@ -12681,6 +12681,180 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "5-volts-house",
+      "name": "5-Volt's House",
+      "type": "place",
+      "description": "5-Volt's House, also known as 9-Volt's House, is the residence of 5-Volt and 9-Volt in the . It first appears in WarioWare, Inc.: Mega Microgame$!. The most commonly seen area of the house is 9-Volt's bedroom, which consists of various Nintendo memorabilia.\n\nIn the opening for 9-Volt's stage, 9-Volt leaves Diamond City Elementary and rides his skateboard back home.\n\n9-Volt's House makes an appearance in the opening cutscene, in which 9-Volt invites 18-Volt to his home to play Nintendo Entertainment System.\n\n9-Volt's House is similarly featured as the setting of 9-Volt's stage, and is where 9-Volt and 18-Volt hang out to play video games.",
+      "short_description": "5-Volt's House, also known as 9-Volt's House, is the residence of 5-Volt and 9-Volt in the . It first appears in WarioWare, Inc.: Mega Microgame$!. The most commonly seen area of the house is 9-Volt's bedroom, which…",
+      "evidence": "fiction",
+      "parentSlug": "mario",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/mario/images/d/d4/WWGIT_9-Volt_House.jpg/revision/latest/scale-to-width-down/360?cb=20230702165346",
+      "image_source": "https://mario.fandom.com/wiki/5-Volt%27s_House",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 5-Volt's House",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://mario.fandom.com/wiki/5-Volt%27s_House",
+        "fandom_title": "5-Volt's House",
+        "source_fandom": "mario.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "502-bathroom",
+      "name": "502 Bathroom",
+      "type": "place",
+      "description": "502 Bathroom is a room in Luigi's Mansion 3.\n\n502 Bathroom is found in the RIP Suites, the fifth floor of The Last Resort. It is a bathroom entered from Mario's hotel room, Room 502. The 502 Bathroom has the usual bathroom features, including a bathtub, a sink, and a toilet. In addition, there is a drain in the floor.\n\nThe 502 Bathroom's entrance is initially blocked by a cart is blocking the door, preventing Luigi from exploring the bathroom. The next time he explores the RIP Suites, Luigi can use the Suction Shot on the cart to clear the door and explore the 502 Bathroom.\n\nGooigi can fall through the drain in the floor. In the area below the drain, Gooigi can use a Suction Shot to pull off the wood barring the valve, then turn the valve all the way so that the flowing water is redirected to the bathtub, unblocking the path to the treasure chest.",
+      "short_description": "502 Bathroom is a room in Luigi's Mansion 3.",
+      "evidence": "fiction",
+      "parentSlug": "mario",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/mario/images/5/57/502_Bathroom_LM3.jpg/revision/latest/scale-to-width-down/360?cb=20231022014501",
+      "image_source": "https://mario.fandom.com/wiki/502_Bathroom",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 502 Bathroom",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://mario.fandom.com/wiki/502_Bathroom",
+        "fandom_title": "502 Bathroom",
+        "source_fandom": "mario.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "island",
+      "name": "? Island",
+      "type": "place",
+      "description": "? Island is one of the eleven islands of The Great Sea in Paper Mario: The Origami King. It is located in the B-5 Tile on the Sea Chart. The island consists of Origami Stone Spikes, Origami Sidesteppers, many Question Blocks, and a Paper Macho Stone Spike on top of the hill. A Sensor Lab can be located here.\n\nThe island as the name says it is shaped like a question mark. It is a grassy island with slopes where the Origami Stone Spikes throws rocks. In the center area are a floor made out of Question Blocks where the Sidestepers are located. There is a little entrace at the side who leads to a underground part with chest that contains a Collectible and a block that releases a POW Block who can be used to hit the ? Blocks.\n\nde:?-Eiland fr:Île du ? Category:Locations in Paper Mario: The Origami King Category:Islands",
+      "short_description": "? Island is one of the eleven islands of The Great Sea in Paper Mario: The Origami King. It is located in the B-5 Tile on the Sea Chart. The island consists of Origami Stone Spikes, Origami Sidesteppers, many Question…",
+      "evidence": "fiction",
+      "parentSlug": "mario",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/mario/images/a/a4/PMTOK_Question_Island.jpg/revision/latest/scale-to-width-down/360?cb=20210804161451",
+      "image_source": "https://mario.fandom.com/wiki/%3F_Island",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for ? Island",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://mario.fandom.com/wiki/%3F_Island",
+        "fandom_title": "? Island",
+        "source_fandom": "mario.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "abandoned-castle",
+      "name": "Abandoned Castle",
+      "type": "place",
+      "description": "The Abandoned Castle is a fortress located in the Dark Lands under Bowser's control in the Super Mario Bros. film series.\n\nCategory:Locations in The Super Mario Bros. Movie Category:Forts and Castles",
+      "short_description": "The Abandoned Castle is a fortress located in the Dark Lands under Bowser's control in the Super Mario Bros. film series.",
+      "evidence": "fiction",
+      "parentSlug": "mario",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/mario/images/8/88/Supermariobros-animationscreencaps.com-4289.jpg/revision/latest/scale-to-width-down/360?cb=20250712231954",
+      "image_source": "https://mario.fandom.com/wiki/Abandoned_Castle",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Abandoned Castle",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://mario.fandom.com/wiki/Abandoned_Castle",
+        "fandom_title": "Abandoned Castle",
+        "source_fandom": "mario.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ace-magic-wand-factory",
+      "name": "Ace Magic Wand Factory",
+      "type": "place",
+      "description": "The Ace Magic Wand Factory is a location in the The Adventures of Super Mario Bros. 3 episode \"A Toadally Magical Adventure.\"\n\nThe Ace Magic Wand Factory is a factory that produces Magic Wands. It is located in the Sky World.\n\nCategory:Factories Category:Sky-themed Category:Locations in The Adventures of Super Mario Bros. 3",
+      "short_description": "The Ace Magic Wand Factory is a location in the The Adventures of Super Mario Bros. 3 episode \"A Toadally Magical Adventure.\"",
+      "evidence": "fiction",
+      "parentSlug": "mario",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/mario/images/8/88/Ace_Magic_Wand_Factory.jpg/revision/latest/scale-to-width-down/360?cb=20231025223621",
+      "image_source": "https://mario.fandom.com/wiki/Ace_Magic_Wand_Factory",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Ace Magic Wand Factory",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://mario.fandom.com/wiki/Ace_Magic_Wand_Factory",
+        "fandom_title": "Ace Magic Wand Factory",
+        "source_fandom": "mario.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "africa",
+      "name": "Africa",
+      "type": "place",
+      "description": "Africa is a real-world continent found on Earth. Its first appearance in Mario-related media is the Saturday Supercade episode \"Hairy Parent,\" but the first appearance of Africa in a Mario game is Mario is Missing!. Egypt is the most famous country within Africa and the most recurring within Mario-related media.\n\nIn Mario is Missing!, Luigi visits a few cities in Africa on his journey to rescue Mario, including:\n\nIn all versions of Mario's Time Machine, Egypt is featured as one of the locations that Mario travels to.\n\nWhile not appearing in gameplay, Africa, along with Earth's other continents, is featured on the online racing menus in the entries of the Mario Kart series that support online play, including Mario Kart DS, Mario Kart Wii, Mario Kart 7, and Mario Kart 8 along with its remake Mario Kart 8 Deluxe.",
+      "short_description": "Africa is a real-world continent found on Earth. Its first appearance in Mario-related media is the Saturday Supercade episode \"Hairy Parent,\" but the first appearance of Africa in a Mario game is Mario is Missing!.…",
+      "evidence": "fiction",
+      "parentSlug": "mario",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/mario/images/5/5f/African_animals_TAOSMB3.jpg/revision/latest/scale-to-width-down/360?cb=20230614202232",
+      "image_source": "https://mario.fandom.com/wiki/Africa",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Africa",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://mario.fandom.com/wiki/Africa",
+        "fandom_title": "Africa",
+        "source_fandom": "mario.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -16275,6 +16449,54 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "5-volts-house",
+      "mario",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "502-bathroom",
+      "mario",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "island",
+      "mario",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abandoned-castle",
+      "mario",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ace-magic-wand-factory",
+      "mario",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "africa",
+      "mario",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -16283,18 +16505,18 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (mario.fandom.com) for identification and commentary only. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T17:59:14.019Z",
+  "generated_at": "2026-09-13T03:47:15.198Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://mario.fandom.com/wiki/",
     "host": "mario.fandom.com"
   },
   "stats": {
-    "fandom_titles": 45,
-    "fandom_enriched_core": 5,
-    "fandom_created": 25,
-    "fandom_images": 37,
-    "fandom_intros": 44,
+    "fandom_titles": 1,
+    "fandom_enriched_core": 0,
+    "fandom_created": 1,
+    "fandom_images": 1,
+    "fandom_intros": 1,
     "description_ensure_at": "2026-09-12T14:49:30.809Z",
     "description_ensure_count": 1
   }

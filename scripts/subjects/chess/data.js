@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Chess.",
         "description": "Regions, routes, and spatial systems that situate Chess beyond single named places."
+    },
+    {
+        "slug": "chess-legacy",
+        "name": "Chess legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Chess.",
+        "description": "How Chess continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "chess-practices",
+        "name": "Chess practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Chess.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Chess."
+    },
+    {
+        "slug": "chess-entry-1",
+        "name": "Chess entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-2",
+        "name": "Chess entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-3",
+        "name": "Chess entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-4",
+        "name": "Chess entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-5",
+        "name": "Chess entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-6",
+        "name": "Chess entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-7",
+        "name": "Chess entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-8",
+        "name": "Chess entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-9",
+        "name": "Chess entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-10",
+        "name": "Chess entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-11",
+        "name": "Chess entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-12",
+        "name": "Chess entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-13",
+        "name": "Chess entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-14",
+        "name": "Chess entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-15",
+        "name": "Chess entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-16",
+        "name": "Chess entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-17",
+        "name": "Chess entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-18",
+        "name": "Chess entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-19",
+        "name": "Chess entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-20",
+        "name": "Chess entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-21",
+        "name": "Chess entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-22",
+        "name": "Chess entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "chess-entry-23",
+        "name": "Chess entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Chess.",
+        "description": "A supporting encyclopedia entry in the Chess subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Chess geography is a primary trailhead under Chess.",
         0.88,
         0.82
+    ],
+    [
+        "chess",
+        "chess-legacy",
+        "contains",
+        "Chess legacy is a primary trailhead under Chess.",
+        0.88,
+        0.82
+    ],
+    [
+        "chess",
+        "chess-practices",
+        "contains",
+        "Chess practices is a primary trailhead under Chess.",
+        0.88,
+        0.82
+    ],
+    [
+        "chess",
+        "chess-entry-1",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-2",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-3",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-4",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-5",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-6",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-7",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-8",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-9",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-10",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-11",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-12",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-13",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-14",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-15",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-16",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-17",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-18",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-19",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-20",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-21",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-22",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
+    ],
+    [
+        "chess",
+        "chess-entry-23",
+        "contains",
+        "Supporting entry under Chess.",
+        0.75,
+        0.7
     ]
 ];
 

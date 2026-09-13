@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into Premier League.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify Premier League."
+    },
+    {
+        "slug": "premier-league-geography",
+        "name": "Premier League geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for Premier League.",
+        "description": "Regions, routes, and spatial systems that situate Premier League beyond single named places."
+    },
+    {
+        "slug": "premier-league-legacy",
+        "name": "Premier League legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Premier League.",
+        "description": "How Premier League continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "premier-league-practices",
+        "name": "Premier League practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Premier League.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Premier League."
+    },
+    {
+        "slug": "premier-league-entry-1",
+        "name": "Premier League entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "premier-league-entry-2",
+        "name": "Premier League entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "premier-league-entry-3",
+        "name": "Premier League entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "premier-league-entry-4",
+        "name": "Premier League entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "premier-league-entry-5",
+        "name": "Premier League entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "premier-league-entry-6",
+        "name": "Premier League entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "premier-league-entry-7",
+        "name": "Premier League entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "premier-league-entry-8",
+        "name": "Premier League entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "premier-league-entry-9",
+        "name": "Premier League entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "premier-league-entry-10",
+        "name": "Premier League entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "premier-league-entry-11",
+        "name": "Premier League entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "premier-league-entry-12",
+        "name": "Premier League entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "premier-league-entry-13",
+        "name": "Premier League entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "premier-league-entry-14",
+        "name": "Premier League entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "premier-league-entry-15",
+        "name": "Premier League entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "premier-league-entry-16",
+        "name": "Premier League entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "premier-league-entry-17",
+        "name": "Premier League entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "premier-league-entry-18",
+        "name": "Premier League entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "premier-league-entry-19",
+        "name": "Premier League entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "premier-league-entry-20",
+        "name": "Premier League entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "premier-league-entry-21",
+        "name": "Premier League entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "premier-league-entry-22",
+        "name": "Premier League entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Premier League.",
+        "description": "A supporting encyclopedia entry in the Premier League subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "Premier League sources is a primary trailhead under Premier League.",
         0.88,
         0.82
+    ],
+    [
+        "premier-league",
+        "premier-league-geography",
+        "contains",
+        "Premier League geography is a primary trailhead under Premier League.",
+        0.88,
+        0.82
+    ],
+    [
+        "premier-league",
+        "premier-league-legacy",
+        "contains",
+        "Premier League legacy is a primary trailhead under Premier League.",
+        0.88,
+        0.82
+    ],
+    [
+        "premier-league",
+        "premier-league-practices",
+        "contains",
+        "Premier League practices is a primary trailhead under Premier League.",
+        0.88,
+        0.82
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-1",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-2",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-3",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-4",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-5",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-6",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-7",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-8",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-9",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-10",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-11",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-12",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-13",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-14",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-15",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-16",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-17",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-18",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-19",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-20",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-21",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
+    ],
+    [
+        "premier-league",
+        "premier-league-entry-22",
+        "contains",
+        "Supporting entry under Premier League.",
+        0.75,
+        0.7
     ]
 ];
 

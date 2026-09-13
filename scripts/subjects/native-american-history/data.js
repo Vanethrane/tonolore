@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Native American history & nations.",
         "description": "How Native American history & nations continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "native-american-history-practices",
+        "name": "Native American history & nations practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Native American history & nations.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Native American history & nations."
+    },
+    {
+        "slug": "native-american-history-entry-1",
+        "name": "Native American history & nations entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-2",
+        "name": "Native American history & nations entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-3",
+        "name": "Native American history & nations entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-4",
+        "name": "Native American history & nations entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-5",
+        "name": "Native American history & nations entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-6",
+        "name": "Native American history & nations entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-7",
+        "name": "Native American history & nations entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-8",
+        "name": "Native American history & nations entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-9",
+        "name": "Native American history & nations entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-10",
+        "name": "Native American history & nations entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-11",
+        "name": "Native American history & nations entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-12",
+        "name": "Native American history & nations entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-13",
+        "name": "Native American history & nations entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-14",
+        "name": "Native American history & nations entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-15",
+        "name": "Native American history & nations entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-16",
+        "name": "Native American history & nations entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-17",
+        "name": "Native American history & nations entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-18",
+        "name": "Native American history & nations entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-19",
+        "name": "Native American history & nations entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-20",
+        "name": "Native American history & nations entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-21",
+        "name": "Native American history & nations entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-22",
+        "name": "Native American history & nations entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-23",
+        "name": "Native American history & nations entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "native-american-history-entry-24",
+        "name": "Native American history & nations entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Native American history & nations.",
+        "description": "A supporting encyclopedia entry in the Native American history & nations subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Native American history & nations legacy is a primary trailhead under Native American history & nations.",
         0.88,
         0.82
+    ],
+    [
+        "native-american-history",
+        "native-american-history-practices",
+        "contains",
+        "Native American history & nations practices is a primary trailhead under Native American history & nations.",
+        0.88,
+        0.82
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-1",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-2",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-3",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-4",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-5",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-6",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-7",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-8",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-9",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-10",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-11",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-12",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-13",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-14",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-15",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-16",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-17",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-18",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-19",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-20",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-21",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-22",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-23",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
+    ],
+    [
+        "native-american-history",
+        "native-american-history-entry-24",
+        "contains",
+        "Supporting entry under Native American history & nations.",
+        0.75,
+        0.7
     ]
 ];
 

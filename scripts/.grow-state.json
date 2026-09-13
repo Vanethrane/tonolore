@@ -1,409 +1,498 @@
 {
   "subjectIndex": 59,
-  "cycle": 1040,
+  "cycle": 1046,
   "subjects": {
     "five-nights-at-freddys": {
-      "visits": 1034,
-      "lastRunAt": "2026-09-12T17:43:10.078Z",
-      "lastCreated": 25,
-      "lastEntityCount": 384
+      "visits": 1052,
+      "lastRunAt": "2026-09-13T03:34:35.346Z",
+      "lastCreated": 1,
+      "lastEntityCount": 396,
+      "lastList": "Locations"
     },
     "one-piece": {
-      "visits": 16,
-      "lastRunAt": "2026-09-12T17:37:54.921Z",
+      "visits": 46,
+      "lastRunAt": "2026-09-13T03:24:14.052Z",
       "lastCreated": 0,
-      "lastEntityCount": 2653
+      "lastEntityCount": 2653,
+      "lastList": "Ships"
     },
     "star-wars": {
-      "visits": 11,
-      "lastRunAt": "2026-09-12T17:38:15.437Z",
+      "visits": 39,
+      "lastRunAt": "2026-09-13T03:25:18.081Z",
       "lastCreated": 0,
-      "lastEntityCount": 5756
+      "lastEntityCount": 5758,
+      "lastList": "Organizations"
     },
     "harry-potter": {
-      "visits": 2,
-      "lastRunAt": "2026-09-12T12:29:41.734Z",
-      "lastCreated": 38,
-      "lastEntityCount": 1046
+      "visits": 11,
+      "lastRunAt": "2026-09-13T03:28:49.404Z",
+      "lastCreated": 1,
+      "lastEntityCount": 1069,
+      "lastList": "Objects"
     },
     "pokemon": {
-      "visits": 16,
-      "lastRunAt": "2026-09-12T17:39:42.207Z",
-      "lastCreated": 0,
-      "lastEntityCount": 3075
+      "visits": 24,
+      "lastRunAt": "2026-09-13T03:30:40.375Z",
+      "lastCreated": 1,
+      "lastEntityCount": 3086,
+      "lastList": "Locations"
     },
     "berserk": {
-      "visits": 2,
-      "lastRunAt": "2026-09-11T23:12:12.718Z",
+      "visits": 38,
+      "lastRunAt": "2026-09-13T03:40:25.988Z",
       "lastCreated": 0,
-      "lastEntityCount": 61
+      "lastEntityCount": 61,
+      "lastList": "Story Arcs"
     },
     "naruto": {
-      "visits": 18,
-      "lastRunAt": "2026-09-12T18:03:13.130Z",
-      "lastCreated": 15,
-      "lastEntityCount": 610
+      "visits": 28,
+      "lastRunAt": "2026-09-13T03:55:31.216Z",
+      "lastCreated": 1,
+      "lastEntityCount": 624,
+      "lastList": "Jutsu"
     },
     "minecraft": {
-      "visits": 17,
-      "lastRunAt": "2026-09-12T18:04:53.556Z",
-      "lastCreated": 18,
-      "lastEntityCount": 503
+      "visits": 35,
+      "lastRunAt": "2026-09-13T03:56:49.250Z",
+      "lastCreated": 0,
+      "lastEntityCount": 503,
+      "lastList": "Items"
     },
     "final-fantasy": {
-      "visits": 14,
-      "lastRunAt": "2026-09-12T18:11:42.992Z",
+      "visits": 32,
+      "lastRunAt": "2026-09-13T04:03:46.720Z",
       "lastCreated": 0,
-      "lastEntityCount": 1739
+      "lastEntityCount": 1739,
+      "lastList": "Summons"
     },
     "elder-scrolls": {
-      "visits": 14,
-      "lastRunAt": "2026-09-12T18:10:13.309Z",
+      "visits": 32,
+      "lastRunAt": "2026-09-13T04:02:06.258Z",
       "lastCreated": 0,
-      "lastEntityCount": 1323
+      "lastEntityCount": 1323,
+      "lastList": "Locations"
     },
     "world-of-warcraft": {
-      "visits": 2,
-      "lastRunAt": "2026-09-11T22:46:15.949Z",
+      "visits": 20,
+      "lastRunAt": "2026-09-13T04:02:58.752Z",
       "lastCreated": 0,
-      "lastEntityCount": 2849
+      "lastEntityCount": 2849,
+      "lastList": "Zones"
     },
     "fallout": {
-      "visits": 14,
-      "lastRunAt": "2026-09-12T18:12:06.213Z",
+      "visits": 32,
+      "lastRunAt": "2026-09-13T04:04:16.274Z",
       "lastCreated": 0,
-      "lastEntityCount": 215
+      "lastEntityCount": 215,
+      "lastList": "Locations"
     },
     "destiny": {
-      "visits": 14,
-      "lastRunAt": "2026-09-12T18:12:34.527Z",
+      "visits": 32,
+      "lastRunAt": "2026-09-13T04:04:49.614Z",
       "lastCreated": 0,
-      "lastEntityCount": 644
+      "lastEntityCount": 644,
+      "lastList": "Locations"
     },
     "doctor-who": {
-      "visits": 2,
-      "lastRunAt": "2026-09-11T23:20:09.855Z",
+      "visits": 20,
+      "lastRunAt": "2026-09-13T04:05:23.329Z",
       "lastCreated": 0,
-      "lastEntityCount": 795
+      "lastEntityCount": 795,
+      "lastList": "Planets"
     },
     "the-witcher": {
-      "visits": 3,
-      "lastRunAt": "2026-09-12T00:13:31.569Z",
+      "visits": 21,
+      "lastRunAt": "2026-09-13T04:06:26.571Z",
       "lastCreated": 0,
-      "lastEntityCount": 938
+      "lastEntityCount": 938,
+      "lastList": "Organizations"
     },
     "marvel": {
-      "visits": 18,
-      "lastRunAt": "2026-09-12T17:53:50.491Z",
-      "lastCreated": 45,
-      "lastEntityCount": 885
+      "visits": 19,
+      "lastRunAt": "2026-09-13T02:32:56.924Z",
+      "lastCreated": 1,
+      "lastEntityCount": 899,
+      "lastList": "Teams"
     },
     "dc": {
-      "visits": 18,
-      "lastRunAt": "2026-09-12T17:58:56.382Z",
-      "lastCreated": 42,
-      "lastEntityCount": 868
+      "visits": 30,
+      "lastRunAt": "2026-09-13T03:45:17.620Z",
+      "lastCreated": 0,
+      "lastEntityCount": 873,
+      "lastList": "Characters"
     },
     "dragon-ball": {
-      "visits": 3,
-      "lastRunAt": "2026-09-12T00:17:02.136Z",
-      "lastCreated": 0,
-      "lastEntityCount": 138
+      "visits": 22,
+      "lastRunAt": "2026-09-13T03:37:40.160Z",
+      "lastCreated": 1,
+      "lastEntityCount": 156,
+      "lastList": "Transformations"
     },
     "attack-on-titan": {
-      "visits": 18,
-      "lastRunAt": "2026-09-12T18:03:41.785Z",
+      "visits": 36,
+      "lastRunAt": "2026-09-13T03:56:12.253Z",
       "lastCreated": 0,
-      "lastEntityCount": 246
+      "lastEntityCount": 246,
+      "lastList": "Locations"
     },
     "demon-slayer": {
-      "visits": 19,
-      "lastRunAt": "2026-09-12T18:03:25.543Z",
+      "visits": 37,
+      "lastRunAt": "2026-09-13T03:55:50.112Z",
       "lastCreated": 0,
-      "lastEntityCount": 156
+      "lastEntityCount": 156,
+      "lastList": "Locations"
     },
     "jojos-bizarre-adventure": {
-      "visits": 16,
-      "lastRunAt": "2026-09-12T17:15:10.286Z",
-      "lastCreated": 14,
-      "lastEntityCount": 429
+      "visits": 34,
+      "lastRunAt": "2026-09-13T04:10:05.698Z",
+      "lastCreated": 1,
+      "lastEntityCount": 437,
+      "lastList": "Locations"
     },
     "arthurian-legend": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:34:32.570Z",
+      "visits": 24,
+      "lastRunAt": "2026-09-13T03:18:58.776Z",
       "lastCreated": 0,
-      "lastEntityCount": 8
+      "lastEntityCount": 9,
+      "lastList": "Locations"
     },
     "shakespeare": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:34:55.241Z",
+      "visits": 24,
+      "lastRunAt": "2026-09-13T03:19:23.041Z",
       "lastCreated": 0,
-      "lastEntityCount": 138
+      "lastEntityCount": 138,
+      "lastList": "Plays"
     },
     "formula-1": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:35:59.078Z",
-      "lastCreated": 45,
-      "lastEntityCount": 585
+      "visits": 30,
+      "lastRunAt": "2026-09-13T03:22:01.148Z",
+      "lastCreated": 1,
+      "lastEntityCount": 603,
+      "lastList": "Circuits"
     },
     "the-beatles": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:37:00.451Z",
-      "lastCreated": 39,
-      "lastEntityCount": 558
+      "visits": 30,
+      "lastRunAt": "2026-09-13T03:22:16.279Z",
+      "lastCreated": 0,
+      "lastEntityCount": 558,
+      "lastList": "People"
     },
     "metallica": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:37:08.628Z",
+      "visits": 30,
+      "lastRunAt": "2026-09-13T03:22:30.493Z",
       "lastCreated": 0,
-      "lastEntityCount": 220
+      "lastEntityCount": 220,
+      "lastList": "Band members"
     },
     "journey-to-the-west": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:37:17.734Z",
-      "lastCreated": 0,
-      "lastEntityCount": 380
+      "visits": 24,
+      "lastRunAt": "2026-09-13T03:23:16.910Z",
+      "lastCreated": 1,
+      "lastEntityCount": 386,
+      "lastList": "Locations"
     },
     "lord-of-the-rings": {
-      "visits": 13,
-      "lastRunAt": "2026-09-12T17:42:02.707Z",
-      "lastCreated": 9,
-      "lastEntityCount": 1719
+      "visits": 24,
+      "lastRunAt": "2026-09-13T03:32:47.725Z",
+      "lastCreated": 1,
+      "lastEntityCount": 1728,
+      "lastList": "Objects"
     },
-    "cosmere": {},
-    "wheel-of-time": {},
-    "spider-man": {
-      "visits": 13,
-      "lastRunAt": "2026-09-12T17:59:03.276Z",
+    "cosmere": {
+      "visits": 24,
+      "lastRunAt": "2026-09-13T03:34:56.242Z",
       "lastCreated": 0,
-      "lastEntityCount": 0
+      "lastEntityCount": 88,
+      "lastList": "Cognitive Shadows"
+    },
+    "wheel-of-time": {
+      "visits": 46,
+      "lastRunAt": "2026-09-13T03:39:51.188Z",
+      "lastCreated": 1,
+      "lastEntityCount": 403,
+      "lastList": "Shadowspawn"
+    },
+    "spider-man": {
+      "visits": 25,
+      "lastRunAt": "2026-09-13T03:46:23.821Z",
+      "lastCreated": 0,
+      "lastEntityCount": 0,
+      "lastList": "Spider-Man Villains"
     },
     "mario": {
-      "visits": 13,
-      "lastRunAt": "2026-09-12T17:59:58.149Z",
-      "lastCreated": 25,
-      "lastEntityCount": 449
+      "visits": 24,
+      "lastRunAt": "2026-09-13T03:46:39.830Z",
+      "lastCreated": 0,
+      "lastEntityCount": 454,
+      "lastList": "Characters"
     },
     "transformers": {
-      "visits": 13,
-      "lastRunAt": "2026-09-12T18:00:57.869Z",
-      "lastCreated": 11,
-      "lastEntityCount": 315
+      "visits": 30,
+      "lastRunAt": "2026-09-13T03:50:03.907Z",
+      "lastCreated": 1,
+      "lastEntityCount": 327,
+      "lastList": "Locations"
     },
     "game-of-thrones": {
-      "visits": 13,
-      "lastRunAt": "2026-09-12T18:01:07.825Z",
+      "visits": 31,
+      "lastRunAt": "2026-09-13T03:50:18.867Z",
       "lastCreated": 0,
-      "lastEntityCount": 2
+      "lastEntityCount": 2,
+      "lastList": "Locations"
     },
     "the-simpsons": {
-      "visits": 13,
-      "lastRunAt": "2026-09-12T18:02:13.297Z",
-      "lastCreated": 34,
-      "lastEntityCount": 501
+      "visits": 25,
+      "lastRunAt": "2026-09-13T03:53:45.426Z",
+      "lastCreated": 1,
+      "lastEntityCount": 507,
+      "lastList": "Locations"
     },
     "the-legend-of-zelda": {
-      "visits": 13,
-      "lastRunAt": "2026-09-12T18:06:52.352Z",
-      "lastCreated": 33,
-      "lastEntityCount": 544
+      "visits": 31,
+      "lastRunAt": "2026-09-13T03:58:42.791Z",
+      "lastCreated": 1,
+      "lastEntityCount": 558,
+      "lastList": "Items"
     },
     "jurassic-park": {
-      "visits": 13,
-      "lastRunAt": "2026-09-12T18:07:51.291Z",
-      "lastCreated": 33,
-      "lastEntityCount": 525
+      "visits": 31,
+      "lastRunAt": "2026-09-13T03:59:55.679Z",
+      "lastCreated": 1,
+      "lastEntityCount": 531,
+      "lastList": "Locations"
     },
     "james-bond": {
-      "visits": 13,
-      "lastRunAt": "2026-09-12T18:08:42.714Z",
-      "lastCreated": 15,
-      "lastEntityCount": 421
+      "visits": 31,
+      "lastRunAt": "2026-09-13T04:00:58.711Z",
+      "lastCreated": 1,
+      "lastEntityCount": 427,
+      "lastList": "Locations"
     },
     "warhammer-40k": {
-      "visits": 1,
-      "lastRunAt": "2026-09-12T04:29:01.929Z",
+      "visits": 19,
+      "lastRunAt": "2026-09-13T04:01:28.092Z",
       "lastCreated": 0,
-      "lastEntityCount": 1202
+      "lastEntityCount": 1202,
+      "lastList": "Locations"
     },
-    "dune": {},
-    "mass-effect": {},
-    "chainsaw-man": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:13:53.793Z",
+    "dune": {
+      "visits": 18,
+      "lastRunAt": "2026-09-13T04:05:50.263Z",
       "lastCreated": 0,
-      "lastEntityCount": 167
+      "lastEntityCount": 595,
+      "lastList": "Planets"
+    },
+    "mass-effect": {
+      "visits": 18,
+      "lastRunAt": "2026-09-13T04:07:02.238Z",
+      "lastCreated": 0,
+      "lastEntityCount": 1031,
+      "lastList": "Locations"
+    },
+    "chainsaw-man": {
+      "visits": 30,
+      "lastRunAt": "2026-09-13T04:07:21.506Z",
+      "lastCreated": 0,
+      "lastEntityCount": 167,
+      "lastList": "Locations"
     },
     "invincible": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:15:33.208Z",
+      "visits": 30,
+      "lastRunAt": "2026-09-13T04:10:37.032Z",
       "lastCreated": 0,
-      "lastEntityCount": 299
+      "lastEntityCount": 299,
+      "lastList": "Organizations"
     },
     "teenage-mutant-ninja-turtles": {
-      "visits": 11,
-      "lastRunAt": "2026-09-12T17:15:50.404Z",
-      "lastCreated": 0,
-      "lastEntityCount": 168
+      "visits": 29,
+      "lastRunAt": "2026-09-13T04:18:50.770Z",
+      "lastCreated": 1,
+      "lastEntityCount": 180,
+      "lastList": "Organizations"
     },
     "dungeons-and-dragons": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:16:40.621Z",
-      "lastCreated": 35,
-      "lastEntityCount": 499
+      "visits": 30,
+      "lastRunAt": "2026-09-13T04:19:31.251Z",
+      "lastCreated": 0,
+      "lastEntityCount": 499,
+      "lastList": "Deities"
     },
     "magic-the-gathering": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:17:42.169Z",
-      "lastCreated": 25,
-      "lastEntityCount": 392
+      "visits": 30,
+      "lastRunAt": "2026-09-13T04:21:03.112Z",
+      "lastCreated": 1,
+      "lastEntityCount": 398,
+      "lastList": "Characters"
     },
     "pathfinder": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:17:49.589Z",
+      "visits": 30,
+      "lastRunAt": "2026-09-13T04:21:16.947Z",
       "lastCreated": 0,
-      "lastEntityCount": 0
+      "lastEntityCount": 0,
+      "lastList": "Organizations"
     },
     "warhammer-fantasy": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:18:42.151Z",
-      "lastCreated": 31,
-      "lastEntityCount": 504
+      "visits": 30,
+      "lastRunAt": "2026-09-13T04:21:39.508Z",
+      "lastCreated": 0,
+      "lastEntityCount": 504,
+      "lastList": "Locations"
     },
     "vampire-the-masquerade": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:18:51.355Z",
+      "visits": 30,
+      "lastRunAt": "2026-09-13T04:22:03.461Z",
       "lastCreated": 0,
-      "lastEntityCount": 115
+      "lastEntityCount": 115,
+      "lastList": "Vampire: The Masquerade locations"
     },
     "battletech": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:18:58.387Z",
+      "visits": 30,
+      "lastRunAt": "2026-09-13T04:22:17.081Z",
       "lastCreated": 0,
-      "lastEntityCount": 0
+      "lastEntityCount": 0,
+      "lastList": "Planets"
     },
     "call-of-cthulhu": {
-      "visits": 11,
-      "lastRunAt": "2026-09-12T17:19:58.743Z",
-      "lastCreated": 41,
-      "lastEntityCount": 543
+      "visits": 29,
+      "lastRunAt": "2026-09-13T04:22:44.040Z",
+      "lastCreated": 0,
+      "lastEntityCount": 548,
+      "lastList": "Locations"
     },
     "star-trek": {
-      "visits": 15,
-      "lastRunAt": "2026-09-12T21:06:14.213Z",
+      "visits": 39,
+      "lastRunAt": "2026-09-13T04:25:51.699Z",
       "lastCreated": 1,
-      "lastEntityCount": 546,
+      "lastEntityCount": 565,
       "lastList": "Species"
     },
     "mortal-kombat": {
-      "visits": 11,
-      "lastRunAt": "2026-09-12T17:24:22.906Z",
-      "lastCreated": 24,
-      "lastEntityCount": 622
+      "visits": 29,
+      "lastRunAt": "2026-09-13T03:07:10.988Z",
+      "lastCreated": 0,
+      "lastEntityCount": 622,
+      "lastList": "Weapons"
     },
     "street-fighter": {
-      "visits": 11,
-      "lastRunAt": "2026-09-12T17:24:49.026Z",
+      "visits": 23,
+      "lastRunAt": "2026-09-13T03:07:49.698Z",
       "lastCreated": 0,
-      "lastEntityCount": 488
+      "lastEntityCount": 488,
+      "lastList": "Organizations"
     },
     "tekken": {
-      "visits": 11,
-      "lastRunAt": "2026-09-12T17:25:26.157Z",
+      "visits": 23,
+      "lastRunAt": "2026-09-13T03:08:24.534Z",
       "lastCreated": 0,
-      "lastEntityCount": 176
+      "lastEntityCount": 176,
+      "lastList": "Organizations"
     },
     "avatar-the-last-airbender": {
-      "visits": 11,
-      "lastRunAt": "2026-09-12T17:26:15.594Z",
-      "lastCreated": 16,
-      "lastEntityCount": 397
+      "visits": 29,
+      "lastRunAt": "2026-09-13T03:10:17.085Z",
+      "lastCreated": 1,
+      "lastEntityCount": 409,
+      "lastList": "Organizations"
     },
     "adventure-time": {
-      "visits": 11,
-      "lastRunAt": "2026-09-12T17:27:11.082Z",
-      "lastCreated": 24,
-      "lastEntityCount": 461
+      "visits": 23,
+      "lastRunAt": "2026-09-13T03:10:33.782Z",
+      "lastCreated": 0,
+      "lastEntityCount": 461,
+      "lastList": "Locations"
     },
     "alien-franchise": {
-      "visits": 11,
-      "lastRunAt": "2026-09-12T17:27:22.543Z",
+      "visits": 29,
+      "lastRunAt": "2026-09-13T03:10:50.115Z",
       "lastCreated": 0,
-      "lastEntityCount": 140
+      "lastEntityCount": 140,
+      "lastList": "Locations"
     },
     "halloween-franchise": {
-      "visits": 11,
-      "lastRunAt": "2026-09-12T17:27:38.463Z",
+      "visits": 23,
+      "lastRunAt": "2026-09-13T03:11:08.748Z",
       "lastCreated": 0,
-      "lastEntityCount": 220
+      "lastEntityCount": 220,
+      "lastList": "Locations"
     },
     "lego": {
-      "visits": 11,
-      "lastRunAt": "2026-09-12T17:28:54.215Z",
-      "lastCreated": 36,
-      "lastEntityCount": 542
+      "visits": 27,
+      "lastRunAt": "2026-09-13T03:14:45.549Z",
+      "lastCreated": 0,
+      "lastEntityCount": 553,
+      "lastList": "Sets"
     },
     "yu-gi-oh": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:29:04.249Z",
+      "visits": 30,
+      "lastRunAt": "2026-09-13T03:15:06.707Z",
       "lastCreated": 0,
-      "lastEntityCount": 411
+      "lastEntityCount": 413,
+      "lastList": "Card types"
     },
     "my-little-pony": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:30:04.291Z",
-      "lastCreated": 28,
-      "lastEntityCount": 523
+      "visits": 24,
+      "lastRunAt": "2026-09-13T03:15:26.758Z",
+      "lastCreated": 0,
+      "lastEntityCount": 526,
+      "lastList": "Locations"
     },
     "gi-joe": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:31:18.101Z",
-      "lastCreated": 19,
-      "lastEntityCount": 611
+      "visits": 30,
+      "lastRunAt": "2026-09-13T03:15:51.513Z",
+      "lastCreated": 0,
+      "lastEntityCount": 611,
+      "lastList": "Organizations"
     },
     "wwe": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:31:26.127Z",
+      "visits": 36,
+      "lastRunAt": "2026-09-13T03:16:09.334Z",
       "lastCreated": 0,
-      "lastEntityCount": 0
+      "lastEntityCount": 0,
+      "lastList": "WWE pay-per-view events"
     },
     "pixar": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:32:48.855Z",
-      "lastCreated": 41,
-      "lastEntityCount": 616
+      "visits": 30,
+      "lastRunAt": "2026-09-13T03:17:18.823Z",
+      "lastCreated": 0,
+      "lastEntityCount": 624,
+      "lastList": "Locations"
     },
     "critical-role": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:33:45.862Z",
-      "lastCreated": 44,
-      "lastEntityCount": 577
+      "visits": 30,
+      "lastRunAt": "2026-09-13T03:17:36.028Z",
+      "lastCreated": 0,
+      "lastEntityCount": 577,
+      "lastList": "Locations"
     },
     "blade-runner": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:33:53.487Z",
+      "visits": 30,
+      "lastRunAt": "2026-09-13T03:17:49.520Z",
       "lastCreated": 0,
-      "lastEntityCount": 4
+      "lastEntityCount": 4,
+      "lastList": "Organizations"
     },
     "greek-mythology": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:34:09.912Z",
+      "visits": 36,
+      "lastRunAt": "2026-09-13T03:18:16.133Z",
       "lastCreated": 0,
-      "lastEntityCount": 281
+      "lastEntityCount": 281,
+      "lastList": "Places"
     },
     "norse-mythology": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:34:18.092Z",
+      "visits": 30,
+      "lastRunAt": "2026-09-13T03:18:29.431Z",
       "lastCreated": 0,
-      "lastEntityCount": 10
+      "lastEntityCount": 10,
+      "lastList": "Places"
     },
     "egyptian-mythology": {
-      "visits": 12,
-      "lastRunAt": "2026-09-12T17:34:24.753Z",
+      "visits": 24,
+      "lastRunAt": "2026-09-13T03:18:38.177Z",
       "lastCreated": 0,
-      "lastEntityCount": 0
+      "lastEntityCount": 0,
+      "lastList": "Places"
     }
   },
   "listIndex": 4,
-  "createdTotal": 3
+  "createdTotal": 192
 }

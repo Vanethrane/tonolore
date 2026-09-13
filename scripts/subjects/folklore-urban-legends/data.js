@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Folklore & urban legends.",
         "description": "How Folklore & urban legends continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "folklore-urban-legends-practices",
+        "name": "Folklore & urban legends practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Folklore & urban legends.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Folklore & urban legends."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-1",
+        "name": "Folklore & urban legends entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-2",
+        "name": "Folklore & urban legends entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-3",
+        "name": "Folklore & urban legends entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-4",
+        "name": "Folklore & urban legends entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-5",
+        "name": "Folklore & urban legends entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-6",
+        "name": "Folklore & urban legends entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-7",
+        "name": "Folklore & urban legends entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-8",
+        "name": "Folklore & urban legends entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-9",
+        "name": "Folklore & urban legends entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-10",
+        "name": "Folklore & urban legends entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-11",
+        "name": "Folklore & urban legends entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-12",
+        "name": "Folklore & urban legends entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-13",
+        "name": "Folklore & urban legends entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-14",
+        "name": "Folklore & urban legends entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-15",
+        "name": "Folklore & urban legends entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-16",
+        "name": "Folklore & urban legends entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-17",
+        "name": "Folklore & urban legends entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-18",
+        "name": "Folklore & urban legends entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-19",
+        "name": "Folklore & urban legends entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-20",
+        "name": "Folklore & urban legends entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-21",
+        "name": "Folklore & urban legends entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-22",
+        "name": "Folklore & urban legends entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-23",
+        "name": "Folklore & urban legends entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folklore-urban-legends-entry-24",
+        "name": "Folklore & urban legends entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folklore & urban legends.",
+        "description": "A supporting encyclopedia entry in the Folklore & urban legends subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Folklore & urban legends legacy is a primary trailhead under Folklore & urban legends.",
         0.88,
         0.82
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-practices",
+        "contains",
+        "Folklore & urban legends practices is a primary trailhead under Folklore & urban legends.",
+        0.88,
+        0.82
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-1",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-2",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-3",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-4",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-5",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-6",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-7",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-8",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-9",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-10",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-11",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-12",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-13",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-14",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-15",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-16",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-17",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-18",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-19",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-20",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-21",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-22",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-23",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
+    ],
+    [
+        "folklore-urban-legends",
+        "folklore-urban-legends-entry-24",
+        "contains",
+        "Supporting entry under Folklore & urban legends.",
+        0.75,
+        0.7
     ]
 ];
 

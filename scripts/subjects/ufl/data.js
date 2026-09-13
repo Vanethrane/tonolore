@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into United Football League.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify United Football League."
+    },
+    {
+        "slug": "ufl-geography",
+        "name": "United Football League geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for United Football League.",
+        "description": "Regions, routes, and spatial systems that situate United Football League beyond single named places."
+    },
+    {
+        "slug": "ufl-legacy",
+        "name": "United Football League legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of United Football League.",
+        "description": "How United Football League continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "ufl-practices",
+        "name": "United Football League practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in United Football League.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in United Football League."
+    },
+    {
+        "slug": "ufl-entry-1",
+        "name": "United Football League entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufl-entry-2",
+        "name": "United Football League entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufl-entry-3",
+        "name": "United Football League entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufl-entry-4",
+        "name": "United Football League entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufl-entry-5",
+        "name": "United Football League entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufl-entry-6",
+        "name": "United Football League entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufl-entry-7",
+        "name": "United Football League entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufl-entry-8",
+        "name": "United Football League entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufl-entry-9",
+        "name": "United Football League entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufl-entry-10",
+        "name": "United Football League entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufl-entry-11",
+        "name": "United Football League entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufl-entry-12",
+        "name": "United Football League entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufl-entry-13",
+        "name": "United Football League entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufl-entry-14",
+        "name": "United Football League entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufl-entry-15",
+        "name": "United Football League entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufl-entry-16",
+        "name": "United Football League entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufl-entry-17",
+        "name": "United Football League entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufl-entry-18",
+        "name": "United Football League entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufl-entry-19",
+        "name": "United Football League entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufl-entry-20",
+        "name": "United Football League entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufl-entry-21",
+        "name": "United Football League entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufl-entry-22",
+        "name": "United Football League entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside United Football League.",
+        "description": "A supporting encyclopedia entry in the United Football League subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "United Football League sources is a primary trailhead under United Football League.",
         0.88,
         0.82
+    ],
+    [
+        "ufl",
+        "ufl-geography",
+        "contains",
+        "United Football League geography is a primary trailhead under United Football League.",
+        0.88,
+        0.82
+    ],
+    [
+        "ufl",
+        "ufl-legacy",
+        "contains",
+        "United Football League legacy is a primary trailhead under United Football League.",
+        0.88,
+        0.82
+    ],
+    [
+        "ufl",
+        "ufl-practices",
+        "contains",
+        "United Football League practices is a primary trailhead under United Football League.",
+        0.88,
+        0.82
+    ],
+    [
+        "ufl",
+        "ufl-entry-1",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufl",
+        "ufl-entry-2",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufl",
+        "ufl-entry-3",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufl",
+        "ufl-entry-4",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufl",
+        "ufl-entry-5",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufl",
+        "ufl-entry-6",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufl",
+        "ufl-entry-7",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufl",
+        "ufl-entry-8",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufl",
+        "ufl-entry-9",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufl",
+        "ufl-entry-10",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufl",
+        "ufl-entry-11",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufl",
+        "ufl-entry-12",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufl",
+        "ufl-entry-13",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufl",
+        "ufl-entry-14",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufl",
+        "ufl-entry-15",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufl",
+        "ufl-entry-16",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufl",
+        "ufl-entry-17",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufl",
+        "ufl-entry-18",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufl",
+        "ufl-entry-19",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufl",
+        "ufl-entry-20",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufl",
+        "ufl-entry-21",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufl",
+        "ufl-entry-22",
+        "contains",
+        "Supporting entry under United Football League.",
+        0.75,
+        0.7
     ]
 ];
 

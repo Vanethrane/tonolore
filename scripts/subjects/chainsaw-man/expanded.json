@@ -6589,18 +6589,18 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (chainsaw-man.fandom.com) for identification and commentary only. Character / franchise art © Tatsuki Fujimoto / Shueisha / MAPPA (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T17:13:53.784Z",
+  "generated_at": "2026-09-13T04:07:21.492Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://chainsaw-man.fandom.com/wiki/",
     "host": "chainsaw-man.fandom.com"
   },
   "stats": {
-    "fandom_titles": 28,
-    "fandom_enriched_core": 16,
+    "fandom_titles": 1,
+    "fandom_enriched_core": 1,
     "fandom_created": 0,
-    "fandom_images": 27,
-    "fandom_intros": 28,
+    "fandom_images": 1,
+    "fandom_intros": 1,
     "description_ensure_at": "2026-09-12T09:06:35.806Z",
     "description_ensure_count": 1
   }

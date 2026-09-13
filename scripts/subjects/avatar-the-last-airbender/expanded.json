@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:25:36.416Z",
+  "generated_at": "2026-09-13T03:09:42.453Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -53,25 +53,25 @@
       "slug": "aang",
       "name": "Aang",
       "type": "person",
-      "description": "Aang was a male Air Nomad, the immediate successor of Avatar Roku, and the predecessor of Avatar Korra. He was fun-loving, somewhat naive and adventurous. He already seemed to have a conscience against killing people, as he saved Prince Zuko from falling from a giant statue, saving him from a possible death. He already had some waterbending experience, as he bent the water and both corrected Kya's attempts and gave her advice.\n\nAang and his friends, Kya and Sokka, were fleeing from Zuko, who was hunting them down from his ship. They ran into a sea serpent, but it took interest in the ship after Zuko attacked it, allowing the trio to escape to an island. While there, Kya practiced her waterbending, but could not control it well; Aang offered her some advice and demonstrated the correct leg stance. When Sokka demanded they help search for food, Kya was reluctant to leave Aang, as he was \"the world's last hope\"; Sokka went off alone in a huff. Kya and Aang remained at the camp and engaged in a slightly awkward conversation before Momo alerted them of an upcoming danger.\n\nWhen they reached the Fire Nation base and saw Sokka being taken in, Kya decided to go after him, but told Aang to stay hidden. She became captured as well, but refused to reveal Aang's whereabouts. When Aang flew in, shocking everyone, the soldiers threw Sokka and her into a pit. Aang sat on the scaffolding, evading Zuko's attacks while Momo distracted the soldiers and engaged Zuko's pet hawk in a flying duel of sorts.\n\nAs the scaffolding disintegrated, Aang and Zuko moved their fight to the defaced Avatar statue. When Aang was almost cornered by Zuko, he simply threw himself off the statue, setting him in danger and thus activating the Avatar State and blowing Zuko off. Coming out of the Avatar State, Aang caught an unconscious Zuko but dropped him a short distance into a wall to fly over to Kya and Sokka and subsequently escape.",
+      "description": "Avatar Aang was a male Air Nomad and Avatar with the ability to bend all four elements.\n\nSometime after the Siege of the North, Aang was requested to meet the Tribe Elder, Master Wei. He was confronted by wolves, but easily defeated them without killing them; as he did this, he picked up a water skin. Once he reached the Elder, he was asked to investigate the disappearances of waterbenders from the tribe. He ventured back to where he was, entering an ice cave where he dodged ice and defeated more wolves; however, he could not find anything. As he returned to the tribe camp, he saw Zuko's ship docked at the edge of the snow and hastily ran back.\n\nAs he ran to the tribe, fighting off a few wolves, he saw in the distance Katara being taken by Fire Nation soldiers. When he finally reached the tribe camp, it was damaged and Katara was gone. He ran to a training area and found Sokka, and the two ventured to Appa who was trying to defeat a giant firebending machine. After they defeated the machine, the two climbed on Appa and headed to a small island where the ship had, according to a villager, headed.\n\nAfter leaving the Water Tribe village, the remaining members of Team Avatar traveled to an Earth Kingdom village referred to as the Port Village. At the village, Aang and Sokka briefly discovered a new ability of invisibility. This enabled them to sneak past some guards and enter the village. At the village, Aang and Sokka met the village elder. The sweet old lady told Aang and Sokka that she had not seen Katara, but would ask around for information and clues. In the meanwhile, she told them they could move around without revealing their identity by stealing Fire Nation Army clothes; Sokka and Aang subsequently went into the nearby Fire Nation barracks where they found uniforms and returned to the village. Upon returning to the village, the elder asked them for help with a major issue. She told them that the village's food was mysteriously disappearing. Aang agreed to help and fought through several small groups of hog monkeys to get to the mountains. There, they discovered that the Fire Nation was stealing and storing the village's food inside a cave located in the high mountains. They both informed the elder, and she thanked them. She also told them to speak to the Dock Merchant because he might have had some information. Aang and Sokka found the Dock Merchant at the docks. He told them that he saw Zuko's ship being captured and taken to the village docks, and the jailer imprisoned him and Katara in a prison in the mountains. With this information, Aang and Sokka headed to the prison.",
       "short_description": "Shortly before the beginning of the Hundred Year War, Aang was frozen in an iceberg for a hundred years; he later emerged, still biologically twelve years old, into a world engulfed by war. The couple eventually married…",
       "evidence": "fiction",
       "parentSlug": "avatar-the-last-airbender",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/avatar/images/7/79/Pilot_-_Aang.png/revision/latest?cb=20120311133235",
-      "image_source": "https://avatar.fandom.com/wiki/Aang_(pilot)",
+      "image_url": "https://static.wikia.nocookie.net/avatar/images/2/21/Into_The_Inferno_Aang.png/revision/latest/scale-to-width-down/360?cb=20131009060746",
+      "image_source": "https://avatar.fandom.com/wiki/Aang_(games)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Avatar art © Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Aang (pilot)",
+      "image_alt": "Identification thumbnail for Aang (games)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
         "kind": "character",
-        "fandom_url": "https://avatar.fandom.com/wiki/Aang_(pilot)",
-        "fandom_title": "Aang (pilot)",
+        "fandom_url": "https://avatar.fandom.com/wiki/Aang_(games)",
+        "fandom_title": "Aang (games)",
         "source_fandom": "avatar.fandom.com",
         "sources": [
           "fandom"
@@ -10806,6 +10806,330 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "geography-of-the-world-of-avatar",
+      "name": "Geography of the World of Avatar",
+      "type": "place",
+      "description": "The four nations were influenced by their corresponding element and accordingly shaped their environment. The Air Nomads had four temples located in the north, south, east, and west of the Earth. There are two main Water Tribes, situated north and south of the Earth Kingdom, the most expansive and populated state in the world. The Fire Nation is located in the west of the world and is an archipelago of volcanic islands. Each nation has a predominant season, and geography has a great influence on the customs and culture of each country. Nevertheless, smaller cultures and quasi-independent polities, as well as groups of mixed ethnicity, continued to active during this period.\n\nAs part of the Harmony Restoration Movement from 100 AG, which sought to restore balance to the world after one hundred years of war, a fifth territory known as the United Republic of Nations was founded as a place where inhabitants of all nations could mingle freely. Furthermore, the Earth Kingdom began to disband itself into smaller states after 174 AG.\n\nAfter the era of Korra, an apocalyptic cataclysm had shattered the world, radically altering its terrain and paving the way for the rise of the Seven Havens.\n\nThe Air Nomads were wanderers by definition but had four air temples at various locations across the world, where novices were raised and trained. Certain temples were also the sites of specific events and festivals on the Air Nomad calendar, and airbenders from across the world would congregate there at designated times to celebrate. Before around 5,000 BG, the Air Nomads had a capital city, Jharana.",
+      "short_description": "The four nations were influenced by their corresponding element and accordingly shaped their environment. The Air Nomads had four temples located in the north, south, east, and west of the Earth. There are two main…",
+      "evidence": "fiction",
+      "parentSlug": "avatar-the-last-airbender",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/avatar/images/b/b7/Avatar_World_map.png/revision/latest/scale-to-width-down/360?cb=20131005142135",
+      "image_source": "https://avatar.fandom.com/wiki/Geography_of_the_World_of_Avatar",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Avatar art © Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Geography of the World of Avatar",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://avatar.fandom.com/wiki/Geography_of_the_World_of_Avatar",
+        "fandom_title": "Geography of the World of Avatar",
+        "source_fandom": "avatar.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "organizations-in-the-world-of-avatar",
+      "name": "Organizations in the World of Avatar",
+      "type": "organization",
+      "description": "The Council of Elders were the leaders of the Air Nomads. Each of the air temples had its own council of head monks or nuns, their members being both the political and the religious authorities. The Northern and Southern councils were composed of five head monks each, and the Eastern and Western councils were composed of five head sisters each.\n\nThe Guiding Wind was a renegade group of Air Nomads who lived during the life of Avatar Roku. They believed that the Air Nomads had grown complacent in their search for enlightenment, and that they were seeking too much cooperation with the corrupt and exploitative wealthy citizens of other nations. Many Elders denounced the Guiding Wind for their disruptive actions.\n\nThe military of the Water Tribe is a regionally divided organization that provides protection and executes armed assault. It is split between the Northern Water Tribe and the Southern Water Tribe.\n\nThe organization has a loose structure, and the chain of command is not well-defined. There is no overall military commander of the Water Tribe, command being divided between the north and south. It is clear, however, that the chiefs of the two tribes have overall authority over their respective tribal military.",
+      "short_description": "The Council of Elders were the leaders of the Air Nomads. Each of the air temples had its own council of head monks or nuns, their members being both the political and the religious authorities. The Northern and…",
+      "evidence": "fiction",
+      "parentSlug": "avatar-the-last-airbender",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/avatar/images/a/a0/Ba_Sing_Se_University.png/revision/latest?cb=20140422090140",
+      "image_source": "https://avatar.fandom.com/wiki/Organizations_in_the_World_of_Avatar",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Avatar art © Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Organizations in the World of Avatar",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://avatar.fandom.com/wiki/Organizations_in_the_World_of_Avatar",
+        "fandom_title": "Organizations in the World of Avatar",
+        "source_fandom": "avatar.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "map-of-the-world-of-avatar",
+      "name": "Map of the World of Avatar",
+      "type": "place",
+      "description": "This map shows the known lands in the world. Markers for certain landmarks are shown, and clicking on each will give a brief description of the location and a link to the corresponding article.\n\nes:Mapa del Mundo Avatar fr:Carte du Monde d'Avatar nl:Kaart van de Wereld van Avatar pl:Mapa świata Awatara ru:Карта мира Аватара uk:Мапа світу Аватара zh:降世神通之世界地圖 Category:A to Z * Category:World of Avatar",
+      "short_description": "This map shows the known lands in the world. Markers for certain landmarks are shown, and clicking on each will give a brief description of the location and a link to the corresponding article.",
+      "evidence": "fiction",
+      "parentSlug": "avatar-the-last-airbender",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://avatar.fandom.com/wiki/Map_of_the_World_of_Avatar",
+        "fandom_title": "Map of the World of Avatar",
+        "source_fandom": "avatar.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "agni-kai-triad",
+      "name": "Agni Kai Triad",
+      "type": "organization",
+      "description": "In 158 AG, the Agni Kai Triad broke into the Sato estate. During the robbery, one of the members killed Yasuko Sato, Hiroshi Sato's wife, an event that caused Hiroshi to develop a deep hatred for all benders and eventually join the Equalists.\n\nAround two years later, Sheriff Panzo of Penquan Island contacted an old friend who had joined the Agni Kai Triad. He promised the mob a large reward if they killed Naoki, a \"troublemaker\" from his home island who had been helping fellow escapees get set up in Republic City. Naoki and her husband, San, were killed in 160 AG by the Agni Kais, in an incident made to look like a random mugging.\n\nWhen Mako and Korra approached Skoochy in Central City Station for information regarding Bolin's whereabouts, he mentioned that all the gangs, including the Agni Kai Triad, the Triple Threats, and the Red Monsoons, were recruiting extra muscle for something big.\n\nSix months after the conclusion of the Anti-bending Revolution, several members of the Agni Kai Triad were hired to bomb the Southern Water Tribe Cultural Center during a Southern parade for peace in the Water Tribe Civil War. However, as two of the triad members made their escape, they were discovered by Mako, who was standing guard. The three got into a scuffle, during which one of the triad members detonated a bomb using a remote control, causing significant damage to the cultural center. Although one of the triad members was hit by Mako's bending, in the resulting confusion they all managed to escape in a waiting Satomobile. Mako later suspected that the Agni Kais had been hired by Varrick, given that the technology to manufacture such remote controls belonged exclusively to his company.",
+      "short_description": "In 158 AG, the Agni Kai Triad broke into the Sato estate. During the robbery, one of the members killed Yasuko Sato, Hiroshi Sato's wife, an event that caused Hiroshi to develop a deep hatred for all benders and…",
+      "evidence": "fiction",
+      "parentSlug": "avatar-the-last-airbender",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/avatar/images/2/2b/Agni_Kai_Triad.png/revision/latest/scale-to-width-down/360?cb=20131005113822",
+      "image_source": "https://avatar.fandom.com/wiki/Agni_Kai_Triad",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Avatar art © Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Agni Kai Triad",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://avatar.fandom.com/wiki/Agni_Kai_Triad",
+        "fandom_title": "Agni Kai Triad",
+        "source_fandom": "avatar.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aang-memorial-island",
+      "name": "Aang Memorial Island",
+      "type": "place",
+      "description": "This island was created to honor the memory of Avatar Aang, who had played a pivotal role in restoring peace and balance to the world by ending the Hundred Year War and creating the United Republic of Nations.\n\nIn 170 AG, after Korra aided Tarrlok and his task force with an assault on an Equalists training base, she publicly challenged the Equalist leader, Amon, to a duel on Aang Memorial Island at midnight. When the clock on the island struck midnight, Amon was not present, prompting Korra to eventually give up waiting, believing Amon had not accepted her challenge. However, as she was leaving, she was assaulted and dragged into the museum underneath the statue by several Equalists. Korra managed to fight some of them off by raising part of the ground with her earthbending, but she was soon overpowered by their numbers and immobilized by chi-blockers. When the Avatar regained consciousness, Amon emerged from the shadows and told her that he had a plan that would eradicate the world of benders and that he was saving her for last. After Amon knocked Korra unconscious, she experienced her first vision of Aang.\n\nAfter the Equalists attacked Republic City, they vandalized Aang's statue by hanging Equalist banners from its staff and covering its face with a giant mask, similar to the one worn by Amon. Later, when the Equalists were using their biplanes to destroy the United Forces' battleships, General Iroh crashed one of the biplanes into the statue's head, thereby knocking off the mask and causing it to fall into the bay.\n\nIn 171 AG, Aang's statue was torn from its pedestal by Dark Avatar Unalaq during his assault on Republic City and subsequently thrown into the bay. Within two weeks following the battle, it was returned to its proper position.",
+      "short_description": "This island was created to honor the memory of Avatar Aang, who had played a pivotal role in restoring peace and balance to the world by ending the Hundred Year War and creating the United Republic of Nations.",
+      "evidence": "fiction",
+      "parentSlug": "avatar-the-last-airbender",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/avatar/images/e/e0/Aang_Memorial_Island.png/revision/latest/scale-to-width-down/360?cb=20140422080517",
+      "image_source": "https://avatar.fandom.com/wiki/Aang_Memorial_Island",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Avatar art © Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Aang Memorial Island",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://avatar.fandom.com/wiki/Aang_Memorial_Island",
+        "fandom_title": "Aang Memorial Island",
+        "source_fandom": "avatar.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "air-acolytes",
+      "name": "Air Acolytes",
+      "type": "organization",
+      "description": "The Air Acolytes were founded in 101 AG from the members of the Official Avatar Aang Fan Club. Aang himself taught the members of the group the ways of the Air Nomads and named them the \"Air Acolytes\", rather than a mere fan club. Aang believed that the Air Acolytes had the hearts of the Air Nomads, and for that reason, he would teach them the ways of the Air Nomads. In their earliest years, one of the main issues was finding the line between preserving the Air Nomad culture and appropriating it in a disrespectful way. Aang had previously been disappointed with the fan club after he learned that some of its members had tattooed themselves, despite not being master airbenders or truly knowing about Air Nomad philosophy. However, Aang and the Air Acolytes realized that they should learn from their mistakes, and that it was all part of their mission.\n\nA small group of Air Acolytes consisting of Yee-Li, Xing Ying, and Jingbo traveled with Aang and his friends the next year in an attempt to revive Yangchen's Festival, a celebration of the coexistence of human and spirit which had been defunct since the Air Nomad Genocide. The group instead noticed that the sacred land had become host to a town which contained the Earthen Fire Refinery, a mining operation for the grounds' mineral supply. Aang and the Acolytes tried to celebrate the festival nonetheless, but were forced to return to the mine due to continuous earthquakes and a cave-in of the underground facility. They helped treat injured workers following their rescue and also distributed food to them after the spirit General Old Iron destroyed the refinery but was defeated by Aang. Shortly afterward, the Air Acolytes assembled at the Jasmine Dragon for meditation classes with Avatar Aang.\n\nYee-Li, Xing Ying, and Jingbo returned to the factory town several months later in order to participate in the parade for the Spirits' Friendship Festival with a new recruit, Loban.\n\nAround 110 AG, a group of Air Acolytes including Kallik assisted Team Avatar during a quest, eventually discovering a herd of flying bison at a long-lost Air Nomad sanctuary.",
+      "short_description": "The Air Acolytes were founded in 101 AG from the members of the Official Avatar Aang Fan Club. Aang himself taught the members of the group the ways of the Air Nomads and named them the \"Air Acolytes\", rather than a…",
+      "evidence": "fiction",
+      "parentSlug": "avatar-the-last-airbender",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/avatar/images/6/6c/Air_Acolytes.png/revision/latest/scale-to-width-down/360?cb=20150302045055",
+      "image_source": "https://avatar.fandom.com/wiki/Air_Acolytes",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Avatar art © Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Air Acolytes",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://avatar.fandom.com/wiki/Air_Acolytes",
+        "fandom_title": "Air Acolytes",
+        "source_fandom": "avatar.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "abbey",
+      "name": "Abbey",
+      "type": "place",
+      "description": "During the War, large quantities of organic perfumes and oils were produced at the abbey to be sold throughout the world. The nuns were keen on tidiness and were quick to reprimand anyone who littered on their grounds.\n\nFollowing the Hundred Year War, the abbey's territory was integrated into the United Republic of Nations.\n\nDuring a clash between Fire Nation soldiers and the warriors of the Southern Water Tribe, Bato, a good friend of Hakoda, had been badly wounded and was forced to stay behind while the rest of the warriors traveled on toward the eastern Earth Kingdom. Hakoda carried the injured warrior to this abbey and entrusted him to the good care of the resident nuns. While recovering from his burns, Bato ran into Avatar Aang, Sokka, and Katara, who had been camping on the nearby beach, and invited them to take refuge in the abbey as well. During his stay there, one of the many rooms of the abbey was converted to appear more like a typical Water Tribe home, decorated with animal skins and a ceremonial raccoon headpiece.\n\nAfter the group's departure, the abbey's door was destroyed when June's shirshu, Nyla, ran it down. June, Iroh, and Zuko had been using Katara's necklace to track down the waterbender and in proxy, Aang, but quickly realized that their prey was no longer at the abbey and left. After paralyzing and capturing Sokka and Katara, the trio returned to the abbey in search of Aang, who came gliding in to rescue his friends. While Appa engaged Nyla and June, a duel broke out between Aang and Zuko. Meanwhile, the nuns used the scent of their perfume to revive Sokka and Katara. After Nyla had managed to incapacitate Appa, he and June proceeded to assist Zuko, turning their attention to capturing the Avatar. Since June's shirshu used its nose to detect its surroundings, Sokka masterminded the idea of \"blinding\" the creature by disrupting its sense of smell. The nuns poured out their perfumes, and Katara waterbent them to completely drench the animal and everyone else. Because the many scents obscured his \"vision\", Nyla became confused and randomly lashed out, accidentally paralyzing Zuko and June. The shirshu's rampage allowed Team Avatar to escape from the abbey.",
+      "short_description": "During the War, large quantities of organic perfumes and oils were produced at the abbey to be sold throughout the world. The nuns were keen on tidiness and were quick to reprimand anyone who littered on their grounds.",
+      "evidence": "fiction",
+      "parentSlug": "avatar-the-last-airbender",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/avatar/images/9/93/Abbey.png/revision/latest?cb=20130626123746",
+      "image_source": "https://avatar.fandom.com/wiki/Abbey",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Avatar art © Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Abbey",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://avatar.fandom.com/wiki/Abbey",
+        "fandom_title": "Abbey",
+        "source_fandom": "avatar.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "anti-corruption-task-force",
+      "name": "Anti-Corruption Task Force",
+      "type": "organization",
+      "description": "In an attempt to curb criminal activities in the Earth Kingdom, Avatar Kyoshi founded a task force dedicated to rooting out dangerous daofei gangs and dealing with violent criminals. While under her direction, the task force only targeted daofei who were involved in violent criminal activities. The anti-corruption task force liked to make regular stops at Loongkau's Lucky Pocket, an area in the Lower Ring of Ba Sing Se that housed a good number of daofei gangs. However, the warren of underground market stalls made it hard for them to single them out. Ambassador Quin of the Fire Nation was a great proponent of the task force, and encouraged the Earth King to officially adopt the task force.\n\nWhen Kyoshi had to leave Ba Sing Se to deal with important business elsewhere, she put the task force under direct control of Earth King Yi Ming. After the Avatar left, the Earth King redirected the task force, calling it an \"anti-corruption task force\", and used it to threaten all criminals in the city, especially those who threatened the Earth King's power. The cunning group known as the Fanged Mercenaries took advantage of this by framing their rivals, and having the task force take them down.\n\nWhen Ambassador Quin's children were kidnapped, she informed the task force at once, and their leader, Captain Yong, dispatched his deputies. An ex-daofei named Mengyao was identified as a likely suspect, due to a distinctive arrow found at the crime scene. Captain Yong hoped that by arresting several daofei, someone would confess to the crime, and that he could also earn an accolade for himself. Ordinary citizens in the Lower Ring were sometimes targeted, and many people in the Lower Ring began to bear a grudge toward the task force.\n\nAs the task force was dragging its feet, Ambassador Quin began to grow frustrated at their inaction, and deployed her own personal guard to find her children. The Earth King and his ministers began to put pressure on Yong to find the children first, as the king was determined to prove that the Earth Kingdom could take care of its own criminals. Quin invoked diplomatic immunity to use her own guards, but the king saw this as a direct insult to his capabilities as a ruler, and as such, Yong deployed guards to monitor and hinder Tan and the Fire Nation's soldiers.",
+      "short_description": "In an attempt to curb criminal activities in the Earth Kingdom, Avatar Kyoshi founded a task force dedicated to rooting out dangerous daofei gangs and dealing with violent criminals. While under her direction, the task…",
+      "evidence": "fiction",
+      "parentSlug": "avatar-the-last-airbender",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://avatar.fandom.com/wiki/Anti-Corruption_Task_Force",
+        "fandom_title": "Anti-Corruption Task Force",
+        "source_fandom": "avatar.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "agna-qela",
+      "name": "Agna Qel'a",
+      "type": "place",
+      "description": "The history of the city of Agna Qel'a spans a long time, In contrast, Atka claimed in \"The Executioner's Blade\" that the city was mere \"centuries\" old by the era of Roku. Conversely, Atka was heavily biased against Agna Qel'a and greatly downplayed the city's importance and status before the era of Roku, so it is unclear whether her claim regarding the settlement's age was reliable.|group = nb}} being founded after the North Pole's independent tribes resolved to unify. The city was built as a symbol of the unification, and to facilitate the intra-tribal relations. However, the spirit of Agna Qel'a's foundation was maintained, and the city remained an open port city welcoming to all visitors for much of its history. Initially, Agna Qel'a's importance was largely restricted to its position as a political meeting place and the location of religious pilgrimages. Over time, hunters also began to exchange their goods with local and foreign traders at the settlement, though the city's economic status remained limited during its early history.\n\nBy the era of Yangchen, Agna Qel'a had grown into a prosperous and large settlement, its ice-crafted architecture a marvel to behold. Yangchen repeatedly visited the city during her early Avatar career, mostly concerning diplomatic and spiritual missions. The capital would maintain and grow its status over the following centuries.\n\nIn the late 4th century BG, Agna Qel'a celebrated the official revelation that Kuruk, a Northerner, was the new Avatar with a grand feast. Years later, when Kuruk wanted to marry Ummi at the Spirit Oasis, Koh the Face Stealer lured her into the Spirit World to punish Kuruk for neglecting his Avatar duties. In 296 BG, the famous firebending instructor and Fire Nation ex-official Hei-Ran was brought to Agna Qel'a for medical treatment. She spent the next year in the city, nursed back to health by the healer Atuat. By this time, the city had become a major economic hub.\n\nIn the 1st century BG, the city benefited from the growth of international trade and technological exchange, and came to house several powerful companies. Many people of the North's traditionally nomadic, rural sub-tribes migrated to Agna Qel'a during this period, seeking a more prosperous life. The population of the city exploded, This development was bolstered by the policies of Chief Tiguaa and his father before him, who greatly favored Agna Qel'a over the rest of the Northern Water Tribe, as they believed that their people's future was linked to trade and urbanism. However, this increase in trade also led to a rise in diseases, including the Northern Pox. Many people came to Agna Qel'a seeking treatment for the illness, with at times dozens asking for the cure in a single day. Chief Tiguaa agreed to supply the cure only if people were able to cover the cost, forcing many Earth Kingdom villages to go without treatment.",
+      "short_description": "The history of the city of Agna Qel'a spans a long time, In contrast, Atka claimed in \"The Executioner's Blade\" that the city was mere \"centuries\" old by the era of Roku. Conversely, Atka was heavily biased against Agna…",
+      "evidence": "fiction",
+      "parentSlug": "avatar-the-last-airbender",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/avatar/images/6/63/Northern_Water_Tribe_entrance.png/revision/latest?cb=20140122221731",
+      "image_source": "https://avatar.fandom.com/wiki/Agna_Qel%27a",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Avatar art © Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Agna Qel'a",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://avatar.fandom.com/wiki/Agna_Qel%27a",
+        "fandom_title": "Agna Qel'a",
+        "source_fandom": "avatar.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "antiquarians",
+      "name": "Antiquarians",
+      "type": "organization",
+      "description": "Jasmine Island, a small, independent state, was heavily affected by the Hundred Year War, particularly by a Fire Nation invasion known as \"The Devastation\". The islanders were still rebuilding by the end of the war, but once the physical and economic reconstruction was largely complete, new political divisions emerged. After \"The Devastation\", no elections had been held and the existing council had ruled for years with the general acquiescence of the entire community. When the council members such as Yuming finally stepped down and and announced new elections, various factions across the island saw this as a chance to kickstart substantial, genuine changes in reforms. Conversely, these factions – several influenced by past events and developments across the world – could not agree with each other.\n\nThe Antiquarians were one faction which emerged during this period, being organized under the leadership of Yan, described as a \"visionary, historian, and merchant\". Pointing to the suffering caused by the Fire Nation during the Hundred Year War and the Earth Kingdom's negative influence before this conflict, the group was organized by extreme isolationists who concluded that their homeland's problems had been caused by foreign influences. Thus, they saw a solution in the shutdown of contacts with the Fire Nation and Earth Kingdom, while allowing continued minimal contacts with the Southern Water Tribe due to the latter's ancient links with Jasmine Island.\n\nTo gain support, the Antiquarians used the popularity of their leader Yan who had won renown during \"The Devastation\", as he had used his waterbending to aid rescue efforts despite being only a teenager at the time.\n\nWith the exception of the Climbing Vines, the different factions on Jasmine Island – including the Antiquarians, Autumn Leaves, and Risen Wave – bitterly feuded, causing considerable unrest.",
+      "short_description": "Jasmine Island, a small, independent state, was heavily affected by the Hundred Year War, particularly by a Fire Nation invasion known as \"The Devastation\". The islanders were still rebuilding by the end of the war, but…",
+      "evidence": "fiction",
+      "parentSlug": "avatar-the-last-airbender",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://avatar.fandom.com/wiki/Antiquarians",
+        "fandom_title": "Antiquarians",
+        "source_fandom": "avatar.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "air-nomad-ancient-paths",
+      "name": "Air Nomad ancient paths",
+      "type": "place",
+      "description": "Originally, flying bison herds used natural air currents high in the sky to speed up their migrations. After bonding with these animals and learning from them, early airbenders also began to use these currents and began to refer to them as \"paths\". Their use of these air currents to travel in the sky contributed to the naming of the roving airbenders as the \"Air Nomads\".\n\nThe paths were popular and widely used in the era of Sonam, when the Air Nomads were very active across the entire globe. The ancient paths also allowed the Air Nomads to traverse the Endless Ocean, resulting in their discovery of the Immortal Storm and the lion turtle islands. Avatar Sonam used the paths when she traveled to the islands in the Immortal Storm, meeting with the lion turtles there and creating her powerful staff.\n\nBy the 1st century BG, the ancient paths had faded from knowledge among the Air Nomads, and Avatar Aang grew up ignorant of them.\n\nAround 110 AG, Aang accidentally freed Tagah, an Air Nomad of the era of Sonam, from his energy prison. Feigning a cooperative spirit, Tagah agreed to guide Aang and his friends to the lion turtle islands to recover Sonam's staff. To do so, he led Zuko's airship into the air currents which formed the Air Nomad ancient paths. In this way, the group quickly covered great distances. As the group traversed the paths, Aang and Tagah bonded as the ancient master introduced the young Avatar to airbending techniques and shared his experiences. The group's journey on the ancient paths came to an end when they reached the Immortal Storm.",
+      "short_description": "Originally, flying bison herds used natural air currents high in the sky to speed up their migrations. After bonding with these animals and learning from them, early airbenders also began to use these currents and began…",
+      "evidence": "fiction",
+      "parentSlug": "avatar-the-last-airbender",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/avatar/images/9/91/Air_Nomad_ancient_paths.png/revision/latest/scale-to-width-down/360?cb=20260725133902",
+      "image_source": "https://avatar.fandom.com/wiki/Air_Nomad_ancient_paths",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Avatar art © Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Air Nomad ancient paths",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://avatar.fandom.com/wiki/Air_Nomad_ancient_paths",
+        "fandom_title": "Air Nomad ancient paths",
+        "source_fandom": "avatar.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "armadillo-bears",
+      "name": "Armadillo Bears",
+      "type": "organization",
+      "description": "Led by the fiery Ben Ta and her second-in-command, Rameh, the band was mostly nomadic, traveling to wherever people from the Earth Kingdom needed them the most during the Great War, but they used Xiadi as their home base,\n\nThese freedom fighters had their hearts in the right place and were willing to help people in need. They were secretive out of necessity but happy to trust those who earnestly wanted to help fight against the Fire Nation. The Armadillo Bears were not the most skilled fighters, but what they lacked in technique, they made up for in loyalty and sheer willpower. They fought becaused they had to, and refused to lose because that meant innocent people could be hurt.\n\nWhen Ben Ta got word that General Onomu had been spotted nearby after she was due to be escorted to Ba Sing Se by a group of people working for the Earth Kingdom government, after the general planned to defect from the Fire Nation, she led the Armadillo Bears on a mission to hunt Onomu down and kill her, planning to track the party escorting her from West Heiatu to Ba Sing Se.\n\npl:Pancernikodźwiedzie Category:A to Z Category:Earth Kingdom Category:Groups Category:Minor groups Category:Organizations",
+      "short_description": "Led by the fiery Ben Ta and her second-in-command, Rameh, the band was mostly nomadic, traveling to wherever people from the Earth Kingdom needed them the most during the Great War, but they used Xiadi as their home…",
+      "evidence": "fiction",
+      "parentSlug": "avatar-the-last-airbender",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://avatar.fandom.com/wiki/Armadillo_Bears",
+        "fandom_title": "Armadillo Bears",
+        "source_fandom": "avatar.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -13984,6 +14308,102 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "geography-of-the-world-of-avatar",
+      "avatar-the-last-airbender",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "organizations-in-the-world-of-avatar",
+      "avatar-the-last-airbender",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "map-of-the-world-of-avatar",
+      "avatar-the-last-airbender",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "agni-kai-triad",
+      "avatar-the-last-airbender",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "aang-memorial-island",
+      "avatar-the-last-airbender",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "air-acolytes",
+      "avatar-the-last-airbender",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abbey",
+      "avatar-the-last-airbender",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "anti-corruption-task-force",
+      "avatar-the-last-airbender",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "agna-qela",
+      "avatar-the-last-airbender",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "antiquarians",
+      "avatar-the-last-airbender",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "air-nomad-ancient-paths",
+      "avatar-the-last-airbender",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "armadillo-bears",
+      "avatar-the-last-airbender",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "stats": {
@@ -13993,11 +14413,11 @@
     "images_attached": 0,
     "core_enrichments": 0,
     "preserved_fandom": 0,
-    "fandom_titles": 45,
+    "fandom_titles": 1,
     "fandom_enriched_core": 0,
-    "fandom_created": 16,
-    "fandom_images": 36,
-    "fandom_intros": 45,
+    "fandom_created": 1,
+    "fandom_images": 0,
+    "fandom_intros": 1,
     "description_ensure_at": "2026-09-12T05:17:53.910Z",
     "description_ensure_count": 1
   }

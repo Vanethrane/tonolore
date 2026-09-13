@@ -11512,18 +11512,18 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (invincible.fandom.com) for identification and commentary only. Character / franchise art © Robert Kirkman / Image Comics / Amazon (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T17:15:33.193Z",
+  "generated_at": "2026-09-13T04:10:37.010Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://invincible.fandom.com/wiki/",
     "host": "invincible.fandom.com"
   },
   "stats": {
-    "fandom_titles": 33,
-    "fandom_enriched_core": 22,
+    "fandom_titles": 1,
+    "fandom_enriched_core": 1,
     "fandom_created": 0,
-    "fandom_images": 33,
-    "fandom_intros": 33,
+    "fandom_images": 1,
+    "fandom_intros": 1,
     "description_ensure_at": "2026-09-12T14:04:50.422Z",
     "description_ensure_count": 1
   }

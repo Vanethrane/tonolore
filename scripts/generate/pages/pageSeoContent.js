@@ -67,8 +67,33 @@ function isGenericStub(text) {
         /^topic in this subject graph\.?$/.test(value) ||
         /is documented on .+\.fandom\.com\.?$/.test(value) ||
         /documented on (the )?one piece fandom wiki/.test(value) ||
-        /documented on wookieepedia/.test(value)
+        /documented on wookieepedia/.test(value) ||
+        /\b(may (also )?refer to|most commonly refers to|disambiguation)\b/.test(
+            value
+        ) ||
+        /(\{\||\{\{|\[\[|\]\]|category:)/.test(value) ||
+        /(as follows:|differences from the manga(?: as follows)?:)\s*$/.test(
+            value
+        ) ||
+        /\bin\s+\.|by\s+,|as\s+,/.test(value) ||
+        /^wikipedia has an article on /.test(value) ||
+        /this ton-o-lore subject maps people, places/.test(value)
     );
+}
+
+function scrubDescriptionHoles(text) {
+    return String(text || "")
+        .replace(/\r\n/g, "\n")
+        .replace(/\{\|[\s\S]*?\n\|\}/g, "\n")
+        .replace(/\{\{[^{}]*\}\}/g, "")
+        .replace(/\[\[([^|\]]+)\|([^\]]+)\]\]/g, "$2")
+        .replace(/\[\[([^\]]+)\]\]/g, "$1")
+        .replace(/'{2,}/g, "")
+        .replace(/<ref[\s\S]*?<\/ref>/gi, "")
+        .replace(/\bin\s+\./gi, "in this story.")
+        .replace(/(as follows:|differences from the manga(?: as follows)?:)\s*$/gim, "")
+        .replace(/\n{3,}/g, "\n\n")
+        .trim();
 }
 
 function descriptionParagraphs(text) {
@@ -119,12 +144,8 @@ function descriptionParagraphs(text) {
 }
 
 function bestDescription(entity) {
-    const longRaw = String(entity.description || "")
-        .replace(/\r\n/g, "\n")
-        .trim();
-    const shortRaw = String(entity.short_description || "")
-        .replace(/\r\n/g, "\n")
-        .trim();
+    const longRaw = scrubDescriptionHoles(entity.description || "");
+    const shortRaw = scrubDescriptionHoles(entity.short_description || "");
 
     if (longRaw && !isGenericStub(longRaw)) {
         return longRaw;
@@ -331,7 +352,7 @@ function buildEntityContext(entity, connections, subjectMeta, linkEntitiesInText
 function buildSourcesBlock(entity) {
     const links = [];
 
-    if (entity.wikipedia_url) {
+    if (entity.wikipedia_url && /^https?:\/\//i.test(entity.wikipedia_url)) {
         links.push(
             `<a href="${escapeHtml(entity.wikipedia_url)}" rel="nofollow noopener" target="_blank">Wikipedia</a>`
         );
@@ -342,7 +363,7 @@ function buildSourcesBlock(entity) {
             ? JSON.parse(entity.metadata || "{}")
             : entity.metadata || {};
 
-    if (meta.fandom_url) {
+    if (meta.fandom_url && /^https?:\/\//i.test(meta.fandom_url)) {
         links.push(
             `<a href="${escapeHtml(meta.fandom_url)}" rel="nofollow noopener" target="_blank">Fandom wiki</a>`
         );

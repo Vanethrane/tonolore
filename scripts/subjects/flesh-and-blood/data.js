@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Flesh and Blood.",
         "description": "Regions, routes, and spatial systems that situate Flesh and Blood beyond single named places."
+    },
+    {
+        "slug": "flesh-and-blood-legacy",
+        "name": "Flesh and Blood legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Flesh and Blood.",
+        "description": "How Flesh and Blood continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "flesh-and-blood-practices",
+        "name": "Flesh and Blood practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Flesh and Blood.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Flesh and Blood."
+    },
+    {
+        "slug": "flesh-and-blood-entry-1",
+        "name": "Flesh and Blood entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-2",
+        "name": "Flesh and Blood entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-3",
+        "name": "Flesh and Blood entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-4",
+        "name": "Flesh and Blood entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-5",
+        "name": "Flesh and Blood entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-6",
+        "name": "Flesh and Blood entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-7",
+        "name": "Flesh and Blood entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-8",
+        "name": "Flesh and Blood entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-9",
+        "name": "Flesh and Blood entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-10",
+        "name": "Flesh and Blood entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-11",
+        "name": "Flesh and Blood entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-12",
+        "name": "Flesh and Blood entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-13",
+        "name": "Flesh and Blood entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-14",
+        "name": "Flesh and Blood entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-15",
+        "name": "Flesh and Blood entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-16",
+        "name": "Flesh and Blood entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-17",
+        "name": "Flesh and Blood entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-18",
+        "name": "Flesh and Blood entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-19",
+        "name": "Flesh and Blood entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-20",
+        "name": "Flesh and Blood entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-21",
+        "name": "Flesh and Blood entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-22",
+        "name": "Flesh and Blood entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "flesh-and-blood-entry-23",
+        "name": "Flesh and Blood entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Flesh and Blood.",
+        "description": "A supporting encyclopedia entry in the Flesh and Blood subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Flesh and Blood geography is a primary trailhead under Flesh and Blood.",
         0.88,
         0.82
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-legacy",
+        "contains",
+        "Flesh and Blood legacy is a primary trailhead under Flesh and Blood.",
+        0.88,
+        0.82
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-practices",
+        "contains",
+        "Flesh and Blood practices is a primary trailhead under Flesh and Blood.",
+        0.88,
+        0.82
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-1",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-2",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-3",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-4",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-5",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-6",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-7",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-8",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-9",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-10",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-11",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-12",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-13",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-14",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-15",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-16",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-17",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-18",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-19",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-20",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-21",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-22",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
+    ],
+    [
+        "flesh-and-blood",
+        "flesh-and-blood-entry-23",
+        "contains",
+        "Supporting entry under Flesh and Blood.",
+        0.75,
+        0.7
     ]
 ];
 

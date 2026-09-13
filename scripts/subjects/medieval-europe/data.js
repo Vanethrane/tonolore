@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Medieval Europe.",
         "description": "How Medieval Europe continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "medieval-europe-practices",
+        "name": "Medieval Europe practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Medieval Europe.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Medieval Europe."
+    },
+    {
+        "slug": "medieval-europe-entry-1",
+        "name": "Medieval Europe entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-2",
+        "name": "Medieval Europe entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-3",
+        "name": "Medieval Europe entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-4",
+        "name": "Medieval Europe entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-5",
+        "name": "Medieval Europe entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-6",
+        "name": "Medieval Europe entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-7",
+        "name": "Medieval Europe entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-8",
+        "name": "Medieval Europe entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-9",
+        "name": "Medieval Europe entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-10",
+        "name": "Medieval Europe entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-11",
+        "name": "Medieval Europe entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-12",
+        "name": "Medieval Europe entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-13",
+        "name": "Medieval Europe entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-14",
+        "name": "Medieval Europe entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-15",
+        "name": "Medieval Europe entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-16",
+        "name": "Medieval Europe entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-17",
+        "name": "Medieval Europe entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-18",
+        "name": "Medieval Europe entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-19",
+        "name": "Medieval Europe entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-20",
+        "name": "Medieval Europe entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-21",
+        "name": "Medieval Europe entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-22",
+        "name": "Medieval Europe entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-23",
+        "name": "Medieval Europe entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "medieval-europe-entry-24",
+        "name": "Medieval Europe entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Medieval Europe.",
+        "description": "A supporting encyclopedia entry in the Medieval Europe subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Medieval Europe legacy is a primary trailhead under Medieval Europe.",
         0.88,
         0.82
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-practices",
+        "contains",
+        "Medieval Europe practices is a primary trailhead under Medieval Europe.",
+        0.88,
+        0.82
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-1",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-2",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-3",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-4",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-5",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-6",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-7",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-8",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-9",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-10",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-11",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-12",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-13",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-14",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-15",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-16",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-17",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-18",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-19",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-20",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-21",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-22",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-23",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
+    ],
+    [
+        "medieval-europe",
+        "medieval-europe-entry-24",
+        "contains",
+        "Supporting entry under Medieval Europe.",
+        0.75,
+        0.7
     ]
 ];
 

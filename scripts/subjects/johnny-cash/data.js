@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Johnny Cash.",
         "description": "Regions, routes, and spatial systems that situate Johnny Cash beyond single named places."
+    },
+    {
+        "slug": "johnny-cash-legacy",
+        "name": "Johnny Cash legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Johnny Cash.",
+        "description": "How Johnny Cash continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "johnny-cash-practices",
+        "name": "Johnny Cash practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Johnny Cash.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Johnny Cash."
+    },
+    {
+        "slug": "johnny-cash-entry-1",
+        "name": "Johnny Cash entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-2",
+        "name": "Johnny Cash entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-3",
+        "name": "Johnny Cash entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-4",
+        "name": "Johnny Cash entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-5",
+        "name": "Johnny Cash entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-6",
+        "name": "Johnny Cash entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-7",
+        "name": "Johnny Cash entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-8",
+        "name": "Johnny Cash entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-9",
+        "name": "Johnny Cash entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-10",
+        "name": "Johnny Cash entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-11",
+        "name": "Johnny Cash entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-12",
+        "name": "Johnny Cash entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-13",
+        "name": "Johnny Cash entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-14",
+        "name": "Johnny Cash entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-15",
+        "name": "Johnny Cash entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-16",
+        "name": "Johnny Cash entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-17",
+        "name": "Johnny Cash entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-18",
+        "name": "Johnny Cash entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-19",
+        "name": "Johnny Cash entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-20",
+        "name": "Johnny Cash entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-21",
+        "name": "Johnny Cash entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-22",
+        "name": "Johnny Cash entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johnny-cash-entry-23",
+        "name": "Johnny Cash entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johnny Cash.",
+        "description": "A supporting encyclopedia entry in the Johnny Cash subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Johnny Cash geography is a primary trailhead under Johnny Cash.",
         0.88,
         0.82
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-legacy",
+        "contains",
+        "Johnny Cash legacy is a primary trailhead under Johnny Cash.",
+        0.88,
+        0.82
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-practices",
+        "contains",
+        "Johnny Cash practices is a primary trailhead under Johnny Cash.",
+        0.88,
+        0.82
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-1",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-2",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-3",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-4",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-5",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-6",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-7",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-8",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-9",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-10",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-11",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-12",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-13",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-14",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-15",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-16",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-17",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-18",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-19",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-20",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-21",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-22",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
+    ],
+    [
+        "johnny-cash",
+        "johnny-cash-entry-23",
+        "contains",
+        "Supporting entry under Johnny Cash.",
+        0.75,
+        0.7
     ]
 ];
 

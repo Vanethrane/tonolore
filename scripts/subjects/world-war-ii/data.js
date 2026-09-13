@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of World War II.",
         "description": "How World War II continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "world-war-ii-practices",
+        "name": "World War II practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in World War II.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in World War II."
+    },
+    {
+        "slug": "world-war-ii-entry-1",
+        "name": "World War II entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-2",
+        "name": "World War II entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-3",
+        "name": "World War II entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-4",
+        "name": "World War II entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-5",
+        "name": "World War II entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-6",
+        "name": "World War II entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-7",
+        "name": "World War II entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-8",
+        "name": "World War II entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-9",
+        "name": "World War II entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-10",
+        "name": "World War II entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-11",
+        "name": "World War II entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-12",
+        "name": "World War II entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-13",
+        "name": "World War II entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-14",
+        "name": "World War II entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-15",
+        "name": "World War II entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-16",
+        "name": "World War II entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-17",
+        "name": "World War II entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-18",
+        "name": "World War II entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-19",
+        "name": "World War II entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-20",
+        "name": "World War II entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-21",
+        "name": "World War II entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-22",
+        "name": "World War II entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-23",
+        "name": "World War II entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-war-ii-entry-24",
+        "name": "World War II entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World War II.",
+        "description": "A supporting encyclopedia entry in the World War II subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "World War II legacy is a primary trailhead under World War II.",
         0.88,
         0.82
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-practices",
+        "contains",
+        "World War II practices is a primary trailhead under World War II.",
+        0.88,
+        0.82
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-1",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-2",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-3",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-4",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-5",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-6",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-7",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-8",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-9",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-10",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-11",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-12",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-13",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-14",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-15",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-16",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-17",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-18",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-19",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-20",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-21",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-22",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-23",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-war-ii",
+        "world-war-ii-entry-24",
+        "contains",
+        "Supporting entry under World War II.",
+        0.75,
+        0.7
     ]
 ];
 

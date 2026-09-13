@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Yu-Gi-Oh!.",
         "description": "Regions, routes, and spatial systems that situate Yu-Gi-Oh! beyond single named places."
+    },
+    {
+        "slug": "yu-gi-oh-legacy",
+        "name": "Yu-Gi-Oh! legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Yu-Gi-Oh!.",
+        "description": "How Yu-Gi-Oh! continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "yu-gi-oh-practices",
+        "name": "Yu-Gi-Oh! practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Yu-Gi-Oh!.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Yu-Gi-Oh!."
+    },
+    {
+        "slug": "yu-gi-oh-entry-1",
+        "name": "Yu-Gi-Oh! entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-2",
+        "name": "Yu-Gi-Oh! entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-3",
+        "name": "Yu-Gi-Oh! entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-4",
+        "name": "Yu-Gi-Oh! entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-5",
+        "name": "Yu-Gi-Oh! entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-6",
+        "name": "Yu-Gi-Oh! entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-7",
+        "name": "Yu-Gi-Oh! entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-8",
+        "name": "Yu-Gi-Oh! entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-9",
+        "name": "Yu-Gi-Oh! entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-10",
+        "name": "Yu-Gi-Oh! entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-11",
+        "name": "Yu-Gi-Oh! entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-12",
+        "name": "Yu-Gi-Oh! entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-13",
+        "name": "Yu-Gi-Oh! entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-14",
+        "name": "Yu-Gi-Oh! entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-15",
+        "name": "Yu-Gi-Oh! entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-16",
+        "name": "Yu-Gi-Oh! entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-17",
+        "name": "Yu-Gi-Oh! entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-18",
+        "name": "Yu-Gi-Oh! entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-19",
+        "name": "Yu-Gi-Oh! entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-20",
+        "name": "Yu-Gi-Oh! entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-21",
+        "name": "Yu-Gi-Oh! entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-22",
+        "name": "Yu-Gi-Oh! entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "yu-gi-oh-entry-23",
+        "name": "Yu-Gi-Oh! entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Yu-Gi-Oh!.",
+        "description": "A supporting encyclopedia entry in the Yu-Gi-Oh! subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Yu-Gi-Oh! geography is a primary trailhead under Yu-Gi-Oh!.",
         0.88,
         0.82
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-legacy",
+        "contains",
+        "Yu-Gi-Oh! legacy is a primary trailhead under Yu-Gi-Oh!.",
+        0.88,
+        0.82
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-practices",
+        "contains",
+        "Yu-Gi-Oh! practices is a primary trailhead under Yu-Gi-Oh!.",
+        0.88,
+        0.82
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-1",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-2",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-3",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-4",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-5",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-6",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-7",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-8",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-9",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-10",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-11",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-12",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-13",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-14",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-15",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-16",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-17",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-18",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-19",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-20",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-21",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-22",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
+    ],
+    [
+        "yu-gi-oh",
+        "yu-gi-oh-entry-23",
+        "contains",
+        "Supporting entry under Yu-Gi-Oh!.",
+        0.75,
+        0.7
     ]
 ];
 

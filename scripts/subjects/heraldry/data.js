@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Heraldry & coats of arms.",
         "description": "How Heraldry & coats of arms continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "heraldry-practices",
+        "name": "Heraldry & coats of arms practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Heraldry & coats of arms.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Heraldry & coats of arms."
+    },
+    {
+        "slug": "heraldry-entry-1",
+        "name": "Heraldry & coats of arms entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-2",
+        "name": "Heraldry & coats of arms entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-3",
+        "name": "Heraldry & coats of arms entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-4",
+        "name": "Heraldry & coats of arms entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-5",
+        "name": "Heraldry & coats of arms entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-6",
+        "name": "Heraldry & coats of arms entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-7",
+        "name": "Heraldry & coats of arms entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-8",
+        "name": "Heraldry & coats of arms entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-9",
+        "name": "Heraldry & coats of arms entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-10",
+        "name": "Heraldry & coats of arms entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-11",
+        "name": "Heraldry & coats of arms entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-12",
+        "name": "Heraldry & coats of arms entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-13",
+        "name": "Heraldry & coats of arms entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-14",
+        "name": "Heraldry & coats of arms entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-15",
+        "name": "Heraldry & coats of arms entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-16",
+        "name": "Heraldry & coats of arms entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-17",
+        "name": "Heraldry & coats of arms entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-18",
+        "name": "Heraldry & coats of arms entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-19",
+        "name": "Heraldry & coats of arms entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-20",
+        "name": "Heraldry & coats of arms entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-21",
+        "name": "Heraldry & coats of arms entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-22",
+        "name": "Heraldry & coats of arms entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-23",
+        "name": "Heraldry & coats of arms entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heraldry-entry-24",
+        "name": "Heraldry & coats of arms entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heraldry & coats of arms.",
+        "description": "A supporting encyclopedia entry in the Heraldry & coats of arms subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Heraldry & coats of arms legacy is a primary trailhead under Heraldry & coats of arms.",
         0.88,
         0.82
+    ],
+    [
+        "heraldry",
+        "heraldry-practices",
+        "contains",
+        "Heraldry & coats of arms practices is a primary trailhead under Heraldry & coats of arms.",
+        0.88,
+        0.82
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-1",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-2",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-3",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-4",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-5",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-6",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-7",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-8",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-9",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-10",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-11",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-12",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-13",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-14",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-15",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-16",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-17",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-18",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-19",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-20",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-21",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-22",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-23",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
+    ],
+    [
+        "heraldry",
+        "heraldry-entry-24",
+        "contains",
+        "Supporting entry under Heraldry & coats of arms.",
+        0.75,
+        0.7
     ]
 ];
 

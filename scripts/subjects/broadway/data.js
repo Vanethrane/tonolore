@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Broadway.",
         "description": "How Broadway continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "broadway-practices",
+        "name": "Broadway practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Broadway.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Broadway."
+    },
+    {
+        "slug": "broadway-entry-1",
+        "name": "Broadway entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-2",
+        "name": "Broadway entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-3",
+        "name": "Broadway entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-4",
+        "name": "Broadway entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-5",
+        "name": "Broadway entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-6",
+        "name": "Broadway entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-7",
+        "name": "Broadway entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-8",
+        "name": "Broadway entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-9",
+        "name": "Broadway entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-10",
+        "name": "Broadway entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-11",
+        "name": "Broadway entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-12",
+        "name": "Broadway entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-13",
+        "name": "Broadway entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-14",
+        "name": "Broadway entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-15",
+        "name": "Broadway entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-16",
+        "name": "Broadway entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-17",
+        "name": "Broadway entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-18",
+        "name": "Broadway entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-19",
+        "name": "Broadway entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-20",
+        "name": "Broadway entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-21",
+        "name": "Broadway entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-22",
+        "name": "Broadway entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-23",
+        "name": "Broadway entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "broadway-entry-24",
+        "name": "Broadway entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Broadway.",
+        "description": "A supporting encyclopedia entry in the Broadway subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Broadway legacy is a primary trailhead under Broadway.",
         0.88,
         0.82
+    ],
+    [
+        "broadway",
+        "broadway-practices",
+        "contains",
+        "Broadway practices is a primary trailhead under Broadway.",
+        0.88,
+        0.82
+    ],
+    [
+        "broadway",
+        "broadway-entry-1",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-2",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-3",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-4",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-5",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-6",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-7",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-8",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-9",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-10",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-11",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-12",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-13",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-14",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-15",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-16",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-17",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-18",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-19",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-20",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-21",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-22",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-23",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
+    ],
+    [
+        "broadway",
+        "broadway-entry-24",
+        "contains",
+        "Supporting entry under Broadway.",
+        0.75,
+        0.7
     ]
 ];
 

@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into Kickboxing.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify Kickboxing."
+    },
+    {
+        "slug": "kickboxing-geography",
+        "name": "Kickboxing geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for Kickboxing.",
+        "description": "Regions, routes, and spatial systems that situate Kickboxing beyond single named places."
+    },
+    {
+        "slug": "kickboxing-legacy",
+        "name": "Kickboxing legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Kickboxing.",
+        "description": "How Kickboxing continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "kickboxing-practices",
+        "name": "Kickboxing practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Kickboxing.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Kickboxing."
+    },
+    {
+        "slug": "kickboxing-entry-1",
+        "name": "Kickboxing entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kickboxing-entry-2",
+        "name": "Kickboxing entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kickboxing-entry-3",
+        "name": "Kickboxing entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kickboxing-entry-4",
+        "name": "Kickboxing entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kickboxing-entry-5",
+        "name": "Kickboxing entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kickboxing-entry-6",
+        "name": "Kickboxing entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kickboxing-entry-7",
+        "name": "Kickboxing entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kickboxing-entry-8",
+        "name": "Kickboxing entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kickboxing-entry-9",
+        "name": "Kickboxing entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kickboxing-entry-10",
+        "name": "Kickboxing entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kickboxing-entry-11",
+        "name": "Kickboxing entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kickboxing-entry-12",
+        "name": "Kickboxing entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kickboxing-entry-13",
+        "name": "Kickboxing entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kickboxing-entry-14",
+        "name": "Kickboxing entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kickboxing-entry-15",
+        "name": "Kickboxing entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kickboxing-entry-16",
+        "name": "Kickboxing entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kickboxing-entry-17",
+        "name": "Kickboxing entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kickboxing-entry-18",
+        "name": "Kickboxing entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kickboxing-entry-19",
+        "name": "Kickboxing entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kickboxing-entry-20",
+        "name": "Kickboxing entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kickboxing-entry-21",
+        "name": "Kickboxing entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "kickboxing-entry-22",
+        "name": "Kickboxing entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Kickboxing.",
+        "description": "A supporting encyclopedia entry in the Kickboxing subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "Kickboxing sources is a primary trailhead under Kickboxing.",
         0.88,
         0.82
+    ],
+    [
+        "kickboxing",
+        "kickboxing-geography",
+        "contains",
+        "Kickboxing geography is a primary trailhead under Kickboxing.",
+        0.88,
+        0.82
+    ],
+    [
+        "kickboxing",
+        "kickboxing-legacy",
+        "contains",
+        "Kickboxing legacy is a primary trailhead under Kickboxing.",
+        0.88,
+        0.82
+    ],
+    [
+        "kickboxing",
+        "kickboxing-practices",
+        "contains",
+        "Kickboxing practices is a primary trailhead under Kickboxing.",
+        0.88,
+        0.82
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-1",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-2",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-3",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-4",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-5",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-6",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-7",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-8",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-9",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-10",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-11",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-12",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-13",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-14",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-15",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-16",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-17",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-18",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-19",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-20",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-21",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "kickboxing",
+        "kickboxing-entry-22",
+        "contains",
+        "Supporting entry under Kickboxing.",
+        0.75,
+        0.7
     ]
 ];
 

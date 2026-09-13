@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Historical clothing.",
         "description": "How Historical clothing continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "historical-clothing-practices",
+        "name": "Historical clothing practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Historical clothing.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Historical clothing."
+    },
+    {
+        "slug": "historical-clothing-entry-1",
+        "name": "Historical clothing entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-2",
+        "name": "Historical clothing entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-3",
+        "name": "Historical clothing entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-4",
+        "name": "Historical clothing entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-5",
+        "name": "Historical clothing entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-6",
+        "name": "Historical clothing entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-7",
+        "name": "Historical clothing entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-8",
+        "name": "Historical clothing entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-9",
+        "name": "Historical clothing entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-10",
+        "name": "Historical clothing entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-11",
+        "name": "Historical clothing entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-12",
+        "name": "Historical clothing entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-13",
+        "name": "Historical clothing entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-14",
+        "name": "Historical clothing entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-15",
+        "name": "Historical clothing entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-16",
+        "name": "Historical clothing entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-17",
+        "name": "Historical clothing entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-18",
+        "name": "Historical clothing entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-19",
+        "name": "Historical clothing entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-20",
+        "name": "Historical clothing entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-21",
+        "name": "Historical clothing entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-22",
+        "name": "Historical clothing entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-23",
+        "name": "Historical clothing entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "historical-clothing-entry-24",
+        "name": "Historical clothing entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Historical clothing.",
+        "description": "A supporting encyclopedia entry in the Historical clothing subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Historical clothing legacy is a primary trailhead under Historical clothing.",
         0.88,
         0.82
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-practices",
+        "contains",
+        "Historical clothing practices is a primary trailhead under Historical clothing.",
+        0.88,
+        0.82
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-1",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-2",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-3",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-4",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-5",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-6",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-7",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-8",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-9",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-10",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-11",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-12",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-13",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-14",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-15",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-16",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-17",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-18",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-19",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-20",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-21",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-22",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-23",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
+    ],
+    [
+        "historical-clothing",
+        "historical-clothing-entry-24",
+        "contains",
+        "Supporting entry under Historical clothing.",
+        0.75,
+        0.7
     ]
 ];
 

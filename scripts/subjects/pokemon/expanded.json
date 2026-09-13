@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:39:42.072Z",
+  "generated_at": "2026-09-13T03:29:48.276Z",
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
@@ -20712,22 +20712,23 @@
     },
     {
       "slug": "pokemon",
-      "image_url": "https://static.wikia.nocookie.net/pokemon/images/e/ee/Pocket_Monsters_Red.jpg/revision/latest/scale-to-width-down/360?cb=20250109135504",
-      "image_source": "https://pokemon.fandom.com/wiki/Pok%C3%A9mon_(franchise)",
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/9/95/Kanto_Pok%C3%A9mon.png/revision/latest/scale-to-width-down/360?cb=20190718185033",
+      "image_source": "https://pokemon.fandom.com/wiki/Pok%C3%A9mon_(creature)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo / Creatures / Game Freak (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Pokémon (franchise)",
+      "image_alt": "Identification thumbnail for Pokémon (creature)",
       "metadata": {
-        "fandom_url": "https://pokemon.fandom.com/wiki/Pok%C3%A9mon",
-        "fandom_title": "Pokémon",
+        "fandom_url": "https://pokemon.fandom.com/wiki/Pok%C3%A9mon_(creature)",
+        "fandom_title": "Pokémon (creature)",
         "source_fandom": "pokemon.fandom.com",
         "sources": [
           "wikipedia",
           "fandom"
-        ]
+        ],
+        "fandom_preferred_image": true
       },
-      "description": "It centers around a group of fantasy creatures known as Pokémon, from which the series itself takes its name. A group of humans known as Pokémon Trainers catch Pokémon and train them to battle other Pokémon for sport and/or as loyal companions, with their main goal is to become the Pokémon Champion while preventing a wicked group of Trainers known as villainous teams from causing danger to the world. Although Pokémon is technically a series, similar to Final Fantasy, Dragon Quest, Phantasy Star and others, an animation series, manga, and a trading card game also make up large aspects of the franchise. Pokémon is managed by The Pokémon Company, a company formed by Nintendo, Game Freak, and Creatures Inc.. It is one of Nintendo's flagship franchises, alongside Mario and The Legend of Zelda. The series as a whole debuted with on February 27, 1996 in Japan and in September 1998 in North America, on the original Game Boy. The main mascot of the Pokémon franchise is the yellow Generation I Electric-type mouse Pokémon named Pikachu.\n\nThe main series in the franchise is the eponymous Pokémon series, consisting of RPG games that typically involve a player character (whose name is decided by the player) starting their journey as a Pokémon Trainer after receiving their First partner Pokémon from the Pokémon Professor at the local Pokémon Lab. The professor also gives them a Pokédex, and tasks them to fill it with data entries on Pokémon to aid their research; this is accomplished by obtaining every Pokémon species within that game. The mainline games overall debuted with Pokémon Red Version and Pokémon Green Version, followed by a Blue Version upgrade (Pokémon Red Version and Pokémon Blue Version in non-Japanese localizations) and every installment since had been released in pairs (sometimes having a special edition version shortly after, such as or ). Although the two paired games are identical, the main difference between them is the type of Pokémon encountered, and therefore, it is impossible to collect every Pokémon and complete the Pokédex in one game without trading Pokémon with other players between individual versions, itself a contributing factor of its popularity. Every main Pokémon series installment has been released for a Nintendo handheld device until for the Nintendo Switch, a hybrid home console with a portable handheld mode.",
+      "description": "Pokémon take from a wide variety of inspirations including animals, plants, mythological creatures, and objects. Rattata resembles a rat, while most others take more unusual forms, such as Exeggutor, which resembles a coconut tree with animal facial features and feet. Although most Pokémon look and act like animals, others share no resemblance to any of such creatures, plants, or fungi, and a few even have machine-like forms, such as Registeel. Some Pokémon even resemble humans, such as Mr. Mime, Jynx, and Cinderace. The most powerful and rarest types of Pokémon are Legendary Pokémon and Mythical Pokémon such as Lugia or Jirachi, who are usually the subject of myths and urban legends within the Pokémon World.\n\nEach Pokémon has an elemental type, which affects their attacks, abilities, and weaknesses. For example, Pikachu, being an Pokémon, specializes in electrical attacks, which are effective against both and Pokémon, but in turn are weak against Pokémon and ineffective against Pokémon. Each Pokémon has unique stats and characteristics. For example, Darkrai is very fast and strong but has mediocre defensive ability.\n\nMost Pokémon have their own evolutions, which are different Pokémon that they can evolve into once certain requirements have been met, making themselves grow into a more mature and powerful shape. For example, a Ralts can evolve into Kirlia, and Kirlia can evolve into Gardevoir at level 30, or give a Dawn Stone to a male Kirlia to evolve it to Gallade. One certain Pokémon, Eevee, can evolve into as many as eight different ways. In most games, it is recommended to have Pokémon evolve to defeat Gym Leaders or stronger Trainers more easily. Legendary and Mythical Pokémon, however, almost never evolve (excluding Mega Evolutions).\n\nThe relationship between a Pokémon and a human varies, depending on the species and personality. In the Pokémon World, some humans become Pokémon Trainers, who capture Pokémon using a Poké Ball to then keep them as a traditional pet and/or to have them engage in Pokémon battles. Many Pokémon Trainers, including the player in the core series, go on an adventure with the goal of capturing every known species of Pokémon, and they take a Pokédex with them to catalog each's Pokémon's data, as well as becoming the Pokémon Champion of their own specific region.",
       "short_description": "Pokémon is a Japanese media franchise consisting of video games, animated series and films, a trading card game, and other related media. The franchise takes place in a shared universe in which humans co-exist with the…"
     },
     {
@@ -31833,8 +31834,8 @@
     },
     {
       "slug": "detective-pikachu-movie",
-      "description": "This Pikachu is an -type Pokémon who appears in . He is later revealed to be Harry Goodman's Pokémon partner.\n\nThunderbolt; Electric; Pokémon: Detective Pikachu Electro Ball; Electric; Pokémon: Detective Pikachu Volt Tackle; Electric; Pokémon: Detective Pikachu\n\nCategory:Electric-type live-action Pokémon Category:Male live-action Pokémon Category:Pokémon movie characters Category:\"Pokémon that can Talk\"",
-      "short_description": "This Pikachu is an -type Pokémon who appears in . He is later revealed to be Harry Goodman's Pokémon partner."
+      "description": "Pokémon: Detective Pikachu is a Japanese-American live-action film produced by Legendary Pictures and Warner Bros. Pictures in collaboration with Nintendo and The Pokémon Company. The movie is based on the 2016 game, Detective Pikachu. Detective Pikachu is voiced by Ryan Reynolds, known for his role as Deadpool.\n\nConfirmed human roles are played by Justice Smith, Kathryn Newton, and Ken Watanabe. The movie was released on May 10, 2019.\n\nIn a mysterious lab, scientists study an artificial humanoid being. A man exits the lab and enters a car. Suddenly, a glitch in the system causes the being to wake up and break out, causing the lab to get destroyed. The being flies off, and goes towards the car; at a building, the being waves its hand, causing the car to crash.\n\nElsewhere, two men run through a field. A guy, named Jack, tries to get the other guy, Tim, to catch a Pokémon, a Cubone. Tim is reluctant but is persuaded to take the Poké Ball and catch Cubone. Jack reminds Tim that he needs to bond with Cubone first, and Tim comments how both he and Cubone are lonely, considering Cubone's mother is missing. Cubone becomes angry, so Tim, before an incident occurs, throws the Poké Ball, causing Cubone to be warped inside the Ball. Jack and Tim cheer but realize that the Ball needs to glow green to confirm Cubone's capture. Alas, Cubone releases itself, and throws the bone to attack Tim.",
+      "short_description": "Pokémon: Detective Pikachu is a Japanese-American live-action film produced by Legendary Pictures and Warner Bros. Pictures in collaboration with Nintendo and The Pokémon Company. The movie is based on the 2016 game,…"
     },
     {
       "slug": "giant-pokemon",
@@ -94928,30 +94929,6 @@
       "image_alt": "Identification thumbnail for Spark"
     },
     {
-      "slug": "chalce",
-      "name": "Chalce",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Chalce is an admin of the Explorers, an employee at Exceed, and a major antagonist appearing in .",
-      "description": "Chalce is an admin of the Explorers, an employee at Exceed, and a major antagonist appearing in .\n\nChalce is an adult woman who has brown skin and eyes, thick lips, and dark brown hair in large dreadlocks. She wears a long white shirt with dark orange clips, brown and black belts around her waist, a dark orange skirt with dull yellow rims, and white boots with blue accents and yellow buttons. Her dreadlocks are adorned with large, pale beige, and blue trapezoid accessories, and her forehead, neck, and wrists with dark orange rings. She also has three Poké Balls around her hip and a Mega Ring on her right wrist.\n\nThough a calm and collected individual, Chalce will not hesitate to call out her allies for messing up their missions such as harshly calling out Spinel for losing the pendant. Like Spinel, she regards Amethio as a liability.\n\nCategory:Antagonists Category:Explorers Category:Characters Category:Strong Sphere user",
-      "aliases": [
-        "Chalce"
-      ],
-      "parentSlug": "pokemon",
-      "wikidata_id": "Q126878021",
-      "wikipedia_url": null,
-      "metadata": {
-        "source": "wikidata",
-        "discovered": true
-      },
-      "image_url": "https://static.wikia.nocookie.net/pokemon/images/2/23/Chalce_anime_2.png/revision/latest/scale-to-width-down/360?cb=20250901113712",
-      "image_source": "https://pokemon.fandom.com/wiki/Chalce",
-      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo / Creatures / Game Freak (as applicable). Not free or redistributable artwork.",
-      "image_license": "fair_use",
-      "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Chalce"
-    },
-    {
       "slug": "hamber",
       "name": "Hamber",
       "type": "person",
@@ -100712,6 +100689,39 @@
       "image_alt": null
     },
     {
+      "slug": "chalce",
+      "name": "Chalce",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Chalce is an admin of the Explorers, an employee at Exceed, and a major antagonist appearing in .",
+      "description": "Chalce is an admin of the Explorers, an employee at Exceed, and a major antagonist appearing in .\n\nChalce is an adult woman who has brown skin and eyes, thick lips, and dark brown hair in large dreadlocks. She wears a long white shirt with dark orange clips, brown and black belts around her waist, a dark orange skirt with dull yellow rims, and white boots with blue accents and yellow buttons. Her dreadlocks are adorned with large, pale beige, and blue trapezoid accessories, and her forehead, neck, and wrists with dark orange rings. She also has three Poké Balls around her hip and a Mega Ring on her right wrist.\n\nThough a calm and collected individual, Chalce will not hesitate to call out her allies for messing up their missions such as harshly calling out Spinel for losing the pendant. Like Spinel, she regards Amethio as a liability.\n\nCategory:Antagonists Category:Explorers Category:Characters Category:Strong Sphere user",
+      "aliases": [
+        "Chalce"
+      ],
+      "parentSlug": "pokemon",
+      "wikidata_id": "Q126878021",
+      "wikipedia_url": null,
+      "metadata": {
+        "source": "wikidata",
+        "discovered": true,
+        "canon": false,
+        "kind": "character",
+        "fandom_url": "https://pokemon.fandom.com/wiki/Chalce",
+        "fandom_title": "Chalce",
+        "source_fandom": "pokemon.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/2/23/Chalce_anime_2.png/revision/latest/scale-to-width-down/360?cb=20250901113712",
+      "image_source": "https://pokemon.fandom.com/wiki/Chalce",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo / Creatures / Game Freak (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Chalce"
+    },
+    {
       "slug": "kyogre",
       "name": "Kyogre",
       "type": "object",
@@ -106412,7 +106422,7 @@
       "slug": "detective-pikachu-movie",
       "name": "Detective Pikachu",
       "type": "object",
-      "description": "This Pikachu is an -type Pokémon who appears in . He is later revealed to be Harry Goodman's Pokémon partner.\n\nThunderbolt; Electric; Pokémon: Detective Pikachu Electro Ball; Electric; Pokémon: Detective Pikachu Volt Tackle; Electric; Pokémon: Detective Pikachu\n\nCategory:Electric-type live-action Pokémon Category:Male live-action Pokémon Category:Pokémon movie characters Category:\"Pokémon that can Talk\"",
+      "description": "Pokémon: Detective Pikachu is a Japanese-American live-action film produced by Legendary Pictures and Warner Bros. Pictures in collaboration with Nintendo and The Pokémon Company. The movie is based on the 2016 game, Detective Pikachu. Detective Pikachu is voiced by Ryan Reynolds, known for his role as Deadpool.\n\nConfirmed human roles are played by Justice Smith, Kathryn Newton, and Ken Watanabe. The movie was released on May 10, 2019.\n\nIn a mysterious lab, scientists study an artificial humanoid being. A man exits the lab and enters a car. Suddenly, a glitch in the system causes the being to wake up and break out, causing the lab to get destroyed. The being flies off, and goes towards the car; at a building, the being waves its hand, causing the car to crash.\n\nElsewhere, two men run through a field. A guy, named Jack, tries to get the other guy, Tim, to catch a Pokémon, a Cubone. Tim is reluctant but is persuaded to take the Poké Ball and catch Cubone. Jack reminds Tim that he needs to bond with Cubone first, and Tim comments how both he and Cubone are lonely, considering Cubone's mother is missing. Cubone becomes angry, so Tim, before an incident occurs, throws the Poké Ball, causing Cubone to be warped inside the Ball. Jack and Tim cheer but realize that the Ball needs to glow green to confirm Cubone's capture. Alas, Cubone releases itself, and throws the bone to attack Tim.",
       "evidence": "fiction",
       "parentSlug": "pokemon",
       "wikipedia_url": null,
@@ -106434,7 +106444,7 @@
           "fandom"
         ]
       },
-      "short_description": "This Pikachu is an -type Pokémon who appears in . He is later revealed to be Harry Goodman's Pokémon partner."
+      "short_description": "Pokémon: Detective Pikachu is a Japanese-American live-action film produced by Legendary Pictures and Warner Bros. Pictures in collaboration with Nintendo and The Pokémon Company. The movie is based on the 2016 game,…"
     },
     {
       "slug": "genesect-army",
@@ -107322,6 +107332,289 @@
         "kind": "creature",
         "fandom_url": "https://pokemon.fandom.com/wiki/Gift_Pok%C3%A9mon",
         "fandom_title": "Gift Pokémon",
+        "source_fandom": "pokemon.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "character",
+      "name": "Character",
+      "type": "person",
+      "description": "A character is a person who appears in fictional media, including the Pokémon franchise.\n\nIn the games, the definition of a character is based on gameplay mechanics. There is the player, who is the main protagonist and playable character, while the others are non-playable characters (NPCs). In the case either have a major role of helping the character or have only a few lines of dialogue in certain locations. Red has had either role, depending on the game, being the player's character in the Generation I games and their remakes but a silent non-playable character in the Generation II games and the remakes .\n\nCharacters in the anime and the manga group characters more clearly into being protagonists and antagonists, as well as minor characters who lack any form of contribution to the game plot. In the anime, the main protagonist is Ash (prior to Pokémon Horizons: The Series) and the supporting characters are generally his traveling companions. In the manga, the characters referred to by a specific term, Pokédex Holders, since all of them own a Pokédex.",
+      "short_description": "A character is a person who appears in fictional media, including the Pokémon franchise.",
+      "evidence": "fiction",
+      "parentSlug": "pokemon",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/4/40/Red_Let%27s_Go%2C_Pikachu%21_and_Let%27s_Go%2C_Eevee%21.png/revision/latest/scale-to-width-down/360?cb=20220701232612",
+      "image_source": "https://pokemon.fandom.com/wiki/Character",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo / Creatures / Game Freak (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Character",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://pokemon.fandom.com/wiki/Character",
+        "fandom_title": "Character",
+        "source_fandom": "pokemon.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "city",
+      "name": "City",
+      "type": "place",
+      "description": "Cities are a type of location in both the real world and the Pokémon franchise. They are large, densely populated urban areas with several buildings, unlike towns, which mainly have just a few residential homes. In the Pokémon franchise, many cities have their own Gymnasium where a Gym Leader can be fought in a Pokémon Battle. Cities on a Town Map are marked in red.",
+      "short_description": "Cities are a type of location in both the real world and the Pokémon franchise. They are large, densely populated urban areas with several buildings, unlike towns, which mainly have just a few residential homes. In the…",
+      "evidence": "fiction",
+      "parentSlug": "pokemon",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://pokemon.fandom.com/wiki/City",
+        "fandom_title": "City",
+        "source_fandom": "pokemon.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "non-playable-character",
+      "name": "Non-playable character",
+      "type": "person",
+      "description": "Non-playable characters (often abbreviated NPCs) are characters whom the player cannot play as in games. They appear in as early as Generation I.,\n\nAlthough non-playable characters cannot be controlled, the player's character can generally interact with them through other methods. Non-playable characters can range from having major roles, such as being supporting characters or antagonists, or having no contribution to the plot at all.\n\nExcluding Trainer classes, non-playable characters in the core series generally include a Pokémon Professor, a Rival, the player's Mom, a Pokémon Center Lady, the leader and grunts of a villainous team, Gym Leaders, Elite Four, the administrator of a PC, and the Pokémon Champion.\n\nThere are several non-playable characters that appear in only one location. Many have only a few lines of dialogue, usually being advice or useful information. Ironically, there is often a non-playable character who encourages the player to talk to as many of them for this reason. There are some who provide further assistance by giving either an item to the player, trading a Pokémon with them, or give them a Pokémon outright. Some non-playable characters prevent the player from accessing certain locations during certain points of a game.",
+      "short_description": "Non-playable characters (often abbreviated NPCs) are characters whom the player cannot play as in games. They appear in as early as Generation I.,",
+      "evidence": "fiction",
+      "parentSlug": "pokemon",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://pokemon.fandom.com/wiki/Non-playable_character",
+        "fandom_title": "Non-playable character",
+        "source_fandom": "pokemon.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "town",
+      "name": "Town",
+      "type": "place",
+      "description": "Towns are a type of location in both the real world and the Pokémon franchise. They have a lower population than cities, are less dense, and consist mainly of a few residential homes. In the core series titles, the player lives in a town, and towns are represented in blue on the Town Map. The most well known example of a town is Pallet Town, which is Ash Ketchum's hometown in the anime series. Most towns do not have a Gymnasium, but there have been a few exceptions to this, such as Mahogany Town in Johto.",
+      "short_description": "Towns are a type of location in both the real world and the Pokémon franchise. They have a lower population than cities, are less dense, and consist mainly of a few residential homes. In the core series titles, the…",
+      "evidence": "fiction",
+      "parentSlug": "pokemon",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://pokemon.fandom.com/wiki/Town",
+        "fandom_title": "Town",
+        "source_fandom": "pokemon.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "protagonist",
+      "name": "Protagonist",
+      "type": "person",
+      "description": "Protagonists are the good characters in any fictional media, including the Pokémon franchise. The main protagonist is whom the story of the media is centered around, and in every game, this would be the player.",
+      "short_description": "Protagonists are the good characters in any fictional media, including the Pokémon franchise. The main protagonist is whom the story of the media is centered around, and in every game, this would be the player.",
+      "evidence": "fiction",
+      "parentSlug": "pokemon",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://pokemon.fandom.com/wiki/Protagonist",
+        "fandom_title": "Protagonist",
+        "source_fandom": "pokemon.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alternate-universe",
+      "name": "Alternate Universe",
+      "type": "place",
+      "description": "The Alternate Universe is an alternative reality seen in the anime.",
+      "short_description": "The Alternate Universe is an alternative reality seen in the anime.",
+      "evidence": "fiction",
+      "parentSlug": "pokemon",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://pokemon.fandom.com/wiki/Alternate_Universe",
+        "fandom_title": "Alternate Universe",
+        "source_fandom": "pokemon.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bittercold",
+      "name": "Bittercold",
+      "type": "person",
+      "description": "The Bittercold is the main antagonist of the game Pokémon Mystery Dungeon: Gates to Infinity. It is an entity made from negative emotions that threatens to destroy the world from the Glacier Palace.\n\nThe Bittercold looks like a giant snowflake with six prongs, six more purple prongs extend behind these. At its center is a pink diamond shaped core encased in ice.\n\nIt has an eerie purple aura emanating from its core and expels chunks of ice from its center.\n\nThe Bittercold is said to have been born from the negative emotions of Pokémon. The dark aura emanating from its center is known as the Winds of Despair and drains the energy of any Pokémon who gets to close, making it difficult to breathe. The Bittercold began amassing power inside the Great Glacier, hidden from the world, but rumors of a great crystal with the power to make things float inside the glacier spread.",
+      "short_description": "The Bittercold is the main antagonist of the game Pokémon Mystery Dungeon: Gates to Infinity. It is an entity made from negative emotions that threatens to destroy the world from the Glacier Palace.",
+      "evidence": "fiction",
+      "parentSlug": "pokemon",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/9/9a/PMD3_Bittercold.png/revision/latest/scale-to-width-down/360?cb=20140926171923",
+      "image_source": "https://pokemon.fandom.com/wiki/Bittercold",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo / Creatures / Game Freak (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Bittercold",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://pokemon.fandom.com/wiki/Bittercold",
+        "fandom_title": "Bittercold",
+        "source_fandom": "pokemon.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "azoth-kingdom",
+      "name": "Azoth Kingdom",
+      "type": "place",
+      "description": "Azoth Kingdom is a city of super-machinery where gigantic cogwheels are all over the place and rotating.\n\nIt's a mechanical kingdom that was built by Nikola using arcane science and arts. The city has many large cogs and gears which power many inventions, including escalators, moving roads, and various transportation devices. Surrounding the kingdom is a large wall that defends the kingdom. Part of the wall can separate from the rest of it and convert itself into a floating fortress, which was designed to be used in times of emergency. However, the fortress was eventually sealed off due to an uprising about who would control that power. In the events of the movie, Alva stole the Soul-Heart from Magearna and used it to power up the fortress. Five hundred years ago, Nikola also built Magearna, who acted as the princess's playmate and also protected the princess and the kingdom. However, rather than bringing happiness, the power was abused to incite war and hatred. As a result, Nikola hid Magearna so that it could not be found by anyone. The current prince and princess of the kingdom are Raleigh and Kimia, they're both descendants of Nikola.\n\nThe name, Azoth, makes a reference to the project Team Aqua and Team Magma were working on in Omega Ruby and Alpha Sapphire, called \"Project AZOTH\". Category:Movie locations Category:Cities Category:Locations",
+      "short_description": "Azoth Kingdom is a city of super-machinery where gigantic cogwheels are all over the place and rotating.",
+      "evidence": "fiction",
+      "parentSlug": "pokemon",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/b/b7/Azoth_Kingdom.png/revision/latest/scale-to-width-down/360?cb=20160307130157",
+      "image_source": "https://pokemon.fandom.com/wiki/Azoth_Kingdom",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo / Creatures / Game Freak (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Azoth Kingdom",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://pokemon.fandom.com/wiki/Azoth_Kingdom",
+        "fandom_title": "Azoth Kingdom",
+        "source_fandom": "pokemon.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "caroline",
+      "name": "Caroline",
+      "type": "person",
+      "description": "Caroline is the wife of Norman and the mother of May and Max.\n\nCaroline is a middle-aged woman with brown hair that is styled zigzag two pigtails she has lavender eyes and light pink lipstick. She wears a yellow sleeveless shirt with a white stripe covering her shoulders. She also wears a brown sash around her belly, an orange skirt, white high-heeled sandals and a pair of violet spherical earrings. During her visit at the Hoenn Grand Festival, she also wears a salmon-coloured sweater that zips only down the middle, with white trim around the zipper and wrists. The sweater also features a red flower with white trim around it.\n\nCaroline met Norman on a flowery field, surrounded by Beautifly and Caroline make a photo of that moment.\n\nWhile spending a day on the beach, Caroline heard May (Caroline's daughter) being overwhelmed by some Tentacool. Thus, Caroline threw a Poké Ball, but, by accident, hit May, since Caroline mistook her to be a Tentacool.",
+      "short_description": "Caroline is the wife of Norman and the mother of May and Max.",
+      "evidence": "fiction",
+      "parentSlug": "pokemon",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/8/87/Caroline.png/revision/latest/scale-to-width-down/360?cb=20110419212523",
+      "image_source": "https://pokemon.fandom.com/wiki/Caroline",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo / Creatures / Game Freak (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Caroline",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://pokemon.fandom.com/wiki/Caroline",
+        "fandom_title": "Caroline",
+        "source_fandom": "pokemon.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beach-zone",
+      "name": "Beach Zone",
+      "type": "place",
+      "description": "The Beach Zone is a location in PokéPark Wii: Pikachu's Adventure. It is a seaside area primarily inhabited by -type Pokémon. The player can access the Iceberg Zone here by riding Lapras.\n\nWhen Pikachu first enters the Zone, he overhears a Slowpoke and Azurill talking about a fight between Feraligatr and Gyarados destroying all the bridges connecting the islands. Slowpoke and Azurill tell Pikachu the way to the Iceberg Zone is to ride Lapras, but Pikachu discovers a recent earthquake has caused a boulder to fall and block the path to Lapras's cover. Feraligatr offers to destroy the rock if Pikachu can bring Gyarados, who proclaimed himself the new Zone Keeper, to his senses. Soon after, Pikachu finds Piplup and a Wynaut are stranded on an island and Piplup recommends getting the help of Bidoof in the Meadow Zone to rebuild the bridges. When Pikachu returns with Bidoof, two of Gyarados's underlings, a Carvanha and Sharpedo, refuse to let the bridge be built unless Pikachu can beat Pelipper's attraction. After Pelipper's attraction is cleared, Pikachu is awarded a Prism Piece and Bidoof builds the bridges and Piplup and Wynaut return to the mainland. With the bridges restored, Pikachu is able to reach and speak to Gyarados. Gyarados at first refuses to give up becoming the new leader of the Beach Zone, but relents to step down if Pikachu can clear his attraction. After Pikachu manages to clear the attraction, Gyarados keeps his word to abandon his plans and gives Pikachu a Prism Piece. A grateful Feraligatr destroys the boulder and unlocks Lapras's cove. At the cover, Pikachu and Piplup discover a broken hot air balloon which Piplup takes back to the Meeting Place and Pikachu meets Lapras, who takes him to the Iceberg Zone.\n\nPelipper's Circle Circuit is a game where the Pokémon must fly across a course and pass through colored rings to score points. There are three types of ring worth different points, gold is worth 100, red is worth 300, and rainbow rings are worth 1000 points.\n\n{| class=\"article-table\" ! colspan=\"2\" |Pokémon !Bonus",
+      "short_description": "The Beach Zone is a location in PokéPark Wii: Pikachu's Adventure. It is a seaside area primarily inhabited by -type Pokémon. The player can access the Iceberg Zone here by riding Lapras.",
+      "evidence": "fiction",
+      "parentSlug": "pokemon",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/c/c0/Park_Beach_Zone.png/revision/latest/scale-to-width-down/360?cb=20111016180956",
+      "image_source": "https://pokemon.fandom.com/wiki/Beach_Zone",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo / Creatures / Game Freak (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Beach Zone",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://pokemon.fandom.com/wiki/Beach_Zone",
+        "fandom_title": "Beach Zone",
+        "source_fandom": "pokemon.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blue-field",
+      "name": "Blue Field",
+      "type": "place",
+      "description": "is a location introduced in Generation I.",
+      "short_description": "is a location introduced in Generation I.",
+      "evidence": "fiction",
+      "parentSlug": "pokemon",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://pokemon.fandom.com/wiki/Blue_Field",
+        "fandom_title": "Blue Field",
         "source_fandom": "pokemon.fandom.com",
         "sources": [
           "fandom"
@@ -131929,6 +132222,94 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "character",
+      "pokemon",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "city",
+      "pokemon",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "non-playable-character",
+      "pokemon",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "town",
+      "pokemon",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "protagonist",
+      "pokemon",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "alternate-universe",
+      "pokemon",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bittercold",
+      "pokemon",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "azoth-kingdom",
+      "pokemon",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "caroline",
+      "pokemon",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "beach-zone",
+      "pokemon",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "blue-field",
+      "pokemon",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "stats": {
@@ -131939,15 +132320,15 @@
     "core_enrichments": 0,
     "image_backfill_at": "2026-09-11T16:26:11.996Z",
     "image_backfill_count": 2,
-    "fandom_titles": 45,
-    "fandom_enriched_core": 15,
-    "fandom_created": 0,
-    "fandom_images": 44,
-    "fandom_intros": 44,
+    "fandom_titles": 1,
+    "fandom_enriched_core": 0,
+    "fandom_created": 1,
+    "fandom_images": 0,
+    "fandom_intros": 1,
     "description_backfill_at": "2026-09-11T13:14:53.088Z",
     "description_backfill_count": 2074,
-    "description_ensure_at": "2026-09-12T08:35:23.598Z",
-    "description_ensure_count": 5
+    "description_ensure_at": "2026-09-13T03:30:05.797Z",
+    "description_ensure_count": 6
   },
   "source": {
     "wikipedia": true,

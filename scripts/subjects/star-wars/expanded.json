@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:38:15.173Z",
+  "generated_at": "2026-09-13T03:25:17.762Z",
   "source": {
     "wiki": "https://starwars.fandom.com/wiki/Main_Page",
     "host": "starwars.fandom.com",
@@ -172816,6 +172816,58 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "sith-cult",
+      "name": "Sith cult",
+      "type": "organization",
+      "description": "A Sith cult was a cult comprised of Sith cultists that followed the Sith religion and worshiped the dark side of the Force. Some cults, such as the Sith Eternal, would worship one or more specific Sith Lords and practice their teachings, sometimes even with the goal of resurrecting the Sith Lord. Some cults were in possession of artifacts and treated them as relics and sometimes even instruments to gain power.\n\nBy the time of the New Republic, multiple cults had been formed following the Sith extinction. Such cults practiced their teachings included the Acolytes of the Beyond, and the Alazmec of Winsit, and continued to venerate and worship the Sith, despite there destruction.\n\nThe Acolytes of the Beyond wreaked havoc around the galaxy during the late Galactic Civil War, attacking New Republic outposts. The Alazmec of Winsit was a Sith cult on Mustafar that worshiped the Sith Lord Darth Vader.\n\nOne of the more influential and powerful Sith cults was the Sith Eternal, a secret cult known to few that preserved the Sith religion after the Sith were destroyed. The cult served the resurrected Darth Sidious and had members in high places with a vast reach. On Exegol, the hidden world of the Sith, the cult built a massive fleet called the Final Order and raised a generation of children into an army that would ensure eternal Sith rule. However, the cult was decimated when Sidious was defeated by his grandchild Rey and their remaining military forces were destroyed by the heroic Resistance, preventing the rebirth of the long-deceased Sith Order and the establishment of a new Sith Empire.",
+      "short_description": "A Sith cult was a cult comprised of Sith cultists that followed the Sith religion and worshiped the dark side of the Force. Some cults, such as the Sith Eternal, would worship one or more specific Sith Lords and…",
+      "evidence": "fiction",
+      "parentSlug": "star-wars",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/starwars/images/4/4b/SithEternal-DB.jpg/revision/latest/scale-to-width-down/360?cb=20200319155905",
+      "image_source": "https://starwars.fandom.com/wiki/Sith_cult",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Lucasfilm Ltd. / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Sith cult",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://starwars.fandom.com/wiki/Sith_cult",
+        "fandom_title": "Sith cult",
+        "source_fandom": "starwars.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ergeshui",
+      "name": "Ergeshui",
+      "type": "place",
+      "description": "Ergeshui was a world that existed within the galaxy. the bounty hunter Boba Fett went to the world to deliver a human bounty to the alien criminal Tusk, who subsequently executed the human for backstabbing them sometime in the past.\n\nErgeshui appeared in the first issue of the 2025 comic miniseries Star Wars: Boba Fett — Black, White & Red. The issue was written by Benjamin Percy, illustrated by Chris Allen, and published by Marvel Comics",
+      "short_description": "Ergeshui was a world that existed within the galaxy. the bounty hunter Boba Fett went to the world to deliver a human bounty to the alien criminal Tusk, who subsequently executed the human for backstabbing them sometime…",
+      "evidence": "fiction",
+      "parentSlug": "star-wars",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://starwars.fandom.com/wiki/Ergeshui",
+        "fandom_title": "Ergeshui",
+        "source_fandom": "starwars.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -218866,14 +218918,30 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "sith-cult",
+      "star-wars",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ergeshui",
+      "star-wars",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "stats": {
-    "fandom_titles": 45,
-    "fandom_enriched_core": 3,
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
     "fandom_created": 0,
-    "fandom_images": 25,
-    "fandom_intros": 45,
+    "fandom_images": 0,
+    "fandom_intros": 0,
     "image_backfill_at": "2026-09-11T12:40:27.263Z",
     "image_backfill_count": 87,
     "description_backfill_at": "2026-09-11T22:12:20.918Z",

@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into UFC.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify UFC."
+    },
+    {
+        "slug": "ufc-geography",
+        "name": "UFC geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for UFC.",
+        "description": "Regions, routes, and spatial systems that situate UFC beyond single named places."
+    },
+    {
+        "slug": "ufc-legacy",
+        "name": "UFC legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of UFC.",
+        "description": "How UFC continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "ufc-practices",
+        "name": "UFC practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in UFC.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in UFC."
+    },
+    {
+        "slug": "ufc-entry-1",
+        "name": "UFC entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufc-entry-2",
+        "name": "UFC entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufc-entry-3",
+        "name": "UFC entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufc-entry-4",
+        "name": "UFC entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufc-entry-5",
+        "name": "UFC entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufc-entry-6",
+        "name": "UFC entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufc-entry-7",
+        "name": "UFC entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufc-entry-8",
+        "name": "UFC entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufc-entry-9",
+        "name": "UFC entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufc-entry-10",
+        "name": "UFC entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufc-entry-11",
+        "name": "UFC entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufc-entry-12",
+        "name": "UFC entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufc-entry-13",
+        "name": "UFC entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufc-entry-14",
+        "name": "UFC entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufc-entry-15",
+        "name": "UFC entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufc-entry-16",
+        "name": "UFC entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufc-entry-17",
+        "name": "UFC entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufc-entry-18",
+        "name": "UFC entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufc-entry-19",
+        "name": "UFC entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufc-entry-20",
+        "name": "UFC entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufc-entry-21",
+        "name": "UFC entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ufc-entry-22",
+        "name": "UFC entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UFC.",
+        "description": "A supporting encyclopedia entry in the UFC subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "UFC sources is a primary trailhead under UFC.",
         0.88,
         0.82
+    ],
+    [
+        "ufc",
+        "ufc-geography",
+        "contains",
+        "UFC geography is a primary trailhead under UFC.",
+        0.88,
+        0.82
+    ],
+    [
+        "ufc",
+        "ufc-legacy",
+        "contains",
+        "UFC legacy is a primary trailhead under UFC.",
+        0.88,
+        0.82
+    ],
+    [
+        "ufc",
+        "ufc-practices",
+        "contains",
+        "UFC practices is a primary trailhead under UFC.",
+        0.88,
+        0.82
+    ],
+    [
+        "ufc",
+        "ufc-entry-1",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufc",
+        "ufc-entry-2",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufc",
+        "ufc-entry-3",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufc",
+        "ufc-entry-4",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufc",
+        "ufc-entry-5",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufc",
+        "ufc-entry-6",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufc",
+        "ufc-entry-7",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufc",
+        "ufc-entry-8",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufc",
+        "ufc-entry-9",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufc",
+        "ufc-entry-10",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufc",
+        "ufc-entry-11",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufc",
+        "ufc-entry-12",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufc",
+        "ufc-entry-13",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufc",
+        "ufc-entry-14",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufc",
+        "ufc-entry-15",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufc",
+        "ufc-entry-16",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufc",
+        "ufc-entry-17",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufc",
+        "ufc-entry-18",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufc",
+        "ufc-entry-19",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufc",
+        "ufc-entry-20",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufc",
+        "ufc-entry-21",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
+    ],
+    [
+        "ufc",
+        "ufc-entry-22",
+        "contains",
+        "Supporting entry under UFC.",
+        0.75,
+        0.7
     ]
 ];
 

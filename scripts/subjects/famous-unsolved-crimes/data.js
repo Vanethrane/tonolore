@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Famous unsolved crimes.",
         "description": "How Famous unsolved crimes continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "famous-unsolved-crimes-practices",
+        "name": "Famous unsolved crimes practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Famous unsolved crimes.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Famous unsolved crimes."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-1",
+        "name": "Famous unsolved crimes entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-2",
+        "name": "Famous unsolved crimes entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-3",
+        "name": "Famous unsolved crimes entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-4",
+        "name": "Famous unsolved crimes entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-5",
+        "name": "Famous unsolved crimes entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-6",
+        "name": "Famous unsolved crimes entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-7",
+        "name": "Famous unsolved crimes entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-8",
+        "name": "Famous unsolved crimes entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-9",
+        "name": "Famous unsolved crimes entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-10",
+        "name": "Famous unsolved crimes entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-11",
+        "name": "Famous unsolved crimes entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-12",
+        "name": "Famous unsolved crimes entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-13",
+        "name": "Famous unsolved crimes entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-14",
+        "name": "Famous unsolved crimes entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-15",
+        "name": "Famous unsolved crimes entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-16",
+        "name": "Famous unsolved crimes entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-17",
+        "name": "Famous unsolved crimes entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-18",
+        "name": "Famous unsolved crimes entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-19",
+        "name": "Famous unsolved crimes entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-20",
+        "name": "Famous unsolved crimes entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-21",
+        "name": "Famous unsolved crimes entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-22",
+        "name": "Famous unsolved crimes entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-23",
+        "name": "Famous unsolved crimes entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-unsolved-crimes-entry-24",
+        "name": "Famous unsolved crimes entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous unsolved crimes.",
+        "description": "A supporting encyclopedia entry in the Famous unsolved crimes subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Famous unsolved crimes legacy is a primary trailhead under Famous unsolved crimes.",
         0.88,
         0.82
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-practices",
+        "contains",
+        "Famous unsolved crimes practices is a primary trailhead under Famous unsolved crimes.",
+        0.88,
+        0.82
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-1",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-2",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-3",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-4",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-5",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-6",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-7",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-8",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-9",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-10",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-11",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-12",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-13",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-14",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-15",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-16",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-17",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-18",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-19",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-20",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-21",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-22",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-23",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-unsolved-crimes",
+        "famous-unsolved-crimes-entry-24",
+        "contains",
+        "Supporting entry under Famous unsolved crimes.",
+        0.75,
+        0.7
     ]
 ];
 

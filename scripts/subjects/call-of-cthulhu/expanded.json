@@ -114,8 +114,24 @@
     },
     {
       "slug": "antarctica",
-      "description": "At the Mountains of Madness is a novella by American horror writer H. P. Lovecraft, written in February and March 1931 and originally serialized in the February, March, and April 1936 issues of Astounding Stories. It has been reproduced in numerous collections since Lovecraft's death. Lovecraft scholar S. T. Joshi describes the novella as representing the decisive \"demythology\" of the Cthulhu Mythos by reinterpreting Lovecraft's earlier supernatural stories in a science fiction paradigm.\n\nThe story is written in the first-person perspective by the geologist William Dyer, a professor from Miskatonic University. He writes to disclose hitherto unknown and closely kept secrets in the hope that he can deter a planned and much publicized scientific expedition to Antarctica. On a previous expedition there, a party of scholars from Miskatonic University, led by Dyer, discovered fantastic and horrific ruins and a dangerous secret beyond a range of mountains taller than the Himalaya.\n\nThe group that discovered and crossed the mountains found the remains of fourteen ancient life forms, completely unknown to science and unidentifiable as either plants or animals, after discovering an underground cave while boring for ice cores. Six of the specimens seem to be badly damaged, the others uncannily pristine. Their highly-evolved features are problematic: their stratum location puts them at a point on the geologic time scale much too early for such features to have naturally evolved yet. Because of their resemblance to creatures of myth mentioned in the Necronomicon, they are dubbed the \"Elder Ones\".\n\nWhen the main expedition loses contact with this party, Dyer and the rest of his colleagues travel to their camp to investigate. The camp is devastated and both the men and the dogs slaughtered, with only one of each missing. Near the camp, they find six star-shaped snow mounds, and a damaged Elder One buried under each. They discover that the better-preserved life forms have vanished and that some form of experiment has been done, though they are only able to speculate on the subject and the possibility that it is the missing man and dog. Dyer decides to close off the area from which they took their samples.",
-      "short_description": "At the Mountains of Madness is a novella by American horror writer H. P. Lovecraft, written in February and March 1931 and originally serialized in the February, March, and April 1936 issues of Astounding Stories. It…"
+      "description": "Antarctica is the southernmost continent on the planet Earth. H. P. Lovecraft had a long-running fascination with Antarctica and one of his most famous stories, At the Mountains of Madness, has ensured it a central place in the Cthulhu Mythos.\n\nThe fabled Plateau of Leng is rumoured to be situated somewhere in the Antarctic (although sources conflict on this), and a ruined Elder Thing city is located there. At the Mountains of Madness also heavily implies that some undisclosed monstrosity inhabits the plain beyond the barrier mountains and Elder Thing city.\n\nCategory:Locations Incorporated From the Real World Category:Regions/Territories",
+      "short_description": "At the Mountains of Madness is a novella by American horror writer H. P. Lovecraft, written in February and March 1931 and originally serialized in the February, March, and April 1936 issues of Astounding Stories. It…",
+      "image_url": "https://static.wikia.nocookie.net/lovecraft/images/b/ba/Antarctica_1.jpg/revision/latest/scale-to-width-down/360?cb=20210715170230",
+      "image_source": "https://lovecraft.fandom.com/wiki/Antarctica",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Mythos / franchise art © Chaosium / respective Lovecraft estate rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Antarctica",
+      "metadata": {
+        "fandom_url": "https://lovecraft.fandom.com/wiki/Antarctica",
+        "fandom_title": "Antarctica",
+        "source_fandom": "lovecraft.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      }
     },
     {
       "slug": "deep-ones",
@@ -15871,6 +15887,151 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "atlantis",
+      "name": "Atlantis",
+      "type": "place",
+      "description": "Atlantis is a legendary lost continent, usually supposed to have been located in the North Atlantic Ocean. It was believed to have hosted an ancient civilization that was destroyed and sunk beneath the ocean in a cataclysmic event. The myth of Atlantis was incorporated as a background element by H. P. Lovecraft and other Cthulhu Mythos authors; Robert E. Howard and Clark Ashton Smith, among others, set stories in pre-cataclysm Atlantis.\n\nThough rarely the focus of Lovecraft's stories, Atlantis is mentioned numerous times.\n\nThe kingdom of Atlantis thrived for thousands of years. At its prime, it was a mighty empire, with a respected naval fleet. The Atlanteans enslaved ape-like creatures known as Gyaa-Hua and had diplomatic relations with the mother-continent Mu, which turned sour when the Atlantean General Bothon's army besieged the Muvian capital of Alu to abduct the Emperor's niece. (: \"Bothon\")\n\nAlien gods were worshiped in Atlantis (: \"The Last Test\") and there are rumours that the cult of Ghatanothoa was present in it. (: \"Out of the Aeons\")",
+      "short_description": "Atlantis is a legendary lost continent, usually supposed to have been located in the North Atlantic Ocean. It was believed to have hosted an ancient civilization that was destroyed and sunk beneath the ocean in a…",
+      "evidence": "fiction",
+      "parentSlug": "call-of-cthulhu",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lovecraft/images/5/5b/Atlantis.jpeg/revision/latest/scale-to-width-down/360?cb=20191114213912",
+      "image_source": "https://lovecraft.fandom.com/wiki/Atlantis",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Mythos / franchise art © Chaosium / respective Lovecraft estate rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Atlantis",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://lovecraft.fandom.com/wiki/Atlantis",
+        "fandom_title": "Atlantis",
+        "source_fandom": "lovecraft.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "irem",
+      "name": "Irem",
+      "type": "place",
+      "description": "Irem, or Irim, is a legendary city mentioned multiple times in the Cthulhu Mythos stories of H. P. Lovecraft, Robert Bloch, and August Derleth.\n\nIt was the City of Pillars visited by the Mad Arab in the deserts of Arabia.\n\nIrem is first mentioned by Lovecraft in \"The Nameless City\", in which the narrator finds evidence of a sapient reptile species that flourished before mankind and built a city in the Arabian desert. One of the images in their murals depicts a human being torn to pieces by the reptiles. The narrator muses that the man in the picture might have been \"a pioneer of ancient Irem, the City of Pillars\", thus implying that the reptile inhabitants of the Nameless City might have been enemies of the human inhabitants of Irem.\n\nAbdul Alhazred, the 8th century author of the Necronomicon who worshiped Yog-Sothoth and Cthulhu, claimed to have seen Irem, the City of Pillars, \"and to have found beneath the ruins of a certain nameless desert town the shocking annals and secrets of a race older than mankind\". (: \"History of the Necronomicon\")",
+      "short_description": "Irem, or Irim, is a legendary city mentioned multiple times in the Cthulhu Mythos stories of H. P. Lovecraft, Robert Bloch, and August Derleth.",
+      "evidence": "fiction",
+      "parentSlug": "call-of-cthulhu",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lovecraft/images/0/03/Irem.jpg/revision/latest/scale-to-width-down/360?cb=20250419204357",
+      "image_source": "https://lovecraft.fandom.com/wiki/Irem",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Mythos / franchise art © Chaosium / respective Lovecraft estate rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Irem",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://lovecraft.fandom.com/wiki/Irem",
+        "fandom_title": "Irem",
+        "source_fandom": "lovecraft.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mount-semura",
+      "name": "Mount Semura",
+      "type": "place",
+      "description": "Mount Semura has historically been part of Tibetan cosmology, a mythical mountain which was often identified with Mount Kailash in western Tibet. The Mount Semura of the Cthulhu Mythos was created by Chaosium for the Call of Cthulhu roleplaying game in 2005.\n\nMount Semura is a mystical mountain which is located within the Tibetan Himalayas. It is a vast floating mountain that is invisible to the human eye. Those who are deemed worthy can ascend to the base of the mountain via a set of transparent stairs. The mountain itself is a paradise of quiet green gardens and perfect weather. A great Tibetan-style temple sits at the top, its spire reaching so high that those in the surrounding areas often mistake it for the North Star. It is a place of esoteric knowledge, with its lamas and millennia-old beings spreading their knowledge to the world via their messengers.\n\nCategory:Locations Incorporated From Folklore, Myth & Religion Category:Locations Incorporated From the Real World Category:Locations Originating From Expanded Mythos Works Category:Regions/Territories",
+      "short_description": "Mount Semura has historically been part of Tibetan cosmology, a mythical mountain which was often identified with Mount Kailash in western Tibet. The Mount Semura of the Cthulhu Mythos was created by Chaosium for the…",
+      "evidence": "fiction",
+      "parentSlug": "call-of-cthulhu",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lovecraft/images/9/9f/Mount_Kailash_%28Internet%29.jpg/revision/latest/scale-to-width-down/360?cb=20191029033109",
+      "image_source": "https://lovecraft.fandom.com/wiki/Mount_Semura",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Mythos / franchise art © Chaosium / respective Lovecraft estate rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Mount Semura",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://lovecraft.fandom.com/wiki/Mount_Semura",
+        "fandom_title": "Mount Semura",
+        "source_fandom": "lovecraft.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "thule",
+      "name": "Thule",
+      "type": "place",
+      "description": "Thule is a legendary land described in Classical Greek literature as being to the far north of Europe. The name was applied to ancient lands in the fiction of Lovecraft Circle writers Robert E. Howard and Clark Ashton Smith, and its role in the Cthulhu Mythos was systematised in the tales of Lin Carter.\n\nThule was first mentioned by Pytheas, the first documented representative of the Mediterranean world to visit the British Isles. Pytheas' writings do not survive, but he is cited by Strabo as describing Thoulē as an island six days' sail from Britain, near the frozen sea.\n\nThe Roman poet Virgil refers in his Georgics to Ultima Thule--\"farthest Thule\"--which became an expression for any place beyond the known world.\n\nIn Smith's \"The Double Shadow,\" a short story published in 1933 and set in the Atlantean remnant of Poseidonis, the narrator Pharpetron wishes that his master, the sorceror Avyctes, \"had contented himself with the lore preserved from Atlantis and Thule, or brought over from Mu and Mayapan.\" He notes that \"this should have been enough: for in the ivory-sheeted books of Thule there were blood-writ runes that would call the demons of the fifth and seventh planets, if spoken aloud at the hour of their ascent.\"",
+      "short_description": "Thule is a legendary land described in Classical Greek literature as being to the far north of Europe. The name was applied to ancient lands in the fiction of Lovecraft Circle writers Robert E. Howard and Clark Ashton…",
+      "evidence": "fiction",
+      "parentSlug": "call-of-cthulhu",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lovecraft/images/1/11/UltimaThule%26MhuThulan.jpg/revision/latest/scale-to-width-down/360?cb=20230617134726",
+      "image_source": "https://lovecraft.fandom.com/wiki/Thule",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Mythos / franchise art © Chaosium / respective Lovecraft estate rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Thule",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://lovecraft.fandom.com/wiki/Thule",
+        "fandom_title": "Thule",
+        "source_fandom": "lovecraft.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aldebaran",
+      "name": "Aldebaran",
+      "type": "place",
+      "description": "Aldebaran is one of the brightest objects in the night sky, a giant red star about 65 light-years away from our Solar System. Seen from Earth, it appears to be part of the Hyades, although it is in fact much closer. It was used by Robert W. Chambers in his work The King in Yellow.\n\nAugust Derleth identifies it as the \"place where the dark stars hang\", the abode of Hastur (: \"The Return of Hastur\").\n\nAldebaran appears in the short story \"Polaris\" by H. P. Lovecraft. The unnamed narrator observed Aldebaran from the city of Olathoë in the Arctic region of Lomar in the Dreamlands. The red star never set but crawled low around the horizon during the extended polar night.\n\nAldebaran is visible in the sky above Kingsport during the events of \"The Festival\" by H. P. Lovecraft, making the narrator shiver as the star seems to balance itself on the spire of the church. The Byakhee, which debuted in that story, are revealed to be servants of Hastur in Derleth's The Trail of Cthulhu.",
+      "short_description": "Aldebaran is one of the brightest objects in the night sky, a giant red star about 65 light-years away from our Solar System. Seen from Earth, it appears to be part of the Hyades, although it is in fact much closer. It…",
+      "evidence": "fiction",
+      "parentSlug": "call-of-cthulhu",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lovecraft/images/0/0a/Aldeberan_image.png/revision/latest?cb=20170327223213",
+      "image_source": "https://lovecraft.fandom.com/wiki/Aldebaran",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Mythos / franchise art © Chaosium / respective Lovecraft estate rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Aldebaran",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://lovecraft.fandom.com/wiki/Aldebaran",
+        "fandom_title": "Aldebaran",
+        "source_fandom": "lovecraft.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -20217,6 +20378,46 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "atlantis",
+      "call-of-cthulhu",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "irem",
+      "call-of-cthulhu",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mount-semura",
+      "call-of-cthulhu",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "thule",
+      "call-of-cthulhu",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "aldebaran",
+      "call-of-cthulhu",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -20225,18 +20426,18 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (lovecraft.fandom.com) for identification and commentary only. Mythos / franchise art © Chaosium / respective Lovecraft estate rights holders (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T17:19:13.106Z",
+  "generated_at": "2026-09-13T04:22:44.004Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://lovecraft.fandom.com/wiki/",
     "host": "lovecraft.fandom.com"
   },
   "stats": {
-    "fandom_titles": 45,
-    "fandom_enriched_core": 2,
-    "fandom_created": 41,
-    "fandom_images": 45,
-    "fandom_intros": 45,
+    "fandom_titles": 1,
+    "fandom_enriched_core": 1,
+    "fandom_created": 0,
+    "fandom_images": 1,
+    "fandom_intros": 1,
     "description_ensure_at": "2026-09-12T09:13:20.140Z",
     "description_ensure_count": 1
   }

@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into World Baseball Classic.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify World Baseball Classic."
+    },
+    {
+        "slug": "world-baseball-classic-geography",
+        "name": "World Baseball Classic geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for World Baseball Classic.",
+        "description": "Regions, routes, and spatial systems that situate World Baseball Classic beyond single named places."
+    },
+    {
+        "slug": "world-baseball-classic-legacy",
+        "name": "World Baseball Classic legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of World Baseball Classic.",
+        "description": "How World Baseball Classic continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "world-baseball-classic-practices",
+        "name": "World Baseball Classic practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in World Baseball Classic.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in World Baseball Classic."
+    },
+    {
+        "slug": "world-baseball-classic-entry-1",
+        "name": "World Baseball Classic entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-baseball-classic-entry-2",
+        "name": "World Baseball Classic entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-baseball-classic-entry-3",
+        "name": "World Baseball Classic entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-baseball-classic-entry-4",
+        "name": "World Baseball Classic entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-baseball-classic-entry-5",
+        "name": "World Baseball Classic entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-baseball-classic-entry-6",
+        "name": "World Baseball Classic entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-baseball-classic-entry-7",
+        "name": "World Baseball Classic entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-baseball-classic-entry-8",
+        "name": "World Baseball Classic entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-baseball-classic-entry-9",
+        "name": "World Baseball Classic entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-baseball-classic-entry-10",
+        "name": "World Baseball Classic entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-baseball-classic-entry-11",
+        "name": "World Baseball Classic entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-baseball-classic-entry-12",
+        "name": "World Baseball Classic entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-baseball-classic-entry-13",
+        "name": "World Baseball Classic entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-baseball-classic-entry-14",
+        "name": "World Baseball Classic entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-baseball-classic-entry-15",
+        "name": "World Baseball Classic entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-baseball-classic-entry-16",
+        "name": "World Baseball Classic entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-baseball-classic-entry-17",
+        "name": "World Baseball Classic entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-baseball-classic-entry-18",
+        "name": "World Baseball Classic entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-baseball-classic-entry-19",
+        "name": "World Baseball Classic entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-baseball-classic-entry-20",
+        "name": "World Baseball Classic entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-baseball-classic-entry-21",
+        "name": "World Baseball Classic entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "world-baseball-classic-entry-22",
+        "name": "World Baseball Classic entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside World Baseball Classic.",
+        "description": "A supporting encyclopedia entry in the World Baseball Classic subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "World Baseball Classic sources is a primary trailhead under World Baseball Classic.",
         0.88,
         0.82
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-geography",
+        "contains",
+        "World Baseball Classic geography is a primary trailhead under World Baseball Classic.",
+        0.88,
+        0.82
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-legacy",
+        "contains",
+        "World Baseball Classic legacy is a primary trailhead under World Baseball Classic.",
+        0.88,
+        0.82
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-practices",
+        "contains",
+        "World Baseball Classic practices is a primary trailhead under World Baseball Classic.",
+        0.88,
+        0.82
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-1",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-2",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-3",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-4",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-5",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-6",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-7",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-8",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-9",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-10",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-11",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-12",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-13",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-14",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-15",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-16",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-17",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-18",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-19",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-20",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-21",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
+    ],
+    [
+        "world-baseball-classic",
+        "world-baseball-classic-entry-22",
+        "contains",
+        "Supporting entry under World Baseball Classic.",
+        0.75,
+        0.7
     ]
 ];
 

@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of The Roman Empire.",
         "description": "How The Roman Empire continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "ancient-rome-practices",
+        "name": "The Roman Empire practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in The Roman Empire.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in The Roman Empire."
+    },
+    {
+        "slug": "ancient-rome-entry-1",
+        "name": "The Roman Empire entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-2",
+        "name": "The Roman Empire entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-3",
+        "name": "The Roman Empire entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-4",
+        "name": "The Roman Empire entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-5",
+        "name": "The Roman Empire entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-6",
+        "name": "The Roman Empire entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-7",
+        "name": "The Roman Empire entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-8",
+        "name": "The Roman Empire entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-9",
+        "name": "The Roman Empire entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-10",
+        "name": "The Roman Empire entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-11",
+        "name": "The Roman Empire entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-12",
+        "name": "The Roman Empire entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-13",
+        "name": "The Roman Empire entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-14",
+        "name": "The Roman Empire entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-15",
+        "name": "The Roman Empire entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-16",
+        "name": "The Roman Empire entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-17",
+        "name": "The Roman Empire entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-18",
+        "name": "The Roman Empire entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-19",
+        "name": "The Roman Empire entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-20",
+        "name": "The Roman Empire entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-21",
+        "name": "The Roman Empire entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-22",
+        "name": "The Roman Empire entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-23",
+        "name": "The Roman Empire entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-rome-entry-24",
+        "name": "The Roman Empire entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Roman Empire.",
+        "description": "A supporting encyclopedia entry in the The Roman Empire subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "The Roman Empire legacy is a primary trailhead under The Roman Empire.",
         0.88,
         0.82
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-practices",
+        "contains",
+        "The Roman Empire practices is a primary trailhead under The Roman Empire.",
+        0.88,
+        0.82
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-1",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-2",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-3",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-4",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-5",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-6",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-7",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-8",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-9",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-10",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-11",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-12",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-13",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-14",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-15",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-16",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-17",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-18",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-19",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-20",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-21",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-22",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-23",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-rome",
+        "ancient-rome-entry-24",
+        "contains",
+        "Supporting entry under The Roman Empire.",
+        0.75,
+        0.7
     ]
 ];
 

@@ -6519,18 +6519,18 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (tekken.fandom.com) for identification and commentary only. Tekken art © Bandai Namco (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T17:25:26.143Z",
+  "generated_at": "2026-09-13T03:08:24.518Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://tekken.fandom.com/wiki/",
     "host": "tekken.fandom.com"
   },
   "stats": {
-    "fandom_titles": 11,
+    "fandom_titles": 0,
     "fandom_enriched_core": 0,
     "fandom_created": 0,
-    "fandom_images": 10,
-    "fandom_intros": 11,
+    "fandom_images": 0,
+    "fandom_intros": 0,
     "description_ensure_at": "2026-09-12T06:47:02.288Z",
     "description_ensure_count": 1
   }

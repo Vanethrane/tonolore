@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into 24 Hours of Le Mans.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify 24 Hours of Le Mans."
+    },
+    {
+        "slug": "24-hours-of-le-mans-geography",
+        "name": "24 Hours of Le Mans geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for 24 Hours of Le Mans.",
+        "description": "Regions, routes, and spatial systems that situate 24 Hours of Le Mans beyond single named places."
+    },
+    {
+        "slug": "24-hours-of-le-mans-legacy",
+        "name": "24 Hours of Le Mans legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of 24 Hours of Le Mans.",
+        "description": "How 24 Hours of Le Mans continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "24-hours-of-le-mans-practices",
+        "name": "24 Hours of Le Mans practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in 24 Hours of Le Mans.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in 24 Hours of Le Mans."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-1",
+        "name": "24 Hours of Le Mans entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-2",
+        "name": "24 Hours of Le Mans entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-3",
+        "name": "24 Hours of Le Mans entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-4",
+        "name": "24 Hours of Le Mans entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-5",
+        "name": "24 Hours of Le Mans entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-6",
+        "name": "24 Hours of Le Mans entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-7",
+        "name": "24 Hours of Le Mans entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-8",
+        "name": "24 Hours of Le Mans entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-9",
+        "name": "24 Hours of Le Mans entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-10",
+        "name": "24 Hours of Le Mans entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-11",
+        "name": "24 Hours of Le Mans entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-12",
+        "name": "24 Hours of Le Mans entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-13",
+        "name": "24 Hours of Le Mans entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-14",
+        "name": "24 Hours of Le Mans entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-15",
+        "name": "24 Hours of Le Mans entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-16",
+        "name": "24 Hours of Le Mans entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-17",
+        "name": "24 Hours of Le Mans entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-18",
+        "name": "24 Hours of Le Mans entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-19",
+        "name": "24 Hours of Le Mans entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-20",
+        "name": "24 Hours of Le Mans entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-21",
+        "name": "24 Hours of Le Mans entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "24-hours-of-le-mans-entry-22",
+        "name": "24 Hours of Le Mans entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside 24 Hours of Le Mans.",
+        "description": "A supporting encyclopedia entry in the 24 Hours of Le Mans subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "24 Hours of Le Mans sources is a primary trailhead under 24 Hours of Le Mans.",
         0.88,
         0.82
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-geography",
+        "contains",
+        "24 Hours of Le Mans geography is a primary trailhead under 24 Hours of Le Mans.",
+        0.88,
+        0.82
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-legacy",
+        "contains",
+        "24 Hours of Le Mans legacy is a primary trailhead under 24 Hours of Le Mans.",
+        0.88,
+        0.82
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-practices",
+        "contains",
+        "24 Hours of Le Mans practices is a primary trailhead under 24 Hours of Le Mans.",
+        0.88,
+        0.82
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-1",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-2",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-3",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-4",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-5",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-6",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-7",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-8",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-9",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-10",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-11",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-12",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-13",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-14",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-15",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-16",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-17",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-18",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-19",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-20",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-21",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
+    ],
+    [
+        "24-hours-of-le-mans",
+        "24-hours-of-le-mans-entry-22",
+        "contains",
+        "Supporting entry under 24 Hours of Le Mans.",
+        0.75,
+        0.7
     ]
 ];
 

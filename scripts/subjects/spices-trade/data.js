@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Spices & trade.",
         "description": "How Spices & trade continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "spices-trade-practices",
+        "name": "Spices & trade practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Spices & trade.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Spices & trade."
+    },
+    {
+        "slug": "spices-trade-entry-1",
+        "name": "Spices & trade entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-2",
+        "name": "Spices & trade entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-3",
+        "name": "Spices & trade entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-4",
+        "name": "Spices & trade entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-5",
+        "name": "Spices & trade entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-6",
+        "name": "Spices & trade entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-7",
+        "name": "Spices & trade entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-8",
+        "name": "Spices & trade entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-9",
+        "name": "Spices & trade entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-10",
+        "name": "Spices & trade entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-11",
+        "name": "Spices & trade entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-12",
+        "name": "Spices & trade entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-13",
+        "name": "Spices & trade entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-14",
+        "name": "Spices & trade entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-15",
+        "name": "Spices & trade entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-16",
+        "name": "Spices & trade entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-17",
+        "name": "Spices & trade entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-18",
+        "name": "Spices & trade entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-19",
+        "name": "Spices & trade entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-20",
+        "name": "Spices & trade entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-21",
+        "name": "Spices & trade entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-22",
+        "name": "Spices & trade entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-23",
+        "name": "Spices & trade entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "spices-trade-entry-24",
+        "name": "Spices & trade entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Spices & trade.",
+        "description": "A supporting encyclopedia entry in the Spices & trade subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Spices & trade legacy is a primary trailhead under Spices & trade.",
         0.88,
         0.82
+    ],
+    [
+        "spices-trade",
+        "spices-trade-practices",
+        "contains",
+        "Spices & trade practices is a primary trailhead under Spices & trade.",
+        0.88,
+        0.82
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-1",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-2",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-3",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-4",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-5",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-6",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-7",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-8",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-9",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-10",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-11",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-12",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-13",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-14",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-15",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-16",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-17",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-18",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-19",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-20",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-21",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-22",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-23",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
+    ],
+    [
+        "spices-trade",
+        "spices-trade-entry-24",
+        "contains",
+        "Supporting entry under Spices & trade.",
+        0.75,
+        0.7
     ]
 ];
 

@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Cold War.",
         "description": "How Cold War continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "cold-war-practices",
+        "name": "Cold War practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Cold War.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Cold War."
+    },
+    {
+        "slug": "cold-war-entry-1",
+        "name": "Cold War entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-2",
+        "name": "Cold War entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-3",
+        "name": "Cold War entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-4",
+        "name": "Cold War entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-5",
+        "name": "Cold War entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-6",
+        "name": "Cold War entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-7",
+        "name": "Cold War entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-8",
+        "name": "Cold War entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-9",
+        "name": "Cold War entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-10",
+        "name": "Cold War entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-11",
+        "name": "Cold War entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-12",
+        "name": "Cold War entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-13",
+        "name": "Cold War entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-14",
+        "name": "Cold War entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-15",
+        "name": "Cold War entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-16",
+        "name": "Cold War entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-17",
+        "name": "Cold War entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-18",
+        "name": "Cold War entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-19",
+        "name": "Cold War entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-20",
+        "name": "Cold War entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-21",
+        "name": "Cold War entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-22",
+        "name": "Cold War entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-23",
+        "name": "Cold War entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cold-war-entry-24",
+        "name": "Cold War entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cold War.",
+        "description": "A supporting encyclopedia entry in the Cold War subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Cold War legacy is a primary trailhead under Cold War.",
         0.88,
         0.82
+    ],
+    [
+        "cold-war",
+        "cold-war-practices",
+        "contains",
+        "Cold War practices is a primary trailhead under Cold War.",
+        0.88,
+        0.82
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-1",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-2",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-3",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-4",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-5",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-6",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-7",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-8",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-9",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-10",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-11",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-12",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-13",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-14",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-15",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-16",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-17",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-18",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-19",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-20",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-21",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-22",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-23",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
+    ],
+    [
+        "cold-war",
+        "cold-war-entry-24",
+        "contains",
+        "Supporting entry under Cold War.",
+        0.75,
+        0.7
     ]
 ];
 

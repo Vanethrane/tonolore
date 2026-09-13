@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into NBA.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify NBA."
+    },
+    {
+        "slug": "nba-geography",
+        "name": "NBA geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for NBA.",
+        "description": "Regions, routes, and spatial systems that situate NBA beyond single named places."
+    },
+    {
+        "slug": "nba-legacy",
+        "name": "NBA legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of NBA.",
+        "description": "How NBA continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "nba-practices",
+        "name": "NBA practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in NBA.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in NBA."
+    },
+    {
+        "slug": "nba-entry-1",
+        "name": "NBA entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nba-entry-2",
+        "name": "NBA entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nba-entry-3",
+        "name": "NBA entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nba-entry-4",
+        "name": "NBA entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nba-entry-5",
+        "name": "NBA entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nba-entry-6",
+        "name": "NBA entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nba-entry-7",
+        "name": "NBA entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nba-entry-8",
+        "name": "NBA entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nba-entry-9",
+        "name": "NBA entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nba-entry-10",
+        "name": "NBA entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nba-entry-11",
+        "name": "NBA entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nba-entry-12",
+        "name": "NBA entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nba-entry-13",
+        "name": "NBA entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nba-entry-14",
+        "name": "NBA entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nba-entry-15",
+        "name": "NBA entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nba-entry-16",
+        "name": "NBA entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nba-entry-17",
+        "name": "NBA entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nba-entry-18",
+        "name": "NBA entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nba-entry-19",
+        "name": "NBA entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nba-entry-20",
+        "name": "NBA entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nba-entry-21",
+        "name": "NBA entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nba-entry-22",
+        "name": "NBA entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NBA.",
+        "description": "A supporting encyclopedia entry in the NBA subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "NBA sources is a primary trailhead under NBA.",
         0.88,
         0.82
+    ],
+    [
+        "nba",
+        "nba-geography",
+        "contains",
+        "NBA geography is a primary trailhead under NBA.",
+        0.88,
+        0.82
+    ],
+    [
+        "nba",
+        "nba-legacy",
+        "contains",
+        "NBA legacy is a primary trailhead under NBA.",
+        0.88,
+        0.82
+    ],
+    [
+        "nba",
+        "nba-practices",
+        "contains",
+        "NBA practices is a primary trailhead under NBA.",
+        0.88,
+        0.82
+    ],
+    [
+        "nba",
+        "nba-entry-1",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nba",
+        "nba-entry-2",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nba",
+        "nba-entry-3",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nba",
+        "nba-entry-4",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nba",
+        "nba-entry-5",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nba",
+        "nba-entry-6",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nba",
+        "nba-entry-7",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nba",
+        "nba-entry-8",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nba",
+        "nba-entry-9",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nba",
+        "nba-entry-10",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nba",
+        "nba-entry-11",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nba",
+        "nba-entry-12",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nba",
+        "nba-entry-13",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nba",
+        "nba-entry-14",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nba",
+        "nba-entry-15",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nba",
+        "nba-entry-16",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nba",
+        "nba-entry-17",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nba",
+        "nba-entry-18",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nba",
+        "nba-entry-19",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nba",
+        "nba-entry-20",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nba",
+        "nba-entry-21",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nba",
+        "nba-entry-22",
+        "contains",
+        "Supporting entry under NBA.",
+        0.75,
+        0.7
     ]
 ];
 

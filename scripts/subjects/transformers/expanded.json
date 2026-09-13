@@ -255,6 +255,11 @@
       "slug": "dust-up",
       "description": "Dust Up was a Canadian reality television series produced by Paperny Entertainment and Prairie Threat Entertainment that aired in 2011 on History Television. The series follows three crop dusters in Nipawin, Saskatchewan (73-year-old Bud Jardine, his son Brennan Jardine, and rookie pilot Travis Karle) as they compete for work and mount sometimes-perilous crop dusting expeditions. Each plane is outfitted with four cameras to capture the action.",
       "short_description": "Dust Up was a Canadian reality television series produced by Paperny Entertainment and Prairie Threat Entertainment that aired in 2011 on History Television. The series follows three crop dusters in Nipawin,…"
+    },
+    {
+      "slug": "alpha-centauri",
+      "description": "Alpha Centauri (α Centauri, α Cen, or Alpha Cen) is a star system in the southern constellation of Centaurus. It consists of three stars: Rigil Kentaurus (α Centauri A), Toliman (α Centauri B), and Proxima Centauri (α Centauri C). Proxima Centauri is the closest star to the Sun at 4.2465 light-years (ly), which is 1.3020 parsecs (pc), while Alpha Centauri A and B are the nearest stars visible to the naked eye.\n\nRigil Kentaurus and Toliman are Sun-like stars (class G and K, respectively) that together form the binary star system α Centauri AB. To the naked eye, these two main components appear to be a single star with an apparent magnitude of −0.27. It is the brightest star in the constellation and the third-brightest in the night sky, outshone by only Sirius and Canopus. α Centauri AB are the nearest binary stars to the Sun at a distance of 4.344 ly (1.33 pc).\n\nRigil Kentaurus has 1.1 times the mass (M☉) and 1.5 times the luminosity of the Sun (L☉), while Toliman is smaller and cooler, at 0.9 M☉ and less than 0.5 L☉. The pair orbit around a common centre with an orbital period of 79 years. Their elliptical orbit is eccentric, so that the distance between A and B varies from 35.6 astronomical units (AU), or about the distance between Pluto and the Sun, to 11.2 AU, or about the distance between Saturn and the Sun.\n\nProxima Centauri is a small faint red dwarf (class M). Though not visible to the naked eye, Proxima Centauri is the closest star to the Sun at a distance of 4.24 ly (1.30 pc), slightly closer than α Centauri AB. The distance between Proxima Centauri and α Centauri AB is about 13,000 AU (0.21 ly), equivalent to about 430 times the radius of Neptune's orbit.\n\nProxima Centauri has two confirmed planets—Proxima b and Proxima d. The former is an Earth-sized planet in the habitable zone (though it is unlikely to be habitable) while the latter is a sub-Earth which orbits very closely to the star. A possible but disputed third planet, Proxima c, is a mini-Neptune 1.5 astronomical units away. Rigil Kentaurus may have a Saturn-mass planet (Alpha Centauri Ab) in the habitable zone, though it is not yet known with certainty to be planetary in nature. Toliman has no known planets; the only candidate planet, Alpha Centauri Bb, was disproven in 2015.",
+      "short_description": "Alpha Centauri (α Centauri, α Cen, or Alpha Cen) is a star system in the southern constellation of Centaurus. It consists of three stars: Rigil Kentaurus (α Centauri A), Toliman (α Centauri B), and Proxima Centauri (α…"
     }
   ],
   "entities": [
@@ -262,7 +267,7 @@
       "slug": "autobot",
       "name": "Autobot",
       "type": "person",
-      "description": "Autobot (Tyran)/707.04 Delta|707.04 Delta Category:Tyran Factions Category:Movie Autobots Category:Movie Decepticons Category:Rise Of The Beasts Category:Dark of the Moon Category:Revenge of the Fallen Category:Age of Extinction Category:The Last Knight Category:Autobots",
+      "description": "The Autobots are one of the primary Transformers led by their Autobot leader, Optimus Prime. They usually find themselves upholding justice and freedom throughout the galaxy, and defending both their own race and other species against the Decepticons, led by their Decepticon leader and Optimus' nemesis and brother, Megatron.\n\nThey are considered \"the good guys\" in most, but not all Transformers stories.\n\nA generally heroic and honorable group, they tended to be dedicated, make peace and feel as need to protect other races from the Decepticons. As a result, they are usually Transformers who change into non-combat oriented alternate modes such as domestic vehicles, cars, trucks or rescue vehicles. This is not always the case, however, as their ranks certainly contain ne'er-do-wells, malcontents, and unsavory types, and the necessities of war have led many to adopt more combat-oriented alternate forms. While the Autobots have usually found themselves outnumbered by the Decepticons, the Autobots have always had home-field advantage, having not only the humans' military support, but also having more places on Earth to fall back on, while the Decepticons are entirely unwelcome on Earth.\n\nKey concepts that repeat throughout most continuities are the use of the name \"Prime\" (or a variation thereof) to denote Autobot leadership and the existence of an artifact of great life-giving power usually referred to as a Matrix of Leadership traditionally held by their leader.",
       "short_description": "The Autobots are one of the primary Transformers led by their Autobot leader, Optimus Prime. They usually find themselves upholding justice and freedom throughout the galaxy, and defending both their own race and other…",
       "evidence": "fiction",
       "parentSlug": "autobots",
@@ -279,8 +284,8 @@
         "discovered": true,
         "source": "fandom",
         "kind": "character",
-        "fandom_url": "https://transformers.fandom.com/wiki/Autobot_(Tyran)",
-        "fandom_title": "Autobot (Tyran)",
+        "fandom_url": "https://transformers.fandom.com/wiki/Autobot",
+        "fandom_title": "Autobot",
         "source_fandom": "transformers.fandom.com",
         "sources": [
           "fandom"
@@ -1471,25 +1476,25 @@
       "slug": "ark-crew",
       "name": "Ark Crew",
       "type": "person",
-      "description": "The Ark Crew is a group of Autobots led by Optimus Prime to evacuate from the dying Cybertron.\n\nCategory:Factions Category:Autobots Category:Cybertronian Category:Ships",
+      "description": "The Ark Crew is a group of Autobots who manned the Ark led by none other than the Autobot leader, Optimus Prime.\n\nDuring the Great Exodus, Optimus Prime have rallied all remaining pockets of Autobots left on Cybertron and ordered them to build the Ark which will allow them to leave their dying world and search for a new home to live.\n\nAfter departing Cybertron, the Ark was under attack by The Nemesis which broke out into a space naval battle. Many crew members of the Ark were killed, wounded or went overboard in the intense fight.\n\nWhen the black hole sucked the Ark and the Nemesis in, the two ships were sent to different locations and started searching for the Allspark. Some time later, a small group from the crew managed to make their way to Earth . The fate of the rest of the crew is unknown so far.",
       "short_description": "The Ark Crew is a group of Autobots who manned the Ark led by none other than the Autobot leader, Optimus Prime.",
       "evidence": "fiction",
       "parentSlug": "autobots",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/transformers/images/6/6d/Ark_Blueprints.jpg/revision/latest?cb=20240210113600",
-      "image_source": "https://transformers.fandom.com/wiki/Ark_Crew_(WFC_Trilogy)",
+      "image_url": "https://static.wikia.nocookie.net/transformers/images/3/39/Ark-FoC.png/revision/latest/scale-to-width-down/360?cb=20190726171936",
+      "image_source": "https://transformers.fandom.com/wiki/Ark_Crew",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hasbro / Takara Tomy (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Ark Crew (WFC Trilogy)",
+      "image_alt": "Identification thumbnail for Ark Crew",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
         "kind": "character",
-        "fandom_url": "https://transformers.fandom.com/wiki/Ark_Crew_(WFC_Trilogy)",
-        "fandom_title": "Ark Crew (WFC Trilogy)",
+        "fandom_url": "https://transformers.fandom.com/wiki/Ark_Crew",
+        "fandom_title": "Ark Crew",
         "source_fandom": "transformers.fandom.com",
         "sources": [
           "fandom"
@@ -9129,6 +9134,336 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "abomenaticus",
+      "name": "Abomenaticus",
+      "type": "person",
+      "description": "Abomenaticus is a Decepticon Scramble City-type combiner composed by Transformers from various subgroups.\n\nThere isn't any official release of Abomenaticus, but it can be created from the toys of Terrorcons, Stunticons, and Combaticons.\n\nCategory:Combined forms Category:Decepticons Category:Japanese-original characters",
+      "short_description": "Abomenaticus is a Decepticon Scramble City-type combiner composed by Transformers from various subgroups.",
+      "evidence": "fiction",
+      "parentSlug": "decepticons",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/transformers/images/f/fa/Abomenaticus_toy.jpg/revision/latest?cb=20071206044332",
+      "image_source": "https://transformers.fandom.com/wiki/Abomenaticus",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hasbro / Takara Tomy (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Abomenaticus",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://transformers.fandom.com/wiki/Abomenaticus",
+        "fandom_title": "Abomenaticus",
+        "source_fandom": "transformers.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "abandoned-steel-mill",
+      "name": "Abandoned Steel Mill",
+      "type": "place",
+      "description": "The Abandoned Steel Mill is a location that Steeljaw's Pack took as a base after briefly residing in the Crown River Dam. It is located in the vicinity of Crown City.\n\nIn True Colors, Thunderhoof was mentioned by Steeljaw as being in search of a more suitable base than the dam. The pair were revealed to have taken possession of the steel mill in Sideways along with their comrades Underbite, Fracture, Divebomb, and Airazor. Clampdown was brought there with the intention of being added to Steeljaw's pack, but later fled due to Thunderhoof pursuing a vendetta against him. After a battle with Team Bumblebee, the Pack escaped the Autobots and returned to the steel mill with Clampdown as a new member. After their failed attempt in taking over Denny Clay's Scrapyard, they were chased away by the Autobots and were forced back to hide. Steeljaw angrily forced his gang to leave him alone and he soon gets contacted by Megatronus who convinces Steeljaw into helping him in exchange for Earth.\n\nIn Battlegrounds, Part 1, Steeljaw was planning on assembling Megatronus' Space Bridge here, but was then informed by the him that a much greater metallic mass was required to dissipate the energies in order for his arrival on Earth to be successful. Fracture and his Mini-Cons were dispatched from the steel mill to capture Fixit at the scrapyard, while the rest of the pack left to go to the Crown City Colossus after capturing Windblade. As of the conclusion of Battlegrounds, Part 2 the facility presumably no longer serves as a Decepticon base, given that most of the pack was captured by the Autobots and it's location was also known to Bumblebee and his team. Category:Locations Category:Earth locations Category:Crown City area Category:Transformers Robots in Disguise 2015 Category:Robots in Disguise locations",
+      "short_description": "The Abandoned Steel Mill is a location that Steeljaw's Pack took as a base after briefly residing in the Crown River Dam. It is located in the vicinity of Crown City.",
+      "evidence": "fiction",
+      "parentSlug": "transformers",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/transformers/images/c/cc/Steeljaw%27s_Crew.jpg/revision/latest/scale-to-width-down/360?cb=20190726232057",
+      "image_source": "https://transformers.fandom.com/wiki/Abandoned_Steel_Mill",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hasbro / Takara Tomy (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Abandoned Steel Mill",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://transformers.fandom.com/wiki/Abandoned_Steel_Mill",
+        "fandom_title": "Abandoned Steel Mill",
+        "source_fandom": "transformers.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "abominus-g1",
+      "name": "Abominus",
+      "type": "person",
+      "description": "Even more so than the other Decepticon combiners, Abominus is a being of mindless fury. He's not truly a warrior - he's an animal, the destructive rages of the Terrorcons that compose him personified. His commanders can't give him orders simplistic enough for him to understand, so they just point him in the direction of objects that need to be smashed, and turn him loose. The only thing that distinguishes him from a wild beast is the enjoyment he derives from his terrible rampages.\n\nAbominus is the combined form of all five Terrorcons:\n\nThe Terrorcons were part of Scorponok's crew on Cybertron, and when he led his troops to the world of Nebulos, they came along as well. The Terrorcons and Horrorcons were, naturally enough, terrorizing the resort city of Splendora, when they came under attack by Brainstorm, Hardhead, and the Technobots. The Terrorcons responded by merging into Abominus.\n\nRather than actually attacking his enemies, Abominus began brainlessly smashing his way through the city, till the Technobots combined into Computron and blasted him. Computron then bashed Abominus with a steel beam, hitting him so hard that he broke apart into the Terrorcons, who promptly retreated.",
+      "short_description": "Even more so than the other Decepticon combiners, Abominus is a being of mindless fury. He's not truly a warrior - he's an animal, the destructive rages of the Terrorcons that compose him personified. His commanders…",
+      "evidence": "fiction",
+      "parentSlug": "decepticons",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/transformers/images/1/1b/Transformers_G1_Abominus-0.png/revision/latest/scale-to-width-down/360?cb=20200930064119",
+      "image_source": "https://transformers.fandom.com/wiki/Abominus_(G1)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hasbro / Takara Tomy (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Abominus (G1)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://transformers.fandom.com/wiki/Abominus_(G1)",
+        "fandom_title": "Abominus (G1)",
+        "source_fandom": "transformers.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "akota-reservoir",
+      "name": "Akota Reservoir",
+      "type": "place",
+      "description": "Located in the Rocky Mountains, Akota Reservoir is the site of a long abandoned radar station and, as the name suggests, a dam. It would be a perfect place for the Autobots or Decepticons to set up a base, were it not for the fact that the vast underground energon deposits have resulted in the area being overrun by Terrorcons.\n\nAkota Reservoir was the site of many an Autobot and Decepticon foray into trying to wipe out the Terrorcons and secure the area.\n\nCategory:Transformers Universe Category:Video Games Category:Locations Category:Earth locations Category:Games only Category:Prime locations",
+      "short_description": "Located in the Rocky Mountains, Akota Reservoir is the site of a long abandoned radar station and, as the name suggests, a dam. It would be a perfect place for the Autobots or Decepticons to set up a base, were it not…",
+      "evidence": "fiction",
+      "parentSlug": "transformers",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://transformers.fandom.com/wiki/Akota_Reservoir",
+        "fandom_title": "Akota Reservoir",
+        "source_fandom": "transformers.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "abominus-rid",
+      "name": "Abominus",
+      "type": "person",
+      "description": "Tall and lanky with a blinding white paint job, the ape-like Abominus is a survivalist. He specializes in traps—the more the better, because he prefers a solitary existence far from anyone else, and will go to extreme lengths to maintain his peace and quiet. Needless to say, he doesn't get on well with authority.\n\nEons in the past, Windblade helped arrest Abominus. He was later imprisoned aboard the Alchemor. When the ship crashed on Earth, Abominus ended up on Mount Everest. He set about ensuring his solitude by setting traps around the mountainside, but was spotted by monster hunter Loren Fortean who mistook him for a Yeti and intended to feature him on his TV show. Fortean's broadcast was spotted by Bumblebee's band of Autobots, and the away team was dispatched to the mountain to find Abominus.\n\nThe team managed to find Abominus's cave before falling prey to one of his traps and landing up in a cage in the middle of his lair. He informed them that in order to secure his solitude, he'd planted explosives around the mountain to create a massive avalanche that would keep everyone away. While he was away setting more explosives, Slipstream freed the rest of the team, who reprogrammed Abominus's traps to target him instead of everyone else. As a result, Abominus ended up in his own cage and they were able to put him on ice.\n\nCategory:Characters Category:Decepticons",
+      "short_description": "Tall and lanky with a blinding white paint job, the ape-like Abominus is a survivalist. He specializes in traps—the more the better, because he prefers a solitary existence far from anyone else, and will go to extreme…",
+      "evidence": "fiction",
+      "parentSlug": "decepticons",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://transformers.fandom.com/wiki/Abominus_(RID)",
+        "fandom_title": "Abominus (RID)",
+        "source_fandom": "transformers.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alchemor-rid",
+      "name": "Alchemor",
+      "type": "place",
+      "description": "The Alchemor, also known as Decepticon Island, was an Autobot prison ship carrying some two hundred Decepticon prisoners under the custodianship of the Caretaker Mini-Cons Fixit, Toolbox and Cinch, along with many others. It crash-landed on Earth years after the defeat of Unicron and restoration of Cybertron, allowing many of its prisoners to escape confinement. This prompted Optimus Prime to contact Bumblebee on Cybertron and direct him to travel to Earth, where he formed a new team of Autobots to recapture the escapees.\n\nAs the Alchemor passed by Earth, Megatronus — manipulating things from an alternate dimension — damaged the Alchemor, causing the Alchemor to crash on Earth in Pilot Part 1. Fixit survived the crash, albeit with some damage, but most of the ship did not. As a result, the stasis pods that were holding the ship's Decepticon criminals were scattered around Earth. Fixit was able to repair some of the damage to the ship's systems and tried to mayday Cybertron Control for assistance, to no avail. Bumblebee, who was led to Earth by visions of Optimus Prime, unwittingly took his new team to Earth where they caught up with Fixit and fought Underbite.\n\nIn Pilot Part 2, Bumblebee and his team, comprised of Strongarm, Sideswipe, Fixit and Grimlock, helped Fixit move parts of the ship into Denny Clay's scrapyard.\n\nIn As the Kospego Commands!, Strongarm managed to recover a Decepticon Hunter after she searched the area she salvaged it from.",
+      "short_description": "The Alchemor, also known as Decepticon Island, was an Autobot prison ship carrying some two hundred Decepticon prisoners under the custodianship of the Caretaker Mini-Cons Fixit, Toolbox and Cinch, along with many…",
+      "evidence": "fiction",
+      "parentSlug": "transformers",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/transformers/images/9/9a/RIDtitles_Alchemor.jpg/revision/latest/scale-to-width-down/360?cb=20190726224718",
+      "image_source": "https://transformers.fandom.com/wiki/Alchemor_(RID)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hasbro / Takara Tomy (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Alchemor (RID)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://transformers.fandom.com/wiki/Alchemor_(RID)",
+        "fandom_title": "Alchemor (RID)",
+        "source_fandom": "transformers.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "acid-storm-cyberverse",
+      "name": "Acid Storm",
+      "type": "person",
+      "description": "Acid Storm is a menacing Decepticon seeker under Starscream's command. They have the ability to manipulate the weather to create toxic rain and constantly chases Bumblebee and his friends around Earth. Bumblebee believes that Acid Storm needs a better way to spend their free time.\n\nIn-keeping with depictions of the character in other continuities, Hasbro has generally presented Acid Storm as male; the bio on Hasbro's U.S. website refers to the character with male pronouns, and the toy's package art (seen at right) uses a masculine-styled Seeker head. In the animated series, on the other hand, the character has a feminine voice is provided by actress Jaime Lamchick, indicating that they are intended to be female (with other Seeker characters Nova Storm and Skywarp being similarly gender-swapped). However, an apparent case of animation oversight resulted in Acid Storm constantly fluctuating between the show's two distinct \"male\" and \"female\" Seeker designs from episode to episode, and even scene to scene. When questioned about this, Cyberverse writer Mae Catt offered an in-universe explanation for the inconsistency, stating that their changing appearance was \"just something Acid Storm likes to do,\" implying the character is non-binary genderfluid. In response to further queries, Catt noted that \"pronouns are up to Acid Storm.\"\n\nhttps://twitter.com/MaeCatt/status/1076200426586877952\n\nhttps://twitter.com/MaeCatt/status/1076234242168770560Category:Decepticons Category:Seekers Category:Cyberverse Decepticons Category:Cyberverse Seekers Category:Stub",
+      "short_description": "Acid Storm is a menacing Decepticon seeker under Starscream's command. They have the ability to manipulate the weather to create toxic rain and constantly chases Bumblebee and his friends around Earth. Bumblebee…",
+      "evidence": "fiction",
+      "parentSlug": "decepticons",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/transformers/images/1/1a/Seeker_Acid_Storm.jpg/revision/latest/scale-to-width-down/360?cb=20201016131055",
+      "image_source": "https://transformers.fandom.com/wiki/Acid_Storm_(Cyberverse)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hasbro / Takara Tomy (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Acid Storm (Cyberverse)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://transformers.fandom.com/wiki/Acid_Storm_(Cyberverse)",
+        "fandom_title": "Acid Storm (Cyberverse)",
+        "source_fandom": "transformers.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alden-military-base",
+      "name": "Alden Military Base",
+      "type": "place",
+      "description": "The Alden Military Base is a base in the United States of America run by the U.S. military. It has a lot of jeeps and helicopters.\n\nIn an attempt to turn the US military against the Autobots, Silas used Nemesis Prime to attack Alden Military Base, smashing a number of the helicopters and shooting at the soldiers. News of the attack reached Agent Fowler, who was at the Autobot base at the time, and confirmed that the attacker was not the real Optimus Prime. Optimus duly led a team to the base, but when they arrived, Nemesis Prime sped off, and the soldiers' attention fell on the Autobots instead, forcing them to retreat. Fowler later unsuccessfully tried to convince General Bryce that the Autobots were not involved in the attack.Category:Locations Category:Bases Category:Transformers Prime Category:Earth locations Category:United States military Category:Prime locations",
+      "short_description": "The Alden Military Base is a base in the United States of America run by the U.S. military. It has a lot of jeeps and helicopters.",
+      "evidence": "fiction",
+      "parentSlug": "transformers",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/transformers/images/f/f4/300px-NemesisPrime_Alden_Military_Base.jpg/revision/latest?cb=20190726170442",
+      "image_source": "https://transformers.fandom.com/wiki/Alden_Military_Base",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hasbro / Takara Tomy (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Alden Military Base",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://transformers.fandom.com/wiki/Alden_Military_Base",
+        "fandom_title": "Alden Military Base",
+        "source_fandom": "transformers.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "acid-storm-g1",
+      "name": "Acid Storm",
+      "type": "person",
+      "description": "ite his intelligence, data gathering skills, and potential charisma, Acid Storm prefers to wallow in anonymity as just one of the Rainmakers, a cadre of specialized Seekers who have the capability to manipulate localized weather patterns to create acid rain. He is a part of Shockwave's forces on Cybertron.\n\nWhen a group of Autobots (and Chip Chase) journeyed to Cybertron to fetch a cosmotron for a wounded Optimus Prime, Megatron sent the Rainmaker trio, including Acid Storm, Ion Storm and Nova Storm to make things difficult for our heroes with some acid rain.\n\nBumblebee even calls him by name—and we thought he was just talking about the weather.\n\nCategory:Classics characters Category:Decepticons Category:Generation 1 characters Category:Seekers Category:Universe (2008)",
+      "short_description": "ite his intelligence, data gathering skills, and potential charisma, Acid Storm prefers to wallow in anonymity as just one of the Rainmakers, a cadre of specialized Seekers who have the capability to manipulate…",
+      "evidence": "fiction",
+      "parentSlug": "decepticons",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/transformers/images/3/3e/G1_Acid_Storm.png/revision/latest/scale-to-width-down/360?cb=20210207085115",
+      "image_source": "https://transformers.fandom.com/wiki/Acid_Storm_(G1)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hasbro / Takara Tomy (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Acid Storm (G1)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://transformers.fandom.com/wiki/Acid_Storm_(G1)",
+        "fandom_title": "Acid Storm (G1)",
+        "source_fandom": "transformers.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alpha-centauri",
+      "name": "Alpha Centauri",
+      "type": "place",
+      "description": "Alpha Centauri (α Centauri, α Cen, or Alpha Cen) is a star system in the southern constellation of Centaurus. It consists of three stars: Rigil Kentaurus (α Centauri A), Toliman (α Centauri B), and Proxima Centauri (α Centauri C). Proxima Centauri is the closest star to the Sun at 4.2465 light-years (ly), which is 1.3020 parsecs (pc), while Alpha Centauri A and B are the nearest stars visible to the naked eye.\n\nRigil Kentaurus and Toliman are Sun-like stars (class G and K, respectively) that together form the binary star system α Centauri AB. To the naked eye, these two main components appear to be a single star with an apparent magnitude of −0.27. It is the brightest star in the constellation and the third-brightest in the night sky, outshone by only Sirius and Canopus. α Centauri AB are the nearest binary stars to the Sun at a distance of 4.344 ly (1.33 pc).\n\nRigil Kentaurus has 1.1 times the mass (M☉) and 1.5 times the luminosity of the Sun (L☉), while Toliman is smaller and cooler, at 0.9 M☉ and less than 0.5 L☉. The pair orbit around a common centre with an orbital period of 79 years. Their elliptical orbit is eccentric, so that the distance between A and B varies from 35.6 astronomical units (AU), or about the distance between Pluto and the Sun, to 11.2 AU, or about the distance between Saturn and the Sun.\n\nProxima Centauri is a small faint red dwarf (class M). Though not visible to the naked eye, Proxima Centauri is the closest star to the Sun at a distance of 4.24 ly (1.30 pc), slightly closer than α Centauri AB. The distance between Proxima Centauri and α Centauri AB is about 13,000 AU (0.21 ly), equivalent to about 430 times the radius of Neptune's orbit.\n\nProxima Centauri has two confirmed planets—Proxima b and Proxima d. The former is an Earth-sized planet in the habitable zone (though it is unlikely to be habitable) while the latter is a sub-Earth which orbits very closely to the star. A possible but disputed third planet, Proxima c, is a mini-Neptune 1.5 astronomical units away. Rigil Kentaurus may have a Saturn-mass planet (Alpha Centauri Ab) in the habitable zone, though it is not yet known with certainty to be planetary in nature. Toliman has no known planets; the only candidate planet, Alpha Centauri Bb, was disproven in 2015.",
+      "short_description": "Alpha Centauri (α Centauri, α Cen, or Alpha Cen) is a star system in the southern constellation of Centaurus. It consists of three stars: Rigil Kentaurus (α Centauri A), Toliman (α Centauri B), and Proxima Centauri (α…",
+      "evidence": "fiction",
+      "parentSlug": "transformers",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://transformers.fandom.com/wiki/Alpha_Centauri",
+        "fandom_title": "Alpha Centauri",
+        "source_fandom": "transformers.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "afterburner-g2",
+      "name": "Afterburner",
+      "type": "person",
+      "description": "The tech master of the Skyscorchers, Afterburner likes to think he's above brute force, preferring to use clever tricks and technology to achieve his goals on his own time. While he is clever and quick-thinking at times, he's also lazy and very independent, which often gets him into trouble with his superiors.\n\nAfterburner's mold was one of several intended to be used in the post-G2 Takara Block Town line, as an Autobot. To be redecoed in light blue with black, he was to come with the TFBT-1 Radar Set, a building-block radar tower that could be rebuilt into a battle station of some form. This set ultimately never came to release.\n\nIn 2005, a supposed Takara \"release\" schedule listed the Block Town sets among several other future items coming out. Only the Galaxy Force items on that list saw release, however (and some only as store exclusives to boot).\n\nSince very little information exists on the line's more fictional aspects, it is unknown if this toy was to be the same general character Afterburner, or a new character altogether, thought the whole \"Autobot\" thing leans heavily towards \"new\".",
+      "short_description": "The tech master of the Skyscorchers, Afterburner likes to think he's above brute force, preferring to use clever tricks and technology to achieve his goals on his own time. While he is clever and quick-thinking at…",
+      "evidence": "fiction",
+      "parentSlug": "decepticons",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/transformers/images/0/0b/AfterburnerG2-card.jpg/revision/latest/scale-to-width-down/360?cb=20061020005902",
+      "image_source": "https://transformers.fandom.com/wiki/Afterburner_(G2)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hasbro / Takara Tomy (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Afterburner (G2)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://transformers.fandom.com/wiki/Afterburner_(G2)",
+        "fandom_title": "Afterburner (G2)",
+        "source_fandom": "transformers.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altihex-tfp",
+      "name": "Altihex TFP",
+      "type": "place",
+      "description": "Sentinel Prime was at Altihex Casino, attending a performance by comedian Armorhide, when Decepticons launched a bomb attack. Sentinel was taken to the Seekers Skywarp and Thundercracker by his bodyguard Starscream, whom he said would escort him to safety. He lied.\n\nCategory:Cybertron locations Category:Locations Category:Cybertron Category:Books Only Category:War for Cybertron locations",
+      "short_description": "Sentinel Prime was at Altihex Casino, attending a performance by comedian Armorhide, when Decepticons launched a bomb attack. Sentinel was taken to the Seekers Skywarp and Thundercracker by his bodyguard Starscream,…",
+      "evidence": "fiction",
+      "parentSlug": "transformers",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/transformers/images/8/87/WFCcomicConterrorism.jpg/revision/latest/scale-to-width-down/360?cb=20190727104839",
+      "image_source": "https://transformers.fandom.com/wiki/Altihex_TFP",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hasbro / Takara Tomy (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Altihex TFP",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://transformers.fandom.com/wiki/Altihex_TFP",
+        "fandom_title": "Altihex TFP",
+        "source_fandom": "transformers.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -11651,6 +11986,102 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "abomenaticus",
+      "decepticons",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abandoned-steel-mill",
+      "transformers",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abominus-g1",
+      "decepticons",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "akota-reservoir",
+      "transformers",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abominus-rid",
+      "decepticons",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "alchemor-rid",
+      "transformers",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "acid-storm-cyberverse",
+      "decepticons",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "alden-military-base",
+      "transformers",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "acid-storm-g1",
+      "decepticons",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "alpha-centauri",
+      "transformers",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "afterburner-g2",
+      "decepticons",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "altihex-tfp",
+      "transformers",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -11659,19 +12090,19 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (transformers.fandom.com) for identification and commentary only. Character / franchise art © Hasbro / Takara Tomy (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T18:00:08.478Z",
+  "generated_at": "2026-09-13T03:49:13.449Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://transformers.fandom.com/wiki/",
     "host": "transformers.fandom.com"
   },
   "stats": {
-    "fandom_titles": 45,
-    "fandom_enriched_core": 13,
-    "fandom_created": 11,
-    "fandom_images": 35,
-    "fandom_intros": 44,
-    "description_ensure_at": "2026-09-12T18:00:20.236Z",
+    "fandom_titles": 1,
+    "fandom_enriched_core": 0,
+    "fandom_created": 1,
+    "fandom_images": 1,
+    "fandom_intros": 1,
+    "description_ensure_at": "2026-09-13T02:38:23.277Z",
     "description_ensure_count": 1
   }
 }

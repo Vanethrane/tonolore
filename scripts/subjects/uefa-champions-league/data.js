@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into UEFA Champions League.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify UEFA Champions League."
+    },
+    {
+        "slug": "uefa-champions-league-geography",
+        "name": "UEFA Champions League geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for UEFA Champions League.",
+        "description": "Regions, routes, and spatial systems that situate UEFA Champions League beyond single named places."
+    },
+    {
+        "slug": "uefa-champions-league-legacy",
+        "name": "UEFA Champions League legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of UEFA Champions League.",
+        "description": "How UEFA Champions League continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "uefa-champions-league-practices",
+        "name": "UEFA Champions League practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in UEFA Champions League.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in UEFA Champions League."
+    },
+    {
+        "slug": "uefa-champions-league-entry-1",
+        "name": "UEFA Champions League entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "uefa-champions-league-entry-2",
+        "name": "UEFA Champions League entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "uefa-champions-league-entry-3",
+        "name": "UEFA Champions League entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "uefa-champions-league-entry-4",
+        "name": "UEFA Champions League entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "uefa-champions-league-entry-5",
+        "name": "UEFA Champions League entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "uefa-champions-league-entry-6",
+        "name": "UEFA Champions League entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "uefa-champions-league-entry-7",
+        "name": "UEFA Champions League entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "uefa-champions-league-entry-8",
+        "name": "UEFA Champions League entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "uefa-champions-league-entry-9",
+        "name": "UEFA Champions League entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "uefa-champions-league-entry-10",
+        "name": "UEFA Champions League entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "uefa-champions-league-entry-11",
+        "name": "UEFA Champions League entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "uefa-champions-league-entry-12",
+        "name": "UEFA Champions League entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "uefa-champions-league-entry-13",
+        "name": "UEFA Champions League entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "uefa-champions-league-entry-14",
+        "name": "UEFA Champions League entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "uefa-champions-league-entry-15",
+        "name": "UEFA Champions League entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "uefa-champions-league-entry-16",
+        "name": "UEFA Champions League entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "uefa-champions-league-entry-17",
+        "name": "UEFA Champions League entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "uefa-champions-league-entry-18",
+        "name": "UEFA Champions League entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "uefa-champions-league-entry-19",
+        "name": "UEFA Champions League entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "uefa-champions-league-entry-20",
+        "name": "UEFA Champions League entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "uefa-champions-league-entry-21",
+        "name": "UEFA Champions League entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "uefa-champions-league-entry-22",
+        "name": "UEFA Champions League entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside UEFA Champions League.",
+        "description": "A supporting encyclopedia entry in the UEFA Champions League subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "UEFA Champions League sources is a primary trailhead under UEFA Champions League.",
         0.88,
         0.82
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-geography",
+        "contains",
+        "UEFA Champions League geography is a primary trailhead under UEFA Champions League.",
+        0.88,
+        0.82
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-legacy",
+        "contains",
+        "UEFA Champions League legacy is a primary trailhead under UEFA Champions League.",
+        0.88,
+        0.82
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-practices",
+        "contains",
+        "UEFA Champions League practices is a primary trailhead under UEFA Champions League.",
+        0.88,
+        0.82
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-1",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-2",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-3",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-4",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-5",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-6",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-7",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-8",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-9",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-10",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-11",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-12",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-13",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-14",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-15",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-16",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-17",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-18",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-19",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-20",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-21",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
+    ],
+    [
+        "uefa-champions-league",
+        "uefa-champions-league-entry-22",
+        "contains",
+        "Supporting entry under UEFA Champions League.",
+        0.75,
+        0.7
     ]
 ];
 

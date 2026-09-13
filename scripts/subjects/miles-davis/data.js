@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Miles Davis.",
         "description": "Regions, routes, and spatial systems that situate Miles Davis beyond single named places."
+    },
+    {
+        "slug": "miles-davis-legacy",
+        "name": "Miles Davis legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Miles Davis.",
+        "description": "How Miles Davis continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "miles-davis-practices",
+        "name": "Miles Davis practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Miles Davis.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Miles Davis."
+    },
+    {
+        "slug": "miles-davis-entry-1",
+        "name": "Miles Davis entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-2",
+        "name": "Miles Davis entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-3",
+        "name": "Miles Davis entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-4",
+        "name": "Miles Davis entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-5",
+        "name": "Miles Davis entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-6",
+        "name": "Miles Davis entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-7",
+        "name": "Miles Davis entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-8",
+        "name": "Miles Davis entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-9",
+        "name": "Miles Davis entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-10",
+        "name": "Miles Davis entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-11",
+        "name": "Miles Davis entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-12",
+        "name": "Miles Davis entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-13",
+        "name": "Miles Davis entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-14",
+        "name": "Miles Davis entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-15",
+        "name": "Miles Davis entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-16",
+        "name": "Miles Davis entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-17",
+        "name": "Miles Davis entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-18",
+        "name": "Miles Davis entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-19",
+        "name": "Miles Davis entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-20",
+        "name": "Miles Davis entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-21",
+        "name": "Miles Davis entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-22",
+        "name": "Miles Davis entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "miles-davis-entry-23",
+        "name": "Miles Davis entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Miles Davis.",
+        "description": "A supporting encyclopedia entry in the Miles Davis subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Miles Davis geography is a primary trailhead under Miles Davis.",
         0.88,
         0.82
+    ],
+    [
+        "miles-davis",
+        "miles-davis-legacy",
+        "contains",
+        "Miles Davis legacy is a primary trailhead under Miles Davis.",
+        0.88,
+        0.82
+    ],
+    [
+        "miles-davis",
+        "miles-davis-practices",
+        "contains",
+        "Miles Davis practices is a primary trailhead under Miles Davis.",
+        0.88,
+        0.82
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-1",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-2",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-3",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-4",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-5",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-6",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-7",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-8",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-9",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-10",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-11",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-12",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-13",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-14",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-15",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-16",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-17",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-18",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-19",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-20",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-21",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-22",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
+    ],
+    [
+        "miles-davis",
+        "miles-davis-entry-23",
+        "contains",
+        "Supporting entry under Miles Davis.",
+        0.75,
+        0.7
     ]
 ];
 

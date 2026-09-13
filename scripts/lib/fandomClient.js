@@ -63,7 +63,12 @@ function fandomApiUrl(wikiHost, params) {
         ...params
     });
 
-    return `https://${wikiHost}/api.php?${search.toString()}`;
+    // Wikipedia (and other Wikimedia) use /w/api.php; Fandom uses /api.php.
+    const apiPath = /\.wikipedia\.org$/i.test(wikiHost)
+        ? "/w/api.php"
+        : "/api.php";
+
+    return `https://${wikiHost}${apiPath}?${search.toString()}`;
 }
 
 async function fandomQuery(wikiHost, params) {

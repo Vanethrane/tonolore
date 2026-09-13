@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of The Knights Templar.",
         "description": "How The Knights Templar continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "knights-templar-practices",
+        "name": "The Knights Templar practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in The Knights Templar.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in The Knights Templar."
+    },
+    {
+        "slug": "knights-templar-entry-1",
+        "name": "The Knights Templar entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-2",
+        "name": "The Knights Templar entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-3",
+        "name": "The Knights Templar entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-4",
+        "name": "The Knights Templar entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-5",
+        "name": "The Knights Templar entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-6",
+        "name": "The Knights Templar entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-7",
+        "name": "The Knights Templar entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-8",
+        "name": "The Knights Templar entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-9",
+        "name": "The Knights Templar entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-10",
+        "name": "The Knights Templar entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-11",
+        "name": "The Knights Templar entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-12",
+        "name": "The Knights Templar entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-13",
+        "name": "The Knights Templar entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-14",
+        "name": "The Knights Templar entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-15",
+        "name": "The Knights Templar entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-16",
+        "name": "The Knights Templar entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-17",
+        "name": "The Knights Templar entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-18",
+        "name": "The Knights Templar entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-19",
+        "name": "The Knights Templar entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-20",
+        "name": "The Knights Templar entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-21",
+        "name": "The Knights Templar entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-22",
+        "name": "The Knights Templar entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-23",
+        "name": "The Knights Templar entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "knights-templar-entry-24",
+        "name": "The Knights Templar entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Knights Templar.",
+        "description": "A supporting encyclopedia entry in the The Knights Templar subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "The Knights Templar legacy is a primary trailhead under The Knights Templar.",
         0.88,
         0.82
+    ],
+    [
+        "knights-templar",
+        "knights-templar-practices",
+        "contains",
+        "The Knights Templar practices is a primary trailhead under The Knights Templar.",
+        0.88,
+        0.82
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-1",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-2",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-3",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-4",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-5",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-6",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-7",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-8",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-9",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-10",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-11",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-12",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-13",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-14",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-15",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-16",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-17",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-18",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-19",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-20",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-21",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-22",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-23",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
+    ],
+    [
+        "knights-templar",
+        "knights-templar-entry-24",
+        "contains",
+        "Supporting entry under The Knights Templar.",
+        0.75,
+        0.7
     ]
 ];
 

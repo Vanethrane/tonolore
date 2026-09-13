@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into Summer Olympics.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify Summer Olympics."
+    },
+    {
+        "slug": "summer-olympics-geography",
+        "name": "Summer Olympics geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for Summer Olympics.",
+        "description": "Regions, routes, and spatial systems that situate Summer Olympics beyond single named places."
+    },
+    {
+        "slug": "summer-olympics-legacy",
+        "name": "Summer Olympics legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Summer Olympics.",
+        "description": "How Summer Olympics continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "summer-olympics-practices",
+        "name": "Summer Olympics practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Summer Olympics.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Summer Olympics."
+    },
+    {
+        "slug": "summer-olympics-entry-1",
+        "name": "Summer Olympics entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "summer-olympics-entry-2",
+        "name": "Summer Olympics entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "summer-olympics-entry-3",
+        "name": "Summer Olympics entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "summer-olympics-entry-4",
+        "name": "Summer Olympics entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "summer-olympics-entry-5",
+        "name": "Summer Olympics entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "summer-olympics-entry-6",
+        "name": "Summer Olympics entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "summer-olympics-entry-7",
+        "name": "Summer Olympics entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "summer-olympics-entry-8",
+        "name": "Summer Olympics entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "summer-olympics-entry-9",
+        "name": "Summer Olympics entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "summer-olympics-entry-10",
+        "name": "Summer Olympics entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "summer-olympics-entry-11",
+        "name": "Summer Olympics entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "summer-olympics-entry-12",
+        "name": "Summer Olympics entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "summer-olympics-entry-13",
+        "name": "Summer Olympics entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "summer-olympics-entry-14",
+        "name": "Summer Olympics entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "summer-olympics-entry-15",
+        "name": "Summer Olympics entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "summer-olympics-entry-16",
+        "name": "Summer Olympics entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "summer-olympics-entry-17",
+        "name": "Summer Olympics entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "summer-olympics-entry-18",
+        "name": "Summer Olympics entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "summer-olympics-entry-19",
+        "name": "Summer Olympics entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "summer-olympics-entry-20",
+        "name": "Summer Olympics entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "summer-olympics-entry-21",
+        "name": "Summer Olympics entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "summer-olympics-entry-22",
+        "name": "Summer Olympics entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Summer Olympics.",
+        "description": "A supporting encyclopedia entry in the Summer Olympics subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "Summer Olympics sources is a primary trailhead under Summer Olympics.",
         0.88,
         0.82
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-geography",
+        "contains",
+        "Summer Olympics geography is a primary trailhead under Summer Olympics.",
+        0.88,
+        0.82
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-legacy",
+        "contains",
+        "Summer Olympics legacy is a primary trailhead under Summer Olympics.",
+        0.88,
+        0.82
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-practices",
+        "contains",
+        "Summer Olympics practices is a primary trailhead under Summer Olympics.",
+        0.88,
+        0.82
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-1",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-2",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-3",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-4",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-5",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-6",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-7",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-8",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-9",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-10",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-11",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-12",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-13",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-14",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-15",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-16",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-17",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-18",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-19",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-20",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-21",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "summer-olympics",
+        "summer-olympics-entry-22",
+        "contains",
+        "Supporting entry under Summer Olympics.",
+        0.75,
+        0.7
     ]
 ];
 

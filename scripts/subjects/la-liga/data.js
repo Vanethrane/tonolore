@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into La Liga.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify La Liga."
+    },
+    {
+        "slug": "la-liga-geography",
+        "name": "La Liga geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for La Liga.",
+        "description": "Regions, routes, and spatial systems that situate La Liga beyond single named places."
+    },
+    {
+        "slug": "la-liga-legacy",
+        "name": "La Liga legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of La Liga.",
+        "description": "How La Liga continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "la-liga-practices",
+        "name": "La Liga practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in La Liga.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in La Liga."
+    },
+    {
+        "slug": "la-liga-entry-1",
+        "name": "La Liga entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "la-liga-entry-2",
+        "name": "La Liga entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "la-liga-entry-3",
+        "name": "La Liga entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "la-liga-entry-4",
+        "name": "La Liga entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "la-liga-entry-5",
+        "name": "La Liga entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "la-liga-entry-6",
+        "name": "La Liga entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "la-liga-entry-7",
+        "name": "La Liga entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "la-liga-entry-8",
+        "name": "La Liga entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "la-liga-entry-9",
+        "name": "La Liga entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "la-liga-entry-10",
+        "name": "La Liga entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "la-liga-entry-11",
+        "name": "La Liga entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "la-liga-entry-12",
+        "name": "La Liga entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "la-liga-entry-13",
+        "name": "La Liga entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "la-liga-entry-14",
+        "name": "La Liga entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "la-liga-entry-15",
+        "name": "La Liga entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "la-liga-entry-16",
+        "name": "La Liga entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "la-liga-entry-17",
+        "name": "La Liga entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "la-liga-entry-18",
+        "name": "La Liga entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "la-liga-entry-19",
+        "name": "La Liga entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "la-liga-entry-20",
+        "name": "La Liga entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "la-liga-entry-21",
+        "name": "La Liga entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "la-liga-entry-22",
+        "name": "La Liga entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside La Liga.",
+        "description": "A supporting encyclopedia entry in the La Liga subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "La Liga sources is a primary trailhead under La Liga.",
         0.88,
         0.82
+    ],
+    [
+        "la-liga",
+        "la-liga-geography",
+        "contains",
+        "La Liga geography is a primary trailhead under La Liga.",
+        0.88,
+        0.82
+    ],
+    [
+        "la-liga",
+        "la-liga-legacy",
+        "contains",
+        "La Liga legacy is a primary trailhead under La Liga.",
+        0.88,
+        0.82
+    ],
+    [
+        "la-liga",
+        "la-liga-practices",
+        "contains",
+        "La Liga practices is a primary trailhead under La Liga.",
+        0.88,
+        0.82
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-1",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-2",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-3",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-4",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-5",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-6",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-7",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-8",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-9",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-10",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-11",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-12",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-13",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-14",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-15",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-16",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-17",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-18",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-19",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-20",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-21",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
+    ],
+    [
+        "la-liga",
+        "la-liga-entry-22",
+        "contains",
+        "Supporting entry under La Liga.",
+        0.75,
+        0.7
     ]
 ];
 

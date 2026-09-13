@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Welcome to Night Vale.",
         "description": "How Welcome to Night Vale continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "welcome-to-night-vale-practices",
+        "name": "Welcome to Night Vale practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Welcome to Night Vale.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Welcome to Night Vale."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-1",
+        "name": "Welcome to Night Vale entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-2",
+        "name": "Welcome to Night Vale entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-3",
+        "name": "Welcome to Night Vale entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-4",
+        "name": "Welcome to Night Vale entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-5",
+        "name": "Welcome to Night Vale entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-6",
+        "name": "Welcome to Night Vale entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-7",
+        "name": "Welcome to Night Vale entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-8",
+        "name": "Welcome to Night Vale entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-9",
+        "name": "Welcome to Night Vale entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-10",
+        "name": "Welcome to Night Vale entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-11",
+        "name": "Welcome to Night Vale entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-12",
+        "name": "Welcome to Night Vale entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-13",
+        "name": "Welcome to Night Vale entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-14",
+        "name": "Welcome to Night Vale entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-15",
+        "name": "Welcome to Night Vale entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-16",
+        "name": "Welcome to Night Vale entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-17",
+        "name": "Welcome to Night Vale entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-18",
+        "name": "Welcome to Night Vale entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-19",
+        "name": "Welcome to Night Vale entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-20",
+        "name": "Welcome to Night Vale entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-21",
+        "name": "Welcome to Night Vale entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-22",
+        "name": "Welcome to Night Vale entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-23",
+        "name": "Welcome to Night Vale entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "welcome-to-night-vale-entry-24",
+        "name": "Welcome to Night Vale entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Welcome to Night Vale.",
+        "description": "A supporting encyclopedia entry in the Welcome to Night Vale subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Welcome to Night Vale legacy is a primary trailhead under Welcome to Night Vale.",
         0.88,
         0.82
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-practices",
+        "contains",
+        "Welcome to Night Vale practices is a primary trailhead under Welcome to Night Vale.",
+        0.88,
+        0.82
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-1",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-2",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-3",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-4",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-5",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-6",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-7",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-8",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-9",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-10",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-11",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-12",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-13",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-14",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-15",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-16",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-17",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-18",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-19",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-20",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-21",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-22",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-23",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
+    ],
+    [
+        "welcome-to-night-vale",
+        "welcome-to-night-vale-entry-24",
+        "contains",
+        "Supporting entry under Welcome to Night Vale.",
+        0.75,
+        0.7
     ]
 ];
 

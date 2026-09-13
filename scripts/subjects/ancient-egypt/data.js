@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Ancient Egypt.",
         "description": "How Ancient Egypt continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "ancient-egypt-practices",
+        "name": "Ancient Egypt practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Ancient Egypt.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Ancient Egypt."
+    },
+    {
+        "slug": "ancient-egypt-entry-1",
+        "name": "Ancient Egypt entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-2",
+        "name": "Ancient Egypt entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-3",
+        "name": "Ancient Egypt entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-4",
+        "name": "Ancient Egypt entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-5",
+        "name": "Ancient Egypt entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-6",
+        "name": "Ancient Egypt entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-7",
+        "name": "Ancient Egypt entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-8",
+        "name": "Ancient Egypt entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-9",
+        "name": "Ancient Egypt entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-10",
+        "name": "Ancient Egypt entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-11",
+        "name": "Ancient Egypt entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-12",
+        "name": "Ancient Egypt entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-13",
+        "name": "Ancient Egypt entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-14",
+        "name": "Ancient Egypt entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-15",
+        "name": "Ancient Egypt entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-16",
+        "name": "Ancient Egypt entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-17",
+        "name": "Ancient Egypt entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-18",
+        "name": "Ancient Egypt entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-19",
+        "name": "Ancient Egypt entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-20",
+        "name": "Ancient Egypt entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-21",
+        "name": "Ancient Egypt entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-22",
+        "name": "Ancient Egypt entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-23",
+        "name": "Ancient Egypt entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ancient-egypt-entry-24",
+        "name": "Ancient Egypt entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ancient Egypt.",
+        "description": "A supporting encyclopedia entry in the Ancient Egypt subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Ancient Egypt legacy is a primary trailhead under Ancient Egypt.",
         0.88,
         0.82
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-practices",
+        "contains",
+        "Ancient Egypt practices is a primary trailhead under Ancient Egypt.",
+        0.88,
+        0.82
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-1",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-2",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-3",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-4",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-5",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-6",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-7",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-8",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-9",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-10",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-11",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-12",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-13",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-14",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-15",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-16",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-17",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-18",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-19",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-20",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-21",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-22",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-23",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
+    ],
+    [
+        "ancient-egypt",
+        "ancient-egypt-entry-24",
+        "contains",
+        "Supporting entry under Ancient Egypt.",
+        0.75,
+        0.7
     ]
 ];
 

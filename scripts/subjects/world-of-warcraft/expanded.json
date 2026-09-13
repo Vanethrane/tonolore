@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T04:30:10.779Z",
+  "generated_at": "2026-09-13T04:02:58.447Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -300,10 +300,10 @@
     {
       "slug": "guldan",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Gul%27dan",
-      "description": "Gul'dan was the first orcish warlock as well as the de facto founder of the Horde. He betrayed both his people and his mentor Ner'zhul to the demon lord Kil'jaeden for personal gain and power, and was directly responsible for the orcs' fall to demonic enslavement and their subsequent invasion of Azeroth. Tutored by the leaders of the Burning Legion, he is considered one of the most powerful warlocks to have ever existed. He founded the Shadow Council and created the first death knights.\n\nGul'dan serves as the overarching antagonist in Warcraft: Orcs and Humans, the main antagonist in Warcraft II: Tides of Darkness, and a posthumous antagonist for the rest of the Warcraft franchise, though his alternate version does appear as one of the main antagonists in two expansions of World of Warcraft.\n\nGul'dan was born crippled, weak and deformed in a village in Gorgrond. His condition made him a target for constant mockery and abuse, for which he hated his clan. When the others finally tried to beat him to death to be rid of him, the clan's shaman stopped them and told Gul'dan that he saw greatness in him, advising him to go to the Throne of the Elements to seek his destiny. Gul'dan angrily rejected the shaman, and the chieftain banished Gul'dan from the village.\n\nThe bitterness that had sustained him all his life ate at him until nothing was left. After months of starvation and wandering alone through the wastes, Gul'dan began to consider that the safety of a clan might be better than endless suffering. He finally heeded the old shaman's words and, dragging himself to the Throne of the Elements, offered himself in the service of whatever would end his anguish. The spirits of fire, earth, water, and air approached him but, sensing the darkness and fury within the orc's heart, violently recoiled from him. However, in the absence of the furies, Kil'jaeden began to whisper to him. The demon lord offered Gul'dan power in return for becoming the harbinger of his fury.",
+      "description": "Gul'dan was an orc who was cast out of his clan for his physical weakness, and agreed to a secret alliance with the Burning Legion in exchange to wield fel magic. The first warlock, he seeks to spread his influence — and the power of the Legion — to all worlds.\n\nGul'dan was the main antagonist of World of Warcraft: Warlords of Draenor. He and his Shadow Council are responsible for most of the demonic activity in Draenor and most of the Legendary questline focuses on a cat-and-mouse game between Gul'dan and Archmage Khadgar.\n\nGul'dan returned as a major antagonist in World of Warcraft: Legion, where he made an alliance with the nightborne under Grand Magistrix Elisande to serve the Legion. Atop the Nighthold, he intended to use the corpse of Illidan Stormrage as a vessel to bring Sargeras onto Azeroth. However, the nightfallen rebellion and the order leaders who had fought on Draenor were able to stop him, and Khadgar returned Illidan's soul to his body. His plan in tatters, Gul'dan was destroyed by the reborn Illidan.\n\nNo one now living has heard of the village where Gul'dan was born. He was born crippled, weak, and deformed, which made him a target for constant mockery and abuse ever since his childhood. He knew that he was meant for more than his clan would ever allow of him, and he hated them for it. He used the hate and bitterness he felt as a way to keep going. One day, the other clan members grew so tired of the runt's refusal to accept his place in the clan that they beat him repeatedly in an attempt to rid themselves of him once and for all. As the chieftain was about to beat him again, the elderly shaman of the clan stopped him, saying that he had tried and failed to help Gul'dan find his place in the clan. Laying a hand on Gul'dan's shoulder, the elder said, not unkindly, that there was nothing more he could do for him, but that he had always believed there was greatness within him. He then advised the runt to seek out the , for perhaps there he would find his destiny. In response, Gul'dan angrily slapped his hand away. The chieftain then banished Gul'dan to the wastes outside the village, saying that there he would come to understand what it meant to have no people.",
       "metadata": {
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Gul%27dan",
-        "fandom_title": "Gul'dan",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe)",
+        "fandom_title": "Gul'dan (alternate universe)",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "wikipedia",
@@ -313,11 +313,11 @@
       },
       "short_description": "Gul'dan was an orc who was cast out of his clan for his physical weakness, and agreed to a secret alliance with the Burning Legion in exchange to wield fel magic. The first warlock, he seeks to spread his influence —…",
       "image_url": "https://static.wikia.nocookie.net/wowpedia/images/5/56/Harbingers_Gul%27dan_1.jpg/revision/latest/scale-to-width-down/360?cb=20160722112946",
-      "image_source": "https://wowpedia.fandom.com/wiki/Gul%27dan",
+      "image_source": "https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Gul'dan"
+      "image_alt": "Identification thumbnail for Gul'dan (alternate universe)"
     },
     {
       "slug": "frostmourne",
@@ -65183,7 +65183,7 @@
       "slug": "zones-by-level",
       "name": "Zones by level",
       "type": "place",
-      "description": "This article is a list of all zones by level before World of Warcraft: Cataclysm.",
+      "description": "This article is a list of all zones by level.",
       "short_description": "This article is a list of all zones by level.",
       "evidence": "fiction",
       "parentSlug": "azeroth",
@@ -65193,8 +65193,8 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Zones_by_level_(original)",
-        "fandom_title": "Zones by level (original)",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Zones_by_level_(Battle_for_Azeroth)",
+        "fandom_title": "Zones by level (Battle for Azeroth)",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
@@ -98743,11 +98743,11 @@
     "images_attached": 3,
     "core_enrichments": 16,
     "preserved_fandom": 0,
-    "fandom_titles": 45,
-    "fandom_enriched_core": 11,
+    "fandom_titles": 1,
+    "fandom_enriched_core": 0,
     "fandom_created": 0,
-    "fandom_images": 32,
-    "fandom_intros": 44,
+    "fandom_images": 0,
+    "fandom_intros": 1,
     "image_backfill_at": "2026-09-11T16:29:44.217Z",
     "image_backfill_count": 33
   }

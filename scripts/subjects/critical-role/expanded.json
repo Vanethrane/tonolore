@@ -364,7 +364,7 @@
       "slug": "asha",
       "name": "Asha",
       "type": "person",
-      "description": "Asha appears to be a farmer or hunter of elven lineage, young although she doesn't look like it because she has clearly had a hard life. She looks unhealthy and too thin, her skin is ashen, and her dark hair is graying in patches. She has very bright yellow eyes. Her clothing, while once grand, is now old and carefully repaired multiple times. She has no shoes. Her expression is somewhere else. She has another form, that of a big timber wolf.\n\nShe is an intense and wild person, expressive whenever she feels angry or disappointed.\n\nAfter the main Exandrian pantheon agreed to collaborate in a plan to neutralize Aeor and their potentially dangerous technology, the Wildmother agreed to do her part, sending a mortal avatar of herself, Asha, to join their intended mission. She found several companions, like Madeen and Sherané, who were as rough as her and had been tested somehow, who stayed with Trist's family and helped defend Hawk's Hill after Asha departed for the flying city.\n\nAfter receiving visions from Arcadia Cerenvetorix (the mortal incarnation of Ioun) Asha, accompanied by her team, traveled to Hawk's Hill, where she was supposed to meet others like her and take a ship to Aeor. They brought with them a wagon with a crate, and the monk was very protective of it, since it had been sent by Erathis. While they were there Asha noticed both Galdric and Dearest, the animal companions of Purvan Suul and Emhira (the mortal incarnation of the Raven Queen), noticing the scent of death in them; the wolf greeted Asha with respect and allowed her to pet him, after which she followed the raven until she found its owner, who was already with Ayden (the mortal incarnation of Pelor) and Trist (the mortal incarnation of Raei). Eventually, with the help of SILAHA (the mortal incarnation of Corellon), they boarded the Aeorian ship, and upon saying goodbye to her followers (who wanted to stay in Hawk's Hill to protect it), she told them to go home, take the night, and then find worthy people to test them like she would. While inside the ship the incarnated deities opened the crate, revealing The Emissary, a genasi agent sent by the Lawbearer, who told Asha that she was always with her, showing her some seeds; the monk, clearly disappointed because she expected a mortal incarnation of her lover, went to a corner and turned into a timber wolf, curling until SILAHA reminded her that it wasn't the time for sulking. After they crossed the Latimus Princeps (a barrier to keep gods outside) successfully, some Aeorian corporals started checking the wagons and crates they cast Zone of Truth, so Asha turned into a wolf again pretending to be Emhira's pet.",
+      "description": "Asha is a reiloran child living in the Clutch, on Ruidus. As an NPC, she is played by Matthew Mercer.\n\nAsha is a good-natured child, more confident than her friend Kelito.\n\nAsha was the child of one of the less privileged families of Kreviris, the reason why they had to live in Caeluma Kreviris, on the surface, and weren't considered important enough to be allowed to take shelter underground during the frequent dust storms.\n\nBells Hells encountered Asha and Kelito when they arrived in the Clutch, where the children were brushing the ryndons. Both children trusted the Exandrians and had a friendly conversation with them. Chetney Pock O'Pea gave them a wooden rocking horse and explained they had to share it, even promising to return with a new toy if they behaved well. Shortly after that, Asha's parent approached, cautious, and after making sure that their child and her friend were safe, shared more information about the area with the party.",
       "short_description": "Asha appears to be a farmer or hunter of elven lineage, young although she doesn't look like it because she has clearly had a hard life. She looks unhealthy and too thin, her skin is ashen, and her dark hair is graying…",
       "evidence": "fiction",
       "parentSlug": "critical-role",
@@ -381,8 +381,8 @@
         "discovered": true,
         "source": "fandom",
         "kind": "character",
-        "fandom_url": "https://criticalrole.fandom.com/wiki/Asha",
-        "fandom_title": "Asha",
+        "fandom_url": "https://criticalrole.fandom.com/wiki/Asha_(reilora)",
+        "fandom_title": "Asha (reilora)",
         "source_fandom": "criticalrole.fandom.com",
         "sources": [
           "fandom"
@@ -20439,18 +20439,18 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (criticalrole.fandom.com) for identification and commentary only. Critical Role art © Critical Role (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T17:32:59.199Z",
+  "generated_at": "2026-09-13T03:17:36.004Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://criticalrole.fandom.com/wiki/",
     "host": "criticalrole.fandom.com"
   },
   "stats": {
-    "fandom_titles": 45,
+    "fandom_titles": 0,
     "fandom_enriched_core": 0,
-    "fandom_created": 44,
-    "fandom_images": 22,
-    "fandom_intros": 45,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0,
     "description_ensure_at": "2026-09-12T14:24:41.049Z",
     "description_ensure_count": 1
   }

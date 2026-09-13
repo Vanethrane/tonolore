@@ -1681,25 +1681,25 @@
       "slug": "bessie",
       "name": "Bessie",
       "type": "person",
-      "description": "Bessie is the name of a cow belonging to Sammy Gutierrez, and she is considered Sammy's favorite cow.\n\nWhen unconscious from the Scorpios rex's poison, Sammy Gutierrez mentions Bessie after mistaking the noises Kenji made for the cow. Kenji then pretends to be Bessie in order to calm Sammy down in her drugged state.\n\nSammy brings up Bessie to Darius and Ben asking if they remember her. It is also mentioned that Bessie had a calf at some point.\n\nCategory:Characters Category:Animals Category:Bovids Category:Jurassic World: Camp Cretaceous characters Category:Jurassic World: Chaos Theory characters Category:Females Category:Named animals Category:Unseen Characters Category:Individual animals",
+      "description": "Bessie was a female Stegosaurus living on Isla Nublar. While hunting down their bag full of photographs of the dinosaurs that they intended to sell for big profits, army men Bieber and Shandy encountered Bessie feeding from a tree. After giving the Stegosaurus her name, the duo attempted to move the animal out of their way, believing her to be completely harmless. However, Bessie soon attacked the duo, swinging her tail at them and scaring them off. Category:Female characters Category:Comic book characters Category:Living characters Category:Named animals Category:Stegosaurus Pages Category:Characters Category:Individual animals Category:Stubs",
       "short_description": "Bessie was a female Stegosaurus living on Isla Nublar. While hunting down their bag full of photographs of the dinosaurs that they intended to sell for big profits, army men Bieber and Shandy encountered Bessie feeding…",
       "evidence": "fiction",
       "parentSlug": "jurassic-park",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/jurassicpark/images/0/00/PictureNotFound.png/revision/latest/scale-to-width-down/360?cb=20250401232622",
-      "image_source": "https://jurassicpark.fandom.com/wiki/Bessie_(cow)",
+      "image_url": "https://static.wikia.nocookie.net/jurassicpark/images/f/f0/Bessie_Topps_Comics.png/revision/latest/scale-to-width-down/360?cb=20181021002713",
+      "image_source": "https://jurassicpark.fandom.com/wiki/Bessie",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Universal / Amblin / Michael Crichton estate (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Bessie (cow)",
+      "image_alt": "Identification thumbnail for Bessie",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
         "kind": "character",
-        "fandom_url": "https://jurassicpark.fandom.com/wiki/Bessie_(cow)",
-        "fandom_title": "Bessie (cow)",
+        "fandom_url": "https://jurassicpark.fandom.com/wiki/Bessie",
+        "fandom_title": "Bessie",
         "source_fandom": "jurassicpark.fandom.com",
         "sources": [
           "fandom"
@@ -15291,6 +15291,174 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "amber-clave-night-market",
+      "name": "Amber Clave Night Market",
+      "type": "place",
+      "description": "The Amber Clave Night Market, also known as the Amber Clave Underground Market, is an illegal market of prehistoric creatures located in the catacombs of Valletta, Malta.\n\nThe underground market is the central hub for the dinosaur black market in the world. Various dinosaurs are sold illegally here. Locusts and lampreys are served as food, dinosaur eggs, and handbags made of dinosaur pelts are also sold in the black market.\n\nThe market was set up by Lewis Dodgson and Biosyn who sold it to Soyona Santos as a part of their new partnership.\n\nAfter Maisie and Blue's daughter, Beta, are taken by Biosyn's hired guns, Owen Grady, Claire Dearing and Barry Sembène track them to Malta, where they discover a dinosaur illegal market that was secretly created by Lewis Dodgson. As Claire and Owen disrupt the market, dinosaurs are unintentionally released, causing havoc. As Owen interrogated Delacourt who was later killed during the chaos, Claire incapacitates and interrogates Biosyn ally Soyona Santos, who reveals that Maisie and Beta are being transported to Biosyn’s headquarters in Italy's Dolomites mountain range. While at the market, they meet Kayla Watts, a sympathetic pilot who delivers the live cargo for market vendors and has access to Biosyn HQ. Later after the incident, the market presumably shut down.",
+      "short_description": "The Amber Clave Night Market, also known as the Amber Clave Underground Market, is an illegal market of prehistoric creatures located in the catacombs of Valletta, Malta.",
+      "evidence": "fiction",
+      "parentSlug": "jurassic-park",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/jurassicpark/images/7/75/Malta_black_market_interior.png/revision/latest/scale-to-width-down/360?cb=20221231231707",
+      "image_source": "https://jurassicpark.fandom.com/wiki/Amber_Clave_Night_Market",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Universal / Amblin / Michael Crichton estate (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Amber Clave Night Market",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://jurassicpark.fandom.com/wiki/Amber_Clave_Night_Market",
+        "fandom_title": "Amber Clave Night Market",
+        "source_fandom": "jurassicpark.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "amber-mines",
+      "name": "Amber Mines",
+      "type": "place",
+      "description": "The Amber Mines are located under Biosyn's valley at the Dolomites Mountain range of Italy.\n\nNot much is known about the mines, but as the name suggests, they offer amber to Biosyn, which is used for obtaining prehistoric DNA. The mines are connected through tunnels. Dimetrodon are known to live in those mines.\n\nWhen Alan Grant, Ellie Sattler, and Maisie escape through the hyperloop train, the transport is stopped, unbeknownst to them, by Lewis Dodgson. Grant opens the door, and they find themselves in the mines and try to find a way out. While trying to find a way out, they are attacked by Dimetrodons.\n\nWhen they find an exit, the gate is locked. However, Ian Malcolm shows up and tries to unlock it by trying different codes. Back at the control room, Ramsay looks to a security camera and sees the predicament and proceeds to type in a code that unlocked the gate right when Ian pressed the code he thought was right.",
+      "short_description": "The Amber Mines are located under Biosyn's valley at the Dolomites Mountain range of Italy.",
+      "evidence": "fiction",
+      "parentSlug": "jurassic-park",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/jurassicpark/images/a/a6/Amber_Mines.jpg/revision/latest/scale-to-width-down/360?cb=20220721005314",
+      "image_source": "https://jurassicpark.fandom.com/wiki/Amber_Mines",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Universal / Amblin / Michael Crichton estate (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Amber Mines",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://jurassicpark.fandom.com/wiki/Amber_Mines",
+        "fandom_title": "Amber Mines",
+        "source_fandom": "jurassicpark.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "animal-kingdom",
+      "name": "Animal Kingdom",
+      "type": "place",
+      "description": "Animal Kingdom was a pioneering wildlife park established by John Hammond in 1969 in Nairobi, Kenya. It served as Hammond’s initial attempt at combining the excitement of exotic animal attractions with the burgeoning possibilities of genetic science. The park focused primarily on showcasing living dinosaurs created through early genetic cloning techniques, representing one of the first steps toward what would later become the ambitious Jurassic Park project.\n\nThe park was managed by Robert Muldoon, who served as the game warden. Muldoon’s experience in Animal Kingdom provided him with essential knowledge about managing genetically resurrected prehistoric creatures, skills he later brought to Jurassic Park. Animal Kingdom’s success and challenges helped shape Hammond’s vision and operational strategies for his subsequent theme parks.\n\nThough less technologically advanced than Jurassic Park, Animal Kingdom was instrumental in proving the viability of de-extinction through genetic manipulation. It laid the groundwork for future developments in dinosaur cloning and park design. Its establishment in Nairobi, Kenya, was strategically chosen for its rich biodiversity and suitable environment for housing large exotic animals, including the cloned dinosaurs.\n\nThe name \"Animal Kingdom\" is likely inspired by Disney's Animal Kingdom at Walt Disney World in Florida, reflecting a trend toward immersive wildlife-themed parks. This connection hints at the cultural influence and public fascination with animal-themed entertainment venues during the mid-20th century. While fictional, Animal Kingdom symbolizes the intersection of cutting-edge science and entertainment that the Jurassic franchise explores.",
+      "short_description": "Animal Kingdom was a pioneering wildlife park established by John Hammond in 1969 in Nairobi, Kenya. It served as Hammond’s initial attempt at combining the excitement of exotic animal attractions with the burgeoning…",
+      "evidence": "fiction",
+      "parentSlug": "jurassic-park",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://jurassicpark.fandom.com/wiki/Animal_Kingdom",
+        "fandom_title": "Animal Kingdom",
+        "source_fandom": "jurassicpark.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "antarctica",
+      "name": "Antarctica",
+      "type": "place",
+      "description": "Antarctica is a continent located in the South Pole surrounded by the Ross Sea and Weddell Sea. It is not only considered to be the coldest and driest continent but also the only one without a permanent human population. Antarctica is home to colonies of penguins (such as the emperor penguin) as well as other animals like the orca, , and Patagonian toothfish. In fact, it is known for its many prehistoric animals like Cryolophosaurus, Glacialisaurus, Antarctopelta, , , and Oreochima.\n\nKenji Kon asks the Nublar Six whether the plane crashed in Italy or in Antarctica.\n\nAntarctica is mentioned in the Evo Facts section for Antarctopelta and Cryolophosaurus.\n\nIt is mentioned in the facts section of Antarctopelta in the game.",
+      "short_description": "Antarctica is a continent located in the South Pole surrounded by the Ross Sea and Weddell Sea. It is not only considered to be the coldest and driest continent but also the only one without a permanent human…",
+      "evidence": "fiction",
+      "parentSlug": "jurassic-park",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/jurassicpark/images/c/c4/Map-Antarctica-regions-ice-sheets-research-stations-continent.webp/revision/latest/scale-to-width-down/360?cb=20251021140046",
+      "image_source": "https://jurassicpark.fandom.com/wiki/Antarctica",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Universal / Amblin / Michael Crichton estate (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Antarctica",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://jurassicpark.fandom.com/wiki/Antarctica",
+        "fandom_title": "Antarctica",
+        "source_fandom": "jurassicpark.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "argentina",
+      "name": "Argentina",
+      "type": "place",
+      "description": "Argentina, officially the Argentine Republic, is a country in the southern half of South America that borders Chile to the west, Bolivia and Paraguay to the north, Brazil to the northeast, and Uruguay to the east. Its capital and largest city is Bueno Aires. It maintains the second-largest economy in South America. Its environment includes part of the Andes mountain range and the plains of the Pampas. This is where the tango dance and famous writer originate from, but also the earliest (Eoraptor, Herrerasaurus, Pisanosaurus) and biggest dinosaurs (Argentinosaurus, Dreadnoughtus, Patagotitan). Argentina hosts numerous geological sites and dinosaurs, with notable ones being Giganotosaurus, Carnotaurus, Amargasaurus, Austroraptor, Saltasaurus, and .\n\nRichard Levine mentions that he thinks that the dinosaur that killed his guide Diego was a Carnotaurus, which originated from the Gorro Frigo formation in Argentina.\n\nArgentina is one of the countries where the visitors from your park come from.\n\nThe Glacier Park from the game is revealed to be located inside Argentina, more specifically Patagonia. Argentina also appears in a promotional quiz for the game, on which country Giganotosaurus was discovered (with Argentina being the correct answer).",
+      "short_description": "Argentina, officially the Argentine Republic, is a country in the southern half of South America that borders Chile to the west, Bolivia and Paraguay to the north, Brazil to the northeast, and Uruguay to the east. Its…",
+      "evidence": "fiction",
+      "parentSlug": "jurassic-park",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/jurassicpark/images/1/1a/World-Data-Locator-Map-Argentina.webp/revision/latest/scale-to-width-down/360?cb=20251230182537",
+      "image_source": "https://jurassicpark.fandom.com/wiki/Argentina",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Universal / Amblin / Michael Crichton estate (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Argentina",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://jurassicpark.fandom.com/wiki/Argentina",
+        "fandom_title": "Argentina",
+        "source_fandom": "jurassicpark.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "atherton-causeway",
+      "name": "Atherton Causeway",
+      "type": "place",
+      "description": "The monorail was meant to open on March 15, 1990, but was never fully completed, and what was finished was left derelict.\n\nCategory:Locations Category:Trespasser canon",
+      "short_description": "The monorail was meant to open on March 15, 1990, but was never fully completed, and what was finished was left derelict.",
+      "evidence": "fiction",
+      "parentSlug": "jurassic-park",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/jurassicpark/images/3/35/Atherton_causway.jpg/revision/latest/scale-to-width-down/360?cb=20120120024514",
+      "image_source": "https://jurassicpark.fandom.com/wiki/Atherton_Causeway",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Universal / Amblin / Michael Crichton estate (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Atherton Causeway",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://jurassicpark.fandom.com/wiki/Atherton_Causeway",
+        "fandom_title": "Atherton Causeway",
+        "source_fandom": "jurassicpark.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -19493,6 +19661,54 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "amber-clave-night-market",
+      "jurassic-park",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "amber-mines",
+      "jurassic-park",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "animal-kingdom",
+      "jurassic-park",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "antarctica",
+      "jurassic-park",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "argentina",
+      "jurassic-park",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "atherton-causeway",
+      "jurassic-park",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -19501,18 +19717,18 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (jurassicpark.fandom.com) for identification and commentary only. Character / franchise art © Universal / Amblin / Michael Crichton estate (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T18:07:02.671Z",
+  "generated_at": "2026-09-13T03:59:23.373Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://jurassicpark.fandom.com/wiki/",
     "host": "jurassicpark.fandom.com"
   },
   "stats": {
-    "fandom_titles": 45,
-    "fandom_enriched_core": 8,
-    "fandom_created": 33,
-    "fandom_images": 37,
-    "fandom_intros": 45,
+    "fandom_titles": 1,
+    "fandom_enriched_core": 0,
+    "fandom_created": 1,
+    "fandom_images": 1,
+    "fandom_intros": 1,
     "description_ensure_at": "2026-09-12T11:53:45.103Z",
     "description_ensure_count": 2
   }

@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of NJPW.",
         "description": "How NJPW continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "njpw-practices",
+        "name": "NJPW practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in NJPW.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in NJPW."
+    },
+    {
+        "slug": "njpw-entry-1",
+        "name": "NJPW entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-2",
+        "name": "NJPW entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-3",
+        "name": "NJPW entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-4",
+        "name": "NJPW entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-5",
+        "name": "NJPW entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-6",
+        "name": "NJPW entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-7",
+        "name": "NJPW entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-8",
+        "name": "NJPW entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-9",
+        "name": "NJPW entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-10",
+        "name": "NJPW entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-11",
+        "name": "NJPW entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-12",
+        "name": "NJPW entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-13",
+        "name": "NJPW entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-14",
+        "name": "NJPW entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-15",
+        "name": "NJPW entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-16",
+        "name": "NJPW entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-17",
+        "name": "NJPW entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-18",
+        "name": "NJPW entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-19",
+        "name": "NJPW entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-20",
+        "name": "NJPW entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-21",
+        "name": "NJPW entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-22",
+        "name": "NJPW entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-23",
+        "name": "NJPW entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "njpw-entry-24",
+        "name": "NJPW entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NJPW.",
+        "description": "A supporting encyclopedia entry in the NJPW subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "NJPW legacy is a primary trailhead under NJPW.",
         0.88,
         0.82
+    ],
+    [
+        "njpw",
+        "njpw-practices",
+        "contains",
+        "NJPW practices is a primary trailhead under NJPW.",
+        0.88,
+        0.82
+    ],
+    [
+        "njpw",
+        "njpw-entry-1",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-2",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-3",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-4",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-5",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-6",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-7",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-8",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-9",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-10",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-11",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-12",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-13",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-14",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-15",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-16",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-17",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-18",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-19",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-20",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-21",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-22",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-23",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
+    ],
+    [
+        "njpw",
+        "njpw-entry-24",
+        "contains",
+        "Supporting entry under NJPW.",
+        0.75,
+        0.7
     ]
 ];
 

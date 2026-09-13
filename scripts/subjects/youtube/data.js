@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of YouTube.",
         "description": "How YouTube continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "youtube-practices",
+        "name": "YouTube practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in YouTube.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in YouTube."
+    },
+    {
+        "slug": "youtube-entry-1",
+        "name": "YouTube entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-2",
+        "name": "YouTube entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-3",
+        "name": "YouTube entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-4",
+        "name": "YouTube entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-5",
+        "name": "YouTube entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-6",
+        "name": "YouTube entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-7",
+        "name": "YouTube entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-8",
+        "name": "YouTube entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-9",
+        "name": "YouTube entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-10",
+        "name": "YouTube entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-11",
+        "name": "YouTube entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-12",
+        "name": "YouTube entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-13",
+        "name": "YouTube entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-14",
+        "name": "YouTube entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-15",
+        "name": "YouTube entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-16",
+        "name": "YouTube entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-17",
+        "name": "YouTube entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-18",
+        "name": "YouTube entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-19",
+        "name": "YouTube entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-20",
+        "name": "YouTube entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-21",
+        "name": "YouTube entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-22",
+        "name": "YouTube entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-23",
+        "name": "YouTube entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "youtube-entry-24",
+        "name": "YouTube entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside YouTube.",
+        "description": "A supporting encyclopedia entry in the YouTube subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "YouTube legacy is a primary trailhead under YouTube.",
         0.88,
         0.82
+    ],
+    [
+        "youtube",
+        "youtube-practices",
+        "contains",
+        "YouTube practices is a primary trailhead under YouTube.",
+        0.88,
+        0.82
+    ],
+    [
+        "youtube",
+        "youtube-entry-1",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-2",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-3",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-4",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-5",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-6",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-7",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-8",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-9",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-10",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-11",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-12",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-13",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-14",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-15",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-16",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-17",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-18",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-19",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-20",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-21",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-22",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-23",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
+    ],
+    [
+        "youtube",
+        "youtube-entry-24",
+        "contains",
+        "Supporting entry under YouTube.",
+        0.75,
+        0.7
     ]
 ];
 

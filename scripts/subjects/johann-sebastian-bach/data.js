@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Johann Sebastian Bach.",
         "description": "Regions, routes, and spatial systems that situate Johann Sebastian Bach beyond single named places."
+    },
+    {
+        "slug": "johann-sebastian-bach-legacy",
+        "name": "Johann Sebastian Bach legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Johann Sebastian Bach.",
+        "description": "How Johann Sebastian Bach continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "johann-sebastian-bach-practices",
+        "name": "Johann Sebastian Bach practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Johann Sebastian Bach.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Johann Sebastian Bach."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-1",
+        "name": "Johann Sebastian Bach entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-2",
+        "name": "Johann Sebastian Bach entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-3",
+        "name": "Johann Sebastian Bach entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-4",
+        "name": "Johann Sebastian Bach entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-5",
+        "name": "Johann Sebastian Bach entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-6",
+        "name": "Johann Sebastian Bach entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-7",
+        "name": "Johann Sebastian Bach entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-8",
+        "name": "Johann Sebastian Bach entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-9",
+        "name": "Johann Sebastian Bach entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-10",
+        "name": "Johann Sebastian Bach entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-11",
+        "name": "Johann Sebastian Bach entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-12",
+        "name": "Johann Sebastian Bach entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-13",
+        "name": "Johann Sebastian Bach entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-14",
+        "name": "Johann Sebastian Bach entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-15",
+        "name": "Johann Sebastian Bach entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-16",
+        "name": "Johann Sebastian Bach entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-17",
+        "name": "Johann Sebastian Bach entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-18",
+        "name": "Johann Sebastian Bach entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-19",
+        "name": "Johann Sebastian Bach entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-20",
+        "name": "Johann Sebastian Bach entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-21",
+        "name": "Johann Sebastian Bach entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-22",
+        "name": "Johann Sebastian Bach entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "johann-sebastian-bach-entry-23",
+        "name": "Johann Sebastian Bach entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Johann Sebastian Bach.",
+        "description": "A supporting encyclopedia entry in the Johann Sebastian Bach subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Johann Sebastian Bach geography is a primary trailhead under Johann Sebastian Bach.",
         0.88,
         0.82
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-legacy",
+        "contains",
+        "Johann Sebastian Bach legacy is a primary trailhead under Johann Sebastian Bach.",
+        0.88,
+        0.82
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-practices",
+        "contains",
+        "Johann Sebastian Bach practices is a primary trailhead under Johann Sebastian Bach.",
+        0.88,
+        0.82
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-1",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-2",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-3",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-4",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-5",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-6",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-7",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-8",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-9",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-10",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-11",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-12",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-13",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-14",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-15",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-16",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-17",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-18",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-19",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-20",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-21",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-22",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
+    ],
+    [
+        "johann-sebastian-bach",
+        "johann-sebastian-bach-entry-23",
+        "contains",
+        "Supporting entry under Johann Sebastian Bach.",
+        0.75,
+        0.7
     ]
 ];
 

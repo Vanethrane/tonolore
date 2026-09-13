@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:37:54.795Z",
+  "generated_at": "2026-09-13T03:24:13.674Z",
   "source": {
     "wiki": "https://onepiece.fandom.com/wiki/One_Piece_Wiki",
     "host": "onepiece.fandom.com",
@@ -1016,7 +1016,12 @@
         "fandom_url": "https://onepiece.fandom.com/wiki/Pluton",
         "fandom_title": "Pluton",
         "source": "onepiece.fandom",
-        "fandom_preferred_image": true
+        "fandom_preferred_image": true,
+        "source_fandom": "onepiece.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
       },
       "short_description": "Pluton is one of the three Ancient Weapons, alongside Poseidon and Uranus. Pluton is a highly advanced warship capable of mass destruction, labeled the . It was constructed long ago in the city of Water 7 in the Grand…"
     },
@@ -100574,11 +100579,11 @@
   ],
   "deduped": true,
   "stats": {
-    "fandom_titles": 45,
-    "fandom_enriched_core": 44,
+    "fandom_titles": 1,
+    "fandom_enriched_core": 1,
     "fandom_created": 0,
-    "fandom_images": 45,
-    "fandom_intros": 45,
+    "fandom_images": 1,
+    "fandom_intros": 1,
     "image_backfill_at": "2026-09-11T16:16:09.531Z",
     "image_backfill_count": 87,
     "description_backfill_at": "2026-09-11T22:10:31.464Z",

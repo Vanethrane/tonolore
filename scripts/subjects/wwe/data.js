@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of WWE.",
         "description": "How WWE continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "wwe-practices",
+        "name": "WWE practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in WWE.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in WWE."
+    },
+    {
+        "slug": "wwe-entry-1",
+        "name": "WWE entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-2",
+        "name": "WWE entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-3",
+        "name": "WWE entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-4",
+        "name": "WWE entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-5",
+        "name": "WWE entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-6",
+        "name": "WWE entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-7",
+        "name": "WWE entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-8",
+        "name": "WWE entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-9",
+        "name": "WWE entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-10",
+        "name": "WWE entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-11",
+        "name": "WWE entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-12",
+        "name": "WWE entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-13",
+        "name": "WWE entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-14",
+        "name": "WWE entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-15",
+        "name": "WWE entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-16",
+        "name": "WWE entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-17",
+        "name": "WWE entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-18",
+        "name": "WWE entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-19",
+        "name": "WWE entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-20",
+        "name": "WWE entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-21",
+        "name": "WWE entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-22",
+        "name": "WWE entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-23",
+        "name": "WWE entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wwe-entry-24",
+        "name": "WWE entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WWE.",
+        "description": "A supporting encyclopedia entry in the WWE subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "WWE legacy is a primary trailhead under WWE.",
         0.88,
         0.82
+    ],
+    [
+        "wwe",
+        "wwe-practices",
+        "contains",
+        "WWE practices is a primary trailhead under WWE.",
+        0.88,
+        0.82
+    ],
+    [
+        "wwe",
+        "wwe-entry-1",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-2",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-3",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-4",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-5",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-6",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-7",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-8",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-9",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-10",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-11",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-12",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-13",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-14",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-15",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-16",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-17",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-18",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-19",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-20",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-21",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-22",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-23",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
+    ],
+    [
+        "wwe",
+        "wwe-entry-24",
+        "contains",
+        "Supporting entry under WWE.",
+        0.75,
+        0.7
     ]
 ];
 

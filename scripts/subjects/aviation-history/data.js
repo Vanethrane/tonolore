@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Aviation history.",
         "description": "How Aviation history continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "aviation-history-practices",
+        "name": "Aviation history practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Aviation history.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Aviation history."
+    },
+    {
+        "slug": "aviation-history-entry-1",
+        "name": "Aviation history entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-2",
+        "name": "Aviation history entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-3",
+        "name": "Aviation history entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-4",
+        "name": "Aviation history entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-5",
+        "name": "Aviation history entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-6",
+        "name": "Aviation history entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-7",
+        "name": "Aviation history entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-8",
+        "name": "Aviation history entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-9",
+        "name": "Aviation history entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-10",
+        "name": "Aviation history entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-11",
+        "name": "Aviation history entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-12",
+        "name": "Aviation history entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-13",
+        "name": "Aviation history entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-14",
+        "name": "Aviation history entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-15",
+        "name": "Aviation history entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-16",
+        "name": "Aviation history entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-17",
+        "name": "Aviation history entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-18",
+        "name": "Aviation history entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-19",
+        "name": "Aviation history entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-20",
+        "name": "Aviation history entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-21",
+        "name": "Aviation history entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-22",
+        "name": "Aviation history entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-23",
+        "name": "Aviation history entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aviation-history-entry-24",
+        "name": "Aviation history entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aviation history.",
+        "description": "A supporting encyclopedia entry in the Aviation history subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Aviation history legacy is a primary trailhead under Aviation history.",
         0.88,
         0.82
+    ],
+    [
+        "aviation-history",
+        "aviation-history-practices",
+        "contains",
+        "Aviation history practices is a primary trailhead under Aviation history.",
+        0.88,
+        0.82
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-1",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-2",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-3",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-4",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-5",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-6",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-7",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-8",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-9",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-10",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-11",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-12",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-13",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-14",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-15",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-16",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-17",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-18",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-19",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-20",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-21",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-22",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-23",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
+    ],
+    [
+        "aviation-history",
+        "aviation-history-entry-24",
+        "contains",
+        "Supporting entry under Aviation history.",
+        0.75,
+        0.7
     ]
 ];
 

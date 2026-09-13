@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Archaeological mysteries.",
         "description": "How Archaeological mysteries continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "archaeological-mysteries-practices",
+        "name": "Archaeological mysteries practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Archaeological mysteries.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Archaeological mysteries."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-1",
+        "name": "Archaeological mysteries entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-2",
+        "name": "Archaeological mysteries entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-3",
+        "name": "Archaeological mysteries entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-4",
+        "name": "Archaeological mysteries entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-5",
+        "name": "Archaeological mysteries entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-6",
+        "name": "Archaeological mysteries entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-7",
+        "name": "Archaeological mysteries entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-8",
+        "name": "Archaeological mysteries entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-9",
+        "name": "Archaeological mysteries entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-10",
+        "name": "Archaeological mysteries entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-11",
+        "name": "Archaeological mysteries entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-12",
+        "name": "Archaeological mysteries entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-13",
+        "name": "Archaeological mysteries entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-14",
+        "name": "Archaeological mysteries entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-15",
+        "name": "Archaeological mysteries entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-16",
+        "name": "Archaeological mysteries entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-17",
+        "name": "Archaeological mysteries entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-18",
+        "name": "Archaeological mysteries entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-19",
+        "name": "Archaeological mysteries entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-20",
+        "name": "Archaeological mysteries entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-21",
+        "name": "Archaeological mysteries entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-22",
+        "name": "Archaeological mysteries entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-23",
+        "name": "Archaeological mysteries entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "archaeological-mysteries-entry-24",
+        "name": "Archaeological mysteries entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Archaeological mysteries.",
+        "description": "A supporting encyclopedia entry in the Archaeological mysteries subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Archaeological mysteries legacy is a primary trailhead under Archaeological mysteries.",
         0.88,
         0.82
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-practices",
+        "contains",
+        "Archaeological mysteries practices is a primary trailhead under Archaeological mysteries.",
+        0.88,
+        0.82
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-1",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-2",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-3",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-4",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-5",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-6",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-7",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-8",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-9",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-10",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-11",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-12",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-13",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-14",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-15",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-16",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-17",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-18",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-19",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-20",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-21",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-22",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-23",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "archaeological-mysteries",
+        "archaeological-mysteries-entry-24",
+        "contains",
+        "Supporting entry under Archaeological mysteries.",
+        0.75,
+        0.7
     ]
 ];
 

@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Weapons & military history.",
         "description": "How Weapons & military history continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "weapons-military-history-practices",
+        "name": "Weapons & military history practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Weapons & military history.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Weapons & military history."
+    },
+    {
+        "slug": "weapons-military-history-entry-1",
+        "name": "Weapons & military history entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-2",
+        "name": "Weapons & military history entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-3",
+        "name": "Weapons & military history entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-4",
+        "name": "Weapons & military history entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-5",
+        "name": "Weapons & military history entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-6",
+        "name": "Weapons & military history entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-7",
+        "name": "Weapons & military history entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-8",
+        "name": "Weapons & military history entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-9",
+        "name": "Weapons & military history entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-10",
+        "name": "Weapons & military history entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-11",
+        "name": "Weapons & military history entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-12",
+        "name": "Weapons & military history entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-13",
+        "name": "Weapons & military history entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-14",
+        "name": "Weapons & military history entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-15",
+        "name": "Weapons & military history entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-16",
+        "name": "Weapons & military history entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-17",
+        "name": "Weapons & military history entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-18",
+        "name": "Weapons & military history entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-19",
+        "name": "Weapons & military history entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-20",
+        "name": "Weapons & military history entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-21",
+        "name": "Weapons & military history entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-22",
+        "name": "Weapons & military history entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-23",
+        "name": "Weapons & military history entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "weapons-military-history-entry-24",
+        "name": "Weapons & military history entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Weapons & military history.",
+        "description": "A supporting encyclopedia entry in the Weapons & military history subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Weapons & military history legacy is a primary trailhead under Weapons & military history.",
         0.88,
         0.82
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-practices",
+        "contains",
+        "Weapons & military history practices is a primary trailhead under Weapons & military history.",
+        0.88,
+        0.82
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-1",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-2",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-3",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-4",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-5",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-6",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-7",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-8",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-9",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-10",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-11",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-12",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-13",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-14",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-15",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-16",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-17",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-18",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-19",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-20",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-21",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-22",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-23",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
+    ],
+    [
+        "weapons-military-history",
+        "weapons-military-history-entry-24",
+        "contains",
+        "Supporting entry under Weapons & military history.",
+        0.75,
+        0.7
     ]
 ];
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T04:31:43.948Z",
+  "generated_at": "2026-09-13T04:05:23.298Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -11910,7 +11910,7 @@
       "slug": "antalin",
       "name": "Antalin",
       "type": "place",
-      "description": "Antalin was a planet which served as a decoy for Skaro.\n\nDuring the 2150s Dalek invasion of Earth, the Daleks discovered records which showed that Skaro had been destroyed during the Imperial-Renegade Dalek Civil War. The Seventh Doctor apparently had destroyed Skaro using the Hand of Omega. (PROSE: War of the Daleks)\n\nAfter an unsuccessful attempt to change history, the Daleks realised that history could not be altered and Skaro would have to appear to be destroyed.\n\nTo fool Davros and the Doctor into thinking Skaro had been destroyed, the Daleks terraformed Antalin to resemble Skaro. Davros was moved from Skaro to Antalin and placed inside a replica of the Kaled bunker. The Daleks also created a race of robots called the Movellans and manufactured a war with them, before reviving Davros. It was Antalin which served as the location for the Doctor and Romana's encounter with the Daleks and which was destroyed by the Hand of Omega. (PROSE: War of the Daleks)",
+      "description": "Antalin's ocean world, more often referred to as simply Antalin, was a planet covered entirely in water, with no islands, continents, or any land masses. There seemed to be no native civilisations, but marine life included fish.\n\nThe planet was discovered and hastily surveyed 50 years prior to c.4000, located in human space but close to the Daleks' border. At some point, most likely c.4000, the Daleks built a drilling rig on Antalin to gain new supplies for their war efforts, but the rig was destroyed by Space Security Service agent Dryn Faber. (PROSE: War of the Daleks)\n\nCategory:Planets Category:Aquatic planets Category:Uninhabited planets",
       "short_description": "Antalin was a planet which served as a decoy for Skaro.",
       "evidence": "fiction",
       "parentSlug": "doctor-who",
@@ -11920,8 +11920,8 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://tardis.fandom.com/wiki/Antalin",
-        "fandom_title": "Antalin",
+        "fandom_url": "https://tardis.fandom.com/wiki/Antalin_(ocean_world)",
+        "fandom_title": "Antalin (ocean world)",
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
@@ -25401,11 +25401,11 @@
     "images_attached": 0,
     "core_enrichments": 2,
     "preserved_fandom": 0,
-    "fandom_titles": 15,
+    "fandom_titles": 1,
     "fandom_enriched_core": 0,
     "fandom_created": 0,
-    "fandom_images": 3,
-    "fandom_intros": 15,
+    "fandom_images": 0,
+    "fandom_intros": 1,
     "image_backfill_at": "2026-09-11T16:30:04.754Z",
     "image_backfill_count": 31
   }

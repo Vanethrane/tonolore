@@ -12,7 +12,7 @@ const { SUBJECT_IDS, loadSubject } = require("../subjects/registry");
 
 const ROOT = path.join(__dirname, "..", "..");
 const SUBJECTS_DIR = path.join(ROOT, "scripts", "subjects");
-const MIN_ENTITIES = 15;
+const MIN_ENTITIES = 40;
 const dryRun = process.argv.includes("--dry-run");
 
 const HUB_SPECS = [

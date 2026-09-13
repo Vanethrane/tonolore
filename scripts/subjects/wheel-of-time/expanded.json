@@ -2,16 +2,15 @@
   "enrichments": [
     {
       "slug": "aes-sedai",
-      "description": "The Aes Sedai (Old Tongue: Servant of All) are women who can channel the One Power, and have been trained in the White Tower of Tar Valon. They have passed the tests for earning both the ring and the shawl and are bound by the Three Oaths. They are the only organization of female channelers in the Westlands (and until recently, they believed themselves to be the only legitimate channeling organization in the known world), giving them a vast amount of power and influence over the nations of the world, providing advisors to kings and queens.\n\nEach Aes Sedai belongs to one of the seven Ajahs, with the exception of their leader, the Amyrlin Seat, who is \"of all Ajahs and none.\"\n\nIn the Old Tongue, Aes Sedai (pronounced: /ˈaɪz sɛˈdaɪ/) means \"servants of all,\" and the Aes Sedai of the Age of Legends lived up to this definition. They aided mankind as scientists, healers, and philosophers. Women used saidar and men saidin, although it is believed that channelers in the Age of Legends were much stronger, or at least more knowledgeable, in the Power than their modern equivalents; it is believed that they could fly, and things that would seem miraculous today were supposedly commonplace to them. Some of their lost Talents, such as Traveling and Dreaming, have only just been rediscovered. One thing is clear, however; the greatest works were wrought by male and female channelers working together. Additionally, due to the social structure of the Age of Legends being based on how well one served society, the Aes Sedai as an organization were held in extremely high regard and were very well respected due to the fact that, with the advantage of being able to channel, the Aes Sedai contributed extraordinarily to the betterment of humankind.\n\nIt was an Aes Sedai research team at the Collam Daan that ripped open the Dark One's prison. The researchers, headed by Mierin Eronaile, thought they had found a power that both men and women could wield. They were not entirely mistaken (see the True Power), but it allowed the Dark One to manipulate the darkest desires of those that lived in the Age of Legends. What followed was a general collapse of civilization over the course of 100–110 years, concluding in the War of Power. It is said that, during this time, almost half of all Aes Sedai went over to the Shadow.",
+      "description": "Aes Sedai, in the Old Tongue, means \"servants of all,\" and the Aes Sedai of the Age of Legends lived up to this definition. They aided mankind as scientists, healers and philosophers. Women used saidar and men saidin, as today, although it is believed that channelers in the Age of Legends were much stronger, or at least more knowledgeable in the Power than their modern equivalents; it is believed that they could fly, and things that would seem miraculous today were supposedly commonplace to them. Some of their lost Talents, such as Traveling and Dreaming, have only just been rediscovered. One thing is clear, however; the greatest works were wrought by male and female channelers working together.\n\nIn the Age of Legends, unlike today, being Aes Sedai did not define who you were; you could follow other courses of occupation, and often what you were did not elevate you much, though there was prestige in the position. The exception to this was in the field of Healing, where even a great doctor was outmatched by a skilled Restorer - a period term for a channeler skilled in healing. Of course, the making of ter'angreal was strictly limited to the Aes Sedai. Note, however, that things that allowed non-channelers to use ter'angreal, the \"standing weaves\", have long since dissipated, so use of the Portal Stones by normal individuals may have occurred.\n\nAlso, the principle of ajah (the definition of which has greatly changed over time) was also important. During the Age of Legends, the organization of the Aes Sedai were described as a sea of ajah, constantly changing. Ajah, without the capital, meant \"a temporary group, brought together for some common purpose\", according to a recently found ancient Old Tongue dictionary. This is contrary to the current meaning which simply means \"a sisterhood of Aes Sedai\". Despite the claims of some Aes Sedai that their organization has been constant since the Age of Legends, it is apparent that it was greatly changed by the Breaking. However, the seven colors of the Ajahs seem to have some importance, as they were seen around the Portal Stones in at least one other reality, although that paving could have been added after the Breaking.\n\nThe Aes Sedai were governed by the Hall of Servants, headed by the First among Servants, and located in Paaran Disen, the capital of the time. The First among Servants could call Aes Sedai from their normal jobs to work in circles when the need arose, as became more and more common during the Collapse.",
       "metadata": {
-        "fandom_url": "https://wot.fandom.com/wiki/Aes_Sedai",
-        "fandom_title": "Aes Sedai",
+        "fandom_url": "https://wot.fandom.com/wiki/Aes_Sedai_(Age_of_Legends)",
+        "fandom_title": "Aes Sedai (Age of Legends)",
         "source_fandom": "wot.fandom.com",
         "sources": [
           "wikipedia",
           "fandom"
-        ],
-        "fandom_preferred_image": true
+        ]
       },
       "image_url": "https://static.wikia.nocookie.net/wot/images/9/9c/Aes_Sedai.jpg/revision/latest/scale-to-width-down/360?cb=20100903163907",
       "image_source": "https://wot.fandom.com/wiki/Aes_Sedai",
@@ -261,7 +260,17 @@
       "image_usage": "fair_use_identification",
       "image_alt": "Identification thumbnail for Aiel",
       "description": "The Aiel (pronounced: eye-EEL) are a race of people who live between the \"wetlanders\" in the Westlands and the Sharans in the east, in a desert which the Aiel call the Three-fold Land and which everyone else calls the Aiel Waste. They have earned a reputation as exceptionally skilled warriors; little else is known about them in the wider world. Physically, Aiel can be recognized through their unusually tall height, characteristic pale eyes and light-colored hair, as well as their distinctive clothing.\n\nRand Al’Thor learns the history of the Aiel by passing through a glass columns ter'angreal in Rhuidean. Modern Aiel are descended from the Da'shain Aiel during the Age of Legends, who were sworn never to do violence (a philosophy known as the Way of the Leaf). Da'shain Aiel served the Aes Sedai (male and female) both in the Age of Legends and during the War of Power in which the leader of the Forces of the Light was Lews Therin Telamon, the Dragon. For that reason, these Aiel are called by the name \"People of the Dragon\".\n\nAs the world was being destroyed by male Aes Sedai (who were going mad following the strike at Shayol Ghul by the Dragon), the remaining female Aes Sedai in Paaran Disen bound the Da'shain Aiel to an oath to protect angreal, sa'angreal, ter'angreal, and various other items from the madness of the male Aes Sedai. The Da'shain Aiel are commanded to \"keep moving, always moving until they find a place of safety\", where none can harm them.\n\nSome time during the Breaking of the World, however, the Da'shain Aiel began disintegrating from one people into three.",
-      "short_description": "The Aiel (pronounced: eye-EEL) are a race of people who live between the \"wetlanders\" in the Westlands and the Sharans in the east, in a desert which the Aiel call the Three-fold Land and which everyone else calls the…"
+      "short_description": "The Aiel (pronounced: eye-EEL) are a race of people who live between the \"wetlanders\" in the Westlands and the Sharans in the east, in a desert which the Aiel call the Three-fold Land and which everyone else calls the…",
+      "metadata": {
+        "fandom_url": "https://wot.fandom.com/wiki/Aiel",
+        "fandom_title": "Aiel",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      }
     },
     {
       "slug": "aiel-waste",
@@ -635,7 +644,17 @@
       "image_usage": "fair_use_identification",
       "image_alt": "Identification thumbnail for Seanchan",
       "description": "Seanchan (pronounced SHAWN-chan) is an empire located on the continent of the same name. It was founded after the Trolloc Wars, and began an invasion of the Westlands in 998 NE to reclaim the continent in what the Seanchan call the Corenne (\"the Return\" in the Old Tongue). This invasion was stopped when Empress Fortuona signs a treaty with the Dragon Reborn and agrees to fight alongside the forces of Light in The Last Battle.\n\nSeanchan is a land lying over 3,000 leagues (or 12,000 WL miles) west of the Westlands, across the Aryth Ocean. Longer north-to-south than east-to-west, it is divided into two main landmasses separated by a wide dividing channel, and further split by many fissures and fjords. The Morenal Ocean separates Seanchan from Shara to the west.\n\nIn FY 992, a thousand years after the Trolloc Wars, after unifying the Westlands, Artur Hawkwing sent a vast fleet led by his son, Luthair Paendrag Mondwin, across the Aryth Ocean. Luthair's fleet never returned and was presumed lost. In actuality, the fleet had successfully made it across the ocean to arrive in Seanchan.\n\nBy pitting the native warring nations and Aes Sedai against each other, Luthair and his descendants eventually subjugated and unified the continent into the Seanchan Empire, a process called The Conquest (sometimes referred to by the Seanchan people as the Consolidation). The Conquest is revealed to have taken nearly eight hundred years to complete, as Seanchan General Kennar Miraj says he missed the Conquest by only two hundred years and had to stop numerous rebellions.",
-      "short_description": "Seanchan (pronounced SHAWN-chan) is an empire located on the continent of the same name. It was founded after the Trolloc Wars, and began an invasion of the Westlands in 998 NE to reclaim the continent in what the…"
+      "short_description": "Seanchan (pronounced SHAWN-chan) is an empire located on the continent of the same name. It was founded after the Trolloc Wars, and began an invasion of the Westlands in 998 NE to reclaim the continent in what the…",
+      "metadata": {
+        "fandom_url": "https://wot.fandom.com/wiki/Seanchan",
+        "fandom_title": "Seanchan",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      }
     },
     {
       "slug": "shadar-logoth",
@@ -921,7 +940,16 @@
       "image_usage": null,
       "image_alt": null,
       "description": "Channeling is the act of using the One Power, which is a fundamental force in the Wheel of Time universe. It emanates from the True Source, which consists of two complementary halves: saidin (the male half) and saidar (the female half). These halves work together and against each other, providing the driving force that turns the Wheel of Time (object) itself.\n\nNot everyone has the ability to channel the One Power. Most people have no capacity for it, while some can be taught to varying degrees. However, a few individuals are born with \"the spark,\" an innate inclination that leads them to touch the Source involuntarily. These untrained channelers, often referred to as wilders, may die without gaining control over their abilities due to a mysterious sickness. Wilders sometimes unknowingly use the One Power to influence events when they want something badly enough.",
-      "short_description": "Channeling is the act of using the One Power, which is a fundamental force in the Wheel of Time universe. It emanates from the True Source, which consists of two complementary halves: saidin (the male half) and saidar…"
+      "short_description": "Channeling is the act of using the One Power, which is a fundamental force in the Wheel of Time universe. It emanates from the True Source, which consists of two complementary halves: saidin (the male half) and saidar…",
+      "metadata": {
+        "fandom_url": "https://wot.fandom.com/wiki/Channeling",
+        "fandom_title": "Channeling",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
     },
     {
       "slug": "characters-crossing-the-forsaken",
@@ -2983,6 +3011,11 @@
       "slug": "zerah-dacan",
       "description": "Zerah Dacan is a Mayener Aes Sedai of the White Ajah., Zerah Dacan}}\n\nZerah is 5'5½\" tall, and slim. She has black shoulder-length hair and large blue eyes. She is cool and self-possessed and moves gracefully.\n\nZerah is of high average strength in the One Power, with a strength level of .\n\nShe matches the stated minimum strength needed to be able to make a gateway of useful size. Barring some below average ability in the Talent, she should be able to Travel.",
       "short_description": "Zerah Dacan is a Mayener Aes Sedai of the White Ajah., Zerah Dacan}}"
+    },
+    {
+      "slug": "wheel-of-time-amazon",
+      "description": "Rick Selvage Larry Mondragon Ted Field Mike Weber Darren Lemke\n\nAmanda Kate Shuman Paul Clarkson Michael Clarkson Celine Song Justine Juel Gillmer\n\nA live-action adaptation of the novels was originally planned as early as 2000, but was not formally announced until 28 April 2016. Production began in Fall 2019, and had to pause multiple times due to COVID-19, and wrapped in May 2021. Ahead of its premiere, it was renewed for a second season in May 2021.\n\nInitially the series focuses on Moiraine as its protagonist as she searches for the Dragon Reborn.",
+      "short_description": "Rick Selvage Larry Mondragon Ted Field Mike Weber Darren Lemke"
     }
   ],
   "entities": [
@@ -13849,6 +13882,399 @@
         ]
       },
       "short_description": "Seonid Traighan is an Aes Sedai of the Green Ajah."
+    },
+    {
+      "slug": "affinity",
+      "name": "Affinity",
+      "type": "concept",
+      "description": "Like Talents, Affinities is a collective name for certain general abilities belonging to those who can channel. Unlike most weaves, Affinities are innate and cannot be learned. An affinity refers to a person's strength with a given element of the One Power. These Five Powers are Air, Water, Fire, Earth, and Spirit.\n\nMales weaving saidin tend to have affinities for Fire, Earth or Spirit; whereas females weaving saidar tend to have affinities in Water, Air and Spirit. Therefore, Earth and Fire are typically perceived as masculine, and Water and Air as feminine, with Spirit perceived as a gender neutral power.\n\nThis does not, however, mean that a channeler is limited to these gender clasifications. For instance, while captive among the Seanchan, Egwene al'Vere was noted to have an affinity for finding metals, which is rare among damane. This shows that Egwene has an affinity for Earth, she demonstrated again her affinity later in her rediscovery of making cuendillar and to heal the pattern damaged by Balefire with the crystals of the Flame of Tar Valon. The Asha'man Naeff instead showed an affinity for Air. Category:One Power",
+      "short_description": "Like Talents, Affinities is a collective name for certain general abilities belonging to those who can channel. Unlike most weaves, Affinities are innate and cannot be learned. An affinity refers to a person's strength…",
+      "evidence": "fiction",
+      "parentSlug": "one-power",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://wot.fandom.com/wiki/Affinity",
+        "fandom_title": "Affinity",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stories",
+      "name": "Stories",
+      "type": "work",
+      "description": "Stories and legends are often told by gleemen or in books.\n\nThe following books may contain stories, though the precise subject or even genre of many are unknown. Books that almost certainly do not contain stories, such as Annals of the Final Night and Monuments Past are intentionally omitted from this list.",
+      "short_description": "Stories and legends are often told by gleemen or in books.",
+      "evidence": "fiction",
+      "parentSlug": "wheel-of-time",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "work",
+        "fandom_url": "https://wot.fandom.com/wiki/Stories",
+        "fandom_title": "Stories",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowspawn",
+      "name": "Shadowspawn",
+      "type": "person",
+      "description": "Shadowspawn (occasionally \"Shadowwrought\") is a generic term for creatures of the Dark One. Different varieties often have very little in common with each other except that nearly all of them will instantly die if they attempt to pass through a gateway. Most are a form of artificially created life which were known as constructs in the Age of Legends, and virtually all were created by the Forsaken known as Aginor. Others were created later by Dreadlords.\n\nDuring the War of Power, Aginor first created the Shadowspawn constructs. Some were created using human and animal stock, the byproducts of which often became other Shadowspawn themselves. This genetic engineering was carried out with the One Power and the True Power, used to give many Shadowspawn special attributes and to infuse them with Shadow-taint so that they are inherently evil. It is estimated that 50 million people died in order to fuel the experiments that Aginor undertook to create the Trollocs alone. How many people died to fuel his other experiments is not known.\n\nthumb|300x300px|right|A Trolloc Warrior by Ariel Burgess, Official Wheel of Time Artist\n\nBy far the most abundant variety of Shadowspawn, Trollocs have the body of a man and the head and feet of an animal such as a bear, bird, wolf, or goat. Trollocs are quite large, generally around eight feet tall. They are unable to swim, and will not even wade through waist-deep water.",
+      "short_description": "Shadowspawn (occasionally \"Shadowwrought\") is a generic term for creatures of the Dark One. Different varieties often have very little in common with each other except that nearly all of them will instantly die if they…",
+      "evidence": "fiction",
+      "parentSlug": "dark-one",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/wot/images/b/b7/Shadowspawn.jpg/revision/latest/scale-to-width-down/360?cb=20100322190805",
+      "image_source": "https://wot.fandom.com/wiki/Shadowspawn",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Robert Jordan estate / Tor Books / respective rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Shadowspawn",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://wot.fandom.com/wiki/Shadowspawn",
+        "fandom_title": "Shadowspawn",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "block",
+      "name": "Block",
+      "type": "concept",
+      "description": "Blocks are mental barriers that stop a channeler's access to the One Power. Mazrim Taim calls them \"bars.\"\n\nWilders often present the challenge of a block, particularly where channeling carries a cultural stigma or fear. It is a coping mechanism he or she has unconsciously developed to avoid the reality of his or her ability to channel. In addition to protecting the wilder from the mental anguish related to channeling, a block may be a physical protection against the sickness and ultimate death which three in four wilders suffer.\n\nBlocks make it so a channeler can't channel at will unless certain circumstances are met. Those circumstances are different for each person who develops a block. Early on, before the channeler knows he or she is using the One Power, the occurrences may seem like miracles or simply unexplained phenomenon. They may seem to happen when the unwitting channeler wants something desperately or is in a specific emotional state, and only then. Upon learning the true nature of his or her abilities, the block persists—still those circumstances must be met. Realizing the full potential of a blocked channeler is severely hampered.\n\nBlocks can be removed, though not easily. Just as blocks are specific to an individual, so is the method to break the person's block. Sometimes an intense experience can shock a person into channeling where he or she was formerly blocked, or perhaps a person may be tricked into thinking those \"necessary\" circumstances are met. However broken, once a block has been bypassed it is gone for good and the Source is forever easily accessible.",
+      "short_description": "Blocks are mental barriers that stop a channeler's access to the One Power. Mazrim Taim calls them \"bars.\"",
+      "evidence": "fiction",
+      "parentSlug": "one-power",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/wot/images/1/15/Nynaeve_al%27Meara.jpeg/revision/latest/scale-to-width-down/360?cb=20100411123450",
+      "image_source": "https://wot.fandom.com/wiki/Block",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Robert Jordan estate / Tor Books / respective rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Block",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://wot.fandom.com/wiki/Block",
+        "fandom_title": "Block",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aleth-nin-taerin-alta-camora",
+      "name": "Aleth nin Taerin alta Camora",
+      "type": "work",
+      "description": "Aleth nin Taerin alta Camora was most probably a person who lived in the Fourth Age of the Cycle of Ages and once translated the book The Breaking of the World whose original author is unknown.\n\nThe only fragment known is this small paragraph about the Dragon.\n\nAleth nin Taerin alta Camora could be the original title of the book, meaning \"The Breaking of the World,\" but then it is either not in the Old Tongue, – none of the words can be found in the Old Tongue dictionary – or the dictionary simply does not contain these words. The word for \"world\" translates to \"rhiod\" , but there might be a synonym used instead.\n\nThe name bears some stylistic resemblance to Sea Folk naming conventions. For example, Nesta din Reas Two Moons.",
+      "short_description": "Aleth nin Taerin alta Camora was most probably a person who lived in the Fourth Age of the Cycle of Ages and once translated the book The Breaking of the World whose original author is unknown.",
+      "evidence": "fiction",
+      "parentSlug": "wheel-of-time",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "work",
+        "fandom_url": "https://wot.fandom.com/wiki/Aleth_nin_Taerin_alta_Camora",
+        "fandom_title": "Aleth nin Taerin alta Camora",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "darkhound",
+      "name": "Darkhound",
+      "type": "person",
+      "description": "A darkhound is a \"species\" of Shadowspawn.\n\nDarkhounds look like very large dogs or wolves and are about the size of a small horse, weighing from 250 - 300 pounds.\n\nThey are used by the Shadow to hunt down targets. Their saliva and blood are both poisonous and corrosive, causing bruising and burns. If even a tiny amount of either touches the skin, the victim will die \"slowly and in great pain...\", and larger amounts will kill a human almost instantly. A bite from a Darkhound is almost invariably lethal. They make no mark on soft ground, but leave prints in stone, and are frequently accompanied by the smell of burned sulfur. In Rhuidean Rand wakes up to \"a faint whiff of a foul miasma creeping under the door. Not a smell at all, really; a sense of otherness, but that was how it felt. Rank, like something dead a week in stagnant water.\"\n\nDarkhounds are very difficult to kill, people with a very good aim could be able to eliminate some of normal breed with arrows, before they reach their target. Instead they are not easily killed in short range attacks. Also power-wrought weapons can effectively eliminate them. Balefire is considered one of the few things known to reliably destroy any kind of Darkhound.",
+      "short_description": "A darkhound is a \"species\" of Shadowspawn.",
+      "evidence": "fiction",
+      "parentSlug": "dark-one",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/wot/images/c/c0/Darkhound.JPG/revision/latest/scale-to-width-down/360?cb=20100411122907",
+      "image_source": "https://wot.fandom.com/wiki/Darkhound",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Robert Jordan estate / Tor Books / respective rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Darkhound",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://wot.fandom.com/wiki/Darkhound",
+        "fandom_title": "Darkhound",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bonding",
+      "name": "Bonding",
+      "type": "concept",
+      "description": "Bonding is a weave which creates an enduring psychic link between two individuals; although there are several variants, the most common is the Aes Sedai/Warder bond.\n\nMost Aes Sedai bond one Warder; Red Ajah sisters are forbidden from taking one (although some might entertain the option of a female warder), and Green Ajah sisters frequently have two or more. Some Brown Ajah sisters never bother to select a Warder unless they find it necessary to their studies; the White Ajah is also known for rarely bonding Warders. A Warder from an Aes Sedai of the Black Ajah may or may not be a Darkfriend.\n\nThe bond gives the Warder heightened abilities to go without food, water, and rest, and the ability to withstand wounds that would kill ordinary men. They also appear to gain some semblance of the ability channelers have to detect Shadowspawn. Both individuals are able to detect certain emotional and physical states about the other, and they have an unerring ability to locate the others' relative direction and vague distance from their current location.\n\nGawyn Trakand, since being bonded to Egwene al'Vere, has theorized that Warders are important to Aes Sedai for psychological protection, as well as physical. This is due to the emotions only the Warder can see behind each Aes Sedai's calm facade. Only the Warder can understand what his Aes Sedai is feeling.",
+      "short_description": "Bonding is a weave which creates an enduring psychic link between two individuals; although there are several variants, the most common is the Aes Sedai/Warder bond.",
+      "evidence": "fiction",
+      "parentSlug": "one-power",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/wot/images/d/d6/Bonding.jpg/revision/latest/scale-to-width-down/360?cb=20100327060937",
+      "image_source": "https://wot.fandom.com/wiki/Bonding",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Robert Jordan estate / Tor Books / respective rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Bonding",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://wot.fandom.com/wiki/Bonding",
+        "fandom_title": "Bonding",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alight-in-the-snow",
+      "name": "Alight in the Snow",
+      "type": "work",
+      "description": "Alight in the Snow is a book belonging to Graendal.",
+      "short_description": "Alight in the Snow is a book belonging to Graendal.",
+      "evidence": "fiction",
+      "parentSlug": "wheel-of-time",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "work",
+        "fandom_url": "https://wot.fandom.com/wiki/Alight_in_the_Snow",
+        "fandom_title": "Alight in the Snow",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "draghkar",
+      "name": "Draghkar",
+      "type": "person",
+      "description": "The Draghkar are Shadowspawn that appear as humanoids with leathery wings and are used as assassins and overseers by the Dark One and his lieutenants.\n\nleft|thumb|100px|Fleeing from a Draghkar overhead, from The Eye of the World comic The Draghkar would look a lot like ordinary men, were it not for their unnaturally large eyes, pale skin and a pair of leathery wings, though the wings are often used to hide their identity because they resemble a cloak under certain lighting conditions. Draghkar are slender and tall with very thin, frail arms and hands that are tipped with sharp talons. They have dark shoulder length hair that is often pulled back. A closer look at a Draghkar's almost white face would reveal that in addition to the soulless, inhumanly big eyes and gaunt cheeks, he possesses a misshapen mouth of blood red lips containing sharp pointed teeth., Chapter 7|bwb, 7}} The cries and screams of rage are shrill and distinct.\n\nUnlike Trollocs and Myrddraal, Draghkar have little ability to fight. However, fulfilling their role as highly specialized assassins does not require raw strength but rather stealth and agility. What they lack in force they make up for with their feared hypnotizing skill and deadly twisted \"token of affection.\"\n\nThe Draghkar will seek out its target and sing to it in a soft, crooning voice, lulling the victim into a hypnotized daze. When close enough, it appears to be kissing its victim, but is in fact sucking the very soul out of them, leaving them an empty husk. After devouring the soul, it will drain the life out of the victim as well.",
+      "short_description": "The Draghkar are Shadowspawn that appear as humanoids with leathery wings and are used as assassins and overseers by the Dark One and his lieutenants.",
+      "evidence": "fiction",
+      "parentSlug": "dark-one",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/wot/images/b/b4/Drahkar2.JPG/revision/latest/scale-to-width-down/360?cb=20180331023825",
+      "image_source": "https://wot.fandom.com/wiki/Draghkar",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Robert Jordan estate / Tor Books / respective rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Draghkar",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://wot.fandom.com/wiki/Draghkar",
+        "fandom_title": "Draghkar",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "annals-of-the-final-night",
+      "name": "Annals of the Final Night",
+      "type": "work",
+      "description": "Annals of the Final Night by Marsim of Manetheren, is a history of the War of Power. It was studied by Saerin to learn about Mesaana.",
+      "short_description": "Annals of the Final Night by Marsim of Manetheren, is a history of the War of Power. It was studied by Saerin to learn about Mesaana.",
+      "evidence": "fiction",
+      "parentSlug": "wheel-of-time",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "work",
+        "fandom_url": "https://wot.fandom.com/wiki/Annals_of_the_Final_Night",
+        "fandom_title": "Annals of the Final Night",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gholam",
+      "name": "Gholam",
+      "type": "person",
+      "description": "Gholam were made by Aginor during the War of Power to assassinate Aes Sedai. Only six were made, three male and three female, as the Forsaken were wary of an assassin designed to target channelers.\n\nGholam are immune to the One Power and most known weapons. They can detect a channeler at fifty paces and someone holding the One Power from even further. From several miles away gholam are able to feel use of the One Power and True Power as an itch akin to that experienced by the Myrddraal.\n\nGholam live on fresh blood, generally rending their victims limb from limb or tearing their throats out before feeding. Their preferred prey are channelers, as they receive a sense of euphoria when they take the life of one who can channel.\n\nWoT Rolplaying Game artist ]]They possess a degree of superhuman strength, able to easily tear a man's throat out with their bare hands. While attempting to resist one strength-to-strength, Matrim Cauthon mentally compared the contest to a child attempting to resist the strength of a grown man, and that comparison was made while the gholam was merely toying with him. Additionally, the one that Mat fought in Ebou Dar was noted by him to be even faster than a Myrddraal. Due to the fact that they lack any sort of skeletal structure, they are impossibly flexible and agile, and can squeeze through incredibly small spaces. They also survive going through a gateway better than most Shadowspawn.",
+      "short_description": "Gholam were made by Aginor during the War of Power to assassinate Aes Sedai. Only six were made, three male and three female, as the Forsaken were wary of an assassin designed to target channelers.",
+      "evidence": "fiction",
+      "parentSlug": "dark-one",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/wot/images/8/85/Trolloc-icon.svg/revision/latest/scale-to-width-down/360?cb=20171117031900",
+      "image_source": "https://wot.fandom.com/wiki/Gholam",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Robert Jordan estate / Tor Books / respective rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Gholam",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://wot.fandom.com/wiki/Gholam",
+        "fandom_title": "Gholam",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "charal-drianaan-te-calamon",
+      "name": "Charal Drianaan te Calamon",
+      "type": "work",
+      "description": "Charal Drianaan te Calamon was most probably a person who lived in one of the Fourth Ages of the Cycle of Ages and once translated the book \"The Cycle of the Dragon\", whose original author is unknown.\n\nThe only fragment known is the following small paragraph.\n\n\"And it came to pass in those days, as it had come before and would come again, that the Dark lay heavy on the land and weighed down the hearts of men, and the green things failed, and hope died. And men cried out to the Creator, saying, O Light of the Heavens, Light of the World, let the Promised One be born of the mountain, according to the prophecies, as he was in ages past and will be in ages to come. Let the Prince of the Morning sing to the land that green things will grow and the valleys give forth lambs. Let the arm of the Lord of the Dawn shelter us from the Dark, and the great sword of justice defend us. Let the Dragon ride again on the winds of time.\"\n\nCharal Drianaan te Calamon could be the original title of the book, might be having the meaning \"The Cycle of the Dragon\", but then it is either not on the Old Tongue, – none of the words can be found in the Old Tongue dictionary – , or the dictionary simply does not contain these words. The word for \"dragon\" translates to \"aman\", but there might be a synonym used instead.",
+      "short_description": "Charal Drianaan te Calamon was most probably a person who lived in one of the Fourth Ages of the Cycle of Ages and once translated the book \"The Cycle of the Dragon\", whose original author is unknown.",
+      "evidence": "fiction",
+      "parentSlug": "wheel-of-time",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "work",
+        "fandom_url": "https://wot.fandom.com/wiki/Charal_Drianaan_te_Calamon",
+        "fandom_title": "Charal Drianaan te Calamon",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "jumara-shadowspawn",
+      "name": "Jumara",
+      "type": "person",
+      "description": "Unlike other Shadowspawn, they don't seem to be marshalled by the forces of the Dark One against the forces of the Light. Demandred speculated that Aginor created them not as a means of achieving victory for the Shadow, but simply to create a maximally terrible creature. They seem uncontrollable and the usual mechanism that allows the Chosen to command Shadowspawn does not apply to jumara, as evidenced by the fact Demandred is forced to battle one to the death.\n\nThey do not feel much besides hunger and (sometimes) fear. In order to kill a Worm, the Worm must be cut to pieces. They prefer human meat over Trolloc meat.\n\nWe have no physical description of the juvenile jumara. It's possibly that the nickname \"Worms\" indicates that they do not have legs and crawl or burrow, if extremely quickly.\n\nAdult jumara are multi-pedal insectoid creatures. They are covered in spines and tentacles, particularly around their mouth, and grow to gigantic size. Direct use of the One Power against them serves only to make them stronger. They were noted by Demandred as being nearly immortal unless slain, as they could go into hibernation for millennia, waking only if prey happened to touch one of their tentacles or spines.",
+      "short_description": "Unlike other Shadowspawn, they don't seem to be marshalled by the forces of the Dark One against the forces of the Light. Demandred speculated that Aginor created them not as a means of achieving victory for the Shadow,…",
+      "evidence": "fiction",
+      "parentSlug": "dark-one",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/wot/images/6/63/Fullsizeoutput_22cf.jpeg/revision/latest/scale-to-width-down/360?cb=20191020030629",
+      "image_source": "https://wot.fandom.com/wiki/Jumara_(Shadowspawn)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Robert Jordan estate / Tor Books / respective rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Jumara (Shadowspawn)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://wot.fandom.com/wiki/Jumara_(Shadowspawn)",
+        "fandom_title": "Jumara (Shadowspawn)",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commentary-on-the-dragon",
+      "name": "Commentary on the Dragon",
+      "type": "work",
+      "description": "Commentary on the Dragon, by Sajius, is a commentary on The Karaethon Cycle. Sajius claimed that the phrase \"He shall hold a blade of light in his hands, and the three shall be one.\" referred to the unification of three nations. Min believed that interpretation is incorrect, and that the passage has something to do with the use of Callandor.\n\nDuring the Last Battle, Rand, Moiraine, and Nynaeve use Callandor to pull Moridin into their circle. Using saidin, saidar, and the True Power, Rand creates a new seal on the Dark One's Prison, thus achieving victory at Tarmon Gai'don.",
+      "short_description": "Commentary on the Dragon, by Sajius, is a commentary on The Karaethon Cycle. Sajius claimed that the phrase \"He shall hold a blade of light in his hands, and the three shall be one.\" referred to the unification of three…",
+      "evidence": "fiction",
+      "parentSlug": "wheel-of-time",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "work",
+        "fandom_url": "https://wot.fandom.com/wiki/Commentary_on_the_Dragon",
+        "fandom_title": "Commentary on the Dragon",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myrddraal",
+      "name": "Myrddraal",
+      "type": "person",
+      "description": "Myrddraal (pronounced: MUHRD-draal), often known as Fades, are Shadowspawn, muscular and serpent-quick, with lank black hair and waxy-white skin. They have no eyes, but can \"see\" with perfect clarity. Their appearance never varies; they are always male in appearance, with identical features and builds described as being like that of a tall man. They were the battle leaders of the Shadow during the imprisonment of the Forsaken, after the demise of the Dreadlords.\n\nMyrddraal are genetically Trolloc offspring, but are throwbacks to their human origin; for some reason, throwbacks to the animal side of Trollocs' genetic heritage never survive. Their names, where known, are in the Trolloc tongue. One theory holds that Myrddraal are created by whatever allows humans to channel; this may also explain why they are needed for turning a channeler to the Dark One. This theory is supported by the fact that around 5% of all Trolloc offspring are Myrddraal, roughly the same ratio as channelers amongst humans. Like all forms of Shadowspawn, they cannot channel.\n\nThey are believed to be sterile; no female specimen has ever been seen. For some reason, they are reported to lack a sense of humor by both Light and Dark. Myrddraal do not have dreams. Even though sterile, Myrddraal are inferred to be sadistic and rapacious toward women, as it is stated that women do not long remain sane in Myrddraal hands, and being given to the Myrddraal is used as a threat and punishment toward female Forsaken and Black Ajah.\n\nMyrddraal wear black armor with overlapping scales, and black cloaks which do not stir in the wind. They are able to move between, or disappear into, shadows, and mirrors only reflect a misty image of them. Graendal comments that this ability has always made the Forsaken uneasy. Aginor, the Forsaken who created the Trollocs, and thus (inadvertently) Myrddraal, theorized that they were \"slightly out of phase with time and reality,\" but was unable to prove his thesis despite extensive, often fatal, testing, and many were killed when he tried to discover how they disappear into shadows; not even they know themselves.",
+      "short_description": "Myrddraal (pronounced: MUHRD-draal), often known as Fades, are Shadowspawn, muscular and serpent-quick, with lank black hair and waxy-white skin. They have no eyes, but can \"see\" with perfect clarity. Their appearance…",
+      "evidence": "fiction",
+      "parentSlug": "dark-one",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/wot/images/4/4c/Myrddraal.png/revision/latest/scale-to-width-down/360?cb=20091219022925",
+      "image_source": "https://wot.fandom.com/wiki/Myrddraal",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Robert Jordan estate / Tor Books / respective rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Myrddraal",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://wot.fandom.com/wiki/Myrddraal",
+        "fandom_title": "Myrddraal",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -16955,6 +17381,126 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "affinity",
+      "one-power",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "stories",
+      "wheel-of-time",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "shadowspawn",
+      "dark-one",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "block",
+      "one-power",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "aleth-nin-taerin-alta-camora",
+      "wheel-of-time",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "darkhound",
+      "dark-one",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bonding",
+      "one-power",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "alight-in-the-snow",
+      "wheel-of-time",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "draghkar",
+      "dark-one",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "annals-of-the-final-night",
+      "wheel-of-time",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "gholam",
+      "dark-one",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "charal-drianaan-te-calamon",
+      "wheel-of-time",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "jumara-shadowspawn",
+      "dark-one",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "commentary-on-the-dragon",
+      "wheel-of-time",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "myrddraal",
+      "dark-one",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -16963,21 +17509,23 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (wot.fandom.com) for identification and commentary only. Character / franchise art © Robert Jordan estate / Tor Books / respective rights holders (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-11T12:01:26.192Z",
+  "generated_at": "2026-09-13T03:39:13.606Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://wot.fandom.com/wiki/",
     "host": "wot.fandom.com"
   },
   "stats": {
-    "fandom_titles": 400,
-    "fandom_enriched_core": 12,
-    "fandom_created": 98,
-    "fandom_images": 376,
-    "fandom_intros": 12,
+    "fandom_titles": 1,
+    "fandom_enriched_core": 0,
+    "fandom_created": 1,
+    "fandom_images": 1,
+    "fandom_intros": 1,
     "image_backfill_at": "2026-09-11T12:38:49.602Z",
     "image_backfill_count": 1,
     "description_backfill_at": "2026-09-11T22:22:17.940Z",
-    "description_backfill_count": 1
+    "description_backfill_count": 1,
+    "description_ensure_at": "2026-09-13T03:39:15.551Z",
+    "description_ensure_count": 1
   }
 }

@@ -17405,18 +17405,18 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (warhammerfantasy.fandom.com) for identification and commentary only. Character / franchise art © Games Workshop (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T17:17:59.933Z",
+  "generated_at": "2026-09-13T04:21:40.462Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://warhammerfantasy.fandom.com/wiki/",
     "host": "warhammerfantasy.fandom.com"
   },
   "stats": {
-    "fandom_titles": 45,
+    "fandom_titles": 0,
     "fandom_enriched_core": 0,
-    "fandom_created": 31,
-    "fandom_images": 27,
-    "fandom_intros": 45,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0,
     "description_ensure_at": "2026-09-12T04:42:49.592Z",
     "description_ensure_count": 30
   }

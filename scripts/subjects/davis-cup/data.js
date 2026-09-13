@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into Davis Cup.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify Davis Cup."
+    },
+    {
+        "slug": "davis-cup-geography",
+        "name": "Davis Cup geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for Davis Cup.",
+        "description": "Regions, routes, and spatial systems that situate Davis Cup beyond single named places."
+    },
+    {
+        "slug": "davis-cup-legacy",
+        "name": "Davis Cup legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Davis Cup.",
+        "description": "How Davis Cup continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "davis-cup-practices",
+        "name": "Davis Cup practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Davis Cup.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Davis Cup."
+    },
+    {
+        "slug": "davis-cup-entry-1",
+        "name": "Davis Cup entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "davis-cup-entry-2",
+        "name": "Davis Cup entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "davis-cup-entry-3",
+        "name": "Davis Cup entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "davis-cup-entry-4",
+        "name": "Davis Cup entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "davis-cup-entry-5",
+        "name": "Davis Cup entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "davis-cup-entry-6",
+        "name": "Davis Cup entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "davis-cup-entry-7",
+        "name": "Davis Cup entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "davis-cup-entry-8",
+        "name": "Davis Cup entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "davis-cup-entry-9",
+        "name": "Davis Cup entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "davis-cup-entry-10",
+        "name": "Davis Cup entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "davis-cup-entry-11",
+        "name": "Davis Cup entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "davis-cup-entry-12",
+        "name": "Davis Cup entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "davis-cup-entry-13",
+        "name": "Davis Cup entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "davis-cup-entry-14",
+        "name": "Davis Cup entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "davis-cup-entry-15",
+        "name": "Davis Cup entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "davis-cup-entry-16",
+        "name": "Davis Cup entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "davis-cup-entry-17",
+        "name": "Davis Cup entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "davis-cup-entry-18",
+        "name": "Davis Cup entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "davis-cup-entry-19",
+        "name": "Davis Cup entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "davis-cup-entry-20",
+        "name": "Davis Cup entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "davis-cup-entry-21",
+        "name": "Davis Cup entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "davis-cup-entry-22",
+        "name": "Davis Cup entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Davis Cup.",
+        "description": "A supporting encyclopedia entry in the Davis Cup subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "Davis Cup sources is a primary trailhead under Davis Cup.",
         0.88,
         0.82
+    ],
+    [
+        "davis-cup",
+        "davis-cup-geography",
+        "contains",
+        "Davis Cup geography is a primary trailhead under Davis Cup.",
+        0.88,
+        0.82
+    ],
+    [
+        "davis-cup",
+        "davis-cup-legacy",
+        "contains",
+        "Davis Cup legacy is a primary trailhead under Davis Cup.",
+        0.88,
+        0.82
+    ],
+    [
+        "davis-cup",
+        "davis-cup-practices",
+        "contains",
+        "Davis Cup practices is a primary trailhead under Davis Cup.",
+        0.88,
+        0.82
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-1",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-2",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-3",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-4",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-5",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-6",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-7",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-8",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-9",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-10",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-11",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-12",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-13",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-14",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-15",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-16",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-17",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-18",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-19",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-20",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-21",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "davis-cup",
+        "davis-cup-entry-22",
+        "contains",
+        "Supporting entry under Davis Cup.",
+        0.75,
+        0.7
     ]
 ];
 

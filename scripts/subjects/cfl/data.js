@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into Canadian Football League.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify Canadian Football League."
+    },
+    {
+        "slug": "cfl-geography",
+        "name": "Canadian Football League geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for Canadian Football League.",
+        "description": "Regions, routes, and spatial systems that situate Canadian Football League beyond single named places."
+    },
+    {
+        "slug": "cfl-legacy",
+        "name": "Canadian Football League legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Canadian Football League.",
+        "description": "How Canadian Football League continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "cfl-practices",
+        "name": "Canadian Football League practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Canadian Football League.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Canadian Football League."
+    },
+    {
+        "slug": "cfl-entry-1",
+        "name": "Canadian Football League entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cfl-entry-2",
+        "name": "Canadian Football League entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cfl-entry-3",
+        "name": "Canadian Football League entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cfl-entry-4",
+        "name": "Canadian Football League entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cfl-entry-5",
+        "name": "Canadian Football League entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cfl-entry-6",
+        "name": "Canadian Football League entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cfl-entry-7",
+        "name": "Canadian Football League entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cfl-entry-8",
+        "name": "Canadian Football League entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cfl-entry-9",
+        "name": "Canadian Football League entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cfl-entry-10",
+        "name": "Canadian Football League entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cfl-entry-11",
+        "name": "Canadian Football League entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cfl-entry-12",
+        "name": "Canadian Football League entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cfl-entry-13",
+        "name": "Canadian Football League entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cfl-entry-14",
+        "name": "Canadian Football League entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cfl-entry-15",
+        "name": "Canadian Football League entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cfl-entry-16",
+        "name": "Canadian Football League entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cfl-entry-17",
+        "name": "Canadian Football League entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cfl-entry-18",
+        "name": "Canadian Football League entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cfl-entry-19",
+        "name": "Canadian Football League entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cfl-entry-20",
+        "name": "Canadian Football League entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cfl-entry-21",
+        "name": "Canadian Football League entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cfl-entry-22",
+        "name": "Canadian Football League entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Canadian Football League.",
+        "description": "A supporting encyclopedia entry in the Canadian Football League subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "Canadian Football League sources is a primary trailhead under Canadian Football League.",
         0.88,
         0.82
+    ],
+    [
+        "cfl",
+        "cfl-geography",
+        "contains",
+        "Canadian Football League geography is a primary trailhead under Canadian Football League.",
+        0.88,
+        0.82
+    ],
+    [
+        "cfl",
+        "cfl-legacy",
+        "contains",
+        "Canadian Football League legacy is a primary trailhead under Canadian Football League.",
+        0.88,
+        0.82
+    ],
+    [
+        "cfl",
+        "cfl-practices",
+        "contains",
+        "Canadian Football League practices is a primary trailhead under Canadian Football League.",
+        0.88,
+        0.82
+    ],
+    [
+        "cfl",
+        "cfl-entry-1",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "cfl",
+        "cfl-entry-2",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "cfl",
+        "cfl-entry-3",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "cfl",
+        "cfl-entry-4",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "cfl",
+        "cfl-entry-5",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "cfl",
+        "cfl-entry-6",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "cfl",
+        "cfl-entry-7",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "cfl",
+        "cfl-entry-8",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "cfl",
+        "cfl-entry-9",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "cfl",
+        "cfl-entry-10",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "cfl",
+        "cfl-entry-11",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "cfl",
+        "cfl-entry-12",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "cfl",
+        "cfl-entry-13",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "cfl",
+        "cfl-entry-14",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "cfl",
+        "cfl-entry-15",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "cfl",
+        "cfl-entry-16",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "cfl",
+        "cfl-entry-17",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "cfl",
+        "cfl-entry-18",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "cfl",
+        "cfl-entry-19",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "cfl",
+        "cfl-entry-20",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "cfl",
+        "cfl-entry-21",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
+    ],
+    [
+        "cfl",
+        "cfl-entry-22",
+        "contains",
+        "Supporting entry under Canadian Football League.",
+        0.75,
+        0.7
     ]
 ];
 

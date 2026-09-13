@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Digimon Card Game.",
         "description": "Regions, routes, and spatial systems that situate Digimon Card Game beyond single named places."
+    },
+    {
+        "slug": "digimon-card-game-legacy",
+        "name": "Digimon Card Game legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Digimon Card Game.",
+        "description": "How Digimon Card Game continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "digimon-card-game-practices",
+        "name": "Digimon Card Game practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Digimon Card Game.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Digimon Card Game."
+    },
+    {
+        "slug": "digimon-card-game-entry-1",
+        "name": "Digimon Card Game entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-2",
+        "name": "Digimon Card Game entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-3",
+        "name": "Digimon Card Game entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-4",
+        "name": "Digimon Card Game entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-5",
+        "name": "Digimon Card Game entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-6",
+        "name": "Digimon Card Game entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-7",
+        "name": "Digimon Card Game entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-8",
+        "name": "Digimon Card Game entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-9",
+        "name": "Digimon Card Game entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-10",
+        "name": "Digimon Card Game entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-11",
+        "name": "Digimon Card Game entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-12",
+        "name": "Digimon Card Game entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-13",
+        "name": "Digimon Card Game entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-14",
+        "name": "Digimon Card Game entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-15",
+        "name": "Digimon Card Game entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-16",
+        "name": "Digimon Card Game entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-17",
+        "name": "Digimon Card Game entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-18",
+        "name": "Digimon Card Game entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-19",
+        "name": "Digimon Card Game entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-20",
+        "name": "Digimon Card Game entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-21",
+        "name": "Digimon Card Game entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-22",
+        "name": "Digimon Card Game entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "digimon-card-game-entry-23",
+        "name": "Digimon Card Game entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Digimon Card Game.",
+        "description": "A supporting encyclopedia entry in the Digimon Card Game subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Digimon Card Game geography is a primary trailhead under Digimon Card Game.",
         0.88,
         0.82
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-legacy",
+        "contains",
+        "Digimon Card Game legacy is a primary trailhead under Digimon Card Game.",
+        0.88,
+        0.82
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-practices",
+        "contains",
+        "Digimon Card Game practices is a primary trailhead under Digimon Card Game.",
+        0.88,
+        0.82
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-1",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-2",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-3",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-4",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-5",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-6",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-7",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-8",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-9",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-10",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-11",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-12",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-13",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-14",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-15",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-16",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-17",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-18",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-19",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-20",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-21",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-22",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
+    ],
+    [
+        "digimon-card-game",
+        "digimon-card-game-entry-23",
+        "contains",
+        "Supporting entry under Digimon Card Game.",
+        0.75,
+        0.7
     ]
 ];
 

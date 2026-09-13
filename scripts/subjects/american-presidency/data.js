@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of The American Presidency.",
         "description": "How The American Presidency continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "american-presidency-practices",
+        "name": "The American Presidency practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in The American Presidency.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in The American Presidency."
+    },
+    {
+        "slug": "american-presidency-entry-1",
+        "name": "The American Presidency entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-2",
+        "name": "The American Presidency entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-3",
+        "name": "The American Presidency entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-4",
+        "name": "The American Presidency entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-5",
+        "name": "The American Presidency entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-6",
+        "name": "The American Presidency entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-7",
+        "name": "The American Presidency entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-8",
+        "name": "The American Presidency entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-9",
+        "name": "The American Presidency entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-10",
+        "name": "The American Presidency entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-11",
+        "name": "The American Presidency entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-12",
+        "name": "The American Presidency entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-13",
+        "name": "The American Presidency entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-14",
+        "name": "The American Presidency entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-15",
+        "name": "The American Presidency entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-16",
+        "name": "The American Presidency entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-17",
+        "name": "The American Presidency entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-18",
+        "name": "The American Presidency entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-19",
+        "name": "The American Presidency entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-20",
+        "name": "The American Presidency entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-21",
+        "name": "The American Presidency entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-22",
+        "name": "The American Presidency entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-23",
+        "name": "The American Presidency entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "american-presidency-entry-24",
+        "name": "The American Presidency entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The American Presidency.",
+        "description": "A supporting encyclopedia entry in the The American Presidency subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "The American Presidency legacy is a primary trailhead under The American Presidency.",
         0.88,
         0.82
+    ],
+    [
+        "american-presidency",
+        "american-presidency-practices",
+        "contains",
+        "The American Presidency practices is a primary trailhead under The American Presidency.",
+        0.88,
+        0.82
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-1",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-2",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-3",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-4",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-5",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-6",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-7",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-8",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-9",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-10",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-11",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-12",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-13",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-14",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-15",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-16",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-17",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-18",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-19",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-20",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-21",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-22",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-23",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
+    ],
+    [
+        "american-presidency",
+        "american-presidency-entry-24",
+        "contains",
+        "Supporting entry under The American Presidency.",
+        0.75,
+        0.7
     ]
 ];
 

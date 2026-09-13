@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for The Beatles.",
         "description": "Regions, routes, and spatial systems that situate The Beatles beyond single named places."
+    },
+    {
+        "slug": "the-beatles-legacy",
+        "name": "The Beatles legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of The Beatles.",
+        "description": "How The Beatles continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "the-beatles-practices",
+        "name": "The Beatles practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in The Beatles.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in The Beatles."
+    },
+    {
+        "slug": "the-beatles-entry-1",
+        "name": "The Beatles entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-2",
+        "name": "The Beatles entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-3",
+        "name": "The Beatles entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-4",
+        "name": "The Beatles entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-5",
+        "name": "The Beatles entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-6",
+        "name": "The Beatles entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-7",
+        "name": "The Beatles entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-8",
+        "name": "The Beatles entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-9",
+        "name": "The Beatles entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-10",
+        "name": "The Beatles entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-11",
+        "name": "The Beatles entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-12",
+        "name": "The Beatles entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-13",
+        "name": "The Beatles entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-14",
+        "name": "The Beatles entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-15",
+        "name": "The Beatles entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-16",
+        "name": "The Beatles entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-17",
+        "name": "The Beatles entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-18",
+        "name": "The Beatles entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-19",
+        "name": "The Beatles entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-20",
+        "name": "The Beatles entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-21",
+        "name": "The Beatles entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-22",
+        "name": "The Beatles entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-beatles-entry-23",
+        "name": "The Beatles entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Beatles.",
+        "description": "A supporting encyclopedia entry in the The Beatles subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "The Beatles geography is a primary trailhead under The Beatles.",
         0.88,
         0.82
+    ],
+    [
+        "the-beatles",
+        "the-beatles-legacy",
+        "contains",
+        "The Beatles legacy is a primary trailhead under The Beatles.",
+        0.88,
+        0.82
+    ],
+    [
+        "the-beatles",
+        "the-beatles-practices",
+        "contains",
+        "The Beatles practices is a primary trailhead under The Beatles.",
+        0.88,
+        0.82
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-1",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-2",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-3",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-4",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-5",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-6",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-7",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-8",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-9",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-10",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-11",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-12",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-13",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-14",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-15",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-16",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-17",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-18",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-19",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-20",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-21",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-22",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-beatles",
+        "the-beatles-entry-23",
+        "contains",
+        "Supporting entry under The Beatles.",
+        0.75,
+        0.7
     ]
 ];
 

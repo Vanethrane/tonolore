@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into NASCAR.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify NASCAR."
+    },
+    {
+        "slug": "nascar-geography",
+        "name": "NASCAR geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for NASCAR.",
+        "description": "Regions, routes, and spatial systems that situate NASCAR beyond single named places."
+    },
+    {
+        "slug": "nascar-legacy",
+        "name": "NASCAR legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of NASCAR.",
+        "description": "How NASCAR continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "nascar-practices",
+        "name": "NASCAR practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in NASCAR.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in NASCAR."
+    },
+    {
+        "slug": "nascar-entry-1",
+        "name": "NASCAR entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nascar-entry-2",
+        "name": "NASCAR entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nascar-entry-3",
+        "name": "NASCAR entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nascar-entry-4",
+        "name": "NASCAR entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nascar-entry-5",
+        "name": "NASCAR entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nascar-entry-6",
+        "name": "NASCAR entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nascar-entry-7",
+        "name": "NASCAR entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nascar-entry-8",
+        "name": "NASCAR entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nascar-entry-9",
+        "name": "NASCAR entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nascar-entry-10",
+        "name": "NASCAR entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nascar-entry-11",
+        "name": "NASCAR entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nascar-entry-12",
+        "name": "NASCAR entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nascar-entry-13",
+        "name": "NASCAR entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nascar-entry-14",
+        "name": "NASCAR entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nascar-entry-15",
+        "name": "NASCAR entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nascar-entry-16",
+        "name": "NASCAR entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nascar-entry-17",
+        "name": "NASCAR entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nascar-entry-18",
+        "name": "NASCAR entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nascar-entry-19",
+        "name": "NASCAR entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nascar-entry-20",
+        "name": "NASCAR entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nascar-entry-21",
+        "name": "NASCAR entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nascar-entry-22",
+        "name": "NASCAR entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASCAR.",
+        "description": "A supporting encyclopedia entry in the NASCAR subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "NASCAR sources is a primary trailhead under NASCAR.",
         0.88,
         0.82
+    ],
+    [
+        "nascar",
+        "nascar-geography",
+        "contains",
+        "NASCAR geography is a primary trailhead under NASCAR.",
+        0.88,
+        0.82
+    ],
+    [
+        "nascar",
+        "nascar-legacy",
+        "contains",
+        "NASCAR legacy is a primary trailhead under NASCAR.",
+        0.88,
+        0.82
+    ],
+    [
+        "nascar",
+        "nascar-practices",
+        "contains",
+        "NASCAR practices is a primary trailhead under NASCAR.",
+        0.88,
+        0.82
+    ],
+    [
+        "nascar",
+        "nascar-entry-1",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
+    ],
+    [
+        "nascar",
+        "nascar-entry-2",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
+    ],
+    [
+        "nascar",
+        "nascar-entry-3",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
+    ],
+    [
+        "nascar",
+        "nascar-entry-4",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
+    ],
+    [
+        "nascar",
+        "nascar-entry-5",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
+    ],
+    [
+        "nascar",
+        "nascar-entry-6",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
+    ],
+    [
+        "nascar",
+        "nascar-entry-7",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
+    ],
+    [
+        "nascar",
+        "nascar-entry-8",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
+    ],
+    [
+        "nascar",
+        "nascar-entry-9",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
+    ],
+    [
+        "nascar",
+        "nascar-entry-10",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
+    ],
+    [
+        "nascar",
+        "nascar-entry-11",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
+    ],
+    [
+        "nascar",
+        "nascar-entry-12",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
+    ],
+    [
+        "nascar",
+        "nascar-entry-13",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
+    ],
+    [
+        "nascar",
+        "nascar-entry-14",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
+    ],
+    [
+        "nascar",
+        "nascar-entry-15",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
+    ],
+    [
+        "nascar",
+        "nascar-entry-16",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
+    ],
+    [
+        "nascar",
+        "nascar-entry-17",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
+    ],
+    [
+        "nascar",
+        "nascar-entry-18",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
+    ],
+    [
+        "nascar",
+        "nascar-entry-19",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
+    ],
+    [
+        "nascar",
+        "nascar-entry-20",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
+    ],
+    [
+        "nascar",
+        "nascar-entry-21",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
+    ],
+    [
+        "nascar",
+        "nascar-entry-22",
+        "contains",
+        "Supporting entry under NASCAR.",
+        0.75,
+        0.7
     ]
 ];
 

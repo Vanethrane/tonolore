@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into Australian Open.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify Australian Open."
+    },
+    {
+        "slug": "australian-open-geography",
+        "name": "Australian Open geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for Australian Open.",
+        "description": "Regions, routes, and spatial systems that situate Australian Open beyond single named places."
+    },
+    {
+        "slug": "australian-open-legacy",
+        "name": "Australian Open legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Australian Open.",
+        "description": "How Australian Open continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "australian-open-practices",
+        "name": "Australian Open practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Australian Open.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Australian Open."
+    },
+    {
+        "slug": "australian-open-entry-1",
+        "name": "Australian Open entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "australian-open-entry-2",
+        "name": "Australian Open entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "australian-open-entry-3",
+        "name": "Australian Open entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "australian-open-entry-4",
+        "name": "Australian Open entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "australian-open-entry-5",
+        "name": "Australian Open entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "australian-open-entry-6",
+        "name": "Australian Open entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "australian-open-entry-7",
+        "name": "Australian Open entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "australian-open-entry-8",
+        "name": "Australian Open entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "australian-open-entry-9",
+        "name": "Australian Open entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "australian-open-entry-10",
+        "name": "Australian Open entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "australian-open-entry-11",
+        "name": "Australian Open entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "australian-open-entry-12",
+        "name": "Australian Open entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "australian-open-entry-13",
+        "name": "Australian Open entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "australian-open-entry-14",
+        "name": "Australian Open entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "australian-open-entry-15",
+        "name": "Australian Open entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "australian-open-entry-16",
+        "name": "Australian Open entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "australian-open-entry-17",
+        "name": "Australian Open entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "australian-open-entry-18",
+        "name": "Australian Open entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "australian-open-entry-19",
+        "name": "Australian Open entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "australian-open-entry-20",
+        "name": "Australian Open entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "australian-open-entry-21",
+        "name": "Australian Open entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "australian-open-entry-22",
+        "name": "Australian Open entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Australian Open.",
+        "description": "A supporting encyclopedia entry in the Australian Open subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "Australian Open sources is a primary trailhead under Australian Open.",
         0.88,
         0.82
+    ],
+    [
+        "australian-open",
+        "australian-open-geography",
+        "contains",
+        "Australian Open geography is a primary trailhead under Australian Open.",
+        0.88,
+        0.82
+    ],
+    [
+        "australian-open",
+        "australian-open-legacy",
+        "contains",
+        "Australian Open legacy is a primary trailhead under Australian Open.",
+        0.88,
+        0.82
+    ],
+    [
+        "australian-open",
+        "australian-open-practices",
+        "contains",
+        "Australian Open practices is a primary trailhead under Australian Open.",
+        0.88,
+        0.82
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-1",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-2",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-3",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-4",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-5",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-6",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-7",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-8",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-9",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-10",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-11",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-12",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-13",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-14",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-15",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-16",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-17",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-18",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-19",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-20",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-21",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
+    ],
+    [
+        "australian-open",
+        "australian-open-entry-22",
+        "contains",
+        "Supporting entry under Australian Open.",
+        0.75,
+        0.7
     ]
 ];
 

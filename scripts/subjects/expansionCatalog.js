@@ -857,7 +857,7 @@ const EXPANSION_CATEGORIES = [
 ];
 
 const { applyCategoryMinimums } = require("./categoryMinimums");
-applyCategoryMinimums(EXPANSION_CATEGORIES, 5);
+applyCategoryMinimums(EXPANSION_CATEGORIES, 20);
 
 function expansionSubjectIds() {
     return EXPANSION_CATEGORIES.flatMap((category) =>

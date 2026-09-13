@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Ludwig van Beethoven.",
         "description": "Regions, routes, and spatial systems that situate Ludwig van Beethoven beyond single named places."
+    },
+    {
+        "slug": "ludwig-van-beethoven-legacy",
+        "name": "Ludwig van Beethoven legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Ludwig van Beethoven.",
+        "description": "How Ludwig van Beethoven continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "ludwig-van-beethoven-practices",
+        "name": "Ludwig van Beethoven practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Ludwig van Beethoven.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Ludwig van Beethoven."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-1",
+        "name": "Ludwig van Beethoven entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-2",
+        "name": "Ludwig van Beethoven entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-3",
+        "name": "Ludwig van Beethoven entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-4",
+        "name": "Ludwig van Beethoven entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-5",
+        "name": "Ludwig van Beethoven entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-6",
+        "name": "Ludwig van Beethoven entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-7",
+        "name": "Ludwig van Beethoven entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-8",
+        "name": "Ludwig van Beethoven entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-9",
+        "name": "Ludwig van Beethoven entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-10",
+        "name": "Ludwig van Beethoven entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-11",
+        "name": "Ludwig van Beethoven entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-12",
+        "name": "Ludwig van Beethoven entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-13",
+        "name": "Ludwig van Beethoven entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-14",
+        "name": "Ludwig van Beethoven entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-15",
+        "name": "Ludwig van Beethoven entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-16",
+        "name": "Ludwig van Beethoven entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-17",
+        "name": "Ludwig van Beethoven entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-18",
+        "name": "Ludwig van Beethoven entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-19",
+        "name": "Ludwig van Beethoven entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-20",
+        "name": "Ludwig van Beethoven entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-21",
+        "name": "Ludwig van Beethoven entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-22",
+        "name": "Ludwig van Beethoven entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ludwig-van-beethoven-entry-23",
+        "name": "Ludwig van Beethoven entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ludwig van Beethoven.",
+        "description": "A supporting encyclopedia entry in the Ludwig van Beethoven subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Ludwig van Beethoven geography is a primary trailhead under Ludwig van Beethoven.",
         0.88,
         0.82
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-legacy",
+        "contains",
+        "Ludwig van Beethoven legacy is a primary trailhead under Ludwig van Beethoven.",
+        0.88,
+        0.82
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-practices",
+        "contains",
+        "Ludwig van Beethoven practices is a primary trailhead under Ludwig van Beethoven.",
+        0.88,
+        0.82
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-1",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-2",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-3",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-4",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-5",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-6",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-7",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-8",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-9",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-10",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-11",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-12",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-13",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-14",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-15",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-16",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-17",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-18",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-19",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-20",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-21",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-22",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
+    ],
+    [
+        "ludwig-van-beethoven",
+        "ludwig-van-beethoven-entry-23",
+        "contains",
+        "Supporting entry under Ludwig van Beethoven.",
+        0.75,
+        0.7
     ]
 ];
 

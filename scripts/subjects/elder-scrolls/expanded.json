@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T18:10:13.269Z",
+  "generated_at": "2026-09-13T04:02:06.084Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -44120,11 +44120,11 @@
     "images_attached": 0,
     "core_enrichments": 30,
     "preserved_fandom": 0,
-    "fandom_titles": 39,
-    "fandom_enriched_core": 24,
+    "fandom_titles": 1,
+    "fandom_enriched_core": 1,
     "fandom_created": 0,
-    "fandom_images": 31,
-    "fandom_intros": 39,
+    "fandom_images": 1,
+    "fandom_intros": 1,
     "image_backfill_at": "2026-09-11T16:29:42.467Z",
     "image_backfill_count": 32
   }

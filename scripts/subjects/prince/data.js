@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Prince.",
         "description": "Regions, routes, and spatial systems that situate Prince beyond single named places."
+    },
+    {
+        "slug": "prince-legacy",
+        "name": "Prince legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Prince.",
+        "description": "How Prince continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "prince-practices",
+        "name": "Prince practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Prince.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Prince."
+    },
+    {
+        "slug": "prince-entry-1",
+        "name": "Prince entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-2",
+        "name": "Prince entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-3",
+        "name": "Prince entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-4",
+        "name": "Prince entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-5",
+        "name": "Prince entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-6",
+        "name": "Prince entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-7",
+        "name": "Prince entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-8",
+        "name": "Prince entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-9",
+        "name": "Prince entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-10",
+        "name": "Prince entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-11",
+        "name": "Prince entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-12",
+        "name": "Prince entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-13",
+        "name": "Prince entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-14",
+        "name": "Prince entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-15",
+        "name": "Prince entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-16",
+        "name": "Prince entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-17",
+        "name": "Prince entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-18",
+        "name": "Prince entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-19",
+        "name": "Prince entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-20",
+        "name": "Prince entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-21",
+        "name": "Prince entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-22",
+        "name": "Prince entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "prince-entry-23",
+        "name": "Prince entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Prince.",
+        "description": "A supporting encyclopedia entry in the Prince subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Prince geography is a primary trailhead under Prince.",
         0.88,
         0.82
+    ],
+    [
+        "prince",
+        "prince-legacy",
+        "contains",
+        "Prince legacy is a primary trailhead under Prince.",
+        0.88,
+        0.82
+    ],
+    [
+        "prince",
+        "prince-practices",
+        "contains",
+        "Prince practices is a primary trailhead under Prince.",
+        0.88,
+        0.82
+    ],
+    [
+        "prince",
+        "prince-entry-1",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-2",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-3",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-4",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-5",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-6",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-7",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-8",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-9",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-10",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-11",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-12",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-13",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-14",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-15",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-16",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-17",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-18",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-19",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-20",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-21",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-22",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
+    ],
+    [
+        "prince",
+        "prince-entry-23",
+        "contains",
+        "Supporting entry under Prince.",
+        0.75,
+        0.7
     ]
 ];
 

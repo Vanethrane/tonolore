@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for OutKast.",
         "description": "Regions, routes, and spatial systems that situate OutKast beyond single named places."
+    },
+    {
+        "slug": "outkast-legacy",
+        "name": "OutKast legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of OutKast.",
+        "description": "How OutKast continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "outkast-practices",
+        "name": "OutKast practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in OutKast.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in OutKast."
+    },
+    {
+        "slug": "outkast-entry-1",
+        "name": "OutKast entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-2",
+        "name": "OutKast entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-3",
+        "name": "OutKast entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-4",
+        "name": "OutKast entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-5",
+        "name": "OutKast entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-6",
+        "name": "OutKast entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-7",
+        "name": "OutKast entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-8",
+        "name": "OutKast entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-9",
+        "name": "OutKast entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-10",
+        "name": "OutKast entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-11",
+        "name": "OutKast entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-12",
+        "name": "OutKast entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-13",
+        "name": "OutKast entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-14",
+        "name": "OutKast entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-15",
+        "name": "OutKast entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-16",
+        "name": "OutKast entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-17",
+        "name": "OutKast entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-18",
+        "name": "OutKast entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-19",
+        "name": "OutKast entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-20",
+        "name": "OutKast entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-21",
+        "name": "OutKast entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-22",
+        "name": "OutKast entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "outkast-entry-23",
+        "name": "OutKast entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside OutKast.",
+        "description": "A supporting encyclopedia entry in the OutKast subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "OutKast geography is a primary trailhead under OutKast.",
         0.88,
         0.82
+    ],
+    [
+        "outkast",
+        "outkast-legacy",
+        "contains",
+        "OutKast legacy is a primary trailhead under OutKast.",
+        0.88,
+        0.82
+    ],
+    [
+        "outkast",
+        "outkast-practices",
+        "contains",
+        "OutKast practices is a primary trailhead under OutKast.",
+        0.88,
+        0.82
+    ],
+    [
+        "outkast",
+        "outkast-entry-1",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-2",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-3",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-4",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-5",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-6",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-7",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-8",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-9",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-10",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-11",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-12",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-13",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-14",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-15",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-16",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-17",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-18",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-19",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-20",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-21",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-22",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
+    ],
+    [
+        "outkast",
+        "outkast-entry-23",
+        "contains",
+        "Supporting entry under OutKast.",
+        0.75,
+        0.7
     ]
 ];
 

@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into WNBA.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify WNBA."
+    },
+    {
+        "slug": "wnba-geography",
+        "name": "WNBA geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for WNBA.",
+        "description": "Regions, routes, and spatial systems that situate WNBA beyond single named places."
+    },
+    {
+        "slug": "wnba-legacy",
+        "name": "WNBA legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of WNBA.",
+        "description": "How WNBA continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "wnba-practices",
+        "name": "WNBA practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in WNBA.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in WNBA."
+    },
+    {
+        "slug": "wnba-entry-1",
+        "name": "WNBA entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wnba-entry-2",
+        "name": "WNBA entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wnba-entry-3",
+        "name": "WNBA entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wnba-entry-4",
+        "name": "WNBA entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wnba-entry-5",
+        "name": "WNBA entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wnba-entry-6",
+        "name": "WNBA entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wnba-entry-7",
+        "name": "WNBA entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wnba-entry-8",
+        "name": "WNBA entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wnba-entry-9",
+        "name": "WNBA entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wnba-entry-10",
+        "name": "WNBA entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wnba-entry-11",
+        "name": "WNBA entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wnba-entry-12",
+        "name": "WNBA entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wnba-entry-13",
+        "name": "WNBA entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wnba-entry-14",
+        "name": "WNBA entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wnba-entry-15",
+        "name": "WNBA entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wnba-entry-16",
+        "name": "WNBA entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wnba-entry-17",
+        "name": "WNBA entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wnba-entry-18",
+        "name": "WNBA entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wnba-entry-19",
+        "name": "WNBA entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wnba-entry-20",
+        "name": "WNBA entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wnba-entry-21",
+        "name": "WNBA entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wnba-entry-22",
+        "name": "WNBA entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside WNBA.",
+        "description": "A supporting encyclopedia entry in the WNBA subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "WNBA sources is a primary trailhead under WNBA.",
         0.88,
         0.82
+    ],
+    [
+        "wnba",
+        "wnba-geography",
+        "contains",
+        "WNBA geography is a primary trailhead under WNBA.",
+        0.88,
+        0.82
+    ],
+    [
+        "wnba",
+        "wnba-legacy",
+        "contains",
+        "WNBA legacy is a primary trailhead under WNBA.",
+        0.88,
+        0.82
+    ],
+    [
+        "wnba",
+        "wnba-practices",
+        "contains",
+        "WNBA practices is a primary trailhead under WNBA.",
+        0.88,
+        0.82
+    ],
+    [
+        "wnba",
+        "wnba-entry-1",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "wnba",
+        "wnba-entry-2",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "wnba",
+        "wnba-entry-3",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "wnba",
+        "wnba-entry-4",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "wnba",
+        "wnba-entry-5",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "wnba",
+        "wnba-entry-6",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "wnba",
+        "wnba-entry-7",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "wnba",
+        "wnba-entry-8",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "wnba",
+        "wnba-entry-9",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "wnba",
+        "wnba-entry-10",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "wnba",
+        "wnba-entry-11",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "wnba",
+        "wnba-entry-12",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "wnba",
+        "wnba-entry-13",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "wnba",
+        "wnba-entry-14",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "wnba",
+        "wnba-entry-15",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "wnba",
+        "wnba-entry-16",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "wnba",
+        "wnba-entry-17",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "wnba",
+        "wnba-entry-18",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "wnba",
+        "wnba-entry-19",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "wnba",
+        "wnba-entry-20",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "wnba",
+        "wnba-entry-21",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
+    ],
+    [
+        "wnba",
+        "wnba-entry-22",
+        "contains",
+        "Supporting entry under WNBA.",
+        0.75,
+        0.7
     ]
 ];
 

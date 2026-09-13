@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Tekken.",
         "description": "How Tekken continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "tekken-practices",
+        "name": "Tekken practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Tekken.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Tekken."
+    },
+    {
+        "slug": "tekken-entry-1",
+        "name": "Tekken entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-2",
+        "name": "Tekken entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-3",
+        "name": "Tekken entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-4",
+        "name": "Tekken entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-5",
+        "name": "Tekken entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-6",
+        "name": "Tekken entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-7",
+        "name": "Tekken entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-8",
+        "name": "Tekken entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-9",
+        "name": "Tekken entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-10",
+        "name": "Tekken entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-11",
+        "name": "Tekken entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-12",
+        "name": "Tekken entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-13",
+        "name": "Tekken entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-14",
+        "name": "Tekken entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-15",
+        "name": "Tekken entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-16",
+        "name": "Tekken entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-17",
+        "name": "Tekken entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-18",
+        "name": "Tekken entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-19",
+        "name": "Tekken entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-20",
+        "name": "Tekken entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-21",
+        "name": "Tekken entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-22",
+        "name": "Tekken entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-23",
+        "name": "Tekken entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "tekken-entry-24",
+        "name": "Tekken entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Tekken.",
+        "description": "A supporting encyclopedia entry in the Tekken subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Tekken legacy is a primary trailhead under Tekken.",
         0.88,
         0.82
+    ],
+    [
+        "tekken",
+        "tekken-practices",
+        "contains",
+        "Tekken practices is a primary trailhead under Tekken.",
+        0.88,
+        0.82
+    ],
+    [
+        "tekken",
+        "tekken-entry-1",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-2",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-3",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-4",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-5",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-6",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-7",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-8",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-9",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-10",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-11",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-12",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-13",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-14",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-15",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-16",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-17",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-18",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-19",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-20",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-21",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-22",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-23",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
+    ],
+    [
+        "tekken",
+        "tekken-entry-24",
+        "contains",
+        "Supporting entry under Tekken.",
+        0.75,
+        0.7
     ]
 ];
 

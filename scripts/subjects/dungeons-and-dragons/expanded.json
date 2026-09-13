@@ -17375,18 +17375,18 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (forgottenrealms.fandom.com) for identification and commentary only. Character / franchise art © Wizards of the Coast / Hasbro (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T17:16:01.173Z",
+  "generated_at": "2026-09-13T04:19:31.225Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://forgottenrealms.fandom.com/wiki/",
     "host": "forgottenrealms.fandom.com"
   },
   "stats": {
-    "fandom_titles": 45,
+    "fandom_titles": 1,
     "fandom_enriched_core": 0,
-    "fandom_created": 35,
-    "fandom_images": 28,
-    "fandom_intros": 45,
+    "fandom_created": 0,
+    "fandom_images": 1,
+    "fandom_intros": 1,
     "description_ensure_at": "2026-09-12T04:48:03.802Z",
     "description_ensure_count": 1
   }

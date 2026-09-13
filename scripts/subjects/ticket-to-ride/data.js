@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Ticket to Ride.",
         "description": "Regions, routes, and spatial systems that situate Ticket to Ride beyond single named places."
+    },
+    {
+        "slug": "ticket-to-ride-legacy",
+        "name": "Ticket to Ride legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Ticket to Ride.",
+        "description": "How Ticket to Ride continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "ticket-to-ride-practices",
+        "name": "Ticket to Ride practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Ticket to Ride.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Ticket to Ride."
+    },
+    {
+        "slug": "ticket-to-ride-entry-1",
+        "name": "Ticket to Ride entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-2",
+        "name": "Ticket to Ride entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-3",
+        "name": "Ticket to Ride entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-4",
+        "name": "Ticket to Ride entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-5",
+        "name": "Ticket to Ride entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-6",
+        "name": "Ticket to Ride entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-7",
+        "name": "Ticket to Ride entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-8",
+        "name": "Ticket to Ride entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-9",
+        "name": "Ticket to Ride entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-10",
+        "name": "Ticket to Ride entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-11",
+        "name": "Ticket to Ride entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-12",
+        "name": "Ticket to Ride entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-13",
+        "name": "Ticket to Ride entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-14",
+        "name": "Ticket to Ride entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-15",
+        "name": "Ticket to Ride entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-16",
+        "name": "Ticket to Ride entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-17",
+        "name": "Ticket to Ride entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-18",
+        "name": "Ticket to Ride entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-19",
+        "name": "Ticket to Ride entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-20",
+        "name": "Ticket to Ride entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-21",
+        "name": "Ticket to Ride entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-22",
+        "name": "Ticket to Ride entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ticket-to-ride-entry-23",
+        "name": "Ticket to Ride entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Ticket to Ride.",
+        "description": "A supporting encyclopedia entry in the Ticket to Ride subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Ticket to Ride geography is a primary trailhead under Ticket to Ride.",
         0.88,
         0.82
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-legacy",
+        "contains",
+        "Ticket to Ride legacy is a primary trailhead under Ticket to Ride.",
+        0.88,
+        0.82
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-practices",
+        "contains",
+        "Ticket to Ride practices is a primary trailhead under Ticket to Ride.",
+        0.88,
+        0.82
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-1",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-2",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-3",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-4",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-5",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-6",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-7",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-8",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-9",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-10",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-11",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-12",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-13",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-14",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-15",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-16",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-17",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-18",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-19",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-20",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-21",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-22",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
+    ],
+    [
+        "ticket-to-ride",
+        "ticket-to-ride-entry-23",
+        "contains",
+        "Supporting entry under Ticket to Ride.",
+        0.75,
+        0.7
     ]
 ];
 

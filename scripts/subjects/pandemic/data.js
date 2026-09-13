@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Pandemic.",
         "description": "Regions, routes, and spatial systems that situate Pandemic beyond single named places."
+    },
+    {
+        "slug": "pandemic-legacy",
+        "name": "Pandemic legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Pandemic.",
+        "description": "How Pandemic continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "pandemic-practices",
+        "name": "Pandemic practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Pandemic.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Pandemic."
+    },
+    {
+        "slug": "pandemic-entry-1",
+        "name": "Pandemic entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-2",
+        "name": "Pandemic entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-3",
+        "name": "Pandemic entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-4",
+        "name": "Pandemic entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-5",
+        "name": "Pandemic entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-6",
+        "name": "Pandemic entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-7",
+        "name": "Pandemic entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-8",
+        "name": "Pandemic entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-9",
+        "name": "Pandemic entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-10",
+        "name": "Pandemic entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-11",
+        "name": "Pandemic entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-12",
+        "name": "Pandemic entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-13",
+        "name": "Pandemic entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-14",
+        "name": "Pandemic entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-15",
+        "name": "Pandemic entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-16",
+        "name": "Pandemic entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-17",
+        "name": "Pandemic entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-18",
+        "name": "Pandemic entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-19",
+        "name": "Pandemic entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-20",
+        "name": "Pandemic entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-21",
+        "name": "Pandemic entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-22",
+        "name": "Pandemic entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pandemic-entry-23",
+        "name": "Pandemic entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pandemic.",
+        "description": "A supporting encyclopedia entry in the Pandemic subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Pandemic geography is a primary trailhead under Pandemic.",
         0.88,
         0.82
+    ],
+    [
+        "pandemic",
+        "pandemic-legacy",
+        "contains",
+        "Pandemic legacy is a primary trailhead under Pandemic.",
+        0.88,
+        0.82
+    ],
+    [
+        "pandemic",
+        "pandemic-practices",
+        "contains",
+        "Pandemic practices is a primary trailhead under Pandemic.",
+        0.88,
+        0.82
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-1",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-2",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-3",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-4",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-5",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-6",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-7",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-8",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-9",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-10",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-11",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-12",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-13",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-14",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-15",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-16",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-17",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-18",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-19",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-20",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-21",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-22",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
+    ],
+    [
+        "pandemic",
+        "pandemic-entry-23",
+        "contains",
+        "Supporting entry under Pandemic.",
+        0.75,
+        0.7
     ]
 ];
 

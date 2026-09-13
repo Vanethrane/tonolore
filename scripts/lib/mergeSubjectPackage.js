@@ -31,7 +31,13 @@ function isIncompleteDescription(value) {
         /(as follows:|differences from the manga:)\s*$/i.test(text) ||
         /written by\s*,/i.test(text) ||
         /directed by\s*,/i.test(text) ||
-        /also referred to as\s*,/i.test(text)
+        /also referred to as\s*,/i.test(text) ||
+        /\bin\s+\./i.test(text) ||
+        /\{\||\{\{|\[\[/i.test(text) ||
+        /\b(may (also )?refer to|most commonly refers to|disambiguation)\b/i.test(
+            text
+        ) ||
+        /^Wikipedia has an article on /i.test(text)
     ) {
         return true;
     }

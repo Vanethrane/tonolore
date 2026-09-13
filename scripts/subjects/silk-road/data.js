@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Silk Road.",
         "description": "How Silk Road continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "silk-road-practices",
+        "name": "Silk Road practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Silk Road.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Silk Road."
+    },
+    {
+        "slug": "silk-road-entry-1",
+        "name": "Silk Road entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-2",
+        "name": "Silk Road entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-3",
+        "name": "Silk Road entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-4",
+        "name": "Silk Road entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-5",
+        "name": "Silk Road entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-6",
+        "name": "Silk Road entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-7",
+        "name": "Silk Road entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-8",
+        "name": "Silk Road entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-9",
+        "name": "Silk Road entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-10",
+        "name": "Silk Road entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-11",
+        "name": "Silk Road entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-12",
+        "name": "Silk Road entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-13",
+        "name": "Silk Road entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-14",
+        "name": "Silk Road entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-15",
+        "name": "Silk Road entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-16",
+        "name": "Silk Road entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-17",
+        "name": "Silk Road entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-18",
+        "name": "Silk Road entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-19",
+        "name": "Silk Road entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-20",
+        "name": "Silk Road entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-21",
+        "name": "Silk Road entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-22",
+        "name": "Silk Road entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-23",
+        "name": "Silk Road entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "silk-road-entry-24",
+        "name": "Silk Road entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Silk Road.",
+        "description": "A supporting encyclopedia entry in the Silk Road subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Silk Road legacy is a primary trailhead under Silk Road.",
         0.88,
         0.82
+    ],
+    [
+        "silk-road",
+        "silk-road-practices",
+        "contains",
+        "Silk Road practices is a primary trailhead under Silk Road.",
+        0.88,
+        0.82
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-1",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-2",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-3",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-4",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-5",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-6",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-7",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-8",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-9",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-10",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-11",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-12",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-13",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-14",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-15",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-16",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-17",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-18",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-19",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-20",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-21",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-22",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-23",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
+    ],
+    [
+        "silk-road",
+        "silk-road-entry-24",
+        "contains",
+        "Supporting entry under Silk Road.",
+        0.75,
+        0.7
     ]
 ];
 

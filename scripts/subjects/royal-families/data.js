@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Royal families.",
         "description": "How Royal families continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "royal-families-practices",
+        "name": "Royal families practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Royal families.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Royal families."
+    },
+    {
+        "slug": "royal-families-entry-1",
+        "name": "Royal families entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-2",
+        "name": "Royal families entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-3",
+        "name": "Royal families entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-4",
+        "name": "Royal families entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-5",
+        "name": "Royal families entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-6",
+        "name": "Royal families entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-7",
+        "name": "Royal families entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-8",
+        "name": "Royal families entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-9",
+        "name": "Royal families entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-10",
+        "name": "Royal families entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-11",
+        "name": "Royal families entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-12",
+        "name": "Royal families entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-13",
+        "name": "Royal families entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-14",
+        "name": "Royal families entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-15",
+        "name": "Royal families entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-16",
+        "name": "Royal families entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-17",
+        "name": "Royal families entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-18",
+        "name": "Royal families entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-19",
+        "name": "Royal families entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-20",
+        "name": "Royal families entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-21",
+        "name": "Royal families entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-22",
+        "name": "Royal families entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-23",
+        "name": "Royal families entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "royal-families-entry-24",
+        "name": "Royal families entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Royal families.",
+        "description": "A supporting encyclopedia entry in the Royal families subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Royal families legacy is a primary trailhead under Royal families.",
         0.88,
         0.82
+    ],
+    [
+        "royal-families",
+        "royal-families-practices",
+        "contains",
+        "Royal families practices is a primary trailhead under Royal families.",
+        0.88,
+        0.82
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-1",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-2",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-3",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-4",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-5",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-6",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-7",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-8",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-9",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-10",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-11",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-12",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-13",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-14",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-15",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-16",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-17",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-18",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-19",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-20",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-21",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-22",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-23",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
+    ],
+    [
+        "royal-families",
+        "royal-families-entry-24",
+        "contains",
+        "Supporting entry under Royal families.",
+        0.75,
+        0.7
     ]
 ];
 

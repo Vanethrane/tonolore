@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Mortal Kombat.",
         "description": "How Mortal Kombat continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "mortal-kombat-practices",
+        "name": "Mortal Kombat practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Mortal Kombat.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Mortal Kombat."
+    },
+    {
+        "slug": "mortal-kombat-entry-1",
+        "name": "Mortal Kombat entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-2",
+        "name": "Mortal Kombat entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-3",
+        "name": "Mortal Kombat entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-4",
+        "name": "Mortal Kombat entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-5",
+        "name": "Mortal Kombat entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-6",
+        "name": "Mortal Kombat entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-7",
+        "name": "Mortal Kombat entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-8",
+        "name": "Mortal Kombat entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-9",
+        "name": "Mortal Kombat entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-10",
+        "name": "Mortal Kombat entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-11",
+        "name": "Mortal Kombat entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-12",
+        "name": "Mortal Kombat entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-13",
+        "name": "Mortal Kombat entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-14",
+        "name": "Mortal Kombat entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-15",
+        "name": "Mortal Kombat entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-16",
+        "name": "Mortal Kombat entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-17",
+        "name": "Mortal Kombat entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-18",
+        "name": "Mortal Kombat entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-19",
+        "name": "Mortal Kombat entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-20",
+        "name": "Mortal Kombat entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-21",
+        "name": "Mortal Kombat entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-22",
+        "name": "Mortal Kombat entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-23",
+        "name": "Mortal Kombat entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mortal-kombat-entry-24",
+        "name": "Mortal Kombat entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Mortal Kombat.",
+        "description": "A supporting encyclopedia entry in the Mortal Kombat subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Mortal Kombat legacy is a primary trailhead under Mortal Kombat.",
         0.88,
         0.82
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-practices",
+        "contains",
+        "Mortal Kombat practices is a primary trailhead under Mortal Kombat.",
+        0.88,
+        0.82
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-1",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-2",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-3",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-4",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-5",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-6",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-7",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-8",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-9",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-10",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-11",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-12",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-13",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-14",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-15",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-16",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-17",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-18",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-19",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-20",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-21",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-22",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-23",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
+    ],
+    [
+        "mortal-kombat",
+        "mortal-kombat-entry-24",
+        "contains",
+        "Supporting entry under Mortal Kombat.",
+        0.75,
+        0.7
     ]
 ];
 

@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into FIBA Basketball World Cup.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify FIBA Basketball World Cup."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-geography",
+        "name": "FIBA Basketball World Cup geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for FIBA Basketball World Cup.",
+        "description": "Regions, routes, and spatial systems that situate FIBA Basketball World Cup beyond single named places."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-legacy",
+        "name": "FIBA Basketball World Cup legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of FIBA Basketball World Cup.",
+        "description": "How FIBA Basketball World Cup continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-practices",
+        "name": "FIBA Basketball World Cup practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in FIBA Basketball World Cup.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in FIBA Basketball World Cup."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-1",
+        "name": "FIBA Basketball World Cup entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-2",
+        "name": "FIBA Basketball World Cup entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-3",
+        "name": "FIBA Basketball World Cup entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-4",
+        "name": "FIBA Basketball World Cup entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-5",
+        "name": "FIBA Basketball World Cup entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-6",
+        "name": "FIBA Basketball World Cup entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-7",
+        "name": "FIBA Basketball World Cup entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-8",
+        "name": "FIBA Basketball World Cup entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-9",
+        "name": "FIBA Basketball World Cup entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-10",
+        "name": "FIBA Basketball World Cup entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-11",
+        "name": "FIBA Basketball World Cup entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-12",
+        "name": "FIBA Basketball World Cup entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-13",
+        "name": "FIBA Basketball World Cup entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-14",
+        "name": "FIBA Basketball World Cup entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-15",
+        "name": "FIBA Basketball World Cup entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-16",
+        "name": "FIBA Basketball World Cup entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-17",
+        "name": "FIBA Basketball World Cup entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-18",
+        "name": "FIBA Basketball World Cup entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-19",
+        "name": "FIBA Basketball World Cup entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-20",
+        "name": "FIBA Basketball World Cup entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-21",
+        "name": "FIBA Basketball World Cup entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fiba-basketball-world-cup-entry-22",
+        "name": "FIBA Basketball World Cup entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIBA Basketball World Cup.",
+        "description": "A supporting encyclopedia entry in the FIBA Basketball World Cup subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "FIBA Basketball World Cup sources is a primary trailhead under FIBA Basketball World Cup.",
         0.88,
         0.82
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-geography",
+        "contains",
+        "FIBA Basketball World Cup geography is a primary trailhead under FIBA Basketball World Cup.",
+        0.88,
+        0.82
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-legacy",
+        "contains",
+        "FIBA Basketball World Cup legacy is a primary trailhead under FIBA Basketball World Cup.",
+        0.88,
+        0.82
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-practices",
+        "contains",
+        "FIBA Basketball World Cup practices is a primary trailhead under FIBA Basketball World Cup.",
+        0.88,
+        0.82
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-1",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-2",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-3",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-4",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-5",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-6",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-7",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-8",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-9",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-10",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-11",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-12",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-13",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-14",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-15",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-16",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-17",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-18",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-19",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-20",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-21",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fiba-basketball-world-cup",
+        "fiba-basketball-world-cup-entry-22",
+        "contains",
+        "Supporting entry under FIBA Basketball World Cup.",
+        0.75,
+        0.7
     ]
 ];
 

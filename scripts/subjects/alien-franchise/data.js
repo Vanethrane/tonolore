@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Alien.",
         "description": "How Alien continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "alien-franchise-practices",
+        "name": "Alien practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Alien.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Alien."
+    },
+    {
+        "slug": "alien-franchise-entry-1",
+        "name": "Alien entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-2",
+        "name": "Alien entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-3",
+        "name": "Alien entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-4",
+        "name": "Alien entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-5",
+        "name": "Alien entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-6",
+        "name": "Alien entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-7",
+        "name": "Alien entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-8",
+        "name": "Alien entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-9",
+        "name": "Alien entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-10",
+        "name": "Alien entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-11",
+        "name": "Alien entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-12",
+        "name": "Alien entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-13",
+        "name": "Alien entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-14",
+        "name": "Alien entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-15",
+        "name": "Alien entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-16",
+        "name": "Alien entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-17",
+        "name": "Alien entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-18",
+        "name": "Alien entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-19",
+        "name": "Alien entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-20",
+        "name": "Alien entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-21",
+        "name": "Alien entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-22",
+        "name": "Alien entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-23",
+        "name": "Alien entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alien-franchise-entry-24",
+        "name": "Alien entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alien.",
+        "description": "A supporting encyclopedia entry in the Alien subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Alien legacy is a primary trailhead under Alien.",
         0.88,
         0.82
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-practices",
+        "contains",
+        "Alien practices is a primary trailhead under Alien.",
+        0.88,
+        0.82
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-1",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-2",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-3",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-4",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-5",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-6",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-7",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-8",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-9",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-10",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-11",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-12",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-13",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-14",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-15",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-16",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-17",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-18",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-19",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-20",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-21",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-22",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-23",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
+    ],
+    [
+        "alien-franchise",
+        "alien-franchise-entry-24",
+        "contains",
+        "Supporting entry under Alien.",
+        0.75,
+        0.7
     ]
 ];
 

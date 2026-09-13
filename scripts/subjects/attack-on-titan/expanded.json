@@ -9480,18 +9480,18 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (attackontitan.fandom.com) for identification and commentary only. Character / franchise art © Hajime Isayama / Kodansha (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T18:03:41.765Z",
+  "generated_at": "2026-09-13T03:56:12.225Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://attackontitan.fandom.com/wiki/",
     "host": "attackontitan.fandom.com"
   },
   "stats": {
-    "fandom_titles": 34,
-    "fandom_enriched_core": 20,
+    "fandom_titles": 1,
+    "fandom_enriched_core": 1,
     "fandom_created": 0,
-    "fandom_images": 32,
-    "fandom_intros": 34,
+    "fandom_images": 1,
+    "fandom_intros": 1,
     "description_ensure_at": "2026-09-12T00:55:35.189Z",
     "description_ensure_count": 1
   }

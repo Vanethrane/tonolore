@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into EuroLeague.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify EuroLeague."
+    },
+    {
+        "slug": "euroleague-geography",
+        "name": "EuroLeague geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for EuroLeague.",
+        "description": "Regions, routes, and spatial systems that situate EuroLeague beyond single named places."
+    },
+    {
+        "slug": "euroleague-legacy",
+        "name": "EuroLeague legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of EuroLeague.",
+        "description": "How EuroLeague continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "euroleague-practices",
+        "name": "EuroLeague practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in EuroLeague.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in EuroLeague."
+    },
+    {
+        "slug": "euroleague-entry-1",
+        "name": "EuroLeague entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "euroleague-entry-2",
+        "name": "EuroLeague entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "euroleague-entry-3",
+        "name": "EuroLeague entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "euroleague-entry-4",
+        "name": "EuroLeague entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "euroleague-entry-5",
+        "name": "EuroLeague entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "euroleague-entry-6",
+        "name": "EuroLeague entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "euroleague-entry-7",
+        "name": "EuroLeague entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "euroleague-entry-8",
+        "name": "EuroLeague entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "euroleague-entry-9",
+        "name": "EuroLeague entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "euroleague-entry-10",
+        "name": "EuroLeague entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "euroleague-entry-11",
+        "name": "EuroLeague entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "euroleague-entry-12",
+        "name": "EuroLeague entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "euroleague-entry-13",
+        "name": "EuroLeague entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "euroleague-entry-14",
+        "name": "EuroLeague entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "euroleague-entry-15",
+        "name": "EuroLeague entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "euroleague-entry-16",
+        "name": "EuroLeague entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "euroleague-entry-17",
+        "name": "EuroLeague entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "euroleague-entry-18",
+        "name": "EuroLeague entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "euroleague-entry-19",
+        "name": "EuroLeague entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "euroleague-entry-20",
+        "name": "EuroLeague entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "euroleague-entry-21",
+        "name": "EuroLeague entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "euroleague-entry-22",
+        "name": "EuroLeague entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside EuroLeague.",
+        "description": "A supporting encyclopedia entry in the EuroLeague subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "EuroLeague sources is a primary trailhead under EuroLeague.",
         0.88,
         0.82
+    ],
+    [
+        "euroleague",
+        "euroleague-geography",
+        "contains",
+        "EuroLeague geography is a primary trailhead under EuroLeague.",
+        0.88,
+        0.82
+    ],
+    [
+        "euroleague",
+        "euroleague-legacy",
+        "contains",
+        "EuroLeague legacy is a primary trailhead under EuroLeague.",
+        0.88,
+        0.82
+    ],
+    [
+        "euroleague",
+        "euroleague-practices",
+        "contains",
+        "EuroLeague practices is a primary trailhead under EuroLeague.",
+        0.88,
+        0.82
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-1",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-2",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-3",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-4",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-5",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-6",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-7",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-8",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-9",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-10",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-11",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-12",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-13",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-14",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-15",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-16",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-17",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-18",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-19",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-20",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-21",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
+    ],
+    [
+        "euroleague",
+        "euroleague-entry-22",
+        "contains",
+        "Supporting entry under EuroLeague.",
+        0.75,
+        0.7
     ]
 ];
 

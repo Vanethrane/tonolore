@@ -6236,18 +6236,18 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (kimetsu-no-yaiba.fandom.com) for identification and commentary only. Character / franchise art © Koyoharu Gotouge / Shueisha / Aniplex / ufotable (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T18:03:25.533Z",
+  "generated_at": "2026-09-13T03:55:50.091Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://kimetsu-no-yaiba.fandom.com/wiki/",
     "host": "kimetsu-no-yaiba.fandom.com"
   },
   "stats": {
-    "fandom_titles": 29,
-    "fandom_enriched_core": 18,
+    "fandom_titles": 1,
+    "fandom_enriched_core": 1,
     "fandom_created": 0,
-    "fandom_images": 29,
-    "fandom_intros": 29,
+    "fandom_images": 1,
+    "fandom_intros": 1,
     "description_ensure_at": "2026-09-11T22:25:08.921Z",
     "description_ensure_count": 28
   }

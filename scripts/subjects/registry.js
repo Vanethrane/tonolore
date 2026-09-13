@@ -16,6 +16,7 @@ const {
 } = require("./tabletopCardCatalog");
 const { expansionSubjectIds } = require("./expansionCatalog");
 const { sportsSubjectIds } = require("./sportsCatalog");
+const { depthFillSubjectIds } = require("./categoryDepthFillers");
 const {
     categoryPathsForSubject,
     formatHubSummaries
@@ -72,8 +73,23 @@ const SUBJECT_IDS = [
     ...newCardGameSubjectIds(),
     ...boardGameSubjectIds(),
     ...sportsSubjectIds(),
-    ...expansionSubjectIds()
+    ...expansionSubjectIds(),
+    // Core-shelf depth fillers (anime/movies/etc.) not already covered above.
+    ...depthFillSubjectIds().filter((id) => {
+        // expansionSubjectIds already includes expansion-depth fillers.
+        return true;
+    })
 ];
+
+// Deduplicate while preserving order.
+const _seenIds = new Set();
+const SUBJECT_IDS_UNIQUE = SUBJECT_IDS.filter((id) => {
+    if (_seenIds.has(id)) {
+        return false;
+    }
+    _seenIds.add(id);
+    return true;
+});
 
 function loadSubject(id) {
     // eslint-disable-next-line import/no-dynamic-require, global-require
@@ -82,7 +98,7 @@ function loadSubject(id) {
 }
 
 function listSubjectMeta() {
-    return SUBJECT_IDS.map((id) => {
+    return SUBJECT_IDS_UNIQUE.map((id) => {
         const subject = loadSubject(id);
         const rootSlug = subject.rootSlug || id;
         return {
@@ -117,7 +133,7 @@ function getSubjectMeta(idOrTheme) {
 }
 
 module.exports = {
-    SUBJECT_IDS,
+    SUBJECT_IDS: SUBJECT_IDS_UNIQUE,
     CATEGORY_CATALOG,
     loadSubject,
     listSubjectMeta,

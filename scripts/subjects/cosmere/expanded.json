@@ -2,7 +2,7 @@
   "enrichments": [
     {
       "slug": "elend-venture",
-      "description": "Elend Venture is an idealistic young noble and later, a Mistborn from the Final Empire on Scadrial. Alothumbngside Vin and the remnants of Kelsier's crew, he forms the New Empire and helps to save the world from its destruction at Ruin's hands by uniting as many people as possible, using Seers to burn the vast atium cache known as the Trust, and allowing Marsh to kill him during the Battle of Hathsin, giving Vin the drive to kill Ruin. Category:Characters Category:Male Characters Category:Mistborn Category:Cosmere Characters Category:Mistborn Characters Category:Cosmere Category:Kelsier's Crew Category:Dead Characters Category:Magic Users Category:Allomancy Users Category:Venture Army Category:Residents of Luthadel Category:Nobles Category:Scadrians Category:Viewpoint Characters",
+      "description": "Elend Venture is an idealistic young noble and later, a Mistborn from the Final Empire on Scadrial. Alothumbngside Vin and the remnants of Kelsier's crew, he forms the New Empire and helps to save the world from its destruction at Ruin's hands by uniting as many people as possible, using Seers to burn the vast atium cache known as the Trust, and allowing Marsh to kill him during the Battle of Hathsin, giving Vin the drive to kill Ruin.\n\nCategory:Characters Category:Male Characters Category:Mistborn Category:Cosmere Characters Category:Mistborn Characters Category:Cosmere Category:Kelsier's Crew Category:Dead Characters Category:Magic Users Category:Allomancy Users Category:Venture Army Category:Residents of Luthadel Category:Nobles Category:Scadrians Category:Viewpoint Characters",
       "image_url": "https://static.wikia.nocookie.net/brandon-sanderson/images/6/61/Elend_Venture1.jpg/revision/latest/scale-to-width-down/360?cb=20200120204635",
       "image_source": "https://brandon-sanderson.fandom.com/wiki/Elend_Venture",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Brandon Sanderson / Dragonsteel Entertainment (as applicable). Not free or redistributable artwork.",
@@ -18,7 +18,8 @@
           "fandom"
         ],
         "fandom_preferred_image": true
-      }
+      },
+      "short_description": "Elend Venture is an idealistic young noble and later, a Mistborn from the Final Empire on Scadrial. Alothumbngside Vin and the remnants of Kelsier's crew, he forms the New Empire and helps to save the world from its…"
     },
     {
       "slug": "harmony",
@@ -5798,18 +5799,18 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (brandon-sanderson.fandom.com) for identification and commentary only. Character / franchise art © Brandon Sanderson / Dragonsteel Entertainment (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-10T23:31:16.635Z",
+  "generated_at": "2026-09-13T03:34:56.227Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://brandon-sanderson.fandom.com/wiki/",
     "host": "brandon-sanderson.fandom.com"
   },
   "stats": {
-    "fandom_titles": 199,
-    "fandom_enriched_core": 111,
-    "fandom_created": 88,
-    "fandom_images": 73,
-    "fandom_intros": 31,
+    "fandom_titles": 1,
+    "fandom_enriched_core": 1,
+    "fandom_created": 0,
+    "fandom_images": 1,
+    "fandom_intros": 1,
     "image_backfill_at": "2026-09-11T16:28:31.172Z",
     "image_backfill_count": 7,
     "description_backfill_at": "2026-09-11T22:22:10.943Z",

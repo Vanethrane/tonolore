@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Famous shipwrecks.",
         "description": "How Famous shipwrecks continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "famous-shipwrecks-practices",
+        "name": "Famous shipwrecks practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Famous shipwrecks.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Famous shipwrecks."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-1",
+        "name": "Famous shipwrecks entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-2",
+        "name": "Famous shipwrecks entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-3",
+        "name": "Famous shipwrecks entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-4",
+        "name": "Famous shipwrecks entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-5",
+        "name": "Famous shipwrecks entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-6",
+        "name": "Famous shipwrecks entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-7",
+        "name": "Famous shipwrecks entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-8",
+        "name": "Famous shipwrecks entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-9",
+        "name": "Famous shipwrecks entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-10",
+        "name": "Famous shipwrecks entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-11",
+        "name": "Famous shipwrecks entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-12",
+        "name": "Famous shipwrecks entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-13",
+        "name": "Famous shipwrecks entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-14",
+        "name": "Famous shipwrecks entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-15",
+        "name": "Famous shipwrecks entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-16",
+        "name": "Famous shipwrecks entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-17",
+        "name": "Famous shipwrecks entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-18",
+        "name": "Famous shipwrecks entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-19",
+        "name": "Famous shipwrecks entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-20",
+        "name": "Famous shipwrecks entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-21",
+        "name": "Famous shipwrecks entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-22",
+        "name": "Famous shipwrecks entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-23",
+        "name": "Famous shipwrecks entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "famous-shipwrecks-entry-24",
+        "name": "Famous shipwrecks entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Famous shipwrecks.",
+        "description": "A supporting encyclopedia entry in the Famous shipwrecks subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Famous shipwrecks legacy is a primary trailhead under Famous shipwrecks.",
         0.88,
         0.82
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-practices",
+        "contains",
+        "Famous shipwrecks practices is a primary trailhead under Famous shipwrecks.",
+        0.88,
+        0.82
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-1",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-2",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-3",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-4",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-5",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-6",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-7",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-8",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-9",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-10",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-11",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-12",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-13",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-14",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-15",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-16",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-17",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-18",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-19",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-20",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-21",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-22",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-23",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
+    ],
+    [
+        "famous-shipwrecks",
+        "famous-shipwrecks-entry-24",
+        "contains",
+        "Supporting entry under Famous shipwrecks.",
+        0.75,
+        0.7
     ]
 ];
 

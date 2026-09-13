@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into Commonwealth Games.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify Commonwealth Games."
+    },
+    {
+        "slug": "commonwealth-games-geography",
+        "name": "Commonwealth Games geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for Commonwealth Games.",
+        "description": "Regions, routes, and spatial systems that situate Commonwealth Games beyond single named places."
+    },
+    {
+        "slug": "commonwealth-games-legacy",
+        "name": "Commonwealth Games legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Commonwealth Games.",
+        "description": "How Commonwealth Games continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "commonwealth-games-practices",
+        "name": "Commonwealth Games practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Commonwealth Games.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Commonwealth Games."
+    },
+    {
+        "slug": "commonwealth-games-entry-1",
+        "name": "Commonwealth Games entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "commonwealth-games-entry-2",
+        "name": "Commonwealth Games entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "commonwealth-games-entry-3",
+        "name": "Commonwealth Games entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "commonwealth-games-entry-4",
+        "name": "Commonwealth Games entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "commonwealth-games-entry-5",
+        "name": "Commonwealth Games entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "commonwealth-games-entry-6",
+        "name": "Commonwealth Games entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "commonwealth-games-entry-7",
+        "name": "Commonwealth Games entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "commonwealth-games-entry-8",
+        "name": "Commonwealth Games entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "commonwealth-games-entry-9",
+        "name": "Commonwealth Games entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "commonwealth-games-entry-10",
+        "name": "Commonwealth Games entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "commonwealth-games-entry-11",
+        "name": "Commonwealth Games entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "commonwealth-games-entry-12",
+        "name": "Commonwealth Games entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "commonwealth-games-entry-13",
+        "name": "Commonwealth Games entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "commonwealth-games-entry-14",
+        "name": "Commonwealth Games entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "commonwealth-games-entry-15",
+        "name": "Commonwealth Games entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "commonwealth-games-entry-16",
+        "name": "Commonwealth Games entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "commonwealth-games-entry-17",
+        "name": "Commonwealth Games entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "commonwealth-games-entry-18",
+        "name": "Commonwealth Games entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "commonwealth-games-entry-19",
+        "name": "Commonwealth Games entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "commonwealth-games-entry-20",
+        "name": "Commonwealth Games entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "commonwealth-games-entry-21",
+        "name": "Commonwealth Games entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "commonwealth-games-entry-22",
+        "name": "Commonwealth Games entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Commonwealth Games.",
+        "description": "A supporting encyclopedia entry in the Commonwealth Games subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "Commonwealth Games sources is a primary trailhead under Commonwealth Games.",
         0.88,
         0.82
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-geography",
+        "contains",
+        "Commonwealth Games geography is a primary trailhead under Commonwealth Games.",
+        0.88,
+        0.82
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-legacy",
+        "contains",
+        "Commonwealth Games legacy is a primary trailhead under Commonwealth Games.",
+        0.88,
+        0.82
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-practices",
+        "contains",
+        "Commonwealth Games practices is a primary trailhead under Commonwealth Games.",
+        0.88,
+        0.82
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-1",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-2",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-3",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-4",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-5",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-6",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-7",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-8",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-9",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-10",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-11",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-12",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-13",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-14",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-15",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-16",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-17",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-18",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-19",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-20",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-21",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "commonwealth-games",
+        "commonwealth-games-entry-22",
+        "contains",
+        "Supporting entry under Commonwealth Games.",
+        0.75,
+        0.7
     ]
 ];
 

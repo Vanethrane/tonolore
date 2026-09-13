@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Pixar.",
         "description": "How Pixar continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "pixar-practices",
+        "name": "Pixar practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Pixar.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Pixar."
+    },
+    {
+        "slug": "pixar-entry-1",
+        "name": "Pixar entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-2",
+        "name": "Pixar entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-3",
+        "name": "Pixar entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-4",
+        "name": "Pixar entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-5",
+        "name": "Pixar entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-6",
+        "name": "Pixar entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-7",
+        "name": "Pixar entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-8",
+        "name": "Pixar entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-9",
+        "name": "Pixar entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-10",
+        "name": "Pixar entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-11",
+        "name": "Pixar entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-12",
+        "name": "Pixar entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-13",
+        "name": "Pixar entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-14",
+        "name": "Pixar entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-15",
+        "name": "Pixar entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-16",
+        "name": "Pixar entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-17",
+        "name": "Pixar entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-18",
+        "name": "Pixar entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-19",
+        "name": "Pixar entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-20",
+        "name": "Pixar entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-21",
+        "name": "Pixar entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-22",
+        "name": "Pixar entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-23",
+        "name": "Pixar entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pixar-entry-24",
+        "name": "Pixar entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pixar.",
+        "description": "A supporting encyclopedia entry in the Pixar subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Pixar legacy is a primary trailhead under Pixar.",
         0.88,
         0.82
+    ],
+    [
+        "pixar",
+        "pixar-practices",
+        "contains",
+        "Pixar practices is a primary trailhead under Pixar.",
+        0.88,
+        0.82
+    ],
+    [
+        "pixar",
+        "pixar-entry-1",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-2",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-3",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-4",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-5",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-6",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-7",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-8",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-9",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-10",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-11",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-12",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-13",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-14",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-15",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-16",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-17",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-18",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-19",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-20",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-21",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-22",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-23",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
+    ],
+    [
+        "pixar",
+        "pixar-entry-24",
+        "contains",
+        "Supporting entry under Pixar.",
+        0.75,
+        0.7
     ]
 ];
 

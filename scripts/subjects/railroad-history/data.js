@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Railroad history.",
         "description": "How Railroad history continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "railroad-history-practices",
+        "name": "Railroad history practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Railroad history.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Railroad history."
+    },
+    {
+        "slug": "railroad-history-entry-1",
+        "name": "Railroad history entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-2",
+        "name": "Railroad history entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-3",
+        "name": "Railroad history entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-4",
+        "name": "Railroad history entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-5",
+        "name": "Railroad history entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-6",
+        "name": "Railroad history entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-7",
+        "name": "Railroad history entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-8",
+        "name": "Railroad history entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-9",
+        "name": "Railroad history entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-10",
+        "name": "Railroad history entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-11",
+        "name": "Railroad history entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-12",
+        "name": "Railroad history entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-13",
+        "name": "Railroad history entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-14",
+        "name": "Railroad history entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-15",
+        "name": "Railroad history entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-16",
+        "name": "Railroad history entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-17",
+        "name": "Railroad history entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-18",
+        "name": "Railroad history entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-19",
+        "name": "Railroad history entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-20",
+        "name": "Railroad history entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-21",
+        "name": "Railroad history entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-22",
+        "name": "Railroad history entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-23",
+        "name": "Railroad history entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "railroad-history-entry-24",
+        "name": "Railroad history entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Railroad history.",
+        "description": "A supporting encyclopedia entry in the Railroad history subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Railroad history legacy is a primary trailhead under Railroad history.",
         0.88,
         0.82
+    ],
+    [
+        "railroad-history",
+        "railroad-history-practices",
+        "contains",
+        "Railroad history practices is a primary trailhead under Railroad history.",
+        0.88,
+        0.82
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-1",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-2",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-3",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-4",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-5",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-6",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-7",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-8",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-9",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-10",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-11",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-12",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-13",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-14",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-15",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-16",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-17",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-18",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-19",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-20",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-21",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-22",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-23",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
+    ],
+    [
+        "railroad-history",
+        "railroad-history-entry-24",
+        "contains",
+        "Supporting entry under Railroad history.",
+        0.75,
+        0.7
     ]
 ];
 

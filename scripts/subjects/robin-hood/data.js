@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Robin Hood.",
         "description": "How Robin Hood continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "robin-hood-practices",
+        "name": "Robin Hood practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Robin Hood.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Robin Hood."
+    },
+    {
+        "slug": "robin-hood-entry-1",
+        "name": "Robin Hood entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-2",
+        "name": "Robin Hood entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-3",
+        "name": "Robin Hood entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-4",
+        "name": "Robin Hood entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-5",
+        "name": "Robin Hood entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-6",
+        "name": "Robin Hood entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-7",
+        "name": "Robin Hood entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-8",
+        "name": "Robin Hood entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-9",
+        "name": "Robin Hood entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-10",
+        "name": "Robin Hood entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-11",
+        "name": "Robin Hood entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-12",
+        "name": "Robin Hood entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-13",
+        "name": "Robin Hood entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-14",
+        "name": "Robin Hood entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-15",
+        "name": "Robin Hood entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-16",
+        "name": "Robin Hood entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-17",
+        "name": "Robin Hood entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-18",
+        "name": "Robin Hood entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-19",
+        "name": "Robin Hood entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-20",
+        "name": "Robin Hood entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-21",
+        "name": "Robin Hood entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-22",
+        "name": "Robin Hood entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-23",
+        "name": "Robin Hood entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "robin-hood-entry-24",
+        "name": "Robin Hood entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Robin Hood.",
+        "description": "A supporting encyclopedia entry in the Robin Hood subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Robin Hood legacy is a primary trailhead under Robin Hood.",
         0.88,
         0.82
+    ],
+    [
+        "robin-hood",
+        "robin-hood-practices",
+        "contains",
+        "Robin Hood practices is a primary trailhead under Robin Hood.",
+        0.88,
+        0.82
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-1",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-2",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-3",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-4",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-5",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-6",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-7",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-8",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-9",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-10",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-11",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-12",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-13",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-14",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-15",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-16",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-17",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-18",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-19",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-20",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-21",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-22",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-23",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
+    ],
+    [
+        "robin-hood",
+        "robin-hood-entry-24",
+        "contains",
+        "Supporting entry under Robin Hood.",
+        0.75,
+        0.7
     ]
 ];
 

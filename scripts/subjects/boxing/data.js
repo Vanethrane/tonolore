@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into Boxing.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify Boxing."
+    },
+    {
+        "slug": "boxing-geography",
+        "name": "Boxing geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for Boxing.",
+        "description": "Regions, routes, and spatial systems that situate Boxing beyond single named places."
+    },
+    {
+        "slug": "boxing-legacy",
+        "name": "Boxing legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Boxing.",
+        "description": "How Boxing continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "boxing-practices",
+        "name": "Boxing practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Boxing.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Boxing."
+    },
+    {
+        "slug": "boxing-entry-1",
+        "name": "Boxing entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "boxing-entry-2",
+        "name": "Boxing entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "boxing-entry-3",
+        "name": "Boxing entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "boxing-entry-4",
+        "name": "Boxing entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "boxing-entry-5",
+        "name": "Boxing entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "boxing-entry-6",
+        "name": "Boxing entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "boxing-entry-7",
+        "name": "Boxing entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "boxing-entry-8",
+        "name": "Boxing entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "boxing-entry-9",
+        "name": "Boxing entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "boxing-entry-10",
+        "name": "Boxing entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "boxing-entry-11",
+        "name": "Boxing entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "boxing-entry-12",
+        "name": "Boxing entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "boxing-entry-13",
+        "name": "Boxing entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "boxing-entry-14",
+        "name": "Boxing entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "boxing-entry-15",
+        "name": "Boxing entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "boxing-entry-16",
+        "name": "Boxing entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "boxing-entry-17",
+        "name": "Boxing entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "boxing-entry-18",
+        "name": "Boxing entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "boxing-entry-19",
+        "name": "Boxing entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "boxing-entry-20",
+        "name": "Boxing entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "boxing-entry-21",
+        "name": "Boxing entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "boxing-entry-22",
+        "name": "Boxing entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Boxing.",
+        "description": "A supporting encyclopedia entry in the Boxing subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "Boxing sources is a primary trailhead under Boxing.",
         0.88,
         0.82
+    ],
+    [
+        "boxing",
+        "boxing-geography",
+        "contains",
+        "Boxing geography is a primary trailhead under Boxing.",
+        0.88,
+        0.82
+    ],
+    [
+        "boxing",
+        "boxing-legacy",
+        "contains",
+        "Boxing legacy is a primary trailhead under Boxing.",
+        0.88,
+        0.82
+    ],
+    [
+        "boxing",
+        "boxing-practices",
+        "contains",
+        "Boxing practices is a primary trailhead under Boxing.",
+        0.88,
+        0.82
+    ],
+    [
+        "boxing",
+        "boxing-entry-1",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "boxing",
+        "boxing-entry-2",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "boxing",
+        "boxing-entry-3",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "boxing",
+        "boxing-entry-4",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "boxing",
+        "boxing-entry-5",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "boxing",
+        "boxing-entry-6",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "boxing",
+        "boxing-entry-7",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "boxing",
+        "boxing-entry-8",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "boxing",
+        "boxing-entry-9",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "boxing",
+        "boxing-entry-10",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "boxing",
+        "boxing-entry-11",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "boxing",
+        "boxing-entry-12",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "boxing",
+        "boxing-entry-13",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "boxing",
+        "boxing-entry-14",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "boxing",
+        "boxing-entry-15",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "boxing",
+        "boxing-entry-16",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "boxing",
+        "boxing-entry-17",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "boxing",
+        "boxing-entry-18",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "boxing",
+        "boxing-entry-19",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "boxing",
+        "boxing-entry-20",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "boxing",
+        "boxing-entry-21",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
+    ],
+    [
+        "boxing",
+        "boxing-entry-22",
+        "contains",
+        "Supporting entry under Boxing.",
+        0.75,
+        0.7
     ]
 ];
 

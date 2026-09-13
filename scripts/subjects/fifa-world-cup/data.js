@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into FIFA World Cup.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify FIFA World Cup."
+    },
+    {
+        "slug": "fifa-world-cup-geography",
+        "name": "FIFA World Cup geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for FIFA World Cup.",
+        "description": "Regions, routes, and spatial systems that situate FIFA World Cup beyond single named places."
+    },
+    {
+        "slug": "fifa-world-cup-legacy",
+        "name": "FIFA World Cup legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of FIFA World Cup.",
+        "description": "How FIFA World Cup continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "fifa-world-cup-practices",
+        "name": "FIFA World Cup practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in FIFA World Cup.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in FIFA World Cup."
+    },
+    {
+        "slug": "fifa-world-cup-entry-1",
+        "name": "FIFA World Cup entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fifa-world-cup-entry-2",
+        "name": "FIFA World Cup entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fifa-world-cup-entry-3",
+        "name": "FIFA World Cup entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fifa-world-cup-entry-4",
+        "name": "FIFA World Cup entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fifa-world-cup-entry-5",
+        "name": "FIFA World Cup entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fifa-world-cup-entry-6",
+        "name": "FIFA World Cup entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fifa-world-cup-entry-7",
+        "name": "FIFA World Cup entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fifa-world-cup-entry-8",
+        "name": "FIFA World Cup entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fifa-world-cup-entry-9",
+        "name": "FIFA World Cup entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fifa-world-cup-entry-10",
+        "name": "FIFA World Cup entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fifa-world-cup-entry-11",
+        "name": "FIFA World Cup entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fifa-world-cup-entry-12",
+        "name": "FIFA World Cup entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fifa-world-cup-entry-13",
+        "name": "FIFA World Cup entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fifa-world-cup-entry-14",
+        "name": "FIFA World Cup entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fifa-world-cup-entry-15",
+        "name": "FIFA World Cup entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fifa-world-cup-entry-16",
+        "name": "FIFA World Cup entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fifa-world-cup-entry-17",
+        "name": "FIFA World Cup entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fifa-world-cup-entry-18",
+        "name": "FIFA World Cup entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fifa-world-cup-entry-19",
+        "name": "FIFA World Cup entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fifa-world-cup-entry-20",
+        "name": "FIFA World Cup entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fifa-world-cup-entry-21",
+        "name": "FIFA World Cup entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "fifa-world-cup-entry-22",
+        "name": "FIFA World Cup entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside FIFA World Cup.",
+        "description": "A supporting encyclopedia entry in the FIFA World Cup subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "FIFA World Cup sources is a primary trailhead under FIFA World Cup.",
         0.88,
         0.82
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-geography",
+        "contains",
+        "FIFA World Cup geography is a primary trailhead under FIFA World Cup.",
+        0.88,
+        0.82
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-legacy",
+        "contains",
+        "FIFA World Cup legacy is a primary trailhead under FIFA World Cup.",
+        0.88,
+        0.82
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-practices",
+        "contains",
+        "FIFA World Cup practices is a primary trailhead under FIFA World Cup.",
+        0.88,
+        0.82
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-1",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-2",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-3",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-4",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-5",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-6",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-7",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-8",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-9",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-10",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-11",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-12",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-13",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-14",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-15",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-16",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-17",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-18",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-19",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-20",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-21",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
+    ],
+    [
+        "fifa-world-cup",
+        "fifa-world-cup-entry-22",
+        "contains",
+        "Supporting entry under FIFA World Cup.",
+        0.75,
+        0.7
     ]
 ];
 

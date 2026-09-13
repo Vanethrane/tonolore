@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Dinosaurs.",
         "description": "How Dinosaurs continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "dinosaurs-practices",
+        "name": "Dinosaurs & prehistoric life practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Dinosaurs & prehistoric life.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Dinosaurs & prehistoric life."
+    },
+    {
+        "slug": "dinosaurs-entry-1",
+        "name": "Dinosaurs & prehistoric life entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-2",
+        "name": "Dinosaurs & prehistoric life entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-3",
+        "name": "Dinosaurs & prehistoric life entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-4",
+        "name": "Dinosaurs & prehistoric life entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-5",
+        "name": "Dinosaurs & prehistoric life entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-6",
+        "name": "Dinosaurs & prehistoric life entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-7",
+        "name": "Dinosaurs & prehistoric life entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-8",
+        "name": "Dinosaurs & prehistoric life entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-9",
+        "name": "Dinosaurs & prehistoric life entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-10",
+        "name": "Dinosaurs & prehistoric life entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-11",
+        "name": "Dinosaurs & prehistoric life entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-12",
+        "name": "Dinosaurs & prehistoric life entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-13",
+        "name": "Dinosaurs & prehistoric life entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-14",
+        "name": "Dinosaurs & prehistoric life entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-15",
+        "name": "Dinosaurs & prehistoric life entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-16",
+        "name": "Dinosaurs & prehistoric life entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-17",
+        "name": "Dinosaurs & prehistoric life entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-18",
+        "name": "Dinosaurs & prehistoric life entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-19",
+        "name": "Dinosaurs & prehistoric life entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-20",
+        "name": "Dinosaurs & prehistoric life entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-21",
+        "name": "Dinosaurs & prehistoric life entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-22",
+        "name": "Dinosaurs & prehistoric life entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-23",
+        "name": "Dinosaurs & prehistoric life entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dinosaurs-entry-24",
+        "name": "Dinosaurs & prehistoric life entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dinosaurs & prehistoric life.",
+        "description": "A supporting encyclopedia entry in the Dinosaurs & prehistoric life subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Dinosaurs legacy is a primary trailhead under Dinosaurs.",
         0.88,
         0.82
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-practices",
+        "contains",
+        "Dinosaurs & prehistoric life practices is a primary trailhead under Dinosaurs & prehistoric life.",
+        0.88,
+        0.82
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-1",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-2",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-3",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-4",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-5",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-6",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-7",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-8",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-9",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-10",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-11",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-12",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-13",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-14",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-15",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-16",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-17",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-18",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-19",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-20",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-21",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-22",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-23",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
+    ],
+    [
+        "dinosaurs",
+        "dinosaurs-entry-24",
+        "contains",
+        "Supporting entry under Dinosaurs & prehistoric life.",
+        0.75,
+        0.7
     ]
 ];
 

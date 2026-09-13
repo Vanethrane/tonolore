@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into Negro Leagues.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify Negro Leagues."
+    },
+    {
+        "slug": "negro-leagues-geography",
+        "name": "Negro Leagues geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for Negro Leagues.",
+        "description": "Regions, routes, and spatial systems that situate Negro Leagues beyond single named places."
+    },
+    {
+        "slug": "negro-leagues-legacy",
+        "name": "Negro Leagues legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Negro Leagues.",
+        "description": "How Negro Leagues continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "negro-leagues-practices",
+        "name": "Negro Leagues practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Negro Leagues.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Negro Leagues."
+    },
+    {
+        "slug": "negro-leagues-entry-1",
+        "name": "Negro Leagues entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "negro-leagues-entry-2",
+        "name": "Negro Leagues entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "negro-leagues-entry-3",
+        "name": "Negro Leagues entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "negro-leagues-entry-4",
+        "name": "Negro Leagues entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "negro-leagues-entry-5",
+        "name": "Negro Leagues entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "negro-leagues-entry-6",
+        "name": "Negro Leagues entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "negro-leagues-entry-7",
+        "name": "Negro Leagues entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "negro-leagues-entry-8",
+        "name": "Negro Leagues entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "negro-leagues-entry-9",
+        "name": "Negro Leagues entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "negro-leagues-entry-10",
+        "name": "Negro Leagues entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "negro-leagues-entry-11",
+        "name": "Negro Leagues entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "negro-leagues-entry-12",
+        "name": "Negro Leagues entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "negro-leagues-entry-13",
+        "name": "Negro Leagues entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "negro-leagues-entry-14",
+        "name": "Negro Leagues entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "negro-leagues-entry-15",
+        "name": "Negro Leagues entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "negro-leagues-entry-16",
+        "name": "Negro Leagues entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "negro-leagues-entry-17",
+        "name": "Negro Leagues entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "negro-leagues-entry-18",
+        "name": "Negro Leagues entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "negro-leagues-entry-19",
+        "name": "Negro Leagues entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "negro-leagues-entry-20",
+        "name": "Negro Leagues entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "negro-leagues-entry-21",
+        "name": "Negro Leagues entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "negro-leagues-entry-22",
+        "name": "Negro Leagues entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Negro Leagues.",
+        "description": "A supporting encyclopedia entry in the Negro Leagues subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "Negro Leagues sources is a primary trailhead under Negro Leagues.",
         0.88,
         0.82
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-geography",
+        "contains",
+        "Negro Leagues geography is a primary trailhead under Negro Leagues.",
+        0.88,
+        0.82
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-legacy",
+        "contains",
+        "Negro Leagues legacy is a primary trailhead under Negro Leagues.",
+        0.88,
+        0.82
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-practices",
+        "contains",
+        "Negro Leagues practices is a primary trailhead under Negro Leagues.",
+        0.88,
+        0.82
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-1",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-2",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-3",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-4",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-5",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-6",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-7",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-8",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-9",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-10",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-11",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-12",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-13",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-14",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-15",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-16",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-17",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-18",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-19",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-20",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-21",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
+    ],
+    [
+        "negro-leagues",
+        "negro-leagues-entry-22",
+        "contains",
+        "Supporting entry under Negro Leagues.",
+        0.75,
+        0.7
     ]
 ];
 

@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Conspiracy theories.",
         "description": "How Conspiracy theories continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "conspiracy-theories-practices",
+        "name": "Conspiracy theories practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Conspiracy theories.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Conspiracy theories."
+    },
+    {
+        "slug": "conspiracy-theories-entry-1",
+        "name": "Conspiracy theories entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-2",
+        "name": "Conspiracy theories entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-3",
+        "name": "Conspiracy theories entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-4",
+        "name": "Conspiracy theories entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-5",
+        "name": "Conspiracy theories entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-6",
+        "name": "Conspiracy theories entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-7",
+        "name": "Conspiracy theories entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-8",
+        "name": "Conspiracy theories entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-9",
+        "name": "Conspiracy theories entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-10",
+        "name": "Conspiracy theories entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-11",
+        "name": "Conspiracy theories entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-12",
+        "name": "Conspiracy theories entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-13",
+        "name": "Conspiracy theories entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-14",
+        "name": "Conspiracy theories entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-15",
+        "name": "Conspiracy theories entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-16",
+        "name": "Conspiracy theories entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-17",
+        "name": "Conspiracy theories entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-18",
+        "name": "Conspiracy theories entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-19",
+        "name": "Conspiracy theories entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-20",
+        "name": "Conspiracy theories entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-21",
+        "name": "Conspiracy theories entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-22",
+        "name": "Conspiracy theories entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-23",
+        "name": "Conspiracy theories entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "conspiracy-theories-entry-24",
+        "name": "Conspiracy theories entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Conspiracy theories.",
+        "description": "A supporting encyclopedia entry in the Conspiracy theories subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Conspiracy theories legacy is a primary trailhead under Conspiracy theories.",
         0.88,
         0.82
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-practices",
+        "contains",
+        "Conspiracy theories practices is a primary trailhead under Conspiracy theories.",
+        0.88,
+        0.82
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-1",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-2",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-3",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-4",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-5",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-6",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-7",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-8",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-9",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-10",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-11",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-12",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-13",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-14",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-15",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-16",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-17",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-18",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-19",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-20",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-21",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-22",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-23",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
+    ],
+    [
+        "conspiracy-theories",
+        "conspiracy-theories-entry-24",
+        "contains",
+        "Supporting entry under Conspiracy theories.",
+        0.75,
+        0.7
     ]
 ];
 

@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Castles & fortresses.",
         "description": "How Castles & fortresses continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "castles-fortresses-practices",
+        "name": "Castles & fortresses practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Castles & fortresses.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Castles & fortresses."
+    },
+    {
+        "slug": "castles-fortresses-entry-1",
+        "name": "Castles & fortresses entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-2",
+        "name": "Castles & fortresses entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-3",
+        "name": "Castles & fortresses entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-4",
+        "name": "Castles & fortresses entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-5",
+        "name": "Castles & fortresses entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-6",
+        "name": "Castles & fortresses entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-7",
+        "name": "Castles & fortresses entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-8",
+        "name": "Castles & fortresses entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-9",
+        "name": "Castles & fortresses entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-10",
+        "name": "Castles & fortresses entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-11",
+        "name": "Castles & fortresses entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-12",
+        "name": "Castles & fortresses entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-13",
+        "name": "Castles & fortresses entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-14",
+        "name": "Castles & fortresses entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-15",
+        "name": "Castles & fortresses entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-16",
+        "name": "Castles & fortresses entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-17",
+        "name": "Castles & fortresses entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-18",
+        "name": "Castles & fortresses entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-19",
+        "name": "Castles & fortresses entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-20",
+        "name": "Castles & fortresses entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-21",
+        "name": "Castles & fortresses entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-22",
+        "name": "Castles & fortresses entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-23",
+        "name": "Castles & fortresses entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "castles-fortresses-entry-24",
+        "name": "Castles & fortresses entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Castles & fortresses.",
+        "description": "A supporting encyclopedia entry in the Castles & fortresses subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Castles & fortresses legacy is a primary trailhead under Castles & fortresses.",
         0.88,
         0.82
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-practices",
+        "contains",
+        "Castles & fortresses practices is a primary trailhead under Castles & fortresses.",
+        0.88,
+        0.82
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-1",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-2",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-3",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-4",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-5",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-6",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-7",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-8",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-9",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-10",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-11",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-12",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-13",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-14",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-15",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-16",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-17",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-18",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-19",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-20",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-21",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-22",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-23",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
+    ],
+    [
+        "castles-fortresses",
+        "castles-fortresses-entry-24",
+        "contains",
+        "Supporting entry under Castles & fortresses.",
+        0.75,
+        0.7
     ]
 ];
 

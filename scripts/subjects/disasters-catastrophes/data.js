@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Disasters & catastrophes.",
         "description": "How Disasters & catastrophes continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "disasters-catastrophes-practices",
+        "name": "Disasters & catastrophes practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Disasters & catastrophes.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Disasters & catastrophes."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-1",
+        "name": "Disasters & catastrophes entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-2",
+        "name": "Disasters & catastrophes entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-3",
+        "name": "Disasters & catastrophes entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-4",
+        "name": "Disasters & catastrophes entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-5",
+        "name": "Disasters & catastrophes entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-6",
+        "name": "Disasters & catastrophes entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-7",
+        "name": "Disasters & catastrophes entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-8",
+        "name": "Disasters & catastrophes entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-9",
+        "name": "Disasters & catastrophes entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-10",
+        "name": "Disasters & catastrophes entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-11",
+        "name": "Disasters & catastrophes entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-12",
+        "name": "Disasters & catastrophes entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-13",
+        "name": "Disasters & catastrophes entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-14",
+        "name": "Disasters & catastrophes entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-15",
+        "name": "Disasters & catastrophes entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-16",
+        "name": "Disasters & catastrophes entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-17",
+        "name": "Disasters & catastrophes entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-18",
+        "name": "Disasters & catastrophes entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-19",
+        "name": "Disasters & catastrophes entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-20",
+        "name": "Disasters & catastrophes entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-21",
+        "name": "Disasters & catastrophes entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-22",
+        "name": "Disasters & catastrophes entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-23",
+        "name": "Disasters & catastrophes entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disasters-catastrophes-entry-24",
+        "name": "Disasters & catastrophes entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disasters & catastrophes.",
+        "description": "A supporting encyclopedia entry in the Disasters & catastrophes subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Disasters & catastrophes legacy is a primary trailhead under Disasters & catastrophes.",
         0.88,
         0.82
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-practices",
+        "contains",
+        "Disasters & catastrophes practices is a primary trailhead under Disasters & catastrophes.",
+        0.88,
+        0.82
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-1",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-2",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-3",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-4",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-5",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-6",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-7",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-8",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-9",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-10",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-11",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-12",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-13",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-14",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-15",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-16",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-17",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-18",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-19",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-20",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-21",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-22",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-23",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
+    ],
+    [
+        "disasters-catastrophes",
+        "disasters-catastrophes-entry-24",
+        "contains",
+        "Supporting entry under Disasters & catastrophes.",
+        0.75,
+        0.7
     ]
 ];
 

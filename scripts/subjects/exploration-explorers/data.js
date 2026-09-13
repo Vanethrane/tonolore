@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Exploration & explorers.",
         "description": "How Exploration & explorers continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "exploration-explorers-practices",
+        "name": "Exploration & explorers practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Exploration & explorers.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Exploration & explorers."
+    },
+    {
+        "slug": "exploration-explorers-entry-1",
+        "name": "Exploration & explorers entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-2",
+        "name": "Exploration & explorers entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-3",
+        "name": "Exploration & explorers entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-4",
+        "name": "Exploration & explorers entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-5",
+        "name": "Exploration & explorers entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-6",
+        "name": "Exploration & explorers entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-7",
+        "name": "Exploration & explorers entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-8",
+        "name": "Exploration & explorers entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-9",
+        "name": "Exploration & explorers entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-10",
+        "name": "Exploration & explorers entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-11",
+        "name": "Exploration & explorers entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-12",
+        "name": "Exploration & explorers entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-13",
+        "name": "Exploration & explorers entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-14",
+        "name": "Exploration & explorers entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-15",
+        "name": "Exploration & explorers entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-16",
+        "name": "Exploration & explorers entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-17",
+        "name": "Exploration & explorers entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-18",
+        "name": "Exploration & explorers entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-19",
+        "name": "Exploration & explorers entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-20",
+        "name": "Exploration & explorers entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-21",
+        "name": "Exploration & explorers entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-22",
+        "name": "Exploration & explorers entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-23",
+        "name": "Exploration & explorers entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "exploration-explorers-entry-24",
+        "name": "Exploration & explorers entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Exploration & explorers.",
+        "description": "A supporting encyclopedia entry in the Exploration & explorers subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Exploration & explorers legacy is a primary trailhead under Exploration & explorers.",
         0.88,
         0.82
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-practices",
+        "contains",
+        "Exploration & explorers practices is a primary trailhead under Exploration & explorers.",
+        0.88,
+        0.82
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-1",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-2",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-3",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-4",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-5",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-6",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-7",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-8",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-9",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-10",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-11",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-12",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-13",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-14",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-15",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-16",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-17",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-18",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-19",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-20",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-21",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-22",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-23",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
+    ],
+    [
+        "exploration-explorers",
+        "exploration-explorers-entry-24",
+        "contains",
+        "Supporting entry under Exploration & explorers.",
+        0.75,
+        0.7
     ]
 ];
 

@@ -4183,18 +4183,18 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (whitewolf.fandom.com) for identification and commentary only. Character / franchise art © Paradox Interactive / White Wolf (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T17:18:51.346Z",
+  "generated_at": "2026-09-13T04:22:04.115Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://whitewolf.fandom.com/wiki/",
     "host": "whitewolf.fandom.com"
   },
   "stats": {
-    "fandom_titles": 23,
-    "fandom_enriched_core": 10,
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
     "fandom_created": 0,
-    "fandom_images": 11,
-    "fandom_intros": 23,
+    "fandom_images": 0,
+    "fandom_intros": 0,
     "description_ensure_at": "2026-09-12T06:40:36.998Z",
     "description_ensure_count": 2
   }

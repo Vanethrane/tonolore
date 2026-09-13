@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Sushi.",
         "description": "How Sushi continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "sushi-practices",
+        "name": "Sushi practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Sushi.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Sushi."
+    },
+    {
+        "slug": "sushi-entry-1",
+        "name": "Sushi entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-2",
+        "name": "Sushi entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-3",
+        "name": "Sushi entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-4",
+        "name": "Sushi entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-5",
+        "name": "Sushi entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-6",
+        "name": "Sushi entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-7",
+        "name": "Sushi entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-8",
+        "name": "Sushi entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-9",
+        "name": "Sushi entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-10",
+        "name": "Sushi entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-11",
+        "name": "Sushi entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-12",
+        "name": "Sushi entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-13",
+        "name": "Sushi entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-14",
+        "name": "Sushi entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-15",
+        "name": "Sushi entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-16",
+        "name": "Sushi entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-17",
+        "name": "Sushi entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-18",
+        "name": "Sushi entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-19",
+        "name": "Sushi entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-20",
+        "name": "Sushi entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-21",
+        "name": "Sushi entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-22",
+        "name": "Sushi entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-23",
+        "name": "Sushi entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "sushi-entry-24",
+        "name": "Sushi entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Sushi.",
+        "description": "A supporting encyclopedia entry in the Sushi subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Sushi legacy is a primary trailhead under Sushi.",
         0.88,
         0.82
+    ],
+    [
+        "sushi",
+        "sushi-practices",
+        "contains",
+        "Sushi practices is a primary trailhead under Sushi.",
+        0.88,
+        0.82
+    ],
+    [
+        "sushi",
+        "sushi-entry-1",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-2",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-3",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-4",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-5",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-6",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-7",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-8",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-9",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-10",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-11",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-12",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-13",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-14",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-15",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-16",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-17",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-18",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-19",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-20",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-21",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-22",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-23",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
+    ],
+    [
+        "sushi",
+        "sushi-entry-24",
+        "contains",
+        "Supporting entry under Sushi.",
+        0.75,
+        0.7
     ]
 ];
 

@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Secret societies.",
         "description": "How Secret societies continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "secret-societies-practices",
+        "name": "Secret societies practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Secret societies.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Secret societies."
+    },
+    {
+        "slug": "secret-societies-entry-1",
+        "name": "Secret societies entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-2",
+        "name": "Secret societies entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-3",
+        "name": "Secret societies entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-4",
+        "name": "Secret societies entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-5",
+        "name": "Secret societies entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-6",
+        "name": "Secret societies entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-7",
+        "name": "Secret societies entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-8",
+        "name": "Secret societies entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-9",
+        "name": "Secret societies entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-10",
+        "name": "Secret societies entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-11",
+        "name": "Secret societies entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-12",
+        "name": "Secret societies entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-13",
+        "name": "Secret societies entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-14",
+        "name": "Secret societies entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-15",
+        "name": "Secret societies entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-16",
+        "name": "Secret societies entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-17",
+        "name": "Secret societies entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-18",
+        "name": "Secret societies entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-19",
+        "name": "Secret societies entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-20",
+        "name": "Secret societies entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-21",
+        "name": "Secret societies entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-22",
+        "name": "Secret societies entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-23",
+        "name": "Secret societies entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "secret-societies-entry-24",
+        "name": "Secret societies entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Secret societies.",
+        "description": "A supporting encyclopedia entry in the Secret societies subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Secret societies legacy is a primary trailhead under Secret societies.",
         0.88,
         0.82
+    ],
+    [
+        "secret-societies",
+        "secret-societies-practices",
+        "contains",
+        "Secret societies practices is a primary trailhead under Secret societies.",
+        0.88,
+        0.82
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-1",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-2",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-3",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-4",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-5",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-6",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-7",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-8",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-9",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-10",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-11",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-12",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-13",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-14",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-15",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-16",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-17",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-18",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-19",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-20",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-21",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-22",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-23",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
+    ],
+    [
+        "secret-societies",
+        "secret-societies-entry-24",
+        "contains",
+        "Supporting entry under Secret societies.",
+        0.75,
+        0.7
     ]
 ];
 

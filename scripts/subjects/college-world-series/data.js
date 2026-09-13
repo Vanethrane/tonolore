@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into College World Series.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify College World Series."
+    },
+    {
+        "slug": "college-world-series-geography",
+        "name": "College World Series geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for College World Series.",
+        "description": "Regions, routes, and spatial systems that situate College World Series beyond single named places."
+    },
+    {
+        "slug": "college-world-series-legacy",
+        "name": "College World Series legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of College World Series.",
+        "description": "How College World Series continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "college-world-series-practices",
+        "name": "College World Series practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in College World Series.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in College World Series."
+    },
+    {
+        "slug": "college-world-series-entry-1",
+        "name": "College World Series entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "college-world-series-entry-2",
+        "name": "College World Series entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "college-world-series-entry-3",
+        "name": "College World Series entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "college-world-series-entry-4",
+        "name": "College World Series entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "college-world-series-entry-5",
+        "name": "College World Series entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "college-world-series-entry-6",
+        "name": "College World Series entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "college-world-series-entry-7",
+        "name": "College World Series entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "college-world-series-entry-8",
+        "name": "College World Series entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "college-world-series-entry-9",
+        "name": "College World Series entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "college-world-series-entry-10",
+        "name": "College World Series entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "college-world-series-entry-11",
+        "name": "College World Series entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "college-world-series-entry-12",
+        "name": "College World Series entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "college-world-series-entry-13",
+        "name": "College World Series entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "college-world-series-entry-14",
+        "name": "College World Series entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "college-world-series-entry-15",
+        "name": "College World Series entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "college-world-series-entry-16",
+        "name": "College World Series entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "college-world-series-entry-17",
+        "name": "College World Series entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "college-world-series-entry-18",
+        "name": "College World Series entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "college-world-series-entry-19",
+        "name": "College World Series entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "college-world-series-entry-20",
+        "name": "College World Series entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "college-world-series-entry-21",
+        "name": "College World Series entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "college-world-series-entry-22",
+        "name": "College World Series entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside College World Series.",
+        "description": "A supporting encyclopedia entry in the College World Series subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "College World Series sources is a primary trailhead under College World Series.",
         0.88,
         0.82
+    ],
+    [
+        "college-world-series",
+        "college-world-series-geography",
+        "contains",
+        "College World Series geography is a primary trailhead under College World Series.",
+        0.88,
+        0.82
+    ],
+    [
+        "college-world-series",
+        "college-world-series-legacy",
+        "contains",
+        "College World Series legacy is a primary trailhead under College World Series.",
+        0.88,
+        0.82
+    ],
+    [
+        "college-world-series",
+        "college-world-series-practices",
+        "contains",
+        "College World Series practices is a primary trailhead under College World Series.",
+        0.88,
+        0.82
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-1",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-2",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-3",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-4",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-5",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-6",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-7",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-8",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-9",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-10",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-11",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-12",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-13",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-14",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-15",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-16",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-17",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-18",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-19",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-20",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-21",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
+    ],
+    [
+        "college-world-series",
+        "college-world-series-entry-22",
+        "contains",
+        "Supporting entry under College World Series.",
+        0.75,
+        0.7
     ]
 ];
 

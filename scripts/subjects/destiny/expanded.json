@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T18:12:34.505Z",
+  "generated_at": "2026-09-13T04:04:49.584Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -433,10 +433,10 @@
     {
       "slug": "zavala",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Commander_Zavala",
-      "description": "Commander Zavala is the current Titan Vanguard of the Tower. He is a leader with a will of iron and works tirelessly to keep the people of the City safe. He was partnered with the Ghost Targe.\n\nZavala helped in the construction of the wall surrounding the city and the city itself.\n\nZavala, along with Lord Shaxx and Lord Saladin, were all present at the Battle of Twilight Gap, which Zavala was treated as a hero of. Commander Zavala and Lord Shaxx were both apprentices to Lord Saladin at the time of the Battle of Twilight Gap.\n\nZavala was a member of the Consensus at the meeting before the Great Disaster. After Shaxx demanded the guardians trained to combat the Hive's swords, Zavala replied that was up to the Consensus to decide.",
+      "description": "Commander Zavala is a Gaming Legends Series Outfit in Fortnite: Battle Royale, that can be purchased in Item Shop for 1,500 V-Bucks or with the Legends of the Light and Dark Bundle for 2,700 V-Bucks. Commander Zavala was first released in Chapter 3: Season 3 and is part of the Legends of Light and Dark Set. Category:Characters",
       "metadata": {
-        "fandom_url": "https://destiny.fandom.com/wiki/Zavala",
-        "fandom_title": "Zavala",
+        "fandom_url": "https://destiny.fandom.com/wiki/Commander_Zavala_(Fortnite)",
+        "fandom_title": "Commander Zavala (Fortnite)",
         "source_fandom": "destiny.fandom.com",
         "sources": [
           "wikipedia",
@@ -445,12 +445,12 @@
         "fandom_preferred_image": true
       },
       "short_description": "Commander Zavala is a Gaming Legends Series Outfit in Fortnite: Battle Royale, that can be purchased in Item Shop for 1,500 V-Bucks or with the Legends of the Light and Dark Bundle for 2,700 V-Bucks. Commander Zavala…",
-      "image_url": "https://static.wikia.nocookie.net/destinypedia/images/6/62/CommanderZavala2.jpg/revision/latest/scale-to-width-down/360?cb=20160826061659",
-      "image_source": "https://destiny.fandom.com/wiki/Zavala",
+      "image_url": "https://static.wikia.nocookie.net/destinypedia/images/b/b3/Commander_Zavala_29_-_Outfit_-_Fortnite.webp/revision/latest/scale-to-width-down/360?cb=20221205091655",
+      "image_source": "https://destiny.fandom.com/wiki/Commander_Zavala_(Fortnite)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bungie (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Zavala"
+      "image_alt": "Identification thumbnail for Commander Zavala (Fortnite)"
     },
     {
       "slug": "cayde-6",
@@ -22134,11 +22134,11 @@
     "images_attached": 1,
     "core_enrichments": 26,
     "preserved_fandom": 0,
-    "fandom_titles": 31,
-    "fandom_enriched_core": 20,
+    "fandom_titles": 1,
+    "fandom_enriched_core": 1,
     "fandom_created": 0,
-    "fandom_images": 23,
-    "fandom_intros": 31,
+    "fandom_images": 1,
+    "fandom_intros": 1,
     "image_backfill_at": "2026-09-11T16:30:02.557Z",
     "image_backfill_count": 32
   }

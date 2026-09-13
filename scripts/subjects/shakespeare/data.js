@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Shakespeare.",
         "description": "How Shakespeare continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "shakespeare-practices",
+        "name": "Shakespeare practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Shakespeare.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Shakespeare."
+    },
+    {
+        "slug": "shakespeare-entry-1",
+        "name": "Shakespeare entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-2",
+        "name": "Shakespeare entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-3",
+        "name": "Shakespeare entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-4",
+        "name": "Shakespeare entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-5",
+        "name": "Shakespeare entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-6",
+        "name": "Shakespeare entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-7",
+        "name": "Shakespeare entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-8",
+        "name": "Shakespeare entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-9",
+        "name": "Shakespeare entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-10",
+        "name": "Shakespeare entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-11",
+        "name": "Shakespeare entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-12",
+        "name": "Shakespeare entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-13",
+        "name": "Shakespeare entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-14",
+        "name": "Shakespeare entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-15",
+        "name": "Shakespeare entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-16",
+        "name": "Shakespeare entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-17",
+        "name": "Shakespeare entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-18",
+        "name": "Shakespeare entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-19",
+        "name": "Shakespeare entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-20",
+        "name": "Shakespeare entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-21",
+        "name": "Shakespeare entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-22",
+        "name": "Shakespeare entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-23",
+        "name": "Shakespeare entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "shakespeare-entry-24",
+        "name": "Shakespeare entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Shakespeare.",
+        "description": "A supporting encyclopedia entry in the Shakespeare subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Shakespeare legacy is a primary trailhead under Shakespeare.",
         0.88,
         0.82
+    ],
+    [
+        "shakespeare",
+        "shakespeare-practices",
+        "contains",
+        "Shakespeare practices is a primary trailhead under Shakespeare.",
+        0.88,
+        0.82
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-1",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-2",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-3",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-4",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-5",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-6",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-7",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-8",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-9",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-10",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-11",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-12",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-13",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-14",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-15",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-16",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-17",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-18",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-19",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-20",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-21",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-22",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-23",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
+    ],
+    [
+        "shakespeare",
+        "shakespeare-entry-24",
+        "contains",
+        "Supporting entry under Shakespeare.",
+        0.75,
+        0.7
     ]
 ];
 

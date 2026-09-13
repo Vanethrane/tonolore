@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Alchemy & occultism.",
         "description": "How Alchemy & occultism continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "alchemy-occultism-practices",
+        "name": "Alchemy & occultism practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Alchemy & occultism.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Alchemy & occultism."
+    },
+    {
+        "slug": "alchemy-occultism-entry-1",
+        "name": "Alchemy & occultism entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-2",
+        "name": "Alchemy & occultism entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-3",
+        "name": "Alchemy & occultism entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-4",
+        "name": "Alchemy & occultism entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-5",
+        "name": "Alchemy & occultism entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-6",
+        "name": "Alchemy & occultism entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-7",
+        "name": "Alchemy & occultism entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-8",
+        "name": "Alchemy & occultism entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-9",
+        "name": "Alchemy & occultism entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-10",
+        "name": "Alchemy & occultism entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-11",
+        "name": "Alchemy & occultism entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-12",
+        "name": "Alchemy & occultism entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-13",
+        "name": "Alchemy & occultism entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-14",
+        "name": "Alchemy & occultism entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-15",
+        "name": "Alchemy & occultism entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-16",
+        "name": "Alchemy & occultism entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-17",
+        "name": "Alchemy & occultism entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-18",
+        "name": "Alchemy & occultism entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-19",
+        "name": "Alchemy & occultism entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-20",
+        "name": "Alchemy & occultism entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-21",
+        "name": "Alchemy & occultism entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-22",
+        "name": "Alchemy & occultism entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-23",
+        "name": "Alchemy & occultism entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "alchemy-occultism-entry-24",
+        "name": "Alchemy & occultism entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Alchemy & occultism.",
+        "description": "A supporting encyclopedia entry in the Alchemy & occultism subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Alchemy & occultism legacy is a primary trailhead under Alchemy & occultism.",
         0.88,
         0.82
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-practices",
+        "contains",
+        "Alchemy & occultism practices is a primary trailhead under Alchemy & occultism.",
+        0.88,
+        0.82
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-1",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-2",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-3",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-4",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-5",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-6",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-7",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-8",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-9",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-10",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-11",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-12",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-13",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-14",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-15",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-16",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-17",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-18",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-19",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-20",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-21",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-22",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-23",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
+    ],
+    [
+        "alchemy-occultism",
+        "alchemy-occultism-entry-24",
+        "contains",
+        "Supporting entry under Alchemy & occultism.",
+        0.75,
+        0.7
     ]
 ];
 

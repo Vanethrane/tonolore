@@ -299,6 +299,11 @@
       "slug": "birgit",
       "description": "Birgit is a female given name, a short form of Birgitta and ultimately a Germanic form of the Gaelic name Bridget. Notable people with the name include:\n\nBirgit Brüel, Danish singer and actress\n\nBirgit Cramon Daiber (born 1944), German politician\n\nBirgit Collin-Langen, German politician\n\nBirgit Cunningham, Anglo-American activist\n\nBirgit Doll, Austrian actress and theatre director\n\nBirgit Finnilä, Swedish opera singer\n\nBirgit Fischer, German canoer\n\nBirgit Fogh-Andersen (1922–2012), Danish politician\n\nBirgit Friedmann (born 1960), German runner and 1980 world champion\n\nBirgit Hogefeld, German RAF terrorist member\n\nBirgit Kähler, German high jumper\n\nBirgit Meyer (born 1960), Dutch religious studies scholar\n\nBirgit Michels, German badminton player\n\nBirgit Minichmayr, Austrian actress\n\nBirgit Nilsson (1918–2005), Swedish soprano\n\nBirgit Prinz, German football (soccer) player\n\nBirgit Püve, Estonian photographer\n\nBirgit Rausing, Swedish art historian\n\nBirgit Ridderstedt, Swedish singer\n\nBirgit Sarrap, Estonian singer\n\nBirgit Schrowange, German television presenter\n\nBirgit Schuurman, Dutch rock singer\n\nBirgit Skarstein, Norwegian Paralympic athlete\n\nBirgit Strøm (1931–2007), Norwegian actress and puppeteer\n\nBirgit Thumm, German volleyball player\n\nBirgit Vogel-Heuser (born 1961), German computer scientist\n\nBirgit Zotz, Austrian writer and anthropologist",
       "short_description": "Birgit is a female given name, a short form of Birgitta and ultimately a Germanic form of the Gaelic name Bridget. Notable people with the name include:"
+    },
+    {
+      "slug": "12th-avenue",
+      "description": "The Joe DiMaggio Highway, commonly called the West Side Highway and formerly the Miller Highway, is a 5.42-mile-long (8.72 km) mostly surface section of New York State Route 9A (NY 9A), running from West 72nd Street along the Hudson River to the southern tip of Manhattan in New York City. It replaced the West Side Elevated Highway, built between 1929 and 1951, which was shut down in 1973 due to neglect and lack of maintenance, and was dismantled by 1989. North of 72nd Street, the roadway continues as the Henry Hudson Parkway.\n\nThe current highway was complete by 2001, but required reconstruction after the September 11 attacks that year, when the collapse of the World Trade Center caused debris to fall onto the surrounding areas, damaging the highway. It uses the surface streets that existed before the elevated highway was built: West Street, Eleventh Avenue and Twelfth Avenue. A short section of Twelfth Avenue still runs between 125th and 138th Streets, under the Riverside Drive Viaduct. Eleventh Avenue is a separate street north of 22nd Street. The portion between West 42nd Street and Canal Street is part of the Lincoln Highway.",
+      "short_description": "The Joe DiMaggio Highway, commonly called the West Side Highway and formerly the Miller Highway, is a 5.42-mile-long (8.72 km) mostly surface section of New York State Route 9A (NY 9A), running from West 72nd Street…"
     }
   ],
   "entities": [
@@ -14596,6 +14601,174 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "50-marmalade",
+      "name": "$50 Marmalade",
+      "type": "place",
+      "description": "$50 Marmalade is a shop located in the Promenade on the Grove (at Springfield Heights).\n\nCategory:Locations Category:Season 30 locations Category:Businesses Category:Buildings Category:Springfield Category:Springfield Shops",
+      "short_description": "$50 Marmalade is a shop located in the Promenade on the Grove (at Springfield Heights).",
+      "evidence": "fiction",
+      "parentSlug": "springfield",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://simpsons.fandom.com/wiki/$50_Marmalade",
+        "fandom_title": "$50 Marmalade",
+        "source_fandom": "simpsons.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "muff-said",
+      "name": "'Muff Said",
+      "type": "place",
+      "description": "Muff Said is one of the muffin stores that opened on the same block as Edna Krabappel's muffin store, Edna's Edibles, along with R. Crumb's Keep on Muffin', H.R. Muffin Stuff and Muff Mart. The name 'Muff Said is a possible parody of/reference to Marvel Comic's famous saying: 'Nuff said.\n\nThe store only appears in Episode 2, Season 21.\n\nde:'Muff Said Category:Locations Category:Food and drinks Category:Businesses Category:Buildings Category:American Locations Category:Retail Stores Category:Springfield Shops\n\nCategory:One-time locations Category:Shops Category:Season 21 first appearances Category:Season 21 locations Category:Season 21 first appearances Category:Season 21 locations Category:Season 21 first appearances Category:Season 21 locations Category:Season 21 locations Category:Season 21 first appearances Category:Season 21 locations Category:Season 21 locations -->",
+      "short_description": "Muff Said is one of the muffin stores that opened on the same block as Edna Krabappel's muffin store, Edna's Edibles, along with R. Crumb's Keep on Muffin', H.R. Muffin Stuff and Muff Mart. The name 'Muff Said is a…",
+      "evidence": "fiction",
+      "parentSlug": "springfield",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/simpsons/images/3/30/Muff_Said.png/revision/latest/scale-to-width-down/360?cb=20100519081700",
+      "image_source": "https://simpsons.fandom.com/wiki/%27Muff_Said",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Matt Groening / 20th Television / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 'Muff Said",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://simpsons.fandom.com/wiki/%27Muff_Said",
+        "fandom_title": "'Muff Said",
+        "source_fandom": "simpsons.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "1-ocean-view-drive",
+      "name": "1 Ocean View Drive",
+      "type": "place",
+      "description": "1 Ocean View Drive was the address of Judge Constance Harm's houseboat. She lived there along with her pet seal Poncho.\n\nHomer and Marge snuck to the house to post a banner reading \"Big Meanie\" over the boat to get back at the judge for her harsh punishments towards them. However, when Poncho's barks alerted Harm (who was taking a shower when Homer and Marge arrived) to their misdeeds, she hurried outside to discover Homer and Marge in the act. Looking for an escape, Homer threw a cinder block at Harm's head. But the block hit the boat instead, puncturing the side, and causing the entire boat to fill with water until it sank. When the boat sank, Judge Harm's quilt (sewn by her grandmother) went down with it, which made Harm so furious that she attempted to lock up Homer and Marge for life.\n\nCategory:Homes Category:One-time locations Category:American Locations Category:Destroyed Locations Category:Locations Category:Vehicles Category:Springfield Category:Accommodations Category:Season 13 first appearances Category:Season 13 locations Category:Houseboats Category:Boats Category:One-time vehicles",
+      "short_description": "1 Ocean View Drive was the address of Judge Constance Harm's houseboat. She lived there along with her pet seal Poncho.",
+      "evidence": "fiction",
+      "parentSlug": "springfield",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/simpsons/images/4/4c/Ocean_View_1.png/revision/latest/scale-to-width-down/360?cb=20100728140955",
+      "image_source": "https://simpsons.fandom.com/wiki/1_Ocean_View_Drive",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Matt Groening / 20th Television / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 1 Ocean View Drive",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://simpsons.fandom.com/wiki/1_Ocean_View_Drive",
+        "fandom_title": "1 Ocean View Drive",
+        "source_fandom": "simpsons.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "123-fake-street",
+      "name": "123 Fake Street",
+      "type": "place",
+      "description": "123 Fake Street is the address that Marge made up when calling the police. She accidentally cut off Homer's thumb, but Chief Wiggum thought that it was attempted murder and asked for her address so they could come and arrest her. The address happened to exist (it was an abandoned house), because when the police arrived at the location, Milhouse and Bart were there with illegal fireworks to hide from them. As the police burst into the house to expect Marge, they found the boys attempting to hide the fireworks in a closet. Instead of being in trouble, the boys made a deal with the police to go undercover.\n\nes:123 Fake Street pt:Rua Falsa Category:Locations Category:Buildings Category:Homes Category:Springfield Category:American Locations Category:Season 12 locations Category:One-time locations Category:Season 12 first appearances",
+      "short_description": "123 Fake Street is the address that Marge made up when calling the police. She accidentally cut off Homer's thumb, but Chief Wiggum thought that it was attempted murder and asked for her address so they could come and…",
+      "evidence": "fiction",
+      "parentSlug": "springfield",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/simpsons/images/5/53/Fake_street.png/revision/latest/scale-to-width-down/360?cb=20100904145952",
+      "image_source": "https://simpsons.fandom.com/wiki/123_Fake_Street",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Matt Groening / 20th Television / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 123 Fake Street",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://simpsons.fandom.com/wiki/123_Fake_Street",
+        "fandom_title": "123 Fake Street",
+        "source_fandom": "simpsons.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "12th-avenue",
+      "name": "12th Avenue",
+      "type": "place",
+      "description": "The Joe DiMaggio Highway, commonly called the West Side Highway and formerly the Miller Highway, is a 5.42-mile-long (8.72 km) mostly surface section of New York State Route 9A (NY 9A), running from West 72nd Street along the Hudson River to the southern tip of Manhattan in New York City. It replaced the West Side Elevated Highway, built between 1929 and 1951, which was shut down in 1973 due to neglect and lack of maintenance, and was dismantled by 1989. North of 72nd Street, the roadway continues as the Henry Hudson Parkway.\n\nThe current highway was complete by 2001, but required reconstruction after the September 11 attacks that year, when the collapse of the World Trade Center caused debris to fall onto the surrounding areas, damaging the highway. It uses the surface streets that existed before the elevated highway was built: West Street, Eleventh Avenue and Twelfth Avenue. A short section of Twelfth Avenue still runs between 125th and 138th Streets, under the Riverside Drive Viaduct. Eleventh Avenue is a separate street north of 22nd Street. The portion between West 42nd Street and Canal Street is part of the Lincoln Highway.",
+      "short_description": "The Joe DiMaggio Highway, commonly called the West Side Highway and formerly the Miller Highway, is a 5.42-mile-long (8.72 km) mostly surface section of New York State Route 9A (NY 9A), running from West 72nd Street…",
+      "evidence": "fiction",
+      "parentSlug": "springfield",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/simpsons/images/1/15/12thavenue.JPG/revision/latest/scale-to-width-down/360?cb=20260908031600",
+      "image_source": "https://simpsons.fandom.com/wiki/12th_Avenue",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Matt Groening / 20th Television / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 12th Avenue",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://simpsons.fandom.com/wiki/12th_Avenue",
+        "fandom_title": "12th Avenue",
+        "source_fandom": "simpsons.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "13-euclid-street",
+      "name": "13 Euclid Street",
+      "type": "place",
+      "description": "13 Euclid Street is the address of the headquarters of Springfield's chapter of Mensa.\n\nThe street's name is a kind of tree and also a mathematician in Ancient Greece.\n\nCategory:Homes Category:American Locations Category:Locations Category:Season 10 locations",
+      "short_description": "13 Euclid Street is the address of the headquarters of Springfield's chapter of Mensa.",
+      "evidence": "fiction",
+      "parentSlug": "springfield",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/simpsons/images/0/0f/13_euclid_street.png/revision/latest/scale-to-width-down/360?cb=20230516022148",
+      "image_source": "https://simpsons.fandom.com/wiki/13_Euclid_Street",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Matt Groening / 20th Television / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 13 Euclid Street",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://simpsons.fandom.com/wiki/13_Euclid_Street",
+        "fandom_title": "13 Euclid Street",
+        "source_fandom": "simpsons.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -18606,6 +18779,54 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "50-marmalade",
+      "springfield",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "muff-said",
+      "springfield",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "1-ocean-view-drive",
+      "springfield",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "123-fake-street",
+      "springfield",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "12th-avenue",
+      "springfield",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "13-euclid-street",
+      "springfield",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -18614,19 +18835,19 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (simpsons.fandom.com) for identification and commentary only. Character / franchise art © Matt Groening / 20th Television / Disney (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T18:01:18.811Z",
+  "generated_at": "2026-09-13T03:53:12.318Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://simpsons.fandom.com/wiki/",
     "host": "simpsons.fandom.com"
   },
   "stats": {
-    "fandom_titles": 45,
+    "fandom_titles": 1,
     "fandom_enriched_core": 0,
-    "fandom_created": 34,
-    "fandom_images": 42,
-    "fandom_intros": 45,
-    "description_ensure_at": "2026-09-12T18:01:34.954Z",
-    "description_ensure_count": 3
+    "fandom_created": 1,
+    "fandom_images": 1,
+    "fandom_intros": 1,
+    "description_ensure_at": "2026-09-13T02:41:52.566Z",
+    "description_ensure_count": 1
   }
 }

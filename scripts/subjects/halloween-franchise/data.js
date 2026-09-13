@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Halloween.",
         "description": "How Halloween continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "halloween-franchise-practices",
+        "name": "Halloween practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Halloween.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Halloween."
+    },
+    {
+        "slug": "halloween-franchise-entry-1",
+        "name": "Halloween entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-2",
+        "name": "Halloween entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-3",
+        "name": "Halloween entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-4",
+        "name": "Halloween entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-5",
+        "name": "Halloween entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-6",
+        "name": "Halloween entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-7",
+        "name": "Halloween entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-8",
+        "name": "Halloween entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-9",
+        "name": "Halloween entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-10",
+        "name": "Halloween entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-11",
+        "name": "Halloween entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-12",
+        "name": "Halloween entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-13",
+        "name": "Halloween entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-14",
+        "name": "Halloween entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-15",
+        "name": "Halloween entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-16",
+        "name": "Halloween entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-17",
+        "name": "Halloween entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-18",
+        "name": "Halloween entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-19",
+        "name": "Halloween entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-20",
+        "name": "Halloween entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-21",
+        "name": "Halloween entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-22",
+        "name": "Halloween entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-23",
+        "name": "Halloween entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "halloween-franchise-entry-24",
+        "name": "Halloween entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Halloween.",
+        "description": "A supporting encyclopedia entry in the Halloween subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Halloween legacy is a primary trailhead under Halloween.",
         0.88,
         0.82
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-practices",
+        "contains",
+        "Halloween practices is a primary trailhead under Halloween.",
+        0.88,
+        0.82
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-1",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-2",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-3",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-4",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-5",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-6",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-7",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-8",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-9",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-10",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-11",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-12",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-13",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-14",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-15",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-16",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-17",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-18",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-19",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-20",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-21",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-22",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-23",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
+    ],
+    [
+        "halloween-franchise",
+        "halloween-franchise-entry-24",
+        "contains",
+        "Supporting entry under Halloween.",
+        0.75,
+        0.7
     ]
 ];
 

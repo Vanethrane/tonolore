@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Michael Jackson.",
         "description": "Regions, routes, and spatial systems that situate Michael Jackson beyond single named places."
+    },
+    {
+        "slug": "michael-jackson-legacy",
+        "name": "Michael Jackson legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Michael Jackson.",
+        "description": "How Michael Jackson continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "michael-jackson-practices",
+        "name": "Michael Jackson practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Michael Jackson.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Michael Jackson."
+    },
+    {
+        "slug": "michael-jackson-entry-1",
+        "name": "Michael Jackson entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-2",
+        "name": "Michael Jackson entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-3",
+        "name": "Michael Jackson entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-4",
+        "name": "Michael Jackson entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-5",
+        "name": "Michael Jackson entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-6",
+        "name": "Michael Jackson entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-7",
+        "name": "Michael Jackson entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-8",
+        "name": "Michael Jackson entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-9",
+        "name": "Michael Jackson entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-10",
+        "name": "Michael Jackson entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-11",
+        "name": "Michael Jackson entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-12",
+        "name": "Michael Jackson entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-13",
+        "name": "Michael Jackson entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-14",
+        "name": "Michael Jackson entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-15",
+        "name": "Michael Jackson entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-16",
+        "name": "Michael Jackson entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-17",
+        "name": "Michael Jackson entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-18",
+        "name": "Michael Jackson entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-19",
+        "name": "Michael Jackson entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-20",
+        "name": "Michael Jackson entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-21",
+        "name": "Michael Jackson entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-22",
+        "name": "Michael Jackson entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "michael-jackson-entry-23",
+        "name": "Michael Jackson entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Michael Jackson.",
+        "description": "A supporting encyclopedia entry in the Michael Jackson subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Michael Jackson geography is a primary trailhead under Michael Jackson.",
         0.88,
         0.82
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-legacy",
+        "contains",
+        "Michael Jackson legacy is a primary trailhead under Michael Jackson.",
+        0.88,
+        0.82
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-practices",
+        "contains",
+        "Michael Jackson practices is a primary trailhead under Michael Jackson.",
+        0.88,
+        0.82
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-1",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-2",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-3",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-4",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-5",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-6",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-7",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-8",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-9",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-10",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-11",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-12",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-13",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-14",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-15",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-16",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-17",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-18",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-19",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-20",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-21",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-22",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
+    ],
+    [
+        "michael-jackson",
+        "michael-jackson-entry-23",
+        "contains",
+        "Supporting entry under Michael Jackson.",
+        0.75,
+        0.7
     ]
 ];
 

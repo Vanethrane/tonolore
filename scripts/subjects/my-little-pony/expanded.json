@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:29:23.751Z",
+  "generated_at": "2026-09-13T03:15:26.731Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -15162,6 +15162,93 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "appleloosa",
+      "name": "Appleloosa",
+      "type": "place",
+      "description": "When Applejack and friends arrive in Appleloosa, Applejack's cousin Braeburn gives them the grand tour, explaining that the town was built in less than a year. The town includes a saloon called the Salt Block, a clock tower, a stage for musical performances, and acres of apple orchard, and has some of what Braeburn calls the \"finest comforts\" such as horse-drawn carriages, horse-drawn horse-drawn carriages, wild west dances, and mild west dances. The town is governed by Sheriff Silverstar.\n\nDue to the town's location, the Appleloosans are locked in conflict with a tribe of buffalo led by Chief Thunderhooves. The buffalo wish for the ponies to remove the apple orchards from their traditional stampeding grounds, but the ponies refuse out of a need to feed their town and families. When the Mane Six fail to help the two sides reach a compromise, the conflicts escalates to war. During the conflict, Chief Thunderhooves is downed by a stray apple pie. Upon sampling its delicious taste, he decides to allow the ponies to keep the land in exchange for a share of their apple pies. In return, the Appleloosans create a road through the orchard for the buffalo to stampede through.\n\nThe town briefly appears at the beginning of Pinkie Pride, where the ponies and buffalo enjoy a party thrown by Cheese Sandwich.\n\nIn Twilight's Kingdom - Part 1, Appleloosa appears again when Discord captures the town's Earth ponies and Lord Tirek steals their magic. It also appears in Twilight's Kingdom - Part 2 when the Earth ponies' strength is returned.",
+      "short_description": "When Applejack and friends arrive in Appleloosa, Applejack's cousin Braeburn gives them the grand tour, explaining that the town was built in less than a year. The town includes a saloon called the Salt Block, a clock…",
+      "evidence": "fiction",
+      "parentSlug": "my-little-pony",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/mlp/images/c/c5/Appleloosa_Overview_S1E21.png/revision/latest/scale-to-width-down/360?cb=20141016165355",
+      "image_source": "https://mlp.fandom.com/wiki/Appleloosa",
+      "image_credit": "Fair-use identification thumbnail via Fandom. My Little Pony art © Hasbro (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Appleloosa",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://mlp.fandom.com/wiki/Appleloosa",
+        "fandom_title": "Appleloosa",
+        "source_fandom": "mlp.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "camp-everfree",
+      "name": "Camp Everfree",
+      "type": "place",
+      "description": "In My Little Pony Equestria Girls: Legend of Everfree, the students of Canterlot High School raise money in order to fund a field trip to Camp Everfree. There, the campers and their principals engage in various camping activities; Sunset Shimmer and her friends, in particular, seek to get away from the numerous magical menaces that had threatened their school over the course of the past year. However, a magic surrounding the camp causes strange phenomena to occur, such as earthquakes. It also causes the magic within Sunset and her friends to change, granting them new magical powers and abilities.\n\nThe camp is run by sibling co-directors Gloriosa Daisy and Timber Spruce, and it was founded many years ago by their great-grandparents. At the time of Canterlot High School's trip, businessman Filthy Rich seeks to buy out the land that the camp is built upon, tear the camp down, and build a spa resort in its place. Gloriosa is able to keep the camp running as long as she makes regular monetary payments to Filthy Rich, but she falls behind on her payments, and Filthy gives her until the end of the month before Camp Everfree closes its doors. With the possibility of Canterlot High being Camp Everfree's last campers, Gloriosa resolves to make it the best week of camp ever, and she later resorts to using dangerous Equestrian magic to keep it out of Filthy's hands. With the help of Sunset Shimmer, Twilight Sparkle, and their friends, the campers organize a Crystal Gala fundraiser to save the camp.\n\nCamp Everfree bears the appearance of a typical summer camp, with various extracurricular activities and campfires. One of the camp's traditions, called the \"camp gift\", is for campers to create something for future campers to appreciate. According to Timber Spruce, the forest surrounding the camp is home to a nature spirit named Gaea Everfree, though it is later revealed that he fabricated the legend himself in order to cover up for his sister's use of magic.\n\nCamp Everfree is mentioned throughout Dance Magic, as the Equestria Girls come up with ideas to raise money for reparations to it. They eventually succeed by winning the \"Chance to Prance\" music video contest.",
+      "short_description": "In My Little Pony Equestria Girls: Legend of Everfree, the students of Canterlot High School raise money in order to fund a field trip to Camp Everfree. There, the campers and their principals engage in various camping…",
+      "evidence": "fiction",
+      "parentSlug": "my-little-pony",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/mlp/images/7/79/Opening_sequence_final_shot_of_Camp_Everfree_EG4.png/revision/latest/scale-to-width-down/360?cb=20161027223450",
+      "image_source": "https://mlp.fandom.com/wiki/Camp_Everfree",
+      "image_credit": "Fair-use identification thumbnail via Fandom. My Little Pony art © Hasbro (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Camp Everfree",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://mlp.fandom.com/wiki/Camp_Everfree",
+        "fandom_title": "Camp Everfree",
+        "source_fandom": "mlp.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canterlot",
+      "name": "Canterlot",
+      "type": "place",
+      "description": "Canterlot exists in a dimension different from Equestria. Its earliest known discovery in the series is by Star Swirl the Bearded, when he banished Adagio Dazzle, Aria Blaze, and Sonata Dusk to the human world as depicted in My Little Pony Equestria Girls: Rainbow Rocks, , Shadow Play - Part 2, and . In the first Equestria Girls film, Princess Twilight Sparkle visits the world that Canterlot is in when Sunset Shimmer steals her crown.\n\nSociety in Canterlot is considerably more technologically advanced than in Equestria, with smartphones, computers, and the internet being commonplace. In My Little Pony Equestria Girls: Legend of Everfree, Timber Spruce mentions Picasso, an apparent counterpart of the deceased Pinto-Picasso mentioned in and/or \"Picture Pattern\".\n\nMany areas of the city are horse- and pony-themed, such as the Wondercolt statue at Canterlot High School and the saddle-shaped amphitheater. One area of the city has tall skyscrapers and architectural features similar to Equestria's Manehattan, with one building closely resembling the Crystaller Building.\n\nThe house consists of a house, a barn-like garage, and a pigpen, and it bears a strong resemblance to Sweet Apple Acres in Ponyville.",
+      "short_description": "Lauren Faust's inspiration for Canterlot, with its castle carved into the side of the mountain, was Minas Tirith from The Lord of the Rings. Ted Anderson and Agnes Garbowska's inspiration for ancient Canterlot was…",
+      "evidence": "fiction",
+      "parentSlug": "my-little-pony",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/mlp/images/d/d2/Equestria_Girls_website_-_Map_of_Canterlot.jpg/revision/latest/scale-to-width-down/360?cb=20170614181039",
+      "image_source": "https://mlp.fandom.com/wiki/Canterlot_(EG)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. My Little Pony art © Hasbro (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Canterlot (EG)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://mlp.fandom.com/wiki/Canterlot_(EG)",
+        "fandom_title": "Canterlot (EG)",
+        "source_fandom": "mlp.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -19348,6 +19435,30 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "appleloosa",
+      "my-little-pony",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "camp-everfree",
+      "my-little-pony",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "canterlot",
+      "my-little-pony",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "stats": {
@@ -19357,11 +19468,11 @@
     "images_attached": 0,
     "core_enrichments": 0,
     "preserved_fandom": 0,
-    "fandom_titles": 45,
+    "fandom_titles": 1,
     "fandom_enriched_core": 0,
-    "fandom_created": 28,
-    "fandom_images": 45,
-    "fandom_intros": 45,
+    "fandom_created": 0,
+    "fandom_images": 1,
+    "fandom_intros": 1,
     "description_ensure_at": "2026-09-12T05:42:30.021Z",
     "description_ensure_count": 1
   }

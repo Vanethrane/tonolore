@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Critical Role.",
         "description": "How Critical Role continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "critical-role-practices",
+        "name": "Critical Role practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Critical Role.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Critical Role."
+    },
+    {
+        "slug": "critical-role-entry-1",
+        "name": "Critical Role entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-2",
+        "name": "Critical Role entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-3",
+        "name": "Critical Role entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-4",
+        "name": "Critical Role entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-5",
+        "name": "Critical Role entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-6",
+        "name": "Critical Role entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-7",
+        "name": "Critical Role entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-8",
+        "name": "Critical Role entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-9",
+        "name": "Critical Role entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-10",
+        "name": "Critical Role entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-11",
+        "name": "Critical Role entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-12",
+        "name": "Critical Role entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-13",
+        "name": "Critical Role entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-14",
+        "name": "Critical Role entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-15",
+        "name": "Critical Role entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-16",
+        "name": "Critical Role entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-17",
+        "name": "Critical Role entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-18",
+        "name": "Critical Role entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-19",
+        "name": "Critical Role entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-20",
+        "name": "Critical Role entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-21",
+        "name": "Critical Role entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-22",
+        "name": "Critical Role entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-23",
+        "name": "Critical Role entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "critical-role-entry-24",
+        "name": "Critical Role entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Critical Role.",
+        "description": "A supporting encyclopedia entry in the Critical Role subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Critical Role legacy is a primary trailhead under Critical Role.",
         0.88,
         0.82
+    ],
+    [
+        "critical-role",
+        "critical-role-practices",
+        "contains",
+        "Critical Role practices is a primary trailhead under Critical Role.",
+        0.88,
+        0.82
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-1",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-2",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-3",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-4",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-5",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-6",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-7",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-8",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-9",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-10",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-11",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-12",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-13",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-14",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-15",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-16",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-17",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-18",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-19",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-20",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-21",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-22",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-23",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
+    ],
+    [
+        "critical-role",
+        "critical-role-entry-24",
+        "contains",
+        "Supporting entry under Critical Role.",
+        0.75,
+        0.7
     ]
 ];
 

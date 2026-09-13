@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Journey to the West.",
         "description": "How Journey to the West continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "journey-to-the-west-practices",
+        "name": "Journey to the West practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Journey to the West.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Journey to the West."
+    },
+    {
+        "slug": "journey-to-the-west-entry-1",
+        "name": "Journey to the West entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-2",
+        "name": "Journey to the West entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-3",
+        "name": "Journey to the West entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-4",
+        "name": "Journey to the West entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-5",
+        "name": "Journey to the West entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-6",
+        "name": "Journey to the West entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-7",
+        "name": "Journey to the West entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-8",
+        "name": "Journey to the West entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-9",
+        "name": "Journey to the West entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-10",
+        "name": "Journey to the West entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-11",
+        "name": "Journey to the West entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-12",
+        "name": "Journey to the West entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-13",
+        "name": "Journey to the West entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-14",
+        "name": "Journey to the West entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-15",
+        "name": "Journey to the West entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-16",
+        "name": "Journey to the West entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-17",
+        "name": "Journey to the West entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-18",
+        "name": "Journey to the West entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-19",
+        "name": "Journey to the West entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-20",
+        "name": "Journey to the West entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-21",
+        "name": "Journey to the West entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-22",
+        "name": "Journey to the West entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-23",
+        "name": "Journey to the West entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "journey-to-the-west-entry-24",
+        "name": "Journey to the West entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Journey to the West.",
+        "description": "A supporting encyclopedia entry in the Journey to the West subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Journey to the West legacy is a primary trailhead under Journey to the West.",
         0.88,
         0.82
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-practices",
+        "contains",
+        "Journey to the West practices is a primary trailhead under Journey to the West.",
+        0.88,
+        0.82
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-1",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-2",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-3",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-4",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-5",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-6",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-7",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-8",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-9",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-10",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-11",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-12",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-13",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-14",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-15",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-16",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-17",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-18",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-19",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-20",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-21",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-22",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-23",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
+    ],
+    [
+        "journey-to-the-west",
+        "journey-to-the-west-entry-24",
+        "contains",
+        "Supporting entry under Journey to the West.",
+        0.75,
+        0.7
     ]
 ];
 

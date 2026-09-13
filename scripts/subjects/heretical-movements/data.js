@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Heretical movements & religious mysteries.",
         "description": "How Heretical movements & religious mysteries continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "heretical-movements-practices",
+        "name": "Heretical movements & religious mysteries practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Heretical movements & religious mysteries.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Heretical movements & religious mysteries."
+    },
+    {
+        "slug": "heretical-movements-entry-1",
+        "name": "Heretical movements & religious mysteries entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-2",
+        "name": "Heretical movements & religious mysteries entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-3",
+        "name": "Heretical movements & religious mysteries entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-4",
+        "name": "Heretical movements & religious mysteries entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-5",
+        "name": "Heretical movements & religious mysteries entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-6",
+        "name": "Heretical movements & religious mysteries entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-7",
+        "name": "Heretical movements & religious mysteries entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-8",
+        "name": "Heretical movements & religious mysteries entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-9",
+        "name": "Heretical movements & religious mysteries entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-10",
+        "name": "Heretical movements & religious mysteries entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-11",
+        "name": "Heretical movements & religious mysteries entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-12",
+        "name": "Heretical movements & religious mysteries entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-13",
+        "name": "Heretical movements & religious mysteries entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-14",
+        "name": "Heretical movements & religious mysteries entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-15",
+        "name": "Heretical movements & religious mysteries entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-16",
+        "name": "Heretical movements & religious mysteries entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-17",
+        "name": "Heretical movements & religious mysteries entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-18",
+        "name": "Heretical movements & religious mysteries entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-19",
+        "name": "Heretical movements & religious mysteries entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-20",
+        "name": "Heretical movements & religious mysteries entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-21",
+        "name": "Heretical movements & religious mysteries entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-22",
+        "name": "Heretical movements & religious mysteries entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-23",
+        "name": "Heretical movements & religious mysteries entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "heretical-movements-entry-24",
+        "name": "Heretical movements & religious mysteries entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Heretical movements & religious mysteries.",
+        "description": "A supporting encyclopedia entry in the Heretical movements & religious mysteries subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Heretical movements & religious mysteries legacy is a primary trailhead under Heretical movements & religious mysteries.",
         0.88,
         0.82
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-practices",
+        "contains",
+        "Heretical movements & religious mysteries practices is a primary trailhead under Heretical movements & religious mysteries.",
+        0.88,
+        0.82
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-1",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-2",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-3",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-4",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-5",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-6",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-7",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-8",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-9",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-10",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-11",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-12",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-13",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-14",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-15",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-16",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-17",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-18",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-19",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-20",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-21",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-22",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-23",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
+    ],
+    [
+        "heretical-movements",
+        "heretical-movements-entry-24",
+        "contains",
+        "Supporting entry under Heretical movements & religious mysteries.",
+        0.75,
+        0.7
     ]
 ];
 

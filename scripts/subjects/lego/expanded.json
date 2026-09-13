@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:27:56.737Z",
+  "generated_at": "2026-09-13T03:14:45.519Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -15335,6 +15335,325 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "axolotl",
+      "name": "Axolotl",
+      "type": "person",
+      "description": "The Axolotl is a Minecraft minifigure that was first released in 2022. There are 4 color variants of the axolotl: pink, gold, blue, and cyan.\n\nCategory:Minecraft Category:Minecraft minifigures Category:Minifigures introduced in 2022 Category:Animals",
+      "short_description": "The Axolotl is a Minecraft minifigure that was first released in 2022. There are 4 color variants of the axolotl: pink, gold, blue, and cyan.",
+      "evidence": "fiction",
+      "parentSlug": "lego",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lego/images/0/00/Axolotl_pink.png/revision/latest/scale-to-width-down/360?cb=20220123034043",
+      "image_source": "https://brickipedia.fandom.com/wiki/Axolotl",
+      "image_credit": "Fair-use identification thumbnail via Fandom. LEGO art © The LEGO Group (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Axolotl",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://brickipedia.fandom.com/wiki/Axolotl",
+        "fandom_title": "Axolotl",
+        "source_fandom": "lego.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-packs",
+      "name": "Battle Packs",
+      "type": "object",
+      "description": "Battle Packs are small sets, usually no more than 100 pieces, that contain an assortment of minifigures from a specific faction and are often advertised for \"building your army.\" Usually they also come with some sort of equipment, such as a small vehicle or outpost. Battle Packs are often among the smallest sets in a line, priced low enough to make buying multiples feasible.\n\nThere are two sorts of Battle Packs. The Star Wars ones come as full sets with vehicles and usually with four figures. The other themes have Battle Packs which contain 5 figures, up until recently made of Chinese plastic, with only equipment and no vehicles.\n\nCurrently only the Star Wars theme has a full assortment of Battle Packs. While Battle Packs were released for the 2007 Castle theme, they are considerably smaller (usually under 40 pieces), do not possess vehicles, and only come with Skeleton and Troll minifigures. The Toy Story set 7595 Army Men on Patrol is also sometimes considered a Battle Pack, as it contains generic green army men, a small jeep, is priced similarly and has a similar amount of pieces. The Lone Ranger set 79106 Cavalry Builder Set can also be considered a Battle Pack.\n\nOlder Battle Packs often had worse printing, including errors such as misalignments and fainter colours. The plastic used in them was slightly different, being made in China, while the minifigures featured the special marks that identifies their Chinese origins. These issues have since been resolved.",
+      "short_description": "Battle Packs are small sets, usually no more than 100 pieces, that contain an assortment of minifigures from a specific faction and are often advertised for \"building your army.\" Usually they also come with some sort of…",
+      "evidence": "fiction",
+      "parentSlug": "lego",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lego/images/2/24/7654.jpg/revision/latest/scale-to-width-down/360?cb=20090330003704",
+      "image_source": "https://brickipedia.fandom.com/wiki/Battle_Packs",
+      "image_credit": "Fair-use identification thumbnail via Fandom. LEGO art © The LEGO Group (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Battle Packs",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "item",
+        "fandom_url": "https://brickipedia.fandom.com/wiki/Battle_Packs",
+        "fandom_title": "Battle Packs",
+        "source_fandom": "lego.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "baby-octopus",
+      "name": "Baby Octopus",
+      "type": "person",
+      "description": "The Baby Octopus is a character that appears in LEGO Rock Band. He auditions for the role of drums in the player's band but is not successful, due to the band's \"No octopus\" policy. Later, the band fights a \"rock power challenge\" battle against his father.\n\nAccording to \"LEGO Legend\", he won the title of \"World's Best Octopus Drummer\" for the last four years, which coincides with the time his father has judged the contest.\n\nCategory:LEGO Rock Band minifigures Category:Animals",
+      "short_description": "The Baby Octopus is a character that appears in LEGO Rock Band. He auditions for the role of drums in the player's band but is not successful, due to the band's \"No octopus\" policy. Later, the band fights a \"rock power…",
+      "evidence": "fiction",
+      "parentSlug": "lego",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lego/images/9/90/Babyoctopus.jpg/revision/latest/scale-to-width-down/360?cb=20120128231341",
+      "image_source": "https://brickipedia.fandom.com/wiki/Baby_Octopus",
+      "image_credit": "Fair-use identification thumbnail via Fandom. LEGO art © The LEGO Group (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Baby Octopus",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://brickipedia.fandom.com/wiki/Baby_Octopus",
+        "fandom_title": "Baby Octopus",
+        "source_fandom": "lego.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gift-with-purchase",
+      "name": "Gift with Purchase",
+      "type": "object",
+      "description": "Gift with Purchase, or GWP for short, sets are free sets given to people who spend a certain amount of money on LEGO products. They are usually limited time and exclusive to people who purchase sets at participating LEGO stores or in LEGO.com. LEGO and Toys-R-US launched Bricktober in 2009, a month-long celebration on October that usually offered various Gift with Purchase sets to customers.\n\nThese sets were exclusively given through the purchase of LEGO products in LEGO stores, LEGO.com or other retailers.\n\nThese sets are not exclusive to LEGO.com or any retailers through the purchase of LEGO products.\n\nThis sets were given out for free as Bricktober sets",
+      "short_description": "Gift with Purchase, or GWP for short, sets are free sets given to people who spend a certain amount of money on LEGO products. They are usually limited time and exclusive to people who purchase sets at participating…",
+      "evidence": "fiction",
+      "parentSlug": "lego",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lego/images/f/f1/30611.jpg/revision/latest/scale-to-width-down/360?cb=20250520073308",
+      "image_source": "https://brickipedia.fandom.com/wiki/Gift_with_Purchase",
+      "image_credit": "Fair-use identification thumbnail via Fandom. LEGO art © The LEGO Group (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Gift with Purchase",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "item",
+        "fandom_url": "https://brickipedia.fandom.com/wiki/Gift_with_Purchase",
+        "fandom_title": "Gift with Purchase",
+        "source_fandom": "lego.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "baby-panda",
+      "name": "Baby Panda",
+      "type": "person",
+      "description": "Category:Minecraft Category:Minifigures introduced in 2020 Category:Animals Category:Brick-built figures",
+      "short_description": "Category:Minecraft Category:Minifigures introduced in 2020 Category:Animals Category:Brick-built figures",
+      "evidence": "fiction",
+      "parentSlug": "lego",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lego/images/e/ed/Baby_Panda.png/revision/latest/scale-to-width-down/360?cb=20230526070946",
+      "image_source": "https://brickipedia.fandom.com/wiki/Baby_Panda",
+      "image_credit": "Fair-use identification thumbnail via Fandom. LEGO art © The LEGO Group (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Baby Panda",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://brickipedia.fandom.com/wiki/Baby_Panda",
+        "fandom_title": "Baby Panda",
+        "source_fandom": "lego.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "insiders-reward",
+      "name": "Insiders Reward",
+      "type": "object",
+      "description": "Insider Reward sets are sets given for free to LEGO Insiders members who spend a certain amount of Insiders points, which can be gained by spending money on sets.",
+      "short_description": "Insider Reward sets are sets given for free to LEGO Insiders members who spend a certain amount of Insiders points, which can be gained by spending money on sets.",
+      "evidence": "fiction",
+      "parentSlug": "lego",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lego/images/4/41/40787_alt1.jpg/revision/latest/scale-to-width-down/360?cb=20250512162108",
+      "image_source": "https://brickipedia.fandom.com/wiki/Insiders_Reward",
+      "image_credit": "Fair-use identification thumbnail via Fandom. LEGO art © The LEGO Group (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Insiders Reward",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "item",
+        "fandom_url": "https://brickipedia.fandom.com/wiki/Insiders_Reward",
+        "fandom_title": "Insiders Reward",
+        "source_fandom": "lego.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bambi",
+      "name": "Bambi",
+      "type": "person",
+      "description": "Bambi is a Disney animal figure first to be introduced in 2023.\n\nBambi is the titular protagonist of Disney's 1942 animated feature film of the same name.\n\nA deer living in a forest, he's best friends with Thumper and Flower. He was closest to his mother, who was shot and killed by a hunter during his first winter. Raised into a strong deer by his father, The Great Prince of the Forest, he falls in love with his childhood sweetheart, Faline, and they have twin fawns.\n\nCategory:Disney Category:Animals Category:Minifigures introduced in 2023",
+      "short_description": "Bambi is a Disney animal figure first to be introduced in 2023.",
+      "evidence": "fiction",
+      "parentSlug": "lego",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lego/images/f/f1/104729pb01.png/revision/latest/scale-to-width-down/360?cb=20231005200137",
+      "image_source": "https://brickipedia.fandom.com/wiki/Bambi",
+      "image_credit": "Fair-use identification thumbnail via Fandom. LEGO art © The LEGO Group (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Bambi",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://brickipedia.fandom.com/wiki/Bambi",
+        "fandom_title": "Bambi",
+        "source_fandom": "lego.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "limited-edition-set",
+      "name": "Limited Edition Set",
+      "type": "object",
+      "description": "Limited Edition Sets, also known as Special Edition Sets, are usually exclusive sets from a certain theme that is only sold early on. Unlike Promotional Sets, they are not free and rarely contain rare pieces (although, if they do, there will inevitably be some form of advertisement on the box itself). Limited Edition sets usually feature a rare/popular character, or something chosen by the fans. As well, they are always exclusive to LEGO Stores and one other retailer, most commonly Wal-Mart, Toys R Us, or Target, meaning that a limited edition set appearing at Toys R Us will never appear at any Wal-Mart Location, and vice versa. They're also given a limited production run, meaning that they are sold out much faster than normal sets (there are exceptions, if the set is unpopular then it will likely never be sold out). Like any other set, they appreciate in value the older they are, but this comes faster as their limited production run means that once they're gone, they're gone for good.",
+      "short_description": "Limited Edition Sets, also known as Special Edition Sets, are usually exclusive sets from a certain theme that is only sold early on. Unlike Promotional Sets, they are not free and rarely contain rare pieces (although,…",
+      "evidence": "fiction",
+      "parentSlug": "lego",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lego/images/c/c0/Kai_2015_Pack.jpg/revision/latest/scale-to-width-down/360?cb=20161205165512",
+      "image_source": "https://brickipedia.fandom.com/wiki/Limited_Edition_Set",
+      "image_credit": "Fair-use identification thumbnail via Fandom. LEGO art © The LEGO Group (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Limited Edition Set",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "item",
+        "fandom_url": "https://brickipedia.fandom.com/wiki/Limited_Edition_Set",
+        "fandom_title": "Limited Edition Set",
+        "source_fandom": "lego.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bantha",
+      "name": "Bantha",
+      "type": "person",
+      "description": "A Bantha is a Star Wars creature first introduced in 2006 before physically debuting as a brick-built figure in 2020.\n\nA Bantha is a fictional creature resembling a ram or musk ox. As a brick-built figure, it is mostly comprised of reddish brown and dark brown bricks.\n\nBanthas are sturdy and easily domesticated mammals used as beasts of burden by Tusken Raiders on Tatooine. It appears in LEGO Star Wars II: The Original Trilogy and LEGO Star Wars: The Complete Saga as an animal that can be ridden.\n\nCategory:Animals Category:Star Wars Creatures Category:Star Wars Episode IV: A New Hope Category:Minifigures introduced in 2020 Category:Minifigures first introduced in video games",
+      "short_description": "A Bantha is a Star Wars creature first introduced in 2006 before physically debuting as a brick-built figure in 2020.",
+      "evidence": "fiction",
+      "parentSlug": "lego",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lego/images/2/2f/Tusken_Raider_and_its_Bantha.jpg/revision/latest/scale-to-width-down/360?cb=20210908142318",
+      "image_source": "https://brickipedia.fandom.com/wiki/Bantha",
+      "image_credit": "Fair-use identification thumbnail via Fandom. LEGO art © The LEGO Group (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Bantha",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://brickipedia.fandom.com/wiki/Bantha",
+        "fandom_title": "Bantha",
+        "source_fandom": "lego.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "set",
+      "name": "Set",
+      "type": "object",
+      "description": "A LEGO Set is a building kit that contains numerous LEGO bricks and other elements to assemble one or more objects and minifigures. Some sets may be assembled in various ways to allow the assembly of different models using bricks from one set. All bricks are compatible with bricks from other sets. All sets are categorized in themes.\n\nIn 1935, 3 years after Ole Kirk Christiansen starts producing wood toys, the first wooden toy sets are released, them being the LEGO Duck and the Wooden Train. The first set to employ the numbering system was 500 LEGO Klodser in 1948, and the first sets to use plastic bricks were the Automatic Binding Bricks sets in 1949. By 1953, the Automatic Binding Bricks are renamed to LEGO Mursten (\"LEGO Bricks\") by Godtfred Kirk Christiansen and they become the first official LEGO themed sets. A warehouse fire consumes most of LEGO's inventory of wood toys on February 1960, thus the production of wooden toys is discontinued and the company changes its focus to make plastic building bricks and use them in sets. Over the course of the next few years, more themes are introduced, some notable ones being DUPLO, TECHNIC (formerly Expert Builder), Town, Space, Castle, and Pirates, among many others. In 1999, LEGO launches and produces a Star Wars theme with Lucasfilm, making the first official licensed sets and beginning a trend of licensed LEGO products, with more licensed themes being introduced. The Star Wars theme also introduced battle pack sets, which usually include 4 minifigures and a few side builds. 2012 was an especially important year for LEGO as it brought upon the introduction of the Super Heroes and Minecraft themes, the latter bringing the first licensed sets to be based on a video game. The future introduction of the Pokémon theme will mark the first licensed sets to based on an anime series.",
+      "short_description": "A LEGO Set is a building kit that contains numerous LEGO bricks and other elements to assemble one or more objects and minifigures. Some sets may be assembled in various ways to allow the assembly of different models…",
+      "evidence": "fiction",
+      "parentSlug": "lego",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lego/images/8/80/Lego_Monypoli_board_game_1947.jpg/revision/latest/scale-to-width-down/360?cb=20091120160723",
+      "image_source": "https://brickipedia.fandom.com/wiki/Set",
+      "image_credit": "Fair-use identification thumbnail via Fandom. LEGO art © The LEGO Group (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Set",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "item",
+        "fandom_url": "https://brickipedia.fandom.com/wiki/Set",
+        "fandom_title": "Set",
+        "source_fandom": "lego.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "barracuda-guardian",
+      "name": "Barracuda Guardian",
+      "type": "person",
+      "description": "Barracuda Guardians are minifigures from the Atlantis theme. They are creatures that lurk deep in the seas of Atlantis.\n\nThe Barracuda Guardian has a torso element with a mouth printed on it and an exclusive head mould, all in Sand Green The head has seaweed-like marks on it, and has holes to connect two tooth elements to. He has a hole for the body-printed mouth.\n\nCategory:Atlantis minifigures Category:Animals Category:Minifigures introduced in 2011 Category:Minifigures with unique heads",
+      "short_description": "Barracuda Guardians are minifigures from the Atlantis theme. They are creatures that lurk deep in the seas of Atlantis.",
+      "evidence": "fiction",
+      "parentSlug": "lego",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lego/images/1/11/Anglerfish_Warrior.png/revision/latest/scale-to-width-down/360?cb=20101201152419",
+      "image_source": "https://brickipedia.fandom.com/wiki/Barracuda_Guardian",
+      "image_credit": "Fair-use identification thumbnail via Fandom. LEGO art © The LEGO Group (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Barracuda Guardian",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://brickipedia.fandom.com/wiki/Barracuda_Guardian",
+        "fandom_title": "Barracuda Guardian",
+        "source_fandom": "lego.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -19673,6 +19992,94 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "axolotl",
+      "lego",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "battle-packs",
+      "lego",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "baby-octopus",
+      "lego",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "gift-with-purchase",
+      "lego",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "baby-panda",
+      "lego",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "insiders-reward",
+      "lego",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bambi",
+      "lego",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "limited-edition-set",
+      "lego",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bantha",
+      "lego",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "set",
+      "lego",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "barracuda-guardian",
+      "lego",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "stats": {
@@ -19682,11 +20089,11 @@
     "images_attached": 0,
     "core_enrichments": 0,
     "preserved_fandom": 0,
-    "fandom_titles": 45,
+    "fandom_titles": 0,
     "fandom_enriched_core": 0,
-    "fandom_created": 36,
-    "fandom_images": 40,
-    "fandom_intros": 45,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0,
     "description_ensure_at": "2026-09-12T17:28:15.476Z",
     "description_ensure_count": 4
   }

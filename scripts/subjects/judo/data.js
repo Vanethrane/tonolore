@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into Judo.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify Judo."
+    },
+    {
+        "slug": "judo-geography",
+        "name": "Judo geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for Judo.",
+        "description": "Regions, routes, and spatial systems that situate Judo beyond single named places."
+    },
+    {
+        "slug": "judo-legacy",
+        "name": "Judo legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Judo.",
+        "description": "How Judo continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "judo-practices",
+        "name": "Judo practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Judo.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Judo."
+    },
+    {
+        "slug": "judo-entry-1",
+        "name": "Judo entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "judo-entry-2",
+        "name": "Judo entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "judo-entry-3",
+        "name": "Judo entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "judo-entry-4",
+        "name": "Judo entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "judo-entry-5",
+        "name": "Judo entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "judo-entry-6",
+        "name": "Judo entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "judo-entry-7",
+        "name": "Judo entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "judo-entry-8",
+        "name": "Judo entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "judo-entry-9",
+        "name": "Judo entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "judo-entry-10",
+        "name": "Judo entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "judo-entry-11",
+        "name": "Judo entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "judo-entry-12",
+        "name": "Judo entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "judo-entry-13",
+        "name": "Judo entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "judo-entry-14",
+        "name": "Judo entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "judo-entry-15",
+        "name": "Judo entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "judo-entry-16",
+        "name": "Judo entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "judo-entry-17",
+        "name": "Judo entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "judo-entry-18",
+        "name": "Judo entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "judo-entry-19",
+        "name": "Judo entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "judo-entry-20",
+        "name": "Judo entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "judo-entry-21",
+        "name": "Judo entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "judo-entry-22",
+        "name": "Judo entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Judo.",
+        "description": "A supporting encyclopedia entry in the Judo subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "Judo sources is a primary trailhead under Judo.",
         0.88,
         0.82
+    ],
+    [
+        "judo",
+        "judo-geography",
+        "contains",
+        "Judo geography is a primary trailhead under Judo.",
+        0.88,
+        0.82
+    ],
+    [
+        "judo",
+        "judo-legacy",
+        "contains",
+        "Judo legacy is a primary trailhead under Judo.",
+        0.88,
+        0.82
+    ],
+    [
+        "judo",
+        "judo-practices",
+        "contains",
+        "Judo practices is a primary trailhead under Judo.",
+        0.88,
+        0.82
+    ],
+    [
+        "judo",
+        "judo-entry-1",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
+    ],
+    [
+        "judo",
+        "judo-entry-2",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
+    ],
+    [
+        "judo",
+        "judo-entry-3",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
+    ],
+    [
+        "judo",
+        "judo-entry-4",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
+    ],
+    [
+        "judo",
+        "judo-entry-5",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
+    ],
+    [
+        "judo",
+        "judo-entry-6",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
+    ],
+    [
+        "judo",
+        "judo-entry-7",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
+    ],
+    [
+        "judo",
+        "judo-entry-8",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
+    ],
+    [
+        "judo",
+        "judo-entry-9",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
+    ],
+    [
+        "judo",
+        "judo-entry-10",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
+    ],
+    [
+        "judo",
+        "judo-entry-11",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
+    ],
+    [
+        "judo",
+        "judo-entry-12",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
+    ],
+    [
+        "judo",
+        "judo-entry-13",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
+    ],
+    [
+        "judo",
+        "judo-entry-14",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
+    ],
+    [
+        "judo",
+        "judo-entry-15",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
+    ],
+    [
+        "judo",
+        "judo-entry-16",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
+    ],
+    [
+        "judo",
+        "judo-entry-17",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
+    ],
+    [
+        "judo",
+        "judo-entry-18",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
+    ],
+    [
+        "judo",
+        "judo-entry-19",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
+    ],
+    [
+        "judo",
+        "judo-entry-20",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
+    ],
+    [
+        "judo",
+        "judo-entry-21",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
+    ],
+    [
+        "judo",
+        "judo-entry-22",
+        "contains",
+        "Supporting entry under Judo.",
+        0.75,
+        0.7
     ]
 ];
 

@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into MotoGP.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify MotoGP."
+    },
+    {
+        "slug": "motogp-geography",
+        "name": "MotoGP geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for MotoGP.",
+        "description": "Regions, routes, and spatial systems that situate MotoGP beyond single named places."
+    },
+    {
+        "slug": "motogp-legacy",
+        "name": "MotoGP legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of MotoGP.",
+        "description": "How MotoGP continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "motogp-practices",
+        "name": "MotoGP practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in MotoGP.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in MotoGP."
+    },
+    {
+        "slug": "motogp-entry-1",
+        "name": "MotoGP entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "motogp-entry-2",
+        "name": "MotoGP entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "motogp-entry-3",
+        "name": "MotoGP entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "motogp-entry-4",
+        "name": "MotoGP entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "motogp-entry-5",
+        "name": "MotoGP entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "motogp-entry-6",
+        "name": "MotoGP entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "motogp-entry-7",
+        "name": "MotoGP entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "motogp-entry-8",
+        "name": "MotoGP entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "motogp-entry-9",
+        "name": "MotoGP entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "motogp-entry-10",
+        "name": "MotoGP entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "motogp-entry-11",
+        "name": "MotoGP entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "motogp-entry-12",
+        "name": "MotoGP entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "motogp-entry-13",
+        "name": "MotoGP entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "motogp-entry-14",
+        "name": "MotoGP entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "motogp-entry-15",
+        "name": "MotoGP entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "motogp-entry-16",
+        "name": "MotoGP entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "motogp-entry-17",
+        "name": "MotoGP entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "motogp-entry-18",
+        "name": "MotoGP entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "motogp-entry-19",
+        "name": "MotoGP entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "motogp-entry-20",
+        "name": "MotoGP entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "motogp-entry-21",
+        "name": "MotoGP entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "motogp-entry-22",
+        "name": "MotoGP entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside MotoGP.",
+        "description": "A supporting encyclopedia entry in the MotoGP subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "MotoGP sources is a primary trailhead under MotoGP.",
         0.88,
         0.82
+    ],
+    [
+        "motogp",
+        "motogp-geography",
+        "contains",
+        "MotoGP geography is a primary trailhead under MotoGP.",
+        0.88,
+        0.82
+    ],
+    [
+        "motogp",
+        "motogp-legacy",
+        "contains",
+        "MotoGP legacy is a primary trailhead under MotoGP.",
+        0.88,
+        0.82
+    ],
+    [
+        "motogp",
+        "motogp-practices",
+        "contains",
+        "MotoGP practices is a primary trailhead under MotoGP.",
+        0.88,
+        0.82
+    ],
+    [
+        "motogp",
+        "motogp-entry-1",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
+    ],
+    [
+        "motogp",
+        "motogp-entry-2",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
+    ],
+    [
+        "motogp",
+        "motogp-entry-3",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
+    ],
+    [
+        "motogp",
+        "motogp-entry-4",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
+    ],
+    [
+        "motogp",
+        "motogp-entry-5",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
+    ],
+    [
+        "motogp",
+        "motogp-entry-6",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
+    ],
+    [
+        "motogp",
+        "motogp-entry-7",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
+    ],
+    [
+        "motogp",
+        "motogp-entry-8",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
+    ],
+    [
+        "motogp",
+        "motogp-entry-9",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
+    ],
+    [
+        "motogp",
+        "motogp-entry-10",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
+    ],
+    [
+        "motogp",
+        "motogp-entry-11",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
+    ],
+    [
+        "motogp",
+        "motogp-entry-12",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
+    ],
+    [
+        "motogp",
+        "motogp-entry-13",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
+    ],
+    [
+        "motogp",
+        "motogp-entry-14",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
+    ],
+    [
+        "motogp",
+        "motogp-entry-15",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
+    ],
+    [
+        "motogp",
+        "motogp-entry-16",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
+    ],
+    [
+        "motogp",
+        "motogp-entry-17",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
+    ],
+    [
+        "motogp",
+        "motogp-entry-18",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
+    ],
+    [
+        "motogp",
+        "motogp-entry-19",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
+    ],
+    [
+        "motogp",
+        "motogp-entry-20",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
+    ],
+    [
+        "motogp",
+        "motogp-entry-21",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
+    ],
+    [
+        "motogp",
+        "motogp-entry-22",
+        "contains",
+        "Supporting entry under MotoGP.",
+        0.75,
+        0.7
     ]
 ];
 

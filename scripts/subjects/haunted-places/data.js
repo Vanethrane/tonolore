@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Haunted places.",
         "description": "How Haunted places continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "haunted-places-practices",
+        "name": "Haunted places practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Haunted places.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Haunted places."
+    },
+    {
+        "slug": "haunted-places-entry-1",
+        "name": "Haunted places entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-2",
+        "name": "Haunted places entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-3",
+        "name": "Haunted places entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-4",
+        "name": "Haunted places entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-5",
+        "name": "Haunted places entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-6",
+        "name": "Haunted places entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-7",
+        "name": "Haunted places entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-8",
+        "name": "Haunted places entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-9",
+        "name": "Haunted places entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-10",
+        "name": "Haunted places entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-11",
+        "name": "Haunted places entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-12",
+        "name": "Haunted places entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-13",
+        "name": "Haunted places entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-14",
+        "name": "Haunted places entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-15",
+        "name": "Haunted places entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-16",
+        "name": "Haunted places entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-17",
+        "name": "Haunted places entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-18",
+        "name": "Haunted places entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-19",
+        "name": "Haunted places entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-20",
+        "name": "Haunted places entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-21",
+        "name": "Haunted places entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-22",
+        "name": "Haunted places entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-23",
+        "name": "Haunted places entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "haunted-places-entry-24",
+        "name": "Haunted places entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Haunted places.",
+        "description": "A supporting encyclopedia entry in the Haunted places subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Haunted places legacy is a primary trailhead under Haunted places.",
         0.88,
         0.82
+    ],
+    [
+        "haunted-places",
+        "haunted-places-practices",
+        "contains",
+        "Haunted places practices is a primary trailhead under Haunted places.",
+        0.88,
+        0.82
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-1",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-2",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-3",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-4",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-5",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-6",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-7",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-8",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-9",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-10",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-11",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-12",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-13",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-14",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-15",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-16",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-17",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-18",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-19",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-20",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-21",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-22",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-23",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
+    ],
+    [
+        "haunted-places",
+        "haunted-places-entry-24",
+        "contains",
+        "Supporting entry under Haunted places.",
+        0.75,
+        0.7
     ]
 ];
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T04:32:19.050Z",
+  "generated_at": "2026-09-13T04:06:26.521Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -11229,7 +11229,7 @@
       "slug": "grotto",
       "name": "Grotto",
       "type": "place",
-      "description": "This coastal grotto located northeast of Toderas and southeast of Marauders' Bridge and is home to a large group of ghouls.\n\nes:Gruta (Velen) ru:Грот (Велен) Category:The Witcher 3 locations",
+      "description": "The grotto is a unique part of the Temple of Melitele in Ellander. It is hewn from the rock face behind the temple and has a roof made of translucent crystal. In it grow all sorts of plants and creatures useful in medicines and magic which are found nowhere else. Nenneke and the other priestesses tended the greenhouse, and taught lessons about the herbs growing there.\n\nClimate changes changed the nature of sunlight in the world and that is why only the unique climate conditions in the grotto allow some of the plants to grow at all any more.\n\nde:Die Grotte fr:Grotte du Temple de Melitele it:Grotta pl:Tempel der Melitele Category:Locations",
       "short_description": "The grotto is a unique part of the Temple of Melitele in Ellander. It is hewn from the rock face behind the temple and has a roof made of translucent crystal. In it grow all sorts of plants and creatures useful in…",
       "evidence": "fiction",
       "parentSlug": "the-witcher",
@@ -11239,8 +11239,8 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://witcher.fandom.com/wiki/Grotto_(Velen)",
-        "fandom_title": "Grotto (Velen)",
+        "fandom_url": "https://witcher.fandom.com/wiki/Grotto",
+        "fandom_title": "Grotto",
         "source_fandom": "witcher.fandom.com",
         "sources": [
           "fandom"
@@ -32748,11 +32748,11 @@
     "images_attached": 9,
     "core_enrichments": 15,
     "preserved_fandom": 0,
-    "fandom_titles": 45,
-    "fandom_enriched_core": 8,
+    "fandom_titles": 1,
+    "fandom_enriched_core": 1,
     "fandom_created": 0,
-    "fandom_images": 25,
-    "fandom_intros": 45,
+    "fandom_images": 1,
+    "fandom_intros": 1,
     "image_backfill_at": "2026-09-11T16:30:14.372Z",
     "image_backfill_count": 29
   }

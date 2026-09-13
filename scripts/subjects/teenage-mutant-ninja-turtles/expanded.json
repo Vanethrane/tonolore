@@ -2,17 +2,17 @@
   "enrichments": [
     {
       "slug": "leonardo",
-      "description": "Finally, a somewhat stable Turtle in the bunch. Leo is considered the big brother of the group and he takes his role seriously, acting as Splinter's right-hand Turtle. Leo is an expert with his thin, steel Twin Katana swords, and his discipline and selflessness make him a strong contributor to the team.\n\nI try to be the leader of the team, since someone has to be and I'm the only one who seems to be interested in order. It's often frustrating to choreograph tactics only to see them disappear in an emotional outburst from one of my brothers. I take Ninjutsu very seriously, as it should be. As it must be. Ninjutsu is not a game!\n\nLeonardo is the leader of the Turtles and is the most relied open by others. He follows the Bushido code and takes training seriously. He is often praised by Splinter, but sometimes his brothers tease him of his over-seriousness. His weapon of choice is a pair of katanas.\n\nCategory:Mutant turtles Category:Swordsmen Category:Ninja Category:Mutants (2003 video games) Category:Battle Nexus contestants Category:Children Category:Mole people Category:Pyrokinetics",
+      "description": "Fearless Leader Lame-o-nardo (by Raphael) Captain Leo Mr. Turtle (by ) Sensei Leo (by ) Hero Boy (by )\n\nLeonardo, often referred to as Leo, is one of the main protagonists of the and the leader of the . He is also the oldest of the four brothers, who all share a home in the underground sewers of Manhattan, New York City. Leonardo is the adoptive son and the second child of and adoptive brother of . He belongs to a diverse family consisting of three other mutant turtles who are his biological younger brothers: , , and . , a human-sized mutant rat, serves as the Turtles' adoptive father and sensei. This version of Leonardo was originally voiced by Jason Biggs from the series premiere until Season 2 Episode 19. Leo's voice\n\nLeo is a fern green colored anthropomorphic mutant turtle ninja warrior. His eyes have cobalt blue irises with black pupils, but like his brothers when they are shown fighting or being stealthy, they disappear, leaving his eyes white (similar to the 2003 incarnation). He wears a blue bandana mask (although he wears a black bandana in Broken Foot and Owari) where the tails length range between Donnie and Mikey's. Leo is the most skilled fighter, and he doesn't have much changes to his physical appearance like all his previous incarnations. His height ranges between Raph and Donnie's. His ninja gear includes diagonal straps, brown knee pads and elbow pads, and beige rolled bandages wrapped around his wrists, ankles and fingers. However, unlike previous incarnations, Leo's hands have two fingers and a thumb and three little toes (like his brothers) on his feet.\n\nLeo is arguably the most ninja-like of all the turtles. He is an enthusiastic ninjutsu prodigy who takes charge in leading the Turtles through their missions that take them from the darkest New York alley to the deepest reaches of outer space. He is a [https://en.wikipedia.org/wiki/Japanophilia Japanophile] for taking his ninja training the most serious of all his brothers, and for the interest he takes in Master Splinter's stories on his experience as a former ninja master and the cultural tales of his homeland. Because of his persevering dedication towards ninjutsu, and his level-headed discipline, and partly because he asked for it, Splinter wisely chose Leo to be the leader of the Turtles without hesitation. As Splinter explains, it's because his leadership abilities and skills \"doesn't come from the head, but from the heart.\"",
       "short_description": "Fearless Leader Lame-o-nardo (by Raphael) Captain Leo Mr. Turtle (by ) Sensei Leo (by ) Hero Boy (by )",
-      "image_url": "https://static.wikia.nocookie.net/tmnt/images/e/e9/Leomm.png/revision/latest?cb=20130601164024",
-      "image_source": "https://turtlepedia.fandom.com/wiki/Leonardo_(2003_video_games)",
+      "image_url": "https://static.wikia.nocookie.net/tmnt/images/2/2e/Leonardo_TMNT%282012%29.png/revision/latest/scale-to-width-down/360?cb=20121227152338",
+      "image_source": "https://turtlepedia.fandom.com/wiki/Leonardo_(2012_TV_series)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Mirage / Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Leonardo (2003 video games)",
+      "image_alt": "Identification thumbnail for Leonardo (2012 TV series)",
       "metadata": {
-        "fandom_url": "https://turtlepedia.fandom.com/wiki/Leonardo_(2003_video_games)",
-        "fandom_title": "Leonardo (2003 video games)",
+        "fandom_url": "https://turtlepedia.fandom.com/wiki/Leonardo_(2012_TV_series)",
+        "fandom_title": "Leonardo (2012 TV series)",
         "source_fandom": "turtlepedia.fandom.com",
         "sources": [
           "wikipedia",
@@ -5173,6 +5173,336 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "future-2003-video-games",
+      "name": "Future",
+      "type": "place",
+      "description": "Future (initially known as Unknown City) is a location explorable in the console version of Teenage Mutant Ninja Turtles 2: Battle Nexus. It is the tenth Episode in the game.\n\nThis area opens up right after the Turtles defeat the . A pathway in the Sewers leads to a new map simply known as ?. When the new map is entered, they will be within a dark, raining area that is known as \"Unknown City\" on the map. After clearing the Episode's first section, a Station will be available. The Station Warp lists this area as ??????????. Upon accessing the Episode's third section, Slashuur reveals that this land is the Turtle's Future, one potential future should things continue as they are. The Turtles defeat Slashuur once more and have a conversation with him, which helps him remember his missing memories. After clearing the third section of the Unknown City, the name \"Future\" is permanently shown in both the area map (replacing \"Unknown City\") and in the Station Warp (replacing ??????????).\n\nBeing a future New York, there are many resemblances that could give away an early hint to the location's identity. The map in general is a dark and ruined variation of the New York map. The Station Warp area is generally in the same position as the Turtle's home. The first area is a Subway tunnel while the second area is the streets with signs saying 8 Main Street and Down Town. The Clear Result screen is a ruined variation of New York's Clear Result screen.\n\nNotably, the Future houses only enemies coming from the , which also marks the first appearance of the Foot Sumo Ninja, one of the strongest enemies in the game. It is hinted that the Foot were responsible for New York's destruction, though the exact nature of the Future's creation remains unclear, with Slashuur simply stating \"A battle. Meaningless battles such as this have existed from the distant past and last far into the future\".",
+      "short_description": "Future (initially known as Unknown City) is a location explorable in the console version of Teenage Mutant Ninja Turtles 2: Battle Nexus. It is the tenth Episode in the game.",
+      "evidence": "fiction",
+      "parentSlug": "teenage-mutant-ninja-turtles",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/tmnt/images/e/e7/TMNT2_Battle_Nexus_Future_10-2_intro_view_2.png/revision/latest/scale-to-width-down/360?cb=20241209021833",
+      "image_source": "https://turtlepedia.fandom.com/wiki/Future_(2003_video_games)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Mirage / Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Future (2003 video games)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://turtlepedia.fandom.com/wiki/Future_(2003_video_games)",
+        "fandom_title": "Future (2003 video games)",
+        "source_fandom": "turtlepedia.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "anti-turtle-squad",
+      "name": "Anti-Turtle Squad",
+      "type": "organization",
+      "description": "Following a bank robbery by the , mistaken for the , the local government of New York City establishes the Anti-Turtle Squad. Using their battletank cannon, the Anti-Turtle Squad freeze the Punk Frogs, who are saved by the Ninja Turtles.\n\nLater, in the Stonewall Prison, the Anti-Turtle Squad shows up again, doing a failed attempt to defeat the Punk Frogs and the Ninja Turtles with knockout gas. Category:Organizations Category:Antagonists (1987 TV series) Category:Humans Category:1987 TV series characters Category:Paramilitary",
+      "short_description": "Following a bank robbery by the , mistaken for the , the local government of New York City establishes the Anti-Turtle Squad. Using their battletank cannon, the Anti-Turtle Squad freeze the Punk Frogs, who are saved by…",
+      "evidence": "fiction",
+      "parentSlug": "teenage-mutant-ninja-turtles",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/tmnt/images/4/42/Antiturtlesquad.png/revision/latest/scale-to-width-down/360?cb=20240424234317",
+      "image_source": "https://turtlepedia.fandom.com/wiki/Anti-Turtle_Squad",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Mirage / Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Anti-Turtle Squad",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://turtlepedia.fandom.com/wiki/Anti-Turtle_Squad",
+        "fandom_title": "Anti-Turtle Squad",
+        "source_fandom": "turtlepedia.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-ten-dimensions",
+      "name": "The Ten Dimensions",
+      "type": "place",
+      "description": "The Ten Dimensions are different universes featured in the Teenage Mutant Ninja Turtles franchise.\n\nThe home dimension of Krang. This dimension is seen in many of the different universes. Category:Lists Category:Locations",
+      "short_description": "The Ten Dimensions are different universes featured in the Teenage Mutant Ninja Turtles franchise.",
+      "evidence": "fiction",
+      "parentSlug": "teenage-mutant-ninja-turtles",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://turtlepedia.fandom.com/wiki/The_Ten_Dimensions",
+        "fandom_title": "The Ten Dimensions",
+        "source_fandom": "turtlepedia.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "badd-family",
+      "name": "Badd Family",
+      "type": "organization",
+      "description": "Badd Family, or also known as Badds are notorious family and hillbillies from back woods.\n\nMr. Badd is an unseen character from 1987 TV series. He is the father of Badd family, husband of Bedelia Badd and father of Buford and Bubba Badd.\n\nBedelia Badd is hillbilly and mother of Badd family. She acts as main antagonist in Donatello's Badd Time, along with her sons, Buford and Bubba.\n\nBuford Badd is secondary antagonist in Donatello's Badd Time. Buford is son of Bedelia Badd and possibly late Mr. Badd, and brother of Bubba Badd.",
+      "short_description": "Badd Family, or also known as Badds are notorious family and hillbillies from back woods.",
+      "evidence": "fiction",
+      "parentSlug": "teenage-mutant-ninja-turtles",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/tmnt/images/a/ac/Donatello%27s_badd_time_15_-_magazine.png/revision/latest/scale-to-width-down/360?cb=20180111182530",
+      "image_source": "https://turtlepedia.fandom.com/wiki/Badd_Family",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Mirage / Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Badd Family",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://turtlepedia.fandom.com/wiki/Badd_Family",
+        "fandom_title": "Badd Family",
+        "source_fandom": "turtlepedia.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hell",
+      "name": "Hell",
+      "type": "place",
+      "description": "Hell is a depiction of an afterlife in religion and folklore, commonly associated with burning, torment and punishment in the Earth's underground. Although primarily associated with Abrahamic religions, analogues officially translated as or colloquially called \"Hell\" are also found in many many religions.\n\nCategory:Afterlife Category:Archie locations Category:IDW locations",
+      "short_description": "Hell is a depiction of an afterlife in religion and folklore, commonly associated with burning, torment and punishment in the Earth's underground. Although primarily associated with Abrahamic religions, analogues…",
+      "evidence": "fiction",
+      "parentSlug": "teenage-mutant-ninja-turtles",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://turtlepedia.fandom.com/wiki/Hell",
+        "fandom_title": "Hell",
+        "source_fandom": "turtlepedia.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crooked-ninja-turtle-gang-archie",
+      "name": "Crooked Ninja Turtle Gang",
+      "type": "organization",
+      "description": "The Crooked Ninja Turtle Gang is a gang of martial arts students from 's Slash 4 Cash Gym. recruits members from the dojo, and have them committing crimes disguised as the , to trick people into believing the turtles are behind the crimes.\n\nThey appear in the the TMNT Adventures Return of the Shredder. In the comic they appear wearing turtle outfits and red headbands akin to 's, and are more evident as giving the appearance of humans in Ninja Turtle costumes.\n\nCategory:Humans Category:Teams Category:Groups Category:Organizations Category:Antagonists (Archie)",
+      "short_description": "The Crooked Ninja Turtle Gang is a gang of martial arts students from 's Slash 4 Cash Gym. recruits members from the dojo, and have them committing crimes disguised as the , to trick people into believing the turtles…",
+      "evidence": "fiction",
+      "parentSlug": "teenage-mutant-ninja-turtles",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/tmnt/images/5/51/Crooked.jpg/revision/latest/scale-to-width-down/360?cb=20240323080044",
+      "image_source": "https://turtlepedia.fandom.com/wiki/Crooked_Ninja_Turtle_Gang_(Archie)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Mirage / Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Crooked Ninja Turtle Gang (Archie)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://turtlepedia.fandom.com/wiki/Crooked_Ninja_Turtle_Gang_(Archie)",
+        "fandom_title": "Crooked Ninja Turtle Gang (Archie)",
+        "source_fandom": "turtlepedia.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "oroku-sakis-afterlife-idw",
+      "name": "Oroku Saki's afterlife",
+      "type": "place",
+      "description": "s afterlife is the place where his soul went before he was resurrected by his descendant . It resembles an endless grassy plain, with a deep river or sea on one side, and a red or blue sky overhead. There is only one structure seen in this entire world: a medieval Japanese castle set on a rocky mountain, where the king of the afterlife dwelt. This location appears in the special Shredder issue of the second Teenage Mutant Ninja Turtles Micro-Series by IDW Publishing.\n\nIt is unclear precisely what kind of afterlife this is. Saki described it as being the destination for all those who die, and their uniform fate to become shadows of their former selves, without purpose or autonomy. However, and 's near-death experience seem to indicate that this may not necessarily be the case, and that his destination was only one possible place that dead souls might go.\n\nThe Saki meets tells him that time works in a special way in the afterlife, explaining how the king Saki slays turns out to be an older version of himself who had been sent back to the afterlife after his ultimate future death.\n\nWhen Saki tells Kitsune about this afterlife, she claims not to have known Saki would experience an afterlife before being resurrected. She suggests that it is not a real place, but merely a dream containing a lesson Saki was trying to teach himself. Saki concedes the possibility that this may be true, but does not tell Kitsune that he actually experiences this afterlife every time he sleeps, and often even when he just briefly closes his eyes&mdash;the vision is always present just beneath the surface of his conscious awareness.",
+      "short_description": "s afterlife is the place where his soul went before he was resurrected by his descendant . It resembles an endless grassy plain, with a deep river or sea on one side, and a red or blue sky overhead. There is only one…",
+      "evidence": "fiction",
+      "parentSlug": "teenage-mutant-ninja-turtles",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/tmnt/images/b/b3/Idw_-_oroku_saki%27s_afterlife.jpg/revision/latest/scale-to-width-down/360?cb=20180221092116",
+      "image_source": "https://turtlepedia.fandom.com/wiki/Oroku_Saki%27s_afterlife_(IDW)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Mirage / Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Oroku Saki's afterlife (IDW)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://turtlepedia.fandom.com/wiki/Oroku_Saki%27s_afterlife_(IDW)",
+        "fandom_title": "Oroku Saki's afterlife (IDW)",
+        "source_fandom": "turtlepedia.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "daring-undercover-department-of-espionage",
+      "name": "Daring Undercover Department of Espionage",
+      "type": "organization",
+      "description": "The Daring Undercover Department of Espionage is an organization dedicated to protecting the world. Their purpose is to keep the world safe from the Global Institute of Violence and Evil (G.I.V.E.).\n\nAs is leaving the Somni Deli & Grocery he is approached by , who says his country needs him. Then he asks where the other ninja are hiding. Donatello tells him that they are a little under the weather. He wants to know why Dirk is there and how he found him. Dirk explains that he’s got a new gig with all kinds of experimental gadgets. He adds that he’s there because he needs help and who better to ask than the mutant who saved his life. Donatello says he’d love to help, but first… Dirk interrupts, telling his wrist communicator that Donatello's words are legally binding language and to activate the boomerang beam. Just as Donatello begins to ask what a boomerang beam is, he is zapped into a secret headquarters located in Staten Island. Donatello follows Dirk, who begins explaining that after their previous encounter, he decided to stop freelancing and join an organization dedicated to protecting the world. He is now a member of D.U.D.E.",
+      "short_description": "The Daring Undercover Department of Espionage is an organization dedicated to protecting the world. Their purpose is to keep the world safe from the Global Institute of Violence and Evil (G.I.V.E.).",
+      "evidence": "fiction",
+      "parentSlug": "teenage-mutant-ninja-turtles",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/tmnt/images/9/91/Dude_hq.jpg/revision/latest/scale-to-width-down/360?cb=20250326140616",
+      "image_source": "https://turtlepedia.fandom.com/wiki/Daring_Undercover_Department_of_Espionage",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Mirage / Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Daring Undercover Department of Espionage",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://turtlepedia.fandom.com/wiki/Daring_Undercover_Department_of_Espionage",
+        "fandom_title": "Daring Undercover Department of Espionage",
+        "source_fandom": "turtlepedia.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "purgatory-between-dimensions",
+      "name": "Purgatory between dimensions",
+      "type": "place",
+      "description": "In Teenage Mutant Ninja Turtles/Ghostbusters 2, a certain purgatory between dimensions is actually an insulation between dimensions in which ghosts can become trapped.\n\nRay Stantz had long spoken of the insulation between dimensions in scientific terms, but it was the more religiously-minded Winston Zeddemore who correctly guessed that these realms may actually be .\n\nIndeed, in one such realm dwelt a ghost named living out his own purgatory, and he befriended a newcomer, , trying to teach him how to adapt to this particular afterlife. However, instead of using what Bronson taught him to come to terms with his death, the extremely vengeful Darius used it to spy on the living world and other dimensions and to summon the Collectors to seek revenge against for ordering his execution by going after Splinter's sons, the . Category:Dimensions Category:IDW locations Category:Afterlife",
+      "short_description": "In Teenage Mutant Ninja Turtles/Ghostbusters 2, a certain purgatory between dimensions is actually an insulation between dimensions in which ghosts can become trapped.",
+      "evidence": "fiction",
+      "parentSlug": "teenage-mutant-ninja-turtles",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://turtlepedia.fandom.com/wiki/Purgatory_between_dimensions",
+        "fandom_title": "Purgatory between dimensions",
+        "source_fandom": "turtlepedia.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earth-protection-force-2012-tv-series",
+      "name": "Earth Protection Force",
+      "type": "organization",
+      "description": "The Earth Protection Force is a global task force under the United States that protect Earth from alien threats.\n\nThe Earth Protection Force make their first appearance in The Invasion, Part 2, making a valiant but ineffective effort to stop Kraang Prime and the invasion of the Kraang.\n\nIn \"Return to New York,\" it's revealed the EPF soldiers were subdued and controlled by the Kraang, using their Kraang Mind Control Device.\n\nIn \"Tokka vs The World\" following their agreement with the Utroms and with Bishop acting as an ambassador for the Utroms, the EPF have now gained better weaponry and seized Kraang tech from the agreement with the Utroms, including taking over TCRI, allowing them to better handle future threats against the Earth following the invasions by the Kraang and the Triceraton Empire. They first test their new weaponry when Tokka arrived to look for Chompy. However, their commander General Griffen nearly ends the agreement with the Utroms because of Bishop's presumed betrayal with wanting to avoid provoking Tokka when she was only on Earth looking for Chompy and having the EPF attack her in self-defense as well as having EPF scientists nearly dissect Michelangelo since Griffen believes that both aliens and mutants alike are threats.",
+      "short_description": "The Earth Protection Force is a global task force under the United States that protect Earth from alien threats.",
+      "evidence": "fiction",
+      "parentSlug": "teenage-mutant-ninja-turtles",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/tmnt/images/6/60/Earth_Protection_Force_2012.jpg/revision/latest/scale-to-width-down/360?cb=20140921163919",
+      "image_source": "https://turtlepedia.fandom.com/wiki/Earth_Protection_Force_(2012_TV_series)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Mirage / Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Earth Protection Force (2012 TV series)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://turtlepedia.fandom.com/wiki/Earth_Protection_Force_(2012_TV_series)",
+        "fandom_title": "Earth Protection Force (2012 TV series)",
+        "source_fandom": "turtlepedia.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tang-shens-garden",
+      "name": "Tang Shen's garden",
+      "type": "place",
+      "description": "In the IDW continuity, Tang Shen's garden is a location occasionally visited by the and in their visions and dreams. It is an illusion created by when she wished to speak to her sons, and accordingly it may shift in appearance, depending on what their needs are. For instance, during 's visit it became a smaller garden in the heart of a hedge maze.\n\nIt was first seen during the events of City Fall, part 5, when Tang Shen comforted a brainwashed in his dreams. She brought him back to the garden during Northampton, part 2, rescuing him from his post-brainwashing nightmares, and consoled and advised him.\n\nAfter being mortally wounded by , Donatello found himself in a garden that opened into the afterlife, but Tang Shen asked him to stay awhile with her in the garden rather than moving on. Splinter briefly visited it as well, though he did not see Tang Shen there.\n\nThe garden was visited more tangibly in the Teenage Mutant Ninja Turtles/Ghostbusters 2 crossover, when Tang Shen called her sons to a particular dimension that she controlled. This allowed her to interact with her sons outside of visions and dreams, as well as interacting with the Ghostbusters. Category:IDW locations Category:Dimensions Category:Afterlife",
+      "short_description": "In the IDW continuity, Tang Shen's garden is a location occasionally visited by the and in their visions and dreams. It is an illusion created by when she wished to speak to her sons, and accordingly it may shift in…",
+      "evidence": "fiction",
+      "parentSlug": "teenage-mutant-ninja-turtles",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/tmnt/images/d/de/Idw_-_tang_shen%27s_garden.jpg/revision/latest/scale-to-width-down/360?cb=20180320142857",
+      "image_source": "https://turtlepedia.fandom.com/wiki/Tang_Shen%27s_garden",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Mirage / Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Tang Shen's garden",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://turtlepedia.fandom.com/wiki/Tang_Shen%27s_garden",
+        "fandom_title": "Tang Shen's garden",
+        "source_fandom": "turtlepedia.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "esoteric-order-of-dagon",
+      "name": "Esoteric Order of Dagon",
+      "type": "organization",
+      "description": "The Esoteric Order of Dagon is a cult which appears in the Eastman and Laird's Teenage Mutant Ninja Turtles issue Men of Shadow. They are lead by a group of vampires, headed by Master Traquer, but the bulk of the cultists are people with vaguely fish-like appearances.\n\nAs implied by their name, they worship the literal Lovecraftian entity Dagon, and seek to summon it from the waters of Innsmouth, Massachusetts.\n\nThe cross the Order when they capture and and tie them up in the Whatley House, setting up a bomb in order to blow them and the house up so they can erase all evidence of their existence from humankind after they become surrounded by SWAT. The Turtles snuck into the house at the same time that Clark Ashton Allard appeared inside. The Turtles offered to just take April and Casey with them and get out of their hair, but Lord Mallet, the highest-ranking in the house at the time, says he'll just blow them all up in there. Clark takes out Mallet and tells the Turtles they need to decapitate the vampires or pierce their hearts with wood if they want to help. The Turtles untie April and Casey, and the leadership of the Order escapes. Allard leapt out the window high into the air with the neo-dead slave holding the bomb and tosses him, allowing the bomb to detonate without any real casualties, although it blew Clark flying.\n\nAfter Clark was blasted into a field in Arkham, Massachusetts and placed into his \"auto-doc\" by Maximillian Jones and Pervis Walker, Traquer and some other vampires captured Max and Clark and took them to a Innsmouth Seafood warehouse in Innsmouth, Massachusetts. Just as The Turtles, Casey, and approached on the , the cultists succeeded in summoning Dagon. Dagon grabbed the Turtlebot with one of its tongues and began drawing it into its maw, forcing to eject. Meanwhile, Casey fought Traquer and broke a baseball bat while hitting him. Traquer grabbed Casey to kill him in retaliation, but Max grabbed the broken piece of bat and stabbed Traquer to death with it.",
+      "short_description": "The Esoteric Order of Dagon is a cult which appears in the Eastman and Laird's Teenage Mutant Ninja Turtles issue Men of Shadow. They are lead by a group of vampires, headed by Master Traquer, but the bulk of the…",
+      "evidence": "fiction",
+      "parentSlug": "teenage-mutant-ninja-turtles",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/tmnt/images/b/be/Dagonites.png/revision/latest/scale-to-width-down/360?cb=20201101062903",
+      "image_source": "https://turtlepedia.fandom.com/wiki/Esoteric_Order_of_Dagon",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Mirage / Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Esoteric Order of Dagon",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://turtlepedia.fandom.com/wiki/Esoteric_Order_of_Dagon",
+        "fandom_title": "Esoteric Order of Dagon",
+        "source_fandom": "turtlepedia.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -6519,6 +6849,102 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "future-2003-video-games",
+      "teenage-mutant-ninja-turtles",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "anti-turtle-squad",
+      "teenage-mutant-ninja-turtles",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-ten-dimensions",
+      "teenage-mutant-ninja-turtles",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "badd-family",
+      "teenage-mutant-ninja-turtles",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "hell",
+      "teenage-mutant-ninja-turtles",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "crooked-ninja-turtle-gang-archie",
+      "teenage-mutant-ninja-turtles",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "oroku-sakis-afterlife-idw",
+      "teenage-mutant-ninja-turtles",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "daring-undercover-department-of-espionage",
+      "teenage-mutant-ninja-turtles",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "purgatory-between-dimensions",
+      "teenage-mutant-ninja-turtles",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "earth-protection-force-2012-tv-series",
+      "teenage-mutant-ninja-turtles",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "tang-shens-garden",
+      "teenage-mutant-ninja-turtles",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "esoteric-order-of-dagon",
+      "teenage-mutant-ninja-turtles",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -6527,18 +6953,18 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (turtlepedia.fandom.com) for identification and commentary only. Character / franchise art © Mirage / Nickelodeon / Paramount (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T17:15:50.394Z",
+  "generated_at": "2026-09-13T04:17:07.700Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://turtlepedia.fandom.com/wiki/",
     "host": "turtlepedia.fandom.com"
   },
   "stats": {
-    "fandom_titles": 45,
-    "fandom_enriched_core": 45,
-    "fandom_created": 0,
-    "fandom_images": 45,
-    "fandom_intros": 45,
+    "fandom_titles": 1,
+    "fandom_enriched_core": 0,
+    "fandom_created": 1,
+    "fandom_images": 1,
+    "fandom_intros": 1,
     "description_ensure_at": "2026-09-12T06:37:15.760Z",
     "description_ensure_count": 2
   }

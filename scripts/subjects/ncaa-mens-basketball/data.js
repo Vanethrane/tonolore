@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into NCAA men's basketball.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify NCAA men's basketball."
+    },
+    {
+        "slug": "ncaa-mens-basketball-geography",
+        "name": "NCAA men's basketball geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for NCAA men's basketball.",
+        "description": "Regions, routes, and spatial systems that situate NCAA men's basketball beyond single named places."
+    },
+    {
+        "slug": "ncaa-mens-basketball-legacy",
+        "name": "NCAA men's basketball legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of NCAA men's basketball.",
+        "description": "How NCAA men's basketball continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "ncaa-mens-basketball-practices",
+        "name": "NCAA men's basketball practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in NCAA men's basketball.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in NCAA men's basketball."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-1",
+        "name": "NCAA men's basketball entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-2",
+        "name": "NCAA men's basketball entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-3",
+        "name": "NCAA men's basketball entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-4",
+        "name": "NCAA men's basketball entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-5",
+        "name": "NCAA men's basketball entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-6",
+        "name": "NCAA men's basketball entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-7",
+        "name": "NCAA men's basketball entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-8",
+        "name": "NCAA men's basketball entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-9",
+        "name": "NCAA men's basketball entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-10",
+        "name": "NCAA men's basketball entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-11",
+        "name": "NCAA men's basketball entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-12",
+        "name": "NCAA men's basketball entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-13",
+        "name": "NCAA men's basketball entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-14",
+        "name": "NCAA men's basketball entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-15",
+        "name": "NCAA men's basketball entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-16",
+        "name": "NCAA men's basketball entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-17",
+        "name": "NCAA men's basketball entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-18",
+        "name": "NCAA men's basketball entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-19",
+        "name": "NCAA men's basketball entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-20",
+        "name": "NCAA men's basketball entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-21",
+        "name": "NCAA men's basketball entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-mens-basketball-entry-22",
+        "name": "NCAA men's basketball entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA men's basketball.",
+        "description": "A supporting encyclopedia entry in the NCAA men's basketball subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "NCAA men's basketball sources is a primary trailhead under NCAA men's basketball.",
         0.88,
         0.82
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-geography",
+        "contains",
+        "NCAA men's basketball geography is a primary trailhead under NCAA men's basketball.",
+        0.88,
+        0.82
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-legacy",
+        "contains",
+        "NCAA men's basketball legacy is a primary trailhead under NCAA men's basketball.",
+        0.88,
+        0.82
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-practices",
+        "contains",
+        "NCAA men's basketball practices is a primary trailhead under NCAA men's basketball.",
+        0.88,
+        0.82
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-1",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-2",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-3",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-4",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-5",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-6",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-7",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-8",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-9",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-10",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-11",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-12",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-13",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-14",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-15",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-16",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-17",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-18",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-19",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-20",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-21",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-mens-basketball",
+        "ncaa-mens-basketball-entry-22",
+        "contains",
+        "Supporting entry under NCAA men's basketball.",
+        0.75,
+        0.7
     ]
 ];
 

@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Dolly Parton.",
         "description": "Regions, routes, and spatial systems that situate Dolly Parton beyond single named places."
+    },
+    {
+        "slug": "dolly-parton-legacy",
+        "name": "Dolly Parton legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Dolly Parton.",
+        "description": "How Dolly Parton continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "dolly-parton-practices",
+        "name": "Dolly Parton practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Dolly Parton.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Dolly Parton."
+    },
+    {
+        "slug": "dolly-parton-entry-1",
+        "name": "Dolly Parton entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-2",
+        "name": "Dolly Parton entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-3",
+        "name": "Dolly Parton entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-4",
+        "name": "Dolly Parton entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-5",
+        "name": "Dolly Parton entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-6",
+        "name": "Dolly Parton entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-7",
+        "name": "Dolly Parton entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-8",
+        "name": "Dolly Parton entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-9",
+        "name": "Dolly Parton entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-10",
+        "name": "Dolly Parton entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-11",
+        "name": "Dolly Parton entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-12",
+        "name": "Dolly Parton entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-13",
+        "name": "Dolly Parton entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-14",
+        "name": "Dolly Parton entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-15",
+        "name": "Dolly Parton entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-16",
+        "name": "Dolly Parton entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-17",
+        "name": "Dolly Parton entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-18",
+        "name": "Dolly Parton entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-19",
+        "name": "Dolly Parton entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-20",
+        "name": "Dolly Parton entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-21",
+        "name": "Dolly Parton entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-22",
+        "name": "Dolly Parton entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "dolly-parton-entry-23",
+        "name": "Dolly Parton entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Dolly Parton.",
+        "description": "A supporting encyclopedia entry in the Dolly Parton subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Dolly Parton geography is a primary trailhead under Dolly Parton.",
         0.88,
         0.82
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-legacy",
+        "contains",
+        "Dolly Parton legacy is a primary trailhead under Dolly Parton.",
+        0.88,
+        0.82
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-practices",
+        "contains",
+        "Dolly Parton practices is a primary trailhead under Dolly Parton.",
+        0.88,
+        0.82
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-1",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-2",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-3",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-4",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-5",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-6",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-7",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-8",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-9",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-10",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-11",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-12",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-13",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-14",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-15",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-16",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-17",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-18",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-19",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-20",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-21",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-22",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
+    ],
+    [
+        "dolly-parton",
+        "dolly-parton-entry-23",
+        "contains",
+        "Supporting entry under Dolly Parton.",
+        0.75,
+        0.7
     ]
 ];
 

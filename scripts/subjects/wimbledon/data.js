@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into Wimbledon.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify Wimbledon."
+    },
+    {
+        "slug": "wimbledon-geography",
+        "name": "Wimbledon geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for Wimbledon.",
+        "description": "Regions, routes, and spatial systems that situate Wimbledon beyond single named places."
+    },
+    {
+        "slug": "wimbledon-legacy",
+        "name": "Wimbledon legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Wimbledon.",
+        "description": "How Wimbledon continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "wimbledon-practices",
+        "name": "Wimbledon practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Wimbledon.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Wimbledon."
+    },
+    {
+        "slug": "wimbledon-entry-1",
+        "name": "Wimbledon entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wimbledon-entry-2",
+        "name": "Wimbledon entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wimbledon-entry-3",
+        "name": "Wimbledon entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wimbledon-entry-4",
+        "name": "Wimbledon entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wimbledon-entry-5",
+        "name": "Wimbledon entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wimbledon-entry-6",
+        "name": "Wimbledon entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wimbledon-entry-7",
+        "name": "Wimbledon entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wimbledon-entry-8",
+        "name": "Wimbledon entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wimbledon-entry-9",
+        "name": "Wimbledon entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wimbledon-entry-10",
+        "name": "Wimbledon entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wimbledon-entry-11",
+        "name": "Wimbledon entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wimbledon-entry-12",
+        "name": "Wimbledon entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wimbledon-entry-13",
+        "name": "Wimbledon entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wimbledon-entry-14",
+        "name": "Wimbledon entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wimbledon-entry-15",
+        "name": "Wimbledon entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wimbledon-entry-16",
+        "name": "Wimbledon entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wimbledon-entry-17",
+        "name": "Wimbledon entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wimbledon-entry-18",
+        "name": "Wimbledon entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wimbledon-entry-19",
+        "name": "Wimbledon entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wimbledon-entry-20",
+        "name": "Wimbledon entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wimbledon-entry-21",
+        "name": "Wimbledon entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wimbledon-entry-22",
+        "name": "Wimbledon entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wimbledon.",
+        "description": "A supporting encyclopedia entry in the Wimbledon subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "Wimbledon sources is a primary trailhead under Wimbledon.",
         0.88,
         0.82
+    ],
+    [
+        "wimbledon",
+        "wimbledon-geography",
+        "contains",
+        "Wimbledon geography is a primary trailhead under Wimbledon.",
+        0.88,
+        0.82
+    ],
+    [
+        "wimbledon",
+        "wimbledon-legacy",
+        "contains",
+        "Wimbledon legacy is a primary trailhead under Wimbledon.",
+        0.88,
+        0.82
+    ],
+    [
+        "wimbledon",
+        "wimbledon-practices",
+        "contains",
+        "Wimbledon practices is a primary trailhead under Wimbledon.",
+        0.88,
+        0.82
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-1",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-2",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-3",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-4",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-5",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-6",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-7",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-8",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-9",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-10",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-11",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-12",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-13",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-14",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-15",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-16",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-17",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-18",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-19",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-20",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-21",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
+    ],
+    [
+        "wimbledon",
+        "wimbledon-entry-22",
+        "contains",
+        "Supporting entry under Wimbledon.",
+        0.75,
+        0.7
     ]
 ];
 

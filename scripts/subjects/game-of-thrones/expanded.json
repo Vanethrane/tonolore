@@ -250,18 +250,18 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (gameofthrones.fandom.com) for identification and commentary only. Character / franchise art © George R.R. Martin / HBO (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T18:01:07.821Z",
+  "generated_at": "2026-09-13T03:50:18.860Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://gameofthrones.fandom.com/wiki/",
     "host": "gameofthrones.fandom.com"
   },
   "stats": {
-    "fandom_titles": 2,
+    "fandom_titles": 0,
     "fandom_enriched_core": 0,
     "fandom_created": 0,
-    "fandom_images": 2,
-    "fandom_intros": 2,
+    "fandom_images": 0,
+    "fandom_intros": 0,
     "description_ensure_at": "2026-09-12T04:17:21.325Z",
     "description_ensure_count": 33
   }

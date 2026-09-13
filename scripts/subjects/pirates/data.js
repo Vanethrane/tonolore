@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Pirates.",
         "description": "How Pirates continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "pirates-practices",
+        "name": "Pirates practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Pirates.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Pirates."
+    },
+    {
+        "slug": "pirates-entry-1",
+        "name": "Pirates entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-2",
+        "name": "Pirates entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-3",
+        "name": "Pirates entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-4",
+        "name": "Pirates entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-5",
+        "name": "Pirates entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-6",
+        "name": "Pirates entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-7",
+        "name": "Pirates entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-8",
+        "name": "Pirates entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-9",
+        "name": "Pirates entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-10",
+        "name": "Pirates entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-11",
+        "name": "Pirates entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-12",
+        "name": "Pirates entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-13",
+        "name": "Pirates entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-14",
+        "name": "Pirates entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-15",
+        "name": "Pirates entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-16",
+        "name": "Pirates entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-17",
+        "name": "Pirates entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-18",
+        "name": "Pirates entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-19",
+        "name": "Pirates entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-20",
+        "name": "Pirates entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-21",
+        "name": "Pirates entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-22",
+        "name": "Pirates entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-23",
+        "name": "Pirates entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "pirates-entry-24",
+        "name": "Pirates entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Pirates.",
+        "description": "A supporting encyclopedia entry in the Pirates subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Pirates legacy is a primary trailhead under Pirates.",
         0.88,
         0.82
+    ],
+    [
+        "pirates",
+        "pirates-practices",
+        "contains",
+        "Pirates practices is a primary trailhead under Pirates.",
+        0.88,
+        0.82
+    ],
+    [
+        "pirates",
+        "pirates-entry-1",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-2",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-3",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-4",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-5",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-6",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-7",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-8",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-9",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-10",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-11",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-12",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-13",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-14",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-15",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-16",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-17",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-18",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-19",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-20",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-21",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-22",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-23",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
+    ],
+    [
+        "pirates",
+        "pirates-entry-24",
+        "contains",
+        "Supporting entry under Pirates.",
+        0.75,
+        0.7
     ]
 ];
 

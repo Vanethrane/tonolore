@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Avatar: The Last Airbender.",
         "description": "How Avatar: The Last Airbender continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "avatar-the-last-airbender-practices",
+        "name": "Avatar: The Last Airbender practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Avatar: The Last Airbender.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Avatar: The Last Airbender."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-1",
+        "name": "Avatar: The Last Airbender entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-2",
+        "name": "Avatar: The Last Airbender entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-3",
+        "name": "Avatar: The Last Airbender entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-4",
+        "name": "Avatar: The Last Airbender entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-5",
+        "name": "Avatar: The Last Airbender entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-6",
+        "name": "Avatar: The Last Airbender entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-7",
+        "name": "Avatar: The Last Airbender entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-8",
+        "name": "Avatar: The Last Airbender entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-9",
+        "name": "Avatar: The Last Airbender entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-10",
+        "name": "Avatar: The Last Airbender entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-11",
+        "name": "Avatar: The Last Airbender entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-12",
+        "name": "Avatar: The Last Airbender entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-13",
+        "name": "Avatar: The Last Airbender entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-14",
+        "name": "Avatar: The Last Airbender entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-15",
+        "name": "Avatar: The Last Airbender entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-16",
+        "name": "Avatar: The Last Airbender entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-17",
+        "name": "Avatar: The Last Airbender entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-18",
+        "name": "Avatar: The Last Airbender entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-19",
+        "name": "Avatar: The Last Airbender entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-20",
+        "name": "Avatar: The Last Airbender entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-21",
+        "name": "Avatar: The Last Airbender entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-22",
+        "name": "Avatar: The Last Airbender entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-23",
+        "name": "Avatar: The Last Airbender entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "avatar-the-last-airbender-entry-24",
+        "name": "Avatar: The Last Airbender entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Avatar: The Last Airbender.",
+        "description": "A supporting encyclopedia entry in the Avatar: The Last Airbender subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Avatar: The Last Airbender legacy is a primary trailhead under Avatar: The Last Airbender.",
         0.88,
         0.82
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-practices",
+        "contains",
+        "Avatar: The Last Airbender practices is a primary trailhead under Avatar: The Last Airbender.",
+        0.88,
+        0.82
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-1",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-2",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-3",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-4",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-5",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-6",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-7",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-8",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-9",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-10",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-11",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-12",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-13",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-14",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-15",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-16",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-17",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-18",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-19",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-20",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-21",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-22",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-23",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
+    ],
+    [
+        "avatar-the-last-airbender",
+        "avatar-the-last-airbender-entry-24",
+        "contains",
+        "Supporting entry under Avatar: The Last Airbender.",
+        0.75,
+        0.7
     ]
 ];
 

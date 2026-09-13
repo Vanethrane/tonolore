@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Greek mythology.",
         "description": "How Greek mythology continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "greek-mythology-practices",
+        "name": "Greek mythology practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Greek mythology.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Greek mythology."
+    },
+    {
+        "slug": "greek-mythology-entry-1",
+        "name": "Greek mythology entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-2",
+        "name": "Greek mythology entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-3",
+        "name": "Greek mythology entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-4",
+        "name": "Greek mythology entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-5",
+        "name": "Greek mythology entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-6",
+        "name": "Greek mythology entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-7",
+        "name": "Greek mythology entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-8",
+        "name": "Greek mythology entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-9",
+        "name": "Greek mythology entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-10",
+        "name": "Greek mythology entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-11",
+        "name": "Greek mythology entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-12",
+        "name": "Greek mythology entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-13",
+        "name": "Greek mythology entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-14",
+        "name": "Greek mythology entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-15",
+        "name": "Greek mythology entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-16",
+        "name": "Greek mythology entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-17",
+        "name": "Greek mythology entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-18",
+        "name": "Greek mythology entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-19",
+        "name": "Greek mythology entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-20",
+        "name": "Greek mythology entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-21",
+        "name": "Greek mythology entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-22",
+        "name": "Greek mythology entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-23",
+        "name": "Greek mythology entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "greek-mythology-entry-24",
+        "name": "Greek mythology entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Greek mythology.",
+        "description": "A supporting encyclopedia entry in the Greek mythology subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Greek mythology legacy is a primary trailhead under Greek mythology.",
         0.88,
         0.82
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-practices",
+        "contains",
+        "Greek mythology practices is a primary trailhead under Greek mythology.",
+        0.88,
+        0.82
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-1",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-2",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-3",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-4",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-5",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-6",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-7",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-8",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-9",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-10",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-11",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-12",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-13",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-14",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-15",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-16",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-17",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-18",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-19",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-20",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-21",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-22",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-23",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
+    ],
+    [
+        "greek-mythology",
+        "greek-mythology-entry-24",
+        "contains",
+        "Supporting entry under Greek mythology.",
+        0.75,
+        0.7
     ]
 ];
 

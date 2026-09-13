@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Daft Punk.",
         "description": "Regions, routes, and spatial systems that situate Daft Punk beyond single named places."
+    },
+    {
+        "slug": "daft-punk-legacy",
+        "name": "Daft Punk legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Daft Punk.",
+        "description": "How Daft Punk continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "daft-punk-practices",
+        "name": "Daft Punk practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Daft Punk.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Daft Punk."
+    },
+    {
+        "slug": "daft-punk-entry-1",
+        "name": "Daft Punk entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-2",
+        "name": "Daft Punk entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-3",
+        "name": "Daft Punk entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-4",
+        "name": "Daft Punk entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-5",
+        "name": "Daft Punk entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-6",
+        "name": "Daft Punk entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-7",
+        "name": "Daft Punk entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-8",
+        "name": "Daft Punk entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-9",
+        "name": "Daft Punk entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-10",
+        "name": "Daft Punk entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-11",
+        "name": "Daft Punk entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-12",
+        "name": "Daft Punk entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-13",
+        "name": "Daft Punk entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-14",
+        "name": "Daft Punk entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-15",
+        "name": "Daft Punk entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-16",
+        "name": "Daft Punk entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-17",
+        "name": "Daft Punk entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-18",
+        "name": "Daft Punk entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-19",
+        "name": "Daft Punk entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-20",
+        "name": "Daft Punk entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-21",
+        "name": "Daft Punk entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-22",
+        "name": "Daft Punk entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "daft-punk-entry-23",
+        "name": "Daft Punk entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Daft Punk.",
+        "description": "A supporting encyclopedia entry in the Daft Punk subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Daft Punk geography is a primary trailhead under Daft Punk.",
         0.88,
         0.82
+    ],
+    [
+        "daft-punk",
+        "daft-punk-legacy",
+        "contains",
+        "Daft Punk legacy is a primary trailhead under Daft Punk.",
+        0.88,
+        0.82
+    ],
+    [
+        "daft-punk",
+        "daft-punk-practices",
+        "contains",
+        "Daft Punk practices is a primary trailhead under Daft Punk.",
+        0.88,
+        0.82
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-1",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-2",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-3",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-4",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-5",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-6",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-7",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-8",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-9",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-10",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-11",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-12",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-13",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-14",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-15",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-16",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-17",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-18",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-19",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-20",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-21",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-22",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
+    ],
+    [
+        "daft-punk",
+        "daft-punk-entry-23",
+        "contains",
+        "Supporting entry under Daft Punk.",
+        0.75,
+        0.7
     ]
 ];
 

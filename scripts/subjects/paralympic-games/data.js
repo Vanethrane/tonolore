@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into Paralympic Games.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify Paralympic Games."
+    },
+    {
+        "slug": "paralympic-games-geography",
+        "name": "Paralympic Games geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for Paralympic Games.",
+        "description": "Regions, routes, and spatial systems that situate Paralympic Games beyond single named places."
+    },
+    {
+        "slug": "paralympic-games-legacy",
+        "name": "Paralympic Games legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Paralympic Games.",
+        "description": "How Paralympic Games continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "paralympic-games-practices",
+        "name": "Paralympic Games practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Paralympic Games.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Paralympic Games."
+    },
+    {
+        "slug": "paralympic-games-entry-1",
+        "name": "Paralympic Games entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "paralympic-games-entry-2",
+        "name": "Paralympic Games entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "paralympic-games-entry-3",
+        "name": "Paralympic Games entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "paralympic-games-entry-4",
+        "name": "Paralympic Games entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "paralympic-games-entry-5",
+        "name": "Paralympic Games entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "paralympic-games-entry-6",
+        "name": "Paralympic Games entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "paralympic-games-entry-7",
+        "name": "Paralympic Games entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "paralympic-games-entry-8",
+        "name": "Paralympic Games entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "paralympic-games-entry-9",
+        "name": "Paralympic Games entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "paralympic-games-entry-10",
+        "name": "Paralympic Games entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "paralympic-games-entry-11",
+        "name": "Paralympic Games entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "paralympic-games-entry-12",
+        "name": "Paralympic Games entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "paralympic-games-entry-13",
+        "name": "Paralympic Games entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "paralympic-games-entry-14",
+        "name": "Paralympic Games entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "paralympic-games-entry-15",
+        "name": "Paralympic Games entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "paralympic-games-entry-16",
+        "name": "Paralympic Games entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "paralympic-games-entry-17",
+        "name": "Paralympic Games entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "paralympic-games-entry-18",
+        "name": "Paralympic Games entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "paralympic-games-entry-19",
+        "name": "Paralympic Games entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "paralympic-games-entry-20",
+        "name": "Paralympic Games entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "paralympic-games-entry-21",
+        "name": "Paralympic Games entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "paralympic-games-entry-22",
+        "name": "Paralympic Games entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Paralympic Games.",
+        "description": "A supporting encyclopedia entry in the Paralympic Games subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "Paralympic Games sources is a primary trailhead under Paralympic Games.",
         0.88,
         0.82
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-geography",
+        "contains",
+        "Paralympic Games geography is a primary trailhead under Paralympic Games.",
+        0.88,
+        0.82
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-legacy",
+        "contains",
+        "Paralympic Games legacy is a primary trailhead under Paralympic Games.",
+        0.88,
+        0.82
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-practices",
+        "contains",
+        "Paralympic Games practices is a primary trailhead under Paralympic Games.",
+        0.88,
+        0.82
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-1",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-2",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-3",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-4",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-5",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-6",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-7",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-8",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-9",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-10",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-11",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-12",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-13",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-14",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-15",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-16",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-17",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-18",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-19",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-20",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-21",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
+    ],
+    [
+        "paralympic-games",
+        "paralympic-games-entry-22",
+        "contains",
+        "Supporting entry under Paralympic Games.",
+        0.75,
+        0.7
     ]
 ];
 

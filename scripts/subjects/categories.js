@@ -26,6 +26,16 @@ const {
     subjectCategoryMap: sportsCategoryMap,
     sportIdForSubject
 } = require("./sportsCatalog");
+const {
+    CORE_DEPTH_FILLERS,
+    allDepthFillSubjects
+} = require("./categoryDepthFillers");
+
+const coreDepthCategoryMap = Object.fromEntries(
+    allDepthFillSubjects()
+        .filter((subject) => CORE_DEPTH_FILLERS[subject.categoryId])
+        .map((subject) => [subject.id, [subject.categoryId]])
+);
 
 const CATEGORY_CATALOG = [
     {
@@ -148,7 +158,8 @@ const SUBJECT_CATEGORY_IDS = {
         boardGameSubjectIds().map((id) => [id, ["tabletop"]])
     ),
     ...sportsCategoryMap(),
-    ...subjectCategoryMap()
+    ...subjectCategoryMap(),
+    ...coreDepthCategoryMap
 };
 
 function normalizeCategories(value) {

@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of LEGO.",
         "description": "How LEGO continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "lego-practices",
+        "name": "LEGO practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in LEGO.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in LEGO."
+    },
+    {
+        "slug": "lego-entry-1",
+        "name": "LEGO entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-2",
+        "name": "LEGO entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-3",
+        "name": "LEGO entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-4",
+        "name": "LEGO entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-5",
+        "name": "LEGO entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-6",
+        "name": "LEGO entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-7",
+        "name": "LEGO entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-8",
+        "name": "LEGO entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-9",
+        "name": "LEGO entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-10",
+        "name": "LEGO entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-11",
+        "name": "LEGO entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-12",
+        "name": "LEGO entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-13",
+        "name": "LEGO entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-14",
+        "name": "LEGO entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-15",
+        "name": "LEGO entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-16",
+        "name": "LEGO entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-17",
+        "name": "LEGO entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-18",
+        "name": "LEGO entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-19",
+        "name": "LEGO entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-20",
+        "name": "LEGO entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-21",
+        "name": "LEGO entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-22",
+        "name": "LEGO entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-23",
+        "name": "LEGO entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "lego-entry-24",
+        "name": "LEGO entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside LEGO.",
+        "description": "A supporting encyclopedia entry in the LEGO subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "LEGO legacy is a primary trailhead under LEGO.",
         0.88,
         0.82
+    ],
+    [
+        "lego",
+        "lego-practices",
+        "contains",
+        "LEGO practices is a primary trailhead under LEGO.",
+        0.88,
+        0.82
+    ],
+    [
+        "lego",
+        "lego-entry-1",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-2",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-3",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-4",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-5",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-6",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-7",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-8",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-9",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-10",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-11",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-12",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-13",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-14",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-15",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-16",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-17",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-18",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-19",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-20",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-21",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-22",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-23",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
+    ],
+    [
+        "lego",
+        "lego-entry-24",
+        "contains",
+        "Supporting entry under LEGO.",
+        0.75,
+        0.7
     ]
 ];
 

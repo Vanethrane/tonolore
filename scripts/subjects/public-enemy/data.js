@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Public Enemy.",
         "description": "Regions, routes, and spatial systems that situate Public Enemy beyond single named places."
+    },
+    {
+        "slug": "public-enemy-legacy",
+        "name": "Public Enemy legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Public Enemy.",
+        "description": "How Public Enemy continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "public-enemy-practices",
+        "name": "Public Enemy practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Public Enemy.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Public Enemy."
+    },
+    {
+        "slug": "public-enemy-entry-1",
+        "name": "Public Enemy entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-2",
+        "name": "Public Enemy entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-3",
+        "name": "Public Enemy entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-4",
+        "name": "Public Enemy entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-5",
+        "name": "Public Enemy entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-6",
+        "name": "Public Enemy entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-7",
+        "name": "Public Enemy entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-8",
+        "name": "Public Enemy entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-9",
+        "name": "Public Enemy entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-10",
+        "name": "Public Enemy entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-11",
+        "name": "Public Enemy entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-12",
+        "name": "Public Enemy entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-13",
+        "name": "Public Enemy entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-14",
+        "name": "Public Enemy entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-15",
+        "name": "Public Enemy entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-16",
+        "name": "Public Enemy entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-17",
+        "name": "Public Enemy entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-18",
+        "name": "Public Enemy entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-19",
+        "name": "Public Enemy entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-20",
+        "name": "Public Enemy entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-21",
+        "name": "Public Enemy entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-22",
+        "name": "Public Enemy entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "public-enemy-entry-23",
+        "name": "Public Enemy entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Public Enemy.",
+        "description": "A supporting encyclopedia entry in the Public Enemy subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Public Enemy geography is a primary trailhead under Public Enemy.",
         0.88,
         0.82
+    ],
+    [
+        "public-enemy",
+        "public-enemy-legacy",
+        "contains",
+        "Public Enemy legacy is a primary trailhead under Public Enemy.",
+        0.88,
+        0.82
+    ],
+    [
+        "public-enemy",
+        "public-enemy-practices",
+        "contains",
+        "Public Enemy practices is a primary trailhead under Public Enemy.",
+        0.88,
+        0.82
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-1",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-2",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-3",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-4",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-5",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-6",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-7",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-8",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-9",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-10",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-11",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-12",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-13",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-14",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-15",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-16",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-17",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-18",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-19",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-20",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-21",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-22",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
+    ],
+    [
+        "public-enemy",
+        "public-enemy-entry-23",
+        "contains",
+        "Supporting entry under Public Enemy.",
+        0.75,
+        0.7
     ]
 ];
 

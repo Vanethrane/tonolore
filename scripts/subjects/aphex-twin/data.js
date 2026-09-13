@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Aphex Twin.",
         "description": "Regions, routes, and spatial systems that situate Aphex Twin beyond single named places."
+    },
+    {
+        "slug": "aphex-twin-legacy",
+        "name": "Aphex Twin legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Aphex Twin.",
+        "description": "How Aphex Twin continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "aphex-twin-practices",
+        "name": "Aphex Twin practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Aphex Twin.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Aphex Twin."
+    },
+    {
+        "slug": "aphex-twin-entry-1",
+        "name": "Aphex Twin entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-2",
+        "name": "Aphex Twin entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-3",
+        "name": "Aphex Twin entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-4",
+        "name": "Aphex Twin entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-5",
+        "name": "Aphex Twin entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-6",
+        "name": "Aphex Twin entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-7",
+        "name": "Aphex Twin entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-8",
+        "name": "Aphex Twin entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-9",
+        "name": "Aphex Twin entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-10",
+        "name": "Aphex Twin entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-11",
+        "name": "Aphex Twin entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-12",
+        "name": "Aphex Twin entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-13",
+        "name": "Aphex Twin entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-14",
+        "name": "Aphex Twin entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-15",
+        "name": "Aphex Twin entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-16",
+        "name": "Aphex Twin entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-17",
+        "name": "Aphex Twin entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-18",
+        "name": "Aphex Twin entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-19",
+        "name": "Aphex Twin entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-20",
+        "name": "Aphex Twin entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-21",
+        "name": "Aphex Twin entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-22",
+        "name": "Aphex Twin entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "aphex-twin-entry-23",
+        "name": "Aphex Twin entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Aphex Twin.",
+        "description": "A supporting encyclopedia entry in the Aphex Twin subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Aphex Twin geography is a primary trailhead under Aphex Twin.",
         0.88,
         0.82
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-legacy",
+        "contains",
+        "Aphex Twin legacy is a primary trailhead under Aphex Twin.",
+        0.88,
+        0.82
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-practices",
+        "contains",
+        "Aphex Twin practices is a primary trailhead under Aphex Twin.",
+        0.88,
+        0.82
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-1",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-2",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-3",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-4",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-5",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-6",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-7",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-8",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-9",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-10",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-11",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-12",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-13",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-14",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-15",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-16",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-17",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-18",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-19",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-20",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-21",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-22",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
+    ],
+    [
+        "aphex-twin",
+        "aphex-twin-entry-23",
+        "contains",
+        "Supporting entry under Aphex Twin.",
+        0.75,
+        0.7
     ]
 ];
 

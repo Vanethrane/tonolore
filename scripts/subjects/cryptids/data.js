@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Cryptids.",
         "description": "How Cryptids continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "cryptids-practices",
+        "name": "Cryptids practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Cryptids.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Cryptids."
+    },
+    {
+        "slug": "cryptids-entry-1",
+        "name": "Cryptids entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-2",
+        "name": "Cryptids entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-3",
+        "name": "Cryptids entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-4",
+        "name": "Cryptids entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-5",
+        "name": "Cryptids entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-6",
+        "name": "Cryptids entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-7",
+        "name": "Cryptids entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-8",
+        "name": "Cryptids entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-9",
+        "name": "Cryptids entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-10",
+        "name": "Cryptids entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-11",
+        "name": "Cryptids entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-12",
+        "name": "Cryptids entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-13",
+        "name": "Cryptids entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-14",
+        "name": "Cryptids entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-15",
+        "name": "Cryptids entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-16",
+        "name": "Cryptids entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-17",
+        "name": "Cryptids entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-18",
+        "name": "Cryptids entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-19",
+        "name": "Cryptids entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-20",
+        "name": "Cryptids entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-21",
+        "name": "Cryptids entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-22",
+        "name": "Cryptids entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-23",
+        "name": "Cryptids entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "cryptids-entry-24",
+        "name": "Cryptids entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Cryptids.",
+        "description": "A supporting encyclopedia entry in the Cryptids subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Cryptids legacy is a primary trailhead under Cryptids.",
         0.88,
         0.82
+    ],
+    [
+        "cryptids",
+        "cryptids-practices",
+        "contains",
+        "Cryptids practices is a primary trailhead under Cryptids.",
+        0.88,
+        0.82
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-1",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-2",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-3",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-4",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-5",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-6",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-7",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-8",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-9",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-10",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-11",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-12",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-13",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-14",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-15",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-16",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-17",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-18",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-19",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-20",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-21",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-22",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-23",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
+    ],
+    [
+        "cryptids",
+        "cryptids-entry-24",
+        "contains",
+        "Supporting entry under Cryptids.",
+        0.75,
+        0.7
     ]
 ];
 

@@ -15497,6 +15497,408 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "abandoned-fort",
+      "name": "Abandoned Fort",
+      "type": "place",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hyrule",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/07/HWDE_Abandoned_Fort_Gate_Open.png/revision/latest/scale-to-width-down/360?cb=20200601124946",
+      "image_source": "https://zelda.fandom.com/wiki/Abandoned_Fort",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Abandoned Fort",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://zelda.fandom.com/wiki/Abandoned_Fort",
+        "fandom_title": "Abandoned Fort",
+        "source_fandom": "zelda.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bombs-effect",
+      "name": "+Bombs Effect",
+      "type": "object",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "the-legend-of-zelda",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/24/LANS_%EF%BC%8BEffect_Panel_Model.png/revision/latest?cb=20191028224424",
+      "image_source": "https://zelda.fandom.com/wiki/%2BBombs_Effect",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for +Bombs Effect",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "item",
+        "fandom_url": "https://zelda.fandom.com/wiki/%2BBombs_Effect",
+        "fandom_title": "+Bombs Effect",
+        "source_fandom": "zelda.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "abandoned-north-mine",
+      "name": "Abandoned North Mine",
+      "type": "place",
+      "description": "The Abandoned North Mine is a disused quarry to the northwest of Goron City in Eldin Canyon. It is denoted as Death Mountain Marker #6. A number of Cannons belonging to Bludo are stationed around the shore and islands, which are operated by striking their levers to move them, and inserting a Remote Bomb into their compartments to detonate them. These Cannons can be used to destroy debris and some structures around the Mine. Further up the main road is a slope leading to a tunnel inhabited by Rock Octoroks, which leads to the Stolock Bridge that crosses over Goron City. A rail track connecting between the Mine and the Isle of Rabac begins at the Mine's shore. Its mine cart is stationed here and can be moved by detonating a Remote Bomb in its compartment.\n\nThe Mine was once used by the Gorons to mine for Gems, but was abandoned when it grew too hot due to 's rampage. Since then, more lava and monsters have appeared. More specifically, the Mines are now inhabited by Fire-Breath Lizalfos, who have built a fort and several watchtowers around the vicinity of the Mine. These towers are guarded by Lizalfos armed with Bows equipped with Fire Arrows.\n\nYunobo had went to the Abandoned North Mine to find painkillers for Bludo, so he could operate the Cannon at the Bridge of Eldin to drive Vah Rudania away. However, Yunobo failed to return. Bludo sends Link to find him in his stead, forming a part of the Divine Beast Vah Rudania Main Quest. A Goron miner there named Drak informs Link that Yunobo went to the Vault. However, Link finds that its entrance is blocked due to a rock slide that was caused by a Magma Bomb. Link uses the nearby Cannon to blast away the rocks, freeing Yunobo. Although Yunobo at first thinks Link is a monster, he thanks him and runs off to deliver Bludo's painkillers. Inside the Vault, Link can find a Cobble Crusher and two Treasure Chests containing a Purple Rupee and ten Ice Arrows. Some of the Fire-Breath Lizalfos use Fire Arrows, which Link can collect if he kills them.\n\nA rubble of stones on the east islands can also be blown away using a Cannon, revealing a Rare Ore Deposit and an Ore Deposit underneath.",
+      "short_description": "The Abandoned North Mine is a disused quarry to the northwest of Goron City in Eldin Canyon. It is denoted as Death Mountain Marker #6. A number of Cannons belonging to Bludo are stationed around the shore and islands,…",
+      "evidence": "fiction",
+      "parentSlug": "hyrule",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/54/BotW_Abandoned_North_Mine.png/revision/latest/scale-to-width-down/360?cb=20170920123254",
+      "image_source": "https://zelda.fandom.com/wiki/Abandoned_North_Mine",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Abandoned North Mine",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://zelda.fandom.com/wiki/Abandoned_North_Mine",
+        "fandom_title": "Abandoned North Mine",
+        "source_fandom": "zelda.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "effect-panel",
+      "name": "+Effect Panel",
+      "type": "object",
+      "description": "{| class=\"wikitable\" style=\"text-align:left;\"\n\n!style=\"width:25%; text-align:center;\"| +Effect Panel !style=\"width:35%; text-align:center;\"| Description !class=\"no-mobile\" style=\"width:20%; text-align:center;\"| Duration !style=\"width:20%; text-align:center;\"| Method of Obtention",
+      "short_description": "{| class=\"wikitable\" style=\"text-align:left;\"",
+      "evidence": "fiction",
+      "parentSlug": "the-legend-of-zelda",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/24/LANS_%EF%BC%8BEffect_Panel_Model.png/revision/latest?cb=20191028224424",
+      "image_source": "https://zelda.fandom.com/wiki/%2BEffect_Panel",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for +Effect Panel",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "item",
+        "fandom_url": "https://zelda.fandom.com/wiki/%2BEffect_Panel",
+        "fandom_title": "+Effect Panel",
+        "source_fandom": "zelda.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aboda-village",
+      "name": "Aboda Village",
+      "type": "place",
+      "description": "\"Aboda\" might come from the word \"abode\" which means \"a dwelling place; a home\". This is supported by the fact that is 's hometown.",
+      "short_description": "\"Aboda\" might come from the word \"abode\" which means \"a dwelling place; a home\". This is supported by the fact that is 's hometown.",
+      "evidence": "fiction",
+      "parentSlug": "hyrule",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/04/ST_Aboda_Village.png/revision/latest/scale-to-width-down/360?cb=20151115234423",
+      "image_source": "https://zelda.fandom.com/wiki/Aboda_Village",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Aboda Village",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://zelda.fandom.com/wiki/Aboda_Village",
+        "fandom_title": "Aboda Village",
+        "source_fandom": "zelda.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearts-effect",
+      "name": "+Hearts Effect",
+      "type": "object",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "the-legend-of-zelda",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/24/LANS_%EF%BC%8BEffect_Panel_Model.png/revision/latest?cb=20191028224424",
+      "image_source": "https://zelda.fandom.com/wiki/%2BHearts_Effect",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for +Hearts Effect",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "item",
+        "fandom_url": "https://zelda.fandom.com/wiki/%2BHearts_Effect",
+        "fandom_title": "+Hearts Effect",
+        "source_fandom": "zelda.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "advance-shop",
+      "name": "Advance Shop",
+      "type": "place",
+      "description": "The , also known as the 100 Rupee Advance Shop, is a recurring location in . It is a unique store as it can only be accessed when the game is played on a Game Boy Advance.\n\nThe shop is adjacent to the Lynna Village Shooting Gallery in , and adjacent to the Know-It-All Birds' Hut in . It is not available in the Nintendo 3DS Virtual Console or Nintendo Switch Online version of either game, as the 3DS uses the Game Boy Color emulator for the game.\n\nThe Advance Shop is run by Stockwell, who is amazed that Link managed to find the store. Every item sold in the Advance Shop costs 100 Rupees. The shop's merchandise consists of a Gasha Seed and two Magic Rings. Once appraised, the first ring, called an Advance Ring in the shop, will become the GBA Time Ring in , or the GBA Nature Ring in . If Link buys every item, Stockwell has nothing more to sell.\n\nde:100-Rubine-Advance Shop de-niwa:100-Rubine-Advance Shop es:Tienda Advance fr:Boutique Advance",
+      "short_description": "The , also known as the 100 Rupee Advance Shop, is a recurring location in . It is a unique store as it can only be accessed when the game is played on a Game Boy Advance.",
+      "evidence": "fiction",
+      "parentSlug": "hyrule",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/db/Advance_Shop_%28Interior%29.png/revision/latest?cb=20101030113814",
+      "image_source": "https://zelda.fandom.com/wiki/Advance_Shop",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Advance Shop",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://zelda.fandom.com/wiki/Advance_Shop",
+        "fandom_title": "Advance Shop",
+        "source_fandom": "zelda.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "monsters-effect",
+      "name": "+Monsters Effect",
+      "type": "object",
+      "description": "The can be obtained by obtaining all the in the of .",
+      "short_description": "The can be obtained by obtaining all the in the of .",
+      "evidence": "fiction",
+      "parentSlug": "the-legend-of-zelda",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/24/LANS_%EF%BC%8BEffect_Panel_Model.png/revision/latest?cb=20191028224424",
+      "image_source": "https://zelda.fandom.com/wiki/%2BMonsters_Effect",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for +Monsters Effect",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "item",
+        "fandom_url": "https://zelda.fandom.com/wiki/%2BMonsters_Effect",
+        "fandom_title": "+Monsters Effect",
+        "source_fandom": "zelda.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "afromsia-coast",
+      "name": "Afromsia Coast",
+      "type": "place",
+      "description": "When speaks to in , she tries to decipher a message she found, stating that turning towards the sea could refer to heading to . During the \"\" , can head to to line up the three cedar on , which will lead him to .\n\nOn the southern end of , can find a hidden in a . When lifts the , the will appear and give him a .",
+      "short_description": "When speaks to in , she tries to decipher a message she found, stating that turning towards the sea could refer to heading to . During the \"\" , can head to to line up the three cedar on , which will lead him to .",
+      "evidence": "fiction",
+      "parentSlug": "hyrule",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/23/BotW_Afromsia_Coast.png/revision/latest/scale-to-width-down/360?cb=20211017212549",
+      "image_source": "https://zelda.fandom.com/wiki/Afromsia_Coast",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Afromsia Coast",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://zelda.fandom.com/wiki/Afromsia_Coast",
+        "fandom_title": "Afromsia Coast",
+        "source_fandom": "zelda.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rupees-effect",
+      "name": "+Rupees Effect",
+      "type": "object",
+      "description": "Link receives the +Rupees Effect by acquiring all 50 Secret Seashells and bringing them to the Seashell Mansion.\n\nWhen applied to a room in a Chamber Dungeon, the +Rupees Effect will occasionally drop Rupees throughout the room. This will include Green Rupees, Blue Rupees, and a few Red Rupees. There is a set amount of rupees that will drop; the quantity is not endless. After this period expires, the effect will wear off and no additional rupees will drop.",
+      "short_description": "Link receives the +Rupees Effect by acquiring all 50 Secret Seashells and bringing them to the Seashell Mansion.",
+      "evidence": "fiction",
+      "parentSlug": "the-legend-of-zelda",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/24/LANS_%EF%BC%8BEffect_Panel_Model.png/revision/latest?cb=20191028224424",
+      "image_source": "https://zelda.fandom.com/wiki/%2BRupees_Effect",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for +Rupees Effect",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "item",
+        "fandom_url": "https://zelda.fandom.com/wiki/%2BRupees_Effect",
+        "fandom_title": "+Rupees Effect",
+        "source_fandom": "zelda.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "agithas-castle",
+      "name": "Agitha's Castle",
+      "type": "place",
+      "description": "Home to the self-proclaimed princess Agitha, it is located on the south road of Hyrule Castle Town. When Link meets Agitha inside her Castle, she mistakes him for a bug and goes on to tell him that she sent invitations to 24 Golden Bugs around Hyrule for the ball. Unfortunately, it seems none have arrived, and she asks for the young hero's help in bringing all the bugs to the castle. If Link brings her a Golden Bug, she will reward Link with Rupees for his troubles: 50 Rupees for bringing a bug, and 100 Rupees for bringing in both the male and female pairs of the same bug. The first time that he brings Agitha a bug, Link is given a Big Wallet. Bringing all 24 bugs to the Castle rewards Link with the Giant Wallet. If Link tries to walk out of the Castle even though he still has bugs on hand, she will mention it as he leaves.\n\nThe inside of Agitha's Castle reflects her deep passion for bugs. Plastered all over the walls are posters of various insects, and there are many empty Bottles as well. In the middle of the room is a giant tree where many of the bugs can be found once Link brings them in. However, extra bugs can be seen in Agitha's Castle later on.",
+      "short_description": "Home to the self-proclaimed princess Agitha, it is located on the south road of Hyrule Castle Town. When Link meets Agitha inside her Castle, she mistakes him for a bug and goes on to tell him that she sent invitations…",
+      "evidence": "fiction",
+      "parentSlug": "hyrule",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/ac/TPHD_Agitha%27s_Castle.png/revision/latest/scale-to-width-down/360?cb=20210822173611",
+      "image_source": "https://zelda.fandom.com/wiki/Agitha%27s_Castle",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Agitha's Castle",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://zelda.fandom.com/wiki/Agitha%27s_Castle",
+        "fandom_title": "Agitha's Castle",
+        "source_fandom": "zelda.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ahitaru",
+      "name": "Ahitaru",
+      "type": "place",
+      "description": "In the first section, large swarms of infest the area. At the end is a small cave where live, which links to the rocky shore where a large hole known as the is located. The , encountered on the other side of the , congratulates on fighting the and gives her a jar of , healing her. She also mentions that , a fisherman, is trapped in the head of the fish carcass. leaves to investigate by destroying the boulder covering the eye socket, either by using ten or the . thanks her for saving him, and leaves for the town of , dropping a to the town's smithy as he leaves. A appears inside the skeleton, and upon completion, is unlocked.",
+      "short_description": "In the first section, large swarms of infest the area. At the end is a small cave where live, which links to the rocky shore where a large hole known as the is located. The , encountered on the other side of the ,…",
+      "evidence": "fiction",
+      "parentSlug": "hyrule",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/6d/TWoG_Ahitaru.png/revision/latest/scale-to-width-down/360?cb=20180108165757",
+      "image_source": "https://zelda.fandom.com/wiki/Ahitaru",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Ahitaru",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://zelda.fandom.com/wiki/Ahitaru",
+        "fandom_title": "Ahitaru",
+        "source_fandom": "zelda.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadow-link-effect",
+      "name": "+Shadow Link Effect",
+      "type": "object",
+      "description": "The +Shadow Link Effect can be obtained by tapping the amiibo after speaking with . The effect causes to appear in the chamber and chase throughout it. If defeated, he will drop various and a .",
+      "short_description": "The +Shadow Link Effect can be obtained by tapping the amiibo after speaking with . The effect causes to appear in the chamber and chase throughout it. If defeated, he will drop various and a .",
+      "evidence": "fiction",
+      "parentSlug": "the-legend-of-zelda",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/24/LANS_%EF%BC%8BEffect_Panel_Model.png/revision/latest?cb=20191028224424",
+      "image_source": "https://zelda.fandom.com/wiki/%2BShadow_Link_Effect",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for +Shadow Link Effect",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "item",
+        "fandom_url": "https://zelda.fandom.com/wiki/%2BShadow_Link_Effect",
+        "fandom_title": "+Shadow Link Effect",
+        "source_fandom": "zelda.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "wallmasters-effect",
+      "name": "+Wallmasters Effect",
+      "type": "object",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "the-legend-of-zelda",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/24/LANS_%EF%BC%8BEffect_Panel_Model.png/revision/latest?cb=20191028224424",
+      "image_source": "https://zelda.fandom.com/wiki/%2BWallmasters_Effect",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for +Wallmasters Effect",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "item",
+        "fandom_url": "https://zelda.fandom.com/wiki/%2BWallmasters_Effect",
+        "fandom_title": "+Wallmasters Effect",
+        "source_fandom": "zelda.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -19851,6 +20253,118 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "abandoned-fort",
+      "hyrule",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bombs-effect",
+      "the-legend-of-zelda",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abandoned-north-mine",
+      "hyrule",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "effect-panel",
+      "the-legend-of-zelda",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "aboda-village",
+      "hyrule",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "hearts-effect",
+      "the-legend-of-zelda",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "advance-shop",
+      "hyrule",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "monsters-effect",
+      "the-legend-of-zelda",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "afromsia-coast",
+      "hyrule",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "rupees-effect",
+      "the-legend-of-zelda",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "agithas-castle",
+      "hyrule",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ahitaru",
+      "hyrule",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "shadow-link-effect",
+      "the-legend-of-zelda",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "wallmasters-effect",
+      "the-legend-of-zelda",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -19859,18 +20373,18 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (zelda.fandom.com) for identification and commentary only. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T18:05:04.543Z",
+  "generated_at": "2026-09-13T03:57:59.607Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://zelda.fandom.com/wiki/",
     "host": "zelda.fandom.com"
   },
   "stats": {
-    "fandom_titles": 45,
-    "fandom_enriched_core": 4,
-    "fandom_created": 33,
-    "fandom_images": 34,
-    "fandom_intros": 39,
+    "fandom_titles": 1,
+    "fandom_enriched_core": 0,
+    "fandom_created": 1,
+    "fandom_images": 1,
+    "fandom_intros": 0,
     "description_ensure_at": "2026-09-12T18:06:15.557Z",
     "description_ensure_count": 2
   }

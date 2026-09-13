@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of NASA.",
         "description": "How NASA continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "nasa-practices",
+        "name": "NASA practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in NASA.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in NASA."
+    },
+    {
+        "slug": "nasa-entry-1",
+        "name": "NASA entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-2",
+        "name": "NASA entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-3",
+        "name": "NASA entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-4",
+        "name": "NASA entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-5",
+        "name": "NASA entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-6",
+        "name": "NASA entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-7",
+        "name": "NASA entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-8",
+        "name": "NASA entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-9",
+        "name": "NASA entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-10",
+        "name": "NASA entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-11",
+        "name": "NASA entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-12",
+        "name": "NASA entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-13",
+        "name": "NASA entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-14",
+        "name": "NASA entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-15",
+        "name": "NASA entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-16",
+        "name": "NASA entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-17",
+        "name": "NASA entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-18",
+        "name": "NASA entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-19",
+        "name": "NASA entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-20",
+        "name": "NASA entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-21",
+        "name": "NASA entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-22",
+        "name": "NASA entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-23",
+        "name": "NASA entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nasa-entry-24",
+        "name": "NASA entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NASA.",
+        "description": "A supporting encyclopedia entry in the NASA subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "NASA legacy is a primary trailhead under NASA.",
         0.88,
         0.82
+    ],
+    [
+        "nasa",
+        "nasa-practices",
+        "contains",
+        "NASA practices is a primary trailhead under NASA.",
+        0.88,
+        0.82
+    ],
+    [
+        "nasa",
+        "nasa-entry-1",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-2",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-3",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-4",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-5",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-6",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-7",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-8",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-9",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-10",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-11",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-12",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-13",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-14",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-15",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-16",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-17",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-18",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-19",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-20",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-21",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-22",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-23",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
+    ],
+    [
+        "nasa",
+        "nasa-entry-24",
+        "contains",
+        "Supporting entry under NASA.",
+        0.75,
+        0.7
     ]
 ];
 

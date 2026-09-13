@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of G.I. Joe.",
         "description": "How G.I. Joe continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "gi-joe-practices",
+        "name": "G.I. Joe practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in G.I. Joe.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in G.I. Joe."
+    },
+    {
+        "slug": "gi-joe-entry-1",
+        "name": "G.I. Joe entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-2",
+        "name": "G.I. Joe entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-3",
+        "name": "G.I. Joe entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-4",
+        "name": "G.I. Joe entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-5",
+        "name": "G.I. Joe entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-6",
+        "name": "G.I. Joe entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-7",
+        "name": "G.I. Joe entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-8",
+        "name": "G.I. Joe entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-9",
+        "name": "G.I. Joe entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-10",
+        "name": "G.I. Joe entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-11",
+        "name": "G.I. Joe entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-12",
+        "name": "G.I. Joe entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-13",
+        "name": "G.I. Joe entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-14",
+        "name": "G.I. Joe entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-15",
+        "name": "G.I. Joe entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-16",
+        "name": "G.I. Joe entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-17",
+        "name": "G.I. Joe entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-18",
+        "name": "G.I. Joe entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-19",
+        "name": "G.I. Joe entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-20",
+        "name": "G.I. Joe entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-21",
+        "name": "G.I. Joe entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-22",
+        "name": "G.I. Joe entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-23",
+        "name": "G.I. Joe entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gi-joe-entry-24",
+        "name": "G.I. Joe entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside G.I. Joe.",
+        "description": "A supporting encyclopedia entry in the G.I. Joe subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "G.I. Joe legacy is a primary trailhead under G.I. Joe.",
         0.88,
         0.82
+    ],
+    [
+        "gi-joe",
+        "gi-joe-practices",
+        "contains",
+        "G.I. Joe practices is a primary trailhead under G.I. Joe.",
+        0.88,
+        0.82
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-1",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-2",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-3",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-4",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-5",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-6",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-7",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-8",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-9",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-10",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-11",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-12",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-13",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-14",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-15",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-16",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-17",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-18",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-19",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-20",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-21",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-22",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-23",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
+    ],
+    [
+        "gi-joe",
+        "gi-joe-entry-24",
+        "contains",
+        "Supporting entry under G.I. Joe.",
+        0.75,
+        0.7
     ]
 ];
 

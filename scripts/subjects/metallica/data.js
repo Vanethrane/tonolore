@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Metallica.",
         "description": "Regions, routes, and spatial systems that situate Metallica beyond single named places."
+    },
+    {
+        "slug": "metallica-legacy",
+        "name": "Metallica legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Metallica.",
+        "description": "How Metallica continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "metallica-practices",
+        "name": "Metallica practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Metallica.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Metallica."
+    },
+    {
+        "slug": "metallica-entry-1",
+        "name": "Metallica entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-2",
+        "name": "Metallica entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-3",
+        "name": "Metallica entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-4",
+        "name": "Metallica entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-5",
+        "name": "Metallica entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-6",
+        "name": "Metallica entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-7",
+        "name": "Metallica entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-8",
+        "name": "Metallica entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-9",
+        "name": "Metallica entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-10",
+        "name": "Metallica entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-11",
+        "name": "Metallica entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-12",
+        "name": "Metallica entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-13",
+        "name": "Metallica entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-14",
+        "name": "Metallica entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-15",
+        "name": "Metallica entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-16",
+        "name": "Metallica entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-17",
+        "name": "Metallica entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-18",
+        "name": "Metallica entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-19",
+        "name": "Metallica entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-20",
+        "name": "Metallica entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-21",
+        "name": "Metallica entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-22",
+        "name": "Metallica entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "metallica-entry-23",
+        "name": "Metallica entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Metallica.",
+        "description": "A supporting encyclopedia entry in the Metallica subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Metallica geography is a primary trailhead under Metallica.",
         0.88,
         0.82
+    ],
+    [
+        "metallica",
+        "metallica-legacy",
+        "contains",
+        "Metallica legacy is a primary trailhead under Metallica.",
+        0.88,
+        0.82
+    ],
+    [
+        "metallica",
+        "metallica-practices",
+        "contains",
+        "Metallica practices is a primary trailhead under Metallica.",
+        0.88,
+        0.82
+    ],
+    [
+        "metallica",
+        "metallica-entry-1",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-2",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-3",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-4",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-5",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-6",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-7",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-8",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-9",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-10",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-11",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-12",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-13",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-14",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-15",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-16",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-17",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-18",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-19",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-20",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-21",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-22",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
+    ],
+    [
+        "metallica",
+        "metallica-entry-23",
+        "contains",
+        "Supporting entry under Metallica.",
+        0.75,
+        0.7
     ]
 ];
 

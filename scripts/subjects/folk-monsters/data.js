@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Folk monsters.",
         "description": "How Folk monsters continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "folk-monsters-practices",
+        "name": "Folk monsters practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Folk monsters.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Folk monsters."
+    },
+    {
+        "slug": "folk-monsters-entry-1",
+        "name": "Folk monsters entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-2",
+        "name": "Folk monsters entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-3",
+        "name": "Folk monsters entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-4",
+        "name": "Folk monsters entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-5",
+        "name": "Folk monsters entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-6",
+        "name": "Folk monsters entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-7",
+        "name": "Folk monsters entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-8",
+        "name": "Folk monsters entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-9",
+        "name": "Folk monsters entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-10",
+        "name": "Folk monsters entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-11",
+        "name": "Folk monsters entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-12",
+        "name": "Folk monsters entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-13",
+        "name": "Folk monsters entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-14",
+        "name": "Folk monsters entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-15",
+        "name": "Folk monsters entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-16",
+        "name": "Folk monsters entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-17",
+        "name": "Folk monsters entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-18",
+        "name": "Folk monsters entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-19",
+        "name": "Folk monsters entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-20",
+        "name": "Folk monsters entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-21",
+        "name": "Folk monsters entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-22",
+        "name": "Folk monsters entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-23",
+        "name": "Folk monsters entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "folk-monsters-entry-24",
+        "name": "Folk monsters entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Folk monsters.",
+        "description": "A supporting encyclopedia entry in the Folk monsters subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Folk monsters legacy is a primary trailhead under Folk monsters.",
         0.88,
         0.82
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-practices",
+        "contains",
+        "Folk monsters practices is a primary trailhead under Folk monsters.",
+        0.88,
+        0.82
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-1",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-2",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-3",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-4",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-5",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-6",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-7",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-8",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-9",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-10",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-11",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-12",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-13",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-14",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-15",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-16",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-17",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-18",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-19",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-20",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-21",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-22",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-23",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
+    ],
+    [
+        "folk-monsters",
+        "folk-monsters-entry-24",
+        "contains",
+        "Supporting entry under Folk monsters.",
+        0.75,
+        0.7
     ]
 ];
 

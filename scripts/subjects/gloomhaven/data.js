@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Gloomhaven.",
         "description": "Regions, routes, and spatial systems that situate Gloomhaven beyond single named places."
+    },
+    {
+        "slug": "gloomhaven-legacy",
+        "name": "Gloomhaven legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Gloomhaven.",
+        "description": "How Gloomhaven continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "gloomhaven-practices",
+        "name": "Gloomhaven practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Gloomhaven.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Gloomhaven."
+    },
+    {
+        "slug": "gloomhaven-entry-1",
+        "name": "Gloomhaven entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-2",
+        "name": "Gloomhaven entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-3",
+        "name": "Gloomhaven entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-4",
+        "name": "Gloomhaven entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-5",
+        "name": "Gloomhaven entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-6",
+        "name": "Gloomhaven entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-7",
+        "name": "Gloomhaven entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-8",
+        "name": "Gloomhaven entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-9",
+        "name": "Gloomhaven entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-10",
+        "name": "Gloomhaven entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-11",
+        "name": "Gloomhaven entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-12",
+        "name": "Gloomhaven entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-13",
+        "name": "Gloomhaven entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-14",
+        "name": "Gloomhaven entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-15",
+        "name": "Gloomhaven entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-16",
+        "name": "Gloomhaven entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-17",
+        "name": "Gloomhaven entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-18",
+        "name": "Gloomhaven entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-19",
+        "name": "Gloomhaven entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-20",
+        "name": "Gloomhaven entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-21",
+        "name": "Gloomhaven entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-22",
+        "name": "Gloomhaven entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "gloomhaven-entry-23",
+        "name": "Gloomhaven entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Gloomhaven.",
+        "description": "A supporting encyclopedia entry in the Gloomhaven subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Gloomhaven geography is a primary trailhead under Gloomhaven.",
         0.88,
         0.82
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-legacy",
+        "contains",
+        "Gloomhaven legacy is a primary trailhead under Gloomhaven.",
+        0.88,
+        0.82
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-practices",
+        "contains",
+        "Gloomhaven practices is a primary trailhead under Gloomhaven.",
+        0.88,
+        0.82
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-1",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-2",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-3",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-4",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-5",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-6",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-7",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-8",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-9",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-10",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-11",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-12",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-13",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-14",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-15",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-16",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-17",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-18",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-19",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-20",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-21",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-22",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
+    ],
+    [
+        "gloomhaven",
+        "gloomhaven-entry-23",
+        "contains",
+        "Supporting entry under Gloomhaven.",
+        0.75,
+        0.7
     ]
 ];
 

@@ -1093,13 +1093,12 @@ function useSubjectsCatalog() {
     return { subjects, categories, loading };
 }
 
-function SubjectCard({ subject, navigate, categoryId }) {
-    const hubPath =
-        categoryId && subject.categoryPaths?.[categoryId]
-            ? subject.categoryPaths[categoryId]
-            : null;
-    const href = hubPath || subject.path;
-    const slug = String(href || subject.slug || subject.id).replace(/^\//, "");
+function SubjectCard({ subject, navigate }) {
+    // Category shelves always open the subject root. Format hubs like
+    // /pokemon/anime 404 on static Pages when those hub JSON shells are
+    // missing; medium-specific trails live on the subject page itself.
+    const href = subject.path || `/${subject.id || subject.slug}`;
+    const slug = String(href).replace(/^\//, "");
 
     return (
         <a
@@ -1387,7 +1386,6 @@ function CategoryPage({ categoryId, navigate }) {
                                                 key={subject.id}
                                                 subject={subject}
                                                 navigate={navigate}
-                                                categoryId={section.id}
                                             />
                                         ))}
                                     </div>
@@ -1412,7 +1410,6 @@ function CategoryPage({ categoryId, navigate }) {
                                         key={subject.id}
                                         subject={subject}
                                         navigate={navigate}
-                                        categoryId={section.id}
                                     />
                                 ))}
                         </div>

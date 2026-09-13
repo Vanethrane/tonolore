@@ -840,7 +840,7 @@
       "slug": "akane",
       "name": "Akane",
       "type": "person",
-      "description": "Akane is deeply infatuated with Naruto Uzumaki to the point she and her friends would chase after him repeatedly for his affections. However, it appears her affections for him are rather vain and solely because he is the hero of the village. In fact, she would rather flirt with Naruto than focusing on her training or missions as a shinobi.\n\nOn the day of the Sixth Hokage's inauguration, Akane, Kaede and their other friend, stood amongst a crowd at Konoha's entrance, shouting to see Naruto.\n\nde:Akane (Kunoichi) es:Akane (Kunoichi) fr:Akane (kunoichi) id:Akane (Kunoichi) it:Akane (Kunoichi) pl:Akane (kunoichi) pt-br:Akane (kunoichi) ru:Акане (куноичи)",
+      "description": "After he lost interest in Pochi, Akane threw him into the sea. When Inari hesitated to go in and save him, Akane pushed him in too. Although Inari started to drown, Akane and his friends left. After Kaiza saved Inari, he gave Akane a stern talking to. He appears to not own Pochi anymore.\n\nAkane was at first really mean and always bullied Inari but later on, in the anime, he came to realise that he was wrong and he apologised and became friends with him. Akane is also very cowardly as seen when he and his friends were kidnapped.\n\nAkane has short brown hair and small dark-coloured eyes.\n\nIn the anime, when Inari went to go return a coupon to Naruto, he runs into Akane and his friends. Knowing that Team 7 finished their mission, Akane and his friends decide to bully Inari again. Zōri and Waraji hear this and kidnap Inari, along with Akane and his friends. Akane and his friends are scared and crying for their lives of what the thugs will do to them except Inari who tells them crying won't solve anything and manages to free them. He tells Akane and his friends to notify the villagers while he distracts the thugs. Akane and his friends run into Naruto and Sasuke who then rescue Inari and stop the thugs along with the villagers. Akane apologises to Inari for bullying him, realising he was wrong about him and they become friends.",
       "short_description": "After he lost interest in Pochi, Akane threw him into the sea. When Inari hesitated to go in and save him, Akane pushed him in too. Although Inari started to drown, Akane and his friends left. After Kaiza saved Inari,…",
       "evidence": "fiction",
       "parentSlug": "naruto",
@@ -857,8 +857,8 @@
         "discovered": true,
         "source": "fandom",
         "kind": "character",
-        "fandom_url": "https://naruto.fandom.com/wiki/Akane_(Kunoichi)",
-        "fandom_title": "Akane (Kunoichi)",
+        "fandom_url": "https://naruto.fandom.com/wiki/Akane",
+        "fandom_title": "Akane",
         "source_fandom": "naruto.fandom.com",
         "sources": [
           "fandom"
@@ -17793,6 +17793,406 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "five-great-shinobi-countries",
+      "name": "Five Great Shinobi Countries",
+      "type": "place",
+      "description": "Image:Naruto World Map.svg|right|thumb|The map of the Shinobi World. The Five Great Shinobi Countries are denoted by larger kanji.\n\npoly 1 878 472 876 475 865 478 850 475 840 479 832 471 808 460 808 450 791 458 774 457 759 466 746 463 729 462 713 460 709 464 692 442 663 422 591 392 578 385 575 349 561 321 545 309 544 303 544 292 549 287 542 281 542 277 539 266 536 256 524 227 518 200 494 198 482 185 468 178 465 166 463 163 458 152 456 150 461 135 463 132 473 119 473 101 480 65 487 49 504 26 510 20 522 1 530 Land of Wind\n\npoly 1 405 25 397 52 398 65 408 89 410 118 410 188 405 196 420 197 432 213 437 221 448 225 463 242 475 274 477 291 474 308 477 318 470 339 475 359 464 373 467 389 454 402 451 420 440 438 434 445 421 459 415 464 399 480 392 482 386 480 379 480 370 482 359 482 341 488 335 497 329 499 298 510 268 513 266 514 250 514 243 531 240 537 228 536 213 517 213 503 216 493 210 480 212 478 229 466 232 456 229 448 210 432 205 427 191 423 176 419 159 422 152 441 130 439 115 439 109 442 87 442 74 424 57 432 32 424 23 425 18 417 2 1 0 Land of Earth\n\npoly 888 876 890 861 896 853 902 827 913 823 924 809 924 793 921 788 924 773 913 759 924 732 918 724 909 729 893 729 890 728 890 723 877 715 886 700 884 679 896 663 894 641 908 626 914 596 903 577 889 572 888 555 888 533 843 483 840 475 830 474 823 476 813 470 804 475 789 468 788 446 788 441 777 429 763 432 750 429 734 434 710 420 681 427 669 425 662 432 637 415 626 413 612 419 587 422 577 429 568 426 556 432 540 422 530 424 519 413 512 412 511 416 491 416 462 450 470 477 467 509 484 536 477 569 471 579 485 613 509 618 519 634 533 634 557 667 563 668 593 719 590 758 592 784 586 799 582 806 587 814 591 823 614 819 622 807 633 788 655 770 661 752 664 748 698 754 716 749 750 761 758 757 772 758 787 748 825 744 843 765 854 765 861 771 855 783 854 795 831 805 821 812 809 817 798 825 793 843 783 853 780 872 783 876 Land of Fire",
+      "short_description": "Image:Naruto World Map.svg|right|thumb|The map of the Shinobi World. The Five Great Shinobi Countries are denoted by larger kanji.",
+      "evidence": "fiction",
+      "parentSlug": "naruto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/3/3e/Naruto_World_Map.svg/revision/latest/scale-to-width-down/360?cb=20110114161251",
+      "image_source": "https://naruto.fandom.com/wiki/Five_Great_Shinobi_Countries",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Masashi Kishimoto / Shueisha / Pierrot (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Five Great Shinobi Countries",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://naruto.fandom.com/wiki/Five_Great_Shinobi_Countries",
+        "fandom_title": "Five Great Shinobi Countries",
+        "source_fandom": "naruto.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "10-hit-combo",
+      "name": "10 Hit Combo",
+      "type": "concept",
+      "description": "Lars strikes the foe 5 times before striking them into the air with a lightning-infused uppercut. He would jump above with amazing speed and double kick the victim into an axe-handle, then charge up a lightning-infused blow down to the stomach.",
+      "short_description": "Lars strikes the foe 5 times before striking them into the air with a lightning-infused uppercut. He would jump above with amazing speed and double kick the victim into an axe-handle, then charge up a lightning-infused…",
+      "evidence": "fiction",
+      "parentSlug": "naruto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/0/0e/10-Hit_Combo1.jpg/revision/latest/scale-to-width-down/360?cb=20110103001301",
+      "image_source": "https://naruto.fandom.com/wiki/10_Hit_Combo",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Masashi Kishimoto / Shueisha / Pierrot (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 10 Hit Combo",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://naruto.fandom.com/wiki/10_Hit_Combo",
+        "fandom_title": "10 Hit Combo",
+        "source_fandom": "naruto.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "geography",
+      "name": "Geography",
+      "type": "place",
+      "description": "The Naruto series is set on a fictional terrestrial blue planet called . Most of the series takes place on a large continent that is divided into a number of different countries; additional continents are occasionally depicted in supplementary media. This region and the society that prevails within it is often referred to as the or .\n\nFrom countless millennia worth of war amongst Earth's population, the bloodshed lead to the planet's God Tree absorbing it to subsequently grow a Chakra Fruit, which was forbidden for humans to touch. The God Tree was revered by some cultures; humans used to worship it as a sacred pillar that extended into the heavens and remained ambivalent to all conflict. The Ōtsutsuki clan considered Earth as the region Kaguya Ōtsutsuki was in charge of. Arriving to the planet with a portion of the clan in search for fruit of the God Tree, she ate it, resulting in her manifesting chakra which she used to bring an end to the constant wars. Afterwards, she had twin sons, Hagoromo and Hamura, whom were the first humans born with chakra.\n\nBecoming corrupted by chakra, Kaguya began turning the planet's Infinite Tsukuyomi victims into an army of White Zetsu, and integrated with the God Tree to become the Ten-Tails in order to reclaim the chakra her sons inherited. Causing havoc to the planet, the beast was sealed away by the twins. Believing chakra was a power that linked everything in the world, Hagoromo set out to spread the message to the people of the land, during which his teachings became known as ninshū. This act eventually lead to the planet's population acquiring chakra, which they became dependent on possessing to sustain living. Hagoromo's eldest son Indra, weaponized chakra, which lead to the creation of ninjutsu and as a result the Shinobi World as it came to be known.\n\nDuring the Warring States Period, the countries of the world were uniformly small, and constantly hired shinobi clans to fight their battles for land. The constant warfare lead to the average lifespan of the mercenaries to thirty years. Hashirama Senju offered the Uchiha clan a peace treaty, which Madara accepted. The Uchiha and Senju clan allied with the Land of Fire to establish a shinobi village. Other clans would soon join the village, and it would later become known as Konohagakure. Clans in other countries that were fearful of the combined might of the Senju and Uchiha, adopted the ideology and created their own villages. This system lead to the creation of many shinobi villages, with the Five Great Shinobi Countries standing out as the strongest.",
+      "short_description": "The Naruto series is set on a fictional terrestrial blue planet called . Most of the series takes place on a large continent that is divided into a number of different countries; additional continents are occasionally…",
+      "evidence": "fiction",
+      "parentSlug": "naruto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/3/3e/Naruto_World_Map.svg/revision/latest/scale-to-width-down/360?cb=20110114161251",
+      "image_source": "https://naruto.fandom.com/wiki/Geography",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Masashi Kishimoto / Shueisha / Pierrot (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Geography",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://naruto.fandom.com/wiki/Geography",
+        "fandom_title": "Geography",
+        "source_fandom": "naruto.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "100-metre-punch",
+      "name": "100 Metre Punch",
+      "type": "concept",
+      "description": "A shorter version of the 1000 Metre Punch, the user concentrates their chakra into their fist and lands a devastating blow on the opponent, sending them flying to at least 100 metres away from where the user is.",
+      "short_description": "A shorter version of the 1000 Metre Punch, the user concentrates their chakra into their fist and lands a devastating blow on the opponent, sending them flying to at least 100 metres away from where the user is.",
+      "evidence": "fiction",
+      "parentSlug": "naruto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/1/1b/Naruto_ultimate_ninja_heroes_3_tsunade_100M_punch.png/revision/latest/scale-to-width-down/360?cb=20110509120106",
+      "image_source": "https://naruto.fandom.com/wiki/100_Metre_Punch",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Masashi Kishimoto / Shueisha / Pierrot (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 100 Metre Punch",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://naruto.fandom.com/wiki/100_Metre_Punch",
+        "fandom_title": "100 Metre Punch",
+        "source_fandom": "naruto.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "academy",
+      "name": "Academy",
+      "type": "place",
+      "description": "The is a huge building in Konohagakure located directly at the base of the Hokage Mountain. It is where prospective ninja are trained and where official ninja receive their assignments. It was founded by the Second Hokage out of military necessity, a few years after the formation of the village, though it was formally named and completed by his successor.\n\nThe Academy is quite large and is comprised of several buildings which were erected over time. The building can be identified by the tree in front of it which has a swing on it and more so, by the giant sign with the kanji for on it. Classrooms in the Academy are large and have high ceilings, based on a theory that larger classrooms lead to expansive education, expanding even to the blackboard itself. In front of the blackboard is a podium, situated far from the students' desks and put in a position where the teacher can view everyone at once.\n\nAlong with being a school, it is also the area where the Hokage's office is located, which is where missions are dispatched and the day-to-day running of the village takes place. The Hokage's office is a large, somewhat oval room usually filled with stacks of unfinished paperwork. Behind the Hokage's desk is a large window through which the Hokage can survey the entire village. On the desk itself is a stylised kanji for (specifically, the composite characters for it, (presumably from its Chinese definition as light) and ) with the symbol of the village in the middle. Before being moved, the Mission Assignment Desk where missions are usually dispensed to shinobi was located on the premises. In the anime, the Jōnin Standby Station is located on the compound. It also had a room wherein the Third Hokage used the Telescope Technique, featuring a similar desk.\n\nIf the above conditions are met, admission to the Academy will be granted. The typical admission age by the end of the series is six.",
+      "short_description": "The is a huge building in Konohagakure located directly at the base of the Hokage Mountain. It is where prospective ninja are trained and where official ninja receive their assignments. It was founded by the Second…",
+      "evidence": "fiction",
+      "parentSlug": "naruto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/4/4d/Academy.png/revision/latest/scale-to-width-down/360?cb=20111028205602",
+      "image_source": "https://naruto.fandom.com/wiki/Academy",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Masashi Kishimoto / Shueisha / Pierrot (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Academy",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://naruto.fandom.com/wiki/Academy",
+        "fandom_title": "Academy",
+        "source_fandom": "naruto.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "100-single-punch",
+      "name": "100% Single Punch",
+      "type": "concept",
+      "description": "Tsunade gathers large amounts of chakra in her hand and releases it as she punches the opponent.\n\nid:Satu Pukulan 100% pl:100-Pāsento Shingurupanchi pt-br:Soco 100% Único tr:100% Tek Yumruk",
+      "short_description": "Tsunade gathers large amounts of chakra in her hand and releases it as she punches the opponent.",
+      "evidence": "fiction",
+      "parentSlug": "naruto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://naruto.fandom.com/wiki/100%25_Single_Punch",
+        "fandom_title": "100% Single Punch",
+        "source_fandom": "naruto.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "advanced-technology-research-institute",
+      "name": "Advanced Technology Research Institute",
+      "type": "place",
+      "description": "The is a facility in Ryūtan City, that is run by Konohagakure's Scientific Ninja Weapons Team. The majority of the building is underground, and is notably spacious.\n\nCategory:Locations pt-br:Instituto de Pesquisa em Tecnologia Avançada ru:Институт Изучения Передовых Технологий",
+      "short_description": "The is a facility in Ryūtan City, that is run by Konohagakure's Scientific Ninja Weapons Team. The majority of the building is underground, and is notably spacious.",
+      "evidence": "fiction",
+      "parentSlug": "naruto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/f/f2/Advanced_Tech_Research_Institute.png/revision/latest/scale-to-width-down/360?cb=20210314153031",
+      "image_source": "https://naruto.fandom.com/wiki/Advanced_Technology_Research_Institute",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Masashi Kishimoto / Shueisha / Pierrot (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Advanced Technology Research Institute",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://naruto.fandom.com/wiki/Advanced_Technology_Research_Institute",
+        "fandom_title": "Advanced Technology Research Institute",
+        "source_fandom": "naruto.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "1000-metre-punch",
+      "name": "1000 Metre Punch",
+      "type": "concept",
+      "description": "The user focuses a large amount of chakra into their fist and punches the opponent, sending them at least one kilometre (1000 metres) away.\n\nes:Perforadora de 1000 metros id:Tinjuan 1000 Meter pl:1000M Panchi",
+      "short_description": "The user focuses a large amount of chakra into their fist and punches the opponent, sending them at least one kilometre (1000 metres) away.",
+      "evidence": "fiction",
+      "parentSlug": "naruto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/6/65/1000_metre_punch1.png/revision/latest/scale-to-width-down/360?cb=20121230005451",
+      "image_source": "https://naruto.fandom.com/wiki/1000_Metre_Punch",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Masashi Kishimoto / Shueisha / Pierrot (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 1000 Metre Punch",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://naruto.fandom.com/wiki/1000_Metre_Punch",
+        "fandom_title": "1000 Metre Punch",
+        "source_fandom": "naruto.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "akagahara",
+      "name": "Akagahara",
+      "type": "place",
+      "description": "de:Akagahara es:Akagahara fr:Akagahara pl:Akagahara pt-br:Akagahara",
+      "short_description": "de:Akagahara es:Akagahara fr:Akagahara pl:Akagahara pt-br:Akagahara",
+      "evidence": "fiction",
+      "parentSlug": "naruto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/1/1d/Akagahara.png/revision/latest/scale-to-width-down/360?cb=20160221185016",
+      "image_source": "https://naruto.fandom.com/wiki/Akagahara",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Masashi Kishimoto / Shueisha / Pierrot (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Akagahara",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://naruto.fandom.com/wiki/Akagahara",
+        "fandom_title": "Akagahara",
+        "source_fandom": "naruto.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "16-hit-combo",
+      "name": "16 Hit Combo",
+      "type": "concept",
+      "description": "A very effective move, Ino uses this as a quick knock-out move on a opponent. She slaps and kicks with flower petals trailing from her hands and feet around her body.\n\nes:16 Hit-Combo id:16 Pukulan Kombo pl:Jūroku Ren Konbo",
+      "short_description": "A very effective move, Ino uses this as a quick knock-out move on a opponent. She slaps and kicks with flower petals trailing from her hands and feet around her body.",
+      "evidence": "fiction",
+      "parentSlug": "naruto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/6/67/16combo.png/revision/latest/scale-to-width-down/360?cb=20120331145715",
+      "image_source": "https://naruto.fandom.com/wiki/16_Hit_Combo",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Masashi Kishimoto / Shueisha / Pierrot (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 16 Hit Combo",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://naruto.fandom.com/wiki/16_Hit_Combo",
+        "fandom_title": "16 Hit Combo",
+        "source_fandom": "naruto.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "allied-shinobi-forces-headquarters",
+      "name": "Allied Shinobi Forces' Headquarters",
+      "type": "place",
+      "description": "When the Allied Shinobi Forces was formed, its headquarters was designated to be in the vicinity of Kumogakure for ease of command over the course of the Fourth Shinobi World War. Originally, members of the Five Kage, including Tsunade, Ōnoki, and A, due to the fact that he was the Supreme Commander of the Alliance, were stationed there to help with command decisions and battle plans. Both the Intelligence Division and Sensor Division were stationed in the headquarters so that they could give crucial intelligence and sensor reports to the various divisions through the Sensing Water Sphere that Inoichi Yamanaka and Ao had created. The Alliance's Chief Strategist, Shikaku Nara, was also stationed at the headquarters, where he came up with plans to counter Kinkaku and Ginkaku, as well as Asuma Sarutobi and the White Zetsu Army's threat.\n\nIn the latter stages of the War, after the remaining Kage gathered to fight the reincarnated Madara Uchiha, Shikaku was left in command. When it came to fight the Ten-Tails itself, Shikaku commanded each part of the army seamlessly, immobilising the Ten-Tails' initial form and leaving the freshly unmasked Obito Uchiha as well as his partner, Madara, vulnerable to counter-attack. Ultimately though, when the Ten-Tails reached its second form, the headquarters was wiped out by its massively powerful and long ranged Tailed Beast Ball, but not before transmitting Shikaku's final strategy to the Alliance. Ao was the sole survivor, losing his left arm and leg.",
+      "short_description": "When the Allied Shinobi Forces was formed, its headquarters was designated to be in the vicinity of Kumogakure for ease of command over the course of the Fourth Shinobi World War. Originally, members of the Five Kage,…",
+      "evidence": "fiction",
+      "parentSlug": "naruto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/4/4f/Alliance_Headquarters.png/revision/latest/scale-to-width-down/360?cb=20160304205745",
+      "image_source": "https://naruto.fandom.com/wiki/Allied_Shinobi_Forces%27_Headquarters",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Masashi Kishimoto / Shueisha / Pierrot (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Allied Shinobi Forces' Headquarters",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://naruto.fandom.com/wiki/Allied_Shinobi_Forces%27_Headquarters",
+        "fandom_title": "Allied Shinobi Forces' Headquarters",
+        "source_fandom": "naruto.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "amaguriama",
+      "name": "Amaguriama",
+      "type": "place",
+      "description": "Amaguriama has two shops in Konoha: one in Tea Avenue and one located in the Hot Springs District. The first shop allows customers to eat outside, while the second shop allows them to eat outside or inside. Asuma Sarutobi treated Team 10 to the first shop before he left to nominate them for the Chūnin Exams, and the second shop appears when Jiraiya goes there to chat with women.\n\nIn the Menma Memory Search Mission, Naruto Uzumaki took Menma to the first Amaguriama shop in hopes of trying to restore Menma's lost memories by having him look at some of the sweets from the other countries that was on display, such as the \"Sand Dango\" from the Land of Wind, the \"Kirin Nectar\" from the Land of Water and the \"Rock Rice Cake\" from the Land of Earth.\n\nIn the Star Guard Mission, Naruto also bribes Tsunade with a rare treat from the Amaguriama to go on the mission to Hoshigakure with Neji, Lee, and Tenten.\n\nThe Amaguriama also made an appearance in Naruto: Ultimate Ninja 3, where the player can spend time with many of the female Naruto characters, such as Sakura Haruno, Hinata Hyūga, Tenten, Temari, Anko Mitarashi, Hanabi Hyūga, and Shizune while they eat dango. Amaguriama also appears in Naruto Shippūden: Ultimate Ninja Storm 2 where the player can buy bento as usual in food courts.",
+      "short_description": "Amaguriama has two shops in Konoha: one in Tea Avenue and one located in the Hot Springs District. The first shop allows customers to eat outside, while the second shop allows them to eat outside or inside. Asuma…",
+      "evidence": "fiction",
+      "parentSlug": "naruto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/3/36/Team_Asuma.png/revision/latest/scale-to-width-down/360?cb=20150205190820",
+      "image_source": "https://naruto.fandom.com/wiki/Amaguriama",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Masashi Kishimoto / Shueisha / Pierrot (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Amaguriama",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://naruto.fandom.com/wiki/Amaguriama",
+        "fandom_title": "Amaguriama",
+        "source_fandom": "naruto.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "absolute-fang-passing-fang",
+      "name": "Absolute: Fang Passing Fang",
+      "type": "concept",
+      "description": "Kiba and Akamaru perform the Fang Passing Fang to send the opponent flying into the air, then they increase their spinning power to finish the opponent off by catching them in between their attack.\n\nes:Colmillo Sobre Colmillo Perfecto id:Mutlak: Taring Melewati Taring pl:Zetsu: Gatsūga",
+      "short_description": "Kiba and Akamaru perform the Fang Passing Fang to send the opponent flying into the air, then they increase their spinning power to finish the opponent off by catching them in between their attack.",
+      "evidence": "fiction",
+      "parentSlug": "naruto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/4/49/Absolute_Fang_Over_Fang.png/revision/latest/scale-to-width-down/360?cb=20160220185608",
+      "image_source": "https://naruto.fandom.com/wiki/Absolute:_Fang_Passing_Fang",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Masashi Kishimoto / Shueisha / Pierrot (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Absolute: Fang Passing Fang",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://naruto.fandom.com/wiki/Absolute:_Fang_Passing_Fang",
+        "fandom_title": "Absolute: Fang Passing Fang",
+        "source_fandom": "naruto.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "absorption-sphere",
+      "name": "Absorption Sphere",
+      "type": "concept",
+      "description": "Using the Jutsu Absorption Arm, the user creates a sphere after a short moment, which can absorb multiple ninjutsu attacks simultaneously, leading to it growing in size. As the sphere itself is ninjutsu, another sphere can cancel it out.",
+      "short_description": "Using the Jutsu Absorption Arm, the user creates a sphere after a short moment, which can absorb multiple ninjutsu attacks simultaneously, leading to it growing in size. As the sphere itself is ninjutsu, another sphere…",
+      "evidence": "fiction",
+      "parentSlug": "naruto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/0/06/Katasuke%27s_Jutsu_Absorption.png/revision/latest/scale-to-width-down/360?cb=20210131150915",
+      "image_source": "https://naruto.fandom.com/wiki/Absorption_Sphere",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Masashi Kishimoto / Shueisha / Pierrot (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Absorption Sphere",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://naruto.fandom.com/wiki/Absorption_Sphere",
+        "fandom_title": "Absorption Sphere",
+        "source_fandom": "naruto.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -22675,6 +23075,118 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "five-great-shinobi-countries",
+      "naruto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "10-hit-combo",
+      "naruto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "geography",
+      "naruto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "100-metre-punch",
+      "naruto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "academy",
+      "naruto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "100-single-punch",
+      "naruto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "advanced-technology-research-institute",
+      "naruto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "1000-metre-punch",
+      "naruto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "akagahara",
+      "naruto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "16-hit-combo",
+      "naruto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "allied-shinobi-forces-headquarters",
+      "naruto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "amaguriama",
+      "naruto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "absolute-fang-passing-fang",
+      "naruto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "absorption-sphere",
+      "naruto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -22683,19 +23195,19 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (naruto.fandom.com) for identification and commentary only. Character / franchise art © Masashi Kishimoto / Shueisha / Pierrot (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T18:02:26.938Z",
+  "generated_at": "2026-09-13T03:54:46.702Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://naruto.fandom.com/wiki/",
     "host": "naruto.fandom.com"
   },
   "stats": {
-    "fandom_titles": 45,
-    "fandom_enriched_core": 7,
-    "fandom_created": 15,
-    "fandom_images": 43,
-    "fandom_intros": 45,
-    "description_ensure_at": "2026-09-12T18:02:30.964Z",
+    "fandom_titles": 1,
+    "fandom_enriched_core": 0,
+    "fandom_created": 1,
+    "fandom_images": 1,
+    "fandom_intros": 1,
+    "description_ensure_at": "2026-09-13T03:54:49.215Z",
     "description_ensure_count": 1
   }
 }

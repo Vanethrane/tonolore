@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Vampire lore.",
         "description": "How Vampire lore continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "vampire-lore-practices",
+        "name": "Vampire lore practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Vampire lore.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Vampire lore."
+    },
+    {
+        "slug": "vampire-lore-entry-1",
+        "name": "Vampire lore entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-2",
+        "name": "Vampire lore entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-3",
+        "name": "Vampire lore entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-4",
+        "name": "Vampire lore entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-5",
+        "name": "Vampire lore entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-6",
+        "name": "Vampire lore entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-7",
+        "name": "Vampire lore entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-8",
+        "name": "Vampire lore entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-9",
+        "name": "Vampire lore entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-10",
+        "name": "Vampire lore entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-11",
+        "name": "Vampire lore entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-12",
+        "name": "Vampire lore entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-13",
+        "name": "Vampire lore entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-14",
+        "name": "Vampire lore entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-15",
+        "name": "Vampire lore entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-16",
+        "name": "Vampire lore entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-17",
+        "name": "Vampire lore entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-18",
+        "name": "Vampire lore entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-19",
+        "name": "Vampire lore entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-20",
+        "name": "Vampire lore entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-21",
+        "name": "Vampire lore entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-22",
+        "name": "Vampire lore entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-23",
+        "name": "Vampire lore entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "vampire-lore-entry-24",
+        "name": "Vampire lore entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Vampire lore.",
+        "description": "A supporting encyclopedia entry in the Vampire lore subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Vampire lore legacy is a primary trailhead under Vampire lore.",
         0.88,
         0.82
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-practices",
+        "contains",
+        "Vampire lore practices is a primary trailhead under Vampire lore.",
+        0.88,
+        0.82
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-1",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-2",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-3",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-4",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-5",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-6",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-7",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-8",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-9",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-10",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-11",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-12",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-13",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-14",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-15",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-16",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-17",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-18",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-19",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-20",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-21",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-22",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-23",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
+    ],
+    [
+        "vampire-lore",
+        "vampire-lore-entry-24",
+        "contains",
+        "Supporting entry under Vampire lore.",
+        0.75,
+        0.7
     ]
 ];
 

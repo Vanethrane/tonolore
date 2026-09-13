@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of The Exorcist.",
         "description": "How The Exorcist continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "the-exorcist-practices",
+        "name": "The Exorcist practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in The Exorcist.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in The Exorcist."
+    },
+    {
+        "slug": "the-exorcist-entry-1",
+        "name": "The Exorcist entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-2",
+        "name": "The Exorcist entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-3",
+        "name": "The Exorcist entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-4",
+        "name": "The Exorcist entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-5",
+        "name": "The Exorcist entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-6",
+        "name": "The Exorcist entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-7",
+        "name": "The Exorcist entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-8",
+        "name": "The Exorcist entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-9",
+        "name": "The Exorcist entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-10",
+        "name": "The Exorcist entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-11",
+        "name": "The Exorcist entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-12",
+        "name": "The Exorcist entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-13",
+        "name": "The Exorcist entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-14",
+        "name": "The Exorcist entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-15",
+        "name": "The Exorcist entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-16",
+        "name": "The Exorcist entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-17",
+        "name": "The Exorcist entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-18",
+        "name": "The Exorcist entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-19",
+        "name": "The Exorcist entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-20",
+        "name": "The Exorcist entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-21",
+        "name": "The Exorcist entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-22",
+        "name": "The Exorcist entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-23",
+        "name": "The Exorcist entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "the-exorcist-entry-24",
+        "name": "The Exorcist entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside The Exorcist.",
+        "description": "A supporting encyclopedia entry in the The Exorcist subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "The Exorcist legacy is a primary trailhead under The Exorcist.",
         0.88,
         0.82
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-practices",
+        "contains",
+        "The Exorcist practices is a primary trailhead under The Exorcist.",
+        0.88,
+        0.82
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-1",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-2",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-3",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-4",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-5",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-6",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-7",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-8",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-9",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-10",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-11",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-12",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-13",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-14",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-15",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-16",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-17",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-18",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-19",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-20",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-21",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-22",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-23",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
+    ],
+    [
+        "the-exorcist",
+        "the-exorcist-entry-24",
+        "contains",
+        "Supporting entry under The Exorcist.",
+        0.75,
+        0.7
     ]
 ];
 

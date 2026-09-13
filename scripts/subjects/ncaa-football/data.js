@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into NCAA football.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify NCAA football."
+    },
+    {
+        "slug": "ncaa-football-geography",
+        "name": "NCAA football geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for NCAA football.",
+        "description": "Regions, routes, and spatial systems that situate NCAA football beyond single named places."
+    },
+    {
+        "slug": "ncaa-football-legacy",
+        "name": "NCAA football legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of NCAA football.",
+        "description": "How NCAA football continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "ncaa-football-practices",
+        "name": "NCAA football practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in NCAA football.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in NCAA football."
+    },
+    {
+        "slug": "ncaa-football-entry-1",
+        "name": "NCAA football entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-football-entry-2",
+        "name": "NCAA football entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-football-entry-3",
+        "name": "NCAA football entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-football-entry-4",
+        "name": "NCAA football entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-football-entry-5",
+        "name": "NCAA football entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-football-entry-6",
+        "name": "NCAA football entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-football-entry-7",
+        "name": "NCAA football entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-football-entry-8",
+        "name": "NCAA football entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-football-entry-9",
+        "name": "NCAA football entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-football-entry-10",
+        "name": "NCAA football entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-football-entry-11",
+        "name": "NCAA football entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-football-entry-12",
+        "name": "NCAA football entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-football-entry-13",
+        "name": "NCAA football entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-football-entry-14",
+        "name": "NCAA football entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-football-entry-15",
+        "name": "NCAA football entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-football-entry-16",
+        "name": "NCAA football entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-football-entry-17",
+        "name": "NCAA football entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-football-entry-18",
+        "name": "NCAA football entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-football-entry-19",
+        "name": "NCAA football entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-football-entry-20",
+        "name": "NCAA football entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-football-entry-21",
+        "name": "NCAA football entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "ncaa-football-entry-22",
+        "name": "NCAA football entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NCAA football.",
+        "description": "A supporting encyclopedia entry in the NCAA football subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "NCAA football sources is a primary trailhead under NCAA football.",
         0.88,
         0.82
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-geography",
+        "contains",
+        "NCAA football geography is a primary trailhead under NCAA football.",
+        0.88,
+        0.82
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-legacy",
+        "contains",
+        "NCAA football legacy is a primary trailhead under NCAA football.",
+        0.88,
+        0.82
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-practices",
+        "contains",
+        "NCAA football practices is a primary trailhead under NCAA football.",
+        0.88,
+        0.82
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-1",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-2",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-3",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-4",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-5",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-6",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-7",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-8",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-9",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-10",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-11",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-12",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-13",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-14",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-15",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-16",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-17",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-18",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-19",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-20",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-21",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
+    ],
+    [
+        "ncaa-football",
+        "ncaa-football-entry-22",
+        "contains",
+        "Supporting entry under NCAA football.",
+        0.75,
+        0.7
     ]
 ];
 

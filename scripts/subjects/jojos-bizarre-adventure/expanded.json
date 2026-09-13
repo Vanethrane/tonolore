@@ -458,6 +458,11 @@
       "slug": "yuichi-nakamura",
       "description": "Yuichi Nakamura (中村 悠一, Nakamura Yūichi; born February 20, 1980) is a Japanese voice actor and narrator. He is affiliated with the agency Intention as of October 1, 2020. He is characterized by his calm and clear voice, and mainly plays roles ranging from teenage boys to men in their 30s. He has a wealth of experience in narration but has also been active in animation and dubbing in many productions, such as Gray Fullbuster in Fairy Tail, Gai Tsutsugami in Guilty Crown, Tatsuya Shiba in The Irregular at Magic High School, Karamatsu in Osomatsu-san, Graham Aker in Mobile Suit Gundam 00, Alto Saotome in Macross Frontier, Tomoya Okazaki in Clannad, Kyōsuke Kōsaka in Oreimo, Yoshiki Kishinuma in Corpse Party, Hotaro Oreki in Hyouka, Bruno Bucciarati in JoJo's Bizarre Adventure: Golden Wind, Tetsurō Kuroo in Haikyu!!, Yūichi Jin in World Trigger, Satoru Gojo in Jujutsu Kaisen, Hajime Umemiya in Wind Breaker, Tsukasa Shishio in Dr. Stone, Hawks in My Hero Academia, Shigure Sohma in Fruits Basket (2019), Shidou Ryusei in Blue Lock and Loki in One Piece. In video games, he voiced Hazama and Yūki Terumi in BlazBlue, Joon Gi Han in the Yakuza: Like A Dragon series, Sakon Shima in Sengoku Basara 4, Ryoma in Fire Emblem, Cid Raines in Final Fantasy XIII, Thancred Waters in Final Fantasy XIV, Flamebringer in Arknights, Fei Long in Street Fighter IV, and Louis Guiabern in Metaphor: ReFantazio. He has also performed the Japanese dub roles for Chris Evans in the Marvel Cinematic Universe, as well as Liam Hemsworth in The Hunger Games film series.",
       "short_description": "Yuichi Nakamura (中村 悠一, Nakamura Yūichi; born February 20, 1980) is a Japanese voice actor and narrator. He is affiliated with the agency Intention as of October 1, 2020. He is characterized by his calm and clear voice,…"
+    },
+    {
+      "slug": "iko-iko",
+      "description": "\"Iko Iko\" () is a much-covered song from New Orleans, United States, originally titled \"Jock-A-Mo\" when released in 1953.\n\nThe song tells of a parade collision between two tribes of Mardi Gras Indians, and the traditional confrontation. The song, under the original title \"Jock-A-Mo\", was written and released in 1953 as a single by James \"Sugar Boy\" Crawford and his Cane Cutters, but it failed to make the charts. It was subsequently covered many times, most notably by the British group the Belle Stars in 1982.\n\nThe song was first made popular as \"Iko Iko\" in 1965 by an American girl group, the Dixie Cups, who scored an international hit with it. In 1967, as part of a lawsuit settlement between Crawford and the Dixie Cups, the trio were given part songwriting credit for the song. In 1972, Dr. John had a minor hit with his version of \"Iko Iko\".\n\nIn the UK, two competing versions of the song were released in 1982—one by the all-female group the Belle Stars and the other by Scottish singer Natasha England. While the Belle Stars' version peaked at 35 in the UK, Natasha's version reached the top 10. However, the Belle Stars version later reached the US Top 20 after being included in the 1988 film Rain Man. Cyndi Lauper covered the song in 1986.\n\nThe Grateful Dead began incorporating “Iko Iko” into their live shows in 1977. The song became a staple of their many tours throughout the 1980s, with the band playing it over 180 times until Jerry Garcia’s death in 1995.\n\n\"Iko Iko\" became a European hit again in 2001 after being covered by the German dance act Captain Jack. An adaptation by Papua New Guinea artist Justin Wellington under the title \"Iko Iko (My Bestie)\", featuring the Solomon Island duo Small Jam, became an international hit in 2021 after a successful TikTok challenge.",
+      "short_description": "\"Iko Iko\" () is a much-covered song from New Orleans, United States, originally titled \"Jock-A-Mo\" when released in 1953."
     }
   ],
   "entities": [
@@ -2233,26 +2238,26 @@
     {
       "slug": "foo-fighters",
       "name": "Foo Fighters",
-      "type": "person",
-      "description": "Foo Fighters allows bundles of plankton to exist in a humanoid form. It adopts a personality, along with the nickname F.F.; siding with the allies of the story.\n\nFoo Fighters takes two main appearances. Naked, it is a tall, dark, robotic humanoid of masculine proportions, and an alien visage.\n\nLater, it maintains the appearance of the dead prisoner ; a woman of average height and slim build.\n\nAs F.F.'s identity develops due to its experiences with Jolyne Cujoh, the true form of its Stand takes on a more human appearance starting to resemble the body she took over while still retaining some of the features of its older form.",
+      "type": "topic",
+      "description": "Alicia Vélez [https://www.animenewsnetwork.com/encyclopedia/people.php?id=153486 Vii Zedek]\n\nPlankton (Anasui)|ja_romaji=Fū Faitāzu|prisonerte=Six years in Green Dolphin Street Prison (Atroe)}}\n\nF.F. is a mix of Stand and Stand User; A colony of plankton that is organized, maintained by, and essentially equivalent to the Stand, Foo Fighters. At first serving Enrico Pucci/Whitesnake, they soon ally themself with Jolyne Cujoh out of gratitude for being spared.\n\nF.F. can change their appearance at any time. However, their habitual appearance is that of the prisoner Atroe, a woman of average height and slim build with hair or a cap covering her head in a mop or bob forming a serrated edge at its ends.",
       "short_description": "Alicia Vélez [https://www.animenewsnetwork.com/encyclopedia/people.php?id=153486 Vii Zedek]",
       "evidence": "fiction",
       "parentSlug": "jojos-bizarre-adventure",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/jjba/images/4/4d/FooP.png/revision/latest/scale-to-width-down/360?cb=20170109053755",
-      "image_source": "https://jojo.fandom.com/wiki/Foo_Fighters_(Stand)",
+      "image_url": "https://static.wikia.nocookie.net/jjba/images/f/f8/FF_so_v04_066.png/revision/latest/scale-to-width-down/360?cb=20160327120951",
+      "image_source": "https://jojo.fandom.com/wiki/Foo_Fighters",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hirohiko Araki / Shueisha / David Production (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Foo Fighters (Stand)",
+      "image_alt": "Identification thumbnail for Foo Fighters",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "kind": "character",
-        "fandom_url": "https://jojo.fandom.com/wiki/Foo_Fighters_(Stand)",
-        "fandom_title": "Foo Fighters (Stand)",
+        "kind": "topic",
+        "fandom_url": "https://jojo.fandom.com/wiki/Foo_Fighters",
+        "fandom_title": "Foo Fighters",
         "source_fandom": "jojo.fandom.com",
         "sources": [
           "fandom"
@@ -12888,6 +12893,238 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "evil-dead",
+      "name": "Evil Dead",
+      "type": "topic",
+      "description": "Evil Dead (死霊のはらわた Shiryōnoharawata) is a Stand from the 37th universe featured in the light novel JORGE JOESTAR. It is used by Secco Rottario.\n\nEvil Dead is manifested as a giant grimacing head held between two similarly giant hands, with the hands' thumbs buried in the head's eye sockets, as if gouging out its eyes. The hands each have an eye set in the back. The head appears to be bleeding from the eye sockets and mouth, and a jagged scar resembling a runs down its forehead.\n\nEvil Dead's main power is the ability to make a specific location invisible. It was first used when Secco hides Nero Nero Island from the people inside. Though the people outside the island are able to see it.\n\nCategory:Article stubs Category:Stands Category:Light Novel Stands Category:Long Distance Stands",
+      "short_description": "Evil Dead (死霊のはらわた Shiryōnoharawata) is a Stand from the 37th universe featured in the light novel JORGE JOESTAR. It is used by Secco Rottario.",
+      "evidence": "fiction",
+      "parentSlug": "jojos-bizarre-adventure",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/jjba/images/a/ac/Evil_Dead.png/revision/latest/scale-to-width-down/360?cb=20230314203239",
+      "image_source": "https://jojo.fandom.com/wiki/Evil_Dead",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hirohiko Araki / Shueisha / David Production (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Evil Dead",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://jojo.fandom.com/wiki/Evil_Dead",
+        "fandom_title": "Evil Dead",
+        "source_fandom": "jojo.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "air-supplena-island",
+      "name": "Air Supplena Island",
+      "type": "place",
+      "description": "Air Supplena Island is the complete opposite of the warm and bright atmosphere of Venice, but makes up for it with the large looming towers of intricate Gothic cathedral design. Situated in the Adriatic Sea, both the shores of Venice and Yugoslavia can be seen in the distance. The entire island is owned by Lisa Lisa.\n\nIn the middle of the island is a giant tower with a pillar inside that protrudes from a large pit. The pillar was built in 39 A.D., in the Roman Era, before the city of Venice was established. It was created by those who were trying to revive the Ripple technique, which had been largely wiped out due to the onslaught of the Pillar Men. It was mentioned by Caesar that many students of the Ripple have died trying to climb the pillar.\n\nThe height of the pillar is 24 meters and its greatest circumference is 7.20 meters. It was constructed with a slippery polished stone with oil flowing from the top and drenching the entirety of the pillar. The system is set up so that the oil reaches the bottom and then is taken back up to the top so that it constantly flows much like a fountain. In order to climb the oil-covered pillar, one must use a concentrated Ripple in order to stick to the surface of the pillar, largely as part of a stamina test in which one must maintain the Ripple for a prolonged period of time. While the pillar is not perfect and is cracked at some locations, the cracks in the pillar contain traps, one of which shoots concentrated oil out of the pillar with enough cutting power to cut through a pen perfectly.\n\nAs stated by Lisa Lisa, this test only allows climbing the pillar with Ripple and no other help. There is no exit other than climbing the pillar. The higher you go the more protruding is the pillar's shape, making it gradually harder to climb. The walls surrounding the pillar are more protruding than the pillar.",
+      "short_description": "Air Supplena Island is the complete opposite of the warm and bright atmosphere of Venice, but makes up for it with the large looming towers of intricate Gothic cathedral design. Situated in the Adriatic Sea, both the…",
+      "evidence": "fiction",
+      "parentSlug": "jojos-bizarre-adventure",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/jjba/images/0/09/AirSupplenaIsland_manga.png/revision/latest/scale-to-width-down/360?cb=20140826171738",
+      "image_source": "https://jojo.fandom.com/wiki/Air_Supplena_Island",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hirohiko Araki / Shueisha / David Production (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Air Supplena Island",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://jojo.fandom.com/wiki/Air_Supplena_Island",
+        "fandom_title": "Air Supplena Island",
+        "source_fandom": "jojo.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "devils-palm",
+      "name": "Devil's Palm",
+      "type": "place",
+      "description": "When Jesus died on the western coast of North America, a great storm and earthquake tore and reshaped the land, which divided his Corpse into 9 Parts. Over the course of almost two millennia, said Parts would be carried by animals and other forces of nature eastwards across the continent.\n\nThe Corpse Parts seemingly began to form the Devil's Palm around themselves, using the Palms to move themselves further across the land. The Devil's Palms seem to reappear and disappear often with one or a small few appearing a time, each Palm appears to be very similar, to the point where scientists have mistaken them for the same geographical feature moving from place to place. The Palms themselves are large bowls of sand surrounded by large arching rocks in the shape of fingers, this is were the Devil's Palms earned their names, as they appear in the shape of a hand. While a Palm is present it will occasionally ensnare nearby people, sometimes the energy of the Corpse Part within grants them a Stand, while even less often, the Corpse Part will reveal itself to a person.\n\nAs the Boom Boom Family explain, those passing through them are forever changed, mostly due to the fact that those who do not gain a Stand will almost certainly have died instead. Johnny obtained his first Corpse Part from a Devil's Palm in Monument Valley, and soon manifested his Stand Tusk. Dr. Ferdinand, Mountain Tim and Ringo Roadagain are amongst the others who have gained their Stands through an encounter with a Devil's Palm. It was revealed that the Devil's Palms are sacred sites to Rock Humans, and that there is a direct link between the Devil's Palms and Morioh Town.",
+      "short_description": "When Jesus died on the western coast of North America, a great storm and earthquake tore and reshaped the land, which divided his Corpse into 9 Parts. Over the course of almost two millennia, said Parts would be carried…",
+      "evidence": "fiction",
+      "parentSlug": "jojos-bizarre-adventure",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/jjba/images/d/d7/Devil_palm.PNG/revision/latest/scale-to-width-down/360?cb=20150621151754",
+      "image_source": "https://jojo.fandom.com/wiki/Devil%27s_Palm",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hirohiko Araki / Shueisha / David Production (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Devil's Palm",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://jojo.fandom.com/wiki/Devil%27s_Palm",
+        "fandom_title": "Devil's Palm",
+        "source_fandom": "jojo.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dios-mansion",
+      "name": "DIO's Mansion",
+      "type": "place",
+      "description": "DIO's Mansion appears as an extravagant three-story mansion made of terracotta, noted to be quite old, situated in one of the older districts of Cairo. The main building is surrounded by a wall and an extensive garden which includes numerous palm trees and other exotic plants. There are four towers on each corner of the rectangular main building. The mansion is ferociously guarded by the falcon Stand User, Pet Shop.\n\nThe interior mixes the derelict and the luxurious with most of it either dimly lit or pitch black due to the vampiric nature of its proprietor.\n\nIts rooms include the coffin room situated at the top of one of the mansion's towers in which lays a coffin and Terence T. D'Arby's underground room which mimics a tropical island in the middle of the sea, probably due to Kenny G.'s Stand.\n\nDIO's Mansion serves as a stage for the fighting games Heritage for the Future and All-Star Battle.",
+      "short_description": "DIO's Mansion appears as an extravagant three-story mansion made of terracotta, noted to be quite old, situated in one of the older districts of Cairo. The main building is surrounded by a wall and an extensive garden…",
+      "evidence": "fiction",
+      "parentSlug": "jojos-bizarre-adventure",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/jjba/images/0/01/DioMansionManga.png/revision/latest/scale-to-width-down/360?cb=20160423133735",
+      "image_source": "https://jojo.fandom.com/wiki/DIO%27s_Mansion",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hirohiko Araki / Shueisha / David Production (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for DIO's Mansion",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://jojo.fandom.com/wiki/DIO%27s_Mansion",
+        "fandom_title": "DIO's Mansion",
+        "source_fandom": "jojo.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ghost-girls-alley",
+      "name": "Ghost Girl's Alley",
+      "type": "place",
+      "description": "Ghost Girl's Alley is a hidden road in the town of Morioh that serves as the purgatory between life and death. It is also the residence of Reimi Sugimoto and Arnold during the events of Part 4.\n\nGhost Girl's Alley presents itself as a normally invisible road situated near the side of the Owson grocery, 2nd block in Morioh. To get there, one should take the number 11 bus from Morioh station then get off at the Kotodai shopping district and look for the Owson grocery. Only those attuned to seeing ghosts, like Stand Users and other ghosts, can see it.\n\nGhost Girl's Alley has the appearance of an ordinary residential road where every house is walled and abandoned. After the entrance road, the way forks in two opposite directions where other houses are visible. Apart from the houses, the only landmarks are a mailbox near which there is fresh dog excrement and an unplugged vending machine.\n\nThe alley is unique in that it serves as the border between the world of the living and the afterlife, essentially being a purgatory. Every time someone dies in Morioh, their spirit finds itself into the alley before possibly passing on to the afterlife. However, a dead person with sufficient determination can simply haunt the alley and the area near the Owson store. Moreover, space distorts itself in the alley. If someone walks from into either end of the main street and turn at the inevitable corner, they will find themselves at the fork again; if something also flies high enough into the sky, they will find themselves bumping against the ground. Thus anyone who enters the alley may be trapped. However, the entrance road will always lead out of Ghost Girl's Alley.",
+      "short_description": "Ghost Girl's Alley is a hidden road in the town of Morioh that serves as the purgatory between life and death. It is also the residence of Reimi Sugimoto and Arnold during the events of Part 4.",
+      "evidence": "fiction",
+      "parentSlug": "jojos-bizarre-adventure",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/jjba/images/a/ad/GhostGirl_alley_av.png/revision/latest/scale-to-width-down/360?cb=20161231112338",
+      "image_source": "https://jojo.fandom.com/wiki/Ghost_Girl%27s_Alley",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hirohiko Araki / Shueisha / David Production (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Ghost Girl's Alley",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://jojo.fandom.com/wiki/Ghost_Girl%27s_Alley",
+        "fandom_title": "Ghost Girl's Alley",
+        "source_fandom": "jojo.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "green-dolphin-street-prison",
+      "name": "Green Dolphin Street Prison",
+      "type": "place",
+      "description": "The , also known as |Suizokukan}}, is the main setting of the first part of Stone Ocean. It appears to be a unisex prison, though the genders are separated by the prison dorms.\n\nThe prison represents an ideal containment center focusing on the importance of freedom and equality. Prisoners are allowed to walk around the campus and commit to their own activities within the allowed areas. Privileges, such as the use of the phone, taking a shower, reading a book, and watching TV are permitted, and even further privileges, such as work and an integrated university for studying are present. Money earned through said work can be used to purchase bonus vanity items and decorations at a gift shop. However, the prison does have various restrictions, such as the prohibition of metallic objects. Prisoners must also shave their heads and follow curfew, though this can be bypassed by bribing the barber and, sometimes, the guards.\n\nThe is a separate section of the prison designed to isolate prisoners who are unable to coexist with the rest. This includes those who are in need of protection, child murderers, and prisoners who are prone to violence or frequently try to escape. The facility is located on the southern section of the Men's exercise ground, situated 520 meters away from the Women's ward.\n\nGreen Dolphin Street Prison has a full staff of prison guards, and other support workers from doctors to a prison priest. Most of them disdain the prisoners because of the crimes they've committed and are abusive to a high degree. Due to the dangerousness of the prison's occupants, the guards are extremely trigger-happy as well and don't hesitate to shoot prisoners caught in unauthorized areas. They are also somewhat professional when it comes to alerts, quickly donning full riot control gear and coming in numbers to quell any uprising, which has led to a general state of quietness among prisoners.",
+      "short_description": "The , also known as |Suizokukan}}, is the main setting of the first part of Stone Ocean. It appears to be a unisex prison, though the genders are separated by the prison dorms.",
+      "evidence": "fiction",
+      "parentSlug": "jojos-bizarre-adventure",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/jjba/images/8/84/GreenDolphinStreetPrison.png/revision/latest/scale-to-width-down/360?cb=20150614053248",
+      "image_source": "https://jojo.fandom.com/wiki/Green_Dolphin_Street_Prison",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hirohiko Araki / Shueisha / David Production (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Green Dolphin Street Prison",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://jojo.fandom.com/wiki/Green_Dolphin_Street_Prison",
+        "fandom_title": "Green Dolphin Street Prison",
+        "source_fandom": "jojo.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "higashikata-house",
+      "name": "Higashikata House",
+      "type": "place",
+      "description": "The describes the land within Morioh belonging to the Higashikata Family in JoJolion.\n\nThe Higashikata household is a large, modern building located on a hill near the coast of Morioh; at the front of an expanse of land utilized for fruit trees and other constructions.\n\nThe house is home to all extant members of the Higashikata Family.\n\nYotsuyu Yagiyama was the house's architect.",
+      "short_description": "The describes the land within Morioh belonging to the Higashikata Family in JoJolion.",
+      "evidence": "fiction",
+      "parentSlug": "jojos-bizarre-adventure",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/jjba/images/0/01/Higashikata_Household.png/revision/latest/scale-to-width-down/360?cb=20170609081350",
+      "image_source": "https://jojo.fandom.com/wiki/Higashikata_House",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hirohiko Araki / Shueisha / David Production (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Higashikata House",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://jojo.fandom.com/wiki/Higashikata_House",
+        "fandom_title": "Higashikata House",
+        "source_fandom": "jojo.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "iko-iko",
+      "name": "Iko Iko",
+      "type": "place",
+      "description": "\"Iko Iko\" () is a much-covered song from New Orleans, United States, originally titled \"Jock-A-Mo\" when released in 1953.\n\nThe song tells of a parade collision between two tribes of Mardi Gras Indians, and the traditional confrontation. The song, under the original title \"Jock-A-Mo\", was written and released in 1953 as a single by James \"Sugar Boy\" Crawford and his Cane Cutters, but it failed to make the charts. It was subsequently covered many times, most notably by the British group the Belle Stars in 1982.\n\nThe song was first made popular as \"Iko Iko\" in 1965 by an American girl group, the Dixie Cups, who scored an international hit with it. In 1967, as part of a lawsuit settlement between Crawford and the Dixie Cups, the trio were given part songwriting credit for the song. In 1972, Dr. John had a minor hit with his version of \"Iko Iko\".\n\nIn the UK, two competing versions of the song were released in 1982—one by the all-female group the Belle Stars and the other by Scottish singer Natasha England. While the Belle Stars' version peaked at 35 in the UK, Natasha's version reached the top 10. However, the Belle Stars version later reached the US Top 20 after being included in the 1988 film Rain Man. Cyndi Lauper covered the song in 1986.\n\nThe Grateful Dead began incorporating “Iko Iko” into their live shows in 1977. The song became a staple of their many tours throughout the 1980s, with the band playing it over 180 times until Jerry Garcia’s death in 1995.\n\n\"Iko Iko\" became a European hit again in 2001 after being covered by the German dance act Captain Jack. An adaptation by Papua New Guinea artist Justin Wellington under the title \"Iko Iko (My Bestie)\", featuring the Solomon Island duo Small Jam, became an international hit in 2021 after a successful TikTok challenge.",
+      "short_description": "\"Iko Iko\" () is a much-covered song from New Orleans, United States, originally titled \"Jock-A-Mo\" when released in 1953.",
+      "evidence": "fiction",
+      "parentSlug": "jojos-bizarre-adventure",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/jjba/images/0/02/Iko_Iko_Boutique.png/revision/latest/scale-to-width-down/360?cb=20241205172632",
+      "image_source": "https://jojo.fandom.com/wiki/Iko_Iko",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hirohiko Araki / Shueisha / David Production (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Iko Iko",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://jojo.fandom.com/wiki/Iko_Iko",
+        "fandom_title": "Iko Iko",
+        "source_fandom": "jojo.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -16322,6 +16559,70 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "evil-dead",
+      "jojos-bizarre-adventure",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "air-supplena-island",
+      "jojos-bizarre-adventure",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "devils-palm",
+      "jojos-bizarre-adventure",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "dios-mansion",
+      "jojos-bizarre-adventure",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ghost-girls-alley",
+      "jojos-bizarre-adventure",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "green-dolphin-street-prison",
+      "jojos-bizarre-adventure",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "higashikata-house",
+      "jojos-bizarre-adventure",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "iko-iko",
+      "jojos-bizarre-adventure",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -16330,19 +16631,19 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (jojo.fandom.com) for identification and commentary only. Character / franchise art © Hirohiko Araki / Shueisha / David Production (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T17:14:25.757Z",
+  "generated_at": "2026-09-13T04:07:59.837Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://jojo.fandom.com/wiki/",
     "host": "jojo.fandom.com"
   },
   "stats": {
-    "fandom_titles": 45,
-    "fandom_enriched_core": 17,
-    "fandom_created": 14,
-    "fandom_images": 38,
-    "fandom_intros": 45,
-    "description_ensure_at": "2026-09-12T13:03:27.916Z",
-    "description_ensure_count": 4
+    "fandom_titles": 1,
+    "fandom_enriched_core": 0,
+    "fandom_created": 1,
+    "fandom_images": 1,
+    "fandom_intros": 1,
+    "description_ensure_at": "2026-09-13T04:08:01.822Z",
+    "description_ensure_count": 1
   }
 }

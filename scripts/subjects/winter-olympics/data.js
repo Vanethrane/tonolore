@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into Winter Olympics.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify Winter Olympics."
+    },
+    {
+        "slug": "winter-olympics-geography",
+        "name": "Winter Olympics geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for Winter Olympics.",
+        "description": "Regions, routes, and spatial systems that situate Winter Olympics beyond single named places."
+    },
+    {
+        "slug": "winter-olympics-legacy",
+        "name": "Winter Olympics legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Winter Olympics.",
+        "description": "How Winter Olympics continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "winter-olympics-practices",
+        "name": "Winter Olympics practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Winter Olympics.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Winter Olympics."
+    },
+    {
+        "slug": "winter-olympics-entry-1",
+        "name": "Winter Olympics entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "winter-olympics-entry-2",
+        "name": "Winter Olympics entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "winter-olympics-entry-3",
+        "name": "Winter Olympics entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "winter-olympics-entry-4",
+        "name": "Winter Olympics entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "winter-olympics-entry-5",
+        "name": "Winter Olympics entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "winter-olympics-entry-6",
+        "name": "Winter Olympics entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "winter-olympics-entry-7",
+        "name": "Winter Olympics entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "winter-olympics-entry-8",
+        "name": "Winter Olympics entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "winter-olympics-entry-9",
+        "name": "Winter Olympics entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "winter-olympics-entry-10",
+        "name": "Winter Olympics entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "winter-olympics-entry-11",
+        "name": "Winter Olympics entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "winter-olympics-entry-12",
+        "name": "Winter Olympics entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "winter-olympics-entry-13",
+        "name": "Winter Olympics entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "winter-olympics-entry-14",
+        "name": "Winter Olympics entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "winter-olympics-entry-15",
+        "name": "Winter Olympics entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "winter-olympics-entry-16",
+        "name": "Winter Olympics entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "winter-olympics-entry-17",
+        "name": "Winter Olympics entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "winter-olympics-entry-18",
+        "name": "Winter Olympics entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "winter-olympics-entry-19",
+        "name": "Winter Olympics entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "winter-olympics-entry-20",
+        "name": "Winter Olympics entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "winter-olympics-entry-21",
+        "name": "Winter Olympics entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "winter-olympics-entry-22",
+        "name": "Winter Olympics entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Winter Olympics.",
+        "description": "A supporting encyclopedia entry in the Winter Olympics subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "Winter Olympics sources is a primary trailhead under Winter Olympics.",
         0.88,
         0.82
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-geography",
+        "contains",
+        "Winter Olympics geography is a primary trailhead under Winter Olympics.",
+        0.88,
+        0.82
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-legacy",
+        "contains",
+        "Winter Olympics legacy is a primary trailhead under Winter Olympics.",
+        0.88,
+        0.82
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-practices",
+        "contains",
+        "Winter Olympics practices is a primary trailhead under Winter Olympics.",
+        0.88,
+        0.82
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-1",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-2",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-3",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-4",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-5",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-6",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-7",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-8",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-9",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-10",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-11",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-12",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-13",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-14",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-15",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-16",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-17",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-18",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-19",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-20",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-21",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
+    ],
+    [
+        "winter-olympics",
+        "winter-olympics-entry-22",
+        "contains",
+        "Supporting entry under Winter Olympics.",
+        0.75,
+        0.7
     ]
 ];
 

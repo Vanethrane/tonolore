@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:29:04.230Z",
+  "generated_at": "2026-09-13T03:15:06.689Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -7153,26 +7153,26 @@
     {
       "slug": "ai",
       "name": "Ai",
-      "type": "person",
-      "description": "The \"Dark Ignis\" (のイグニス, Yami no Igunisu), alternatively named Ai (), is a character in the Yu-Gi-Oh! VRAINS anime, the deuteragonist in the first and second seasons, and the main antagonist of season 3. He is also the final antagonist of the series. He is one of the six Ignis of who he is based on Yusaku Fujiki, and is one of the supporters of human co-existence.\n\nFollowing his and Yusaku's victory over Bohman, Ai was left as the last remaining Ignis. He took on a human appearance, and was able to manifest this appearance in the real world through hijacking a SOLtiS. He took on more of a sympathetic but forced antagonistic role, taking Roboppi under his wing after giving it free will, and planning to use SOL Technologies for his own ends. It was revealed he did this to result in his own termination out of fear his existence would bring an end to humanity. He ultimately got his wish after being defeated by Playmaker and thus became the 6th and final Ignis to be terminated, however Ai was briefly seen being revived 3 months after his termination.\n\nAi is a small, digital humanoid being. Ai's distinct features that distinguishes him from the other Ignis is his pointed top and his clown shoe like feet. He has markings over his purple-tinted black body, in the shape of thin lines and circles, which are tinted with a purple color. He has oval-shaped, yellow-orange eyes. His pure data form is yet to be seen. In stature, Ai is one of the taller Ignis, the same height as Flame and shorter than Earth. When he becomes angry, Ai turns into a fiendish shape, with six tentacles, a large yellow eye and mouth, with two of his eyes on the center of his body.\n\nWhen Varis' \"Cracking Dragon\" ate his body, Ai was reduced to an eye with his purple lines, yellow-orange iris and a purple pupil. When he ate off Varis' arm, Ai regained his body.",
+      "type": "concept",
+      "description": "\"A.I.\" () is an archetype of Spell and Trap Cards that supports the \"@Ignister\" archetype, and is used by Ai in Yu-Gi-Oh! VRAINS.\n\nTrue to its name, all the card artworks in this archetype feature Ai (in his original form), mainly in various comical positions.\n\nTo go along with the comical nature of the artwork, some of the names of the cards are puns that involve replacing the syllables with the English writing, \"Ai.\" The puns are more noticeable in Japanese compared to being translated into English.\n\n{| class=\"fandom-table sortable\" style=\"text-align: center\" ! Card !! Origin",
       "short_description": "The \"Dark Ignis\" (のイグニス, Yami no Igunisu), alternatively named Ai (), is a character in the Yu-Gi-Oh! VRAINS anime, the deuteragonist in the first and second seasons, and the main antagonist of season 3. He is also the…",
       "evidence": "fiction",
       "parentSlug": "yu-gi-oh",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/yugioh/images/7/79/Ai_%28Ignis%29.png/revision/latest/scale-to-width-down/360?cb=20171008033420",
-      "image_source": "https://yugioh.fandom.com/wiki/Ai",
+      "image_url": "https://static.wikia.nocookie.net/yugioh/images/6/68/Ai_%28archetype%29.png/revision/latest/scale-to-width-down/360?cb=20190703215758",
+      "image_source": "https://yugioh.fandom.com/wiki/A.I.",
       "image_credit": "Fair-use identification thumbnail via Fandom. Yu-Gi-Oh! art © Konami / Studio Dice (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Ai",
+      "image_alt": "Identification thumbnail for A.I.",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "kind": "character",
-        "fandom_url": "https://yugioh.fandom.com/wiki/Ai",
-        "fandom_title": "Ai",
+        "kind": "concept",
+        "fandom_url": "https://yugioh.fandom.com/wiki/A.I.",
+        "fandom_title": "A.I.",
         "source_fandom": "yugioh.fandom.com",
         "sources": [
           "fandom"
@@ -10905,6 +10905,64 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "archetype",
+      "name": "Archetype",
+      "type": "concept",
+      "description": "An archetype, called a series (シリーズ shirīzu) or unofficially a category (カテゴリ kategori) in Japanese, is a group of cards that are supported due to part of their Japanese name.\n\nExamples of archetypes include \"HERO\", \"Spellbook\" and \"Wind-Up\".\n\nGroups of cards with similar names and/or artworks that are not supported or anti-supported explicitly by card effects are called a series.\n\nAll members of that group of cards must contain a common string (the name of the archetype) in their members' Japanese card names. Also, there must be at least one support or anti-support card relating to the archetype; that is, a card that mentions \"archetype card\" (「？？？」カード)",
+      "short_description": "An archetype, called a series (シリーズ shirīzu) or unofficially a category (カテゴリ kategori) in Japanese, is a group of cards that are supported due to part of their Japanese name.",
+      "evidence": "fiction",
+      "parentSlug": "yu-gi-oh",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/yugioh/images/0/0a/ToonTableofContents-LDS1-EN-UR-1E-Blue.png/revision/latest/scale-to-width-down/360?cb=20200703194921",
+      "image_source": "https://yugioh.fandom.com/wiki/Archetype",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Yu-Gi-Oh! art © Konami / Studio Dice (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Archetype",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://yugioh.fandom.com/wiki/Archetype",
+        "fandom_title": "Archetype",
+        "source_fandom": "yugioh.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ignister",
+      "name": "@Ignister",
+      "type": "concept",
+      "description": "\"@Ignister\" (イグニスター Atto Igunisutā) is an archetype of Cyberse monsters with various Attributes (primarily DARK and EARTH) debuting in Ignition Assault and Eternity Code that is used by Ai in Yu-Gi-Oh! VRAINS. It is supported by the \"A.I.\" archetype.\n\nThe Deck consists of multiple Cyberse monsters with various shapes and forms. The fodder monsters resemble blobs with different designs, but with coloration resembling that of the Ignis. By contrast, the boss monsters have more defined traits.\n\nMembers like \"Dark Templar @Ignister\" and some associated like \"Linguriboh\" are essentially corrupted versions of monsters used by Playmaker (\"Decode Talker\" and \"Linkuriboh\", respectively). On top of that, the archetype's boss monsters all have 2300 ATK, a direct reference to the \"Code Talkers\".\n\nAll \"@Ignister\" monsters have a common symbol, which is an irregularly shaped blue ring on their bodies, which looks sort of like an \"@\" symbol.",
+      "short_description": "\"@Ignister\" (イグニスター Atto Igunisutā) is an archetype of Cyberse monsters with various Attributes (primarily DARK and EARTH) debuting in Ignition Assault and Eternity Code that is used by Ai in Yu-Gi-Oh! VRAINS. It is…",
+      "evidence": "fiction",
+      "parentSlug": "yu-gi-oh",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/yugioh/images/b/b9/%40Ignister.png/revision/latest/scale-to-width-down/360?cb=20190911203601",
+      "image_source": "https://yugioh.fandom.com/wiki/@Ignister",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Yu-Gi-Oh! art © Konami / Studio Dice (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for @Ignister",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://yugioh.fandom.com/wiki/@Ignister",
+        "fandom_title": "@Ignister",
+        "source_fandom": "yugioh.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -14195,6 +14253,22 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "archetype",
+      "yu-gi-oh",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ignister",
+      "yu-gi-oh",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "stats": {
@@ -14204,11 +14278,11 @@
     "images_attached": 0,
     "core_enrichments": 0,
     "preserved_fandom": 0,
-    "fandom_titles": 45,
+    "fandom_titles": 0,
     "fandom_enriched_core": 0,
     "fandom_created": 0,
-    "fandom_images": 44,
-    "fandom_intros": 45,
+    "fandom_images": 0,
+    "fandom_intros": 0,
     "description_ensure_at": "2026-09-12T09:23:07.983Z",
     "description_ensure_count": 2
   }

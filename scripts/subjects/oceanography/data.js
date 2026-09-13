@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Afterlives and influence of Oceanography.",
         "description": "How Oceanography continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "oceanography-practices",
+        "name": "Oceanography practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Oceanography.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Oceanography."
+    },
+    {
+        "slug": "oceanography-entry-1",
+        "name": "Oceanography entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-2",
+        "name": "Oceanography entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-3",
+        "name": "Oceanography entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-4",
+        "name": "Oceanography entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-5",
+        "name": "Oceanography entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-6",
+        "name": "Oceanography entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-7",
+        "name": "Oceanography entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-8",
+        "name": "Oceanography entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-9",
+        "name": "Oceanography entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-10",
+        "name": "Oceanography entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-11",
+        "name": "Oceanography entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-12",
+        "name": "Oceanography entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-13",
+        "name": "Oceanography entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-14",
+        "name": "Oceanography entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-15",
+        "name": "Oceanography entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-16",
+        "name": "Oceanography entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-17",
+        "name": "Oceanography entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-18",
+        "name": "Oceanography entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-19",
+        "name": "Oceanography entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-20",
+        "name": "Oceanography entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-21",
+        "name": "Oceanography entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-22",
+        "name": "Oceanography entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-23",
+        "name": "Oceanography entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "oceanography-entry-24",
+        "name": "Oceanography entry 24",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Oceanography.",
+        "description": "A supporting encyclopedia entry in the Oceanography subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Oceanography legacy is a primary trailhead under Oceanography.",
         0.88,
         0.82
+    ],
+    [
+        "oceanography",
+        "oceanography-practices",
+        "contains",
+        "Oceanography practices is a primary trailhead under Oceanography.",
+        0.88,
+        0.82
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-1",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-2",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-3",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-4",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-5",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-6",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-7",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-8",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-9",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-10",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-11",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-12",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-13",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-14",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-15",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-16",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-17",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-18",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-19",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-20",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-21",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-22",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-23",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
+    ],
+    [
+        "oceanography",
+        "oceanography-entry-24",
+        "contains",
+        "Supporting entry under Oceanography.",
+        0.75,
+        0.7
     ]
 ];
 

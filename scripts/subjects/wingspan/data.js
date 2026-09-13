@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Wingspan.",
         "description": "Regions, routes, and spatial systems that situate Wingspan beyond single named places."
+    },
+    {
+        "slug": "wingspan-legacy",
+        "name": "Wingspan legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Wingspan.",
+        "description": "How Wingspan continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "wingspan-practices",
+        "name": "Wingspan practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Wingspan.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Wingspan."
+    },
+    {
+        "slug": "wingspan-entry-1",
+        "name": "Wingspan entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-2",
+        "name": "Wingspan entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-3",
+        "name": "Wingspan entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-4",
+        "name": "Wingspan entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-5",
+        "name": "Wingspan entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-6",
+        "name": "Wingspan entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-7",
+        "name": "Wingspan entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-8",
+        "name": "Wingspan entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-9",
+        "name": "Wingspan entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-10",
+        "name": "Wingspan entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-11",
+        "name": "Wingspan entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-12",
+        "name": "Wingspan entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-13",
+        "name": "Wingspan entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-14",
+        "name": "Wingspan entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-15",
+        "name": "Wingspan entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-16",
+        "name": "Wingspan entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-17",
+        "name": "Wingspan entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-18",
+        "name": "Wingspan entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-19",
+        "name": "Wingspan entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-20",
+        "name": "Wingspan entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-21",
+        "name": "Wingspan entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-22",
+        "name": "Wingspan entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "wingspan-entry-23",
+        "name": "Wingspan entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Wingspan.",
+        "description": "A supporting encyclopedia entry in the Wingspan subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Wingspan geography is a primary trailhead under Wingspan.",
         0.88,
         0.82
+    ],
+    [
+        "wingspan",
+        "wingspan-legacy",
+        "contains",
+        "Wingspan legacy is a primary trailhead under Wingspan.",
+        0.88,
+        0.82
+    ],
+    [
+        "wingspan",
+        "wingspan-practices",
+        "contains",
+        "Wingspan practices is a primary trailhead under Wingspan.",
+        0.88,
+        0.82
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-1",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-2",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-3",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-4",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-5",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-6",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-7",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-8",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-9",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-10",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-11",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-12",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-13",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-14",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-15",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-16",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-17",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-18",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-19",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-20",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-21",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-22",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
+    ],
+    [
+        "wingspan",
+        "wingspan-entry-23",
+        "contains",
+        "Supporting entry under Wingspan.",
+        0.75,
+        0.7
     ]
 ];
 

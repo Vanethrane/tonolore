@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into NFL.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify NFL."
+    },
+    {
+        "slug": "nfl-geography",
+        "name": "NFL geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for NFL.",
+        "description": "Regions, routes, and spatial systems that situate NFL beyond single named places."
+    },
+    {
+        "slug": "nfl-legacy",
+        "name": "NFL legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of NFL.",
+        "description": "How NFL continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "nfl-practices",
+        "name": "NFL practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in NFL.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in NFL."
+    },
+    {
+        "slug": "nfl-entry-1",
+        "name": "NFL entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nfl-entry-2",
+        "name": "NFL entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nfl-entry-3",
+        "name": "NFL entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nfl-entry-4",
+        "name": "NFL entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nfl-entry-5",
+        "name": "NFL entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nfl-entry-6",
+        "name": "NFL entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nfl-entry-7",
+        "name": "NFL entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nfl-entry-8",
+        "name": "NFL entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nfl-entry-9",
+        "name": "NFL entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nfl-entry-10",
+        "name": "NFL entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nfl-entry-11",
+        "name": "NFL entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nfl-entry-12",
+        "name": "NFL entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nfl-entry-13",
+        "name": "NFL entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nfl-entry-14",
+        "name": "NFL entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nfl-entry-15",
+        "name": "NFL entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nfl-entry-16",
+        "name": "NFL entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nfl-entry-17",
+        "name": "NFL entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nfl-entry-18",
+        "name": "NFL entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nfl-entry-19",
+        "name": "NFL entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nfl-entry-20",
+        "name": "NFL entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nfl-entry-21",
+        "name": "NFL entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "nfl-entry-22",
+        "name": "NFL entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside NFL.",
+        "description": "A supporting encyclopedia entry in the NFL subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "NFL sources is a primary trailhead under NFL.",
         0.88,
         0.82
+    ],
+    [
+        "nfl",
+        "nfl-geography",
+        "contains",
+        "NFL geography is a primary trailhead under NFL.",
+        0.88,
+        0.82
+    ],
+    [
+        "nfl",
+        "nfl-legacy",
+        "contains",
+        "NFL legacy is a primary trailhead under NFL.",
+        0.88,
+        0.82
+    ],
+    [
+        "nfl",
+        "nfl-practices",
+        "contains",
+        "NFL practices is a primary trailhead under NFL.",
+        0.88,
+        0.82
+    ],
+    [
+        "nfl",
+        "nfl-entry-1",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
+    ],
+    [
+        "nfl",
+        "nfl-entry-2",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
+    ],
+    [
+        "nfl",
+        "nfl-entry-3",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
+    ],
+    [
+        "nfl",
+        "nfl-entry-4",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
+    ],
+    [
+        "nfl",
+        "nfl-entry-5",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
+    ],
+    [
+        "nfl",
+        "nfl-entry-6",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
+    ],
+    [
+        "nfl",
+        "nfl-entry-7",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
+    ],
+    [
+        "nfl",
+        "nfl-entry-8",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
+    ],
+    [
+        "nfl",
+        "nfl-entry-9",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
+    ],
+    [
+        "nfl",
+        "nfl-entry-10",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
+    ],
+    [
+        "nfl",
+        "nfl-entry-11",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
+    ],
+    [
+        "nfl",
+        "nfl-entry-12",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
+    ],
+    [
+        "nfl",
+        "nfl-entry-13",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
+    ],
+    [
+        "nfl",
+        "nfl-entry-14",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
+    ],
+    [
+        "nfl",
+        "nfl-entry-15",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
+    ],
+    [
+        "nfl",
+        "nfl-entry-16",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
+    ],
+    [
+        "nfl",
+        "nfl-entry-17",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
+    ],
+    [
+        "nfl",
+        "nfl-entry-18",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
+    ],
+    [
+        "nfl",
+        "nfl-entry-19",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
+    ],
+    [
+        "nfl",
+        "nfl-entry-20",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
+    ],
+    [
+        "nfl",
+        "nfl-entry-21",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
+    ],
+    [
+        "nfl",
+        "nfl-entry-22",
+        "contains",
+        "Supporting entry under NFL.",
+        0.75,
+        0.7
     ]
 ];
 

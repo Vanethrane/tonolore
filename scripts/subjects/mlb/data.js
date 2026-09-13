@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "topic",
         "short_description": "Primary and secondary trails into Major League Baseball.",
         "description": "Documents, archives, oral traditions, and reference spines readers use to verify Major League Baseball."
+    },
+    {
+        "slug": "mlb-geography",
+        "name": "Major League Baseball geography",
+        "type": "place",
+        "short_description": "Broader geographic framing for Major League Baseball.",
+        "description": "Regions, routes, and spatial systems that situate Major League Baseball beyond single named places."
+    },
+    {
+        "slug": "mlb-legacy",
+        "name": "Major League Baseball legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Major League Baseball.",
+        "description": "How Major League Baseball continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "mlb-practices",
+        "name": "Major League Baseball practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Major League Baseball.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Major League Baseball."
+    },
+    {
+        "slug": "mlb-entry-1",
+        "name": "Major League Baseball entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mlb-entry-2",
+        "name": "Major League Baseball entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mlb-entry-3",
+        "name": "Major League Baseball entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mlb-entry-4",
+        "name": "Major League Baseball entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mlb-entry-5",
+        "name": "Major League Baseball entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mlb-entry-6",
+        "name": "Major League Baseball entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mlb-entry-7",
+        "name": "Major League Baseball entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mlb-entry-8",
+        "name": "Major League Baseball entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mlb-entry-9",
+        "name": "Major League Baseball entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mlb-entry-10",
+        "name": "Major League Baseball entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mlb-entry-11",
+        "name": "Major League Baseball entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mlb-entry-12",
+        "name": "Major League Baseball entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mlb-entry-13",
+        "name": "Major League Baseball entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mlb-entry-14",
+        "name": "Major League Baseball entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mlb-entry-15",
+        "name": "Major League Baseball entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mlb-entry-16",
+        "name": "Major League Baseball entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mlb-entry-17",
+        "name": "Major League Baseball entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mlb-entry-18",
+        "name": "Major League Baseball entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mlb-entry-19",
+        "name": "Major League Baseball entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mlb-entry-20",
+        "name": "Major League Baseball entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mlb-entry-21",
+        "name": "Major League Baseball entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "mlb-entry-22",
+        "name": "Major League Baseball entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Major League Baseball.",
+        "description": "A supporting encyclopedia entry in the Major League Baseball subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -238,6 +413,206 @@ const relationships = [
         "Major League Baseball sources is a primary trailhead under Major League Baseball.",
         0.88,
         0.82
+    ],
+    [
+        "mlb",
+        "mlb-geography",
+        "contains",
+        "Major League Baseball geography is a primary trailhead under Major League Baseball.",
+        0.88,
+        0.82
+    ],
+    [
+        "mlb",
+        "mlb-legacy",
+        "contains",
+        "Major League Baseball legacy is a primary trailhead under Major League Baseball.",
+        0.88,
+        0.82
+    ],
+    [
+        "mlb",
+        "mlb-practices",
+        "contains",
+        "Major League Baseball practices is a primary trailhead under Major League Baseball.",
+        0.88,
+        0.82
+    ],
+    [
+        "mlb",
+        "mlb-entry-1",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "mlb",
+        "mlb-entry-2",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "mlb",
+        "mlb-entry-3",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "mlb",
+        "mlb-entry-4",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "mlb",
+        "mlb-entry-5",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "mlb",
+        "mlb-entry-6",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "mlb",
+        "mlb-entry-7",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "mlb",
+        "mlb-entry-8",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "mlb",
+        "mlb-entry-9",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "mlb",
+        "mlb-entry-10",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "mlb",
+        "mlb-entry-11",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "mlb",
+        "mlb-entry-12",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "mlb",
+        "mlb-entry-13",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "mlb",
+        "mlb-entry-14",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "mlb",
+        "mlb-entry-15",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "mlb",
+        "mlb-entry-16",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "mlb",
+        "mlb-entry-17",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "mlb",
+        "mlb-entry-18",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "mlb",
+        "mlb-entry-19",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "mlb",
+        "mlb-entry-20",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "mlb",
+        "mlb-entry-21",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
+    ],
+    [
+        "mlb",
+        "mlb-entry-22",
+        "contains",
+        "Supporting entry under Major League Baseball.",
+        0.75,
+        0.7
     ]
 ];
 

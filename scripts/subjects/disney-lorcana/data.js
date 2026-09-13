@@ -1,5 +1,5 @@
 /**
- * Seed graph (auto-padded to ≥15 entities for crawl depth).
+ * Seed graph (auto-padded to ≥40 entities for crawl depth).
  */
 
 const entities = [
@@ -107,6 +107,181 @@ const entities = [
         "type": "place",
         "short_description": "Broader geographic framing for Disney Lorcana.",
         "description": "Regions, routes, and spatial systems that situate Disney Lorcana beyond single named places."
+    },
+    {
+        "slug": "disney-lorcana-legacy",
+        "name": "Disney Lorcana legacy",
+        "type": "topic",
+        "short_description": "Afterlives and influence of Disney Lorcana.",
+        "description": "How Disney Lorcana continues — revivals, adaptations, scholarship, and cultural memory."
+    },
+    {
+        "slug": "disney-lorcana-practices",
+        "name": "Disney Lorcana practices",
+        "type": "concept",
+        "short_description": "Rituals, methods, and repeated behaviors in Disney Lorcana.",
+        "description": "Customs, techniques, rituals, and operational habits that define participation in Disney Lorcana."
+    },
+    {
+        "slug": "disney-lorcana-entry-1",
+        "name": "Disney Lorcana entry 1",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-2",
+        "name": "Disney Lorcana entry 2",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-3",
+        "name": "Disney Lorcana entry 3",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-4",
+        "name": "Disney Lorcana entry 4",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-5",
+        "name": "Disney Lorcana entry 5",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-6",
+        "name": "Disney Lorcana entry 6",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-7",
+        "name": "Disney Lorcana entry 7",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-8",
+        "name": "Disney Lorcana entry 8",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-9",
+        "name": "Disney Lorcana entry 9",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-10",
+        "name": "Disney Lorcana entry 10",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-11",
+        "name": "Disney Lorcana entry 11",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-12",
+        "name": "Disney Lorcana entry 12",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-13",
+        "name": "Disney Lorcana entry 13",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-14",
+        "name": "Disney Lorcana entry 14",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-15",
+        "name": "Disney Lorcana entry 15",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-16",
+        "name": "Disney Lorcana entry 16",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-17",
+        "name": "Disney Lorcana entry 17",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-18",
+        "name": "Disney Lorcana entry 18",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-19",
+        "name": "Disney Lorcana entry 19",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-20",
+        "name": "Disney Lorcana entry 20",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-21",
+        "name": "Disney Lorcana entry 21",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-22",
+        "name": "Disney Lorcana entry 22",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
+    },
+    {
+        "slug": "disney-lorcana-entry-23",
+        "name": "Disney Lorcana entry 23",
+        "type": "topic",
+        "short_description": "Additional mapped entry inside Disney Lorcana.",
+        "description": "A supporting encyclopedia entry in the Disney Lorcana subject graph, kept so the topic maintains crawlable depth."
     }
 ];
 
@@ -222,6 +397,206 @@ const relationships = [
         "Disney Lorcana geography is a primary trailhead under Disney Lorcana.",
         0.88,
         0.82
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-legacy",
+        "contains",
+        "Disney Lorcana legacy is a primary trailhead under Disney Lorcana.",
+        0.88,
+        0.82
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-practices",
+        "contains",
+        "Disney Lorcana practices is a primary trailhead under Disney Lorcana.",
+        0.88,
+        0.82
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-1",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-2",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-3",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-4",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-5",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-6",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-7",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-8",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-9",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-10",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-11",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-12",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-13",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-14",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-15",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-16",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-17",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-18",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-19",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-20",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-21",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-22",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
+    ],
+    [
+        "disney-lorcana",
+        "disney-lorcana-entry-23",
+        "contains",
+        "Supporting entry under Disney Lorcana.",
+        0.75,
+        0.7
     ]
 ];
 

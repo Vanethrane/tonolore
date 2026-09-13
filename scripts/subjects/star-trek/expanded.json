@@ -14003,6 +14003,503 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "planet-10-dim-8",
+      "name": "Planet 10",
+      "type": "place",
+      "description": "Planet 10 (DIM-8) was a planet that was located somewhere in the Alpha or Beta Quadrant. This planet was near the Ficus sector.\n\nIn 2137, the was launched from Earth on a mission to Planet 10 (DIM-8). It was listed on the chart \"Interstellar Expeditions to Sectors 184/02-185/38: Launched From Sol System, Earth Dates 2123-2190\", which was seen on a viewer in Captain Jean-Luc Picard's ready room aboard the . okudagram)\n\nde:10 (DIM 8) fr:Planète 10 (DIM-8) nl:Planeet 10 (DIM-8)",
+      "short_description": "Planet 10 (DIM-8) was a planet that was located somewhere in the Alpha or Beta Quadrant. This planet was near the Ficus sector.",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/memoryalpha/images/e/ef/Expeditions_from_Sol_System%2C_2123%E2%80%932190_remastered.jpg/revision/latest/scale-to-width-down/360?cb=20121208030947&path-prefix=en",
+      "image_source": "https://memory-alpha.fandom.com/wiki/Planet_10_(DIM-8)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Planet 10 (DIM-8)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Planet_10_(DIM-8)",
+        "fandom_title": "Planet 10 (DIM-8)",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "delphic-expanse-sphere",
+      "name": "Delphic Expanse sphere",
+      "type": "object",
+      "description": "The Delphic Expanse spheres were a series of artificially-created spherical objects that were scattered around the Delphic Expanse. The spheres, each one nineteen kilometers in diameter, generated massive amounts of gravimetric energy and were collectively responsible for the web of spatial anomalies which constituted the Expanse. Each sphere was surrounded by a cloaking barrier which kept it hidden from outside observers. According to the Xindi-Primate Degra, the Xindi knew of seventy-eight spheres, at last count. ()\n\nUnited Earth Starfleet first encountered the spheres in 2153, when entered the Expanse in search of the Xindi. The first sphere they came across was being used as a base for Osaarian pirates. Enterprise engaged in battle with an Osaarian merchant ship within the cloaking barrier of the sphere, and was able to take a series of detailed scans. Quantum scans of the sphere indicated it was nearly one thousand years old. ()\n\nUpon further investigation, the Enterprise crew was able to determine that the spatial anomalies which riddled the Expanse occurred at points where the waves of gravimetric energy were being emitted from the intersected spheres. This led T'Pol to hypothesize that the spheres were created for the express purpose of creating the Expanse.\n\nEnterprise later encountered the Triannons, who held that supernatural beings whom they referred to as \"the Makers\" had created the spheres to reconfigure space in preparation for their eventual return. The Enterprise crew later discovered that the Triannon myth was based in fact and that the spheres had been created by a race of trans-dimensional beings who were attempting to make the Expanse habitable for their species as a prelude to invasion. ()",
+      "short_description": "The Delphic Expanse spheres were a series of artificially-created spherical objects that were scattered around the Delphic Expanse. The spheres, each one nineteen kilometers in diameter, generated massive amounts of…",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/memoryalpha/images/7/7a/Delphic_Expanse_sphere.jpg/revision/latest/scale-to-width-down/360?cb=20160106172951&path-prefix=en",
+      "image_source": "https://memory-alpha.fandom.com/wiki/Delphic_Expanse_sphere",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Delphic Expanse sphere",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "ship",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Delphic_Expanse_sphere",
+        "fandom_title": "Delphic Expanse sphere",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "delta-quadrant-species",
+      "name": "Delta Quadrant species",
+      "type": "concept",
+      "description": "de:Völker des Delta-Quadranten fr:Espèces du Quadrant Delta it:Specie del Quadrante Delta nl:Delta kwadrant rassen pl:Gatunki Kwadrantu Delta",
+      "short_description": "de:Völker des Delta-Quadranten fr:Espèces du Quadrant Delta it:Specie del Quadrante Delta nl:Delta kwadrant rassen pl:Gatunki Kwadrantu Delta",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Delta_Quadrant_species",
+        "fandom_title": "Delta Quadrant species",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "planet-1865-alpha",
+      "name": "Planet 1865-Alpha",
+      "type": "place",
+      "description": "Planet 1865-Alpha was the Borg designation for an uninhabited Class M planet in the Delta Quadrant. This planet had at least two moons.\n\nIn 2368, a Borg sphere crashed into a swamp on the planet's surface. Two of Nine, Three of Nine, Four of Nine, and Seven of Nine were the only survivors. Severed from the Borg Collective, the individual personalities of the four drones began to re-surface. Three of the drones attempted to escape the Collective, destroying the beacon they were using to signal the Borg.\n\nHowever, Seven of Nine's memories before her assimilation were those of a little girl, and she became frightened by the prospect of being abandoned. Thus, she forced the others to repair the beacon by injecting nanoprobes that created new interlink nodes within their parietal lobes, establishing a neural link between the three of them. They were subsequently rescued and re-assimilated, but the neural link remained even after the three drones were later freed from the Collective. ()\n\nde:Planet 1865-Alpha ja:惑星1865アルファ nl:Planeet 1865-Alfa 1865-Alpha",
+      "short_description": "Planet 1865-Alpha was the Borg designation for an uninhabited Class M planet in the Delta Quadrant. This planet had at least two moons.",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/memoryalpha/images/f/f6/Planet_1865-Alpha.jpg/revision/latest/scale-to-width-down/360?cb=20181228235045&path-prefix=en",
+      "image_source": "https://memory-alpha.fandom.com/wiki/Planet_1865-Alpha",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Planet 1865-Alpha",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Planet_1865-Alpha",
+        "fandom_title": "Planet 1865-Alpha",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "galactic-starship-design",
+      "name": "Galactic starship design",
+      "type": "object",
+      "description": "A galactic starship design was a starship design known to those in the Milky Way Galaxy.\n\nAccording to Spock, as of 2269, the insectoid starship was not a recorded galactic starship design. ()",
+      "short_description": "A galactic starship design was a starship design known to those in the Milky Way Galaxy.",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "ship",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Galactic_starship_design",
+        "fandom_title": "Galactic starship design",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gamma-quadrant-species",
+      "name": "Gamma Quadrant species",
+      "type": "concept",
+      "description": "de:Völker des Gamma-Quadranten fr:Espèces du Quadrant Gamma nl:Gamma kwadrant rassen pl:Gatunki Kwadrantu Gamma zh:伽马象限物种",
+      "short_description": "de:Völker des Gamma-Quadranten fr:Espèces du Quadrant Gamma nl:Gamma kwadrant rassen pl:Gatunki Kwadrantu Gamma zh:伽马象限物种",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Gamma_Quadrant_species",
+        "fandom_title": "Gamma Quadrant species",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "40-eridani-a-i",
+      "name": "40 Eridani A I",
+      "type": "place",
+      "description": "40 Eridani A I was the first planet orbiting the star 40 Eridani A in the Vulcan system. This planet was located in the Vulcan sector, Beta Quadrant, and was approximately 16 light years from Sol.\n\nThis uninhabited class B planet had no moons.\n\nWhen the Venari Ral laid Omega-47 mines around the core of Federation space in 3196, this planet was within the enclosed region. ()\n\nIn 2259, the planet's name, its position in the system, and its orbital path were seen on a display graphic of the shuttle Cervantes. ()",
+      "short_description": "40 Eridani A I was the first planet orbiting the star 40 Eridani A in the Vulcan system. This planet was located in the Vulcan sector, Beta Quadrant, and was approximately 16 light years from Sol.",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/40_Eridani_A_I",
+        "fandom_title": "40 Eridani A I",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "geomagnetic-compensator",
+      "name": "Geomagnetic compensator",
+      "type": "object",
+      "description": "A geomagnetic compensator was a type of artificial satellite developed by the Alshain to compensate for the shifting of Alshain IV's magnetic poles, which began in the late 29th century and would have otherwise impaired the Alshain's ability to navigate during flight. The satellites used dilithium to stabilize their power supply.\n\nFollowing the Burn in the mid-31st century, the Alshain ran out of dilithium and were no longer able to power their geomagnetic compensator array. During a diplomatic mission to Alshain IV in 3190, the crew of the ascertained the problem and restored the array by sending DOT-23s to supply the satellites with more dilithium. This earned them the goodwill of Emperor Lee'U and his people. ()",
+      "short_description": "A geomagnetic compensator was a type of artificial satellite developed by the Alshain to compensate for the shifting of Alshain IV's magnetic poles, which began in the late 29th century and would have otherwise impaired…",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/memoryalpha/images/7/7e/Alshain_IV.jpg/revision/latest/scale-to-width-down/360?cb=20211119013800&path-prefix=en",
+      "image_source": "https://memory-alpha.fandom.com/wiki/Geomagnetic_compensator",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Geomagnetic compensator",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "ship",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Geomagnetic_compensator",
+        "fandom_title": "Geomagnetic compensator",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "humanoid-species",
+      "name": "Humanoid species",
+      "type": "concept",
+      "description": "List of named species and cultures whose development or form can be described as humanoid.\n\nThe following species and cultures have chosen to take humanoid form at some point.\n\nThe following are identified types of non-biological lifeforms that were designed with humanoid forms. The Borg Collective might also be listed here, since it used humanoid drones.\n\npl:Gatunki humanoidalne Category:Lists Category:Lifeform classifications",
+      "short_description": "List of named species and cultures whose development or form can be described as humanoid.",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Humanoid_species",
+        "fandom_title": "Humanoid species",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "planet-0042692",
+      "name": "Planet 0042692",
+      "type": "place",
+      "description": "Planet 0042692 was the Federation designation for a class M planet that was located somewhere in the Alpha or Beta Quadrant. It was the homeworld of the Enderprizians, a pre-warp humanoid species, as well as of the wood leech. The planet's surface featured stretches of relatively flat highland interspersed with sunken regions of extremely rugged topography, which contained forests and many sheer pinnacles of rock. The planet had four moons and was rich in dilithium crystals.\n\nAround 2268, the shuttlecraft from the , piloted by Ensign David Garrovick on a solo mission, crashed in a cave on Planet 0042692. As warp plasma leaking from the damaged shuttle was reacting with ambient dilithium and poisoning the surrounding landscape, Garrovick made first contact with the local indigenous people to warn them of the danger. Garrovick soon died on the planet; the natives he assisted patterned their society after his accounts of the Enterprise and came to call themselves the \"Enderprizians\". Starfleet did not return to the sector for over a century.\n\nIn 2384, the detected Garrovick's distress signal and made second contact with the Enderprizians in their settlement of New Enda-Prize. After Dal R'El and Huur'A were afflicted by a fatal illness that the Enderprizians called a curse from \"The Gallows\", Gwyn, Rok-Tahk, and Jankom Pog ventured into the forest and discovered the wreck of the Galileo. Once the source of the disease was known, Zero was able to synthesize an antidote. The Protostar crew then enlisted the aid of the Enderprizians to rescue their crewmates from the Galileo shortly before it exploded. With the source of the contamination neutralized, the Enderprizians reopened their settlement to the outside world. ()\n\nEvidently, this second contact resulted in the Enderprizians establishing a relationship with the Federation at large as several months later, an Enderprizian was in a science class with Rok-Tahk as the new warrant officer was receiving basic training at Starfleet Academy. ()",
+      "short_description": "Planet 0042692 was the Federation designation for a class M planet that was located somewhere in the Alpha or Beta Quadrant. It was the homeworld of the Enderprizians, a pre-warp humanoid species, as well as of the wood…",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/memoryalpha/images/b/bd/USS_Protostar_over_Planet_0042692.jpg/revision/latest/scale-to-width-down/360?cb=20221110234030&path-prefix=en",
+      "image_source": "https://memory-alpha.fandom.com/wiki/Planet_0042692",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Planet 0042692",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Planet_0042692",
+        "fandom_title": "Planet 0042692",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "interceptor-one",
+      "name": "Interceptor One",
+      "type": "object",
+      "description": "Interceptor One was the call sign of a Bajoran interceptor in service during the 2370s.\n\nIn 2370, General Hazar ordered Interceptor One to stop a Skrreean ship from landing on Bajor. ()",
+      "short_description": "Interceptor One was the call sign of a Bajoran interceptor in service during the 2370s.",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "ship",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Interceptor_One",
+        "fandom_title": "Interceptor One",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "non-humanoid-species",
+      "name": "Non-humanoid species",
+      "type": "concept",
+      "description": "List of known non-humanoid species who were generally sentient, and may or may not have been able to assume humanoid form.\n\nFor generally non-sentient non-humanoids, see Animals. For unknown non-humanoids, see unnamed non-humanoids.\n\nde:Nicht-humanoide Spezies nl:Niet-humanoïde rassen pl:Gatunki niehumanoidalne Category:Lists",
+      "short_description": "List of known non-humanoid species who were generally sentient, and may or may not have been able to assume humanoid form.",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Non-humanoid_species",
+        "fandom_title": "Non-humanoid species",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "892-iv",
+      "name": "892-IV",
+      "type": "place",
+      "description": "892-IV was the inhabited fourth planet of the 892 system. This planet was located in a sector of the Alpha or Beta Quadrant that had not been surveyed by the Federation until the early 2260s. Classified as M-class, the planet was orbited by two moons and was the homeworld of the 892-IV natives, a pre-warp humanoid species.\n\nCommander Spock, the science officer of the , when scanning the planet, noted that 892-IV had a striking resemblance to Earth. However, as much as there were similarities, there were differences. The proportion of land to water, density (5.5 g/cm3), and atmosphere (78% nitrogen, 21% oxygen) were exactly like those on Earth. However, unlike Earth, the diameter at the equator (7,917 miles) and layout of the land masses were different. ()\n\nThis planet was cited as evidence of Hodgkin's Law of Parallel Planetary Development. The English language had evolved, and a parallel of the Roman Empire existed here.\n\nBy the mid-23rd century, the planet had reached the development of Earth's 20th century. Technology included radio communications, road system and powered transportation (such as the Jupiter 8), but no atomic power. Gladiatorial arena games became televised. With each century, even slaves received rights to medicine and government payments in their old age; the Empire eventually managed to stop rebellions and even wars for four hundred years, achieving stability.",
+      "short_description": "892-IV was the inhabited fourth planet of the 892 system. This planet was located in a sector of the Alpha or Beta Quadrant that had not been surveyed by the Federation until the early 2260s. Classified as M-class, the…",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/memoryalpha/images/7/7f/892-IV%2C_remastered.jpg/revision/latest/scale-to-width-down/360?cb=20110327235258&path-prefix=en",
+      "image_source": "https://memory-alpha.fandom.com/wiki/892-IV",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 892-IV",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/892-IV",
+        "fandom_title": "892-IV",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "martian-ship",
+      "name": "Martian ship",
+      "type": "object",
+      "description": "This Martian ship, also called Martian warship or Martian vessel; was a warship used by the Martians. It was equipped with technology that was similar to a tractor beam that was described as \"energy tendril\" known as tethers. They were useful for salvaging ships for their war efforts against the Dol'drm.\n\nTheir weapon systems and propulsion systems were fairly primitive. The ship was armed with missiles and it wasn't warp-capable. But despite the fact that their ship lacked a transporter room they did have phasing technology. ()\n\nIn 2262, the encountered this ship when they were hurled millions of years into the past, to a time when Mars was still an inhabited M-class planet. The Martians stole antimatter from the Enterprise and used it as a weapon to destroy the homeworld of their enemies. The resulting shockwave from the explosion also consumed the Martian ship. ()",
+      "short_description": "This Martian ship, also called Martian warship or Martian vessel; was a warship used by the Martians. It was equipped with technology that was similar to a tractor beam that was described as \"energy tendril\" known as…",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/memoryalpha/images/2/24/Martian_warship.png/revision/latest/scale-to-width-down/360?cb=20260723211115&path-prefix=en",
+      "image_source": "https://memory-alpha.fandom.com/wiki/Martian_ship",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Martian ship",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "ship",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Martian_ship",
+        "fandom_title": "Martian ship",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shapeshifting-species",
+      "name": "Shapeshifting species",
+      "type": "concept",
+      "description": "de:Liste von formwandelnden Spezies nl:Vormveranderende rassen pl:Gatunki antropomorficzne Category:Lists",
+      "short_description": "de:Liste von formwandelnden Spezies nl:Vormveranderende rassen pl:Gatunki antropomorficzne Category:Lists",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Shapeshifting_species",
+        "fandom_title": "Shapeshifting species",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaamazzara",
+      "name": "Aaamazzara",
+      "type": "place",
+      "description": "Aaamazzara was an inhabited planet in the Epsilon Serpentis system. Located in the Alpha Quadrant, this planet was the homeworld of the Aaamazzarites and was approximately 72 light years from Sol.\n\nIn the 24th century, Commander , a crewmember aboard the , was born on this non-Federation planet. In 2369, his planet of origin was listed on the chart \"USS Enterprise Personnel Database\", which was displayed on a accessed by Captain Jean-Luc Picard. (, okudagram)\n\nIn the 32nd century, Aaamazzara was a Federation member planet. It was listed with other members on a video wall in the . ()\n\nIn the 3191, this planet's special designation as a homeworld was noted on a star chart. ()",
+      "short_description": "Aaamazzara was an inhabited planet in the Epsilon Serpentis system. Located in the Alpha Quadrant, this planet was the homeworld of the Aaamazzarites and was approximately 72 light years from Sol.",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/memoryalpha/images/6/6f/Romulan_Neutral_Zone_star_chart%2C_2259.png/revision/latest/scale-to-width-down/360?cb=20220709140646&path-prefix=en",
+      "image_source": "https://memory-alpha.fandom.com/wiki/Aaamazzara",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Aaamazzara",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Aaamazzara",
+        "fandom_title": "Aaamazzara",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "orbital-1",
+      "name": "Orbital 1",
+      "type": "object",
+      "description": "Orbital 1 was a space capsule launched by the Central Protectorate on Gotana. It was launched on top of a three-stage rocket, and carried two astronauts, the pilot, Gotana-Retz, and the commander, Terrina.\n\nIts mission was to gather information about the ancient Sky Ship, which was actually the trapped in orbit around the planet. Because of a space-time displacement, a day would pass on the surface for around one second of normal time observed on Voyager.\n\nShortly after firing the second stage, the capsule lost contact with Launch Control, but Terrina made the decision to continue the mission as planned. They approached Voyager, but their scans could not penetrate the hull. Terrina decided to attempt to board the ship.\n\nOrbital 1 docked with Voyager, but the two astronauts were not fully integrated into the timeframe on the Federation vessel, and observed what appeared to be people frozen in time. Soon the change started to affect them and they began suffering disorientation and collapsed. The shock to Terrina's system resulted in her death, but Gotana-Retz survived the transition and was able to integrate into Voyagers time frame and interact with its crew.",
+      "short_description": "Orbital 1 was a space capsule launched by the Central Protectorate on Gotana. It was launched on top of a three-stage rocket, and carried two astronauts, the pilot, Gotana-Retz, and the commander, Terrina.",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/memoryalpha/images/3/37/Orbital_1_bottom.jpg/revision/latest?cb=20180814100404&path-prefix=en",
+      "image_source": "https://memory-alpha.fandom.com/wiki/Orbital_1",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Orbital 1",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "ship",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Orbital_1",
+        "fandom_title": "Orbital 1",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceborne-species",
+      "name": "Spaceborne species",
+      "type": "concept",
+      "description": "The following is a list of spaceborne species, both natural to and tolerant of the vacuum of space.\n\nnl:Rassen die in de ruimte leven pl:Organizmy kosmiczne Category:Lists",
+      "short_description": "The following is a list of spaceborne species, both natural to and tolerant of the vacuum of space.",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Spaceborne_species",
+        "fandom_title": "Spaceborne species",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaamazzarite",
+      "name": "Aaamazzarite",
+      "type": "concept",
+      "description": "The Aaamazzarites were a humanoid species from the planet Aaamazzara, in the Epsilon Serpentis system, in the Alpha Quadrant. with whom the Federation had made first contact by the late 23rd century.\n\nTwo representatives visited Starfleet Headquarters air tram station in San Francisco on stardate 7410.2. (; ; )\n\nThe Aaamazzarites were designed by Fred Phillips and Robert Fletcher for The Motion Picture. With the approval of Gene Roddenberry, the Aaamazzarites, as well as numerous other new species in the film, were named by Fletcher and provided a backstory by him. The following is a brief description, in Fletcher's own words:\n\n\"AAAMAZZARITES &ndash; Therbians from planet Aaamazzara. They generate their own clothing from out of own mouths, like bees making hives. They manufacture everything they use from their own chemistry, from inside their own body, from clothing to furniture. Costumes for film modeled in clay, cast in sheets of foam rubber.\" (The Making of Star Trek: The Motion Picture, pp. 129-130)",
+      "short_description": "The Aaamazzarites were a humanoid species from the planet Aaamazzara, in the Epsilon Serpentis system, in the Alpha Quadrant. with whom the Federation had made first contact by the late 23rd century.",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/memoryalpha/images/6/64/Aaamazzarite_concept_sketch.jpg/revision/latest/scale-to-width-down/360?cb=20160910125709&path-prefix=en",
+      "image_source": "https://memory-alpha.fandom.com/wiki/Aaamazzarite",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Aaamazzarite",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Aaamazzarite",
+        "fandom_title": "Aaamazzarite",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -18373,6 +18870,158 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "planet-10-dim-8",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "delphic-expanse-sphere",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "delta-quadrant-species",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "planet-1865-alpha",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "galactic-starship-design",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "gamma-quadrant-species",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "40-eridani-a-i",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "geomagnetic-compensator",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "humanoid-species",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "planet-0042692",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "interceptor-one",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "non-humanoid-species",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "892-iv",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "martian-ship",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "shapeshifting-species",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "aaamazzara",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "orbital-1",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "spaceborne-species",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "aaamazzarite",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -18381,7 +19030,7 @@
     "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (memory-alpha.fandom.com) for identification and commentary only. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-12T21:05:36.516Z",
+  "generated_at": "2026-09-13T04:25:09.297Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://memory-alpha.fandom.com/wiki/",
@@ -18391,9 +19040,9 @@
     "fandom_titles": 1,
     "fandom_enriched_core": 0,
     "fandom_created": 1,
-    "fandom_images": 0,
+    "fandom_images": 1,
     "fandom_intros": 1,
-    "description_ensure_at": "2026-09-12T17:22:06.744Z",
+    "description_ensure_at": "2026-09-13T04:25:09.782Z",
     "description_ensure_count": 1
   }
 }

@@ -14,7 +14,14 @@ import {
     fetchSubjectsCatalog,
     searchEntities
 } from "./staticData";
-import { siteOrigin, useDocumentSeo } from "./useDocumentSeo";
+import { siteOrigin, useDocumentSeo, buildBreadcrumbJsonLd } from "./useDocumentSeo";
+import {
+    isLegalSlug,
+    LEGAL_ROUTES,
+    LegalPage,
+    ReportErrorButton,
+    SiteFooter
+} from "./legalPages";
 
 const LOGO_BACKDROP_CACHE = new Map();
 
@@ -466,6 +473,11 @@ function parseRoute() {
         return { type: "category", categoryId: categoryMatch[1].toLowerCase() };
     }
 
+    const legalSlug = path.toLowerCase();
+    if (isLegalSlug(legalSlug)) {
+        return { type: "legal", slug: legalSlug };
+    }
+
     return { type: "page", slug: path };
 }
 
@@ -475,6 +487,9 @@ function routeToPath(route) {
     }
     if (route.type === "category") {
         return `/category/${route.categoryId}`;
+    }
+    if (route.type === "legal") {
+        return `/${route.slug}`;
     }
     return `/${route.slug}`;
 }
@@ -564,6 +579,7 @@ function SiteSearch({ navigate }) {
     const [results, setResults] = useState([]);
     const [open, setOpen] = useState(false);
     const [loading, setLoading] = useState(false);
+    const [searchError, setSearchError] = useState(null);
 
     useEffect(() => {
         const term = query.trim();
@@ -571,15 +587,17 @@ function SiteSearch({ navigate }) {
         if (term.length < 2) {
             setResults([]);
             setLoading(false);
+            setSearchError(null);
             return undefined;
         }
 
         let cancelled = false;
         setLoading(true);
+        setSearchError(null);
 
         const timer = setTimeout(async () => {
             try {
-                const entities = await searchEntities(term, 8);
+                const entities = await searchEntities(term, 12);
 
                 if (!cancelled) {
                     setResults(entities);
@@ -588,13 +606,15 @@ function SiteSearch({ navigate }) {
             } catch {
                 if (!cancelled) {
                     setResults([]);
+                    setSearchError("Search index unavailable — try again in a moment.");
+                    setOpen(true);
                 }
             } finally {
                 if (!cancelled) {
                     setLoading(false);
                 }
             }
-        }, 180);
+        }, 160);
 
         return () => {
             cancelled = true;
@@ -662,6 +682,8 @@ function SiteSearch({ navigate }) {
                 <div className="site-search-results" role="listbox">
                     {loading ? (
                         <div className="site-search-empty">Searching…</div>
+                    ) : searchError ? (
+                        <div className="site-search-empty">{searchError}</div>
                     ) : results.length === 0 ? (
                         <div className="site-search-empty">No matches</div>
                     ) : (
@@ -1003,6 +1025,93 @@ function SharedLoreSection({ entityName, connections, navigate }) {
     );
 }
 
+/** Linked pages that have identification thumbs — visual trailheads. */
+function PictureLinksSection({ connections, navigate }) {
+    const pictured = (connections || []).filter(
+        (connection) => connection.image_url
+    );
+    if (!pictured.length) {
+        return null;
+    }
+
+    return (
+        <section className="picture-links" id="picture-links">
+            <div className="section-heading">
+                <h2>Picture links</h2>
+                <p className="section-lede">
+                    Related pages with identification images — tap a face or
+                    place to keep moving through the map.
+                </p>
+            </div>
+            <div className="picture-link-grid">
+                {pictured.map((connection) => {
+                    const path = (
+                        connection.path || `/${connection.slug}`
+                    ).replace(/^\/+/, "");
+                    return (
+                        <a
+                            key={connection.id}
+                            className="picture-link"
+                            href={`/${path}`}
+                            onClick={(event) => {
+                                if (
+                                    event.metaKey ||
+                                    event.ctrlKey ||
+                                    event.shiftKey ||
+                                    event.altKey
+                                ) {
+                                    return;
+                                }
+                                event.preventDefault();
+                                navigate({ type: "page", slug: path });
+                            }}
+                        >
+                            <img
+                                src={connection.image_url}
+                                alt=""
+                                loading="lazy"
+                                referrerPolicy="no-referrer"
+                                onError={hideBrokenImage}
+                            />
+                            <span className="picture-link-name">
+                                {connection.name}
+                            </span>
+                            <span className="picture-link-type">
+                                {entityTypeLabel(connection)}
+                            </span>
+                        </a>
+                    );
+                })}
+            </div>
+        </section>
+    );
+}
+
+/** Pull named HTML sections out of generated page content for ordered layout. */
+function splitGeneratedContent(html) {
+    const source = String(html || "");
+    const take = (className) => {
+        const re = new RegExp(
+            `<section class="${className}"[\\s\\S]*?<\\/section>`,
+            "i"
+        );
+        const match = source.match(re);
+        return match ? match[0] : "";
+    };
+    const didYouKnow = take("did-you-know");
+    const sources = take("sources");
+    const connectionNarrative = take("connection-narrative");
+    const remainder = source
+        .replace(/<section class="overview"[\s\S]*?<\/section>/gi, "")
+        .replace(/<section class="overview format-hubs"[\s\S]*?<\/section>/gi, "")
+        .replace(/<section class="did-you-know"[\s\S]*?<\/section>/gi, "")
+        .replace(/<section class="sources"[\s\S]*?<\/section>/gi, "")
+        .replace(/<section class="connection-narrative"[\s\S]*?<\/section>/gi, "")
+        .trim();
+
+    return { didYouKnow, sources, connectionNarrative, remainder };
+}
+
 const OTHER_CATEGORY = {
     id: "other",
     label: "Other",
@@ -1254,6 +1363,14 @@ function Home({ navigate }) {
                     )}
                 </section>
             </main>
+            <div className="page-actions page-actions-footer">
+                <ReportErrorButton
+                    pageUrl={`${siteOrigin()}/`}
+                    pageTitle="Ton-o-Lore home"
+                    entityName="Home"
+                />
+            </div>
+            <SiteFooter navigate={navigate} />
         </div>
     );
 }
@@ -1279,6 +1396,7 @@ function CategoryPage({ categoryId, navigate }) {
                         <h1>Opening the shelf…</h1>
                     </section>
                 </main>
+                <SiteFooter navigate={navigate} />
             </div>
         );
     }
@@ -1307,6 +1425,7 @@ function CategoryPage({ categoryId, navigate }) {
                         </a>
                     </section>
                 </main>
+                <SiteFooter navigate={navigate} />
             </div>
         );
     }
@@ -1423,6 +1542,14 @@ function CategoryPage({ categoryId, navigate }) {
                     </p>
                 </section>
             </main>
+            <div className="page-actions page-actions-footer">
+                <ReportErrorButton
+                    pageUrl={`${siteOrigin()}/category/${categoryId}`}
+                    pageTitle={section.label}
+                    entityName={section.label}
+                />
+            </div>
+            <SiteFooter navigate={navigate} />
         </div>
     );
 }
@@ -1439,10 +1566,10 @@ function App() {
         if (!next) {
             nextRoute = { type: "home" };
         } else if (typeof next === "string") {
-            nextRoute = {
-                type: "page",
-                slug: next.replace(/^\/+|\/+$/g, "")
-            };
+            const slug = next.replace(/^\/+|\/+$/g, "");
+            nextRoute = isLegalSlug(slug)
+                ? { type: "legal", slug: slug.toLowerCase() }
+                : { type: "page", slug };
         } else {
             nextRoute = next;
         }
@@ -1534,6 +1661,11 @@ function App() {
                 return;
             }
 
+            if (isLegalSlug(path)) {
+                navigate({ type: "legal", slug: path.toLowerCase() });
+                return;
+            }
+
             navigate(path);
         }
 
@@ -1557,7 +1689,12 @@ function App() {
                     "@context": "https://schema.org",
                     "@type": "WebSite",
                     name: "Ton-o-Lore",
-                    url: `${origin}/`
+                    url: `${origin}/`,
+                    potentialAction: {
+                        "@type": "SearchAction",
+                        target: `${origin}/?q={search_term_string}`,
+                        "query-input": "required name=search_term_string"
+                    }
                 }
             };
         }
@@ -1599,6 +1736,32 @@ function App() {
             };
         }
 
+        if (route.type === "legal") {
+            const meta = LEGAL_ROUTES[route.slug];
+            const title = `${meta?.title || "Legal"} | Ton-o-Lore`;
+            const description =
+                meta?.description ||
+                "Legal and contact information for Ton-o-Lore.";
+            return {
+                title,
+                description,
+                canonicalUrl: `${origin}${routeToPath(route)}`,
+                type: "website",
+                jsonLd: {
+                    "@context": "https://schema.org",
+                    "@type": "WebPage",
+                    name: title,
+                    description,
+                    url: `${origin}${routeToPath(route)}`,
+                    isPartOf: {
+                        "@type": "WebSite",
+                        name: "Ton-o-Lore",
+                        url: `${origin}/`
+                    }
+                }
+            };
+        }
+
         if (!page) {
             return {
                 title: loading
@@ -1608,6 +1771,7 @@ function App() {
                     "That path is not mapped yet on Ton-o-Lore. Try another connection or return home.",
                 canonicalUrl: `${origin}/${route.slug}`,
                 type: "website",
+                robots: loading ? "noindex,follow" : "noindex,follow",
                 jsonLd: null
             };
         }
@@ -1620,7 +1784,46 @@ function App() {
             page.entity.description ||
             `Canonical Ton-o-Lore page for ${page.entity.name}.`;
         const canonicalUrl =
-            page.page.canonical_url || `${origin}${page.page.slug}`;
+            page.page.canonical_url || `${origin}${page.page.slug.startsWith("/") ? page.page.slug : `/${page.page.slug}`}`;
+
+        const brand = page.subject || null;
+        const crumbs = [{ label: "Home", href: "/" }];
+        const primaryCategoryId = brand?.categories?.[0] || null;
+        const primaryCategory =
+            FALLBACK_CATEGORIES.find((entry) => entry.id === primaryCategoryId) ||
+            (primaryCategoryId === OTHER_CATEGORY.id ? OTHER_CATEGORY : null);
+        if (primaryCategory) {
+            crumbs.push({
+                label: primaryCategory.label,
+                href: `/category/${primaryCategory.id}`
+            });
+        }
+        if (brand?.name && brand?.path && page.page.slug !== brand.path) {
+            crumbs.push({ label: brand.name, href: brand.path });
+        }
+        crumbs.push({ label: page.entity.name });
+
+        const breadcrumb = buildBreadcrumbJsonLd(origin, crumbs);
+        const webpage = {
+            "@type": "WebPage",
+            name: title,
+            description,
+            url: canonicalUrl,
+            isPartOf: {
+                "@type": "WebSite",
+                name: "Ton-o-Lore",
+                url: `${origin}/`
+            },
+            about: {
+                "@type": "Thing",
+                name: page.entity.name,
+                alternateName: page.entity.aliases || [],
+                description
+            },
+            ...(page.entity.image_url
+                ? { primaryImageOfPage: page.entity.image_url }
+                : {})
+        };
 
         return {
             title,
@@ -1630,24 +1833,7 @@ function App() {
             type: "article",
             jsonLd: {
                 "@context": "https://schema.org",
-                "@type": "WebPage",
-                name: title,
-                description,
-                url: canonicalUrl,
-                isPartOf: {
-                    "@type": "WebSite",
-                    name: "Ton-o-Lore",
-                    url: `${origin}/`
-                },
-                about: {
-                    "@type": "Thing",
-                    name: page.entity.name,
-                    alternateName: page.entity.aliases || [],
-                    description
-                },
-                ...(page.entity.image_url
-                    ? { primaryImageOfPage: page.entity.image_url }
-                    : {})
+                "@graph": breadcrumb ? [webpage, breadcrumb] : [webpage]
             }
         };
     }, [route, page, loading, origin]);
@@ -1667,6 +1853,24 @@ function App() {
         );
     }
 
+    if (route.type === "legal") {
+        const meta = LEGAL_ROUTES[route.slug];
+        return (
+            <div className="app theme-default">
+                <SiteHeader navigate={navigate} />
+                <LegalPage slug={route.slug} navigate={navigate} />
+                <div className="page-actions page-actions-footer">
+                    <ReportErrorButton
+                        pageUrl={`${origin}${routeToPath(route)}`}
+                        pageTitle={meta?.title || route.slug}
+                        entityName={meta?.title || route.slug}
+                    />
+                </div>
+                <SiteFooter navigate={navigate} />
+            </div>
+        );
+    }
+
     const themeClass = page?.page?.theme
         ? `theme-${page.page.theme}`
         : "theme-default";
@@ -1681,6 +1885,7 @@ function App() {
                         <h1>Following the trail…</h1>
                     </section>
                 </main>
+                <SiteFooter navigate={navigate} />
             </div>
         );
     }
@@ -1709,11 +1914,21 @@ function App() {
                         </a>
                     </section>
                 </main>
+                <div className="page-actions page-actions-footer">
+                    <ReportErrorButton
+                        pageUrl={`${origin}${routeToPath(route)}`}
+                        pageTitle="Page not found"
+                        entityName={route.slug}
+                    />
+                </div>
+                <SiteFooter navigate={navigate} />
             </div>
         );
     }
 
     const { featured, more, total } = rankConnections(page.connections);
+    const allConnections = [...featured, ...more];
+    const generated = splitGeneratedContent(page.page.content);
 
     const copyright = page.copyright;
     const brand = page.subject || null;
@@ -1759,10 +1974,24 @@ function App() {
             <div className="theme-atmosphere" aria-hidden="true" />
             <SiteHeader navigate={navigate} brand={brand} />
 
-            <main className="page">
+            <main className="page page-flow">
                 <PathTrail crumbs={trail} navigate={navigate} />
 
-                <section className="hero">
+                <div className="page-actions">
+                    <ReportErrorButton
+                        pageUrl={
+                            page.page.canonical_url ||
+                            `${origin}${page.page.slug}`
+                        }
+                        pageTitle={
+                            page.page.meta_title || page.entity.name
+                        }
+                        entityName={page.entity.name}
+                    />
+                </div>
+
+                {/* 1–2. Title, then picture */}
+                <section className="hero page-flow-hero">
                     {brand?.logo?.url && isSubjectRoot ? (
                         <LogoMark
                             as="figure"
@@ -1788,10 +2017,12 @@ function App() {
                         )}
                         onBrokenImage={hideBrokenImage}
                     />
+                </section>
 
+                {/* 3. Paragraphs */}
+                <section className="page-flow-paragraphs" id="overview">
                     {page.page.overview ? (
                         <div
-                            id="overview"
                             className="what-is"
                             dangerouslySetInnerHTML={{
                                 __html: page.page.overview
@@ -1804,15 +2035,16 @@ function App() {
                     )}
                 </section>
 
-                <SharedLoreSection
-                    entityName={page.entity.name}
-                    connections={[...featured, ...more]}
+                {/* 4. Picture links */}
+                <PictureLinksSection
+                    connections={allConnections}
                     navigate={navigate}
                 />
 
-                <section className="connections">
+                {/* 5. Connections */}
+                <section className="connections" id="connections">
                     <div className="section-heading">
-                        <h2>Where to go next</h2>
+                        <h2>Connections</h2>
                         <p className="section-lede">
                             {total
                                 ? more.length
@@ -1858,18 +2090,48 @@ function App() {
                     ) : null}
                 </section>
 
-                <section
-                    className="content"
-                    dangerouslySetInnerHTML={{
-                        __html: page.page.content
-                    }}
+                {/* 6. Did you know */}
+                {generated.didYouKnow ? (
+                    <div
+                        className="page-flow-did-you-know"
+                        dangerouslySetInnerHTML={{
+                            __html: generated.didYouKnow
+                        }}
+                    />
+                ) : null}
+
+                {/* 7. Everything else */}
+                <SharedLoreSection
+                    entityName={page.entity.name}
+                    connections={allConnections}
+                    navigate={navigate}
                 />
 
-                {copyright?.title && copyright?.body ? (
-                    <section className="copyright-notice">
-                        <strong>{copyright.title}</strong>
-                        <p>{copyright.body}</p>
-                    </section>
+                {generated.connectionNarrative ? (
+                    <div
+                        className="content"
+                        dangerouslySetInnerHTML={{
+                            __html: generated.connectionNarrative
+                        }}
+                    />
+                ) : null}
+
+                {generated.remainder ? (
+                    <section
+                        className="content"
+                        dangerouslySetInnerHTML={{
+                            __html: generated.remainder
+                        }}
+                    />
+                ) : null}
+
+                {generated.sources ? (
+                    <div
+                        className="page-flow-sources"
+                        dangerouslySetInnerHTML={{
+                            __html: generated.sources
+                        }}
+                    />
                 ) : null}
 
                 {page.rabbit_holes.length > 0 && (
@@ -1899,7 +2161,15 @@ function App() {
                         </div>
                     </section>
                 )}
+
+                {copyright?.title && copyright?.body ? (
+                    <section className="copyright-notice">
+                        <strong>{copyright.title}</strong>
+                        <p>{copyright.body}</p>
+                    </section>
+                ) : null}
             </main>
+            <SiteFooter navigate={navigate} />
         </div>
     );
 }

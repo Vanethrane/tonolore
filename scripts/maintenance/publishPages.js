@@ -64,6 +64,19 @@ function ensureCatalogInDocs() {
             console.log(`Filled docs/${name} from repo root`);
         }
     }
+    if (fs.existsSync(root)) {
+        for (const entry of fs.readdirSync(root)) {
+            if (!/^sitemap-\d+\.xml$/i.test(entry)) {
+                continue;
+            }
+            const docsFile = path.join(docs, entry);
+            const rootFile = path.join(root, entry);
+            if (!fs.existsSync(docsFile) && fs.existsSync(rootFile)) {
+                fs.copyFileSync(rootFile, docsFile);
+                console.log(`Filled docs/${entry} from repo root`);
+            }
+        }
+    }
 
     const docsCategory = path.join(docs, "category");
     const rootCategory = path.join(root, "category");
@@ -79,7 +92,14 @@ function stashStaticOverlay(fromDir) {
         names: []
     };
 
-    for (const name of ["data", "category", "robots.txt", "sitemap.xml"]) {
+    const overlayNames = ["data", "category", "robots.txt", "sitemap.xml"];
+    for (const entry of fs.readdirSync(fromDir)) {
+        if (/^sitemap-\d+\.xml$/i.test(entry)) {
+            overlayNames.push(entry);
+        }
+    }
+
+    for (const name of overlayNames) {
         const src = path.join(fromDir, name);
         if (!fs.existsSync(src)) {
             continue;
@@ -152,6 +172,20 @@ function mirrorToRoot() {
         const src = path.join(docs, name);
         if (fs.existsSync(src)) {
             fs.copyFileSync(src, path.join(root, name));
+        }
+    }
+    for (const entry of fs.readdirSync(docs)) {
+        if (!/^sitemap-\d+\.xml$/i.test(entry)) {
+            continue;
+        }
+        fs.copyFileSync(path.join(docs, entry), path.join(root, entry));
+    }
+    for (const entry of fs.readdirSync(root)) {
+        if (
+            /^sitemap-\d+\.xml$/i.test(entry) &&
+            !fs.existsSync(path.join(docs, entry))
+        ) {
+            fs.unlinkSync(path.join(root, entry));
         }
     }
 
@@ -236,6 +270,33 @@ if (!fs.existsSync(subjectsPath)) {
     process.exit(1);
 }
 
+// Keep search shards complete after export/publish (meta + /data/search/shards).
+if (hasDb && !process.argv.includes("--skip-search-index")) {
+    console.log("Rebuilding sharded search index…");
+    const searchRebuild = spawnSync(
+        process.execPath,
+        [path.join(__dirname, "rebuildSearchIndex.js")],
+        { stdio: "inherit", cwd: root, env: process.env }
+    );
+    if (searchRebuild.status !== 0) {
+        console.error("Search index rebuild failed.");
+        process.exit(searchRebuild.status || 1);
+    }
+}
+
+const searchMetaPath = path.join(docs, "data", "search-index.json");
+const searchShardDir = path.join(docs, "data", "search", "shards");
+if (
+    !fs.existsSync(searchMetaPath) ||
+    !fs.existsSync(searchShardDir) ||
+    fs.readdirSync(searchShardDir).filter((n) => n.endsWith(".json")).length < 1
+) {
+    console.error(
+        "docs/data/search-index.json or search/shards missing — site search will fail on GitHub Pages."
+    );
+    process.exit(1);
+}
+
 if (!skipShells) {
     console.log("Writing SPA route shells…");
     const shells = spawnSync(
@@ -246,6 +307,17 @@ if (!skipShells) {
     if (shells.status !== 0) {
         console.error("SPA shell write failed.");
         process.exit(shells.status || 1);
+    }
+
+    console.log("Writing SEO-tagged page shells…");
+    const seoShells = spawnSync(
+        process.execPath,
+        [path.join(__dirname, "writeSeoPageShells.js")],
+        { stdio: "inherit", cwd: root, env: process.env }
+    );
+    if (seoShells.status !== 0) {
+        console.error("SEO shell write failed.");
+        process.exit(seoShells.status || 1);
     }
 }
 

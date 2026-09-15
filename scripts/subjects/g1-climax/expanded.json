@@ -1,0 +1,502 @@
+{
+  "enrichments": [
+    {
+      "slug": "g1-climax",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax",
+        "fandom_title": "G1 Climax",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "The is a professional wrestling tournament held each August by the New Japan Pro-Wrestling (NJPW) promotion. Though it has sometimes been held as a single-elimination tournament, it is usually&nbsp;– and currently&nbsp;– held as a round-robin, with the most victorious wrestlers in each pool wrestling in a short tournament to decide that year's winner. Traditionally, since 2012, the winner of the tournament earns the right to challenge for the IWGP Heavyweight Championship at the following January's Wrestle Kingdom show, but since 2024, the winner has chosen to receive his IWGP Heavyweight Championship match at King of Pro-Wrestling.\n\nIn its current format, the tournament lasts four weeks. The winner of each pool is determined by a points system; two points for a victory, one point for a draw, and zero points for a loss or no contest. Under the current format, double decisions (such as double count-outs or double disqualifications) are treated as draws.\n\nNJPW had an annual tournament since 1974 under various names: the (1974–1977, based on the World (Big) League tournament from the old Japanese Wrestling Association held between 1959 and 1972); the (1978–1982); the (1983–1988), \"IWGP\" is the acronym of NJPW's governing body, the International Wrestling Grand Prix (インターナショナル・レスリング・グラン・プリ, intānashonaru resuringu guran puri). Most of these tournaments were dominated by NJPW's founding top star Antonio Inoki.\n\nAlthough the 1983 winner, Hulk Hogan, was awarded a championship belt, this is not the beginning of the IWGP Heavyweight Championship, but its early version that was defended annually against the winner of the IWGP League of the year. The current IWGP Heavyweight Championship arrived only in 1987, replacing the old version.",
+      "short_description": "The is a professional wrestling tournament held each August by the New Japan Pro-Wrestling (NJPW) promotion. Though it has sometimes been held as a single-elimination tournament, it is usually&nbsp;– and…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/G1_Climax_trophy.jpg/180px-G1_Climax_trophy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/G1_Climax",
+      "image_credit": "Fair-use identification thumbnail via Fandom. G1 Climax article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for G1 Climax"
+    },
+    {
+      "slug": "g1-climax-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_figures",
+        "fandom_title": "G1 Climax figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_world_&_context",
+        "fandom_title": "G1 Climax world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_places",
+        "fandom_title": "G1 Climax places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_events",
+        "fandom_title": "G1 Climax events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_objects_&_artifacts",
+        "fandom_title": "G1 Climax objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_factions_&_groups",
+        "fandom_title": "G1 Climax factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_concepts",
+        "fandom_title": "G1 Climax concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_eras",
+        "fandom_title": "G1 Climax eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_works_&_media",
+        "fandom_title": "G1 Climax works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_symbols",
+        "fandom_title": "G1 Climax symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_controversies",
+        "fandom_title": "G1 Climax controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_geography",
+        "fandom_title": "G1 Climax geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_legacy",
+        "fandom_title": "G1 Climax legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_practices",
+        "fandom_title": "G1 Climax practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_1",
+        "fandom_title": "G1 Climax entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_2",
+        "fandom_title": "G1 Climax entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_3",
+        "fandom_title": "G1 Climax entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_4",
+        "fandom_title": "G1 Climax entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_5",
+        "fandom_title": "G1 Climax entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_6",
+        "fandom_title": "G1 Climax entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_7",
+        "fandom_title": "G1 Climax entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_8",
+        "fandom_title": "G1 Climax entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_9",
+        "fandom_title": "G1 Climax entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_10",
+        "fandom_title": "G1 Climax entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_11",
+        "fandom_title": "G1 Climax entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_12",
+        "fandom_title": "G1 Climax entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_13",
+        "fandom_title": "G1 Climax entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_14",
+        "fandom_title": "G1 Climax entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_15",
+        "fandom_title": "G1 Climax entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_16",
+        "fandom_title": "G1 Climax entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_17",
+        "fandom_title": "G1 Climax entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_18",
+        "fandom_title": "G1 Climax entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_19",
+        "fandom_title": "G1 Climax entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_20",
+        "fandom_title": "G1 Climax entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_21",
+        "fandom_title": "G1 Climax entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_22",
+        "fandom_title": "G1 Climax entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_23",
+        "fandom_title": "G1 Climax entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g1-climax-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/G1_Climax_entry_24",
+        "fandom_title": "G1 Climax entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. G1 Climax article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:32:34.905Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

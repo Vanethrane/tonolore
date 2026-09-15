@@ -1,0 +1,502 @@
+{
+  "enrichments": [
+    {
+      "slug": "mothman",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman",
+        "fandom_title": "Mothman",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "In American folklore, Mothman is the name given to a humanoid creature that was reportedly seen around Point Pleasant, West Virginia, from November 15, 1966, to December 15, 1967. Despite its name, the original sightings of the creature described avian, not lepidopteran, features. The first newspaper report was published in the Point Pleasant Register, dated November&nbsp;16, 1966, titled \"Couples See Man-Sized Bird ... Creature ... Something\". The national press soon picked up the reports and helped spread the story across the United States. The source of the legend is believed to have originated from sightings of out-of-migration sandhill cranes or herons, or possibly the misidentification of barred owls.\n\nThe creature was later popularized by John Keel in his 1975 book The Mothman Prophecies, which claimed that there were paranormal events related to the sightings and a connection to the collapse of the Silver Bridge. This came five years after Gray Barker's The Silver Bridge, a narrative that had earlier explored similar ideas but in a \"heavily fictionalized\" way. The Mothman Prophecies was adapted decades later into a 2002 film starring Richard Gere.\n\nAn annual festival in Point Pleasant is devoted to the Mothman legend.\n\nOn November 15, 1966, two young couples from Point Pleasant—Roger and Linda Scarberry, Steve and Mary Mallette—told police they had seen a large black creature whose eyes \"glowed red\", standing at the side of the road near \"the TNT area\", the site of a former munitions plant from World War&nbsp;II. Linda Scarberry described it as a \"slender, muscular man\" about seven feet () tall with white wings. However, she was unable to discern its face due to the hypnotic effect of its eyes. Distressed, the witnesses claimed they sped away at , reporting that the creature took flight and kept pace with their car, making a screeching sound during the pursuit. It followed them as far as Point Pleasant city limits.",
+      "short_description": "In American folklore, Mothman is the name given to a humanoid creature that was reportedly seen around Point Pleasant, West Virginia, from November 15, 1966, to December 15, 1967. Despite its name, the original…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Mothman_Artist%27s_Impression.png/180px-Mothman_Artist%27s_Impression.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Mothman",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Mothman article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Mothman"
+    },
+    {
+      "slug": "mothman-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_figures",
+        "fandom_title": "Mothman figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_world_&_context",
+        "fandom_title": "Mothman world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_places",
+        "fandom_title": "Mothman places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_events",
+        "fandom_title": "Mothman events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_objects_&_artifacts",
+        "fandom_title": "Mothman objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_factions_&_groups",
+        "fandom_title": "Mothman factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_concepts",
+        "fandom_title": "Mothman concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_eras",
+        "fandom_title": "Mothman eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_works_&_media",
+        "fandom_title": "Mothman works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_symbols",
+        "fandom_title": "Mothman symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_controversies",
+        "fandom_title": "Mothman controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_geography",
+        "fandom_title": "Mothman geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_legacy",
+        "fandom_title": "Mothman legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_practices",
+        "fandom_title": "Mothman practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_1",
+        "fandom_title": "Mothman entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_2",
+        "fandom_title": "Mothman entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_3",
+        "fandom_title": "Mothman entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_4",
+        "fandom_title": "Mothman entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_5",
+        "fandom_title": "Mothman entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_6",
+        "fandom_title": "Mothman entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_7",
+        "fandom_title": "Mothman entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_8",
+        "fandom_title": "Mothman entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_9",
+        "fandom_title": "Mothman entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_10",
+        "fandom_title": "Mothman entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_11",
+        "fandom_title": "Mothman entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_12",
+        "fandom_title": "Mothman entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_13",
+        "fandom_title": "Mothman entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_14",
+        "fandom_title": "Mothman entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_15",
+        "fandom_title": "Mothman entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_16",
+        "fandom_title": "Mothman entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_17",
+        "fandom_title": "Mothman entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_18",
+        "fandom_title": "Mothman entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_19",
+        "fandom_title": "Mothman entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_20",
+        "fandom_title": "Mothman entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_21",
+        "fandom_title": "Mothman entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_22",
+        "fandom_title": "Mothman entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_23",
+        "fandom_title": "Mothman entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mothman-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mothman_entry_24",
+        "fandom_title": "Mothman entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Mothman article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:36:30.730Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

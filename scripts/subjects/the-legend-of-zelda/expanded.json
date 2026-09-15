@@ -4,7 +4,7 @@
       "slug": "majoras-mask",
       "description": "Every midnight, ??? emerges from the toilet of the asking for paper. It remains until 6:00 AM. Link can give it any item made of paper (such as Letters). After doing so, ??? disappears and a toilet flush is heard. ??? re-emerges with a that fell into the toilet. If this was done in subsequent appearances, no reward is given to the young hero.",
       "short_description": "Every midnight, ??? emerges from the toilet of the asking for paper. It remains until 6:00 AM. Link can give it any item made of paper (such as Letters). After doing so, ??? disappears and a toilet flush is heard. ???…",
-      "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/71/MM3D_%EF%BC%9F%EF%BC%9F%EF%BC%9F_Model.png/revision/latest/scale-to-width-down/360?cb=20200609213130",
+      "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/71/MM3D_%EF%BC%9F%EF%BC%9F%EF%BC%9F_Model.png/revision/latest/scale-to-width-down/180?cb=20200609213130",
       "image_source": "https://zelda.fandom.com/wiki/%3F%3F%3F_(Majora%27s_Mask)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -473,6 +473,11 @@
       "slug": "gixx",
       "description": "Colby Daniel Lopez (born May 28, 1986), better known by the ring name Seth Rollins, is an American professional wrestler who has been signed to WWE since 2010, where he performs on the Raw brand. Rollins topped Pro Wrestling Illustrated's PWI 500 list of the top 500 wrestlers in the world in 2015, 2019, and 2023, was voted as the PWI Wrestler of the Year in 2015 and 2023, and was named Wrestler of the Year by Sports Illustrated in 2022.\n\nPrior to signing with WWE, he wrestled under the ring name Tyler Black for Ring of Honor (ROH), holding the ROH World Championship once and the ROH World Tag Team Championship twice. He also wrestled for various independent promotions including Full Impact Pro, where he was a one-time FIP World Heavyweight Champion, as well as Pro Wrestling Guerrilla, where he was a one-time PWG World Tag Team Champion.\n\nLopez signed with WWE in 2010 and was sent to its then-developmental territory, Florida Championship Wrestling (FCW), where he was renamed Seth Rollins and became the inaugural FCW Grand Slam Champion. After WWE rebranded its developmental brand from FCW to NXT, he became the inaugural NXT Champion. In November 2012, he debuted on the main roster as a member of the stable known as The Shield, alongside Dean Ambrose and Roman Reigns. He won his first main roster championship, the WWE Tag Team Championship, with Reigns in May 2013; he has since held the title six times with various partners. After leaving The Shield in 2014, he joined The Authority, establishing his on-screen character as a leading villain.\n\nRollins is a six-time world champion in WWE, having won each of the WWE Championship WWE Universal Championship, and World Heavyweight Championship (WHC) titles twice, being the inaugural WHC champion. He is also WWE's 29th Triple Crown Champion and 19th Grand Slam Champion, and won the 2014 and 2025 Money in the Bank ladder match, the 2019 Royal Rumble match, and is a 10-time Slammy Award winner.",
       "short_description": "Colby Daniel Lopez (born May 28, 1986), better known by the ring name Seth Rollins, is an American professional wrestler who has been signed to WWE since 2010, where he performs on the Raw brand. Rollins topped Pro…"
+    },
+    {
+      "slug": "doll",
+      "description": "A doll is a model typically of a human or humanoid character, often used as a toy for children. Dolls have also been used in traditional religious rituals throughout the world. Traditional dolls made of materials such as clay and wood are found in the Americas, Asia, Africa and Europe. The earliest documented dolls go back to the ancient civilizations of Egypt, Greece, and Rome. They have been made as crude, rudimentary playthings as well as elaborate art. Modern doll manufacturing has its roots in Germany, from the 15th century. With industrialization and new materials such as porcelain and plastic, dolls were increasingly mass-produced. During the 20th century, dolls became increasingly popular as collectibles.",
+      "short_description": "A doll is a model typically of a human or humanoid character, often used as a toy for children. Dolls have also been used in traditional religious rituals throughout the world. Traditional dolls made of materials such…"
     }
   ],
   "entities": [
@@ -15899,6 +15904,64 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "akh-vaquot-shrine",
+      "name": "Akh Va'quot Shrine",
+      "type": "place",
+      "description": "The , designated by the Trial name Windmills, is an in .\n\nThe Akh Va'quot Shrine is located in , southwest of the . As Link enters the , he is greeted by the Shrine's , .\n\nAkh Va'quot Shrine features a central chamber containing six fans and 14 windmills. In order to complete the Trial, Link must strike the accompanying the fans to rotate them in an order that hits all windmills at once. Once this is done, a portcullis leading to Akh Va'quot will rise allowing Link to speak to him. He will give Link a for completing the Trial, and will wish Link well before fading away.\n\nA room behind the elevator features a long pool of water and a floating platform holding a Switch and a fan that will release a portcullis protecting a containing an . Two niches along the wall of the pool contain two Treasure Chests, containing a and a respectively.",
+      "short_description": "The , designated by the Trial name Windmills, is an in .",
+      "evidence": "fiction",
+      "parentSlug": "hyrule",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/ab/BotW_Akh_Va%27quot_Shrine.png/revision/latest/scale-to-width-down/180?cb=20170306152019",
+      "image_source": "https://zelda.fandom.com/wiki/Akh_Va%27quot_Shrine",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Akh Va'quot Shrine",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://zelda.fandom.com/wiki/Akh_Va%27quot_Shrine",
+        "fandom_title": "Akh Va'quot Shrine",
+        "source_fandom": "zelda.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "doll",
+      "name": "Doll",
+      "type": "object",
+      "description": "A doll is a model typically of a human or humanoid character, often used as a toy for children. Dolls have also been used in traditional religious rituals throughout the world. Traditional dolls made of materials such as clay and wood are found in the Americas, Asia, Africa and Europe. The earliest documented dolls go back to the ancient civilizations of Egypt, Greece, and Rome. They have been made as crude, rudimentary playthings as well as elaborate art. Modern doll manufacturing has its roots in Germany, from the 15th century. With industrialization and new materials such as porcelain and plastic, dolls were increasingly mass-produced. During the 20th century, dolls became increasingly popular as collectibles.",
+      "short_description": "A doll is a model typically of a human or humanoid character, often used as a toy for children. Dolls have also been used in traditional religious rituals throughout the world. Traditional dolls made of materials such…",
+      "evidence": "fiction",
+      "parentSlug": "the-legend-of-zelda",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/2c/TAoL_Doll_Artwork.png/revision/latest/scale-to-width-down/180?cb=20170822001510",
+      "image_source": "https://zelda.fandom.com/wiki/Doll",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Doll",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "item",
+        "fandom_url": "https://zelda.fandom.com/wiki/Doll",
+        "fandom_title": "Doll",
+        "source_fandom": "zelda.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -20365,15 +20428,31 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "akh-vaquot-shrine",
+      "hyrule",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "doll",
+      "the-legend-of-zelda",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (zelda.fandom.com) for identification and commentary only. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-13T03:57:59.607Z",
+  "generated_at": "2026-09-14T19:45:32.490Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://zelda.fandom.com/wiki/",
@@ -20384,8 +20463,8 @@
     "fandom_enriched_core": 0,
     "fandom_created": 1,
     "fandom_images": 1,
-    "fandom_intros": 0,
-    "description_ensure_at": "2026-09-12T18:06:15.557Z",
-    "description_ensure_count": 2
+    "fandom_intros": 1,
+    "description_ensure_at": "2026-09-14T19:45:36.676Z",
+    "description_ensure_count": 1
   }
 }

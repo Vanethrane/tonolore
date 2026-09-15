@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "rosicrucianism",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism",
+        "fandom_title": "Rosicrucianism",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_figures",
+        "fandom_title": "Rosicrucianism figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_world_&_context",
+        "fandom_title": "Rosicrucianism world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_places",
+        "fandom_title": "Rosicrucianism places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_events",
+        "fandom_title": "Rosicrucianism events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_objects_&_artifacts",
+        "fandom_title": "Rosicrucianism objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_factions_&_groups",
+        "fandom_title": "Rosicrucianism factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_concepts",
+        "fandom_title": "Rosicrucianism concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_eras",
+        "fandom_title": "Rosicrucianism eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_works_&_media",
+        "fandom_title": "Rosicrucianism works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_symbols",
+        "fandom_title": "Rosicrucianism symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_controversies",
+        "fandom_title": "Rosicrucianism controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_geography",
+        "fandom_title": "Rosicrucianism geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_legacy",
+        "fandom_title": "Rosicrucianism legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_practices",
+        "fandom_title": "Rosicrucianism practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_1",
+        "fandom_title": "Rosicrucianism entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_2",
+        "fandom_title": "Rosicrucianism entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_3",
+        "fandom_title": "Rosicrucianism entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_4",
+        "fandom_title": "Rosicrucianism entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_5",
+        "fandom_title": "Rosicrucianism entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_6",
+        "fandom_title": "Rosicrucianism entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_7",
+        "fandom_title": "Rosicrucianism entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_8",
+        "fandom_title": "Rosicrucianism entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_9",
+        "fandom_title": "Rosicrucianism entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_10",
+        "fandom_title": "Rosicrucianism entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_11",
+        "fandom_title": "Rosicrucianism entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_12",
+        "fandom_title": "Rosicrucianism entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_13",
+        "fandom_title": "Rosicrucianism entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_14",
+        "fandom_title": "Rosicrucianism entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_15",
+        "fandom_title": "Rosicrucianism entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_16",
+        "fandom_title": "Rosicrucianism entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_17",
+        "fandom_title": "Rosicrucianism entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_18",
+        "fandom_title": "Rosicrucianism entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_19",
+        "fandom_title": "Rosicrucianism entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_20",
+        "fandom_title": "Rosicrucianism entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_21",
+        "fandom_title": "Rosicrucianism entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_22",
+        "fandom_title": "Rosicrucianism entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_23",
+        "fandom_title": "Rosicrucianism entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rosicrucianism-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rosicrucianism_entry_24",
+        "fandom_title": "Rosicrucianism entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Rosicrucianism article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:54:40.893Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

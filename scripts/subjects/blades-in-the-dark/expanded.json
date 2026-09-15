@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "blades-in-the-dark",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark",
+        "fandom_title": "Blades in the Dark",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_figures",
+        "fandom_title": "Blades in the Dark figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_world_&_context",
+        "fandom_title": "Blades in the Dark world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_places",
+        "fandom_title": "Blades in the Dark places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_events",
+        "fandom_title": "Blades in the Dark events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_objects_&_artifacts",
+        "fandom_title": "Blades in the Dark objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_factions_&_groups",
+        "fandom_title": "Blades in the Dark factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_concepts",
+        "fandom_title": "Blades in the Dark concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_eras",
+        "fandom_title": "Blades in the Dark eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_works_&_media",
+        "fandom_title": "Blades in the Dark works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_symbols",
+        "fandom_title": "Blades in the Dark symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_controversies",
+        "fandom_title": "Blades in the Dark controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_geography",
+        "fandom_title": "Blades in the Dark geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_legacy",
+        "fandom_title": "Blades in the Dark legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_practices",
+        "fandom_title": "Blades in the Dark practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_1",
+        "fandom_title": "Blades in the Dark entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_2",
+        "fandom_title": "Blades in the Dark entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_3",
+        "fandom_title": "Blades in the Dark entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_4",
+        "fandom_title": "Blades in the Dark entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_5",
+        "fandom_title": "Blades in the Dark entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_6",
+        "fandom_title": "Blades in the Dark entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_7",
+        "fandom_title": "Blades in the Dark entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_8",
+        "fandom_title": "Blades in the Dark entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_9",
+        "fandom_title": "Blades in the Dark entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_10",
+        "fandom_title": "Blades in the Dark entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_11",
+        "fandom_title": "Blades in the Dark entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_12",
+        "fandom_title": "Blades in the Dark entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_13",
+        "fandom_title": "Blades in the Dark entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_14",
+        "fandom_title": "Blades in the Dark entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_15",
+        "fandom_title": "Blades in the Dark entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_16",
+        "fandom_title": "Blades in the Dark entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_17",
+        "fandom_title": "Blades in the Dark entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_18",
+        "fandom_title": "Blades in the Dark entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_19",
+        "fandom_title": "Blades in the Dark entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_20",
+        "fandom_title": "Blades in the Dark entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_21",
+        "fandom_title": "Blades in the Dark entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_22",
+        "fandom_title": "Blades in the Dark entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_23",
+        "fandom_title": "Blades in the Dark entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blades-in-the-dark-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blades_in_the_Dark_entry_24",
+        "fandom_title": "Blades in the Dark entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Blades in the Dark article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T17:05:06.962Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

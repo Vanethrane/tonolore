@@ -5,6 +5,7 @@
 
 const fs = require("fs");
 const path = require("path");
+const { hasBrokenWikiProse } = require("./wikiPlainText");
 
 function loadExpanded(subjectDir) {
     const file = path.join(subjectDir, "expanded.json");
@@ -28,6 +29,7 @@ function isIncompleteDescription(value) {
     }
     // Fandom scrapes sometimes keep section headers with empty bodies.
     if (
+        hasBrokenWikiProse(text) ||
         /(as follows:|differences from the manga:)\s*$/i.test(text) ||
         /written by\s*,/i.test(text) ||
         /directed by\s*,/i.test(text) ||

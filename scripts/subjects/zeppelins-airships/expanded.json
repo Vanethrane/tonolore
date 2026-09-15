@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "zeppelins-airships",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships",
+        "fandom_title": "Zeppelins & airships",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_figures",
+        "fandom_title": "Zeppelins & airships figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_world_&_context",
+        "fandom_title": "Zeppelins & airships world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_places",
+        "fandom_title": "Zeppelins & airships places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_events",
+        "fandom_title": "Zeppelins & airships events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_objects_&_artifacts",
+        "fandom_title": "Zeppelins & airships objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_factions_&_groups",
+        "fandom_title": "Zeppelins & airships factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_concepts",
+        "fandom_title": "Zeppelins & airships concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_eras",
+        "fandom_title": "Zeppelins & airships eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_works_&_media",
+        "fandom_title": "Zeppelins & airships works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_symbols",
+        "fandom_title": "Zeppelins & airships symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_controversies",
+        "fandom_title": "Zeppelins & airships controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_geography",
+        "fandom_title": "Zeppelins & airships geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_legacy",
+        "fandom_title": "Zeppelins & airships legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_practices",
+        "fandom_title": "Zeppelins & airships practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_1",
+        "fandom_title": "Zeppelins & airships entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_2",
+        "fandom_title": "Zeppelins & airships entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_3",
+        "fandom_title": "Zeppelins & airships entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_4",
+        "fandom_title": "Zeppelins & airships entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_5",
+        "fandom_title": "Zeppelins & airships entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_6",
+        "fandom_title": "Zeppelins & airships entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_7",
+        "fandom_title": "Zeppelins & airships entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_8",
+        "fandom_title": "Zeppelins & airships entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_9",
+        "fandom_title": "Zeppelins & airships entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_10",
+        "fandom_title": "Zeppelins & airships entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_11",
+        "fandom_title": "Zeppelins & airships entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_12",
+        "fandom_title": "Zeppelins & airships entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_13",
+        "fandom_title": "Zeppelins & airships entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_14",
+        "fandom_title": "Zeppelins & airships entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_15",
+        "fandom_title": "Zeppelins & airships entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_16",
+        "fandom_title": "Zeppelins & airships entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_17",
+        "fandom_title": "Zeppelins & airships entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_18",
+        "fandom_title": "Zeppelins & airships entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_19",
+        "fandom_title": "Zeppelins & airships entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_20",
+        "fandom_title": "Zeppelins & airships entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_21",
+        "fandom_title": "Zeppelins & airships entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_22",
+        "fandom_title": "Zeppelins & airships entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_23",
+        "fandom_title": "Zeppelins & airships entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zeppelins-airships-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Zeppelins_&_airships_entry_24",
+        "fandom_title": "Zeppelins & airships entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Zeppelins & airships article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:19:16.385Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

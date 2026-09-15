@@ -592,7 +592,7 @@
       "parentSlug": "jojos-bizarre-adventure",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/jjba/images/4/47/Phantom_Blood_Joestar_Group.PNG/revision/latest/scale-to-width-down/360?cb=20190406124016",
+      "image_url": "https://static.wikia.nocookie.net/jjba/images/4/47/Phantom_Blood_Joestar_Group.PNG/revision/latest/scale-to-width-down/180?cb=20190406124016",
       "image_source": "https://jojo.fandom.com/wiki/Joestar_Group",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hirohiko Araki / Shueisha / David Production (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -2239,25 +2239,25 @@
       "slug": "foo-fighters",
       "name": "Foo Fighters",
       "type": "topic",
-      "description": "Alicia Vélez [https://www.animenewsnetwork.com/encyclopedia/people.php?id=153486 Vii Zedek]\n\nPlankton (Anasui)|ja_romaji=Fū Faitāzu|prisonerte=Six years in Green Dolphin Street Prison (Atroe)}}\n\nF.F. is a mix of Stand and Stand User; A colony of plankton that is organized, maintained by, and essentially equivalent to the Stand, Foo Fighters. At first serving Enrico Pucci/Whitesnake, they soon ally themself with Jolyne Cujoh out of gratitude for being spared.\n\nF.F. can change their appearance at any time. However, their habitual appearance is that of the prisoner Atroe, a woman of average height and slim build with hair or a cap covering her head in a mop or bob forming a serrated edge at its ends.",
+      "description": "Foo Fighters allows bundles of plankton to exist in a humanoid form. It adopts a personality, along with the nickname F.F.; siding with the allies of the story.\n\nFoo Fighters takes two main appearances. Naked, it is a tall, dark, robotic humanoid of masculine proportions, and an alien visage.\n\nLater, it maintains the appearance of the dead prisoner ; a woman of average height and slim build.\n\nAs F.F.'s identity develops due to its experiences with Jolyne Cujoh, the true form of its Stand takes on a more human appearance starting to resemble the body she took over while still retaining some of the features of its older form.",
       "short_description": "Alicia Vélez [https://www.animenewsnetwork.com/encyclopedia/people.php?id=153486 Vii Zedek]",
       "evidence": "fiction",
       "parentSlug": "jojos-bizarre-adventure",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/jjba/images/f/f8/FF_so_v04_066.png/revision/latest/scale-to-width-down/360?cb=20160327120951",
-      "image_source": "https://jojo.fandom.com/wiki/Foo_Fighters",
+      "image_url": "https://static.wikia.nocookie.net/jjba/images/4/4d/FooP.png/revision/latest/scale-to-width-down/180?cb=20170109053755",
+      "image_source": "https://jojo.fandom.com/wiki/Foo_Fighters_(Stand)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hirohiko Araki / Shueisha / David Production (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Foo Fighters",
+      "image_alt": "Identification thumbnail for Foo Fighters (Stand)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
         "kind": "topic",
-        "fandom_url": "https://jojo.fandom.com/wiki/Foo_Fighters",
-        "fandom_title": "Foo Fighters",
+        "fandom_url": "https://jojo.fandom.com/wiki/Foo_Fighters_(Stand)",
+        "fandom_title": "Foo Fighters (Stand)",
         "source_fandom": "jojo.fandom.com",
         "sources": [
           "fandom"
@@ -13125,6 +13125,35 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "joestar-mansion",
+      "name": "Joestar Mansion",
+      "type": "place",
+      "description": "The mansion had been the residence of British aristocrats for generations, but was burned down as a consequence of the fight between Jonathan Joestar and Dio.\n\nThe Joestar Mansion is a three-story building made out of bricks in typical fashion, resembling manors in the . It is flanked by two lesser buildings of unknown use. The residence is surrounded by a brick wall.\n\nThe main entrance is led up to by parallel sets of stairs. The doors open to a great hall with a recognizable chessboard-pattern tiling from which one set of stairs leads to the upper levels. The rooms include a bedroom for each resident, a dining room and a library.\n\nThe mansion is luxuriously decorated with carpets and sets of weapons and suits of armor. Its most distinctive decoration is a Statue of the Goddess of Love in the main hall, which served to impale Dio and imprison him in the burning mansion. The anime added a fountain to the exterior.",
+      "short_description": "The mansion had been the residence of British aristocrats for generations, but was burned down as a consequence of the fight between Jonathan Joestar and Dio.",
+      "evidence": "fiction",
+      "parentSlug": "jojos-bizarre-adventure",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/jjba/images/8/88/Joestarmansion2.png/revision/latest/scale-to-width-down/180?cb=20180411013005",
+      "image_source": "https://jojo.fandom.com/wiki/Joestar_Mansion",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hirohiko Araki / Shueisha / David Production (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Joestar Mansion",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://jojo.fandom.com/wiki/Joestar_Mansion",
+        "fandom_title": "Joestar Mansion",
+        "source_fandom": "jojo.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -16623,15 +16652,23 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "joestar-mansion",
+      "jojos-bizarre-adventure",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (jojo.fandom.com) for identification and commentary only. Character / franchise art © Hirohiko Araki / Shueisha / David Production (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-13T04:07:59.837Z",
+  "generated_at": "2026-09-14T19:56:32.567Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://jojo.fandom.com/wiki/",

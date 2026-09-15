@@ -4,7 +4,7 @@
       "slug": "leonardo",
       "description": "Fearless Leader Lame-o-nardo (by Raphael) Captain Leo Mr. Turtle (by ) Sensei Leo (by ) Hero Boy (by )\n\nLeonardo, often referred to as Leo, is one of the main protagonists of the and the leader of the . He is also the oldest of the four brothers, who all share a home in the underground sewers of Manhattan, New York City. Leonardo is the adoptive son and the second child of and adoptive brother of . He belongs to a diverse family consisting of three other mutant turtles who are his biological younger brothers: , , and . , a human-sized mutant rat, serves as the Turtles' adoptive father and sensei. This version of Leonardo was originally voiced by Jason Biggs from the series premiere until Season 2 Episode 19. Leo's voice\n\nLeo is a fern green colored anthropomorphic mutant turtle ninja warrior. His eyes have cobalt blue irises with black pupils, but like his brothers when they are shown fighting or being stealthy, they disappear, leaving his eyes white (similar to the 2003 incarnation). He wears a blue bandana mask (although he wears a black bandana in Broken Foot and Owari) where the tails length range between Donnie and Mikey's. Leo is the most skilled fighter, and he doesn't have much changes to his physical appearance like all his previous incarnations. His height ranges between Raph and Donnie's. His ninja gear includes diagonal straps, brown knee pads and elbow pads, and beige rolled bandages wrapped around his wrists, ankles and fingers. However, unlike previous incarnations, Leo's hands have two fingers and a thumb and three little toes (like his brothers) on his feet.\n\nLeo is arguably the most ninja-like of all the turtles. He is an enthusiastic ninjutsu prodigy who takes charge in leading the Turtles through their missions that take them from the darkest New York alley to the deepest reaches of outer space. He is a [https://en.wikipedia.org/wiki/Japanophilia Japanophile] for taking his ninja training the most serious of all his brothers, and for the interest he takes in Master Splinter's stories on his experience as a former ninja master and the cultural tales of his homeland. Because of his persevering dedication towards ninjutsu, and his level-headed discipline, and partly because he asked for it, Splinter wisely chose Leo to be the leader of the Turtles without hesitation. As Splinter explains, it's because his leadership abilities and skills \"doesn't come from the head, but from the heart.\"",
       "short_description": "Fearless Leader Lame-o-nardo (by Raphael) Captain Leo Mr. Turtle (by ) Sensei Leo (by ) Hero Boy (by )",
-      "image_url": "https://static.wikia.nocookie.net/tmnt/images/2/2e/Leonardo_TMNT%282012%29.png/revision/latest/scale-to-width-down/360?cb=20121227152338",
+      "image_url": "https://static.wikia.nocookie.net/tmnt/images/2/2e/Leonardo_TMNT%282012%29.png/revision/latest/scale-to-width-down/180?cb=20121227152338",
       "image_source": "https://turtlepedia.fandom.com/wiki/Leonardo_(2012_TV_series)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Mirage / Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -323,6 +323,11 @@
       "slug": "andre",
       "description": "André — sometimes transliterated as Andre — is the French and Portuguese form corresponding to the English name Andrew and is now also used in the English-speaking world. It is used in France, Quebec, Canada and other French-speaking countries, as well as in Portugal, Brazil and other Portuguese-speaking countries. It is a variation of the Greek name Andreas, a short form of any of various compound names derived from andr- 'man, warrior'.\n\nThe name is popular in Norway and Sweden.",
       "short_description": "André — sometimes transliterated as Andre — is the French and Portuguese form corresponding to the English name Andrew and is now also used in the English-speaking world. It is used in France, Quebec, Canada and other…"
+    },
+    {
+      "slug": "underworld",
+      "description": "The underworld, also known as the netherworld or hell, is the supernatural world of the dead in various religious traditions and myths, located below the world of the living. Chthonic is the technical adjective for things of the underworld.\n\nThe concept of an underworld is found in almost every civilization and \"may be as old as humanity itself\". Common features of underworld myths are accounts of living people making journeys to the underworld, often for some heroic purpose. Other myths reinforce traditions that the entrance of souls to the underworld requires a proper observation of ceremony, such as the ancient Greek story of the recently dead Patroclus haunting Achilles until his body could be properly buried for this purpose. People with high social status were dressed and equipped in order to better navigate the underworld.\n\nA number of mythologies incorporate the concept of the soul of the deceased making its own journey to the underworld, with the dead needing to be taken across a defining obstacle such as a lake or a river to reach this destination. Imagery of such journeys can be found in both ancient and modern art. The descent to the underworld has been described as \"the single most important myth for Modernist authors\".",
+      "short_description": "The underworld, also known as the netherworld or hell, is the supernatural world of the dead in various religious traditions and myths, located below the world of the living. Chthonic is the technical adjective for…"
     }
   ],
   "entities": [
@@ -5503,6 +5508,58 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "underworld",
+      "name": "Underworld",
+      "type": "place",
+      "description": "The underworld, also known as the netherworld or hell, is the supernatural world of the dead in various religious traditions and myths, located below the world of the living. Chthonic is the technical adjective for things of the underworld.\n\nThe concept of an underworld is found in almost every civilization and \"may be as old as humanity itself\". Common features of underworld myths are accounts of living people making journeys to the underworld, often for some heroic purpose. Other myths reinforce traditions that the entrance of souls to the underworld requires a proper observation of ceremony, such as the ancient Greek story of the recently dead Patroclus haunting Achilles until his body could be properly buried for this purpose. People with high social status were dressed and equipped in order to better navigate the underworld.\n\nA number of mythologies incorporate the concept of the soul of the deceased making its own journey to the underworld, with the dead needing to be taken across a defining obstacle such as a lake or a river to reach this destination. Imagery of such journeys can be found in both ancient and modern art. The descent to the underworld has been described as \"the single most important myth for Modernist authors\".",
+      "short_description": "The underworld, also known as the netherworld or hell, is the supernatural world of the dead in various religious traditions and myths, located below the world of the living. Chthonic is the technical adjective for…",
+      "evidence": "fiction",
+      "parentSlug": "teenage-mutant-ninja-turtles",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://turtlepedia.fandom.com/wiki/Underworld",
+        "fandom_title": "Underworld",
+        "source_fandom": "turtlepedia.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "flower-society-club-1987-tv-series",
+      "name": "Flower Society Club",
+      "type": "organization",
+      "description": "The Flower Society Club, also called the \"Flower Lovers Society\" is an organization naming recently discovered flowers. It appears in the episode Raphael Versus the Volcano of the 1987 TV series. Its president is LaVerne Portside. Category:Organizations",
+      "short_description": "The Flower Society Club, also called the \"Flower Lovers Society\" is an organization naming recently discovered flowers. It appears in the episode Raphael Versus the Volcano of the 1987 TV series. Its president is…",
+      "evidence": "fiction",
+      "parentSlug": "teenage-mutant-ninja-turtles",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/tmnt/images/8/8a/Flower_Lovers_Society-1987-S05E10.png/revision/latest/scale-to-width-down/180?cb=20230629202011",
+      "image_source": "https://turtlepedia.fandom.com/wiki/Flower_Society_Club_(1987_TV_series)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Mirage / Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Flower Society Club (1987 TV series)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://turtlepedia.fandom.com/wiki/Flower_Society_Club_(1987_TV_series)",
+        "fandom_title": "Flower Society Club (1987 TV series)",
+        "source_fandom": "turtlepedia.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -6945,15 +7002,31 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "underworld",
+      "teenage-mutant-ninja-turtles",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "flower-society-club-1987-tv-series",
+      "teenage-mutant-ninja-turtles",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (turtlepedia.fandom.com) for identification and commentary only. Character / franchise art © Mirage / Nickelodeon / Paramount (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-13T04:17:07.700Z",
+  "generated_at": "2026-09-14T19:59:29.205Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://turtlepedia.fandom.com/wiki/",
@@ -6965,7 +7038,7 @@
     "fandom_created": 1,
     "fandom_images": 1,
     "fandom_intros": 1,
-    "description_ensure_at": "2026-09-12T06:37:15.760Z",
-    "description_ensure_count": 2
+    "description_ensure_at": "2026-09-14T19:58:48.376Z",
+    "description_ensure_count": 1
   }
 }

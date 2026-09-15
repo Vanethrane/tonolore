@@ -1,0 +1,502 @@
+{
+  "enrichments": [
+    {
+      "slug": "bermuda-triangle",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle",
+        "fandom_title": "Bermuda Triangle",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "The Bermuda Triangle, also known as the Devil's Triangle, is a loosely defined region in the North Atlantic Ocean, roughly bounded by Florida, Bermuda, and Puerto Rico. Since the mid-20th century, it has been the focus of an urban legend suggesting that many aircraft, ships, and people have disappeared there under mysterious circumstances. However, extensive investigations by reputable sources, including the U.S. federal government and scientific organizations, have found no evidence of unusual activity, attributing reported incidents to natural phenomena, human error, and misinterpretation.\n\nwith the Associated Press article of 17 September 1950]] Although the nearby Sargasso Sea already had a reputation as a mysterious region where ships may become lost, the earliest suggestion of unusual disappearances in the Bermuda area appeared in an article written by Edward Van Winkle Jones of the Miami Herald that was distributed by the Associated Press and appeared in various American newspapers on 17 September 1950.\n\nTwo years later, Fate magazine published \"Sea Mystery at Our Back Door\": a short article, by George X. Sand, that was the first to lay out the now-familiar triangular area where the losses took place.}} the December 1945 loss of Flight 19, a group of five US Navy torpedo bombers on a training mission; the March 1948 disappearance of a fishing skiff with three men, including jockey Albert Snider;}} the December 1948 disappearance of an Airborne Transport DC-3 charter flight en route from Puerto Rico to Miami; and the January 1949 disappearance of Star Ariel, another BSAA passenger airplane.\n\nFlight 19 was covered again in the April 1962 issue of The American Legion Magazine. In February 1964, Vincent Gaddis wrote an article called \"The Deadly Bermuda Triangle\" in Argosy saying Flight 19 and other disappearances were part of a pattern of strange events in the region, dating back to at least 1840. The next year, Gaddis expanded this article into a book, Invisible Horizons.",
+      "short_description": "The Bermuda Triangle, also known as the Devil's Triangle, is a loosely defined region in the North Atlantic Ocean, roughly bounded by Florida, Bermuda, and Puerto Rico. Since the mid-20th century, it has been the focus…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Bermuda_Triangle.png/180px-Bermuda_Triangle.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Bermuda_Triangle",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Bermuda Triangle article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Bermuda Triangle"
+    },
+    {
+      "slug": "bermuda-triangle-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_figures",
+        "fandom_title": "Bermuda Triangle figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_world_&_context",
+        "fandom_title": "Bermuda Triangle world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_places",
+        "fandom_title": "Bermuda Triangle places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_events",
+        "fandom_title": "Bermuda Triangle events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_objects_&_artifacts",
+        "fandom_title": "Bermuda Triangle objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_factions_&_groups",
+        "fandom_title": "Bermuda Triangle factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_concepts",
+        "fandom_title": "Bermuda Triangle concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_eras",
+        "fandom_title": "Bermuda Triangle eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_works_&_media",
+        "fandom_title": "Bermuda Triangle works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_symbols",
+        "fandom_title": "Bermuda Triangle symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_controversies",
+        "fandom_title": "Bermuda Triangle controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_geography",
+        "fandom_title": "Bermuda Triangle geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_legacy",
+        "fandom_title": "Bermuda Triangle legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_practices",
+        "fandom_title": "Bermuda Triangle practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_1",
+        "fandom_title": "Bermuda Triangle entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_2",
+        "fandom_title": "Bermuda Triangle entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_3",
+        "fandom_title": "Bermuda Triangle entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_4",
+        "fandom_title": "Bermuda Triangle entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_5",
+        "fandom_title": "Bermuda Triangle entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_6",
+        "fandom_title": "Bermuda Triangle entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_7",
+        "fandom_title": "Bermuda Triangle entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_8",
+        "fandom_title": "Bermuda Triangle entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_9",
+        "fandom_title": "Bermuda Triangle entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_10",
+        "fandom_title": "Bermuda Triangle entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_11",
+        "fandom_title": "Bermuda Triangle entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_12",
+        "fandom_title": "Bermuda Triangle entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_13",
+        "fandom_title": "Bermuda Triangle entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_14",
+        "fandom_title": "Bermuda Triangle entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_15",
+        "fandom_title": "Bermuda Triangle entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_16",
+        "fandom_title": "Bermuda Triangle entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_17",
+        "fandom_title": "Bermuda Triangle entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_18",
+        "fandom_title": "Bermuda Triangle entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_19",
+        "fandom_title": "Bermuda Triangle entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_20",
+        "fandom_title": "Bermuda Triangle entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_21",
+        "fandom_title": "Bermuda Triangle entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_22",
+        "fandom_title": "Bermuda Triangle entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_23",
+        "fandom_title": "Bermuda Triangle entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bermuda-triangle-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle_entry_24",
+        "fandom_title": "Bermuda Triangle entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Bermuda Triangle article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:35:08.334Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

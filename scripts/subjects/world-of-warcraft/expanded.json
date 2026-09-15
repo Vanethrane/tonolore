@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T04:02:58.447Z",
+  "generated_at": "2026-09-14T19:51:05.667Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (wowpedia.fandom.com) for identification and commentary only. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -312,7 +312,7 @@
         "fandom_preferred_image": true
       },
       "short_description": "Gul'dan was an orc who was cast out of his clan for his physical weakness, and agreed to a secret alliance with the Burning Legion in exchange to wield fel magic. The first warlock, he seeks to spread his influence —…",
-      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/5/56/Harbingers_Gul%27dan_1.jpg/revision/latest/scale-to-width-down/360?cb=20160722112946",
+      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/5/56/Harbingers_Gul%27dan_1.jpg/revision/latest/scale-to-width-down/180?cb=20160722112946",
       "image_source": "https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -65193,8 +65193,8 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Zones_by_level_(Battle_for_Azeroth)",
-        "fandom_title": "Zones by level (Battle for Azeroth)",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Zones_by_level",
+        "fandom_title": "Zones by level",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"

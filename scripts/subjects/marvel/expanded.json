@@ -359,6 +359,11 @@
       "slug": "100th-street",
       "description": "100th Street may refer to:\n\n100th Street (Manhattan)\n\n100th Street Depot\n\n100th Street, a street in Los Angeles, California\n\nCalle 100 (Havana), 100th Street in english, street in Havana, Cuba",
       "short_description": "100th Street may refer to:"
+    },
+    {
+      "slug": "adrian-toomes-earth-8408",
+      "description": "The originator of the costume and identity was elderly businessman and inventor Adrian Toomes. After being swindled out of his company and its profits, he used the flight-enabling harness he had been working on to start a life of crime as the Vulture.\n\nRaniero \"Blackie\" Drago was a common crook that shared a cell with Adrian Toomes during one of his many trips to jail. Drago managed to trick Toomes into revealing the location of his spare suits, and after breaking out of prison, Drago took Toomes' suits and used them to commit robberies.\n\nClifton Shallot was an academic who transformed himself into a duplicate of the original Vulture, but with genuine wings and talons.\n\nJimmy Natale was a fixer for the mob until he was forced to to undergo a procedure that turned him into the Vulture.",
+      "short_description": "The originator of the costume and identity was elderly businessman and inventor Adrian Toomes. After being swindled out of his company and its profits, he used the flight-enabling harness he had been working on to start…"
     }
   ],
   "entities": [
@@ -25186,6 +25191,121 @@
         ]
       },
       "short_description": "100th Street may refer to:"
+    },
+    {
+      "slug": "adrian-toomes-earth-8408",
+      "name": "Adrian Toomes",
+      "type": "person",
+      "description": "The originator of the costume and identity was elderly businessman and inventor Adrian Toomes. After being swindled out of his company and its profits, he used the flight-enabling harness he had been working on to start a life of crime as the Vulture.\n\nRaniero \"Blackie\" Drago was a common crook that shared a cell with Adrian Toomes during one of his many trips to jail. Drago managed to trick Toomes into revealing the location of his spare suits, and after breaking out of prison, Drago took Toomes' suits and used them to commit robberies.\n\nClifton Shallot was an academic who transformed himself into a duplicate of the original Vulture, but with genuine wings and talons.\n\nJimmy Natale was a fixer for the mob until he was forced to to undergo a procedure that turned him into the Vulture.",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/d/d7/Adrian_Toomes_%28Earth-8408%29_from_What_If%3F_Vol_1_46_001.jpg/revision/latest/scale-to-width-down/180?cb=20210810051033",
+      "image_source": "https://marvel.fandom.com/wiki/Adrian_Toomes_(Earth-8408)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Adrian Toomes (Earth-8408)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://marvel.fandom.com/wiki/Adrian_Toomes_(Earth-8408)",
+        "fandom_title": "Adrian Toomes (Earth-8408)",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": "The originator of the costume and identity was elderly businessman and inventor Adrian Toomes. After being swindled out of his company and its profits, he used the flight-enabling harness he had been working on to start…"
+    },
+    {
+      "slug": "18th-kree-diplomatic-gestalt-earth-21220",
+      "name": "18th Kree Diplomatic Gestalt",
+      "type": "organization",
+      "description": "It is unknown if the two teams met and confronted.",
+      "short_description": "It is unknown if the two teams met and confronted.",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/f/f0/Earth-21220_from_Marvel_Boy_Vol_2_5_0001.png/revision/latest/scale-to-width-down/180?cb=20200802090534",
+      "image_source": "https://marvel.fandom.com/wiki/18th_Kree_Diplomatic_Gestalt_(Earth-21220)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 18th Kree Diplomatic Gestalt (Earth-21220)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://marvel.fandom.com/wiki/18th_Kree_Diplomatic_Gestalt_(Earth-21220)",
+        "fandom_title": "18th Kree Diplomatic Gestalt (Earth-21220)",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "103rd-street-brooklyn",
+      "name": "103rd Street",
+      "type": "place",
+      "description": "Later, Rage and the New Warriors broke into the back of the deli located on this street, to look for clues regarding the Sons of the Serpent. There they found the suits belonging to the racist group and a note, which made them find out about the meeting planned that night by Kryzewski in the Richmond Building.",
+      "short_description": "Later, Rage and the New Warriors broke into the back of the deli located on this street, to look for clues regarding the Sons of the Serpent. There they found the suits belonging to the racist group and a note, which…",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/ce/103rd_Street_%28Brooklyn%29_from_Avengers_Vol_1_341_001.png/revision/latest/scale-to-width-down/180?cb=20171202185402",
+      "image_source": "https://marvel.fandom.com/wiki/103rd_Street_(Brooklyn)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 103rd Street (Brooklyn)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://marvel.fandom.com/wiki/103rd_Street_(Brooklyn)",
+        "fandom_title": "103rd Street (Brooklyn)",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "field-grapples",
+      "name": "'Field-Grapples",
+      "type": "object",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "marvel",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marveldatabase/images/c/cd/%27Field-Grapples_from_Spider-Boy_Team-Up_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/180?cb=20220530073719",
+      "image_source": "https://marvel.fandom.com/wiki/%27Field-Grapples",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 'Field-Grapples",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "item",
+        "fandom_url": "https://marvel.fandom.com/wiki/%27Field-Grapples",
+        "fandom_title": "'Field-Grapples",
+        "source_fandom": "marvel.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -32412,27 +32532,59 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "adrian-toomes-earth-8408",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "18th-kree-diplomatic-gestalt-earth-21220",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "103rd-street-brooklyn",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "field-grapples",
+      "marvel",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (marvel.fandom.com) for identification and commentary only. Character / franchise art © Marvel Comics / Disney (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-13T03:43:47.111Z",
+  "generated_at": "2026-09-14T18:34:15.921Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://marvel.fandom.com/wiki/",
     "host": "marvel.fandom.com"
   },
   "stats": {
-    "fandom_titles": 1,
+    "fandom_titles": 0,
     "fandom_enriched_core": 0,
-    "fandom_created": 1,
-    "fandom_images": 1,
+    "fandom_created": 0,
+    "fandom_images": 0,
     "fandom_intros": 0,
-    "description_ensure_at": "2026-09-13T03:44:04.762Z",
-    "description_ensure_count": 5
+    "description_ensure_at": "2026-09-14T18:33:39.991Z",
+    "description_ensure_count": 4
   }
 }

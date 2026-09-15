@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "the-daily-podcast",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Daily",
+        "fandom_title": "Daily",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_figures",
+        "fandom_title": "The Daily figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_world_&_context",
+        "fandom_title": "The Daily world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_places",
+        "fandom_title": "The Daily places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_events",
+        "fandom_title": "The Daily events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_objects_&_artifacts",
+        "fandom_title": "The Daily objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_factions_&_groups",
+        "fandom_title": "The Daily factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_concepts",
+        "fandom_title": "The Daily concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_eras",
+        "fandom_title": "The Daily eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_works_&_media",
+        "fandom_title": "The Daily works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_symbols",
+        "fandom_title": "The Daily symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_controversies",
+        "fandom_title": "The Daily controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_geography",
+        "fandom_title": "The Daily geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_legacy",
+        "fandom_title": "The Daily legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_practices",
+        "fandom_title": "The Daily practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_1",
+        "fandom_title": "The Daily entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_2",
+        "fandom_title": "The Daily entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_3",
+        "fandom_title": "The Daily entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_4",
+        "fandom_title": "The Daily entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_5",
+        "fandom_title": "The Daily entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_6",
+        "fandom_title": "The Daily entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_7",
+        "fandom_title": "The Daily entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_8",
+        "fandom_title": "The Daily entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_9",
+        "fandom_title": "The Daily entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_10",
+        "fandom_title": "The Daily entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_11",
+        "fandom_title": "The Daily entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_12",
+        "fandom_title": "The Daily entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_13",
+        "fandom_title": "The Daily entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_14",
+        "fandom_title": "The Daily entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_15",
+        "fandom_title": "The Daily entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_16",
+        "fandom_title": "The Daily entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_17",
+        "fandom_title": "The Daily entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_18",
+        "fandom_title": "The Daily entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_19",
+        "fandom_title": "The Daily entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_20",
+        "fandom_title": "The Daily entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_21",
+        "fandom_title": "The Daily entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_22",
+        "fandom_title": "The Daily entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_23",
+        "fandom_title": "The Daily entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-daily-podcast-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Daily_entry_24",
+        "fandom_title": "The Daily entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. The Daily article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:40:25.746Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

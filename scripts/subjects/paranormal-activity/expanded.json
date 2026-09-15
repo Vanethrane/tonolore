@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "paranormal-activity",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity",
+        "fandom_title": "Paranormal Activity",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_figures",
+        "fandom_title": "Paranormal Activity figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_world_&_context",
+        "fandom_title": "Paranormal Activity world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_places",
+        "fandom_title": "Paranormal Activity places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_events",
+        "fandom_title": "Paranormal Activity events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_objects_&_artifacts",
+        "fandom_title": "Paranormal Activity objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_factions_&_groups",
+        "fandom_title": "Paranormal Activity factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_concepts",
+        "fandom_title": "Paranormal Activity concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_eras",
+        "fandom_title": "Paranormal Activity eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_works_&_media",
+        "fandom_title": "Paranormal Activity works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_symbols",
+        "fandom_title": "Paranormal Activity symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_controversies",
+        "fandom_title": "Paranormal Activity controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_geography",
+        "fandom_title": "Paranormal Activity geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_legacy",
+        "fandom_title": "Paranormal Activity legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_practices",
+        "fandom_title": "Paranormal Activity practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_1",
+        "fandom_title": "Paranormal Activity entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_2",
+        "fandom_title": "Paranormal Activity entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_3",
+        "fandom_title": "Paranormal Activity entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_4",
+        "fandom_title": "Paranormal Activity entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_5",
+        "fandom_title": "Paranormal Activity entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_6",
+        "fandom_title": "Paranormal Activity entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_7",
+        "fandom_title": "Paranormal Activity entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_8",
+        "fandom_title": "Paranormal Activity entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_9",
+        "fandom_title": "Paranormal Activity entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_10",
+        "fandom_title": "Paranormal Activity entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_11",
+        "fandom_title": "Paranormal Activity entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_12",
+        "fandom_title": "Paranormal Activity entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_13",
+        "fandom_title": "Paranormal Activity entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_14",
+        "fandom_title": "Paranormal Activity entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_15",
+        "fandom_title": "Paranormal Activity entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_16",
+        "fandom_title": "Paranormal Activity entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_17",
+        "fandom_title": "Paranormal Activity entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_18",
+        "fandom_title": "Paranormal Activity entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_19",
+        "fandom_title": "Paranormal Activity entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_20",
+        "fandom_title": "Paranormal Activity entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_21",
+        "fandom_title": "Paranormal Activity entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_22",
+        "fandom_title": "Paranormal Activity entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_23",
+        "fandom_title": "Paranormal Activity entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-activity-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Activity_entry_24",
+        "fandom_title": "Paranormal Activity entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Paranormal Activity article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:16:31.636Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

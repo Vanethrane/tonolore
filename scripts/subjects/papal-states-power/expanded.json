@@ -1,0 +1,500 @@
+{
+  "enrichments": [
+    {
+      "slug": "papal-states-power",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Tiara_of_Pope_Pius_IX%2C_1854.jpg/180px-Tiara_of_Pope_Pius_IX%2C_1854.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Temporal_power_of_the_Holy_See",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Papal temporal power article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Temporal power of the Holy See",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Temporal_power_of_the_Holy_See",
+        "fandom_title": "Temporal power of the Holy See",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      }
+    },
+    {
+      "slug": "papal-states-power-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_figures",
+        "fandom_title": "Papal temporal power figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_world_&_context",
+        "fandom_title": "Papal temporal power world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_places",
+        "fandom_title": "Papal temporal power places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_events",
+        "fandom_title": "Papal temporal power events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_objects_&_artifacts",
+        "fandom_title": "Papal temporal power objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_factions_&_groups",
+        "fandom_title": "Papal temporal power factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_concepts",
+        "fandom_title": "Papal temporal power concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_eras",
+        "fandom_title": "Papal temporal power eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_works_&_media",
+        "fandom_title": "Papal temporal power works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_symbols",
+        "fandom_title": "Papal temporal power symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_controversies",
+        "fandom_title": "Papal temporal power controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_geography",
+        "fandom_title": "Papal temporal power geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_legacy",
+        "fandom_title": "Papal temporal power legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_practices",
+        "fandom_title": "Papal temporal power practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_1",
+        "fandom_title": "Papal temporal power entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_2",
+        "fandom_title": "Papal temporal power entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_3",
+        "fandom_title": "Papal temporal power entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_4",
+        "fandom_title": "Papal temporal power entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_5",
+        "fandom_title": "Papal temporal power entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_6",
+        "fandom_title": "Papal temporal power entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_7",
+        "fandom_title": "Papal temporal power entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_8",
+        "fandom_title": "Papal temporal power entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_9",
+        "fandom_title": "Papal temporal power entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_10",
+        "fandom_title": "Papal temporal power entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_11",
+        "fandom_title": "Papal temporal power entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_12",
+        "fandom_title": "Papal temporal power entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_13",
+        "fandom_title": "Papal temporal power entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_14",
+        "fandom_title": "Papal temporal power entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_15",
+        "fandom_title": "Papal temporal power entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_16",
+        "fandom_title": "Papal temporal power entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_17",
+        "fandom_title": "Papal temporal power entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_18",
+        "fandom_title": "Papal temporal power entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_19",
+        "fandom_title": "Papal temporal power entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_20",
+        "fandom_title": "Papal temporal power entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_21",
+        "fandom_title": "Papal temporal power entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_22",
+        "fandom_title": "Papal temporal power entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_23",
+        "fandom_title": "Papal temporal power entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papal-states-power-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Papal_temporal_power_entry_24",
+        "fandom_title": "Papal temporal power entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Papal temporal power article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:03:22.280Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

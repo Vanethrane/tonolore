@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "alien-movies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)",
+        "fandom_title": "Alien (movies)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_figures",
+        "fandom_title": "Alien (movies) figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_world_&_context",
+        "fandom_title": "Alien (movies) world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_places",
+        "fandom_title": "Alien (movies) places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_events",
+        "fandom_title": "Alien (movies) events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_objects_&_artifacts",
+        "fandom_title": "Alien (movies) objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_factions_&_groups",
+        "fandom_title": "Alien (movies) factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_concepts",
+        "fandom_title": "Alien (movies) concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_eras",
+        "fandom_title": "Alien (movies) eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_works_&_media",
+        "fandom_title": "Alien (movies) works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_symbols",
+        "fandom_title": "Alien (movies) symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_controversies",
+        "fandom_title": "Alien (movies) controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_geography",
+        "fandom_title": "Alien (movies) geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_legacy",
+        "fandom_title": "Alien (movies) legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_practices",
+        "fandom_title": "Alien (movies) practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_1",
+        "fandom_title": "Alien (movies) entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_2",
+        "fandom_title": "Alien (movies) entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_3",
+        "fandom_title": "Alien (movies) entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_4",
+        "fandom_title": "Alien (movies) entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_5",
+        "fandom_title": "Alien (movies) entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_6",
+        "fandom_title": "Alien (movies) entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_7",
+        "fandom_title": "Alien (movies) entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_8",
+        "fandom_title": "Alien (movies) entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_9",
+        "fandom_title": "Alien (movies) entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_10",
+        "fandom_title": "Alien (movies) entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_11",
+        "fandom_title": "Alien (movies) entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_12",
+        "fandom_title": "Alien (movies) entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_13",
+        "fandom_title": "Alien (movies) entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_14",
+        "fandom_title": "Alien (movies) entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_15",
+        "fandom_title": "Alien (movies) entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_16",
+        "fandom_title": "Alien (movies) entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_17",
+        "fandom_title": "Alien (movies) entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_18",
+        "fandom_title": "Alien (movies) entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_19",
+        "fandom_title": "Alien (movies) entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_20",
+        "fandom_title": "Alien (movies) entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_21",
+        "fandom_title": "Alien (movies) entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_22",
+        "fandom_title": "Alien (movies) entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_23",
+        "fandom_title": "Alien (movies) entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-movies-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_(movies)_entry_24",
+        "fandom_title": "Alien (movies) entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Alien (movies) article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:50:04.711Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

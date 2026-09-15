@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "snow-crash-lore",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash",
+        "fandom_title": "Snow Crash",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_figures",
+        "fandom_title": "Snow Crash figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_world_&_context",
+        "fandom_title": "Snow Crash world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_places",
+        "fandom_title": "Snow Crash places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_events",
+        "fandom_title": "Snow Crash events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_objects_&_artifacts",
+        "fandom_title": "Snow Crash objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_factions_&_groups",
+        "fandom_title": "Snow Crash factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_concepts",
+        "fandom_title": "Snow Crash concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_eras",
+        "fandom_title": "Snow Crash eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_works_&_media",
+        "fandom_title": "Snow Crash works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_symbols",
+        "fandom_title": "Snow Crash symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_controversies",
+        "fandom_title": "Snow Crash controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_geography",
+        "fandom_title": "Snow Crash geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_legacy",
+        "fandom_title": "Snow Crash legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_practices",
+        "fandom_title": "Snow Crash practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_1",
+        "fandom_title": "Snow Crash entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_2",
+        "fandom_title": "Snow Crash entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_3",
+        "fandom_title": "Snow Crash entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_4",
+        "fandom_title": "Snow Crash entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_5",
+        "fandom_title": "Snow Crash entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_6",
+        "fandom_title": "Snow Crash entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_7",
+        "fandom_title": "Snow Crash entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_8",
+        "fandom_title": "Snow Crash entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_9",
+        "fandom_title": "Snow Crash entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_10",
+        "fandom_title": "Snow Crash entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_11",
+        "fandom_title": "Snow Crash entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_12",
+        "fandom_title": "Snow Crash entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_13",
+        "fandom_title": "Snow Crash entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_14",
+        "fandom_title": "Snow Crash entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_15",
+        "fandom_title": "Snow Crash entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_16",
+        "fandom_title": "Snow Crash entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_17",
+        "fandom_title": "Snow Crash entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_18",
+        "fandom_title": "Snow Crash entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_19",
+        "fandom_title": "Snow Crash entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_20",
+        "fandom_title": "Snow Crash entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_21",
+        "fandom_title": "Snow Crash entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_22",
+        "fandom_title": "Snow Crash entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_23",
+        "fandom_title": "Snow Crash entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snow-crash-lore-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Snow_Crash_entry_24",
+        "fandom_title": "Snow Crash entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Snow Crash article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:29:47.331Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

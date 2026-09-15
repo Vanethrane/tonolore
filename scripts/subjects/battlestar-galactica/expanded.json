@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "battlestar-galactica",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica",
+        "fandom_title": "Battlestar Galactica",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_figures",
+        "fandom_title": "Battlestar Galactica figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_world_&_context",
+        "fandom_title": "Battlestar Galactica world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_places",
+        "fandom_title": "Battlestar Galactica places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_events",
+        "fandom_title": "Battlestar Galactica events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_objects_&_artifacts",
+        "fandom_title": "Battlestar Galactica objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_factions_&_groups",
+        "fandom_title": "Battlestar Galactica factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_concepts",
+        "fandom_title": "Battlestar Galactica concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_eras",
+        "fandom_title": "Battlestar Galactica eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_works_&_media",
+        "fandom_title": "Battlestar Galactica works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_symbols",
+        "fandom_title": "Battlestar Galactica symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_controversies",
+        "fandom_title": "Battlestar Galactica controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_geography",
+        "fandom_title": "Battlestar Galactica geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_legacy",
+        "fandom_title": "Battlestar Galactica legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_practices",
+        "fandom_title": "Battlestar Galactica practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_1",
+        "fandom_title": "Battlestar Galactica entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_2",
+        "fandom_title": "Battlestar Galactica entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_3",
+        "fandom_title": "Battlestar Galactica entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_4",
+        "fandom_title": "Battlestar Galactica entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_5",
+        "fandom_title": "Battlestar Galactica entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_6",
+        "fandom_title": "Battlestar Galactica entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_7",
+        "fandom_title": "Battlestar Galactica entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_8",
+        "fandom_title": "Battlestar Galactica entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_9",
+        "fandom_title": "Battlestar Galactica entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_10",
+        "fandom_title": "Battlestar Galactica entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_11",
+        "fandom_title": "Battlestar Galactica entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_12",
+        "fandom_title": "Battlestar Galactica entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_13",
+        "fandom_title": "Battlestar Galactica entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_14",
+        "fandom_title": "Battlestar Galactica entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_15",
+        "fandom_title": "Battlestar Galactica entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_16",
+        "fandom_title": "Battlestar Galactica entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_17",
+        "fandom_title": "Battlestar Galactica entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_18",
+        "fandom_title": "Battlestar Galactica entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_19",
+        "fandom_title": "Battlestar Galactica entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_20",
+        "fandom_title": "Battlestar Galactica entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_21",
+        "fandom_title": "Battlestar Galactica entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_22",
+        "fandom_title": "Battlestar Galactica entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_23",
+        "fandom_title": "Battlestar Galactica entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battlestar-galactica-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_entry_24",
+        "fandom_title": "Battlestar Galactica entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Battlestar Galactica article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:27:34.448Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

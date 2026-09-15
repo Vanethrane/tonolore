@@ -1,0 +1,461 @@
+{
+  "enrichments": [
+    {
+      "slug": "bleach",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Clorox_Bleach_products.jpg/180px-Clorox_Bleach_products.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Bleach",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Bleach article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Bleach",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bleach",
+        "fandom_title": "Bleach",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      }
+    },
+    {
+      "slug": "bleach-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bleach_figures",
+        "fandom_title": "Bleach figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bleach-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bleach_world_&_context",
+        "fandom_title": "Bleach world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "renji-abarai",
+      "name": "Renji Abarai",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bleach-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Renji_Abarai",
+        "fandom_title": "Renji Abarai",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sousuke-aizen",
+      "name": "Sousuke Aizen",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bleach-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Sousuke_Aizen",
+        "fandom_title": "Sousuke Aizen",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "toshiro-hitsugaya",
+      "name": "Tōshirō Hitsugaya",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bleach-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/T%C5%8Dshir%C5%8D_Hitsugaya",
+        "fandom_title": "Tōshirō Hitsugaya",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "orihime-inoue",
+      "name": "Orihime Inoue",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bleach-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Orihime_Inoue",
+        "fandom_title": "Orihime Inoue",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "byakuya-kuchiki",
+      "name": "Byakuya Kuchiki",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bleach-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Byakuya_Kuchiki",
+        "fandom_title": "Byakuya Kuchiki",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rukia-kuchiki",
+      "name": "Rukia Kuchiki",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bleach-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Rukia_Kuchiki",
+        "fandom_title": "Rukia Kuchiki",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ichigo-kurosaki",
+      "name": "Ichigo Kurosaki",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bleach-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ichigo_Kurosaki",
+        "fandom_title": "Ichigo Kurosaki",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mayuri-kurotsuchi",
+      "name": "Mayuri Kurotsuchi",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bleach-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mayuri_Kurotsuchi",
+        "fandom_title": "Mayuri Kurotsuchi",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "yasutora-sado",
+      "name": "Yasutora Sado",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bleach-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Yasutora_Sado",
+        "fandom_title": "Yasutora Sado",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "yoruichi-shihoin",
+      "name": "Yoruichi Shihōin",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bleach-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Yoruichi_Shih%C5%8Din",
+        "fandom_title": "Yoruichi Shihōin",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kenpachi-zaraki",
+      "name": "Kenpachi Zaraki",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bleach-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Kenpachi_Zaraki",
+        "fandom_title": "Kenpachi Zaraki",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "list-of-hollows-in-bleach",
+      "name": "List of Hollows in Bleach",
+      "type": "person",
+      "description": "In the fictional Bleach manga/anime universe, a |Horō}} is a type of monstrous lost soul who can harm both ghosts and humans. Many of the series' antagonists are hollows. Some hollows possess characteristics that are similar to those of a Soul Reaper (a death-related entity), these Hollows are called ||Arankaru|from Spanish arrancar \"to tear off,\" kanji translates as \"broken mask\"}} . One of the series' main storylines has Sousuke Aizen (the primary antagonist for the majority of the series) and his arrancar (particularly the ten strongest Espadas) as the force opposing the protagonists.\n\nThe creator of the series, Tite Kubo, used many Spanish motifs for the series' hollow-related elements. The fictional creatures have been praised by reviewers for the early hollows' strong emotional ties to their victims and the \"interesting\" concept of the arrancar. The visual appearance of the characters has also been commented on.\n\nIn the Bleach universe, a is a monstrous soul-eating spirit that results when a deceased soul is consumed by negative emotions or is forcibly converted by other hollows. All hollows have masks attached to their faces and a hollow hole somewhere on their bodies; they also have a tendency to attack those who were close to them in their human lives, which they superficially have no recollection of. Hollows possess individual reishi and intensify it through devouring any soul they come across. The 2018 film elaborates that the hollows had played a role in the concepts of the mythological creatures like Yokai.\n\nAn arrancar is a hollow which has gained Soul Reaper-like characteristics through the removal of its mask, thus resulting in an increased combat versatility and more humanoid appearance. The transformation of a hollow into an arrancar can occur either naturally or artificially, but there is little information on process that occurs. The arrancar affiliated with Aizen wear distinctive white uniforms. They retain the Mexican aesthetic borne by hollows, and according to Tite Kubo, many of them are named after real life architects and designers. The arrancars (except the ten Espadas) are given individual numbers which are based on the order of their birth (starting at the number 11); most arrancars are labeled as part of the |Numerosu|Spanish for \"Numbers\", Japanese translates as \"Number Holders\"}}.",
+      "evidence": "fiction",
+      "parentSlug": "bleach-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/List_of_Hollows_in_Bleach",
+        "fandom_title": "List of Hollows in Bleach",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": "In the fictional Bleach manga/anime universe, a |Horō}} is a type of monstrous lost soul who can harm both ghosts and humans. Many of the series' antagonists are hollows. Some hollows possess characteristics that are…"
+    },
+    {
+      "slug": "list-of-bleach-characters",
+      "name": "List of Bleach characters",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bleach-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/List_of_Bleach_characters",
+        "fandom_title": "List of Bleach characters",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "renji-abarai",
+      "bleach-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "sousuke-aizen",
+      "bleach-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "toshiro-hitsugaya",
+      "bleach-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "orihime-inoue",
+      "bleach-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "byakuya-kuchiki",
+      "bleach-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "rukia-kuchiki",
+      "bleach-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ichigo-kurosaki",
+      "bleach-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mayuri-kurotsuchi",
+      "bleach-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "yasutora-sado",
+      "bleach-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "yoruichi-shihoin",
+      "bleach-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "kenpachi-zaraki",
+      "bleach-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "list-of-hollows-in-bleach",
+      "bleach-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "list-of-bleach-characters",
+      "bleach-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Bleach article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:27:16.519Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 1,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 1
+  }
+}

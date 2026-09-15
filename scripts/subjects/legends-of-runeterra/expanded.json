@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "legends-of-runeterra",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra",
+        "fandom_title": "Legends of Runeterra",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_figures",
+        "fandom_title": "Legends of Runeterra figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_world_&_context",
+        "fandom_title": "Legends of Runeterra world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_places",
+        "fandom_title": "Legends of Runeterra places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_events",
+        "fandom_title": "Legends of Runeterra events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_objects_&_artifacts",
+        "fandom_title": "Legends of Runeterra objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_factions_&_groups",
+        "fandom_title": "Legends of Runeterra factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_concepts",
+        "fandom_title": "Legends of Runeterra concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_eras",
+        "fandom_title": "Legends of Runeterra eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_works_&_media",
+        "fandom_title": "Legends of Runeterra works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_symbols",
+        "fandom_title": "Legends of Runeterra symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_controversies",
+        "fandom_title": "Legends of Runeterra controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_geography",
+        "fandom_title": "Legends of Runeterra geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_legacy",
+        "fandom_title": "Legends of Runeterra legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_practices",
+        "fandom_title": "Legends of Runeterra practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_1",
+        "fandom_title": "Legends of Runeterra entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_2",
+        "fandom_title": "Legends of Runeterra entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_3",
+        "fandom_title": "Legends of Runeterra entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_4",
+        "fandom_title": "Legends of Runeterra entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_5",
+        "fandom_title": "Legends of Runeterra entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_6",
+        "fandom_title": "Legends of Runeterra entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_7",
+        "fandom_title": "Legends of Runeterra entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_8",
+        "fandom_title": "Legends of Runeterra entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_9",
+        "fandom_title": "Legends of Runeterra entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_10",
+        "fandom_title": "Legends of Runeterra entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_11",
+        "fandom_title": "Legends of Runeterra entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_12",
+        "fandom_title": "Legends of Runeterra entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_13",
+        "fandom_title": "Legends of Runeterra entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_14",
+        "fandom_title": "Legends of Runeterra entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_15",
+        "fandom_title": "Legends of Runeterra entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_16",
+        "fandom_title": "Legends of Runeterra entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_17",
+        "fandom_title": "Legends of Runeterra entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_18",
+        "fandom_title": "Legends of Runeterra entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_19",
+        "fandom_title": "Legends of Runeterra entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_20",
+        "fandom_title": "Legends of Runeterra entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_21",
+        "fandom_title": "Legends of Runeterra entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_22",
+        "fandom_title": "Legends of Runeterra entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_23",
+        "fandom_title": "Legends of Runeterra entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legends-of-runeterra-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legends_of_Runeterra_entry_24",
+        "fandom_title": "Legends of Runeterra entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Legends of Runeterra article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T17:07:33.518Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

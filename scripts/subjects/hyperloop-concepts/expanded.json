@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "hyperloop-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts",
+        "fandom_title": "Hyperloop & future transit concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_figures",
+        "fandom_title": "Hyperloop & future transit concepts figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_world_&_context",
+        "fandom_title": "Hyperloop & future transit concepts world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_places",
+        "fandom_title": "Hyperloop & future transit concepts places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_events",
+        "fandom_title": "Hyperloop & future transit concepts events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_objects_&_artifacts",
+        "fandom_title": "Hyperloop & future transit concepts objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_factions_&_groups",
+        "fandom_title": "Hyperloop & future transit concepts factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_concepts",
+        "fandom_title": "Hyperloop & future transit concepts concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_eras",
+        "fandom_title": "Hyperloop & future transit concepts eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_works_&_media",
+        "fandom_title": "Hyperloop & future transit concepts works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_symbols",
+        "fandom_title": "Hyperloop & future transit concepts symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_controversies",
+        "fandom_title": "Hyperloop & future transit concepts controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_geography",
+        "fandom_title": "Hyperloop & future transit concepts geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_legacy",
+        "fandom_title": "Hyperloop & future transit concepts legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_practices",
+        "fandom_title": "Hyperloop & future transit concepts practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_1",
+        "fandom_title": "Hyperloop & future transit concepts entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_2",
+        "fandom_title": "Hyperloop & future transit concepts entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_3",
+        "fandom_title": "Hyperloop & future transit concepts entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_4",
+        "fandom_title": "Hyperloop & future transit concepts entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_5",
+        "fandom_title": "Hyperloop & future transit concepts entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_6",
+        "fandom_title": "Hyperloop & future transit concepts entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_7",
+        "fandom_title": "Hyperloop & future transit concepts entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_8",
+        "fandom_title": "Hyperloop & future transit concepts entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_9",
+        "fandom_title": "Hyperloop & future transit concepts entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_10",
+        "fandom_title": "Hyperloop & future transit concepts entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_11",
+        "fandom_title": "Hyperloop & future transit concepts entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_12",
+        "fandom_title": "Hyperloop & future transit concepts entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_13",
+        "fandom_title": "Hyperloop & future transit concepts entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_14",
+        "fandom_title": "Hyperloop & future transit concepts entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_15",
+        "fandom_title": "Hyperloop & future transit concepts entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_16",
+        "fandom_title": "Hyperloop & future transit concepts entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_17",
+        "fandom_title": "Hyperloop & future transit concepts entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_18",
+        "fandom_title": "Hyperloop & future transit concepts entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_19",
+        "fandom_title": "Hyperloop & future transit concepts entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_20",
+        "fandom_title": "Hyperloop & future transit concepts entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_21",
+        "fandom_title": "Hyperloop & future transit concepts entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_22",
+        "fandom_title": "Hyperloop & future transit concepts entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_23",
+        "fandom_title": "Hyperloop & future transit concepts entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hyperloop-concepts-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hyperloop_&_future_transit_concepts_entry_24",
+        "fandom_title": "Hyperloop & future transit concepts entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Hyperloop & future transit concepts article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:21:56.360Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

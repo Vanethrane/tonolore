@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "dracula-novel",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)",
+        "fandom_title": "Dracula (novel)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_figures",
+        "fandom_title": "Dracula (novel) figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_world_&_context",
+        "fandom_title": "Dracula (novel) world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_places",
+        "fandom_title": "Dracula (novel) places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_events",
+        "fandom_title": "Dracula (novel) events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_objects_&_artifacts",
+        "fandom_title": "Dracula (novel) objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_factions_&_groups",
+        "fandom_title": "Dracula (novel) factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_concepts",
+        "fandom_title": "Dracula (novel) concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_eras",
+        "fandom_title": "Dracula (novel) eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_works_&_media",
+        "fandom_title": "Dracula (novel) works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_symbols",
+        "fandom_title": "Dracula (novel) symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_controversies",
+        "fandom_title": "Dracula (novel) controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_geography",
+        "fandom_title": "Dracula (novel) geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_legacy",
+        "fandom_title": "Dracula (novel) legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_practices",
+        "fandom_title": "Dracula (novel) practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_1",
+        "fandom_title": "Dracula (novel) entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_2",
+        "fandom_title": "Dracula (novel) entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_3",
+        "fandom_title": "Dracula (novel) entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_4",
+        "fandom_title": "Dracula (novel) entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_5",
+        "fandom_title": "Dracula (novel) entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_6",
+        "fandom_title": "Dracula (novel) entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_7",
+        "fandom_title": "Dracula (novel) entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_8",
+        "fandom_title": "Dracula (novel) entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_9",
+        "fandom_title": "Dracula (novel) entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_10",
+        "fandom_title": "Dracula (novel) entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_11",
+        "fandom_title": "Dracula (novel) entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_12",
+        "fandom_title": "Dracula (novel) entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_13",
+        "fandom_title": "Dracula (novel) entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_14",
+        "fandom_title": "Dracula (novel) entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_15",
+        "fandom_title": "Dracula (novel) entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_16",
+        "fandom_title": "Dracula (novel) entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_17",
+        "fandom_title": "Dracula (novel) entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_18",
+        "fandom_title": "Dracula (novel) entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_19",
+        "fandom_title": "Dracula (novel) entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_20",
+        "fandom_title": "Dracula (novel) entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_21",
+        "fandom_title": "Dracula (novel) entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_22",
+        "fandom_title": "Dracula (novel) entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_23",
+        "fandom_title": "Dracula (novel) entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dracula-novel-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dracula_(novel)_entry_24",
+        "fandom_title": "Dracula (novel) entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Dracula (novel) article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:44:43.837Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -4,6 +4,10 @@
 
 const { connectionLoreBlurb } = require("../../lib/connectionLore");
 const { entityTypeLabel } = require("../../lib/entityTypeLabel");
+const {
+    scrubWikiText,
+    hasBrokenWikiProse
+} = require("../../lib/wikiPlainText");
 
 function escapeHtml(value) {
     return String(value || "")
@@ -59,6 +63,10 @@ function isGenericStub(text) {
         return true;
     }
 
+    if (hasBrokenWikiProse(text)) {
+        return true;
+    }
+
     return (
         /^fictional (character|topic|place|organization|object|concept|work) from /.test(
             value
@@ -82,16 +90,11 @@ function isGenericStub(text) {
 }
 
 function scrubDescriptionHoles(text) {
-    return String(text || "")
-        .replace(/\r\n/g, "\n")
-        .replace(/\{\|[\s\S]*?\n\|\}/g, "\n")
-        .replace(/\{\{[^{}]*\}\}/g, "")
-        .replace(/\[\[([^|\]]+)\|([^\]]+)\]\]/g, "$2")
-        .replace(/\[\[([^\]]+)\]\]/g, "$1")
-        .replace(/'{2,}/g, "")
-        .replace(/<ref[\s\S]*?<\/ref>/gi, "")
-        .replace(/\bin\s+\./gi, "in this story.")
-        .replace(/(as follows:|differences from the manga(?: as follows)?:)\s*$/gim, "")
+    return scrubWikiText(text)
+        .replace(
+            /(as follows:|differences from the manga(?: as follows)?:)\s*$/gim,
+            ""
+        )
         .replace(/\n{3,}/g, "\n\n")
         .trim();
 }
@@ -179,7 +182,7 @@ function entityAliases(entity) {
     ].slice(0, 8);
 }
 
-function truncateMeta(text, max = 158) {
+function truncateMeta(text, max = 155) {
     const value = normalizeSpace(text);
 
     if (value.length <= max) {
@@ -187,14 +190,62 @@ function truncateMeta(text, max = 158) {
     }
 
     const sliced = value.slice(0, max - 1);
-    const boundary = Math.max(
+    const sentenceEnd = Math.max(
         sliced.lastIndexOf(". "),
+        sliced.lastIndexOf("! "),
+        sliced.lastIndexOf("? ")
+    );
+    if (sentenceEnd > 70) {
+        return sliced.slice(0, sentenceEnd + 1).trim();
+    }
+    const boundary = Math.max(
         sliced.lastIndexOf("; "),
         sliced.lastIndexOf(", "),
         sliced.lastIndexOf(" ")
     );
 
     return `${(boundary > 60 ? sliced.slice(0, boundary) : sliced).trim()}…`;
+}
+
+function shortenSerpTitle(rawTitle, entityName, max = 60) {
+    let title = normalizeSpace(rawTitle);
+    title = title
+        .replace(
+            /\s+[—-]\s+[^|]+,\s*lore\s*&\s*connections\s*\|\s*Ton-o-Lore$/i,
+            " | Ton-o-Lore"
+        )
+        .replace(/\s+\|\s*Ton-o-Lore\s*\|\s*Ton-o-Lore$/i, " | Ton-o-Lore");
+    if (title.length > max) {
+        const name = normalizeSpace(entityName) || "Lore page";
+        title = `${name} | Ton-o-Lore`;
+        if (title.length > max) {
+            title = `${name.slice(0, Math.max(12, max - 14)).trim()}… | Ton-o-Lore`;
+        }
+    }
+    return title;
+}
+
+function schemaTypeForEntity(entity) {
+    const type = String(entity?.type || "").toLowerCase();
+    if (type === "person") {
+        return "Person";
+    }
+    if (type === "place") {
+        return "Place";
+    }
+    if (type === "organization") {
+        return "Organization";
+    }
+    if (type === "work") {
+        return "CreativeWork";
+    }
+    if (type === "event") {
+        return "Event";
+    }
+    if (type === "object") {
+        return "Product";
+    }
+    return "Thing";
 }
 
 function rankConnections(connections) {
@@ -207,43 +258,74 @@ function rankConnections(connections) {
     });
 }
 
+/**
+ * SERP title tuned for Google + Bing CTR (~50–60 chars).
+ * Pattern: Name (Franchise) | Ton-o-Lore
+ */
 function buildMetaTitle(entity, subjectMeta) {
     const subject = subjectDisplayName(
         subjectMeta,
         entity.metadata?.universe
     );
-    const kind = typeLabel(entity.type);
-
-    return `${entity.name} (${subject}) — ${kind}, lore & connections | Ton-o-Lore`;
+    const name = normalizeSpace(entity.name) || "Lore page";
+    const withSubject = `${name} (${subject}) | Ton-o-Lore`;
+    if (withSubject.length <= 60) {
+        return withSubject;
+    }
+    return shortenSerpTitle(`${name} | Ton-o-Lore`, name, 60);
 }
 
+/**
+ * SERP description: complete lead sentence + light CTA (no mid-word cutoffs).
+ */
 function buildMetaDescription(entity, connections, subjectMeta) {
     const subject = subjectDisplayName(
         subjectMeta,
         entity.metadata?.universe
     );
+    const kind = typeLabel(entity);
     const description = bestDescription(entity);
-    const top = rankConnections(connections)
-        .slice(0, 4)
+    const aliases = entityAliases(entity).slice(0, 2);
+    const top = rankConnections(connections || [])
+        .slice(0, 2)
         .map((connection) => connection.name)
         .filter(Boolean);
-    const aliases = entityAliases(entity).slice(0, 3);
 
-    let lead;
-
+    let lead = "";
     if (description) {
-        lead = description;
+        const firstSentence =
+            description.match(/^[^.!?]+[.!?]/)?.[0] || description;
+        lead = normalizeSpace(firstSentence);
+        if (lead.length < 40 && description.length > lead.length) {
+            lead = normalizeSpace(description);
+        }
     } else if (aliases.length) {
-        lead = `${entity.name} (also known as ${aliases.join(", ")}) is a ${typeLabel(entity.type)} in ${subject}.`;
+        lead = `${entity.name} (also ${aliases.join(", ")}) is a ${kind} in ${subject}.`;
     } else {
-        lead = `${entity.name} is a ${typeLabel(entity.type)} mapped in the ${subject} lore graph on Ton-o-Lore.`;
+        lead = `${entity.name} is a ${kind} in ${subject} — mapped with lore links on Ton-o-Lore.`;
     }
 
-    const trail = top.length
-        ? ` Related pages: ${top.join(", ")}.`
-        : ` Explore linked people, places, events, and ideas in ${subject}.`;
+    // Ensure brand/franchise context for query matching without stuffing.
+    if (
+        subject &&
+        !new RegExp(subject.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "i").test(
+            lead
+        )
+    ) {
+        lead = `${lead.replace(/\.\s*$/, "")} (${subject}).`;
+    }
 
-    return truncateMeta(`${lead}${trail}`);
+    let trail = "";
+    if (aliases.length && !/also known as|also /i.test(lead)) {
+        trail += ` Also known as ${aliases.join(", ")}.`;
+    }
+    if (top.length) {
+        trail += ` Linked to ${top.join(" and ")}.`;
+    } else {
+        trail += " Explore connections on Ton-o-Lore.";
+    }
+
+    return truncateMeta(`${lead}${trail}`, 155);
 }
 
 function buildAliasesBlock(entity) {
@@ -458,5 +540,9 @@ module.exports = {
     buildUniqueDidYouKnow,
     scoreUniqueness,
     subjectDisplayName,
-    isGenericStub
+    isGenericStub,
+    shortenSerpTitle,
+    schemaTypeForEntity,
+    truncateMeta,
+    entityAliases
 };

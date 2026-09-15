@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "traveller-rpg",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller",
+        "fandom_title": "Traveller",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_figures",
+        "fandom_title": "Traveller figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_world_&_context",
+        "fandom_title": "Traveller world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_places",
+        "fandom_title": "Traveller places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_events",
+        "fandom_title": "Traveller events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_objects_&_artifacts",
+        "fandom_title": "Traveller objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_factions_&_groups",
+        "fandom_title": "Traveller factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_concepts",
+        "fandom_title": "Traveller concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_eras",
+        "fandom_title": "Traveller eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_works_&_media",
+        "fandom_title": "Traveller works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_symbols",
+        "fandom_title": "Traveller symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_controversies",
+        "fandom_title": "Traveller controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_geography",
+        "fandom_title": "Traveller geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_legacy",
+        "fandom_title": "Traveller legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_practices",
+        "fandom_title": "Traveller practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_1",
+        "fandom_title": "Traveller entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_2",
+        "fandom_title": "Traveller entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_3",
+        "fandom_title": "Traveller entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_4",
+        "fandom_title": "Traveller entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_5",
+        "fandom_title": "Traveller entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_6",
+        "fandom_title": "Traveller entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_7",
+        "fandom_title": "Traveller entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_8",
+        "fandom_title": "Traveller entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_9",
+        "fandom_title": "Traveller entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_10",
+        "fandom_title": "Traveller entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_11",
+        "fandom_title": "Traveller entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_12",
+        "fandom_title": "Traveller entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_13",
+        "fandom_title": "Traveller entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_14",
+        "fandom_title": "Traveller entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_15",
+        "fandom_title": "Traveller entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_16",
+        "fandom_title": "Traveller entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_17",
+        "fandom_title": "Traveller entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_18",
+        "fandom_title": "Traveller entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_19",
+        "fandom_title": "Traveller entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_20",
+        "fandom_title": "Traveller entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_21",
+        "fandom_title": "Traveller entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_22",
+        "fandom_title": "Traveller entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_23",
+        "fandom_title": "Traveller entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "traveller-rpg-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Traveller_entry_24",
+        "fandom_title": "Traveller entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Traveller article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T17:03:24.204Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

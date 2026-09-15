@@ -324,3 +324,16 @@ if (!skipShells) {
 mirrorToRoot();
 fs.writeFileSync(path.join(root, ".nojekyll"), "");
 console.log("Mirrored docs/ → repo root for legacy Pages source=/");
+
+// Host IndexNow key + ping Bing/partners for recently updated URLs.
+if (hasDb && !process.argv.includes("--skip-indexnow")) {
+    console.log("Notifying IndexNow (Bing + partners)…");
+    const indexNow = spawnSync(
+        process.execPath,
+        [path.join(__dirname, "notifyIndexNowRecent.js"), "--limit=400"],
+        { stdio: "inherit", cwd: root, env: process.env }
+    );
+    if (indexNow.status !== 0) {
+        console.warn("IndexNow notify failed (non-fatal).");
+    }
+}

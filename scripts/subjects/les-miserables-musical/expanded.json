@@ -1,0 +1,495 @@
+{
+  "enrichments": [
+    {
+      "slug": "les-miserables-musical",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(musical)",
+        "fandom_title": "Les Misérables (musical)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "Les Misérables (, ), colloquially known as Les Mis or Les Miz (), is a sung-through musical based on the 1862 novel by Victor Hugo. It is one of the most popular and highest-grossing stage musicals of all time. Set in early 19th-century France, Les Misérables tells the story of Jean Valjean, a French convict, and his journey of redemption. After stealing a loaf of bread for his sister's starving child, Valjean is imprisoned for 19 years and released in 1815. When a bishop inspires him with a tremendous act of mercy, Valjean breaks his parole, changes his name and starts his life anew. He becomes wealthy and adopts an orphan, Cosette. A police inspector named Javert pursues Valjean over the decades in a single-minded quest for \"justice.\" The plot leads the characters to Paris, where they are swept up in the events of a revolutionary period in France, as a group of young idealists attempts to overthrow the government from a street barricade.\n\nThe musical was conceived in the late 1970s by French librettist Alain Boublil, and the original French work features music by Claude-Michel Schönberg, lyrics by Boublil and Jean-Marc Natel, and a book by Boublil and Schönberg. The show was recorded as a concept album, which was released in 1980, and then presented on stage for four months at the Palais des Sports. In 1983 it was adapted into an English-language version by producer Cameron Mackintosh and Royal Shakespeare Company directors Trevor Nunn and John Caird. This version, expanded and reorganized from the original, opened in London in 1985, and despite mixed reviews, met with great success with audiences. Les Miserables has been running in London continuously since then, making it the longest-running musical in West End history and the second longest-running musical in the world after the original off-Broadway run of The Fantasticks. Many long-running revivals followed on Broadway and around the world. A film adaptation was released in 2012.\n\nAlain Boublil's initial idea to adapt Victor Hugo's novel into a musical came while at a performance of the musical Oliver! in London: As soon as the Artful Dodger came onstage, Gavroche came to mind. It was like a blow to the solar plexus. I started seeing all the characters of Victor Hugo's Les Misérables—Valjean, Javert, Gavroche, Cosette, Marius, and Éponine—in my mind's eye, laughing, crying, and singing onstage.\n\nHe shared the idea with his collaborator, the French composer Claude-Michel Schönberg, and the two developed a rough synopsis and analysis of each character's mental and emotional state, as well as that of an audience. Schönberg then began work on the music, while Boublil started writing the text. According to Boublil, \"I [began] work on the words ... after myself deciding on the subject and title of every song—in collaboration with my friend, poet Jean-Marc Natel.\" Two years later, a two-hour demo tape of Schönberg accompanying himself on the piano and singing every role was completed. An album of this collaboration was recorded at CTS Studios in Wembley and was released in 1980, selling 260,000 copies.",
+      "short_description": "Les Misérables (, ), colloquially known as Les Mis or Les Miz (), is a sung-through musical based on the 1862 novel by Victor Hugo. It is one of the most popular and highest-grossing stage musicals of all time. Set in…"
+    },
+    {
+      "slug": "les-miserables-musical-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_figures",
+        "fandom_title": "Les Misérables (musical) figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_world_&_context",
+        "fandom_title": "Les Misérables (musical) world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_places",
+        "fandom_title": "Les Misérables (musical) places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_events",
+        "fandom_title": "Les Misérables (musical) events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_objects_&_artifacts",
+        "fandom_title": "Les Misérables (musical) objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_factions_&_groups",
+        "fandom_title": "Les Misérables (musical) factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_concepts",
+        "fandom_title": "Les Misérables (musical) concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_eras",
+        "fandom_title": "Les Misérables (musical) eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_works_&_media",
+        "fandom_title": "Les Misérables (musical) works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_symbols",
+        "fandom_title": "Les Misérables (musical) symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_controversies",
+        "fandom_title": "Les Misérables (musical) controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_geography",
+        "fandom_title": "Les Misérables (musical) geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_legacy",
+        "fandom_title": "Les Misérables (musical) legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_practices",
+        "fandom_title": "Les Misérables (musical) practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_1",
+        "fandom_title": "Les Misérables (musical) entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_2",
+        "fandom_title": "Les Misérables (musical) entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_3",
+        "fandom_title": "Les Misérables (musical) entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_4",
+        "fandom_title": "Les Misérables (musical) entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_5",
+        "fandom_title": "Les Misérables (musical) entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_6",
+        "fandom_title": "Les Misérables (musical) entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_7",
+        "fandom_title": "Les Misérables (musical) entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_8",
+        "fandom_title": "Les Misérables (musical) entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_9",
+        "fandom_title": "Les Misérables (musical) entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_10",
+        "fandom_title": "Les Misérables (musical) entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_11",
+        "fandom_title": "Les Misérables (musical) entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_12",
+        "fandom_title": "Les Misérables (musical) entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_13",
+        "fandom_title": "Les Misérables (musical) entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_14",
+        "fandom_title": "Les Misérables (musical) entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_15",
+        "fandom_title": "Les Misérables (musical) entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_16",
+        "fandom_title": "Les Misérables (musical) entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_17",
+        "fandom_title": "Les Misérables (musical) entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_18",
+        "fandom_title": "Les Misérables (musical) entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_19",
+        "fandom_title": "Les Misérables (musical) entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_20",
+        "fandom_title": "Les Misérables (musical) entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_21",
+        "fandom_title": "Les Misérables (musical) entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_22",
+        "fandom_title": "Les Misérables (musical) entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_23",
+        "fandom_title": "Les Misérables (musical) entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "les-miserables-musical-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)_entry_24",
+        "fandom_title": "Les Misérables (musical) entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Les Misérables (musical) article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:55:08.842Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

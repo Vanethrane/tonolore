@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "kingdom-hearts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts",
+        "fandom_title": "Kingdom Hearts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_figures",
+        "fandom_title": "Kingdom Hearts figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_world_&_context",
+        "fandom_title": "Kingdom Hearts world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_places",
+        "fandom_title": "Kingdom Hearts places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_events",
+        "fandom_title": "Kingdom Hearts events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_objects_&_artifacts",
+        "fandom_title": "Kingdom Hearts objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_factions_&_groups",
+        "fandom_title": "Kingdom Hearts factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_concepts",
+        "fandom_title": "Kingdom Hearts concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_eras",
+        "fandom_title": "Kingdom Hearts eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_works_&_media",
+        "fandom_title": "Kingdom Hearts works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_symbols",
+        "fandom_title": "Kingdom Hearts symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_controversies",
+        "fandom_title": "Kingdom Hearts controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_geography",
+        "fandom_title": "Kingdom Hearts geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_legacy",
+        "fandom_title": "Kingdom Hearts legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_practices",
+        "fandom_title": "Kingdom Hearts practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_1",
+        "fandom_title": "Kingdom Hearts entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_2",
+        "fandom_title": "Kingdom Hearts entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_3",
+        "fandom_title": "Kingdom Hearts entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_4",
+        "fandom_title": "Kingdom Hearts entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_5",
+        "fandom_title": "Kingdom Hearts entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_6",
+        "fandom_title": "Kingdom Hearts entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_7",
+        "fandom_title": "Kingdom Hearts entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_8",
+        "fandom_title": "Kingdom Hearts entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_9",
+        "fandom_title": "Kingdom Hearts entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_10",
+        "fandom_title": "Kingdom Hearts entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_11",
+        "fandom_title": "Kingdom Hearts entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_12",
+        "fandom_title": "Kingdom Hearts entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_13",
+        "fandom_title": "Kingdom Hearts entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_14",
+        "fandom_title": "Kingdom Hearts entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_15",
+        "fandom_title": "Kingdom Hearts entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_16",
+        "fandom_title": "Kingdom Hearts entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_17",
+        "fandom_title": "Kingdom Hearts entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_18",
+        "fandom_title": "Kingdom Hearts entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_19",
+        "fandom_title": "Kingdom Hearts entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_20",
+        "fandom_title": "Kingdom Hearts entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_21",
+        "fandom_title": "Kingdom Hearts entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_22",
+        "fandom_title": "Kingdom Hearts entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_23",
+        "fandom_title": "Kingdom Hearts entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kingdom-hearts-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kingdom_Hearts_entry_24",
+        "fandom_title": "Kingdom Hearts entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Kingdom Hearts article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:39:50.332Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

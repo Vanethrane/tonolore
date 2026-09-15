@@ -1,0 +1,2507 @@
+{
+  "enrichments": [
+    {
+      "slug": "shadowrun",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun",
+        "fandom_title": "Shadowrun",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "Shadowrun is a science fantasy tabletop role-playing game set in an alternate future in which cybernetics, magic and fantasy creatures co-exist. It combines genres of cyberpunk, urban fantasy, and crime, with occasional elements of conspiracy, horror, and detective fiction. From its inception in 1989, it has spawned a franchise that includes a series of novels, a collectible card game, two miniature-based tabletop wargames, and multiple video games.\n\nThe title is taken from the game's main premise – a near-future world damaged by a massive magical event, where industrial espionage and corporate warfare run rampant. A shadowrun – a successful data theft or physical break-in at a rival corporation or organization – is one of the main tools employed by both corporate rivals and underworld figures. Deckers (futuristic hackers) can tap into an immersive, three-dimensional cyberspace on such missions as they seek access, physical or remote, to the power structures of rival groups. They are opposed by rival deckers and lethal, potentially brain-destroying artificial intelligences called \"Intrusion Countermeasures\" (IC), while they are protected by street fighters and/or mercenaries, often with cyborg implants (called cyberware), magicians, and other exotic figures. Magic has also returned to the world after a series of plagues; dragons who can take human form have returned as well, and are commonly found in high positions of corporate power.\n\nShadowrun was developed and published by FASA from 1989 until early 2001, when the company closed and Shadowrun was transferred to WizKids, a company founded by former FASA employees. Two years before its closure, FASA sold its videogame branch, FASA Interactive, to Microsoft corporation, keeping rights to publishing novels and pen and paper RPGs. Since then, digital rights to Shadowrun IP have belonged to Microsoft. WizKids licensed the RPG rights to Fantasy Productions, who were already publishing a German version, until WizKids was acquired by Topps in 2003. Catalyst Game Labs, a publishing imprint of InMediaRes Productions, licensed the rights from Topps to publish new products. WizKids itself produced an unsuccessful collectible action figure game based on the property, called Shadowrun Duels.\n\nA fifth edition of Shadowrun was announced in December 2012. A limited-edition softcover was sold at the Origins Game Fair in June 2013, and the PDF in July 2013. A hardcover was published in August 2013.",
+      "short_description": "Shadowrun is a science fantasy tabletop role-playing game set in an alternate future in which cybernetics, magic and fantasy creatures co-exist. It combines genres of cyberpunk, urban fantasy, and crime, with occasional…"
+    },
+    {
+      "slug": "shadowrun-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_figures",
+        "fandom_title": "Shadowrun figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_world_&_context",
+        "fandom_title": "Shadowrun world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_places",
+        "fandom_title": "Shadowrun places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_events",
+        "fandom_title": "Shadowrun events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_objects_&_artifacts",
+        "fandom_title": "Shadowrun objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_factions_&_groups",
+        "fandom_title": "Shadowrun factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_concepts",
+        "fandom_title": "Shadowrun concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_eras",
+        "fandom_title": "Shadowrun eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_works_&_media",
+        "fandom_title": "Shadowrun works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_symbols",
+        "fandom_title": "Shadowrun symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_controversies",
+        "fandom_title": "Shadowrun controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_geography",
+        "fandom_title": "Shadowrun geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_legacy",
+        "fandom_title": "Shadowrun legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_practices",
+        "fandom_title": "Shadowrun practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_1",
+        "fandom_title": "Shadowrun entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_2",
+        "fandom_title": "Shadowrun entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_3",
+        "fandom_title": "Shadowrun entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_4",
+        "fandom_title": "Shadowrun entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_5",
+        "fandom_title": "Shadowrun entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_6",
+        "fandom_title": "Shadowrun entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_7",
+        "fandom_title": "Shadowrun entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_8",
+        "fandom_title": "Shadowrun entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_9",
+        "fandom_title": "Shadowrun entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_10",
+        "fandom_title": "Shadowrun entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_11",
+        "fandom_title": "Shadowrun entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_12",
+        "fandom_title": "Shadowrun entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_13",
+        "fandom_title": "Shadowrun entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_14",
+        "fandom_title": "Shadowrun entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_15",
+        "fandom_title": "Shadowrun entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_16",
+        "fandom_title": "Shadowrun entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_17",
+        "fandom_title": "Shadowrun entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_18",
+        "fandom_title": "Shadowrun entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_19",
+        "fandom_title": "Shadowrun entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_20",
+        "fandom_title": "Shadowrun entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_21",
+        "fandom_title": "Shadowrun entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_22",
+        "fandom_title": "Shadowrun entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_23",
+        "fandom_title": "Shadowrun entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_entry_24",
+        "fandom_title": "Shadowrun entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "shadowrun-duels",
+      "name": "Shadowrun Duels",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_Duels",
+        "fandom_title": "Shadowrun Duels",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-the-trading-card-game",
+      "name": "Shadowrun: The Trading Card Game",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun:_The_Trading_Card_Game",
+        "fandom_title": "Shadowrun: The Trading Card Game",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "black-madonna-novel",
+      "name": "Black Madonna",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Black_Madonna_(novel)",
+        "fandom_title": "Black Madonna (novel)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lone-wolf-shadowrun-novel",
+      "name": "Lone Wolf",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Lone_Wolf_(Shadowrun_novel)",
+        "fandom_title": "Lone Wolf (Shadowrun novel)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-just-compensation",
+      "name": "Shadowrun: Just Compensation",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun:_Just_Compensation",
+        "fandom_title": "Shadowrun: Just Compensation",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "worlds-without-end-shadowrun-novel",
+      "name": "Worlds Without End",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Worlds_Without_End_(Shadowrun_novel)",
+        "fandom_title": "Worlds Without End (Shadowrun novel)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bottled-demon",
+      "name": "Bottled Demon",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bottled_Demon",
+        "fandom_title": "Bottled Demon",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-angel-shadowrun",
+      "name": "Dark Angel",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Angel_(Shadowrun)",
+        "fandom_title": "Dark Angel (Shadowrun)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "double-exposure-shadowrun",
+      "name": "Double Exposure",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Double_Exposure_(Shadowrun)",
+        "fandom_title": "Double Exposure (Shadowrun)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dragon-hunt-shadowrun",
+      "name": "Dragon Hunt",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Dragon_Hunt_(Shadowrun)",
+        "fandom_title": "Dragon Hunt (Shadowrun)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dreamchipper",
+      "name": "Dreamchipper",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Dreamchipper",
+        "fandom_title": "Dreamchipper",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elven-fire",
+      "name": "Elven Fire",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Elven_Fire",
+        "fandom_title": "Elven Fire",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "eye-witness",
+      "name": "Eye Witness",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Eye_Witness",
+        "fandom_title": "Eye Witness",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "harlequin-shadowrun",
+      "name": "Harlequin",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Harlequin_(Shadowrun)",
+        "fandom_title": "Harlequin (Shadowrun)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ivy-chrome",
+      "name": "Ivy & Chrome",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ivy_%26_Chrome",
+        "fandom_title": "Ivy & Chrome",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mercurial-shadowrun",
+      "name": "Mercurial",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mercurial_(Shadowrun)",
+        "fandom_title": "Mercurial (Shadowrun)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "missions-shadowrun",
+      "name": "Missions",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Missions_(Shadowrun)",
+        "fandom_title": "Missions (Shadowrun)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mob-war",
+      "name": "Mob War!",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mob_War!",
+        "fandom_title": "Mob War!",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "queen-euphoria",
+      "name": "Queen Euphoria",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Queen_Euphoria",
+        "fandom_title": "Queen Euphoria",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadows-of-the-underworld-shadowrun",
+      "name": "Shadows of the Underworld",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadows_of_the_Underworld_(Shadowrun)",
+        "fandom_title": "Shadows of the Underworld (Shadowrun)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "super-tuesday",
+      "name": "Super Tuesday!",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Super_Tuesday!",
+        "fandom_title": "Super Tuesday!",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "survival-of-the-fittest-shadowrun",
+      "name": "Survival of the Fittest",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Survival_of_the_Fittest_(Shadowrun)",
+        "fandom_title": "Survival of the Fittest (Shadowrun)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "total-eclipse-shadowrun",
+      "name": "Total Eclipse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Total_Eclipse_(Shadowrun)",
+        "fandom_title": "Total Eclipse (Shadowrun)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-universal-brotherhood",
+      "name": "The Universal Brotherhood",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Universal_Brotherhood",
+        "fandom_title": "The Universal Brotherhood",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "awakenings-new-magic-in-2057",
+      "name": "Awakenings: New Magic in 2057",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Awakenings:_New_Magic_in_2057",
+        "fandom_title": "Awakenings: New Magic in 2057",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aztlan-shadowrun",
+      "name": "Aztlan",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Aztlan_(Shadowrun)",
+        "fandom_title": "Aztlan (Shadowrun)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bug-city",
+      "name": "Bug City",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bug_City",
+        "fandom_title": "Bug City",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "california-free-state",
+      "name": "California Free State",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/California_Free_State",
+        "fandom_title": "California Free State",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cannon-companion",
+      "name": "Cannon Companion",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cannon_Companion",
+        "fandom_title": "Cannon Companion",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "corporate-shadowfiles",
+      "name": "Corporate Shadowfiles",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Corporate_Shadowfiles",
+        "fandom_title": "Corporate Shadowfiles",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cyberpirates",
+      "name": "Cyberpirates!",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cyberpirates!",
+        "fandom_title": "Cyberpirates!",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cybertechnology",
+      "name": "Cybertechnology",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cybertechnology",
+        "fandom_title": "Cybertechnology",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "denver-the-city-of-shadows",
+      "name": "Denver: The City of Shadows",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Denver:_The_City_of_Shadows",
+        "fandom_title": "Denver: The City of Shadows",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "downtown-militarized-zone",
+      "name": "Downtown Militarized Zone",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Downtown_Militarized_Zone",
+        "fandom_title": "Downtown Militarized Zone",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dragons-of-the-sixth-world",
+      "name": "Dragons of the Sixth World",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Dragons_of_the_Sixth_World",
+        "fandom_title": "Dragons of the Sixth World",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fields-of-fire-shadowrun",
+      "name": "Fields of Fire",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Fields_of_Fire_(Shadowrun)",
+        "fandom_title": "Fields of Fire (Shadowrun)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "germany-sourcebook",
+      "name": "Germany Sourcebook",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Germany_Sourcebook",
+        "fandom_title": "Germany Sourcebook",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-grimoire-shadowrun",
+      "name": "The Grimoire",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Grimoire_(Shadowrun)",
+        "fandom_title": "The Grimoire (Shadowrun)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "london-sourcebook",
+      "name": "London Sourcebook",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/London_Sourcebook",
+        "fandom_title": "London Sourcebook",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "magic-in-the-shadows",
+      "name": "Magic in the Shadows",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Magic_in_the_Shadows",
+        "fandom_title": "Magic in the Shadows",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "man-machine-cyberware",
+      "name": "Man & Machine: Cyberware",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Man_%26_Machine:_Cyberware",
+        "fandom_title": "Man & Machine: Cyberware",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "native-american-nations-volume-one",
+      "name": "Native American Nations Volume One",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Native_American_Nations_Volume_One",
+        "fandom_title": "Native American Nations Volume One",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "native-american-nations-volume-two",
+      "name": "Native American Nations Volume Two",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Native_American_Nations_Volume_Two",
+        "fandom_title": "Native American Nations Volume Two",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-neo-anarchists-guide-to-north-america",
+      "name": "The Neo-Anarchist's Guide to North America",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Neo-Anarchist%27s_Guide_to_North_America",
+        "fandom_title": "The Neo-Anarchist's Guide to North America",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-animals-of-europe",
+      "name": "Paranormal Animals of Europe",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Animals_of_Europe",
+        "fandom_title": "Paranormal Animals of Europe",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paranormal-animals-of-north-america",
+      "name": "Paranormal Animals of North America",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Paranormal_Animals_of_North_America",
+        "fandom_title": "Paranormal Animals of North America",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "portfolio-of-a-dragon-dunkelzahns-secrets",
+      "name": "Portfolio of a Dragon: Dunkelzahn's Secrets",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Portfolio_of_a_Dragon:_Dunkelzahn%27s_Secrets",
+        "fandom_title": "Portfolio of a Dragon: Dunkelzahn's Secrets",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rigger-2",
+      "name": "Rigger 2",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Rigger_2",
+        "fandom_title": "Rigger 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rigger-black-book",
+      "name": "Rigger Black Book",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Rigger_Black_Book",
+        "fandom_title": "Rigger Black Book",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "seattle-sourcebook",
+      "name": "Seattle Sourcebook",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Seattle_Sourcebook",
+        "fandom_title": "Seattle Sourcebook",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-companion",
+      "name": "Shadowrun Companion",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_Companion",
+        "fandom_title": "Shadowrun Companion",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-game-masters-screen",
+      "name": "Shadowrun Game Master's Screen",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_Game_Master%27s_Screen",
+        "fandom_title": "Shadowrun Game Master's Screen",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadows-of-north-america",
+      "name": "Shadows of North America",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadows_of_North_America",
+        "fandom_title": "Shadows of North America",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sprawl-sites",
+      "name": "Sprawl Sites",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Sprawl_Sites",
+        "fandom_title": "Sprawl Sites",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-samurai-catalog",
+      "name": "Street Samurai Catalog",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Samurai_Catalog",
+        "fandom_title": "Street Samurai Catalog",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "target-awakened-lands",
+      "name": "Target: Awakened Lands",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Target:_Awakened_Lands",
+        "fandom_title": "Target: Awakened Lands",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "target-wastelands",
+      "name": "Target: Wastelands",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Target:_Wastelands",
+        "fandom_title": "Target: Wastelands",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "threats-shadowrun",
+      "name": "Threats",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Threats_(Shadowrun)",
+        "fandom_title": "Threats (Shadowrun)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tir-na-nog-shadowrun",
+      "name": "Tir na nOg",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Tir_na_nOg_(Shadowrun)",
+        "fandom_title": "Tir na nOg (Shadowrun)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "underworld-sourcebook",
+      "name": "Underworld Sourcebook",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Underworld_Sourcebook",
+        "fandom_title": "Underworld Sourcebook",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "virtual-realities",
+      "name": "Virtual Realities",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Virtual_Realities",
+        "fandom_title": "Virtual Realities",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "virtual-realities-20",
+      "name": "Virtual Realities 2.0",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Virtual_Realities_2.0",
+        "fandom_title": "Virtual Realities 2.0",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "year-of-the-comet-shadowrun",
+      "name": "Year of the Comet",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Year_of_the_Comet_(Shadowrun)",
+        "fandom_title": "Year of the Comet (Shadowrun)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-chronicles-boston-lockdown",
+      "name": "Shadowrun Chronicles: Boston Lockdown",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_Chronicles:_Boston_Lockdown",
+        "fandom_title": "Shadowrun Chronicles: Boston Lockdown",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-returns",
+      "name": "Shadowrun Returns",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun_Returns",
+        "fandom_title": "Shadowrun Returns",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-dragonfall",
+      "name": "Shadowrun: Dragonfall",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun:_Dragonfall",
+        "fandom_title": "Shadowrun: Dragonfall",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadowrun-hong-kong",
+      "name": "Shadowrun: Hong Kong",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "shadowrun",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Shadowrun:_Hong_Kong",
+        "fandom_title": "Shadowrun: Hong Kong",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "shadowrun-duels",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "shadowrun-the-trading-card-game",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "black-madonna-novel",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lone-wolf-shadowrun-novel",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "shadowrun-just-compensation",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "worlds-without-end-shadowrun-novel",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bottled-demon",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "dark-angel-shadowrun",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "double-exposure-shadowrun",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "dragon-hunt-shadowrun",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "dreamchipper",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "elven-fire",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "eye-witness",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "harlequin-shadowrun",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ivy-chrome",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mercurial-shadowrun",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "missions-shadowrun",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mob-war",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "queen-euphoria",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "shadows-of-the-underworld-shadowrun",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "super-tuesday",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "survival-of-the-fittest-shadowrun",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "total-eclipse-shadowrun",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-universal-brotherhood",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "awakenings-new-magic-in-2057",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "aztlan-shadowrun",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bug-city",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "california-free-state",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cannon-companion",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "corporate-shadowfiles",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cyberpirates",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cybertechnology",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "denver-the-city-of-shadows",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "downtown-militarized-zone",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "dragons-of-the-sixth-world",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "fields-of-fire-shadowrun",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "germany-sourcebook",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-grimoire-shadowrun",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "london-sourcebook",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "magic-in-the-shadows",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "man-machine-cyberware",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "native-american-nations-volume-one",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "native-american-nations-volume-two",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-neo-anarchists-guide-to-north-america",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "paranormal-animals-of-europe",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "paranormal-animals-of-north-america",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "portfolio-of-a-dragon-dunkelzahns-secrets",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "rigger-2",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "rigger-black-book",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "seattle-sourcebook",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "shadowrun-companion",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "shadowrun-game-masters-screen",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "shadows-of-north-america",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "sprawl-sites",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "street-samurai-catalog",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "target-awakened-lands",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "target-wastelands",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "threats-shadowrun",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "tir-na-nog-shadowrun",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "underworld-sourcebook",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "virtual-realities",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "virtual-realities-20",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "year-of-the-comet-shadowrun",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "shadowrun-chronicles-boston-lockdown",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "shadowrun-returns",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "shadowrun-dragonfall",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "shadowrun-hong-kong",
+      "shadowrun",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Shadowrun article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T17:02:57.671Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "enrichments": [
+    {
+      "slug": "yoruba-mythology",
+      "description": "The Yorùbá religion ( ), West African Orisa ( ), or Isese (), comprises the traditional religious and spiritual concepts and practice of the Yoruba people. Its homeland is in what is commonly known as Yorubaland (), comprising the majority of the states of Oyo, Ogun, Osun, Ondo, Ekiti, Kwara, Lagos and parts of Kogi in present-day Southwestern Nigeria; the Departments of Collines, Oueme, Plateau in Southern Benin; and the adjoining parts of Central Togo. It has become the largest indigenous African religion / belief system in the world with several million adherents worldwide.\n\nIt shares some parallels with the Vodun practised by the neighbouring Fon and Ewe peoples to its west and with the religion of the Edo people to its east. Yorùbá religion is the basis for several religions in the New World, notably Santería, Umbanda, Trinidad Orisha, and Candomblé. Yorùbá religious beliefs are part of Ìtàn (history), the total complex of songs, histories, stories, and other cultural concepts which make up the Yorùbá society.\n\nThe Yorùbá name for the Yorùbá indigenous religion is Ìṣẹ̀ṣẹ, which also refers to the traditions and rituals that encompass Yorùbá culture. The term comes from a contraction of the words Ìṣẹ̀ (Ishɛ), meaning \"source/root origin\", and ìṣe (Ishe), meaning \"practice/tradition\" coming together to mean \"The original tradition\"/\"The tradition of antiquity\" as many of the practices, beliefs, traditions, and observances of the Yorùbá originate from the religious worship of Olodumare and the veneration of the Òrìṣà.\n\nAccording to Kola Abimbola, the Yorubas have evolved a robust cosmology. Every thought and action of each person or being in Ayé (the physical realm) interact with the Supreme force, all other living things, including the Earth itself, as well as with Ọrun (the otherworld), in which gods, spirits and ancestors exist. The Yorùbá religion can be described as a form of diffused monotheism, with a Supreme but distant creator force, encompassing the whole universe.",
+      "short_description": "The Yorùbá religion ( ), West African Orisa ( ), or Isese (), comprises the traditional religious and spiritual concepts and practice of the Yoruba people. Its homeland is in what is commonly known as Yorubaland (),…"
+    }
+  ],
+  "entities": [
+    {
+      "slug": "abiku",
+      "name": "Abiku",
+      "type": "topic",
+      "description": "Abiku is a Yoruba word that can be translated as \"born to die\" and refers to the spirit of a child who dies young. It is derived from (abi) \"that which was born\" and (iku) \"death\".\n\nNot only is an Abiku a spirit of a child who dies young (usually considered before puberty or 12 years of age), the belief is that the spirit can return to the same mother multiple times, resulting in multiple short-lived children, or transfer to other mothers. It is the belief that the spirit does not ever plan to \"stay put in life\" so it is \"indifferent to the plight of its mother and her grief.\"\n\nWhen not residing in a person, the spirits are believed to live in trees, especially the iroko, baobab and silk-cotton species. They are seen as dangerous, capable of murder, and especially likely to target children on their thirteenth birthday. They are also thought to sometimes (though rarely) eventually reach adulthood.\n\nSeen through the lens of contemporary biomedicine, the Abiku phenomenon could have been a way of understanding sickle cell carrying.",
+      "short_description": "Abiku is a Yoruba word that can be translated as \"born to die\" and refers to the spirit of a child who dies young. It is derived from (abi) \"that which was born\" and (iku) \"death\".",
+      "evidence": "fiction",
+      "parentSlug": "yoruba-mythology",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Abiku",
+        "fandom_title": "Abiku",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aganju",
+      "name": "Aganju",
+      "type": "topic",
+      "description": "Aganjú (also known as Agayú or Aggayú in the African diaspora) is an Orisha in Yoruba religion and its descendant traditions in the Americas. He is a primordial deity associated with the sun, fire, and the untamed wilderness. In the Cuban tradition of Santería, Aganjú is associated with volcanoes and syncretized with Saint Christopher.\n\nAganjú is historically and mythologically linked with Shango. In the history of the Oyo Empire, Aganju was a legendary Alaafin, described in some oral traditions as the nephew of Shango and the son of Ajaka. Both Shango and Aganju are considered deified ancestors who once ruled the Oyo state.\n\nIn Nigeria and Benin, Aganjú is venerated as a deified warrior king originating from the town of Shaki in Oyo State. Unlike Shango, who is associated with thunder and lightning stones, Aganjú is said to fight with a sword, paralysis, and fire and heat. The geography of Shaki, characterized by massive monoliths and boulder outcroppings, is often cited as the physical manifestation of Aganjú's rugged and \"mountainous\" power.\n\nIn the Cuban Lucumí tradition, Aganjú is primarily recognized as a volcano deity. While there are no active volcanoes in Yorubaland or Cuba, this association is attributed to his volatile temperament and his mythological relationship with Oroíña (the spirit of the earth's core). Some scholars note that while extinct volcanoes exist on the Biu Plateau in Northeastern Nigeria, these are geographically distant from the Yoruba heartland; thus, the volcanic association likely evolved within the diaspora as a metaphor for Aganjú's explosive power.",
+      "short_description": "Aganjú (also known as Agayú or Aggayú in the African diaspora) is an Orisha in Yoruba religion and its descendant traditions in the Americas. He is a primordial deity associated with the sun, fire, and the untamed…",
+      "evidence": "fiction",
+      "parentSlug": "yoruba-mythology",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Aganju",
+        "fandom_title": "Aganju",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ajilesoro",
+      "name": "Ajilesoro",
+      "type": "topic",
+      "description": "The Ajilesoro (Edun-lde Compound) Royal Dynasty in llara Ile-lfe emerged from Obalufon Ogbogbodirin who succeeded his forebears Osangangan Obamakin (Oranfe) and Ogun; who reigned as the second and third Ooni of Ife over 1,000 years ago after the reign of Oduduwa. The Ooni of Ife is the supreme traditional ruler amongst the Yoruba people.\n\nHistory had it that the 2nd Ooni of Ife Osangangan Obamakin (Oranfe) and Ogun were related and were among the primordial supernatural beings that lived in the ancient Ile-Ife Kingdom. Others are Obawinrin, Obatala and Oduduwa.\n\nOoni Obalufon Ogbogbodirin was the fourth king in Ile-lfe who lived and reigned for many centuries and transfigured into a metal statue and a figurine which today has become a deity.\n\nObalufon Shrine and groove today plays a significant role in the installation of every Ooni of Ife that reigned after him, as the sacred Aare Crown is always blessed in the shrine before a new king could wear it.",
+      "short_description": "The Ajilesoro (Edun-lde Compound) Royal Dynasty in llara Ile-lfe emerged from Obalufon Ogbogbodirin who succeeded his forebears Osangangan Obamakin (Oranfe) and Ogun; who reigned as the second and third Ooni of Ife over…",
+      "evidence": "fiction",
+      "parentSlug": "yoruba-mythology",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Patriarch_of_AJILESORO_DYNASTY.jpg/180px-Patriarch_of_AJILESORO_DYNASTY.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Ajilesoro",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Yoruba mythology article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Ajilesoro",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ajilesoro",
+        "fandom_title": "Ajilesoro",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "abiku",
+      "yoruba-mythology",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "aganju",
+      "yoruba-mythology",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ajilesoro",
+      "yoruba-mythology",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Yoruba mythology article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:07:34.500Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0,
+    "description_ensure_at": "2026-09-13T15:49:10.156Z",
+    "description_ensure_count": 1
+  }
+}

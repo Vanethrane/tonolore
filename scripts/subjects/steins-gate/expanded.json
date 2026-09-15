@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "steins-gate",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate",
+        "fandom_title": "Steins;Gate",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_figures",
+        "fandom_title": "Steins;Gate figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_world_&_context",
+        "fandom_title": "Steins;Gate world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_places",
+        "fandom_title": "Steins;Gate places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_events",
+        "fandom_title": "Steins;Gate events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_objects_&_artifacts",
+        "fandom_title": "Steins;Gate objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_factions_&_groups",
+        "fandom_title": "Steins;Gate factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_concepts",
+        "fandom_title": "Steins;Gate concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_eras",
+        "fandom_title": "Steins;Gate eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_works_&_media",
+        "fandom_title": "Steins;Gate works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_symbols",
+        "fandom_title": "Steins;Gate symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_controversies",
+        "fandom_title": "Steins;Gate controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_geography",
+        "fandom_title": "Steins;Gate geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_legacy",
+        "fandom_title": "Steins;Gate legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_practices",
+        "fandom_title": "Steins;Gate practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_1",
+        "fandom_title": "Steins;Gate entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_2",
+        "fandom_title": "Steins;Gate entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_3",
+        "fandom_title": "Steins;Gate entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_4",
+        "fandom_title": "Steins;Gate entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_5",
+        "fandom_title": "Steins;Gate entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_6",
+        "fandom_title": "Steins;Gate entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_7",
+        "fandom_title": "Steins;Gate entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_8",
+        "fandom_title": "Steins;Gate entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_9",
+        "fandom_title": "Steins;Gate entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_10",
+        "fandom_title": "Steins;Gate entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_11",
+        "fandom_title": "Steins;Gate entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_12",
+        "fandom_title": "Steins;Gate entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_13",
+        "fandom_title": "Steins;Gate entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_14",
+        "fandom_title": "Steins;Gate entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_15",
+        "fandom_title": "Steins;Gate entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_16",
+        "fandom_title": "Steins;Gate entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_17",
+        "fandom_title": "Steins;Gate entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_18",
+        "fandom_title": "Steins;Gate entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_19",
+        "fandom_title": "Steins;Gate entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_20",
+        "fandom_title": "Steins;Gate entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_21",
+        "fandom_title": "Steins;Gate entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_22",
+        "fandom_title": "Steins;Gate entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_23",
+        "fandom_title": "Steins;Gate entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steins-gate-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steins;Gate_entry_24",
+        "fandom_title": "Steins;Gate entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Steins;Gate article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:31:29.602Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

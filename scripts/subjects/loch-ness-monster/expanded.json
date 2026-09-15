@@ -1,0 +1,502 @@
+{
+  "enrichments": [
+    {
+      "slug": "loch-ness-monster",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster",
+        "fandom_title": "Loch Ness Monster",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "The Loch Ness Monster (), known affectionately as Nessie, is a mythical creature in Scottish folklore that is said to inhabit Loch Ness in the Scottish Highlands. It is often described as large, long-necked, and with one or more humps protruding from the water. Popular interest and belief in the creature has varied since it was brought to worldwide attention in 1933. Evidence of its existence is anecdotal, with a number of disputed photographs and sonar readings.\n\nThe scientific community explains alleged sightings of the Loch Ness Monster as hoaxes, wishful thinking, the misidentification of known animals, mundane objects, and other recognized natural phenomena. The pseudoscience and subculture of cryptozoology has placed particular emphasis on the creature.\n\nIn August 1933, the Courier published the account of George Spicer's alleged sighting. Public interest skyrocketed, and countless letters were sent detailing different sightings. The letters described a \"monster fish,\" \"sea serpent,\" or \"dragon.\" Ultimately, the final name settled on was the \"Loch Ness monster.\" Since the 1940s, the creature has been affectionately called Nessie ().\n\nThe earliest report of a monster in the vicinity of Loch Ness appears in the Life of St. Columba by Adomnán, written in the 7th century AD. According to Adomnán, writing about a century after the events described, Irish monk Saint Columba was staying in the land of the Picts with his companions when he encountered local residents burying a man by the River Ness. They explained that the man was swimming in the river when he was attacked by a \"water beast\" that mauled him and dragged him underwater despite their attempts to rescue him by boat. Columba sent a follower, Luigne moccu Min, to swim across the river. The beast approached him, but Columba made the sign of the cross and said: \"Go no further. Do not touch the man. Go back at once.\" The creature stopped as if it had been \"pulled back with ropes\" and fled, and Columba's men and the Picts gave thanks for what they perceived as a miracle.",
+      "short_description": "The Loch Ness Monster (), known affectionately as Nessie, is a mythical creature in Scottish folklore that is said to inhabit Loch Ness in the Scottish Highlands. It is often described as large, long-necked, and with…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Loch_Ness_Monster_Surgeon%27s_photograph.jpg/180px-Loch_Ness_Monster_Surgeon%27s_photograph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Loch_Ness_Monster",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Loch Ness Monster article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Loch Ness Monster"
+    },
+    {
+      "slug": "loch-ness-monster-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_figures",
+        "fandom_title": "Loch Ness Monster figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_world_&_context",
+        "fandom_title": "Loch Ness Monster world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_places",
+        "fandom_title": "Loch Ness Monster places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_events",
+        "fandom_title": "Loch Ness Monster events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_objects_&_artifacts",
+        "fandom_title": "Loch Ness Monster objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_factions_&_groups",
+        "fandom_title": "Loch Ness Monster factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_concepts",
+        "fandom_title": "Loch Ness Monster concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_eras",
+        "fandom_title": "Loch Ness Monster eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_works_&_media",
+        "fandom_title": "Loch Ness Monster works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_symbols",
+        "fandom_title": "Loch Ness Monster symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_controversies",
+        "fandom_title": "Loch Ness Monster controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_geography",
+        "fandom_title": "Loch Ness Monster geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_legacy",
+        "fandom_title": "Loch Ness Monster legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_practices",
+        "fandom_title": "Loch Ness Monster practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_1",
+        "fandom_title": "Loch Ness Monster entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_2",
+        "fandom_title": "Loch Ness Monster entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_3",
+        "fandom_title": "Loch Ness Monster entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_4",
+        "fandom_title": "Loch Ness Monster entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_5",
+        "fandom_title": "Loch Ness Monster entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_6",
+        "fandom_title": "Loch Ness Monster entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_7",
+        "fandom_title": "Loch Ness Monster entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_8",
+        "fandom_title": "Loch Ness Monster entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_9",
+        "fandom_title": "Loch Ness Monster entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_10",
+        "fandom_title": "Loch Ness Monster entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_11",
+        "fandom_title": "Loch Ness Monster entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_12",
+        "fandom_title": "Loch Ness Monster entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_13",
+        "fandom_title": "Loch Ness Monster entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_14",
+        "fandom_title": "Loch Ness Monster entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_15",
+        "fandom_title": "Loch Ness Monster entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_16",
+        "fandom_title": "Loch Ness Monster entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_17",
+        "fandom_title": "Loch Ness Monster entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_18",
+        "fandom_title": "Loch Ness Monster entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_19",
+        "fandom_title": "Loch Ness Monster entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_20",
+        "fandom_title": "Loch Ness Monster entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_21",
+        "fandom_title": "Loch Ness Monster entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_22",
+        "fandom_title": "Loch Ness Monster entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_23",
+        "fandom_title": "Loch Ness Monster entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "loch-ness-monster-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster_entry_24",
+        "fandom_title": "Loch Ness Monster entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Loch Ness Monster article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:36:03.097Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

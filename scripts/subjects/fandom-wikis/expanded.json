@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "fandom-wikis",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis",
+        "fandom_title": "Fandom wikis",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_figures",
+        "fandom_title": "Fandom wikis figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_world_&_context",
+        "fandom_title": "Fandom wikis world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_places",
+        "fandom_title": "Fandom wikis places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_events",
+        "fandom_title": "Fandom wikis events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_objects_&_artifacts",
+        "fandom_title": "Fandom wikis objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_factions_&_groups",
+        "fandom_title": "Fandom wikis factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_concepts",
+        "fandom_title": "Fandom wikis concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_eras",
+        "fandom_title": "Fandom wikis eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_works_&_media",
+        "fandom_title": "Fandom wikis works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_symbols",
+        "fandom_title": "Fandom wikis symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_controversies",
+        "fandom_title": "Fandom wikis controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_geography",
+        "fandom_title": "Fandom wikis geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_legacy",
+        "fandom_title": "Fandom wikis legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_practices",
+        "fandom_title": "Fandom wikis practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_1",
+        "fandom_title": "Fandom wikis entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_2",
+        "fandom_title": "Fandom wikis entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_3",
+        "fandom_title": "Fandom wikis entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_4",
+        "fandom_title": "Fandom wikis entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_5",
+        "fandom_title": "Fandom wikis entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_6",
+        "fandom_title": "Fandom wikis entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_7",
+        "fandom_title": "Fandom wikis entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_8",
+        "fandom_title": "Fandom wikis entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_9",
+        "fandom_title": "Fandom wikis entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_10",
+        "fandom_title": "Fandom wikis entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_11",
+        "fandom_title": "Fandom wikis entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_12",
+        "fandom_title": "Fandom wikis entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_13",
+        "fandom_title": "Fandom wikis entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_14",
+        "fandom_title": "Fandom wikis entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_15",
+        "fandom_title": "Fandom wikis entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_16",
+        "fandom_title": "Fandom wikis entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_17",
+        "fandom_title": "Fandom wikis entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_18",
+        "fandom_title": "Fandom wikis entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_19",
+        "fandom_title": "Fandom wikis entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_20",
+        "fandom_title": "Fandom wikis entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_21",
+        "fandom_title": "Fandom wikis entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_22",
+        "fandom_title": "Fandom wikis entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_23",
+        "fandom_title": "Fandom wikis entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fandom-wikis-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fandom_wikis_entry_24",
+        "fandom_title": "Fandom wikis entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Fandom wikis article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:48:35.873Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

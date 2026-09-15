@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-13T03:29:48.276Z",
+  "generated_at": "2026-09-14T17:40:15.901Z",
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (pokemon.fandom.com) for identification and commentary only. Character / franchise art © Nintendo / Creatures / Game Freak (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -20712,7 +20712,7 @@
     },
     {
       "slug": "pokemon",
-      "image_url": "https://static.wikia.nocookie.net/pokemon/images/9/95/Kanto_Pok%C3%A9mon.png/revision/latest/scale-to-width-down/360?cb=20190718185033",
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/9/95/Kanto_Pok%C3%A9mon.png/revision/latest/scale-to-width-down/180?cb=20190718185033",
       "image_source": "https://pokemon.fandom.com/wiki/Pok%C3%A9mon_(creature)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo / Creatures / Game Freak (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -107620,6 +107620,64 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "cianwood-greens",
+      "name": "Cianwood Greens",
+      "type": "person",
+      "description": "The Cianwood Greens is a team who competes in the Pokémon Baccer World Cup. They specialize in the Beldum Evolution line. They play against the Jubilife Reds in the prologue.\n\npl:Puchar Świata Pokémon Baccera#Zieloni z Cianwood Category:Teams Category:Characters Category:Pokémon movie characters",
+      "short_description": "The Cianwood Greens is a team who competes in the Pokémon Baccer World Cup. They specialize in the Beldum Evolution line. They play against the Jubilife Reds in the prologue.",
+      "evidence": "fiction",
+      "parentSlug": "pokemon",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/f/f9/Tumblr_55b4de66ec9982f6b289d42173ad6721_0735db82_1280.jpg/revision/latest/scale-to-width-down/180?cb=20220217214925",
+      "image_source": "https://pokemon.fandom.com/wiki/Cianwood_Greens",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo / Creatures / Game Freak (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Cianwood Greens",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://pokemon.fandom.com/wiki/Cianwood_Greens",
+        "fandom_title": "Cianwood Greens",
+        "source_fandom": "pokemon.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brave-olivine",
+      "name": "Brave Olivine",
+      "type": "place",
+      "description": "The |Bureibu Asagi-gou|Brave Asagi}} is the airship headquarters of the Rising Volt Tacklers. It serves as the current base for Liko and Roy.\n\nThe Brave Olivine first appears in the sky near Indigo Academy, where Anne and Liko took notice of its presence. Anne notes how unusual it was for a airship to appear.\n\nDuring the end of the semester, Professor Friede brings Liko to the airship in order to escape the Explorers.\n\nAfter the Rising Volt Tacklers disbanded, the Brave Olivine fell into retirement. Orla still kept the ship in perfect condition, despite refusing to let it fly ever again. After the Rising Volt Tacklers officially reunited, the Brave Olivine once again became their base of operations.",
+      "short_description": "The |Bureibu Asagi-gou|Brave Asagi}} is the airship headquarters of the Rising Volt Tacklers. It serves as the current base for Liko and Roy.",
+      "evidence": "fiction",
+      "parentSlug": "pokemon",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/07/Brave_Asagi_Engine_Room_CA.png/revision/latest/scale-to-width-down/180?cb=20230523163614",
+      "image_source": "https://pokemon.fandom.com/wiki/Brave_Olivine",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo / Creatures / Game Freak (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Brave Olivine",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://pokemon.fandom.com/wiki/Brave_Olivine",
+        "fandom_title": "Brave Olivine",
+        "source_fandom": "pokemon.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -132310,6 +132368,22 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "cianwood-greens",
+      "pokemon",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "brave-olivine",
+      "pokemon",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "stats": {
@@ -132323,11 +132397,11 @@
     "fandom_titles": 1,
     "fandom_enriched_core": 0,
     "fandom_created": 1,
-    "fandom_images": 0,
+    "fandom_images": 1,
     "fandom_intros": 1,
     "description_backfill_at": "2026-09-11T13:14:53.088Z",
     "description_backfill_count": 2074,
-    "description_ensure_at": "2026-09-13T03:30:05.797Z",
+    "description_ensure_at": "2026-09-14T17:40:22.630Z",
     "description_ensure_count": 6
   },
   "source": {

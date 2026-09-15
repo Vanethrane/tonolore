@@ -1,0 +1,495 @@
+{
+  "enrichments": [
+    {
+      "slug": "american-girl",
+      "description": "American Girl is an American line of dolls owned by Mattel. The dolls portray 8- to 14-year-old girls of various ethnicities, faiths, nationalities, and social classes during different historical periods. They are sold with accompanying books told from the girls' viewpoints. Originally the stories, dolls and accessories focused on various periods of American history, but were expanded to include characters and stories from contemporary life. Offerings expanded over time and currently include baby dolls (Bitty Baby), Truly Me dolls, which vary by eye color, face mold, skin color, hair texture, and hair length, and Girl of the Year dolls which are contemporary characters traditionally available for only one year. A service for ordering a custom-made doll with features and clothing specified by the owner dubbed Create Your Own, was introduced in 2017.\n\nAmerican Girl dolls were introduced in 1986 by the Pleasant Company. The company was founded by Pleasant Rowland in Madison, Wisconsin, and later headquartered in Middleton, Wisconsin. Its products were originally purchasable only by mail or phone through the company's catalog. In 1998, Mattel purchased the company for $700 million. The company has been awarded the Oppenheim Toy Portfolio Award eight times and was inducted into the National Toy Hall of Fame in 2021.\n\nThe Historical Characters line of books and 18-inch dolls, which were modeled after 18-inch dolls made by Götz in West Germany (known as Germany from October 1990) during the late 1980s to the 1990s, were initially the main focus of Pleasant Company, founded by Pleasant Rowland in 1986. The original Historical Characters included Kirsten Larson, Samantha Parkington, and Molly McIntire. Each doll represented a fictional 9-year old girl living during a unique era in American history. Kirsten is a Swedish immigrant in 1854; Samantha, a well-to-do Edwardian-era orphan living in 1904; and Molly, a World War II-era girl in 1944. These original dolls formed the foundation of the American Girl historical collection, which aimed to educate and inspire through storytelling and play. This product line taught important aspects of American history through a six-book series from the perspective of a girl living in that time period.",
+      "short_description": "American Girl is an American line of dolls owned by Mattel. The dolls portray 8- to 14-year-old girls of various ethnicities, faiths, nationalities, and social classes during different historical periods. They are sold…",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl",
+        "fandom_title": "American Girl",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_figures",
+        "fandom_title": "American Girl figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_world_&_context",
+        "fandom_title": "American Girl world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_places",
+        "fandom_title": "American Girl places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_events",
+        "fandom_title": "American Girl events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_objects_&_artifacts",
+        "fandom_title": "American Girl objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_factions_&_groups",
+        "fandom_title": "American Girl factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_concepts",
+        "fandom_title": "American Girl concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_eras",
+        "fandom_title": "American Girl eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_works_&_media",
+        "fandom_title": "American Girl works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_symbols",
+        "fandom_title": "American Girl symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_controversies",
+        "fandom_title": "American Girl controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_geography",
+        "fandom_title": "American Girl geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_legacy",
+        "fandom_title": "American Girl legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_practices",
+        "fandom_title": "American Girl practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_1",
+        "fandom_title": "American Girl entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_2",
+        "fandom_title": "American Girl entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_3",
+        "fandom_title": "American Girl entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_4",
+        "fandom_title": "American Girl entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_5",
+        "fandom_title": "American Girl entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_6",
+        "fandom_title": "American Girl entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_7",
+        "fandom_title": "American Girl entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_8",
+        "fandom_title": "American Girl entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_9",
+        "fandom_title": "American Girl entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_10",
+        "fandom_title": "American Girl entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_11",
+        "fandom_title": "American Girl entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_12",
+        "fandom_title": "American Girl entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_13",
+        "fandom_title": "American Girl entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_14",
+        "fandom_title": "American Girl entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_15",
+        "fandom_title": "American Girl entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_16",
+        "fandom_title": "American Girl entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_17",
+        "fandom_title": "American Girl entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_18",
+        "fandom_title": "American Girl entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_19",
+        "fandom_title": "American Girl entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_20",
+        "fandom_title": "American Girl entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_21",
+        "fandom_title": "American Girl entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_22",
+        "fandom_title": "American Girl entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_23",
+        "fandom_title": "American Girl entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-girl-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Girl_entry_24",
+        "fandom_title": "American Girl entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. American Girl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:26:19.118Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

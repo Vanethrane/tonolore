@@ -1,0 +1,502 @@
+{
+  "enrichments": [
+    {
+      "slug": "teen-titans-go",
+      "description": "Teen Titans Go! is an American animated series developed for Cartoon Network. It premiered on April 23, 2013, and is based on DC Comics' fictional superhero team the Teen Titans and DC Nation's New Teen Titans shorts. The production companies of the series are DC Entertainment and Warner Bros. Animation, with the animation outsourced to Canada at Copernicus Studios and Bardel Entertainment.\n\nSporting a different animation style, Teen Titans Go! serves as a comedic standalone spin-off with little to no continuity to the original Teen Titans series (although some references are included as comedic fan service) or any other media in the DC Comics franchise. Many DC characters make cameo appearances and are referenced in the background. The original principal voice cast returns to reprise their respective roles. This series explores what the Titans do when they are hanging out around the tower.\n\nA feature film, Teen Titans Go! To the Movies, was released in theaters on July 27, 2018. A ninth season consisting of 52 episodes premiered in March 2025. A tenth season of the series is in development.\n\nTeen Titans Go! follows the adventures of the young Titans: Beast Boy, Robin, Cyborg, Raven, and Starfire. They reside in Jump City when they are not saving the world while living together as teenagers without adults. Unlike most of the other superhero series, the situations are comic, crazy and parodic—for example, juvenile jokes that reach new heights of danger, obtaining a license to drive after destroying the Batmobile or washing the suits after staining them when fighting their enemies. The show regularly features characters who have appeared in the original series, albeit with reduced roles or exaggerated personalities. It also features greater attachment to the DC Universe at large, with more references to other characters including those in the Justice League, plus a few appearances by Batman and Commissioner Gordon in lighthearted moments.",
+      "short_description": "Teen Titans Go! is an American animated series developed for Cartoon Network. It premiered on April 23, 2013, and is based on DC Comics' fictional superhero team the Teen Titans and DC Nation's New Teen Titans shorts.…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Teen_Titans_Go%21_horizontal_logo.svg/180px-Teen_Titans_Go%21_horizontal_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Teen_Titans_Go!",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Teen Titans Go! article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Teen Titans Go!",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!",
+        "fandom_title": "Teen Titans Go!",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      }
+    },
+    {
+      "slug": "teen-titans-go-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_figures",
+        "fandom_title": "Teen Titans Go! figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_world_&_context",
+        "fandom_title": "Teen Titans Go! world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_places",
+        "fandom_title": "Teen Titans Go! places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_events",
+        "fandom_title": "Teen Titans Go! events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_objects_&_artifacts",
+        "fandom_title": "Teen Titans Go! objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_factions_&_groups",
+        "fandom_title": "Teen Titans Go! factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_concepts",
+        "fandom_title": "Teen Titans Go! concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_eras",
+        "fandom_title": "Teen Titans Go! eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_works_&_media",
+        "fandom_title": "Teen Titans Go! works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_symbols",
+        "fandom_title": "Teen Titans Go! symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_controversies",
+        "fandom_title": "Teen Titans Go! controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_geography",
+        "fandom_title": "Teen Titans Go! geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_legacy",
+        "fandom_title": "Teen Titans Go! legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_practices",
+        "fandom_title": "Teen Titans Go! practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_1",
+        "fandom_title": "Teen Titans Go! entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_2",
+        "fandom_title": "Teen Titans Go! entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_3",
+        "fandom_title": "Teen Titans Go! entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_4",
+        "fandom_title": "Teen Titans Go! entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_5",
+        "fandom_title": "Teen Titans Go! entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_6",
+        "fandom_title": "Teen Titans Go! entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_7",
+        "fandom_title": "Teen Titans Go! entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_8",
+        "fandom_title": "Teen Titans Go! entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_9",
+        "fandom_title": "Teen Titans Go! entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_10",
+        "fandom_title": "Teen Titans Go! entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_11",
+        "fandom_title": "Teen Titans Go! entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_12",
+        "fandom_title": "Teen Titans Go! entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_13",
+        "fandom_title": "Teen Titans Go! entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_14",
+        "fandom_title": "Teen Titans Go! entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_15",
+        "fandom_title": "Teen Titans Go! entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_16",
+        "fandom_title": "Teen Titans Go! entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_17",
+        "fandom_title": "Teen Titans Go! entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_18",
+        "fandom_title": "Teen Titans Go! entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_19",
+        "fandom_title": "Teen Titans Go! entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_20",
+        "fandom_title": "Teen Titans Go! entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_21",
+        "fandom_title": "Teen Titans Go! entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_22",
+        "fandom_title": "Teen Titans Go! entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_23",
+        "fandom_title": "Teen Titans Go! entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teen-titans-go-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Teen_Titans_Go!_entry_24",
+        "fandom_title": "Teen Titans Go! entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Teen Titans Go! article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:22:01.927Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

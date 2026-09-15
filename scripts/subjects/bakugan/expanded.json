@@ -1,0 +1,530 @@
+{
+  "enrichments": [
+    {
+      "slug": "bakugan",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_Battle_Brawlers",
+        "fandom_title": "Bakugan Battle Brawlers",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "Bakugan Battle Brawlers (爆丸バトルブローラーズ, Bakugan Batoru Burōrāzu) is an animated television series produced by TMS Entertainment and Japan Vistec, with animation support and international production assistance from Nelvana. The series was directed by Mitsuo Hashimoto and originally aired in Japan from April 2007 to March 2008.\n\nThe story centers around creatures known as Bakugan and the \"Battle Brawlers\", a group of young individuals who use them in strategic battles across various dimensions. The franchise was created as a joint venture between Sega Toys and Spin Master, with Nelvana contributing to the anime's international localization and distribution. TMS Entertainment and Sega Toys hold the original anime and character rights, while Spin Master is responsible for the development, manufacturing, and global distribution of the toy line. Cartoon Network Enterprises was appointed by Nelvana International as the series' exclusive licensing agent in the United States, Europe, and Africa.\n\nAlthough originally broadcast by TV Tokyo in Japan, follow-up seasons (New Vestroia and Gundalian Invaders) premiered in Canada and the US before Japan. The fourth and final season, Mechtanium Surge, was never broadcast in Japan and instead aired in North American markets. However, a Japan-exclusive manga series, Baku Tech! Bakugan, ran from August 15, 2010, to January 15, 2014. It received an anime adaptation which aired on TV Tokyo from April 7, 2012, to March 30, 2013, followed by a second season called Baku Tech! Bakugan Gachi, which ran from April 6, 2013, to December 28, 2013.\n\nIn 2015, Spin Master and Nelvana revealed plans to relaunch Bakugan. The relaunch was later announced on November 30, 2017, to occur in the first quarter of 2019, with the series title announced as Bakugan: Battle Planet. The series premiered on Cartoon Network in the United States on December 23, 2018, while Canada's Teletoon premiered the series on December 31, 2018.",
+      "short_description": "Bakugan Battle Brawlers (爆丸バトルブローラーズ, Bakugan Batoru Burōrāzu) is an animated television series produced by TMS Entertainment and Japan Vistec, with animation support and international production assistance from…"
+    },
+    {
+      "slug": "bakugan-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_figures",
+        "fandom_title": "Bakugan figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_world_&_context",
+        "fandom_title": "Bakugan world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_places",
+        "fandom_title": "Bakugan places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_events",
+        "fandom_title": "Bakugan events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_objects_&_artifacts",
+        "fandom_title": "Bakugan objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_factions_&_groups",
+        "fandom_title": "Bakugan factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_concepts",
+        "fandom_title": "Bakugan concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_eras",
+        "fandom_title": "Bakugan eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_works_&_media",
+        "fandom_title": "Bakugan works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_symbols",
+        "fandom_title": "Bakugan symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_controversies",
+        "fandom_title": "Bakugan controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_geography",
+        "fandom_title": "Bakugan geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_legacy",
+        "fandom_title": "Bakugan legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_practices",
+        "fandom_title": "Bakugan practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_1",
+        "fandom_title": "Bakugan entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_2",
+        "fandom_title": "Bakugan entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_3",
+        "fandom_title": "Bakugan entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_4",
+        "fandom_title": "Bakugan entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_5",
+        "fandom_title": "Bakugan entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_6",
+        "fandom_title": "Bakugan entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_7",
+        "fandom_title": "Bakugan entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_8",
+        "fandom_title": "Bakugan entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_9",
+        "fandom_title": "Bakugan entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_10",
+        "fandom_title": "Bakugan entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_11",
+        "fandom_title": "Bakugan entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_12",
+        "fandom_title": "Bakugan entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_13",
+        "fandom_title": "Bakugan entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_14",
+        "fandom_title": "Bakugan entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_15",
+        "fandom_title": "Bakugan entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_16",
+        "fandom_title": "Bakugan entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_17",
+        "fandom_title": "Bakugan entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_18",
+        "fandom_title": "Bakugan entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_19",
+        "fandom_title": "Bakugan entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_20",
+        "fandom_title": "Bakugan entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_21",
+        "fandom_title": "Bakugan entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_22",
+        "fandom_title": "Bakugan entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_23",
+        "fandom_title": "Bakugan entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bakugan-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bakugan_entry_24",
+        "fandom_title": "Bakugan entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "baku-tech-bakugan",
+      "name": "Baku Tech! Bakugan",
+      "type": "topic",
+      "description": "Baku Tech! Bakugans was serialized in the Monthly CoroCoro comics, where the chapters do not have names, but rather chapter numbers instead. The chapter names only appear in the shinsōban manga volumes.\n\nThe individual chapters are collected by Shogakukan in a series of shinsōban volumes. The first volume was released on December 24, 2010. The last volume was released on February 28, 2014.\n\nAn anime adaptation had been green-lit. The series premiered in TV Tokyo, TV Osaka, TV Aichi, TV Hokkaido, TV Setouchi, TVQ Kyushu Broadcasting on April 7, 2012, as part of the Oha Coro POP programme.\n\nBaku Tech! Bakugan Gachi television series premiered in TV Tokyo from April 6, 2013, to December 28, 2013, as part of the Oha Coro POP programme, followed by TV Setouchi and TVQ Kyushu Broadcasting on 2013-04-13.",
+      "short_description": "Baku Tech! Bakugans was serialized in the Monthly CoroCoro comics, where the chapters do not have names, but rather chapter numbers instead. The chapter names only appear in the shinsōban manga volumes.",
+      "evidence": "fiction",
+      "parentSlug": "bakugan",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Baku_Tech!_Bakugan",
+        "fandom_title": "Baku Tech! Bakugan",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "baku-tech-bakugan",
+      "bakugan",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Bakugan article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:27:40.479Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0,
+    "description_ensure_at": "2026-09-13T23:34:07.840Z",
+    "description_ensure_count": 1
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "earthsea",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea",
+        "fandom_title": "Earthsea",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_figures",
+        "fandom_title": "Earthsea figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_world_&_context",
+        "fandom_title": "Earthsea world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_places",
+        "fandom_title": "Earthsea places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_events",
+        "fandom_title": "Earthsea events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_objects_&_artifacts",
+        "fandom_title": "Earthsea objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_factions_&_groups",
+        "fandom_title": "Earthsea factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_concepts",
+        "fandom_title": "Earthsea concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_eras",
+        "fandom_title": "Earthsea eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_works_&_media",
+        "fandom_title": "Earthsea works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_symbols",
+        "fandom_title": "Earthsea symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_controversies",
+        "fandom_title": "Earthsea controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_geography",
+        "fandom_title": "Earthsea geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_legacy",
+        "fandom_title": "Earthsea legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_practices",
+        "fandom_title": "Earthsea practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_1",
+        "fandom_title": "Earthsea entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_2",
+        "fandom_title": "Earthsea entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_3",
+        "fandom_title": "Earthsea entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_4",
+        "fandom_title": "Earthsea entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_5",
+        "fandom_title": "Earthsea entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_6",
+        "fandom_title": "Earthsea entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_7",
+        "fandom_title": "Earthsea entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_8",
+        "fandom_title": "Earthsea entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_9",
+        "fandom_title": "Earthsea entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_10",
+        "fandom_title": "Earthsea entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_11",
+        "fandom_title": "Earthsea entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_12",
+        "fandom_title": "Earthsea entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_13",
+        "fandom_title": "Earthsea entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_14",
+        "fandom_title": "Earthsea entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_15",
+        "fandom_title": "Earthsea entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_16",
+        "fandom_title": "Earthsea entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_17",
+        "fandom_title": "Earthsea entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_18",
+        "fandom_title": "Earthsea entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_19",
+        "fandom_title": "Earthsea entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_20",
+        "fandom_title": "Earthsea entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_21",
+        "fandom_title": "Earthsea entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_22",
+        "fandom_title": "Earthsea entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_23",
+        "fandom_title": "Earthsea entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earthsea-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Earthsea_entry_24",
+        "fandom_title": "Earthsea entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Earthsea article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:43:50.457Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

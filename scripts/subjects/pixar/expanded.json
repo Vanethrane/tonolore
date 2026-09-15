@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T03:17:18.795Z",
+  "generated_at": "2026-09-14T17:25:31.952Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (pixar.fandom.com) for identification and commentary only. Pixar art © Disney / Pixar (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -4867,7 +4867,7 @@
       "parentSlug": "pixar",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/pixar/images/c/c8/Tokyo_mater.png/revision/latest/scale-to-width-down/360?cb=20110517162618",
+      "image_url": "https://static.wikia.nocookie.net/pixar/images/c/c8/Tokyo_mater.png/revision/latest/scale-to-width-down/180?cb=20110517162618",
       "image_source": "https://pixar.fandom.com/wiki/Tokyo_Mater",
       "image_credit": "Fair-use identification thumbnail via Fandom. Pixar art © Disney / Pixar (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -18184,6 +18184,35 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "monsters-inc",
+      "name": "Monsters, Inc.",
+      "type": "work",
+      "description": "Monsters, Inc. is the fourth feature film of Pixar. It was released in theatres on November 2, 2001, and re-released in 3D on December 19, 2012. A prequel to the film, Monsters University, was released on June 21, 2013.\n\nSet in an alternate dimension run by monsters, Monsters Inc. features monsters working in the Monsters, Inc. factory where monsters enter the Human World to scare children so their screams can power the Monster World. However, when a human girl named Boo enters their world, top scarer James P. Sullivan and his assistant, Mike Wazowski, must return her.\n\nMonsters, Inc. is set in Monstropolis, a city inhabited by monsters, some of whom are those who emerge from bedroom closets to scare human children. This is used to collect the screams of kids, which power the city. The main power company in the city is called Monsters, Inc. The Chairman and Chief Executive CEO is a crab-like monster, Henry J. Waternoose. The top scarer at Monsters, Inc. is James P. Sullivan, a blue-furred monster (with purple spots) who is partnered with the green, one-eyed Mike Wazowski.\n\nThe two of them are best friends and roommates. Sulley is a gentle and easy-going creature, while Mike is obsessed with his vehicle and dreams of marrying his future girlfriend, the Medusa-like Celia Mae. Sulley's main rival as a scarer is the gecko-like Randall Boggs who possesses the ability to change the color of himself to blend into his background, like an actual gecko.",
+      "short_description": "Monsters, Inc. is the fourth feature film of Pixar. It was released in theatres on November 2, 2001, and re-released in 3D on December 19, 2012. A prequel to the film, Monsters University, was released on June 21, 2013.",
+      "evidence": "fiction",
+      "parentSlug": "pixar",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/pixar/images/5/5e/Monsters_Inc..jpg/revision/latest/scale-to-width-down/180?cb=20240605232847",
+      "image_source": "https://pixar.fandom.com/wiki/Monsters,_Inc.",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Pixar art © Disney / Pixar (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Monsters, Inc.",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "work",
+        "fandom_url": "https://pixar.fandom.com/wiki/Monsters,_Inc.",
+        "fandom_title": "Monsters, Inc.",
+        "source_fandom": "pixar.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -23173,6 +23202,14 @@
     ],
     [
       "monsters-university",
+      "pixar",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "monsters-inc",
       "pixar",
       "part_of",
       "Part of",

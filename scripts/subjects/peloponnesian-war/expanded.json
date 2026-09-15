@@ -1,0 +1,502 @@
+{
+  "enrichments": [
+    {
+      "slug": "peloponnesian-war",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War",
+        "fandom_title": "Peloponnesian War",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "The Peloponnesian War}} was fought in the Eastern Mediterranean between the Athenian-led Delian League and the Spartan-led Peloponnesian League from 431 to 404 BC for hegemony over Ancient Greece. Initially inconclusive, the intervention of the Persian Empire in support of Sparta in 413 BC allowed the Spartan coalition to decisively defeat Athens, beginning a period of Spartan hegemony over Greece.\n\nThe war consists of four related conflicts which have traditionally been combined into one. The opening phase, called the Ten Years' War or the Archidamian War, began in 431 BC when the Spartan king Archidamus II invaded Attica with his army. After successive Spartan invasions of Attica and Athenian raiding of the Peloponnese, Athens gained the upper hand at Sphacteria in 425 BC, but suffered a major defeat by Thebes at Delium in 424 BC. Both sides also faced rebellions within their respective alliances. With both city-states exhausted from years of fighting, the Peace of Nicias was signed in 421 BC. The second phase, the Argive War (419–416 BC), was a proxy war between Sparta and its Peloponnesian rivals, led by Argos and supported by Athens. The Argive alliance was defeated at Mantinea in 418 BC, restoring Spartan control over the Peloponnese. The third phase, the Sicilian Expedition, saw Athens attempt to conquer the Spartan-allied Syracuse. Fought between 415 and 413 BC, the expedition ended in defeat for Athens and the destruction of most of its navy.\n\nAfter the expedition's failure, Sparta, now allied to the Persian Empire, broke the peace in 413 BC and began the final phase of the war, called the Decelean War or Ionian War. While Persia captured the Athenian cities in Asia Minor; Sparta, led by Lysander, built a Persian-financed fleet to break Athens's naval superiority. Sparta won the decisive battle of Aegospotami in 405 BC, which broke the power of the Delian League. Athens fell the following year and the Delian League was dissolved, ending the war. The Delian League's democracies were replaced with Spartan-style oligarchies, most notably the Thirty Tyrants in Athens. Spartan hegemony was short-lived after the victory. A decade later Athens regained its independence in the Corinthian War, and Sparta's power continued to fall in the years to come.",
+      "short_description": "The Peloponnesian War}} was fought in the Eastern Mediterranean between the Athenian-led Delian League and the Spartan-led Peloponnesian League from 431 to 404 BC for hegemony over Ancient Greece. Initially…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Pelop_war_en.png/180px-Pelop_war_en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Peloponnesian_War",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Peloponnesian War article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Peloponnesian War"
+    },
+    {
+      "slug": "peloponnesian-war-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_figures",
+        "fandom_title": "Peloponnesian War figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_world_&_context",
+        "fandom_title": "Peloponnesian War world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_places",
+        "fandom_title": "Peloponnesian War places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_events",
+        "fandom_title": "Peloponnesian War events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_objects_&_artifacts",
+        "fandom_title": "Peloponnesian War objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_factions_&_groups",
+        "fandom_title": "Peloponnesian War factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_concepts",
+        "fandom_title": "Peloponnesian War concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_eras",
+        "fandom_title": "Peloponnesian War eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_works_&_media",
+        "fandom_title": "Peloponnesian War works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_symbols",
+        "fandom_title": "Peloponnesian War symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_controversies",
+        "fandom_title": "Peloponnesian War controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_geography",
+        "fandom_title": "Peloponnesian War geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_legacy",
+        "fandom_title": "Peloponnesian War legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_practices",
+        "fandom_title": "Peloponnesian War practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_1",
+        "fandom_title": "Peloponnesian War entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_2",
+        "fandom_title": "Peloponnesian War entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_3",
+        "fandom_title": "Peloponnesian War entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_4",
+        "fandom_title": "Peloponnesian War entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_5",
+        "fandom_title": "Peloponnesian War entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_6",
+        "fandom_title": "Peloponnesian War entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_7",
+        "fandom_title": "Peloponnesian War entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_8",
+        "fandom_title": "Peloponnesian War entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_9",
+        "fandom_title": "Peloponnesian War entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_10",
+        "fandom_title": "Peloponnesian War entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_11",
+        "fandom_title": "Peloponnesian War entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_12",
+        "fandom_title": "Peloponnesian War entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_13",
+        "fandom_title": "Peloponnesian War entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_14",
+        "fandom_title": "Peloponnesian War entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_15",
+        "fandom_title": "Peloponnesian War entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_16",
+        "fandom_title": "Peloponnesian War entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_17",
+        "fandom_title": "Peloponnesian War entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_18",
+        "fandom_title": "Peloponnesian War entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_19",
+        "fandom_title": "Peloponnesian War entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_20",
+        "fandom_title": "Peloponnesian War entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_21",
+        "fandom_title": "Peloponnesian War entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_22",
+        "fandom_title": "Peloponnesian War entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_23",
+        "fandom_title": "Peloponnesian War entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peloponnesian-war-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peloponnesian_War_entry_24",
+        "fandom_title": "Peloponnesian War entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Peloponnesian War article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:53:05.514Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "method-acting",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting",
+        "fandom_title": "Method acting",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_figures",
+        "fandom_title": "Method acting figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_world_&_context",
+        "fandom_title": "Method acting world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_places",
+        "fandom_title": "Method acting places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_events",
+        "fandom_title": "Method acting events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_objects_&_artifacts",
+        "fandom_title": "Method acting objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_factions_&_groups",
+        "fandom_title": "Method acting factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_concepts",
+        "fandom_title": "Method acting concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_eras",
+        "fandom_title": "Method acting eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_works_&_media",
+        "fandom_title": "Method acting works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_symbols",
+        "fandom_title": "Method acting symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_controversies",
+        "fandom_title": "Method acting controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_geography",
+        "fandom_title": "Method acting geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_legacy",
+        "fandom_title": "Method acting legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_practices",
+        "fandom_title": "Method acting practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_1",
+        "fandom_title": "Method acting entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_2",
+        "fandom_title": "Method acting entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_3",
+        "fandom_title": "Method acting entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_4",
+        "fandom_title": "Method acting entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_5",
+        "fandom_title": "Method acting entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_6",
+        "fandom_title": "Method acting entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_7",
+        "fandom_title": "Method acting entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_8",
+        "fandom_title": "Method acting entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_9",
+        "fandom_title": "Method acting entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_10",
+        "fandom_title": "Method acting entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_11",
+        "fandom_title": "Method acting entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_12",
+        "fandom_title": "Method acting entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_13",
+        "fandom_title": "Method acting entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_14",
+        "fandom_title": "Method acting entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_15",
+        "fandom_title": "Method acting entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_16",
+        "fandom_title": "Method acting entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_17",
+        "fandom_title": "Method acting entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_18",
+        "fandom_title": "Method acting entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_19",
+        "fandom_title": "Method acting entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_20",
+        "fandom_title": "Method acting entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_21",
+        "fandom_title": "Method acting entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_22",
+        "fandom_title": "Method acting entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_23",
+        "fandom_title": "Method acting entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "method-acting-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Method_acting_entry_24",
+        "fandom_title": "Method acting entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Method acting article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:53:53.062Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,0 +1,495 @@
+{
+  "enrichments": [
+    {
+      "slug": "re-zero",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero",
+        "fandom_title": "Re:Zero",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "The series' first four arcs have been adapted into separate manga series. The first, by Daichi Matsue, was published between June 2014 and March 2015. The second, by Makoto Fugetsu, has been published by Square Enix between October 2014 and January 2017. The third, also by Matsue, was also published between May 2015 and September 2019. The fourth, by Haruno Atori, with composition by Yu Aikawa, has been published since September 2019. Additionally, Media Factory has published two anthology manga with stories by different artists. In March 2017, game developer 5pb. released a visual novel based on the light novels.\n\nAn anime television series adaptation produced by White Fox aired from April to September 2016, starting with an hour-long first episode. Two original video animations (OVAs) were released in October 2018 and November 2019. A second season aired in a split-cours format, with the first half airing from July to September 2020, and the second half airing from January to March 2021. A third season also premiered in a split-cours format, with the first half airing from October to November 2024, and the second half airing from February to March 2025. A fourth season premiered in April 2026.\n\nThe novels and all three manga adaptations are published in North America by Yen Press. The overall series (light novel and manga volumes) had over 13 million copies in circulation by March 2023 (including digital versions), while the anime series has sold more than 70,000 copies on home video. The light novels have been praised for their fresh take on the \"another world\" (isekai) concept, fleshed-out characters, complex world and lore, and thought-provoking topics and themes.\n\nSubaru Natsuki is a NEET who is suddenly summoned to a fantasy-like world. Just after arriving, he is killed while trying to help a young half-elf he befriends, Emilia, who is a candidate to become the next ruler of the Kingdom of Lugunica, only to revive some hours in the past. After dying a few times, Subaru realizes that he has the power to turn back time after his death. After successfully helping Emilia, Subaru starts living in one of the Mansions of Roswaal L. Mathers as a butler. Out of gratitude and affection for Emilia, Subaru makes use of his newfound ability to protect her and help on her ambition to be successfully appointed as the next queen, also providing assistance to other friends he makes along the way, while suffering due to the pain inflicted on him every time he dies, and carrying along the memories of everything that happened before his power activates, which is forgotten by everybody except for him.",
+      "short_description": "The series' first four arcs have been adapted into separate manga series. The first, by Daichi Matsue, was published between June 2014 and March 2015. The second, by Makoto Fugetsu, has been published by Square Enix…"
+    },
+    {
+      "slug": "re-zero-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_figures",
+        "fandom_title": "Re:Zero figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_world_&_context",
+        "fandom_title": "Re:Zero world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_places",
+        "fandom_title": "Re:Zero places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_events",
+        "fandom_title": "Re:Zero events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_objects_&_artifacts",
+        "fandom_title": "Re:Zero objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_factions_&_groups",
+        "fandom_title": "Re:Zero factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_concepts",
+        "fandom_title": "Re:Zero concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_eras",
+        "fandom_title": "Re:Zero eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_works_&_media",
+        "fandom_title": "Re:Zero works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_symbols",
+        "fandom_title": "Re:Zero symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_controversies",
+        "fandom_title": "Re:Zero controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_geography",
+        "fandom_title": "Re:Zero geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_legacy",
+        "fandom_title": "Re:Zero legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_practices",
+        "fandom_title": "Re:Zero practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_1",
+        "fandom_title": "Re:Zero entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_2",
+        "fandom_title": "Re:Zero entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_3",
+        "fandom_title": "Re:Zero entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_4",
+        "fandom_title": "Re:Zero entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_5",
+        "fandom_title": "Re:Zero entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_6",
+        "fandom_title": "Re:Zero entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_7",
+        "fandom_title": "Re:Zero entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_8",
+        "fandom_title": "Re:Zero entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_9",
+        "fandom_title": "Re:Zero entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_10",
+        "fandom_title": "Re:Zero entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_11",
+        "fandom_title": "Re:Zero entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_12",
+        "fandom_title": "Re:Zero entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_13",
+        "fandom_title": "Re:Zero entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_14",
+        "fandom_title": "Re:Zero entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_15",
+        "fandom_title": "Re:Zero entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_16",
+        "fandom_title": "Re:Zero entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_17",
+        "fandom_title": "Re:Zero entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_18",
+        "fandom_title": "Re:Zero entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_19",
+        "fandom_title": "Re:Zero entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_20",
+        "fandom_title": "Re:Zero entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_21",
+        "fandom_title": "Re:Zero entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_22",
+        "fandom_title": "Re:Zero entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_23",
+        "fandom_title": "Re:Zero entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "re-zero-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Re:Zero_entry_24",
+        "fandom_title": "Re:Zero entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Re:Zero article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:31:16.558Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

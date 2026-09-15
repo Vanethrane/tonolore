@@ -1,0 +1,500 @@
+{
+  "enrichments": [
+    {
+      "slug": "art-theft",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/ISGardnerMuseum.JPG/180px-ISGardnerMuseum.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Art_theft",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Art theft article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Art theft",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft",
+        "fandom_title": "Art theft",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      }
+    },
+    {
+      "slug": "art-theft-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_figures",
+        "fandom_title": "Art theft figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_world_&_context",
+        "fandom_title": "Art theft world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_places",
+        "fandom_title": "Art theft places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_events",
+        "fandom_title": "Art theft events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_objects_&_artifacts",
+        "fandom_title": "Art theft objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_factions_&_groups",
+        "fandom_title": "Art theft factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_concepts",
+        "fandom_title": "Art theft concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_eras",
+        "fandom_title": "Art theft eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_works_&_media",
+        "fandom_title": "Art theft works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_symbols",
+        "fandom_title": "Art theft symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_controversies",
+        "fandom_title": "Art theft controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_geography",
+        "fandom_title": "Art theft geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_legacy",
+        "fandom_title": "Art theft legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_practices",
+        "fandom_title": "Art theft practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_1",
+        "fandom_title": "Art theft entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_2",
+        "fandom_title": "Art theft entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_3",
+        "fandom_title": "Art theft entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_4",
+        "fandom_title": "Art theft entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_5",
+        "fandom_title": "Art theft entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_6",
+        "fandom_title": "Art theft entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_7",
+        "fandom_title": "Art theft entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_8",
+        "fandom_title": "Art theft entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_9",
+        "fandom_title": "Art theft entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_10",
+        "fandom_title": "Art theft entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_11",
+        "fandom_title": "Art theft entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_12",
+        "fandom_title": "Art theft entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_13",
+        "fandom_title": "Art theft entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_14",
+        "fandom_title": "Art theft entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_15",
+        "fandom_title": "Art theft entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_16",
+        "fandom_title": "Art theft entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_17",
+        "fandom_title": "Art theft entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_18",
+        "fandom_title": "Art theft entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_19",
+        "fandom_title": "Art theft entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_20",
+        "fandom_title": "Art theft entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_21",
+        "fandom_title": "Art theft entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_22",
+        "fandom_title": "Art theft entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_23",
+        "fandom_title": "Art theft entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "art-theft-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Art_theft_entry_24",
+        "fandom_title": "Art theft entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Art theft article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:45:06.051Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,0 +1,1656 @@
+{
+  "enrichments": [
+    {
+      "slug": "halifax-explosion",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Halifax_Explosion_blast_cloud_restored.jpg/180px-Halifax_Explosion_blast_cloud_restored.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Halifax_Explosion",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Halifax Explosion",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion",
+        "fandom_title": "Halifax Explosion",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "On the morning of 6 December 1917, the French cargo ship and the Norwegian vessel collided in the harbour of Halifax, Nova Scotia, Canada. Laden with high explosives, Mont-Blanc caught fire and detonated, devastating the Richmond district of Halifax. At least 1,782 people, largely in Halifax and Dartmouth, were killed by the blast, debris, fires, or collapsed buildings, and an estimated 9,000 others were injured. The blast was the largest human-made explosion at the time. It released the equivalent energy of roughly .\n\nMont-Blanc was under orders from the French government to carry her cargo from New York City via Halifax to Bordeaux, France. At roughly 8:45&nbsp;am, she collided at low speed, about , with the unladen Imo, chartered by the Commission for Relief in Belgium to pick up a cargo of relief supplies in New York. On Mont-Blanc, the impact damaged benzol barrels stored on deck, causing them to leak vapours, which were ignited by sparks from the collision, setting off a fire on board that quickly grew out of control. Around 20 minutes later at 9:04:35&nbsp;am, Mont-Blanc exploded.\n\nNearly all structures within an or half-mile radius, including the community of Richmond, were obliterated. A pressure wave snapped trees, bent iron rails, demolished buildings, grounded vessels (including Imo, which was washed ashore by the ensuing tsunami), and scattered fragments of Mont-Blanc for kilometres. Across the harbour, Dartmouth also sustained widespread damage. A tsunami created by the blast wiped out a community of Mi'kmaq, who had lived in the Tufts Cove area for generations.\n\nRelief efforts began almost immediately, and hospitals quickly became full. Rescue trains began arriving the day of the explosion from across Nova Scotia and New Brunswick, while other trains from central Canada and the Northeastern United States were impeded by blizzards. Construction of temporary shelters to house the many people left homeless began soon after the disaster. The initial judicial inquiry found Mont-Blanc to have been responsible for the disaster, but a later appeal determined that both vessels were to blame. The North End of Halifax has several memorials to the victims of the explosion.",
+      "short_description": "On the morning of 6 December 1917, the French cargo ship and the Norwegian vessel collided in the harbour of Halifax, Nova Scotia, Canada. Laden with high explosives, Mont-Blanc caught fire and detonated, devastating…"
+    },
+    {
+      "slug": "halifax-explosion-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_figures",
+        "fandom_title": "Halifax Explosion figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_world_&_context",
+        "fandom_title": "Halifax Explosion world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_places",
+        "fandom_title": "Halifax Explosion places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_events",
+        "fandom_title": "Halifax Explosion events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_objects_&_artifacts",
+        "fandom_title": "Halifax Explosion objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_factions_&_groups",
+        "fandom_title": "Halifax Explosion factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_concepts",
+        "fandom_title": "Halifax Explosion concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_eras",
+        "fandom_title": "Halifax Explosion eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_works_&_media",
+        "fandom_title": "Halifax Explosion works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_symbols",
+        "fandom_title": "Halifax Explosion symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_controversies",
+        "fandom_title": "Halifax Explosion controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_geography",
+        "fandom_title": "Halifax Explosion geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_legacy",
+        "fandom_title": "Halifax Explosion legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_practices",
+        "fandom_title": "Halifax Explosion practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_1",
+        "fandom_title": "Halifax Explosion entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_2",
+        "fandom_title": "Halifax Explosion entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_3",
+        "fandom_title": "Halifax Explosion entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_4",
+        "fandom_title": "Halifax Explosion entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_5",
+        "fandom_title": "Halifax Explosion entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_6",
+        "fandom_title": "Halifax Explosion entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_7",
+        "fandom_title": "Halifax Explosion entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_8",
+        "fandom_title": "Halifax Explosion entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_9",
+        "fandom_title": "Halifax Explosion entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_10",
+        "fandom_title": "Halifax Explosion entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_11",
+        "fandom_title": "Halifax Explosion entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_12",
+        "fandom_title": "Halifax Explosion entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_13",
+        "fandom_title": "Halifax Explosion entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_14",
+        "fandom_title": "Halifax Explosion entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_15",
+        "fandom_title": "Halifax Explosion entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_16",
+        "fandom_title": "Halifax Explosion entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_17",
+        "fandom_title": "Halifax Explosion entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_18",
+        "fandom_title": "Halifax Explosion entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_19",
+        "fandom_title": "Halifax Explosion entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_20",
+        "fandom_title": "Halifax Explosion entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_21",
+        "fandom_title": "Halifax Explosion entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_22",
+        "fandom_title": "Halifax Explosion entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_23",
+        "fandom_title": "Halifax Explosion entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_entry_24",
+        "fandom_title": "Halifax Explosion entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "africville",
+      "name": "Africville",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Africville_monument.jpg/180px-Africville_monument.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Africville",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Africville",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Africville",
+        "fandom_title": "Africville",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "barometer-rising",
+      "name": "Barometer Rising",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Barometer_Rising",
+        "fandom_title": "Barometer Rising",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "boston-christmas-tree",
+      "name": "Boston Christmas Tree",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/2010_Boston_Halifax_Christmas_tree_on_Boston_Common_USA_5273771973.jpg/180px-2010_Boston_Halifax_Christmas_tree_on_Boston_Common_USA_5273771973.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Boston_Christmas_Tree",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Boston Christmas Tree",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Boston_Christmas_Tree",
+        "fandom_title": "Boston Christmas Tree",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "burden-of-desire",
+      "name": "Burden of Desire",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Burden_of_Desire",
+        "fandom_title": "Burden of Desire",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "vince-coleman-train-dispatcher",
+      "name": "Vince Coleman",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Vince_coleman-face-pre1917.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_source": "https://en.wikipedia.org/wiki/Vince_Coleman_(train_dispatcher)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Vince Coleman (train dispatcher)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Vince_Coleman_(train_dispatcher)",
+        "fandom_title": "Vince Coleman (train dispatcher)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-flying-sailor",
+      "name": "The Flying Sailor",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Flying_Sailor",
+        "fandom_title": "The Flying Sailor",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maccallum-grant",
+      "name": "MacCallum Grant",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/MacCallum_Grant.jpg/180px-MacCallum_Grant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/MacCallum_Grant",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for MacCallum Grant",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/MacCallum_Grant",
+        "fandom_title": "MacCallum Grant",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-memorial-sculpture",
+      "name": "Halifax Explosion Memorial Sculpture",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Halifax_Explosion_Memorial_Sculpture_%281985%29.jpg/180px-Halifax_Explosion_Memorial_Sculpture_%281985%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Halifax_Explosion_Memorial_Sculpture",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Halifax Explosion Memorial Sculpture",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_Memorial_Sculpture",
+        "fandom_title": "Halifax Explosion Memorial Sculpture",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-public-libraries",
+      "name": "Halifax Public Libraries",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/7e/Montage_of_Halifax_Public_Libraries.jpg/180px-Montage_of_Halifax_Public_Libraries.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Halifax_Public_Libraries",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Halifax Public Libraries",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Public_Libraries",
+        "fandom_title": "Halifax Public Libraries",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hydrostone",
+      "name": "Hydrostone",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Hydrostone_market_Halifax.JPG/180px-Hydrostone_market_Halifax.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Hydrostone",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Hydrostone",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Hydrostone",
+        "fandom_title": "Hydrostone",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "janet-kitz",
+      "name": "Janet Kitz",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/KitzONS.jpg/180px-KitzONS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Janet_Kitz",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Janet Kitz",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Janet_Kitz",
+        "fandom_title": "Janet Kitz",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "north-end-halifax",
+      "name": "North End, Halifax",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Agricola_Street_June_2015.jpg/180px-Agricola_Street_June_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/North_End,_Halifax",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for North End, Halifax",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/North_End,_Halifax",
+        "fandom_title": "North End, Halifax",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "north-street-station-halifax-nova-scotia",
+      "name": "North Street Station",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Northstreetstation.gif/180px-Northstreetstation.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/North_Street_Station_(Halifax,_Nova_Scotia)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for North Street Station (Halifax, Nova Scotia)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/North_Street_Station_(Halifax,_Nova_Scotia)",
+        "fandom_title": "North Street Station (Halifax, Nova Scotia)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "halifax-explosion-in-popular-culture",
+      "name": "Halifax Explosion in popular culture",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Halifax_Explosion_in_popular_culture",
+        "fandom_title": "Halifax Explosion in popular culture",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "a-romance-of-the-halifax-disaster",
+      "name": "A Romance of the Halifax Disaster",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/A_Romance_of_the_Halifax_Disaster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_source": "https://en.wikipedia.org/wiki/A_Romance_of_the_Halifax_Disaster",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for A Romance of the Halifax Disaster",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/A_Romance_of_the_Halifax_Disaster",
+        "fandom_title": "A Romance of the Halifax Disaster",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shattered-city-the-halifax-explosion-and-the-road-to-recovery",
+      "name": "Shattered City: The Halifax Explosion and the Road to Recovery",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Shattered_City:_The_Halifax_Explosion_and_the_Road_to_Recovery",
+        "fandom_title": "Shattered City: The Halifax Explosion and the Road to Recovery",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shattered-city-the-halifax-explosion",
+      "name": "Shattered City: The Halifax Explosion",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Shattered_City:_The_Halifax_Explosion",
+        "fandom_title": "Shattered City: The Halifax Explosion",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tufts-cove-nova-scotia",
+      "name": "Tufts Cove, Nova Scotia",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Tufts_Cove_Station.jpg/180px-Tufts_Cove_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Tufts_Cove,_Nova_Scotia",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Tufts Cove, Nova Scotia",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Tufts_Cove,_Nova_Scotia",
+        "fandom_title": "Tufts Cove, Nova Scotia",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "until-i-find-you",
+      "name": "Until I Find You",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Until_I_Find_You",
+        "fandom_title": "Until I Find You",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "yellow-canary-film",
+      "name": "Yellow Canary",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Yellow_Canary_(film)",
+        "fandom_title": "Yellow Canary (film)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "css-acadia",
+      "name": "CSS Acadia",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/CSS_Acadia_1.jpg/180px-CSS_Acadia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/CSS_Acadia",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for CSS Acadia",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/CSS_Acadia",
+        "fandom_title": "CSS Acadia",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hms-calgarian",
+      "name": "HMS Calgarian",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/HMS_Calgarian.jpg/180px-HMS_Calgarian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/HMS_Calgarian",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for HMS Calgarian",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/HMS_Calgarian",
+        "fandom_title": "HMS Calgarian",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hms-highflyer-1898",
+      "name": "HMS Highflyer",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/HMS_Highflyer_AWM_302207.jpeg/180px-HMS_Highflyer_AWM_302207.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/HMS_Highflyer_(1898)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for HMS Highflyer (1898)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/HMS_Highflyer_(1898)",
+        "fandom_title": "HMS Highflyer (1898)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ss-imo",
+      "name": "SS Imo",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/SS_Imo_1915.jpg/180px-SS_Imo_1915.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/SS_Imo",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for SS Imo",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/SS_Imo",
+        "fandom_title": "SS Imo",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ss-kronprinz-wilhelm",
+      "name": "SS Kronprinz Wilhelm",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/The_SS_Kronprinz_Wilhelm_of_NDL_in_an_unknown_location.jpg/180px-The_SS_Kronprinz_Wilhelm_of_NDL_in_an_unknown_location.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/SS_Kronprinz_Wilhelm",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for SS Kronprinz Wilhelm",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/SS_Kronprinz_Wilhelm",
+        "fandom_title": "SS Kronprinz Wilhelm",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ss-mont-blanc",
+      "name": "SS Mont-Blanc",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/SS_Mont_Blanc%2C_in_1899.png/180px-SS_Mont_Blanc%2C_in_1899.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/SS_Mont-Blanc",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for SS Mont-Blanc",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/SS_Mont-Blanc",
+        "fandom_title": "SS Mont-Blanc",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "usrc-morrill",
+      "name": "USRC Morrill",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/USRC_Morrill_%281889-1928%29_-_19-N-19-21-10.jpg/180px-USRC_Morrill_%281889-1928%29_-_19-N-19-21-10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/USRC_Morrill",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for USRC Morrill",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/USRC_Morrill",
+        "fandom_title": "USRC Morrill",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hms-niobe-1897",
+      "name": "HMS Niobe",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/HMCS_Niobe_LOC_08665.jpg/180px-HMCS_Niobe_LOC_08665.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/HMS_Niobe_(1897)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for HMS Niobe (1897)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/HMS_Niobe_(1897)",
+        "fandom_title": "HMS Niobe (1897)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ss-picton",
+      "name": "SS Picton",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/SS_Picton",
+        "fandom_title": "SS Picton",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "st-stella-maris",
+      "name": "ST Stella Maris",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/ST_Stella_Maris",
+        "fandom_title": "ST Stella Maris",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "uss-tacoma-cl-20",
+      "name": "USS Tacoma",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/USS_Tacoma_%28CL-20%29.jpg/180px-USS_Tacoma_%28CL-20%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/USS_Tacoma_(CL-20)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for USS Tacoma (CL-20)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/USS_Tacoma_(CL-20)",
+        "fandom_title": "USS Tacoma (CL-20)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ashpan-annie",
+      "name": "Ashpan Annie",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ashpan_Annie",
+        "fandom_title": "Ashpan Annie",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "eric-davidson-survivor",
+      "name": "Eric Davidson",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Eric_Davidson_(survivor)",
+        "fandom_title": "Eric Davidson (survivor)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "j-p-d-lloyd",
+      "name": "J. P. D. Lloyd",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "halifax-explosion",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Rev._John_Plummer_Derwent_Llwyd.jpg/180px-Rev._John_Plummer_Derwent_Llwyd.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/J._P._D._Lloyd",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for J. P. D. Lloyd",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/J._P._D._Lloyd",
+        "fandom_title": "J. P. D. Lloyd",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "africville",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "barometer-rising",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "boston-christmas-tree",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "burden-of-desire",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "vince-coleman-train-dispatcher",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-flying-sailor",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "maccallum-grant",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "halifax-explosion-memorial-sculpture",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "halifax-public-libraries",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "hydrostone",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "janet-kitz",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "north-end-halifax",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "north-street-station-halifax-nova-scotia",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "halifax-explosion-in-popular-culture",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "a-romance-of-the-halifax-disaster",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "shattered-city-the-halifax-explosion-and-the-road-to-recovery",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "shattered-city-the-halifax-explosion",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "tufts-cove-nova-scotia",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "until-i-find-you",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "yellow-canary-film",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "css-acadia",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "hms-calgarian",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "hms-highflyer-1898",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ss-imo",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ss-kronprinz-wilhelm",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ss-mont-blanc",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "usrc-morrill",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "hms-niobe-1897",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ss-picton",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "st-stella-maris",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "uss-tacoma-cl-20",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ashpan-annie",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "eric-davidson-survivor",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "j-p-d-lloyd",
+      "halifax-explosion",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Halifax Explosion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:12:14.127Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

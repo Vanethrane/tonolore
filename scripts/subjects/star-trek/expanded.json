@@ -76,7 +76,7 @@
       "slug": "starfleet-personnel",
       "name": "Starfleet personnel",
       "type": "person",
-      "description": "Lists of personnel who served in United Earth Starfleet or Federation Starfleet.\n\nIf a ship has too few personnel to have a list of personnel linked below, a personnel listing will be included in that ship's article (list of starships).\n\nde:Liste von Angehörigen der Sternenflotte fr:Personnel de Starfleet it:Personale della Flotta Stellare ja:宇宙艦隊の人員 00",
+      "description": "The following is a list of personnel in service in the pre-Federation Starfleet during the 22nd century.\n\nde:Liste des Sternenflottenpersonals (22. Jahrhundert) fr:Personnel de Starfleet (22ème siècle) 01",
       "short_description": "Lists of personnel who served in United Earth Starfleet or Federation Starfleet.",
       "evidence": "fiction",
       "parentSlug": "star-trek",
@@ -87,8 +87,8 @@
         "discovered": true,
         "source": "fandom",
         "kind": "character",
-        "fandom_url": "https://memory-alpha.fandom.com/wiki/Starfleet_personnel",
-        "fandom_title": "Starfleet personnel",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Starfleet_personnel_(22nd_century)",
+        "fandom_title": "Starfleet personnel (22nd century)",
         "source_fandom": "memory-alpha.fandom.com",
         "sources": [
           "fandom"
@@ -14500,6 +14500,93 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "aamaarazan-homeworld",
+      "name": "Aamaarazan homeworld",
+      "type": "place",
+      "description": "The Aamaarazan homeworld was the home planet of the Aamaarazans. This planet was located in the Alpha Quadrant.\n\nIn 3196, during the Omega-47 crisis, the location of \"Aamaarazan Homeworld\" was depicted on star charts and readouts used across several locations on the to locate, monitor, and respond to the Omega-47 mines laid by the Venari Ral. This location was one of the few labeled with a star. ()",
+      "short_description": "The Aamaarazan homeworld was the home planet of the Aamaarazans. This planet was located in the Alpha Quadrant.",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/memoryalpha/images/1/1f/Athena_galactic_map_loading_in.png/revision/latest/scale-to-width-down/180?cb=20260405010223&path-prefix=en",
+      "image_source": "https://memory-alpha.fandom.com/wiki/Aamaarazan_homeworld",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Aamaarazan homeworld",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Aamaarazan_homeworld",
+        "fandom_title": "Aamaarazan homeworld",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rakosa-one",
+      "name": "Rakosa One",
+      "type": "object",
+      "description": "Rakosa One was the lead fighter of a group of fifteen Rakosan fighters that attempted to defend their homeworld from the Cardassian-built missile . The pilot of Rakosa One refused to break off his attack when Captain Kathryn Janeway requested she be allowed more time to rescue B'Elanna Torres from aboard the missile.\n\nThe Rakosan fleet was forced to retreat after Dreadnoughts armaments proved too sophisticated for their weaponry. () Category:Spacecraft",
+      "short_description": "Rakosa One was the lead fighter of a group of fifteen Rakosan fighters that attempted to defend their homeworld from the Cardassian-built missile . The pilot of Rakosa One refused to break off his attack when Captain…",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/memoryalpha/images/8/86/Rakosan_fleet.jpg/revision/latest/scale-to-width-down/180?cb=20160514165404&path-prefix=en",
+      "image_source": "https://memory-alpha.fandom.com/wiki/Rakosa_One",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Rakosa One",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "ship",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Rakosa_One",
+        "fandom_title": "Rakosa One",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aamaarazan",
+      "name": "Aamaarazan",
+      "type": "concept",
+      "description": "The Aamaarazan were a humanoid species who were known to wear breathing masks.\n\nThey came from the Aamaarazan homeworld. ()\n\nIn 2286, the Aamaarazan were serving in the United Federation of Planets, where two members of the Federation Council attended the trial of James T. Kirk. ()\n\nIn 2293, another duo represented their Federation interests at the Khitomer Conference. ()",
+      "short_description": "The Aamaarazan were a humanoid species who were known to wear breathing masks.",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/memoryalpha/images/0/01/Aamaarazan.jpg/revision/latest/scale-to-width-down/180?cb=20171116132313&path-prefix=en",
+      "image_source": "https://memory-alpha.fandom.com/wiki/Aamaarazan",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Aamaarazan",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Aamaarazan",
+        "fandom_title": "Aamaarazan",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -19022,15 +19109,39 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "aamaarazan-homeworld",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "rakosa-one",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "aamaarazan",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (memory-alpha.fandom.com) for identification and commentary only. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-13T04:25:09.297Z",
+  "generated_at": "2026-09-14T17:13:25.612Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://memory-alpha.fandom.com/wiki/",
@@ -19042,7 +19153,7 @@
     "fandom_created": 1,
     "fandom_images": 1,
     "fandom_intros": 1,
-    "description_ensure_at": "2026-09-13T04:25:09.782Z",
+    "description_ensure_at": "2026-09-14T17:13:27.675Z",
     "description_ensure_count": 1
   }
 }

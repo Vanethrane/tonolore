@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "evil-dead",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead",
+        "fandom_title": "Evil Dead",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_figures",
+        "fandom_title": "Evil Dead figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_world_&_context",
+        "fandom_title": "Evil Dead world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_places",
+        "fandom_title": "Evil Dead places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_events",
+        "fandom_title": "Evil Dead events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_objects_&_artifacts",
+        "fandom_title": "Evil Dead objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_factions_&_groups",
+        "fandom_title": "Evil Dead factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_concepts",
+        "fandom_title": "Evil Dead concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_eras",
+        "fandom_title": "Evil Dead eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_works_&_media",
+        "fandom_title": "Evil Dead works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_symbols",
+        "fandom_title": "Evil Dead symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_controversies",
+        "fandom_title": "Evil Dead controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_geography",
+        "fandom_title": "Evil Dead geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_legacy",
+        "fandom_title": "Evil Dead legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_practices",
+        "fandom_title": "Evil Dead practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_1",
+        "fandom_title": "Evil Dead entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_2",
+        "fandom_title": "Evil Dead entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_3",
+        "fandom_title": "Evil Dead entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_4",
+        "fandom_title": "Evil Dead entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_5",
+        "fandom_title": "Evil Dead entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_6",
+        "fandom_title": "Evil Dead entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_7",
+        "fandom_title": "Evil Dead entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_8",
+        "fandom_title": "Evil Dead entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_9",
+        "fandom_title": "Evil Dead entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_10",
+        "fandom_title": "Evil Dead entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_11",
+        "fandom_title": "Evil Dead entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_12",
+        "fandom_title": "Evil Dead entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_13",
+        "fandom_title": "Evil Dead entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_14",
+        "fandom_title": "Evil Dead entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_15",
+        "fandom_title": "Evil Dead entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_16",
+        "fandom_title": "Evil Dead entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_17",
+        "fandom_title": "Evil Dead entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_18",
+        "fandom_title": "Evil Dead entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_19",
+        "fandom_title": "Evil Dead entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_20",
+        "fandom_title": "Evil Dead entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_21",
+        "fandom_title": "Evil Dead entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_22",
+        "fandom_title": "Evil Dead entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_23",
+        "fandom_title": "Evil Dead entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "evil-dead-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil_Dead_entry_24",
+        "fandom_title": "Evil Dead entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Evil Dead article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:14:57.568Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

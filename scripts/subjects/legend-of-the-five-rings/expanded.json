@@ -1,0 +1,495 @@
+{
+  "enrichments": [
+    {
+      "slug": "legend-of-the-five-rings",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings",
+        "fandom_title": "Legend of the Five Rings",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "Legend of the Five Rings (often abbreviated L5R) is a fictional setting created by John Zinser, Dave Seay, Ryan Dancey, Dave Williams, DJ Trindle, Matt Wilson and John Wick and first published by a joint venture between Alderac Entertainment Group and ISOMEDIA in 1995. The setting primarily involves the fictional empire of Rokugan, though some additional areas and cultures have been discussed. Rokugan is based roughly on feudal Japan with influences from other East Asian cultures such as China, Mongolia and Korea. This setting is the basis for the Legend of the Five Rings Collectible Card Game as well as the Legend of the Five Rings Roleplaying Game. Legend of the Five Rings was also the \"featured campaign setting\" of the Oriental Adventures expansion to the third edition of Dungeons & Dragons, though this book is now out of print.\n\nThe timeline of the Legends of the Five Rings setting can be influenced by players of the collectible card game, and to a lesser extent the role-playing game, with the winners of major tournaments making pivotal decisions that become canonical history in future products. The most significant example of this was the Race for the Throne event, which took place through 2007 and 2008, which allowed players of both the collectible card game and the role-playing game to affect the storyline of their Clan by earning points in various Spheres of influence.\n\nL5R was acquired by Fantasy Flight Games in 2015. In 2020, FFG's parent company Asmodee transferred L5R to another subsidiary, Edge Studio.\n\nThe Legend of the Five Rings collectible card game is played by two or more players (in tournaments, generally two), each with two decks of at least 40 cards each (formerly at least 30 cards each). The game continues until a player has reached one of several different victory conditions, at which point that player is declared the winner. Victory conditions include winning militarily (destroying all provinces of one's opponent), by honour (reaching a certain number of honour points), dishonour (forcing one's opponent under a certain honour point threshold), through enlightenment (by putting cards called rings into play) or via a couple of special cards which essentially mean \"game won\".",
+      "short_description": "Legend of the Five Rings (often abbreviated L5R) is a fictional setting created by John Zinser, Dave Seay, Ryan Dancey, Dave Williams, DJ Trindle, Matt Wilson and John Wick and first published by a joint venture between…"
+    },
+    {
+      "slug": "legend-of-the-five-rings-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_figures",
+        "fandom_title": "Legend of the Five Rings figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_world_&_context",
+        "fandom_title": "Legend of the Five Rings world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_places",
+        "fandom_title": "Legend of the Five Rings places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_events",
+        "fandom_title": "Legend of the Five Rings events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_objects_&_artifacts",
+        "fandom_title": "Legend of the Five Rings objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_factions_&_groups",
+        "fandom_title": "Legend of the Five Rings factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_concepts",
+        "fandom_title": "Legend of the Five Rings concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_eras",
+        "fandom_title": "Legend of the Five Rings eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_works_&_media",
+        "fandom_title": "Legend of the Five Rings works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_symbols",
+        "fandom_title": "Legend of the Five Rings symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_controversies",
+        "fandom_title": "Legend of the Five Rings controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_geography",
+        "fandom_title": "Legend of the Five Rings geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_legacy",
+        "fandom_title": "Legend of the Five Rings legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_practices",
+        "fandom_title": "Legend of the Five Rings practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_1",
+        "fandom_title": "Legend of the Five Rings entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_2",
+        "fandom_title": "Legend of the Five Rings entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_3",
+        "fandom_title": "Legend of the Five Rings entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_4",
+        "fandom_title": "Legend of the Five Rings entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_5",
+        "fandom_title": "Legend of the Five Rings entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_6",
+        "fandom_title": "Legend of the Five Rings entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_7",
+        "fandom_title": "Legend of the Five Rings entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_8",
+        "fandom_title": "Legend of the Five Rings entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_9",
+        "fandom_title": "Legend of the Five Rings entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_10",
+        "fandom_title": "Legend of the Five Rings entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_11",
+        "fandom_title": "Legend of the Five Rings entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_12",
+        "fandom_title": "Legend of the Five Rings entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_13",
+        "fandom_title": "Legend of the Five Rings entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_14",
+        "fandom_title": "Legend of the Five Rings entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_15",
+        "fandom_title": "Legend of the Five Rings entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_16",
+        "fandom_title": "Legend of the Five Rings entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_17",
+        "fandom_title": "Legend of the Five Rings entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_18",
+        "fandom_title": "Legend of the Five Rings entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_19",
+        "fandom_title": "Legend of the Five Rings entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_20",
+        "fandom_title": "Legend of the Five Rings entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_21",
+        "fandom_title": "Legend of the Five Rings entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_22",
+        "fandom_title": "Legend of the Five Rings entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_23",
+        "fandom_title": "Legend of the Five Rings entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "legend-of-the-five-rings-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Legend_of_the_Five_Rings_entry_24",
+        "fandom_title": "Legend of the Five Rings entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Legend of the Five Rings article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T17:03:46.968Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

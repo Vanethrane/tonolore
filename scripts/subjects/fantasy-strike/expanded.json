@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "fantasy-strike",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike",
+        "fandom_title": "Fantasy Strike",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_figures",
+        "fandom_title": "Fantasy Strike figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_world_&_context",
+        "fandom_title": "Fantasy Strike world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_places",
+        "fandom_title": "Fantasy Strike places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_events",
+        "fandom_title": "Fantasy Strike events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_objects_&_artifacts",
+        "fandom_title": "Fantasy Strike objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_factions_&_groups",
+        "fandom_title": "Fantasy Strike factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_concepts",
+        "fandom_title": "Fantasy Strike concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_eras",
+        "fandom_title": "Fantasy Strike eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_works_&_media",
+        "fandom_title": "Fantasy Strike works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_symbols",
+        "fandom_title": "Fantasy Strike symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_controversies",
+        "fandom_title": "Fantasy Strike controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_geography",
+        "fandom_title": "Fantasy Strike geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_legacy",
+        "fandom_title": "Fantasy Strike legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_practices",
+        "fandom_title": "Fantasy Strike practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_1",
+        "fandom_title": "Fantasy Strike entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_2",
+        "fandom_title": "Fantasy Strike entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_3",
+        "fandom_title": "Fantasy Strike entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_4",
+        "fandom_title": "Fantasy Strike entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_5",
+        "fandom_title": "Fantasy Strike entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_6",
+        "fandom_title": "Fantasy Strike entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_7",
+        "fandom_title": "Fantasy Strike entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_8",
+        "fandom_title": "Fantasy Strike entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_9",
+        "fandom_title": "Fantasy Strike entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_10",
+        "fandom_title": "Fantasy Strike entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_11",
+        "fandom_title": "Fantasy Strike entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_12",
+        "fandom_title": "Fantasy Strike entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_13",
+        "fandom_title": "Fantasy Strike entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_14",
+        "fandom_title": "Fantasy Strike entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_15",
+        "fandom_title": "Fantasy Strike entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_16",
+        "fandom_title": "Fantasy Strike entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_17",
+        "fandom_title": "Fantasy Strike entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_18",
+        "fandom_title": "Fantasy Strike entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_19",
+        "fandom_title": "Fantasy Strike entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_20",
+        "fandom_title": "Fantasy Strike entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_21",
+        "fandom_title": "Fantasy Strike entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_22",
+        "fandom_title": "Fantasy Strike entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_23",
+        "fandom_title": "Fantasy Strike entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fantasy-strike-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fantasy_Strike_entry_24",
+        "fandom_title": "Fantasy Strike entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Fantasy Strike article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:58:22.852Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

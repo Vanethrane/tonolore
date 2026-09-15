@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "capcom-vs-snk",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK",
+        "fandom_title": "Capcom vs. SNK",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_figures",
+        "fandom_title": "Capcom vs. SNK figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_world_&_context",
+        "fandom_title": "Capcom vs. SNK world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_places",
+        "fandom_title": "Capcom vs. SNK places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_events",
+        "fandom_title": "Capcom vs. SNK events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_objects_&_artifacts",
+        "fandom_title": "Capcom vs. SNK objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_factions_&_groups",
+        "fandom_title": "Capcom vs. SNK factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_concepts",
+        "fandom_title": "Capcom vs. SNK concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_eras",
+        "fandom_title": "Capcom vs. SNK eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_works_&_media",
+        "fandom_title": "Capcom vs. SNK works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_symbols",
+        "fandom_title": "Capcom vs. SNK symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_controversies",
+        "fandom_title": "Capcom vs. SNK controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_geography",
+        "fandom_title": "Capcom vs. SNK geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_legacy",
+        "fandom_title": "Capcom vs. SNK legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_practices",
+        "fandom_title": "Capcom vs. SNK practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_1",
+        "fandom_title": "Capcom vs. SNK entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_2",
+        "fandom_title": "Capcom vs. SNK entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_3",
+        "fandom_title": "Capcom vs. SNK entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_4",
+        "fandom_title": "Capcom vs. SNK entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_5",
+        "fandom_title": "Capcom vs. SNK entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_6",
+        "fandom_title": "Capcom vs. SNK entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_7",
+        "fandom_title": "Capcom vs. SNK entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_8",
+        "fandom_title": "Capcom vs. SNK entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_9",
+        "fandom_title": "Capcom vs. SNK entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_10",
+        "fandom_title": "Capcom vs. SNK entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_11",
+        "fandom_title": "Capcom vs. SNK entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_12",
+        "fandom_title": "Capcom vs. SNK entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_13",
+        "fandom_title": "Capcom vs. SNK entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_14",
+        "fandom_title": "Capcom vs. SNK entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_15",
+        "fandom_title": "Capcom vs. SNK entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_16",
+        "fandom_title": "Capcom vs. SNK entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_17",
+        "fandom_title": "Capcom vs. SNK entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_18",
+        "fandom_title": "Capcom vs. SNK entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_19",
+        "fandom_title": "Capcom vs. SNK entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_20",
+        "fandom_title": "Capcom vs. SNK entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_21",
+        "fandom_title": "Capcom vs. SNK entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_22",
+        "fandom_title": "Capcom vs. SNK entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_23",
+        "fandom_title": "Capcom vs. SNK entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "capcom-vs-snk-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Capcom_vs._SNK_entry_24",
+        "fandom_title": "Capcom vs. SNK entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Capcom vs. SNK article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T21:00:00.049Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

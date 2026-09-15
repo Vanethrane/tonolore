@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "persona-arena",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena",
+        "fandom_title": "Persona 4 Arena",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_figures",
+        "fandom_title": "Persona 4 Arena figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_world_&_context",
+        "fandom_title": "Persona 4 Arena world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_places",
+        "fandom_title": "Persona 4 Arena places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_events",
+        "fandom_title": "Persona 4 Arena events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_objects_&_artifacts",
+        "fandom_title": "Persona 4 Arena objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_factions_&_groups",
+        "fandom_title": "Persona 4 Arena factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_concepts",
+        "fandom_title": "Persona 4 Arena concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_eras",
+        "fandom_title": "Persona 4 Arena eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_works_&_media",
+        "fandom_title": "Persona 4 Arena works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_symbols",
+        "fandom_title": "Persona 4 Arena symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_controversies",
+        "fandom_title": "Persona 4 Arena controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_geography",
+        "fandom_title": "Persona 4 Arena geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_legacy",
+        "fandom_title": "Persona 4 Arena legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_practices",
+        "fandom_title": "Persona 4 Arena practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_1",
+        "fandom_title": "Persona 4 Arena entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_2",
+        "fandom_title": "Persona 4 Arena entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_3",
+        "fandom_title": "Persona 4 Arena entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_4",
+        "fandom_title": "Persona 4 Arena entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_5",
+        "fandom_title": "Persona 4 Arena entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_6",
+        "fandom_title": "Persona 4 Arena entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_7",
+        "fandom_title": "Persona 4 Arena entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_8",
+        "fandom_title": "Persona 4 Arena entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_9",
+        "fandom_title": "Persona 4 Arena entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_10",
+        "fandom_title": "Persona 4 Arena entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_11",
+        "fandom_title": "Persona 4 Arena entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_12",
+        "fandom_title": "Persona 4 Arena entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_13",
+        "fandom_title": "Persona 4 Arena entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_14",
+        "fandom_title": "Persona 4 Arena entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_15",
+        "fandom_title": "Persona 4 Arena entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_16",
+        "fandom_title": "Persona 4 Arena entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_17",
+        "fandom_title": "Persona 4 Arena entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_18",
+        "fandom_title": "Persona 4 Arena entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_19",
+        "fandom_title": "Persona 4 Arena entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_20",
+        "fandom_title": "Persona 4 Arena entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_21",
+        "fandom_title": "Persona 4 Arena entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_22",
+        "fandom_title": "Persona 4 Arena entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_23",
+        "fandom_title": "Persona 4 Arena entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-arena-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_4_Arena_entry_24",
+        "fandom_title": "Persona 4 Arena entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Persona 4 Arena article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:57:43.701Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

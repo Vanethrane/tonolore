@@ -1,0 +1,3555 @@
+{
+  "enrichments": [
+    {
+      "slug": "injustice-series",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Injustice",
+        "fandom_title": "Injustice",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "injustice-series-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Injustice_figures",
+        "fandom_title": "Injustice figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "injustice-series-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Injustice_world_&_context",
+        "fandom_title": "Injustice world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "injustice-series-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Injustice_places",
+        "fandom_title": "Injustice places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "adikia",
+      "name": "Adikia",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Adikia",
+        "fandom_title": "Adikia",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bullying",
+      "name": "Bullying",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bullying",
+        "fandom_title": "Bullying",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "double-standard",
+      "name": "Double standard",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Double_standard",
+        "fandom_title": "Double standard",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "election-subversion",
+      "name": "Election subversion",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Election_subversion",
+        "fandom_title": "Election subversion",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "epistemic-injustice",
+      "name": "Epistemic injustice",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Epistemic_injustice",
+        "fandom_title": "Epistemic injustice",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ex-injuria-jus-non-oritur",
+      "name": "Ex injuria jus non oritur",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ex_injuria_jus_non_oritur",
+        "fandom_title": "Ex injuria jus non oritur",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "false-evidence",
+      "name": "False evidence",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/False_evidence",
+        "fandom_title": "False evidence",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "injury-law",
+      "name": "Injury",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Injury_(law)",
+        "fandom_title": "Injury (law)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "isfet-egyptian-mythology",
+      "name": "Isfet",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Isfet_(Egyptian_mythology)",
+        "fandom_title": "Isfet (Egyptian mythology)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "just-world-fallacy",
+      "name": "Just-world fallacy",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Just-world_fallacy",
+        "fandom_title": "Just-world fallacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "justice-delayed-is-justice-denied",
+      "name": "Justice delayed is justice denied",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Justice_delayed_is_justice_denied",
+        "fandom_title": "Justice delayed is justice denied",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "measuring-poverty",
+      "name": "Measuring poverty",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Measuring_poverty",
+        "fandom_title": "Measuring poverty",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mobbing",
+      "name": "Mobbing",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mobbing",
+        "fandom_title": "Mobbing",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "moral-exclusion",
+      "name": "Moral exclusion",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Moral_exclusion",
+        "fandom_title": "Moral exclusion",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "oppression",
+      "name": "Oppression",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Oppression",
+        "fandom_title": "Oppression",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "parallel-construction",
+      "name": "Parallel construction",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Parallel_construction",
+        "fandom_title": "Parallel construction",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pharmakos",
+      "name": "Pharmakos",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Pharmakos",
+        "fandom_title": "Pharmakos",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pyrrhic-defeat-theory",
+      "name": "Pyrrhic defeat theory",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Pyrrhic_defeat_theory",
+        "fandom_title": "Pyrrhic defeat theory",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "radbruch-formula",
+      "name": "Radbruch formula",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Radbruch_formula",
+        "fandom_title": "Radbruch formula",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "relational-aggression",
+      "name": "Relational aggression",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Relational_aggression",
+        "fandom_title": "Relational aggression",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "scapegoating",
+      "name": "Scapegoating",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Scapegoating",
+        "fandom_title": "Scapegoating",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "second-class-citizen",
+      "name": "Second-class citizen",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Second-class_citizen",
+        "fandom_title": "Second-class citizen",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shooting-the-messenger",
+      "name": "Shooting the messenger",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Shooting_the_messenger",
+        "fandom_title": "Shooting the messenger",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "voter-suppression",
+      "name": "Voter suppression",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Voter_suppression",
+        "fandom_title": "Voter suppression",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "working-poor",
+      "name": "Working poor",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Working_poor",
+        "fandom_title": "Working poor",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "abuse",
+      "name": "Abuse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Abuse",
+        "fandom_title": "Abuse",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "abuse-during-childbirth",
+      "name": "Abuse during childbirth",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Abuse_during_childbirth",
+        "fandom_title": "Abuse during childbirth",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "abuse-in-gymnastics",
+      "name": "Abuse in gymnastics",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Abuse_in_gymnastics",
+        "fandom_title": "Abuse in gymnastics",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "abuse-of-discretion",
+      "name": "Abuse of discretion",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Abuse_of_discretion",
+        "fandom_title": "Abuse of discretion",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "abuse-of-dominance",
+      "name": "Abuse of dominance",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Abuse_of_dominance",
+        "fandom_title": "Abuse of dominance",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "abuse-of-indulgences",
+      "name": "Abuse of indulgences",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Abuse_of_indulgences",
+        "fandom_title": "Abuse of indulgences",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "abuse-of-information",
+      "name": "Abuse of information",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Abuse_of_information",
+        "fandom_title": "Abuse of information",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "abuse-of-power",
+      "name": "Abuse of power",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Abuse_of_power",
+        "fandom_title": "Abuse of power",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "abuse-of-rank",
+      "name": "Abuse of rank",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Abuse_of_rank",
+        "fandom_title": "Abuse of rank",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "abuse-of-statistics",
+      "name": "Abuse of statistics",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Abuse_of_statistics",
+        "fandom_title": "Abuse of statistics",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "abuse-prevention-program",
+      "name": "Abuse prevention program",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Abuse_prevention_program",
+        "fandom_title": "Abuse prevention program",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "abusive-supervision",
+      "name": "Abusive supervision",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Abusive_supervision",
+        "fandom_title": "Abusive supervision",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "academic-abuse",
+      "name": "Academic abuse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Academic_abuse",
+        "fandom_title": "Academic abuse",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "adult-abuse",
+      "name": "Adult abuse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Adult_abuse",
+        "fandom_title": "Adult abuse",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "adult-to-adult-narcissistic-abuse",
+      "name": "Adult-to-adult narcissistic abuse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Adult-to-adult_narcissistic_abuse",
+        "fandom_title": "Adult-to-adult narcissistic abuse",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "annoyance",
+      "name": "Annoyance",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Annoyance",
+        "fandom_title": "Annoyance",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bashing-pejorative",
+      "name": "Bashing",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bashing_(pejorative)",
+        "fandom_title": "Bashing (pejorative)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "breast-ironing",
+      "name": "Breast ironing",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Breast_ironing",
+        "fandom_title": "Breast ironing",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bullying-in-information-technology",
+      "name": "Bullying in information technology",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bullying_in_information_technology",
+        "fandom_title": "Bullying in information technology",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cambian-group-plc",
+      "name": "Cambian Group PLC",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cambian_Group_PLC",
+        "fandom_title": "Cambian Group PLC",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "character-assassination",
+      "name": "Character assassination",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Character_assassination",
+        "fandom_title": "Character assassination",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chhatra-leagues-guest-room-practice",
+      "name": "Chhatra League's guest room practice",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Chhatra_League's_guest_room_practice",
+        "fandom_title": "Chhatra League's guest room practice",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "child-abduction",
+      "name": "Child abduction",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Child_abduction",
+        "fandom_title": "Child abduction",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "international-child-abduction-in-the-united-states",
+      "name": "International child abduction in the United States",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/International_child_abduction_in_the_United_States",
+        "fandom_title": "International child abduction in the United States",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cinderella-effect",
+      "name": "Cinderella effect",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cinderella_effect",
+        "fandom_title": "Cinderella effect",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "clandestine-abuse",
+      "name": "Clandestine abuse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Clandestine_abuse",
+        "fandom_title": "Clandestine abuse",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "coercion",
+      "name": "Coercion",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Coercion",
+        "fandom_title": "Coercion",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "communazi",
+      "name": "Communazi",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Communazi",
+        "fandom_title": "Communazi",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "conscription-of-people-with-disabilities",
+      "name": "Conscription of people with disabilities",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Conscription_of_people_with_disabilities",
+        "fandom_title": "Conscription of people with disabilities",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "conversion-therapy",
+      "name": "Conversion therapy",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Conversion_therapy",
+        "fandom_title": "Conversion therapy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cruelty",
+      "name": "Cruelty",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cruelty",
+        "fandom_title": "Cruelty",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cyberbullying",
+      "name": "Cyberbullying",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cyberbullying",
+        "fandom_title": "Cyberbullying",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cycle-of-abuse",
+      "name": "Cycle of abuse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cycle_of_abuse",
+        "fandom_title": "Cycle of abuse",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cycle-of-violence",
+      "name": "Cycle of violence",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cycle_of_violence",
+        "fandom_title": "Cycle of violence",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "darvo",
+      "name": "DARVO",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/DARVO",
+        "fandom_title": "DARVO",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dating-violence",
+      "name": "Dating violence",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Dating_violence",
+        "fandom_title": "Dating violence",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "day-care-sex-abuse-hysteria",
+      "name": "Day-care sex-abuse hysteria",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Day-care_sex-abuse_hysteria",
+        "fandom_title": "Day-care sex-abuse hysteria",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "daytop",
+      "name": "Daytop",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Daytop",
+        "fandom_title": "Daytop",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dedovshchina",
+      "name": "Dedovshchina",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Dedovshchina",
+        "fandom_title": "Dedovshchina",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dehumanization",
+      "name": "Dehumanization",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Dehumanization",
+        "fandom_title": "Dehumanization",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "detainee-abuse",
+      "name": "Detainee abuse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Detainee_abuse",
+        "fandom_title": "Detainee abuse",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "disability-abuse",
+      "name": "Disability abuse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Disability_abuse",
+        "fandom_title": "Disability abuse",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "disability-hate-crime",
+      "name": "Disability hate crime",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Disability_hate_crime",
+        "fandom_title": "Disability hate crime",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discrimination",
+      "name": "Discrimination",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Discrimination",
+        "fandom_title": "Discrimination",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "doctor-abuse",
+      "name": "Doctor abuse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Doctor_abuse",
+        "fandom_title": "Doctor abuse",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "domestic-violence",
+      "name": "Domestic violence",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Domestic_violence",
+        "fandom_title": "Domestic violence",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "domestic-violence-against-men",
+      "name": "Domestic violence against men",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Domestic_violence_against_men",
+        "fandom_title": "Domestic violence against men",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "domestic-violence-against-women",
+      "name": "Domestic violence against women",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Domestic_violence_against_women",
+        "fandom_title": "Domestic violence against women",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "domestic-violence-register",
+      "name": "Domestic violence register",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Domestic_violence_register",
+        "fandom_title": "Domestic violence register",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "duress-in-american-law",
+      "name": "Duress in American law",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Duress_in_American_law",
+        "fandom_title": "Duress in American law",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "economic-abuse",
+      "name": "Economic abuse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Economic_abuse",
+        "fandom_title": "Economic abuse",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elder-abuse",
+      "name": "Elder abuse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Elder_abuse",
+        "fandom_title": "Elder abuse",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elder-financial-abuse",
+      "name": "Elder financial abuse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Elder_financial_abuse",
+        "fandom_title": "Elder financial abuse",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "electoral-bonds",
+      "name": "Electoral bonds",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Electoral_bonds",
+        "fandom_title": "Electoral bonds",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "emotional-abuse",
+      "name": "Emotional abuse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Emotional_abuse",
+        "fandom_title": "Emotional abuse",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "enabling",
+      "name": "Enabling",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Enabling",
+        "fandom_title": "Enabling",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "epidemiology-of-domestic-violence",
+      "name": "Epidemiology of domestic violence",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Epidemiology_of_domestic_violence",
+        "fandom_title": "Epidemiology of domestic violence",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "financial-abuse",
+      "name": "Financial abuse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Financial_abuse",
+        "fandom_title": "Financial abuse",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "forced-circumcision",
+      "name": "Forced circumcision",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Forced_circumcision",
+        "fandom_title": "Forced circumcision",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gapjil",
+      "name": "Gapjil",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Gapjil",
+        "fandom_title": "Gapjil",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gargi-college-molestations",
+      "name": "Gargi College molestations",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Gargi_College_molestations",
+        "fandom_title": "Gargi College molestations",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gay-bashing",
+      "name": "Gay bashing",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Gay_bashing",
+        "fandom_title": "Gay bashing",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "happy-slapping",
+      "name": "Happy slapping",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Happy_slapping",
+        "fandom_title": "Happy slapping",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "happy-victimizing",
+      "name": "Happy victimizing",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Happy_victimizing",
+        "fandom_title": "Happy victimizing",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "harassment",
+      "name": "Harassment",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Harassment",
+        "fandom_title": "Harassment",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hate-crime",
+      "name": "Hate crime",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Hate_crime",
+        "fandom_title": "Hate crime",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hate-mail",
+      "name": "Hate mail",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Hate_mail",
+        "fandom_title": "Hate mail",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hazing",
+      "name": "Hazing",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Hazing",
+        "fandom_title": "Hazing",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bob-hempel",
+      "name": "Bob Hempel",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bob_Hempel",
+        "fandom_title": "Bob Hempel",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "human-rights-abuses",
+      "name": "Human rights abuses",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Human_rights_abuses",
+        "fandom_title": "Human rights abuses",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "indian-burn",
+      "name": "Indian burn",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Indian_burn",
+        "fandom_title": "Indian burn",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "insult",
+      "name": "Insult",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Insult",
+        "fandom_title": "Insult",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "intimate-partner-violence",
+      "name": "Intimate partner violence",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Intimate_partner_violence",
+        "fandom_title": "Intimate partner violence",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kick-the-cat",
+      "name": "Kick the cat",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Kick_the_cat",
+        "fandom_title": "Kick the cat",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kiss-up-kick-down",
+      "name": "Kiss up, kick down",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Kiss_up,_kick_down",
+        "fandom_title": "Kiss up, kick down",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "landlord-harassment",
+      "name": "Landlord harassment",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Landlord_harassment",
+        "fandom_title": "Landlord harassment",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "leymann-inventory-of-psychological-terror",
+      "name": "Leymann Inventory of Psychological Terror",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Leymann_Inventory_of_Psychological_Terror",
+        "fandom_title": "Leymann Inventory of Psychological Terror",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lgbtq-trauma",
+      "name": "LGBTQ trauma",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/LGBTQ_trauma",
+        "fandom_title": "LGBTQ trauma",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maid-abuse",
+      "name": "Maid abuse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Maid_abuse",
+        "fandom_title": "Maid abuse",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "market-abuse",
+      "name": "Market abuse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Market_abuse",
+        "fandom_title": "Market abuse",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "master-suppression-techniques",
+      "name": "Master suppression techniques",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Master_suppression_techniques",
+        "fandom_title": "Master suppression techniques",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "material-abuse",
+      "name": "Material abuse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Material_abuse",
+        "fandom_title": "Material abuse",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "media-capture",
+      "name": "Media capture",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Media_capture",
+        "fandom_title": "Media capture",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "medical-abuse",
+      "name": "Medical abuse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Medical_abuse",
+        "fandom_title": "Medical abuse",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "military-abuse",
+      "name": "Military abuse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Military_abuse",
+        "fandom_title": "Military abuse",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mockery",
+      "name": "Mockery",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mockery",
+        "fandom_title": "Mockery",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neglect",
+      "name": "Neglect",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Neglect",
+        "fandom_title": "Neglect",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "networked-harassment",
+      "name": "Networked harassment",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Networked_harassment",
+        "fandom_title": "Networked harassment",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nurse-abuse",
+      "name": "Nurse abuse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Nurse_abuse",
+        "fandom_title": "Nurse abuse",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "obsessive-relational-intrusion",
+      "name": "Obsessive relational intrusion",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Obsessive_relational_intrusion",
+        "fandom_title": "Obsessive relational intrusion",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "parental-abuse-by-children",
+      "name": "Parental abuse by children",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "injustice-series",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Parental_abuse_by_children",
+        "fandom_title": "Parental abuse by children",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "adikia",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bullying",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "double-standard",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "election-subversion",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "epistemic-injustice",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ex-injuria-jus-non-oritur",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "false-evidence",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "injury-law",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "isfet-egyptian-mythology",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "just-world-fallacy",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "justice-delayed-is-justice-denied",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "measuring-poverty",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mobbing",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "moral-exclusion",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "oppression",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "parallel-construction",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "pharmakos",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "pyrrhic-defeat-theory",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "radbruch-formula",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "relational-aggression",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "scapegoating",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "second-class-citizen",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "shooting-the-messenger",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "voter-suppression",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "working-poor",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abuse",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abuse-during-childbirth",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abuse-in-gymnastics",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abuse-of-discretion",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abuse-of-dominance",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abuse-of-indulgences",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abuse-of-information",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abuse-of-power",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abuse-of-rank",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abuse-of-statistics",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abuse-prevention-program",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abusive-supervision",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "academic-abuse",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "adult-abuse",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "adult-to-adult-narcissistic-abuse",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "annoyance",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bashing-pejorative",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "breast-ironing",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bullying-in-information-technology",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cambian-group-plc",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "character-assassination",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "chhatra-leagues-guest-room-practice",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "child-abduction",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "international-child-abduction-in-the-united-states",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cinderella-effect",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "clandestine-abuse",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "coercion",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "communazi",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "conscription-of-people-with-disabilities",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "conversion-therapy",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cruelty",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cyberbullying",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cycle-of-abuse",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cycle-of-violence",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "darvo",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "dating-violence",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "day-care-sex-abuse-hysteria",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "daytop",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "dedovshchina",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "dehumanization",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "detainee-abuse",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "disability-abuse",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "disability-hate-crime",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "discrimination",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "doctor-abuse",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "domestic-violence",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "domestic-violence-against-men",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "domestic-violence-against-women",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "domestic-violence-register",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "duress-in-american-law",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "economic-abuse",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "elder-abuse",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "elder-financial-abuse",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "electoral-bonds",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "emotional-abuse",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "enabling",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "epidemiology-of-domestic-violence",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "financial-abuse",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "forced-circumcision",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "gapjil",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "gargi-college-molestations",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "gay-bashing",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "happy-slapping",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "happy-victimizing",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "harassment",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "hate-crime",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "hate-mail",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "hazing",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bob-hempel",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "human-rights-abuses",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "indian-burn",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "insult",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "intimate-partner-violence",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "kick-the-cat",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "kiss-up-kick-down",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "landlord-harassment",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "leymann-inventory-of-psychological-terror",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lgbtq-trauma",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "maid-abuse",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "market-abuse",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "master-suppression-techniques",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "material-abuse",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "media-capture",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "medical-abuse",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "military-abuse",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mockery",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "neglect",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "networked-harassment",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "nurse-abuse",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "obsessive-relational-intrusion",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "parental-abuse-by-children",
+      "injustice-series",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Injustice article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:58:49.201Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

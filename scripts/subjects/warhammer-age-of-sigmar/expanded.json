@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "warhammer-age-of-sigmar",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar",
+        "fandom_title": "Warhammer Age of Sigmar",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_figures",
+        "fandom_title": "Warhammer Age of Sigmar figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_world_&_context",
+        "fandom_title": "Warhammer Age of Sigmar world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_places",
+        "fandom_title": "Warhammer Age of Sigmar places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_events",
+        "fandom_title": "Warhammer Age of Sigmar events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_objects_&_artifacts",
+        "fandom_title": "Warhammer Age of Sigmar objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_factions_&_groups",
+        "fandom_title": "Warhammer Age of Sigmar factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_concepts",
+        "fandom_title": "Warhammer Age of Sigmar concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_eras",
+        "fandom_title": "Warhammer Age of Sigmar eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_works_&_media",
+        "fandom_title": "Warhammer Age of Sigmar works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_symbols",
+        "fandom_title": "Warhammer Age of Sigmar symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_controversies",
+        "fandom_title": "Warhammer Age of Sigmar controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_geography",
+        "fandom_title": "Warhammer Age of Sigmar geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_legacy",
+        "fandom_title": "Warhammer Age of Sigmar legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_practices",
+        "fandom_title": "Warhammer Age of Sigmar practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_1",
+        "fandom_title": "Warhammer Age of Sigmar entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_2",
+        "fandom_title": "Warhammer Age of Sigmar entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_3",
+        "fandom_title": "Warhammer Age of Sigmar entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_4",
+        "fandom_title": "Warhammer Age of Sigmar entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_5",
+        "fandom_title": "Warhammer Age of Sigmar entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_6",
+        "fandom_title": "Warhammer Age of Sigmar entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_7",
+        "fandom_title": "Warhammer Age of Sigmar entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_8",
+        "fandom_title": "Warhammer Age of Sigmar entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_9",
+        "fandom_title": "Warhammer Age of Sigmar entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_10",
+        "fandom_title": "Warhammer Age of Sigmar entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_11",
+        "fandom_title": "Warhammer Age of Sigmar entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_12",
+        "fandom_title": "Warhammer Age of Sigmar entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_13",
+        "fandom_title": "Warhammer Age of Sigmar entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_14",
+        "fandom_title": "Warhammer Age of Sigmar entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_15",
+        "fandom_title": "Warhammer Age of Sigmar entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_16",
+        "fandom_title": "Warhammer Age of Sigmar entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_17",
+        "fandom_title": "Warhammer Age of Sigmar entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_18",
+        "fandom_title": "Warhammer Age of Sigmar entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_19",
+        "fandom_title": "Warhammer Age of Sigmar entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_20",
+        "fandom_title": "Warhammer Age of Sigmar entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_21",
+        "fandom_title": "Warhammer Age of Sigmar entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_22",
+        "fandom_title": "Warhammer Age of Sigmar entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_23",
+        "fandom_title": "Warhammer Age of Sigmar entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warhammer-age-of-sigmar-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Warhammer_Age_of_Sigmar_entry_24",
+        "fandom_title": "Warhammer Age of Sigmar entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Warhammer Age of Sigmar article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T17:02:44.322Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

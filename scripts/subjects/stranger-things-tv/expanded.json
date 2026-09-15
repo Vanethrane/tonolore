@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "stranger-things-tv",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)",
+        "fandom_title": "Stranger Things (TV shelf)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_figures",
+        "fandom_title": "Stranger Things (TV shelf) figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_world_&_context",
+        "fandom_title": "Stranger Things (TV shelf) world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_places",
+        "fandom_title": "Stranger Things (TV shelf) places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_events",
+        "fandom_title": "Stranger Things (TV shelf) events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_objects_&_artifacts",
+        "fandom_title": "Stranger Things (TV shelf) objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_factions_&_groups",
+        "fandom_title": "Stranger Things (TV shelf) factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_concepts",
+        "fandom_title": "Stranger Things (TV shelf) concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_eras",
+        "fandom_title": "Stranger Things (TV shelf) eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_works_&_media",
+        "fandom_title": "Stranger Things (TV shelf) works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_symbols",
+        "fandom_title": "Stranger Things (TV shelf) symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_controversies",
+        "fandom_title": "Stranger Things (TV shelf) controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_geography",
+        "fandom_title": "Stranger Things (TV shelf) geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_legacy",
+        "fandom_title": "Stranger Things (TV shelf) legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_practices",
+        "fandom_title": "Stranger Things (TV shelf) practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_1",
+        "fandom_title": "Stranger Things (TV shelf) entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_2",
+        "fandom_title": "Stranger Things (TV shelf) entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_3",
+        "fandom_title": "Stranger Things (TV shelf) entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_4",
+        "fandom_title": "Stranger Things (TV shelf) entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_5",
+        "fandom_title": "Stranger Things (TV shelf) entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_6",
+        "fandom_title": "Stranger Things (TV shelf) entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_7",
+        "fandom_title": "Stranger Things (TV shelf) entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_8",
+        "fandom_title": "Stranger Things (TV shelf) entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_9",
+        "fandom_title": "Stranger Things (TV shelf) entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_10",
+        "fandom_title": "Stranger Things (TV shelf) entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_11",
+        "fandom_title": "Stranger Things (TV shelf) entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_12",
+        "fandom_title": "Stranger Things (TV shelf) entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_13",
+        "fandom_title": "Stranger Things (TV shelf) entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_14",
+        "fandom_title": "Stranger Things (TV shelf) entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_15",
+        "fandom_title": "Stranger Things (TV shelf) entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_16",
+        "fandom_title": "Stranger Things (TV shelf) entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_17",
+        "fandom_title": "Stranger Things (TV shelf) entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_18",
+        "fandom_title": "Stranger Things (TV shelf) entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_19",
+        "fandom_title": "Stranger Things (TV shelf) entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_20",
+        "fandom_title": "Stranger Things (TV shelf) entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_21",
+        "fandom_title": "Stranger Things (TV shelf) entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_22",
+        "fandom_title": "Stranger Things (TV shelf) entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_23",
+        "fandom_title": "Stranger Things (TV shelf) entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stranger-things-tv-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stranger_Things_(TV_shelf)_entry_24",
+        "fandom_title": "Stranger Things (TV shelf) entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Stranger Things (TV shelf) article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:56:38.507Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "nwa-wrestling",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA",
+        "fandom_title": "NWA",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_figures",
+        "fandom_title": "NWA figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_world_&_context",
+        "fandom_title": "NWA world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_places",
+        "fandom_title": "NWA places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_events",
+        "fandom_title": "NWA events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_objects_&_artifacts",
+        "fandom_title": "NWA objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_factions_&_groups",
+        "fandom_title": "NWA factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_concepts",
+        "fandom_title": "NWA concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_eras",
+        "fandom_title": "NWA eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_works_&_media",
+        "fandom_title": "NWA works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_symbols",
+        "fandom_title": "NWA symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_controversies",
+        "fandom_title": "NWA controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_geography",
+        "fandom_title": "NWA geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_legacy",
+        "fandom_title": "NWA legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_practices",
+        "fandom_title": "NWA practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_1",
+        "fandom_title": "NWA entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_2",
+        "fandom_title": "NWA entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_3",
+        "fandom_title": "NWA entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_4",
+        "fandom_title": "NWA entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_5",
+        "fandom_title": "NWA entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_6",
+        "fandom_title": "NWA entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_7",
+        "fandom_title": "NWA entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_8",
+        "fandom_title": "NWA entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_9",
+        "fandom_title": "NWA entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_10",
+        "fandom_title": "NWA entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_11",
+        "fandom_title": "NWA entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_12",
+        "fandom_title": "NWA entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_13",
+        "fandom_title": "NWA entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_14",
+        "fandom_title": "NWA entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_15",
+        "fandom_title": "NWA entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_16",
+        "fandom_title": "NWA entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_17",
+        "fandom_title": "NWA entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_18",
+        "fandom_title": "NWA entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_19",
+        "fandom_title": "NWA entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_20",
+        "fandom_title": "NWA entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_21",
+        "fandom_title": "NWA entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_22",
+        "fandom_title": "NWA entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_23",
+        "fandom_title": "NWA entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nwa-wrestling-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/NWA_entry_24",
+        "fandom_title": "NWA entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. NWA article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:29:10.837Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

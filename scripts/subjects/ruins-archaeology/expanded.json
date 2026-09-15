@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "ruins-archaeology",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites",
+        "fandom_title": "Ruins & archaeological sites",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_figures",
+        "fandom_title": "Ruins & archaeological sites figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_world_&_context",
+        "fandom_title": "Ruins & archaeological sites world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_places",
+        "fandom_title": "Ruins & archaeological sites places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_events",
+        "fandom_title": "Ruins & archaeological sites events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_objects_&_artifacts",
+        "fandom_title": "Ruins & archaeological sites objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_factions_&_groups",
+        "fandom_title": "Ruins & archaeological sites factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_concepts",
+        "fandom_title": "Ruins & archaeological sites concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_eras",
+        "fandom_title": "Ruins & archaeological sites eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_works_&_media",
+        "fandom_title": "Ruins & archaeological sites works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_symbols",
+        "fandom_title": "Ruins & archaeological sites symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_controversies",
+        "fandom_title": "Ruins & archaeological sites controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_geography",
+        "fandom_title": "Ruins & archaeological sites geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_legacy",
+        "fandom_title": "Ruins & archaeological sites legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_practices",
+        "fandom_title": "Ruins & archaeological sites practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_1",
+        "fandom_title": "Ruins & archaeological sites entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_2",
+        "fandom_title": "Ruins & archaeological sites entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_3",
+        "fandom_title": "Ruins & archaeological sites entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_4",
+        "fandom_title": "Ruins & archaeological sites entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_5",
+        "fandom_title": "Ruins & archaeological sites entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_6",
+        "fandom_title": "Ruins & archaeological sites entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_7",
+        "fandom_title": "Ruins & archaeological sites entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_8",
+        "fandom_title": "Ruins & archaeological sites entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_9",
+        "fandom_title": "Ruins & archaeological sites entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_10",
+        "fandom_title": "Ruins & archaeological sites entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_11",
+        "fandom_title": "Ruins & archaeological sites entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_12",
+        "fandom_title": "Ruins & archaeological sites entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_13",
+        "fandom_title": "Ruins & archaeological sites entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_14",
+        "fandom_title": "Ruins & archaeological sites entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_15",
+        "fandom_title": "Ruins & archaeological sites entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_16",
+        "fandom_title": "Ruins & archaeological sites entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_17",
+        "fandom_title": "Ruins & archaeological sites entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_18",
+        "fandom_title": "Ruins & archaeological sites entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_19",
+        "fandom_title": "Ruins & archaeological sites entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_20",
+        "fandom_title": "Ruins & archaeological sites entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_21",
+        "fandom_title": "Ruins & archaeological sites entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_22",
+        "fandom_title": "Ruins & archaeological sites entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_23",
+        "fandom_title": "Ruins & archaeological sites entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ruins-archaeology-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ruins_&_archaeological_sites_entry_24",
+        "fandom_title": "Ruins & archaeological sites entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Ruins & archaeological sites article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:26:15.615Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

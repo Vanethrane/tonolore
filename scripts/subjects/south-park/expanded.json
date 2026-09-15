@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "south-park",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park",
+        "fandom_title": "South Park",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_figures",
+        "fandom_title": "South Park figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_world_&_context",
+        "fandom_title": "South Park world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_places",
+        "fandom_title": "South Park places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_events",
+        "fandom_title": "South Park events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_objects_&_artifacts",
+        "fandom_title": "South Park objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_factions_&_groups",
+        "fandom_title": "South Park factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_concepts",
+        "fandom_title": "South Park concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_eras",
+        "fandom_title": "South Park eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_works_&_media",
+        "fandom_title": "South Park works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_symbols",
+        "fandom_title": "South Park symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_controversies",
+        "fandom_title": "South Park controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_geography",
+        "fandom_title": "South Park geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_legacy",
+        "fandom_title": "South Park legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_practices",
+        "fandom_title": "South Park practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_1",
+        "fandom_title": "South Park entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_2",
+        "fandom_title": "South Park entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_3",
+        "fandom_title": "South Park entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_4",
+        "fandom_title": "South Park entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_5",
+        "fandom_title": "South Park entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_6",
+        "fandom_title": "South Park entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_7",
+        "fandom_title": "South Park entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_8",
+        "fandom_title": "South Park entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_9",
+        "fandom_title": "South Park entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_10",
+        "fandom_title": "South Park entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_11",
+        "fandom_title": "South Park entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_12",
+        "fandom_title": "South Park entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_13",
+        "fandom_title": "South Park entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_14",
+        "fandom_title": "South Park entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_15",
+        "fandom_title": "South Park entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_16",
+        "fandom_title": "South Park entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_17",
+        "fandom_title": "South Park entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_18",
+        "fandom_title": "South Park entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_19",
+        "fandom_title": "South Park entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_20",
+        "fandom_title": "South Park entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_21",
+        "fandom_title": "South Park entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_22",
+        "fandom_title": "South Park entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_23",
+        "fandom_title": "South Park entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "south-park-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/South_Park_entry_24",
+        "fandom_title": "South Park entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. South Park article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:19:32.122Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

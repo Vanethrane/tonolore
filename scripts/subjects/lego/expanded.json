@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T03:14:45.519Z",
+  "generated_at": "2026-09-14T17:22:50.090Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (lego.fandom.com) for identification and commentary only. LEGO art © The LEGO Group (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -15654,6 +15654,35 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "basilisk",
+      "name": "Basilisk",
+      "type": "person",
+      "description": "The Basilisk is a large and magical species of snake from the theme. In the Harry Potter story, direct eye contact with a Basilisk is fatal.\n\nThe Basilisk is said to be at least 60 feet long, and as with most snakes, it will shed its skin eventually. It is also the \"dreaded monster\" of the Chamber of Secrets at Hogwarts. killed it, preventing further attacks on the students of Hogwarts. He then used one of its fangs to destroy Tom Riddle's diary. This made Tom Riddle evaporate, saving Ginny Weasley. However, that same fang had been stuck in Harry's arm, almost killing him as well, if it had not been for Fawkes. In the Deathly Hallows, Ron and Hermione go into the tomb of the dead basilisk and gather its fangs to destroy the Horcruxes.\n\nCategory:Harry Potter minifigures Category:Minifigures introduced in 2002 Category:Animals Category:Harry Potter animals Category:Harry Potter: Years 1-4 minifigures Category:Brick-built figures",
+      "short_description": "The Basilisk is a large and magical species of snake from the theme. In the Harry Potter story, direct eye contact with a Basilisk is fatal.",
+      "evidence": "fiction",
+      "parentSlug": "lego",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lego/images/2/27/Basilisk2021.png/revision/latest/scale-to-width-down/180?cb=20250825080519",
+      "image_source": "https://brickipedia.fandom.com/wiki/Basilisk",
+      "image_credit": "Fair-use identification thumbnail via Fandom. LEGO art © The LEGO Group (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Basilisk",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://brickipedia.fandom.com/wiki/Basilisk",
+        "fandom_title": "Basilisk",
+        "source_fandom": "lego.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -20075,6 +20104,14 @@
     ],
     [
       "barracuda-guardian",
+      "lego",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "basilisk",
       "lego",
       "part_of",
       "Part of",

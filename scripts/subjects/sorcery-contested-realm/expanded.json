@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "sorcery-contested-realm",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm",
+        "fandom_title": "Sorcery: Contested Realm",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_figures",
+        "fandom_title": "Sorcery: Contested Realm figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_world_&_context",
+        "fandom_title": "Sorcery: Contested Realm world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_places",
+        "fandom_title": "Sorcery: Contested Realm places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_events",
+        "fandom_title": "Sorcery: Contested Realm events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_objects_&_artifacts",
+        "fandom_title": "Sorcery: Contested Realm objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_factions_&_groups",
+        "fandom_title": "Sorcery: Contested Realm factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_concepts",
+        "fandom_title": "Sorcery: Contested Realm concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_eras",
+        "fandom_title": "Sorcery: Contested Realm eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_works_&_media",
+        "fandom_title": "Sorcery: Contested Realm works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_symbols",
+        "fandom_title": "Sorcery: Contested Realm symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_controversies",
+        "fandom_title": "Sorcery: Contested Realm controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_geography",
+        "fandom_title": "Sorcery: Contested Realm geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_legacy",
+        "fandom_title": "Sorcery: Contested Realm legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_practices",
+        "fandom_title": "Sorcery: Contested Realm practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_1",
+        "fandom_title": "Sorcery: Contested Realm entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_2",
+        "fandom_title": "Sorcery: Contested Realm entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_3",
+        "fandom_title": "Sorcery: Contested Realm entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_4",
+        "fandom_title": "Sorcery: Contested Realm entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_5",
+        "fandom_title": "Sorcery: Contested Realm entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_6",
+        "fandom_title": "Sorcery: Contested Realm entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_7",
+        "fandom_title": "Sorcery: Contested Realm entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_8",
+        "fandom_title": "Sorcery: Contested Realm entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_9",
+        "fandom_title": "Sorcery: Contested Realm entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_10",
+        "fandom_title": "Sorcery: Contested Realm entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_11",
+        "fandom_title": "Sorcery: Contested Realm entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_12",
+        "fandom_title": "Sorcery: Contested Realm entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_13",
+        "fandom_title": "Sorcery: Contested Realm entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_14",
+        "fandom_title": "Sorcery: Contested Realm entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_15",
+        "fandom_title": "Sorcery: Contested Realm entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_16",
+        "fandom_title": "Sorcery: Contested Realm entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_17",
+        "fandom_title": "Sorcery: Contested Realm entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_18",
+        "fandom_title": "Sorcery: Contested Realm entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_19",
+        "fandom_title": "Sorcery: Contested Realm entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_20",
+        "fandom_title": "Sorcery: Contested Realm entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_21",
+        "fandom_title": "Sorcery: Contested Realm entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_22",
+        "fandom_title": "Sorcery: Contested Realm entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_23",
+        "fandom_title": "Sorcery: Contested Realm entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sorcery-contested-realm-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sorcery:_Contested_Realm_entry_24",
+        "fandom_title": "Sorcery: Contested Realm entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Sorcery: Contested Realm article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T17:11:07.459Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

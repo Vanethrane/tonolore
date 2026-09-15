@@ -1,0 +1,502 @@
+{
+  "enrichments": [
+    {
+      "slug": "great-chicago-fire",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire",
+        "fandom_title": "Great Chicago Fire",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "The Great Chicago Fire burned in Chicago, Illinois, United States, during October 8–10, 1871. The fire killed approximately 300 people, destroyed 17,000 structures across roughly , and left more than 100,000 residents homeless. The fire began in a neighborhood southwest of the city center. A long period of hot, dry, windy conditions, and the wooden construction prevalent in the city, led to the conflagration spreading quickly. The fire leapt the south branch of the Chicago River and destroyed much of central Chicago and then crossed the main stem of the river, consuming the Near North Side.\n\nHelp flowed to the city after the fire. The city government improved building codes to stop the rapid spread of future fires and rebuilt rapidly to those higher standards. A donation from the United Kingdom spurred the establishment of the Chicago Public Library.\n\nAccording to Nancy Connolly, great-great-granddaughter of Catherine O'Leary, the fire is said to have started at about 8:30&nbsp;p.m. on October&nbsp;8, in or around a small barn belonging to the O'Leary family that bordered the alley behind 137 W. DeKoven Street when Daniel \"Peg-Leg\" Sullivan accidentally knocked over a lantern while looking for beer for a party. The shed next to the barn was the first building to be consumed by the fire. City officials never determined the cause of the blaze, but the rapid spread of the fire due to a long drought in that year's summer, strong winds from the southwest, and the rapid destruction of the water pumping system explain the extensive damage of the mainly wooden city structures. There has been much speculation over the years on the single start to the fire. The most historically popular tale blames Mrs. O'Leary's cow, which allegedly knocked over a lantern; others state that a group of men were gambling inside the barn and knocked over a lantern.\n\nThe fire's spread was aided by the city's use of wood as the predominant building material in a style called balloon frame. More than two-thirds of the structures in Chicago at the time of the fire were made entirely of wood, with most of the houses and buildings being topped with highly combustible tar or shingle roofs. All of the city's sidewalks and many roads were also made of wood. Compounding this problem, Chicago received only of rain from July&nbsp;4 to October&nbsp;9, causing severe drought conditions before the fire, while strong southwest winds helped to carry flying embers toward the heart of the city.",
+      "short_description": "The Great Chicago Fire burned in Chicago, Illinois, United States, during October 8–10, 1871. The fire killed approximately 300 people, destroyed 17,000 structures across roughly , and left more than 100,000 residents…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Chicago_in_Flames_by_Currier_%26_Ives%2C_1871_%28cropped%29.jpg/180px-Chicago_in_Flames_by_Currier_%26_Ives%2C_1871_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Great_Chicago_Fire",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Great Chicago Fire article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Great Chicago Fire"
+    },
+    {
+      "slug": "great-chicago-fire-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_figures",
+        "fandom_title": "Great Chicago Fire figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_world_&_context",
+        "fandom_title": "Great Chicago Fire world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_places",
+        "fandom_title": "Great Chicago Fire places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_events",
+        "fandom_title": "Great Chicago Fire events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_objects_&_artifacts",
+        "fandom_title": "Great Chicago Fire objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_factions_&_groups",
+        "fandom_title": "Great Chicago Fire factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_concepts",
+        "fandom_title": "Great Chicago Fire concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_eras",
+        "fandom_title": "Great Chicago Fire eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_works_&_media",
+        "fandom_title": "Great Chicago Fire works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_symbols",
+        "fandom_title": "Great Chicago Fire symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_controversies",
+        "fandom_title": "Great Chicago Fire controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_geography",
+        "fandom_title": "Great Chicago Fire geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_legacy",
+        "fandom_title": "Great Chicago Fire legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_practices",
+        "fandom_title": "Great Chicago Fire practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_1",
+        "fandom_title": "Great Chicago Fire entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_2",
+        "fandom_title": "Great Chicago Fire entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_3",
+        "fandom_title": "Great Chicago Fire entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_4",
+        "fandom_title": "Great Chicago Fire entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_5",
+        "fandom_title": "Great Chicago Fire entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_6",
+        "fandom_title": "Great Chicago Fire entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_7",
+        "fandom_title": "Great Chicago Fire entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_8",
+        "fandom_title": "Great Chicago Fire entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_9",
+        "fandom_title": "Great Chicago Fire entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_10",
+        "fandom_title": "Great Chicago Fire entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_11",
+        "fandom_title": "Great Chicago Fire entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_12",
+        "fandom_title": "Great Chicago Fire entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_13",
+        "fandom_title": "Great Chicago Fire entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_14",
+        "fandom_title": "Great Chicago Fire entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_15",
+        "fandom_title": "Great Chicago Fire entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_16",
+        "fandom_title": "Great Chicago Fire entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_17",
+        "fandom_title": "Great Chicago Fire entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_18",
+        "fandom_title": "Great Chicago Fire entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_19",
+        "fandom_title": "Great Chicago Fire entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_20",
+        "fandom_title": "Great Chicago Fire entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_21",
+        "fandom_title": "Great Chicago Fire entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_22",
+        "fandom_title": "Great Chicago Fire entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_23",
+        "fandom_title": "Great Chicago Fire entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-chicago-fire-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire_entry_24",
+        "fandom_title": "Great Chicago Fire entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Great Chicago Fire article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:09:06.015Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,0 +1,3477 @@
+{
+  "enrichments": [
+    {
+      "slug": "seinfeld",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Seinfeld_(Curb_Your_Enthusiasm)",
+        "fandom_title": "Seinfeld (Curb Your Enthusiasm)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "seinfeld-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Seinfeld_figures",
+        "fandom_title": "Seinfeld figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "seinfeld-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Seinfeld_world_&_context",
+        "fandom_title": "Seinfeld world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "seinfeld-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Seinfeld_places",
+        "fandom_title": "Seinfeld places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "seinfeld-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Seinfeld_events",
+        "fandom_title": "Seinfeld events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "the-album-about-nothing",
+      "name": "The Album About Nothing",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Album_About_Nothing",
+        "fandom_title": "The Album About Nothing",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "castle-rock-entertainment-inc-v-carol-publishing-group-inc",
+      "name": "Castle Rock Entertainment, Inc. v. Carol Publishing Group Inc.",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Castle_Rock_Entertainment,_Inc._v._Carol_Publishing_Group_Inc.",
+        "fandom_title": "Castle Rock Entertainment, Inc. v. Carol Publishing Group Inc.",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "festivus",
+      "name": "Festivus",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Festivus",
+        "fandom_title": "Festivus",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-aint-seinfeld",
+      "name": "It Ain't Seinfeld",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/It_Ain't_Seinfeld",
+        "fandom_title": "It Ain't Seinfeld",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rick-ludwin",
+      "name": "Rick Ludwin",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Rick_Ludwin",
+        "fandom_title": "Rick Ludwin",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mixtape-about-nothing",
+      "name": "The Mixtape About Nothing",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mixtape_About_Nothing",
+        "fandom_title": "The Mixtape About Nothing",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "monks-cafe",
+      "name": "Monk's Café",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Monk's_Café",
+        "fandom_title": "Monk's Café",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nothing-forever",
+      "name": "Nothing, Forever",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Nothing,_Forever",
+        "fandom_title": "Nothing, Forever",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regifting",
+      "name": "Regifting",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Regifting",
+        "fandom_title": "Regifting",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "seinfeld-a-xxx-parody",
+      "name": "Seinfeld: A XXX Parody",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Seinfeld:_A_XXX_Parody",
+        "fandom_title": "Seinfeld: A XXX Parody",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-table-read",
+      "name": "The Table Read",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Table_Read_(Curb_Your_Enthusiasm)",
+        "fandom_title": "The Table Read (Curb Your Enthusiasm)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "today-sponge",
+      "name": "Today sponge",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Today_sponge",
+        "fandom_title": "Today sponge",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "whinefeld",
+      "name": "Whinefeld",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Whinefeld",
+        "fandom_title": "Whinefeld",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "yada-yada-yada",
+      "name": "Yada yada yada",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Yada_yada_yada",
+        "fandom_title": "Yada yada yada",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elaine-benes",
+      "name": "Elaine Benes",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Elaine_Benes",
+        "fandom_title": "Elaine Benes",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "jackie-chiles",
+      "name": "Jackie Chiles",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Jackie_Chiles",
+        "fandom_title": "Jackie Chiles",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "george-costanza",
+      "name": "George Costanza",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/George_Costanza",
+        "fandom_title": "George Costanza",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cosmo-kramer",
+      "name": "Cosmo Kramer",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cosmo_Kramer",
+        "fandom_title": "Cosmo Kramer",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "newman-seinfeld",
+      "name": "Newman",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Newman_(Seinfeld)",
+        "fandom_title": "Newman (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "jerry-seinfeld-character",
+      "name": "Jerry Seinfeld",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Jerry_Seinfeld_(character)",
+        "fandom_title": "Jerry Seinfeld (character)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "uncle-leo",
+      "name": "Uncle Leo",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Uncle_Leo",
+        "fandom_title": "Uncle Leo",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "seinfeld-season-1",
+      "name": "Seinfeld season 1",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Seinfeld_season_1",
+        "fandom_title": "Seinfeld season 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "seinfeld-season-2",
+      "name": "Seinfeld season 2",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Seinfeld_season_2",
+        "fandom_title": "Seinfeld season 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "seinfeld-season-3",
+      "name": "Seinfeld season 3",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Seinfeld_season_3",
+        "fandom_title": "Seinfeld season 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "seinfeld-season-4",
+      "name": "Seinfeld season 4",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Seinfeld_season_4",
+        "fandom_title": "Seinfeld season 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "seinfeld-season-5",
+      "name": "Seinfeld season 5",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Seinfeld_season_5",
+        "fandom_title": "Seinfeld season 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "seinfeld-season-6",
+      "name": "Seinfeld season 6",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Seinfeld_season_6",
+        "fandom_title": "Seinfeld season 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "seinfeld-season-7",
+      "name": "Seinfeld season 7",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Seinfeld_season_7",
+        "fandom_title": "Seinfeld season 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "seinfeld-season-8",
+      "name": "Seinfeld season 8",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Seinfeld_season_8",
+        "fandom_title": "Seinfeld season 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "seinfeld-season-9",
+      "name": "Seinfeld season 9",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Seinfeld_season_9",
+        "fandom_title": "Seinfeld season 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alton-benes",
+      "name": "Alton Benes",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Alton_Benes",
+        "fandom_title": "Alton Benes",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "babs-kramer",
+      "name": "Babs Kramer",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Babs_Kramer",
+        "fandom_title": "Babs Kramer",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "babu-bhatt",
+      "name": "Babu Bhatt",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Babu_Bhatt",
+        "fandom_title": "Babu Bhatt",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bob-and-cedric",
+      "name": "Bob and Cedric",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bob_and_Cedric",
+        "fandom_title": "Bob and Cedric",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bob-cobb-seinfeld",
+      "name": "Bob Cobb",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bob_Cobb_(Seinfeld)",
+        "fandom_title": "Bob Cobb (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bob-sacamano",
+      "name": "Bob Sacamano",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bob_Sacamano",
+        "fandom_title": "Bob Sacamano",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bob-sacamento",
+      "name": "Bob Sacamento",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bob_Sacamento",
+        "fandom_title": "Bob Sacamento",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "braless-wonder",
+      "name": "Braless Wonder",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Braless_Wonder",
+        "fandom_title": "Braless Wonder",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "carol-seinfeld-characters",
+      "name": "Carol",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Carol_(Seinfeld_characters)",
+        "fandom_title": "Carol (Seinfeld characters)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "david-puddy",
+      "name": "David Puddy",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/David_Puddy",
+        "fandom_title": "David Puddy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crazy-joe-davola",
+      "name": "Crazy Joe Davola",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Crazy_Joe_Davola",
+        "fandom_title": "Crazy Joe Davola",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "donna-chang",
+      "name": "Donna Chang",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Donna_Chang",
+        "fandom_title": "Donna Chang",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dr-tim-whatley",
+      "name": "Dr. Tim Whatley",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Dr._Tim_Whatley",
+        "fandom_title": "Dr. Tim Whatley",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "estelle-costanza",
+      "name": "Estelle Costanza",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Estelle_Costanza",
+        "fandom_title": "Estelle Costanza",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "f-d-romanowski",
+      "name": "F D Romanowski",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/F_D_Romanowski",
+        "fandom_title": "F D Romanowski",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "frank-costanza",
+      "name": "Frank Costanza",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Frank_Costanza",
+        "fandom_title": "Frank Costanza",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "franklin-delano-romanowski",
+      "name": "Franklin Delano Romanowski",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Franklin_Delano_Romanowski",
+        "fandom_title": "Franklin Delano Romanowski",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "helen-seinfeld",
+      "name": "Helen Seinfeld",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Helen_Seinfeld",
+        "fandom_title": "Helen Seinfeld",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "j-peterman-seinfeld-character",
+      "name": "J. Peterman",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/J._Peterman_(Seinfeld_character)",
+        "fandom_title": "J. Peterman (Seinfeld character)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "jack-klompus",
+      "name": "Jack Klompus",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Jack_Klompus",
+        "fandom_title": "Jack Klompus",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "jake-jarmel",
+      "name": "Jake Jarmel",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Jake_Jarmel",
+        "fandom_title": "Jake Jarmel",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "jeannie-steinman",
+      "name": "Jeannie Steinman",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Jeannie_Steinman",
+        "fandom_title": "Jeannie Steinman",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "justin-pitt",
+      "name": "Justin Pitt",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Justin_Pitt",
+        "fandom_title": "Justin Pitt",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kenny-bania",
+      "name": "Kenny Bania",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Kenny_Bania",
+        "fandom_title": "Kenny Bania",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kenny-banya",
+      "name": "Kenny Banya",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Kenny_Banya",
+        "fandom_title": "Kenny Banya",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kruger-seinfeld",
+      "name": "Kruger",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Kruger_(Seinfeld)",
+        "fandom_title": "Kruger (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "larry-the-cook",
+      "name": "Larry the Cook",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Larry_the_Cook",
+        "fandom_title": "Larry the Cook",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lippman-seinfeld",
+      "name": "Lippman",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Lippman_(Seinfeld)",
+        "fandom_title": "Lippman (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lloyd-braun-seinfeld",
+      "name": "Lloyd Braun",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Lloyd_Braun_(Seinfeld)",
+        "fandom_title": "Lloyd Braun (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mickey-abbott",
+      "name": "Mickey Abbott",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mickey_Abbott",
+        "fandom_title": "Mickey Abbott",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mister-pitt",
+      "name": "Mister Pitt",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mister_Pitt",
+        "fandom_title": "Mister Pitt",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "morty-seinfeld",
+      "name": "Morty Seinfeld",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Morty_Seinfeld",
+        "fandom_title": "Morty Seinfeld",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mr-justin-pitt",
+      "name": "Mr. (Justin) Pitt",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mr._(Justin)_Pitt",
+        "fandom_title": "Mr. (Justin) Pitt",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mr-kruger",
+      "name": "Mr. Kruger",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mr._Kruger",
+        "fandom_title": "Mr. Kruger",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mr-lippman",
+      "name": "Mr. Lippman",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mr._Lippman",
+        "fandom_title": "Mr. Lippman",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mr-peterman",
+      "name": "Mr. Peterman",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mr._Peterman",
+        "fandom_title": "Mr. Peterman",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mr-wilhelm",
+      "name": "Mr. Wilhelm",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mr._Wilhelm",
+        "fandom_title": "Mr. Wilhelm",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "jacopo-peterman",
+      "name": "Jacopo Peterman",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Jacopo_Peterman",
+        "fandom_title": "Jacopo Peterman",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rebecca-demornay-seinfeld",
+      "name": "Rebecca DeMornay",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Rebecca_DeMornay_(Seinfeld)",
+        "fandom_title": "Rebecca DeMornay (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "susan-ross-seinfeld",
+      "name": "Susan Ross",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Susan_Ross_(Seinfeld)",
+        "fandom_title": "Susan Ross (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacamano",
+      "name": "Sacamano",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacamano",
+        "fandom_title": "Sacamano",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sally-weaver",
+      "name": "Sally Weaver",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Sally_Weaver",
+        "fandom_title": "Sally Weaver",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steve-gendason",
+      "name": "Steve Gendason",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Steve_Gendason",
+        "fandom_title": "Steve Gendason",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sue-ellen-mischke",
+      "name": "Sue Ellen Mischke",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Sue_Ellen_Mischke",
+        "fandom_title": "Sue Ellen Mischke",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "susan-biddle-ross",
+      "name": "Susan Biddle Ross",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Susan_Biddle_Ross",
+        "fandom_title": "Susan Biddle Ross",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-braless-wonder",
+      "name": "The Braless Wonder",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Braless_Wonder",
+        "fandom_title": "The Braless Wonder",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tor-eckman",
+      "name": "Tor Eckman",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Tor_Eckman",
+        "fandom_title": "Tor Eckman",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tim-whatley",
+      "name": "Tim Whatley",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Tim_Whatley",
+        "fandom_title": "Tim Whatley",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "wilhelm-seinfeld",
+      "name": "Wilhelm",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Wilhelm_(Seinfeld)",
+        "fandom_title": "Wilhelm (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "male-unbonding",
+      "name": "Male Unbonding",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Male_Unbonding",
+        "fandom_title": "Male Unbonding",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-robbery",
+      "name": "The Robbery",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Robbery",
+        "fandom_title": "The Robbery",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-seinfeld-chronicles",
+      "name": "The Seinfeld Chronicles",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Seinfeld_Chronicles",
+        "fandom_title": "The Seinfeld Chronicles",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-stake-out-seinfeld",
+      "name": "The Stake Out",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Stake_Out_(Seinfeld)",
+        "fandom_title": "The Stake Out (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-stock-tip",
+      "name": "The Stock Tip",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Stock_Tip",
+        "fandom_title": "The Stock Tip",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-apartment-seinfeld",
+      "name": "The Apartment",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Apartment_(Seinfeld)",
+        "fandom_title": "The Apartment (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-baby-shower-seinfeld",
+      "name": "The Baby Shower",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Baby_Shower_(Seinfeld)",
+        "fandom_title": "The Baby Shower (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-busboy",
+      "name": "The Busboy",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Busboy",
+        "fandom_title": "The Busboy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-chinese-restaurant",
+      "name": "The Chinese Restaurant",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Chinese_Restaurant",
+        "fandom_title": "The Chinese Restaurant",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-deal-seinfeld",
+      "name": "The Deal",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Deal_(Seinfeld)",
+        "fandom_title": "The Deal (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-ex-girlfriend",
+      "name": "The Ex-Girlfriend",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Ex-Girlfriend",
+        "fandom_title": "The Ex-Girlfriend",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-heart-attack",
+      "name": "The Heart Attack",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Heart_Attack",
+        "fandom_title": "The Heart Attack",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-jacket-seinfeld",
+      "name": "The Jacket",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Jacket_(Seinfeld)",
+        "fandom_title": "The Jacket (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-phone-message",
+      "name": "The Phone Message",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Phone_Message",
+        "fandom_title": "The Phone Message",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-pony-remark",
+      "name": "The Pony Remark",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Pony_Remark",
+        "fandom_title": "The Pony Remark",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-revenge-seinfeld",
+      "name": "The Revenge",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Revenge_(Seinfeld)",
+        "fandom_title": "The Revenge (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-statue-seinfeld",
+      "name": "The Statue",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Statue_(Seinfeld)",
+        "fandom_title": "The Statue (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-alternate-side",
+      "name": "The Alternate Side",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Alternate_Side",
+        "fandom_title": "The Alternate Side",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boyfriend-seinfeld",
+      "name": "The Boyfriend",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boyfriend_(Seinfeld)",
+        "fandom_title": "The Boyfriend (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-cafe-seinfeld",
+      "name": "The Cafe",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cafe_(Seinfeld)",
+        "fandom_title": "The Cafe (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-dog-seinfeld",
+      "name": "The Dog",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Dog_(Seinfeld)",
+        "fandom_title": "The Dog (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-fix-up",
+      "name": "The Fix-Up",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Fix-Up",
+        "fandom_title": "The Fix-Up",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-good-samaritan-seinfeld",
+      "name": "The Good Samaritan",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Good_Samaritan_(Seinfeld)",
+        "fandom_title": "The Good Samaritan (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-keys-seinfeld",
+      "name": "The Keys",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Keys_(Seinfeld)",
+        "fandom_title": "The Keys (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-letter-seinfeld",
+      "name": "The Letter",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Letter_(Seinfeld)",
+        "fandom_title": "The Letter (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-library-seinfeld",
+      "name": "The Library",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Library_(Seinfeld)",
+        "fandom_title": "The Library (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-limo-seinfeld",
+      "name": "The Limo",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Limo_(Seinfeld)",
+        "fandom_title": "The Limo (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-nose-job",
+      "name": "The Nose Job",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Nose_Job",
+        "fandom_title": "The Nose Job",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-note-seinfeld",
+      "name": "The Note",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Note_(Seinfeld)",
+        "fandom_title": "The Note (Seinfeld)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-parking-garage",
+      "name": "The Parking Garage",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Parking_Garage",
+        "fandom_title": "The Parking Garage",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-parking-space",
+      "name": "The Parking Space",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Parking_Space",
+        "fandom_title": "The Parking Space",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-pen",
+      "name": "The Pen",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Pen",
+        "fandom_title": "The Pen",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-pez-dispenser",
+      "name": "The Pez Dispenser",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Pez_Dispenser",
+        "fandom_title": "The Pez Dispenser",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-red-dot",
+      "name": "The Red Dot",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "seinfeld",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Red_Dot",
+        "fandom_title": "The Red Dot",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "the-album-about-nothing",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "castle-rock-entertainment-inc-v-carol-publishing-group-inc",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "festivus",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "it-aint-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "rick-ludwin",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-mixtape-about-nothing",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "monks-cafe",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "nothing-forever",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "regifting",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "seinfeld-a-xxx-parody",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-table-read",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "today-sponge",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "whinefeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "yada-yada-yada",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "elaine-benes",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "jackie-chiles",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "george-costanza",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cosmo-kramer",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "newman-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "jerry-seinfeld-character",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "uncle-leo",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "seinfeld-season-1",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "seinfeld-season-2",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "seinfeld-season-3",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "seinfeld-season-4",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "seinfeld-season-5",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "seinfeld-season-6",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "seinfeld-season-7",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "seinfeld-season-8",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "seinfeld-season-9",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "alton-benes",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "babs-kramer",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "babu-bhatt",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bob-and-cedric",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bob-cobb-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bob-sacamano",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bob-sacamento",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "braless-wonder",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "carol-seinfeld-characters",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "david-puddy",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "crazy-joe-davola",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "donna-chang",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "dr-tim-whatley",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "estelle-costanza",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "f-d-romanowski",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "frank-costanza",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "franklin-delano-romanowski",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "helen-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "j-peterman-seinfeld-character",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "jack-klompus",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "jake-jarmel",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "jeannie-steinman",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "justin-pitt",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "kenny-bania",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "kenny-banya",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "kruger-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "larry-the-cook",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lippman-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lloyd-braun-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mickey-abbott",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mister-pitt",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "morty-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mr-justin-pitt",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mr-kruger",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mr-lippman",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mr-peterman",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mr-wilhelm",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "jacopo-peterman",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "rebecca-demornay-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "susan-ross-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "sacamano",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "sally-weaver",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "steve-gendason",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "sue-ellen-mischke",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "susan-biddle-ross",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-braless-wonder",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "tor-eckman",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "tim-whatley",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "wilhelm-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "male-unbonding",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-robbery",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-seinfeld-chronicles",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-stake-out-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-stock-tip",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-apartment-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-baby-shower-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-busboy",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-chinese-restaurant",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-deal-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-ex-girlfriend",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-heart-attack",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-jacket-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-phone-message",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-pony-remark",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-revenge-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-statue-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-alternate-side",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-boyfriend-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-cafe-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-dog-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-fix-up",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-good-samaritan-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-keys-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-letter-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-library-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-limo-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-nose-job",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-note-seinfeld",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-parking-garage",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-parking-space",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-pen",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-pez-dispenser",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-red-dot",
+      "seinfeld",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Seinfeld article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:55:03.452Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "pagan-revival",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival",
+        "fandom_title": "Modern pagan revival",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_figures",
+        "fandom_title": "Modern pagan revival figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_world_&_context",
+        "fandom_title": "Modern pagan revival world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_places",
+        "fandom_title": "Modern pagan revival places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_events",
+        "fandom_title": "Modern pagan revival events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_objects_&_artifacts",
+        "fandom_title": "Modern pagan revival objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_factions_&_groups",
+        "fandom_title": "Modern pagan revival factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_concepts",
+        "fandom_title": "Modern pagan revival concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_eras",
+        "fandom_title": "Modern pagan revival eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_works_&_media",
+        "fandom_title": "Modern pagan revival works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_symbols",
+        "fandom_title": "Modern pagan revival symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_controversies",
+        "fandom_title": "Modern pagan revival controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_geography",
+        "fandom_title": "Modern pagan revival geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_legacy",
+        "fandom_title": "Modern pagan revival legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_practices",
+        "fandom_title": "Modern pagan revival practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_1",
+        "fandom_title": "Modern pagan revival entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_2",
+        "fandom_title": "Modern pagan revival entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_3",
+        "fandom_title": "Modern pagan revival entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_4",
+        "fandom_title": "Modern pagan revival entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_5",
+        "fandom_title": "Modern pagan revival entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_6",
+        "fandom_title": "Modern pagan revival entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_7",
+        "fandom_title": "Modern pagan revival entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_8",
+        "fandom_title": "Modern pagan revival entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_9",
+        "fandom_title": "Modern pagan revival entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_10",
+        "fandom_title": "Modern pagan revival entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_11",
+        "fandom_title": "Modern pagan revival entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_12",
+        "fandom_title": "Modern pagan revival entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_13",
+        "fandom_title": "Modern pagan revival entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_14",
+        "fandom_title": "Modern pagan revival entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_15",
+        "fandom_title": "Modern pagan revival entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_16",
+        "fandom_title": "Modern pagan revival entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_17",
+        "fandom_title": "Modern pagan revival entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_18",
+        "fandom_title": "Modern pagan revival entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_19",
+        "fandom_title": "Modern pagan revival entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_20",
+        "fandom_title": "Modern pagan revival entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_21",
+        "fandom_title": "Modern pagan revival entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_22",
+        "fandom_title": "Modern pagan revival entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_23",
+        "fandom_title": "Modern pagan revival entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pagan-revival-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Modern_pagan_revival_entry_24",
+        "fandom_title": "Modern pagan revival entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Modern pagan revival article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:56:38.541Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

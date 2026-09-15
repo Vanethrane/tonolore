@@ -1,0 +1,1635 @@
+{
+  "enrichments": [
+    {
+      "slug": "area-51-lore",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_(series)",
+        "fandom_title": "Area 51 (series)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_figures",
+        "fandom_title": "Area 51 figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_world_&_context",
+        "fandom_title": "Area 51 world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_places",
+        "fandom_title": "Area 51 places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_events",
+        "fandom_title": "Area 51 events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_objects_&_artifacts",
+        "fandom_title": "Area 51 objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_factions_&_groups",
+        "fandom_title": "Area 51 factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_concepts",
+        "fandom_title": "Area 51 concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_eras",
+        "fandom_title": "Area 51 eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_works_&_media",
+        "fandom_title": "Area 51 works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_symbols",
+        "fandom_title": "Area 51 symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_controversies",
+        "fandom_title": "Area 51 controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_geography",
+        "fandom_title": "Area 51 geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_legacy",
+        "fandom_title": "Area 51 legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_practices",
+        "fandom_title": "Area 51 practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_1",
+        "fandom_title": "Area 51 entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_2",
+        "fandom_title": "Area 51 entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_3",
+        "fandom_title": "Area 51 entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_4",
+        "fandom_title": "Area 51 entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_5",
+        "fandom_title": "Area 51 entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_6",
+        "fandom_title": "Area 51 entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_7",
+        "fandom_title": "Area 51 entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_8",
+        "fandom_title": "Area 51 entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_9",
+        "fandom_title": "Area 51 entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_10",
+        "fandom_title": "Area 51 entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_11",
+        "fandom_title": "Area 51 entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_12",
+        "fandom_title": "Area 51 entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_13",
+        "fandom_title": "Area 51 entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_14",
+        "fandom_title": "Area 51 entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_15",
+        "fandom_title": "Area 51 entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_16",
+        "fandom_title": "Area 51 entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_17",
+        "fandom_title": "Area 51 entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_18",
+        "fandom_title": "Area 51 entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_19",
+        "fandom_title": "Area 51 entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_20",
+        "fandom_title": "Area 51 entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_21",
+        "fandom_title": "Area 51 entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_22",
+        "fandom_title": "Area 51 entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_23",
+        "fandom_title": "Area 51 entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-lore-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51_entry_24",
+        "fandom_title": "Area 51 entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "4477th-test-and-evaluation-squadron",
+      "name": "4477th Test and Evaluation Squadron",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/4477th_Test_and_Evaluation_Squadron",
+        "fandom_title": "4477th Test and Evaluation Squadron",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alamo-landing-field",
+      "name": "Alamo Landing Field",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Alamo_Landing_Field",
+        "fandom_title": "Alamo Landing Field",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alamo-nevada",
+      "name": "Alamo, Nevada",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Alamo,_Nevada",
+        "fandom_title": "Alamo, Nevada",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "boeing-bird-of-prey",
+      "name": "Boeing Bird of Prey",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Boeing_Bird_of_Prey",
+        "fandom_title": "Boeing Bird of Prey",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "groom-lake-salt-flat",
+      "name": "Groom Lake",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Groom_Lake_(salt_flat)",
+        "fandom_title": "Groom Lake (salt flat)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "janet-airline",
+      "name": "Janet",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Janet_(airline)",
+        "fandom_title": "Janet (airline)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bob-lazar",
+      "name": "Bob Lazar",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bob_Lazar",
+        "fandom_title": "Bob Lazar",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lockheed-f-117-nighthawk",
+      "name": "Lockheed F-117 Nighthawk",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Lockheed_F-117_Nighthawk",
+        "fandom_title": "Lockheed F-117 Nighthawk",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lockheed-have-blue",
+      "name": "Lockheed Have Blue",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Lockheed_Have_Blue",
+        "fandom_title": "Lockheed Have Blue",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lockheed-senior-prom",
+      "name": "Lockheed Senior Prom",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Lockheed_Senior_Prom",
+        "fandom_title": "Lockheed Senior Prom",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steve-medlin",
+      "name": "Steve Medlin",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Steve_Medlin",
+        "fandom_title": "Steve Medlin",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "national-atomic-testing-museum",
+      "name": "National Atomic Testing Museum",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/National_Atomic_Testing_Museum",
+        "fandom_title": "National Atomic Testing Museum",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nevada-state-route-375",
+      "name": "Nevada State Route 375",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Nevada_State_Route_375",
+        "fandom_title": "Nevada State Route 375",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nevada-test-and-training-range",
+      "name": "Nevada Test and Training Range",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range",
+        "fandom_title": "Nevada Test and Training Range",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nevadas-19th-senate-district",
+      "name": "Nevada's 19th Senate district",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Nevada's_19th_Senate_district",
+        "fandom_title": "Nevada's 19th Senate district",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "northrop-tacit-blue",
+      "name": "Northrop Tacit Blue",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Northrop_Tacit_Blue",
+        "fandom_title": "Northrop Tacit Blue",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "open-secret",
+      "name": "Open secret",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Open_secret",
+        "fandom_title": "Open secret",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "papoose-lake",
+      "name": "Papoose Lake",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Papoose_Lake",
+        "fandom_title": "Papoose Lake",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "project-aquiline",
+      "name": "Project AQUILINE",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Project_AQUILINE",
+        "fandom_title": "Project AQUILINE",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rachel-nevada",
+      "name": "Rachel, Nevada",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Rachel,_Nevada",
+        "fandom_title": "Rachel, Nevada",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "storm-area-51",
+      "name": "Storm Area 51",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Storm_Area_51",
+        "fandom_title": "Storm Area 51",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-the-dreamland-chronicles",
+      "name": "Area 51: The Dreamland Chronicles",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51:_The_Dreamland_Chronicles",
+        "fandom_title": "Area 51: The Dreamland Chronicles",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-horror-story-double-feature",
+      "name": "American Horror Story: Double Feature",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Horror_Story:_Double_Feature",
+        "fandom_title": "American Horror Story: Double Feature",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dreamland-doctor-who",
+      "name": "Dreamland",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Dreamland_(Doctor_Who)",
+        "fandom_title": "Dreamland (Doctor Who)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dreamland-the-x-files",
+      "name": "Dreamland",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Dreamland_(The_X-Files)",
+        "fandom_title": "Dreamland (The X-Files)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "51-film",
+      "name": "51",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/51_(film)",
+        "fandom_title": "51 (film)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dreamland-2007-film",
+      "name": "Dreamland",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Dreamland_(2007_film)",
+        "fandom_title": "Dreamland (2007 film)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hello-out-there-film",
+      "name": "Hello Out There",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Hello_Out_There_(film)",
+        "fandom_title": "Hello Out There (film)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "independence-day-1996-film",
+      "name": "Independence Day",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Independence_Day_(1996_film)",
+        "fandom_title": "Independence Day (1996 film)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "indiana-jones-and-the-kingdom-of-the-crystal-skull",
+      "name": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull",
+        "fandom_title": "Indiana Jones and the Kingdom of the Crystal Skull",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "showdown-at-area-51",
+      "name": "Showdown at Area 51",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Showdown_at_Area_51",
+        "fandom_title": "Showdown at Area 51",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "trainwreck-storm-area-51",
+      "name": "Trainwreck: Storm Area 51",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Trainwreck:_Storm_Area_51",
+        "fandom_title": "Trainwreck: Storm Area 51",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "venom-the-last-dance",
+      "name": "Venom: The Last Dance",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Venom:_The_Last_Dance",
+        "fandom_title": "Venom: The Last Dance",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "alien-hominid",
+      "name": "Alien Hominid",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Alien_Hominid",
+        "fandom_title": "Alien Hominid",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "area-51-site-4",
+      "name": "Area 51: Site 4",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Area_51:_Site_4",
+        "fandom_title": "Area 51: Site 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blacksite-area-51",
+      "name": "BlackSite: Area 51",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/BlackSite:_Area_51",
+        "fandom_title": "BlackSite: Area 51",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "daymare-1994-sandcastle",
+      "name": "Daymare: 1994 Sandcastle",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Daymare:_1994_Sandcastle",
+        "fandom_title": "Daymare: 1994 Sandcastle",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "deus-ex-video-game",
+      "name": "Deus Ex",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "area-51-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Deus_Ex_(video_game)",
+        "fandom_title": "Deus Ex (video game)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "4477th-test-and-evaluation-squadron",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "alamo-landing-field",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "alamo-nevada",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "boeing-bird-of-prey",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "groom-lake-salt-flat",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "janet-airline",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bob-lazar",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lockheed-f-117-nighthawk",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lockheed-have-blue",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lockheed-senior-prom",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "steve-medlin",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "national-atomic-testing-museum",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "nevada-state-route-375",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "nevada-test-and-training-range",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "nevadas-19th-senate-district",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "northrop-tacit-blue",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "open-secret",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "papoose-lake",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "project-aquiline",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "rachel-nevada",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "storm-area-51",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "area-51-the-dreamland-chronicles",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "american-horror-story-double-feature",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "dreamland-doctor-who",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "dreamland-the-x-files",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "51-film",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "dreamland-2007-film",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "hello-out-there-film",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "independence-day-1996-film",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "indiana-jones-and-the-kingdom-of-the-crystal-skull",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "showdown-at-area-51",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "trainwreck-storm-area-51",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "venom-the-last-dance",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "alien-hominid",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "area-51-site-4",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "blacksite-area-51",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "daymare-1994-sandcastle",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "deus-ex-video-game",
+      "area-51-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Area 51 article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:35:36.525Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

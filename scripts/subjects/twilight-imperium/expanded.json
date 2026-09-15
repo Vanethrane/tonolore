@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "twilight-imperium",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium",
+        "fandom_title": "Twilight Imperium",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_figures",
+        "fandom_title": "Twilight Imperium figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_world_&_context",
+        "fandom_title": "Twilight Imperium world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_places",
+        "fandom_title": "Twilight Imperium places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_events",
+        "fandom_title": "Twilight Imperium events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_objects_&_artifacts",
+        "fandom_title": "Twilight Imperium objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_factions_&_groups",
+        "fandom_title": "Twilight Imperium factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_concepts",
+        "fandom_title": "Twilight Imperium concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_eras",
+        "fandom_title": "Twilight Imperium eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_works_&_media",
+        "fandom_title": "Twilight Imperium works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_symbols",
+        "fandom_title": "Twilight Imperium symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_controversies",
+        "fandom_title": "Twilight Imperium controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_geography",
+        "fandom_title": "Twilight Imperium geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_legacy",
+        "fandom_title": "Twilight Imperium legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_practices",
+        "fandom_title": "Twilight Imperium practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_1",
+        "fandom_title": "Twilight Imperium entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_2",
+        "fandom_title": "Twilight Imperium entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_3",
+        "fandom_title": "Twilight Imperium entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_4",
+        "fandom_title": "Twilight Imperium entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_5",
+        "fandom_title": "Twilight Imperium entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_6",
+        "fandom_title": "Twilight Imperium entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_7",
+        "fandom_title": "Twilight Imperium entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_8",
+        "fandom_title": "Twilight Imperium entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_9",
+        "fandom_title": "Twilight Imperium entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_10",
+        "fandom_title": "Twilight Imperium entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_11",
+        "fandom_title": "Twilight Imperium entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_12",
+        "fandom_title": "Twilight Imperium entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_13",
+        "fandom_title": "Twilight Imperium entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_14",
+        "fandom_title": "Twilight Imperium entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_15",
+        "fandom_title": "Twilight Imperium entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_16",
+        "fandom_title": "Twilight Imperium entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_17",
+        "fandom_title": "Twilight Imperium entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_18",
+        "fandom_title": "Twilight Imperium entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_19",
+        "fandom_title": "Twilight Imperium entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_20",
+        "fandom_title": "Twilight Imperium entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_21",
+        "fandom_title": "Twilight Imperium entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_22",
+        "fandom_title": "Twilight Imperium entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_23",
+        "fandom_title": "Twilight Imperium entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "twilight-imperium-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Twilight_Imperium_entry_24",
+        "fandom_title": "Twilight Imperium entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Twilight Imperium article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T17:06:25.716Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

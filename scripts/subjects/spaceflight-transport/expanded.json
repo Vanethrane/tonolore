@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "spaceflight-transport",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport",
+        "fandom_title": "Spaceflight as transport",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_figures",
+        "fandom_title": "Spaceflight as transport figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_world_&_context",
+        "fandom_title": "Spaceflight as transport world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_places",
+        "fandom_title": "Spaceflight as transport places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_events",
+        "fandom_title": "Spaceflight as transport events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_objects_&_artifacts",
+        "fandom_title": "Spaceflight as transport objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_factions_&_groups",
+        "fandom_title": "Spaceflight as transport factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_concepts",
+        "fandom_title": "Spaceflight as transport concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_eras",
+        "fandom_title": "Spaceflight as transport eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_works_&_media",
+        "fandom_title": "Spaceflight as transport works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_symbols",
+        "fandom_title": "Spaceflight as transport symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_controversies",
+        "fandom_title": "Spaceflight as transport controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_geography",
+        "fandom_title": "Spaceflight as transport geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_legacy",
+        "fandom_title": "Spaceflight as transport legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_practices",
+        "fandom_title": "Spaceflight as transport practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_1",
+        "fandom_title": "Spaceflight as transport entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_2",
+        "fandom_title": "Spaceflight as transport entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_3",
+        "fandom_title": "Spaceflight as transport entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_4",
+        "fandom_title": "Spaceflight as transport entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_5",
+        "fandom_title": "Spaceflight as transport entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_6",
+        "fandom_title": "Spaceflight as transport entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_7",
+        "fandom_title": "Spaceflight as transport entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_8",
+        "fandom_title": "Spaceflight as transport entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_9",
+        "fandom_title": "Spaceflight as transport entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_10",
+        "fandom_title": "Spaceflight as transport entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_11",
+        "fandom_title": "Spaceflight as transport entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_12",
+        "fandom_title": "Spaceflight as transport entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_13",
+        "fandom_title": "Spaceflight as transport entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_14",
+        "fandom_title": "Spaceflight as transport entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_15",
+        "fandom_title": "Spaceflight as transport entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_16",
+        "fandom_title": "Spaceflight as transport entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_17",
+        "fandom_title": "Spaceflight as transport entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_18",
+        "fandom_title": "Spaceflight as transport entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_19",
+        "fandom_title": "Spaceflight as transport entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_20",
+        "fandom_title": "Spaceflight as transport entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_21",
+        "fandom_title": "Spaceflight as transport entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_22",
+        "fandom_title": "Spaceflight as transport entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_23",
+        "fandom_title": "Spaceflight as transport entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spaceflight-transport-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spaceflight_as_transport_entry_24",
+        "fandom_title": "Spaceflight as transport entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Spaceflight as transport article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:18:49.391Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

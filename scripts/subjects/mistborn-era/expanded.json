@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "mistborn-era",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn",
+        "fandom_title": "Mistborn",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_figures",
+        "fandom_title": "Mistborn figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_world_&_context",
+        "fandom_title": "Mistborn world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_places",
+        "fandom_title": "Mistborn places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_events",
+        "fandom_title": "Mistborn events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_objects_&_artifacts",
+        "fandom_title": "Mistborn objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_factions_&_groups",
+        "fandom_title": "Mistborn factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_concepts",
+        "fandom_title": "Mistborn concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_eras",
+        "fandom_title": "Mistborn eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_works_&_media",
+        "fandom_title": "Mistborn works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_symbols",
+        "fandom_title": "Mistborn symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_controversies",
+        "fandom_title": "Mistborn controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_geography",
+        "fandom_title": "Mistborn geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_legacy",
+        "fandom_title": "Mistborn legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_practices",
+        "fandom_title": "Mistborn practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_1",
+        "fandom_title": "Mistborn entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_2",
+        "fandom_title": "Mistborn entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_3",
+        "fandom_title": "Mistborn entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_4",
+        "fandom_title": "Mistborn entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_5",
+        "fandom_title": "Mistborn entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_6",
+        "fandom_title": "Mistborn entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_7",
+        "fandom_title": "Mistborn entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_8",
+        "fandom_title": "Mistborn entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_9",
+        "fandom_title": "Mistborn entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_10",
+        "fandom_title": "Mistborn entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_11",
+        "fandom_title": "Mistborn entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_12",
+        "fandom_title": "Mistborn entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_13",
+        "fandom_title": "Mistborn entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_14",
+        "fandom_title": "Mistborn entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_15",
+        "fandom_title": "Mistborn entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_16",
+        "fandom_title": "Mistborn entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_17",
+        "fandom_title": "Mistborn entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_18",
+        "fandom_title": "Mistborn entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_19",
+        "fandom_title": "Mistborn entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_20",
+        "fandom_title": "Mistborn entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_21",
+        "fandom_title": "Mistborn entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_22",
+        "fandom_title": "Mistborn entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_23",
+        "fandom_title": "Mistborn entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mistborn-era-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mistborn_entry_24",
+        "fandom_title": "Mistborn entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Mistborn article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:41:06.684Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

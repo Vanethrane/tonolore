@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "house-of-the-dragon",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon",
+        "fandom_title": "House of the Dragon",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_figures",
+        "fandom_title": "House of the Dragon figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_world_&_context",
+        "fandom_title": "House of the Dragon world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_places",
+        "fandom_title": "House of the Dragon places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_events",
+        "fandom_title": "House of the Dragon events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_objects_&_artifacts",
+        "fandom_title": "House of the Dragon objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_factions_&_groups",
+        "fandom_title": "House of the Dragon factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_concepts",
+        "fandom_title": "House of the Dragon concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_eras",
+        "fandom_title": "House of the Dragon eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_works_&_media",
+        "fandom_title": "House of the Dragon works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_symbols",
+        "fandom_title": "House of the Dragon symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_controversies",
+        "fandom_title": "House of the Dragon controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_geography",
+        "fandom_title": "House of the Dragon geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_legacy",
+        "fandom_title": "House of the Dragon legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_practices",
+        "fandom_title": "House of the Dragon practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_1",
+        "fandom_title": "House of the Dragon entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_2",
+        "fandom_title": "House of the Dragon entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_3",
+        "fandom_title": "House of the Dragon entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_4",
+        "fandom_title": "House of the Dragon entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_5",
+        "fandom_title": "House of the Dragon entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_6",
+        "fandom_title": "House of the Dragon entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_7",
+        "fandom_title": "House of the Dragon entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_8",
+        "fandom_title": "House of the Dragon entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_9",
+        "fandom_title": "House of the Dragon entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_10",
+        "fandom_title": "House of the Dragon entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_11",
+        "fandom_title": "House of the Dragon entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_12",
+        "fandom_title": "House of the Dragon entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_13",
+        "fandom_title": "House of the Dragon entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_14",
+        "fandom_title": "House of the Dragon entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_15",
+        "fandom_title": "House of the Dragon entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_16",
+        "fandom_title": "House of the Dragon entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_17",
+        "fandom_title": "House of the Dragon entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_18",
+        "fandom_title": "House of the Dragon entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_19",
+        "fandom_title": "House of the Dragon entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_20",
+        "fandom_title": "House of the Dragon entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_21",
+        "fandom_title": "House of the Dragon entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_22",
+        "fandom_title": "House of the Dragon entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_23",
+        "fandom_title": "House of the Dragon entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "house-of-the-dragon-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/House_of_the_Dragon_entry_24",
+        "fandom_title": "House of the Dragon entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. House of the Dragon article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:57:06.241Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

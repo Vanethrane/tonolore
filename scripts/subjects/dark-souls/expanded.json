@@ -1,0 +1,561 @@
+{
+  "enrichments": [
+    {
+      "slug": "dark-souls",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls",
+        "fandom_title": "Dark Souls",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "Dark Souls is a dark fantasy, action role-playing game series developed by FromSoftware and published by Bandai Namco Entertainment. Created by Hidetaka Miyazaki, the series began with the release of Dark Souls (2011) and has seen two sequels, Dark Souls II (2014) and Dark Souls III (2016). It has received critical acclaim, with its high level of difficulty being among its most discussed aspects.\n\nThe first Dark Souls is often cited as one of the greatest games of all time. The series had shipped over 39 million copies worldwide as of 2025. Other FromSoftware games, including Demon's Souls, Bloodborne, Sekiro: Shadows Die Twice, and Elden Ring, share several related concepts and led to the creation of the Soulslike subgenre.",
+      "short_description": "Dark Souls is a dark fantasy, action role-playing game series developed by FromSoftware and published by Bandai Namco Entertainment. Created by Hidetaka Miyazaki, the series began with the release of Dark Souls (2011)…"
+    },
+    {
+      "slug": "dark-souls-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_figures",
+        "fandom_title": "Dark Souls figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_world_&_context",
+        "fandom_title": "Dark Souls world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_places",
+        "fandom_title": "Dark Souls places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_events",
+        "fandom_title": "Dark Souls events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_objects_&_artifacts",
+        "fandom_title": "Dark Souls objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_factions_&_groups",
+        "fandom_title": "Dark Souls factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_concepts",
+        "fandom_title": "Dark Souls concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_eras",
+        "fandom_title": "Dark Souls eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_works_&_media",
+        "fandom_title": "Dark Souls works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_symbols",
+        "fandom_title": "Dark Souls symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_controversies",
+        "fandom_title": "Dark Souls controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_geography",
+        "fandom_title": "Dark Souls geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_legacy",
+        "fandom_title": "Dark Souls legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_practices",
+        "fandom_title": "Dark Souls practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_1",
+        "fandom_title": "Dark Souls entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_2",
+        "fandom_title": "Dark Souls entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_3",
+        "fandom_title": "Dark Souls entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_4",
+        "fandom_title": "Dark Souls entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_5",
+        "fandom_title": "Dark Souls entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_6",
+        "fandom_title": "Dark Souls entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_7",
+        "fandom_title": "Dark Souls entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_8",
+        "fandom_title": "Dark Souls entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_9",
+        "fandom_title": "Dark Souls entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_10",
+        "fandom_title": "Dark Souls entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_11",
+        "fandom_title": "Dark Souls entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_12",
+        "fandom_title": "Dark Souls entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_13",
+        "fandom_title": "Dark Souls entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_14",
+        "fandom_title": "Dark Souls entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_15",
+        "fandom_title": "Dark Souls entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_16",
+        "fandom_title": "Dark Souls entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_17",
+        "fandom_title": "Dark Souls entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_18",
+        "fandom_title": "Dark Souls entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_19",
+        "fandom_title": "Dark Souls entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_20",
+        "fandom_title": "Dark Souls entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_21",
+        "fandom_title": "Dark Souls entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_22",
+        "fandom_title": "Dark Souls entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_23",
+        "fandom_title": "Dark Souls entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-souls-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Souls_entry_24",
+        "fandom_title": "Dark Souls entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "anor-londo",
+      "name": "Anor Londo",
+      "type": "topic",
+      "description": "Anor Londo is a fictional city in the Dark Souls series of action role-playing games. Appearing in both Dark Souls and Dark Souls III, it is the capital of the kingdom of Lordran and the former seat of the power of the deities of the Dark Souls world. By the time of Dark Souls, it has long become an abandoned lost city, populated almost exclusively by threats to the player character.\n\nGoing through Anor Londo is a requirement in both games; in Dark Souls, the protagonist must explore it to retrieve a powerful magic item, the Lordvessel, that allows them to progress the story. Originally bathed in sunlight, Anor Londo has become a nightly realm of cold in Dark Souls III, which takes place many years after the original, and now forms the upper part of a new city, Irithyll of the Boreal Valley, built but also abandoned between the two games. In Dark Souls III the protagonist must go to Anor Londo to slay a \"Lord of Cinder\", the boss Aldrich, Devourer of Gods.\n\nAnor Londo has been cited by critics as one of the best and most memorable areas in the Dark Souls games for its beautiful design, environmental storytelling, and, in the first game, its final boss battle against the duo of Dragon Slayer Ornstein and Executioner Smough; the area's high difficulty in the original Dark Souls, most notably said boss fight and a climbing section where the player must overcome two powerful archers while avoiding a fall, was noted by many, and the Ornstein and Smough boss battle is considered one of the best and most memorable in video game history.\n\nThe player character arrives in Anor Londo after completing Sen's Fortress, a location that opens after they have rung both \"Bells of Awakening\". After dispatching the boss of Sen's Fortress, the Iron Golem, the player is carried over the otherwise sealed-off wall of Anor Londo by a pack of winged demons. As one of the only non-ruined areas of Lordran, Anor Londo stands in contrast to the other levels of the game.",
+      "short_description": "Anor Londo is a fictional city in the Dark Souls series of action role-playing games. Appearing in both Dark Souls and Dark Souls III, it is the capital of the kingdom of Lordran and the former seat of the power of the…",
+      "evidence": "fiction",
+      "parentSlug": "dark-souls",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Anor_Londo",
+        "fandom_title": "Anor Londo",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "patches-character",
+      "name": "Patches",
+      "type": "person",
+      "description": "Patches is a recurring character designed by Hidetaka Miyazaki and video game development studio FromSoftware. He is voiced by British actor William Vanderpuye, and, in Japanese, Naomi Kusumi. Appearing in most of their games starting from the 2008 Armored Core: For Answer, he has predominantly featured in games in the Soulsborne series, up to and including the 2022 open-world fantasy game Elden Ring. Bald and wearing trademark leather armor, he is usually a merchant who obtains his wares from looting corpses, including those of unsuspecting people he has fooled. His outlandishly cowardly personality and transparent ploys to kill the protagonist function as comic relief in the otherwise dark games. At times, Patches also becomes the player's ally, making him akin to a trickster. Patches has been described as a self-insert character for Miyazaki himself, who shares the tendency to spring traps on unsuspecting players, and only appears in games Miyazaki designed or directed. His similarity in design across games has led to theories that he can cross between dimensions. He has become widely popular amongst fans despite his constant attempts to mislead or sabotage the player.\n\nPatches is typically depicted as a middle-aged man wearing fullbody light leather armor created for thievery and sneaking, save for his head. He has little to no facial hair, small, beady eyes, and a long nose. Patches uses a spear and greatshield to fight, allowing him to attack from behind the shield in a highly defensive manner, and has a powerful kick that can break the player's guard, attributed to his preferred tactic of kicking people off cliffs. In Dark Souls III, he both uses and drops the Horsehoof Ring, a magic ring that increases the power of kicks.\n\nPatches has a scheming, cowardly personality, preying on the player's trust by pretending to be a helpful comrade pointing the player in the right direction, before suddenly betraying them when their guard is down. If the player escapes and confronts him, Patches shamelessly denies all wrongdoing, but attempts to make amends with a token gift. Patches is nevertheless shown to have a certain moral code, not resorting to wanton murder and only going after those he believes are greedy and corrupt, generally followers of that universe's prevailing organized religion, such as the Way of White in Dark Souls and the Golden Order in Elden Ring.\n\nPatches is commonly seen performing the \"Patches Squat\" or \"Patches Crouch\", a resting pose that resembles the Slav squat and which is learnable by the player.",
+      "short_description": "Patches is a recurring character designed by Hidetaka Miyazaki and video game development studio FromSoftware. He is voiced by British actor William Vanderpuye, and, in Japanese, Naomi Kusumi. Appearing in most of their…",
+      "evidence": "fiction",
+      "parentSlug": "dark-souls-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Patches_(character)",
+        "fandom_title": "Patches (character)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "anor-londo",
+      "dark-souls",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "patches-character",
+      "dark-souls-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Dark Souls article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:35:01.225Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 1,
+    "fandom_enriched_core": 0,
+    "fandom_created": 1,
+    "fandom_images": 0,
+    "fandom_intros": 1,
+    "description_ensure_at": "2026-09-14T16:34:21.390Z",
+    "description_ensure_count": 1
+  }
+}

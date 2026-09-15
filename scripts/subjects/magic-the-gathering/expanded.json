@@ -132,7 +132,7 @@
       "slug": "dominaria",
       "description": "Dominaria (DAH-min-ARR-ee-uh; archaic: Dominia Prime, the Wheel) is a plane whose name means \"Song of Dominia\". Both Nicol Bolas and the Numena claimed to have coined this name. Dominaria was the Nexus of the Multiverse before the Mending. It is the setting for the majority of Magic storylines. All early sets except for Arabian Nights and Homelands take place there; the Weatherlight Saga dealt with a devastating invasion of this world. After Scourge, storylines have been traveling to a different plane each block, though Dominaria has been revisited in the Time Spiral block, the eponymous Dominaria and Dominaria United, and The Brother's War. The Serra Angels referred to the plane of Dominaria as \"The Wheel\" because what happens there affects many other planes. Dominaria's Worldsoul is Gaea.\n\nSharing the name of its plane, the primary planet in Dominaria is almost fifty percent larger at the equator than Earth, giving it about two and a half times the surface area. It has similar temperature ranges and seasons to Earth, with large but shallow seas occupying 80 percent of its surface. It has been theorized that Dominaria is hollow, a possible explanation for the fact that the planet despite its larger size has the same level of gravity as Earth. During the Ice Age, Dominaria was the primary plane in the Shard of the Twelve Worlds. A Dominarian year takes 420 days of 24 hours, organized by most cultures into 12 months, each of 35 days.\n\nAlthough a full map of the plane had never been published, much had been written about its many landmasses. Even so, Wizards of the Coast employees such as Pete Venters and Brady Dommermuth had stated that there was still much left to explore. The map was finally published in 2018.\n\nThe existence of the following continents has been acknowledged so far:",
       "short_description": "Dominaria is the 78th Magic expansion. It was released on April 27, 2018. It is not part of a block.",
-      "image_url": "https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/d/df/Dominaria2.jpg/revision/latest/scale-to-width-down/360?cb=20080331031352",
+      "image_url": "https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/d/df/Dominaria2.jpg/revision/latest/scale-to-width-down/180?cb=20080331031352",
       "image_source": "https://mtg.fandom.com/wiki/Dominaria_(plane)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Wizards of the Coast / Hasbro (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -11322,6 +11322,35 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "draco",
+      "name": "Draco",
+      "type": "person",
+      "description": "Draco was a powerful artifact dragon that appeared on Dominaria during the first Phyrexian invasion. It is not known what Draco is or originally was, but the artwork suggests that it might have been a natural dragon (instead of a pure artificial construct) that was later modified by the Phyrexians with certain metallic parts,. Despite this, it is not itself defined as a Phyrexian creature, and neither is Scion of Draco.\n\nIn Planeshift, which had many low-key cards, it was one of the most flashy cards. It was also used as key art for the set.\n\nDraco has the highest mana total among tournament legal Magic cards (the highest acorn card is Gleemax), and there are combos that took advantage of this (e.g. \"Draco Explosion\" with Erratic Explosion). A 9/9 flying creature for 6 mana at maximum and no upkeep cost is, of course, powerful, so if you ignored its weakness to removal, you could set it as a Domain finisher. It wouldn't be strange if it came out around turn 5 after mana acceleration. Many fan decks at the time used this.\n\nFor a long time since the beginning of Momir Basic, it has been the only creature that can be reliably summoned in the format, until the introduction of Emrakul, the Promised End.",
+      "short_description": "Draco was a powerful artifact dragon that appeared on Dominaria during the first Phyrexian invasion. It is not known what Draco is or originally was, but the artwork suggests that it might have been a natural dragon…",
+      "evidence": "fiction",
+      "parentSlug": "magic-the-gathering",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/4/40/Draco.jpg/revision/latest/scale-to-width-down/180?cb=20221109212123",
+      "image_source": "https://mtg.fandom.com/wiki/Draco",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Wizards of the Coast / Hasbro (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Draco",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://mtg.fandom.com/wiki/Draco",
+        "fandom_title": "Draco",
+        "source_fandom": "mtg.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -14508,15 +14537,23 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "draco",
+      "magic-the-gathering",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (mtg.fandom.com) for identification and commentary only. Character / franchise art © Wizards of the Coast / Hasbro (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-13T04:20:14.375Z",
+  "generated_at": "2026-09-14T20:01:45.939Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://mtg.fandom.com/wiki/",

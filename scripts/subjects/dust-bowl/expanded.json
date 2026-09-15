@@ -1,0 +1,1488 @@
+{
+  "enrichments": [
+    {
+      "slug": "dust-bowl",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Farmer_walking_in_dust_storm_Cimarron_County_Oklahoma2.jpg/180px-Farmer_walking_in_dust_storm_Cimarron_County_Oklahoma2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Dust_Bowl",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Dust Bowl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Dust Bowl",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl",
+        "fandom_title": "Dust Bowl",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "The Dust Bowl was a period of severe dust storms that greatly damaged the ecology and agriculture across the American and Canadian prairies during the 1930s. The phenomenon was caused by a combination of natural factors (severe drought) and human-made factors: a failure to apply dryland farming methods to prevent wind erosion, most notably the destruction of the natural topsoil by settlers in the region. The drought came in three waves: 1934, 1936, and 1939–1940, but some regions of the High Plains experienced drought conditions for as long as eight years. It exacerbated an already existing agricultural recession.\n\nThe Dust Bowl has been the subject of many cultural works, including John Steinbeck's 1937 novel Of Mice and Men and 1939 novel The Grapes of Wrath; the Dust Bowl Ballads of Woody Guthrie; and Dorothea Lange's photographs depicting the conditions of migrants, particularly Migrant Mother, taken in 1936.\n\nThe Dust Bowl area lies principally west of the 100th meridian on the High Plains, characterized by plains that vary from rolling in the north to flat in the Llano Estacado. Elevation ranges from in the east to at the base of the Rocky Mountains. The area is semiarid, receiving less than of rain annually; this rainfall supports the shortgrass prairie biome originally present in the area. The region is also prone to extended drought, alternating with unusual wetness of equivalent duration. During wet years, the rich soil provides bountiful agricultural output, but crops fail during dry years. The region is also subject to high winds. During early European and American exploration of the Great Plains, this region was thought unsuitable for European-style agriculture; explorers called it the Great American Desert. The lack of surface water and timber made the region less attractive than other areas for pioneer settlement and agriculture.\n\nThe federal government encouraged settlement and development of the Plains for agriculture via the Homestead Act of 1862, offering settlers \"quarter section\" plots. With the end of the Civil War in 1865 and the completion of the first transcontinental railroad in 1869, waves of new migrants and immigrants reached the Great Plains and greatly increased the acreage under cultivation. An unusually wet period in the Great Plains mistakenly led settlers and the federal government to believe that \"rain follows the plow\" (a popular phrase among real estate promoters) and that the region's climate had permanently changed. While initial agricultural endeavors were primarily cattle ranching, the harsh winters' adverse effect on the cattle, beginning in 1886, a short drought in 1890, and general overgrazing, led many landowners to increase the amount of land under cultivation.",
+      "short_description": "The Dust Bowl was a period of severe dust storms that greatly damaged the ecology and agriculture across the American and Canadian prairies during the 1930s. The phenomenon was caused by a combination of natural factors…"
+    },
+    {
+      "slug": "dust-bowl-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_figures",
+        "fandom_title": "Dust Bowl figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_world_&_context",
+        "fandom_title": "Dust Bowl world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_places",
+        "fandom_title": "Dust Bowl places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_events",
+        "fandom_title": "Dust Bowl events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_objects_&_artifacts",
+        "fandom_title": "Dust Bowl objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_factions_&_groups",
+        "fandom_title": "Dust Bowl factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_concepts",
+        "fandom_title": "Dust Bowl concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_eras",
+        "fandom_title": "Dust Bowl eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_works_&_media",
+        "fandom_title": "Dust Bowl works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_symbols",
+        "fandom_title": "Dust Bowl symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_controversies",
+        "fandom_title": "Dust Bowl controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_geography",
+        "fandom_title": "Dust Bowl geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_legacy",
+        "fandom_title": "Dust Bowl legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_practices",
+        "fandom_title": "Dust Bowl practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_1",
+        "fandom_title": "Dust Bowl entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_2",
+        "fandom_title": "Dust Bowl entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_3",
+        "fandom_title": "Dust Bowl entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_4",
+        "fandom_title": "Dust Bowl entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_5",
+        "fandom_title": "Dust Bowl entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_6",
+        "fandom_title": "Dust Bowl entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_7",
+        "fandom_title": "Dust Bowl entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_8",
+        "fandom_title": "Dust Bowl entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_9",
+        "fandom_title": "Dust Bowl entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_10",
+        "fandom_title": "Dust Bowl entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_11",
+        "fandom_title": "Dust Bowl entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_12",
+        "fandom_title": "Dust Bowl entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_13",
+        "fandom_title": "Dust Bowl entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_14",
+        "fandom_title": "Dust Bowl entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_15",
+        "fandom_title": "Dust Bowl entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_16",
+        "fandom_title": "Dust Bowl entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_17",
+        "fandom_title": "Dust Bowl entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_18",
+        "fandom_title": "Dust Bowl entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_19",
+        "fandom_title": "Dust Bowl entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_20",
+        "fandom_title": "Dust Bowl entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_21",
+        "fandom_title": "Dust Bowl entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_22",
+        "fandom_title": "Dust Bowl entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_23",
+        "fandom_title": "Dust Bowl entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_entry_24",
+        "fandom_title": "Dust Bowl entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "193435-north-american-drought",
+      "name": "1934–35 North American drought",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/1934_South_Dakota_Dust_Storm.jpg/180px-1934_South_Dakota_Dust_Storm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/1934%E2%80%9335_North_American_drought",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Dust Bowl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 1934–35 North American drought",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/1934%E2%80%9335_North_American_drought",
+        "fandom_title": "1934–35 North American drought",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arvin-federal-government-camp",
+      "name": "Arvin Federal Government Camp",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/2009-0820-WeedpatchCamp-CommunityHall.jpg/180px-2009-0820-WeedpatchCamp-CommunityHall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Arvin_Federal_Government_Camp",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Dust Bowl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Arvin Federal Government Camp",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Arvin_Federal_Government_Camp",
+        "fandom_title": "Arvin Federal Government Camp",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "black-sunday-storm",
+      "name": "Black Sunday",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Dust_storm_approaching_Stratford%2C_Texas.jpg/180px-Dust_storm_approaching_Stratford%2C_Texas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Black_Sunday_(storm)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Dust Bowl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Black Sunday (storm)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Black_Sunday_(storm)",
+        "fandom_title": "Black Sunday (storm)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "depopulation-of-the-great-plains",
+      "name": "Depopulation of the Great Plains",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Abandoned_gas_station_west_of_North_Platte%2C_Nebraska.jpg/180px-Abandoned_gas_station_west_of_North_Platte%2C_Nebraska.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Depopulation_of_the_Great_Plains",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Dust Bowl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Depopulation of the Great Plains",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Depopulation_of_the_Great_Plains",
+        "fandom_title": "Depopulation of the Great Plains",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "farmer-and-sons-walking-in-the-face-of-a-dust-storm",
+      "name": "Farmer and Sons Walking in the Face of a Dust Storm",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Farmer_walking_in_dust_storm_Cimarron_County_Oklahoma2.jpg/180px-Farmer_walking_in_dust_storm_Cimarron_County_Oklahoma2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Farmer_and_Sons_Walking_in_the_Face_of_a_Dust_Storm",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Dust Bowl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Farmer and Sons Walking in the Face of a Dust Storm",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Farmer_and_Sons_Walking_in_the_Face_of_a_Dust_Storm",
+        "fandom_title": "Farmer and Sons Walking in the Face of a Dust Storm",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "howard-finnell",
+      "name": "Howard Finnell",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Howard_Finnell",
+        "fandom_title": "Howard Finnell",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "frazierlemke-farm-bankruptcy-act",
+      "name": "Frazier–Lemke Farm Bankruptcy Act",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/180px-Great_Seal_of_the_United_States_%28obverse%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Frazier%E2%80%93Lemke_Farm_Bankruptcy_Act",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Dust Bowl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Frazier–Lemke Farm Bankruptcy Act",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Frazier%E2%80%93Lemke_Farm_Bankruptcy_Act",
+        "fandom_title": "Frazier–Lemke Farm Bankruptcy Act",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lewis-cecil-gray",
+      "name": "Lewis Cecil Gray",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/GRAY%2C_LEWIS_C._DOCTOR_LCCN2016861188.jpg/180px-GRAY%2C_LEWIS_C._DOCTOR_LCCN2016861188.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Lewis_Cecil_Gray",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Dust Bowl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Lewis Cecil Gray",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Lewis_Cecil_Gray",
+        "fandom_title": "Lewis Cecil Gray",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-plains-shelterbelt",
+      "name": "Great Plains Shelterbelt",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Plains_farms_need_trees_LCCN98517930.jpg/180px-Plains_farms_need_trees_LCCN98517930.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Great_Plains_Shelterbelt",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Dust Bowl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Great Plains Shelterbelt",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Plains_Shelterbelt",
+        "fandom_title": "Great Plains Shelterbelt",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-harvest-gypsies",
+      "name": "The Harvest Gypsies",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Drought_refugees_from_Oklahoma_camping_by_the_roadside%2C_8b38481.jpg/180px-Drought_refugees_from_Oklahoma_camping_by_the_roadside%2C_8b38481.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/The_Harvest_Gypsies",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Dust Bowl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for The Harvest Gypsies",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Harvest_Gypsies",
+        "fandom_title": "The Harvest Gypsies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "caroline-henderson-author",
+      "name": "Caroline Henderson",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Caroline_Henderson_(author)",
+        "fandom_title": "Caroline Henderson (author)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "interwar-farm-crisis",
+      "name": "Interwar farm crisis",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Interwar_farm_crisis",
+        "fandom_title": "Interwar farm crisis",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "last-man-club",
+      "name": "Last Man Club",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Last_Man_Club",
+        "fandom_title": "Last Man Club",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pare-lorentz",
+      "name": "Pare Lorentz",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/%28still_image%29_Pare_Lorentz.%2C_%281935_-_1942%29.jpg/180px-%28still_image%29_Pare_Lorentz.%2C_%281935_-_1942%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Pare_Lorentz",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Dust Bowl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Pare Lorentz",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Pare_Lorentz",
+        "fandom_title": "Pare Lorentz",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "okie",
+      "name": "Okie",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Lange-MigrantMother02.jpg/180px-Lange-MigrantMother02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Okie",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Dust Bowl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Okie",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Okie",
+        "fandom_title": "Okie",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "resettlement-administration",
+      "name": "Resettlement Administration",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/A_Mule_and_a_Plow_05986r.jpg/180px-A_Mule_and_a_Plow_05986r.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Resettlement_Administration",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Dust Bowl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Resettlement Administration",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Resettlement_Administration",
+        "fandom_title": "Resettlement Administration",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aint-got-no-home-woody-guthrie-song",
+      "name": "Ain't Got No Home",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ain%27t_Got_No_Home_(Woody_Guthrie_song)",
+        "fandom_title": "Ain't Got No Home (Woody Guthrie song)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bloodstained-oz",
+      "name": "Bloodstained Oz",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bloodstained_Oz",
+        "fandom_title": "Bloodstained Oz",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "can-you-hear-their-voices",
+      "name": "Can You Hear Their Voices?",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Flanagan-Federal-Theatre-Radio.jpg/180px-Flanagan-Federal-Theatre-Radio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Can_You_Hear_Their_Voices%3F",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Dust Bowl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Can You Hear Their Voices?",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Can_You_Hear_Their_Voices%3F",
+        "fandom_title": "Can You Hear Their Voices?",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "do-re-mi-woody-guthrie-song",
+      "name": "Do Re Mi",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Woody_Guthrie_NYWTS.jpg/180px-Woody_Guthrie_NYWTS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Do_Re_Mi_(Woody_Guthrie_song)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Dust Bowl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Do Re Mi (Woody Guthrie song)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Do_Re_Mi_(Woody_Guthrie_song)",
+        "fandom_title": "Do Re Mi (Woody Guthrie song)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-dust-bowl-miniseries",
+      "name": "The Dust Bowl",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Dust_Bowl_(miniseries)",
+        "fandom_title": "The Dust Bowl (miniseries)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dust-bowl-ballads",
+      "name": "Dust Bowl Ballads",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Dust_Bowl_Ballads",
+        "fandom_title": "Dust Bowl Ballads",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-golden-bowl-manfred-novel",
+      "name": "The Golden Bowl",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Golden_Bowl_(Manfred_novel)",
+        "fandom_title": "The Golden Bowl (Manfred novel)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-grapes-of-wrath",
+      "name": "The Grapes of Wrath",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Grapes_of_Wrath_%281939_1st_ed_cover%29.jpg/180px-The_Grapes_of_Wrath_%281939_1st_ed_cover%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Dust Bowl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for The Grapes of Wrath",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath",
+        "fandom_title": "The Grapes of Wrath",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-plow-that-broke-the-plains",
+      "name": "The Plow That Broke the Plains",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/1/10/The_plow_that_broke_the_plains.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_source": "https://en.wikipedia.org/wiki/The_Plow_That_Broke_the_Plains",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Dust Bowl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for The Plow That Broke the Plains",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Plow_That_Broke_the_Plains",
+        "fandom_title": "The Plow That Broke the Plains",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-river-1938-film",
+      "name": "The River",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Film_Poster_for_%22The_River%22_-_NARA_-_95115895.jpg/180px-Film_Poster_for_%22The_River%22_-_NARA_-_95115895.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/The_River_(1938_film)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Dust Bowl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for The River (1938 film)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_River_(1938_film)",
+        "fandom_title": "The River (1938 film)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "so-long-its-been-good-to-know-yuh",
+      "name": "So Long, It's Been Good to Know Yuh",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Woody_Guthrie_NYWTS.jpg/180px-Woody_Guthrie_NYWTS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/So_Long,_It%27s_Been_Good_to_Know_Yuh",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Dust Bowl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for So Long, It's Been Good to Know Yuh",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/So_Long,_It%27s_Been_Good_to_Know_Yuh",
+        "fandom_title": "So Long, It's Been Good to Know Yuh",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triple-a-plowed-under",
+      "name": "Triple-A Plowed Under",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Triple-A-Plowed-Under-14.jpg/180px-Triple-A-Plowed-Under-14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Triple-A_Plowed_Under",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Dust Bowl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Triple-A Plowed Under",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Triple-A_Plowed_Under",
+        "fandom_title": "Triple-A Plowed Under",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-worst-hard-time",
+      "name": "The Worst Hard Time",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dust-bowl",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Worst_Hard_Time",
+        "fandom_title": "The Worst Hard Time",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "193435-north-american-drought",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "arvin-federal-government-camp",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "black-sunday-storm",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "depopulation-of-the-great-plains",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "farmer-and-sons-walking-in-the-face-of-a-dust-storm",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "howard-finnell",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "frazierlemke-farm-bankruptcy-act",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lewis-cecil-gray",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "great-plains-shelterbelt",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-harvest-gypsies",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "caroline-henderson-author",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "interwar-farm-crisis",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "last-man-club",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "pare-lorentz",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "okie",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "resettlement-administration",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "aint-got-no-home-woody-guthrie-song",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bloodstained-oz",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "can-you-hear-their-voices",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "do-re-mi-woody-guthrie-song",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-dust-bowl-miniseries",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "dust-bowl-ballads",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-golden-bowl-manfred-novel",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-grapes-of-wrath",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-plow-that-broke-the-plains",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-river-1938-film",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "so-long-its-been-good-to-know-yuh",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "triple-a-plowed-under",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-worst-hard-time",
+      "dust-bowl",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Dust Bowl article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:09:54.385Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T03:19:23.029Z",
+  "generated_at": "2026-09-14T17:27:54.104Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (shakespeare.fandom.com) for identification and commentary only. Shakespeare's plays are public domain; modern productions remain with rights holders. Not free or redistributable artwork."
   },
   "enrichments": [
@@ -3134,7 +3134,7 @@
       "slug": "a-midsummer-nights-dream",
       "name": "A Midsummer Night's Dream",
       "type": "work",
-      "description": "Click here to return to the Table of Contents Category:Plays",
+      "description": "Click here to return to the Table of Contents\n\n[http://www.phillins.com/pos_one/shakespeare_indexer_one.html#anchor169367 A Midsummer Night's Dream]\n\n[http://www.phillins.com/pos_one/shakespeare_indexer_one.html#anchor170352 ACT I SCENE I] Athens. The palace of THESEUS.\n\n[http://www.phillins.com/pos_one/shakespeare_indexer_one.html#anchor255304 ACT I SCENE II] Athens. QUINCE'S house.",
       "short_description": "Click here to return to the Table of Contents",
       "evidence": "fiction",
       "parentSlug": "shakespeare",
@@ -3145,8 +3145,8 @@
         "discovered": true,
         "source": "fandom",
         "kind": "work",
-        "fandom_url": "https://shakespeare.fandom.com/wiki/A_Midsummer_Night%27s_Dream_(play)",
-        "fandom_title": "A Midsummer Night's Dream (play)",
+        "fandom_url": "https://shakespeare.fandom.com/wiki/A_Midsummer_Night%27s_Dream",
+        "fandom_title": "A Midsummer Night's Dream",
         "source_fandom": "shakespeare.fandom.com",
         "sources": [
           "fandom"

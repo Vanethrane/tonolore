@@ -99,9 +99,10 @@ function normalizeThumbUrl(url) {
     if (!url) {
         return url;
     }
+    // Store a small CDN edge so listings look good but aren't merch-ready.
     return String(url).replace(
         /\/scale-to-width-down\/\d+/i,
-        "/scale-to-width-down/360"
+        "/scale-to-width-down/220"
     );
 }
 
@@ -355,7 +356,7 @@ async function expandFandomPass(subjectId, opts = {}) {
     const identities = new Map();
     for (const batch of chunk(titles, opts.batchSize || 40)) {
         try {
-            const map = await fetchPageIdentities(host, batch, 360);
+            const map = await fetchPageIdentities(host, batch, 800);
             for (const [k, v] of map) {
                 identities.set(k, v);
             }
@@ -640,7 +641,7 @@ async function expandFandomPass(subjectId, opts = {}) {
         fair_use_policy: {
             image_license: "fair_use",
             image_usage: "fair_use_identification",
-            max_edge_px: 360,
+            max_edge_px: 220,
             note: `Thumbnails may come from Wikipedia and/or Fandom (${host}) for identification and commentary only. ${credit} Not free or redistributable artwork.`
         },
         enrichments: [...enrichmentBySlug.values()],

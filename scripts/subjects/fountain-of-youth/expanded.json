@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "fountain-of-youth",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth",
+        "fandom_title": "Fountain of Youth",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_figures",
+        "fandom_title": "Fountain of Youth figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_world_&_context",
+        "fandom_title": "Fountain of Youth world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_places",
+        "fandom_title": "Fountain of Youth places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_events",
+        "fandom_title": "Fountain of Youth events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_objects_&_artifacts",
+        "fandom_title": "Fountain of Youth objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_factions_&_groups",
+        "fandom_title": "Fountain of Youth factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_concepts",
+        "fandom_title": "Fountain of Youth concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_eras",
+        "fandom_title": "Fountain of Youth eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_works_&_media",
+        "fandom_title": "Fountain of Youth works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_symbols",
+        "fandom_title": "Fountain of Youth symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_controversies",
+        "fandom_title": "Fountain of Youth controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_geography",
+        "fandom_title": "Fountain of Youth geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_legacy",
+        "fandom_title": "Fountain of Youth legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_practices",
+        "fandom_title": "Fountain of Youth practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_1",
+        "fandom_title": "Fountain of Youth entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_2",
+        "fandom_title": "Fountain of Youth entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_3",
+        "fandom_title": "Fountain of Youth entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_4",
+        "fandom_title": "Fountain of Youth entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_5",
+        "fandom_title": "Fountain of Youth entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_6",
+        "fandom_title": "Fountain of Youth entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_7",
+        "fandom_title": "Fountain of Youth entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_8",
+        "fandom_title": "Fountain of Youth entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_9",
+        "fandom_title": "Fountain of Youth entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_10",
+        "fandom_title": "Fountain of Youth entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_11",
+        "fandom_title": "Fountain of Youth entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_12",
+        "fandom_title": "Fountain of Youth entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_13",
+        "fandom_title": "Fountain of Youth entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_14",
+        "fandom_title": "Fountain of Youth entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_15",
+        "fandom_title": "Fountain of Youth entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_16",
+        "fandom_title": "Fountain of Youth entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_17",
+        "fandom_title": "Fountain of Youth entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_18",
+        "fandom_title": "Fountain of Youth entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_19",
+        "fandom_title": "Fountain of Youth entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_20",
+        "fandom_title": "Fountain of Youth entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_21",
+        "fandom_title": "Fountain of Youth entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_22",
+        "fandom_title": "Fountain of Youth entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_23",
+        "fandom_title": "Fountain of Youth entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fountain-of-youth-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fountain_of_Youth_entry_24",
+        "fandom_title": "Fountain of Youth entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Fountain of Youth article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:33:33.925Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "age-of-sail-navies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies",
+        "fandom_title": "Age of Sail navies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_figures",
+        "fandom_title": "Age of Sail navies figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_world_&_context",
+        "fandom_title": "Age of Sail navies world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_places",
+        "fandom_title": "Age of Sail navies places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_events",
+        "fandom_title": "Age of Sail navies events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_objects_&_artifacts",
+        "fandom_title": "Age of Sail navies objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_factions_&_groups",
+        "fandom_title": "Age of Sail navies factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_concepts",
+        "fandom_title": "Age of Sail navies concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_eras",
+        "fandom_title": "Age of Sail navies eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_works_&_media",
+        "fandom_title": "Age of Sail navies works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_symbols",
+        "fandom_title": "Age of Sail navies symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_controversies",
+        "fandom_title": "Age of Sail navies controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_geography",
+        "fandom_title": "Age of Sail navies geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_legacy",
+        "fandom_title": "Age of Sail navies legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_practices",
+        "fandom_title": "Age of Sail navies practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_1",
+        "fandom_title": "Age of Sail navies entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_2",
+        "fandom_title": "Age of Sail navies entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_3",
+        "fandom_title": "Age of Sail navies entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_4",
+        "fandom_title": "Age of Sail navies entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_5",
+        "fandom_title": "Age of Sail navies entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_6",
+        "fandom_title": "Age of Sail navies entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_7",
+        "fandom_title": "Age of Sail navies entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_8",
+        "fandom_title": "Age of Sail navies entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_9",
+        "fandom_title": "Age of Sail navies entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_10",
+        "fandom_title": "Age of Sail navies entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_11",
+        "fandom_title": "Age of Sail navies entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_12",
+        "fandom_title": "Age of Sail navies entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_13",
+        "fandom_title": "Age of Sail navies entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_14",
+        "fandom_title": "Age of Sail navies entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_15",
+        "fandom_title": "Age of Sail navies entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_16",
+        "fandom_title": "Age of Sail navies entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_17",
+        "fandom_title": "Age of Sail navies entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_18",
+        "fandom_title": "Age of Sail navies entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_19",
+        "fandom_title": "Age of Sail navies entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_20",
+        "fandom_title": "Age of Sail navies entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_21",
+        "fandom_title": "Age of Sail navies entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_22",
+        "fandom_title": "Age of Sail navies entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_23",
+        "fandom_title": "Age of Sail navies entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "age-of-sail-navies-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Age_of_Sail_navies_entry_24",
+        "fandom_title": "Age of Sail navies entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Age of Sail navies article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:39:35.843Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

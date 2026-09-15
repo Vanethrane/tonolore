@@ -1,0 +1,664 @@
+{
+  "enrichments": [
+    {
+      "slug": "the-hobbit",
+      "description": "The Hobbit, or There and Back Again is a children's fantasy novel by the English author J. R. R. Tolkien. It was published in 1937 to wide critical acclaim, being nominated for the Carnegie Medal and awarded a prize from the New York Herald Tribune for best juvenile fiction. It is recognized as a classic in children's literature and is one of the best-selling books of all time, with over 100 million copies sold.\n\nThe Hobbit is set in Middle-earth and follows home-loving Bilbo Baggins, the titular hobbit who joins the wizard Gandalf and the thirteen dwarves of Thorin's Company on a quest to reclaim the dwarves' home and treasure from the dragon Smaug. Bilbo's journey takes him from his peaceful rural surroundings into more sinister territory.\n\nThe story is told in the form of a picaresque or episodic quest; several chapters introduce a new type of monster or threat as Bilbo progresses through the landscape. Bilbo gains a new level of maturity, competence, and wisdom by accepting the disreputable, romantic, fey and adventurous sides of his nature and applying his wits and common sense. The story reaches its climax in the Battle of Five Armies, where many of the characters and creatures from earlier chapters re-emerge to engage in conflict. Personal growth and forms of heroism are central themes of the story, along with motifs of warfare. These themes have led critics to view Tolkien's own experiences during the First World War as instrumental in shaping the story. His scholarly knowledge of Germanic philology and interest in mythology and fairy tales are often noted as influences, but more recent fiction including adventure stories and the works of William Morris also played a part.\n\nThe publisher was encouraged by the book's critical and financial success and, therefore, requested a sequel. As Tolkien's work progressed on its successor, The Lord of the Rings, he made retrospective accommodations for it in The Hobbit. These few but significant changes were integrated into the second edition. Further editions followed with minor emendations, including those reflecting Tolkien's changing concept of the world into which Bilbo stumbled. The work has never been out of print. Its ongoing legacy encompasses many adaptations for stage, screen, radio, board games and video games. Several of these adaptations have received critical recognition on their own merits.",
+      "short_description": "The Hobbit, or There and Back Again is a children's fantasy novel by the English author J. R. R. Tolkien. It was published in 1937 to wide critical acclaim, being nominated for the Carnegie Medal and awarded a prize…",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit",
+        "fandom_title": "The Hobbit",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_figures",
+        "fandom_title": "The Hobbit figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_world_&_context",
+        "fandom_title": "The Hobbit world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_places",
+        "fandom_title": "The Hobbit places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_events",
+        "fandom_title": "The Hobbit events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_objects_&_artifacts",
+        "fandom_title": "The Hobbit objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_factions_&_groups",
+        "fandom_title": "The Hobbit factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_concepts",
+        "fandom_title": "The Hobbit concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_eras",
+        "fandom_title": "The Hobbit eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_works_&_media",
+        "fandom_title": "The Hobbit works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_symbols",
+        "fandom_title": "The Hobbit symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_controversies",
+        "fandom_title": "The Hobbit controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_geography",
+        "fandom_title": "The Hobbit geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_legacy",
+        "fandom_title": "The Hobbit legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_practices",
+        "fandom_title": "The Hobbit practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_1",
+        "fandom_title": "The Hobbit entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_2",
+        "fandom_title": "The Hobbit entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_3",
+        "fandom_title": "The Hobbit entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_4",
+        "fandom_title": "The Hobbit entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_5",
+        "fandom_title": "The Hobbit entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_6",
+        "fandom_title": "The Hobbit entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_7",
+        "fandom_title": "The Hobbit entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_8",
+        "fandom_title": "The Hobbit entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_9",
+        "fandom_title": "The Hobbit entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_10",
+        "fandom_title": "The Hobbit entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_11",
+        "fandom_title": "The Hobbit entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_12",
+        "fandom_title": "The Hobbit entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_13",
+        "fandom_title": "The Hobbit entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_14",
+        "fandom_title": "The Hobbit entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_15",
+        "fandom_title": "The Hobbit entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_16",
+        "fandom_title": "The Hobbit entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_17",
+        "fandom_title": "The Hobbit entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_18",
+        "fandom_title": "The Hobbit entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_19",
+        "fandom_title": "The Hobbit entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_20",
+        "fandom_title": "The Hobbit entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_21",
+        "fandom_title": "The Hobbit entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_22",
+        "fandom_title": "The Hobbit entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_23",
+        "fandom_title": "The Hobbit entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-hobbit-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hobbit_entry_24",
+        "fandom_title": "The Hobbit entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bard-the-bowman",
+      "description": "Bard the Bowman is a character in J. R. R. Tolkien's The Hobbit. A man of Lake-town and a descendant of the ancient Lords of Dale, Bard manages to kill Smaug the dragon, after which he becomes king of Dale. Tolkien created the character specifically to kill Smaug, since none of the other protagonists of the story were able to fulfill this role. Bard the Bowman may have been inspired by the warrior Wiglaf in the Old English poem Beowulf.",
+      "short_description": "Bard the Bowman is a character in J. R. R. Tolkien's The Hobbit. A man of Lake-town and a descendant of the ancient Lords of Dale, Bard manages to kill Smaug the dragon, after which he becomes king of Dale. Tolkien…"
+    },
+    {
+      "slug": "elrond",
+      "description": "Elrond Half-elven is a fictional character in J. R. R. Tolkien's Middle-earth legendarium. Both of his parents, Eärendil and Elwing, were half-elven, having both Men and Elves as ancestors. He is the bearer of the elven-ring Vilya, the Ring of Air, and master of Rivendell, where he has lived for thousands of years through the Second and Third Ages of Middle-earth. He was the Elf-king Gil-galad's herald at the end of the Second Age, saw Gil-galad and king Elendil fight the Dark Lord Sauron for the One Ring, and saw Elendil's son Isildur take it rather than destroy it.\n\nHe is introduced in The Hobbit, where he plays a supporting role, as he does in The Lord of the Rings and The Silmarillion. Scholars have commented on Elrond's archaic style of speech, noting that this uses genuinely archaic grammar, not just a sprinkling of old words. The effect is to make his speech distinctive, befitting his age and status, while remaining clear, and avoiding quaintness. He has been called a guide or wisdom figure, a wise person able to provide useful counsel to the protagonists. Just as Elrond prevented his daughter Arwen from marrying until conditions were met, so Tolkien's guardian, Father Francis Xavier Morgan, prevented Tolkien from becoming engaged or marrying until he came of age.",
+      "short_description": "Elrond Half-elven is a fictional character in J. R. R. Tolkien's Middle-earth legendarium. Both of his parents, Eärendil and Elwing, were half-elven, having both Men and Elves as ancestors. He is the bearer of the…"
+    }
+  ],
+  "entities": [
+    {
+      "slug": "bilbo-baggins",
+      "name": "Bilbo Baggins",
+      "type": "person",
+      "description": "Bilbo Baggins (Westron: Bilba Labingi) is the title character and protagonist of J. R. R. Tolkien's 1937 novel The Hobbit, a supporting character in The Lord of the Rings, and the fictional narrator (along with Frodo Baggins) of many of Tolkien's Middle-earth writings. The Hobbit is selected by the wizard Gandalf to help Thorin Oakenshield and his party of Dwarves reclaim their ancestral home and treasure, which has been seized by the dragon Smaug.\n\nBilbo's way of life in the Shire, defined by features like the availability of tobacco and postal service, recalls that of the English middle class during the Victorian to Edwardian eras. This is not compatible with the much older world of Dwarves and Elves. Tolkien appears to have based Bilbo on the designer William Morris' travels in Iceland; Morris liked his home comforts but grew through his adventurous journeying. Bilbo's quest has been interpreted as a \"pilgrimage of grace\", in which he grows in both wisdom and virtue, and as a psychological journey towards wholeness.\n\nBilbo has appeared in numerous radio and film adaptations of The Hobbit and The Lord of the Rings, and video games based on them.\n\nThe protagonist of The Hobbit, Bilbo Baggins, is a hobbit in comfortable middle age. He is hired as a \"burglar\", despite his initial objections, on the recommendation of the wizard Gandalf and 13 Dwarves led by their king in exile, Thorin Oakenshield. The company of dwarves are on a quest to reclaim the Lonely Mountain and its treasures from the dragon Smaug. The adventure takes Bilbo and his companions through the wilderness, to the Elvish haven of Rivendell, across the Misty Mountains where, escaping from goblins, he meets Gollum and acquires a magic ring. His journey continues via a lucky escape from wargs, goblins, and fire, to the house of Beorn the shapeshifter, through the black forest of Mirkwood, to Lake-town in the middle of Long Lake, and eventually to the Mountain itself.",
+      "short_description": "Bilbo Baggins (Westron: Bilba Labingi) is the title character and protagonist of J. R. R. Tolkien's 1937 novel The Hobbit, a supporting character in The Lord of the Rings, and the fictional narrator (along with Frodo…",
+      "evidence": "fiction",
+      "parentSlug": "the-hobbit-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bilbo_Baggins",
+        "fandom_title": "Bilbo Baggins",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "balin-middle-earth",
+      "name": "Balin",
+      "type": "person",
+      "description": "Balin is a fictional character in J. R. R. Tolkien's world of Middle-earth. A Dwarf, he is an important supporting character in The Hobbit, and is mentioned in The Fellowship of the Ring. As the Fellowship travel through the underground realm of Moria, they find Balin's tomb and the Dwarves' book of records, which tells how Balin founded a colony there, becoming Lord of Moria, and that the colony was overrun by orcs.\n\nBalin featured in the 1977 Rankin/Bass animated film of The Hobbit; in Peter Jackson's 2012–2014 live-action film series, where he is portrayed by Ken Stott as reluctant to search for lost gold and sympathetic to Bilbo; and in the 2003 video game adaptation where he is voiced by Victor Raider-Wexler.\n\n... in them were large iron-bound chests of wood. All had been broken and plundered; but beside the shattered lid of one there lay the remains of a book. It had been slashed and stabbed and partly burned, and it was so stained with black and other dark marks like old blood that little of it could be read... At last Gandalf looked up. 'It seems to be a record of the fortunes of Balin's folk', he said. 'I guess that it began with their coming to Dimrill Dale nigh on thirty years ago...'\n\nBalin was born in Erebor, the son of Fundin. In the year Balin turned seven, Erebor was sacked by the dragon Smaug, and the Dwarves went into exile. During that period his younger brother Dwalin was born. Their father Fundin was killed in the Battle of Azanulbizar. Balin and his brother settled in the Blue Mountains with their surviving family. Balin and Dwalin were among those who set out with Thorin's father Thráin II in an attempt to return to Erebor, but they lost Thráin under the eaves of Mirkwood. After many days of fruitless searching, they returned to the Blue Mountains.",
+      "short_description": "Balin is a fictional character in J. R. R. Tolkien's world of Middle-earth. A Dwarf, he is an important supporting character in The Hobbit, and is mentioned in The Fellowship of the Ring. As the Fellowship travel…",
+      "evidence": "fiction",
+      "parentSlug": "the-hobbit-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Balin_(Middle-earth)",
+        "fandom_title": "Balin (Middle-earth)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bard-the-bowman",
+      "name": "Bard the Bowman",
+      "type": "person",
+      "description": "Bard the Bowman is a character in J. R. R. Tolkien's The Hobbit. A man of Lake-town and a descendant of the ancient Lords of Dale, Bard manages to kill Smaug the dragon, after which he becomes king of Dale. Tolkien created the character specifically to kill Smaug, since none of the other protagonists of the story were able to fulfill this role. Bard the Bowman may have been inspired by the warrior Wiglaf in the Old English poem Beowulf.",
+      "evidence": "fiction",
+      "parentSlug": "the-hobbit-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bard_the_Bowman",
+        "fandom_title": "Bard the Bowman",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": "Bard the Bowman is a character in J. R. R. Tolkien's The Hobbit. A man of Lake-town and a descendant of the ancient Lords of Dale, Bard manages to kill Smaug the dragon, after which he becomes king of Dale. Tolkien…"
+    },
+    {
+      "slug": "beorn",
+      "name": "Beorn",
+      "type": "person",
+      "description": "Beorn is a character created by J. R. R. Tolkien as part of his Middle-earth legendarium. He appears in The Hobbit as a \"skin-changer\", a man who could assume the form of a great black bear. His descendants or kinsmen, a group of Men known as the Beornings, dwell in the upper Vales of Anduin between Mirkwood and the Misty Mountains; they are counted among the Free Peoples of Middle-earth who oppose Sauron's forces during the War of the Ring. Like the legendary medieval heroes Beowulf and Bödvar Bjarki (whose names both mean \"bear\"), Beorn exemplifies the Northern courage that Tolkien made a central virtue in The Lord of the Rings.\n\nBeorn lives in a wooden house on his pasture-lands between the Misty Mountains and Mirkwood, to the east of the Anduin. His household includes an animal retinue (with horses, dogs, sheep, and cows); according to Gandalf, Beorn does not eat his cattle, nor hunt wild animals. He grows large areas of clover for his bees. Gandalf believes that Beorn is either a descendant of the bears who had lived in the Misty Mountains before the arrival of the giants, or a descendant of the men who had lived in the region before the arrival of the dragons or Orcs from the north.\n\nHe is of immense size and strength for a man and retains these attributes in bear-form. He has black hair (in either form) and a thick black beard and broad shoulders. While not a \"giant\" outright, Beorn's human form is of such great size that the three and a half foot tall Bilbo judges that he could have easily walked between Beorn's legs without touching his body. When Bilbo meets him, Beorn has \"great bare arms and legs with knotted muscles\", and wears \"a tunic of wool down to his knees.\" Beorn names the large rock by the River Anduin the Carrock; he had created the steps that led from its base to its flat top.\n\nBeorn receives Gandalf, Bilbo Baggins and thirteen Dwarves and aids them in their quest to reclaim their kingdom beneath the Lonely Mountain. He is convinced of their trustworthiness after going out and confirming their tale of encountering the Goblins of the Misty Mountains and Gandalf's slaying of their leader, the Great Goblin. As well as giving the group much-needed supplies and lodging, Beorn provides them with vital information about what path to take while crossing Mirkwood.",
+      "short_description": "Beorn is a character created by J. R. R. Tolkien as part of his Middle-earth legendarium. He appears in The Hobbit as a \"skin-changer\", a man who could assume the form of a great black bear. His descendants or kinsmen,…",
+      "evidence": "fiction",
+      "parentSlug": "the-hobbit-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Beorn",
+        "fandom_title": "Beorn",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elrond",
+      "name": "Elrond",
+      "type": "person",
+      "description": "Elrond Half-elven is a fictional character in J. R. R. Tolkien's Middle-earth legendarium. Both of his parents, Eärendil and Elwing, were half-elven, having both Men and Elves as ancestors. He is the bearer of the elven-ring Vilya, the Ring of Air, and master of Rivendell, where he has lived for thousands of years through the Second and Third Ages of Middle-earth. He was the Elf-king Gil-galad's herald at the end of the Second Age, saw Gil-galad and king Elendil fight the Dark Lord Sauron for the One Ring, and saw Elendil's son Isildur take it rather than destroy it.\n\nHe is introduced in The Hobbit, where he plays a supporting role, as he does in The Lord of the Rings and The Silmarillion. Scholars have commented on Elrond's archaic style of speech, noting that this uses genuinely archaic grammar, not just a sprinkling of old words. The effect is to make his speech distinctive, befitting his age and status, while remaining clear, and avoiding quaintness. He has been called a guide or wisdom figure, a wise person able to provide useful counsel to the protagonists. Just as Elrond prevented his daughter Arwen from marrying until conditions were met, so Tolkien's guardian, Father Francis Xavier Morgan, prevented Tolkien from becoming engaged or marrying until he came of age.",
+      "evidence": "fiction",
+      "parentSlug": "the-hobbit-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Elrond",
+        "fandom_title": "Elrond",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": "Elrond Half-elven is a fictional character in J. R. R. Tolkien's Middle-earth legendarium. Both of his parents, Eärendil and Elwing, were half-elven, having both Men and Elves as ancestors. He is the bearer of the…"
+    }
+  ],
+  "relationships": [
+    [
+      "bilbo-baggins",
+      "the-hobbit-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "balin-middle-earth",
+      "the-hobbit-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bard-the-bowman",
+      "the-hobbit-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "beorn",
+      "the-hobbit-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "elrond",
+      "the-hobbit-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. The Hobbit article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:46:31.856Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 1,
+    "fandom_enriched_core": 0,
+    "fandom_created": 1,
+    "fandom_images": 0,
+    "fandom_intros": 0,
+    "description_ensure_at": "2026-09-14T16:47:31.448Z",
+    "description_ensure_count": 1
+  }
+}

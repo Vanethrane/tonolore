@@ -1,0 +1,834 @@
+{
+  "enrichments": [
+    {
+      "slug": "pet-sematary-lore",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary",
+        "fandom_title": "Pet Sematary",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Pet_Sematary_%281983%29_front_cover%2C_first_edition.jpg/180px-Pet_Sematary_%281983%29_front_cover%2C_first_edition.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Pet_Sematary",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Pet Sematary article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Pet Sematary",
+      "description": "Pet Sematary is a 1983 horror novel by American writer Stephen King. It tells the story of a family moving to Maine and settling closer to a pet cemetery in the woods, which is home to a terrifying force that brings death and sorrow. The novel was nominated for a World Fantasy Award for Best Novel in 1984, and adapted into two films: one in 1989 and another in 2019 as well as several spinoffs.\n\nIn 1979, King was writer-in-residence at the University of Maine and the house his family was renting in Orrington, Maine, was adjacent to a major road where dogs and cats were often killed by oncoming trucks. After his daughter's cat was killed by a truck along that road, he explained the death of the pet to his daughter and buried the cat. Three days later, King imagined what would happen if a family suffered the same tragedy but the cat came back to life. He then imagined what would happen if that family's young son were also killed by a passing truck. He decided to write a book based on these ideas, and that the book would be a re-telling of \"The Monkey's Paw\" (1902), a short story by W. W. Jacobs about parents whose son resurrects after they wish for that to happen. The first draft was completed in May 1979. In June 1983, King published a short story, \"The Return of Timmy Baterman\", in the program for the event \"Satyricon II\" (also known as \"DeepSouthCon 21\"); this was incorporated into Pet Sematary. King has gone on record stating that of all the novels he has written, Pet Sematary is the one which genuinely scared him the most.\n\nLouis Creed, a doctor from Chicago, is appointed director of the University of Maine's campus health service. He moves to a house near the town of Ludlow with his wife Rachel, their two young children, Ellie and Gage, and Ellie's cat, Winston Churchill (\"Church\"). Their elderly neighbor, Jud Crandall, warns Louis and Rachel about the highway that runs past their house, which is frequented by speeding trucks.\n\nJud and Louis become close friends, with Louis viewing Jud as a kind of surrogate father. Jud takes the family on a walk in the woods behind their home. A well-tended path leads to a pet cemetery (misspelled \"sematary\" on the sign) maintained by the children of the town. Louis is charmed, but Rachel finds the concept of the pet cemetery disturbing. She finds it difficult to talk about death, following the traumatic death of her sister Zelda when they were both children.",
+      "short_description": "Pet Sematary is a 1983 horror novel by American writer Stephen King. It tells the story of a family moving to Maine and settling closer to a pet cemetery in the woods, which is home to a terrifying force that brings…"
+    },
+    {
+      "slug": "pet-sematary-lore-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_figures",
+        "fandom_title": "Pet Sematary figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_world_&_context",
+        "fandom_title": "Pet Sematary world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_places",
+        "fandom_title": "Pet Sematary places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_events",
+        "fandom_title": "Pet Sematary events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_objects_&_artifacts",
+        "fandom_title": "Pet Sematary objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_factions_&_groups",
+        "fandom_title": "Pet Sematary factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_concepts",
+        "fandom_title": "Pet Sematary concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_eras",
+        "fandom_title": "Pet Sematary eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_works_&_media",
+        "fandom_title": "Pet Sematary works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_symbols",
+        "fandom_title": "Pet Sematary symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_controversies",
+        "fandom_title": "Pet Sematary controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_geography",
+        "fandom_title": "Pet Sematary geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_legacy",
+        "fandom_title": "Pet Sematary legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_practices",
+        "fandom_title": "Pet Sematary practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_1",
+        "fandom_title": "Pet Sematary entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_2",
+        "fandom_title": "Pet Sematary entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_3",
+        "fandom_title": "Pet Sematary entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_4",
+        "fandom_title": "Pet Sematary entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_5",
+        "fandom_title": "Pet Sematary entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_6",
+        "fandom_title": "Pet Sematary entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_7",
+        "fandom_title": "Pet Sematary entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_8",
+        "fandom_title": "Pet Sematary entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_9",
+        "fandom_title": "Pet Sematary entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_10",
+        "fandom_title": "Pet Sematary entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_11",
+        "fandom_title": "Pet Sematary entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_12",
+        "fandom_title": "Pet Sematary entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_13",
+        "fandom_title": "Pet Sematary entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_14",
+        "fandom_title": "Pet Sematary entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_15",
+        "fandom_title": "Pet Sematary entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_16",
+        "fandom_title": "Pet Sematary entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_17",
+        "fandom_title": "Pet Sematary entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_18",
+        "fandom_title": "Pet Sematary entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_19",
+        "fandom_title": "Pet Sematary entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_20",
+        "fandom_title": "Pet Sematary entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_21",
+        "fandom_title": "Pet Sematary entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_22",
+        "fandom_title": "Pet Sematary entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_23",
+        "fandom_title": "Pet Sematary entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-lore-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_entry_24",
+        "fandom_title": "Pet Sematary entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "jud-crandall",
+      "name": "Jud Crandall",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pet-sematary-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Jud_Crandall",
+        "fandom_title": "Jud Crandall",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ellie-creed",
+      "name": "Ellie Creed",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pet-sematary-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ellie_Creed",
+        "fandom_title": "Ellie Creed",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gage-creed",
+      "name": "Gage Creed",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pet-sematary-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Gage_Creed",
+        "fandom_title": "Gage Creed",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "louis-creed",
+      "name": "Louis Creed",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pet-sematary-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Louis_Creed",
+        "fandom_title": "Louis Creed",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rachel-creed",
+      "name": "Rachel Creed",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pet-sematary-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Rachel_Creed",
+        "fandom_title": "Rachel Creed",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zelda-goldman",
+      "name": "Zelda Goldman",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pet-sematary-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Zelda_Goldman",
+        "fandom_title": "Zelda Goldman",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gus-gilbert",
+      "name": "Gus Gilbert",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pet-sematary-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Gus_Gilbert",
+        "fandom_title": "Gus Gilbert",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marjorine",
+      "name": "Marjorine",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pet-sematary-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Marjorine",
+        "fandom_title": "Marjorine",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "victor-pascow",
+      "name": "Victor Pascow",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pet-sematary-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Victor_Pascow",
+        "fandom_title": "Victor Pascow",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-two",
+      "name": "Pet Sematary Two",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pet-sematary-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary_Two",
+        "fandom_title": "Pet Sematary Two",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pet-sematary-bloodlines",
+      "name": "Pet Sematary: Bloodlines",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pet-sematary-lore",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Pet_Sematary:_Bloodlines",
+        "fandom_title": "Pet Sematary: Bloodlines",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "jud-crandall",
+      "pet-sematary-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ellie-creed",
+      "pet-sematary-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "gage-creed",
+      "pet-sematary-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "louis-creed",
+      "pet-sematary-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "rachel-creed",
+      "pet-sematary-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "zelda-goldman",
+      "pet-sematary-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "gus-gilbert",
+      "pet-sematary-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "marjorine",
+      "pet-sematary-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "victor-pascow",
+      "pet-sematary-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "pet-sematary-two",
+      "pet-sematary-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "pet-sematary-bloodlines",
+      "pet-sematary-lore",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Pet Sematary article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:17:11.888Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "siege-warfare",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare",
+        "fandom_title": "Siege warfare",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_figures",
+        "fandom_title": "Siege warfare figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_world_&_context",
+        "fandom_title": "Siege warfare world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_places",
+        "fandom_title": "Siege warfare places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_events",
+        "fandom_title": "Siege warfare events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_objects_&_artifacts",
+        "fandom_title": "Siege warfare objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_factions_&_groups",
+        "fandom_title": "Siege warfare factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_concepts",
+        "fandom_title": "Siege warfare concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_eras",
+        "fandom_title": "Siege warfare eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_works_&_media",
+        "fandom_title": "Siege warfare works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_symbols",
+        "fandom_title": "Siege warfare symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_controversies",
+        "fandom_title": "Siege warfare controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_geography",
+        "fandom_title": "Siege warfare geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_legacy",
+        "fandom_title": "Siege warfare legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_practices",
+        "fandom_title": "Siege warfare practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_1",
+        "fandom_title": "Siege warfare entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_2",
+        "fandom_title": "Siege warfare entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_3",
+        "fandom_title": "Siege warfare entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_4",
+        "fandom_title": "Siege warfare entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_5",
+        "fandom_title": "Siege warfare entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_6",
+        "fandom_title": "Siege warfare entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_7",
+        "fandom_title": "Siege warfare entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_8",
+        "fandom_title": "Siege warfare entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_9",
+        "fandom_title": "Siege warfare entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_10",
+        "fandom_title": "Siege warfare entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_11",
+        "fandom_title": "Siege warfare entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_12",
+        "fandom_title": "Siege warfare entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_13",
+        "fandom_title": "Siege warfare entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_14",
+        "fandom_title": "Siege warfare entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_15",
+        "fandom_title": "Siege warfare entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_16",
+        "fandom_title": "Siege warfare entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_17",
+        "fandom_title": "Siege warfare entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_18",
+        "fandom_title": "Siege warfare entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_19",
+        "fandom_title": "Siege warfare entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_20",
+        "fandom_title": "Siege warfare entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_21",
+        "fandom_title": "Siege warfare entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_22",
+        "fandom_title": "Siege warfare entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_23",
+        "fandom_title": "Siege warfare entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "siege-warfare-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Siege_warfare_entry_24",
+        "fandom_title": "Siege warfare entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Siege warfare article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:51:17.983Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

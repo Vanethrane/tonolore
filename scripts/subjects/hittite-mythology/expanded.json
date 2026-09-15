@@ -1,0 +1,108 @@
+{
+  "enrichments": [
+    {
+      "slug": "hittite-mythology",
+      "description": "Hittite mythology and Hittite religion were the religious beliefs and practices of the Hittites, who created an empire centered in Anatolia from .\n\nMost of the narratives embodying Hittite mythology are lost, and the elements that would give a balanced view of Hittite religion are lacking among the tablets recovered at the Hittite capital Hattusa and other Hittite sites. Thus, \"there are no canonical scriptures, no theological disquisitions or discourses, no aids to private devotion\". Some religious documents formed part of the corpus with which young scribes were trained, and have survived, most of them dating from the last several decades before the final burning of the sites. The scribes in the royal administration, some of whose archives survive, were a bureaucracy, organizing and maintaining royal responsibilities in areas that would be considered part of religion today: temple organization, cultic administration, reports of diviners, make up the main body of surviving texts.\n\nThe understanding of Hittite mythology depends on readings of surviving stone carvings, deciphering of the iconology represented in seal stones, interpreting ground plans of temples: additionally, there are a few images of deities, for the Hittites often worshipped their gods through Huwasi stones, which represented deities and were treated as sacred objects. Gods were often depicted standing on the backs of their respective beasts, or may have been identifiable in their animal form.\n\nThough drawing on ancient Mesopotamian religion, the religion of the Hittites and Luwians retains noticeable elements of reconstructed Proto-Indo-European mythology. For example, Tarhunt, the god of thunder and his conflict with the serpent Illuyanka resembles the conflict between Indra and the cosmic serpent Vritra in Vedic mythology, or Thor and the serpent Jörmungandr in Norse mythology. This myth also bears a resemblance to the daily struggle between Ra and the serpent Apophis in Egyptian mythology.",
+      "short_description": "Hittite mythology and Hittite religion were the religious beliefs and practices of the Hittites, who created an empire centered in Anatolia from ."
+    }
+  ],
+  "entities": [
+    {
+      "slug": "hittite-mythology-and-religion",
+      "name": "Hittite mythology and religion",
+      "type": "topic",
+      "description": "Hittite mythology and Hittite religion were the religious beliefs and practices of the Hittites, who created an empire centered in Anatolia from .\n\nMost of the narratives embodying Hittite mythology are lost, and the elements that would give a balanced view of Hittite religion are lacking among the tablets recovered at the Hittite capital Hattusa and other Hittite sites. Thus, \"there are no canonical scriptures, no theological disquisitions or discourses, no aids to private devotion\". Some religious documents formed part of the corpus with which young scribes were trained, and have survived, most of them dating from the last several decades before the final burning of the sites. The scribes in the royal administration, some of whose archives survive, were a bureaucracy, organizing and maintaining royal responsibilities in areas that would be considered part of religion today: temple organization, cultic administration, reports of diviners, make up the main body of surviving texts.\n\nThe understanding of Hittite mythology depends on readings of surviving stone carvings, deciphering of the iconology represented in seal stones, interpreting ground plans of temples: additionally, there are a few images of deities, for the Hittites often worshipped their gods through Huwasi stones, which represented deities and were treated as sacred objects. Gods were often depicted standing on the backs of their respective beasts, or may have been identifiable in their animal form.\n\nThough drawing on ancient Mesopotamian religion, the religion of the Hittites and Luwians retains noticeable elements of reconstructed Proto-Indo-European mythology. For example, Tarhunt, the god of thunder and his conflict with the serpent Illuyanka resembles the conflict between Indra and the cosmic serpent Vritra in Vedic mythology, or Thor and the serpent Jörmungandr in Norse mythology. This myth also bears a resemblance to the daily struggle between Ra and the serpent Apophis in Egyptian mythology.",
+      "short_description": "Hittite mythology and Hittite religion were the religious beliefs and practices of the Hittites, who created an empire centered in Anatolia from .",
+      "evidence": "fiction",
+      "parentSlug": "hittite-mythology",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/HittiteSeatedDeityAnatolia13thCenturyBCE.jpg/180px-HittiteSeatedDeityAnatolia13thCenturyBCE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Hittite_mythology_and_religion",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Hittite mythology article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Hittite mythology and religion",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Hittite_mythology_and_religion",
+        "fandom_title": "Hittite mythology and religion",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hittite-sun-disk",
+      "name": "Hittite sun disk",
+      "type": "topic",
+      "description": "The Hittite Sun Disk or Hittite Sun Course is an ancient Anatolian symbol dating back to the 20th century BC.\n\nThe disks can be divided into four distinct variations. These are Semi-circular, Diamond shaped, Circular with bulls' horn and circular of semicircular with a complex design including animals and horns. The last one of those types was replicated in the Hittite Sun Course Monument. The sun disks have been found in at least 13 royal tombs from the early Bronze Age in Alaca Höyük.\n\nThe sun disk is used as the symbol of Ankara University. In 1974, it became the symbol of the Turkish capital, Ankara until it was replaced with an Islamic symbol in 1995.\n\nA monument, Hittite Sun Course Monument, to the Hittites was created by the sculptor Nusret Suman and was erected in Sıhhiye Square in 1978.",
+      "short_description": "The Hittite Sun Disk or Hittite Sun Course is an ancient Anatolian symbol dating back to the 20th century BC.",
+      "evidence": "fiction",
+      "parentSlug": "hittite-mythology",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Hittite_sun_disk.svg/180px-Hittite_sun_disk.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Hittite_sun_disk",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Hittite mythology article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Hittite sun disk",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Hittite_sun_disk",
+        "fandom_title": "Hittite sun disk",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "hittite-mythology-and-religion",
+      "hittite-mythology",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "hittite-sun-disk",
+      "hittite-mythology",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Hittite mythology article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:08:57.454Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0,
+    "description_ensure_at": "2026-09-13T23:12:13.320Z",
+    "description_ensure_count": 1
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "enrichments": [
+    {
+      "slug": "black-sad",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blacksad",
+        "fandom_title": "Blacksad",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "black-sad-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blacksad_figures",
+        "fandom_title": "Blacksad figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "black-sad-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Blacksad_world_&_context",
+        "fandom_title": "Blacksad world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Blacksad article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T17:02:04.000Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

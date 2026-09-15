@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "world-of-darkness",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness",
+        "fandom_title": "World of Darkness",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_figures",
+        "fandom_title": "World of Darkness figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_world_&_context",
+        "fandom_title": "World of Darkness world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_places",
+        "fandom_title": "World of Darkness places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_events",
+        "fandom_title": "World of Darkness events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_objects_&_artifacts",
+        "fandom_title": "World of Darkness objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_factions_&_groups",
+        "fandom_title": "World of Darkness factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_concepts",
+        "fandom_title": "World of Darkness concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_eras",
+        "fandom_title": "World of Darkness eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_works_&_media",
+        "fandom_title": "World of Darkness works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_symbols",
+        "fandom_title": "World of Darkness symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_controversies",
+        "fandom_title": "World of Darkness controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_geography",
+        "fandom_title": "World of Darkness geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_legacy",
+        "fandom_title": "World of Darkness legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_practices",
+        "fandom_title": "World of Darkness practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_1",
+        "fandom_title": "World of Darkness entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_2",
+        "fandom_title": "World of Darkness entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_3",
+        "fandom_title": "World of Darkness entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_4",
+        "fandom_title": "World of Darkness entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_5",
+        "fandom_title": "World of Darkness entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_6",
+        "fandom_title": "World of Darkness entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_7",
+        "fandom_title": "World of Darkness entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_8",
+        "fandom_title": "World of Darkness entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_9",
+        "fandom_title": "World of Darkness entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_10",
+        "fandom_title": "World of Darkness entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_11",
+        "fandom_title": "World of Darkness entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_12",
+        "fandom_title": "World of Darkness entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_13",
+        "fandom_title": "World of Darkness entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_14",
+        "fandom_title": "World of Darkness entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_15",
+        "fandom_title": "World of Darkness entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_16",
+        "fandom_title": "World of Darkness entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_17",
+        "fandom_title": "World of Darkness entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_18",
+        "fandom_title": "World of Darkness entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_19",
+        "fandom_title": "World of Darkness entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_20",
+        "fandom_title": "World of Darkness entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_21",
+        "fandom_title": "World of Darkness entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_22",
+        "fandom_title": "World of Darkness entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_23",
+        "fandom_title": "World of Darkness entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-of-darkness-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_of_Darkness_entry_24",
+        "fandom_title": "World of Darkness entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. World of Darkness article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T17:04:00.196Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

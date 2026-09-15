@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "spanish-monarchy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy",
+        "fandom_title": "Spanish monarchy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_figures",
+        "fandom_title": "Spanish monarchy figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_world_&_context",
+        "fandom_title": "Spanish monarchy world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_places",
+        "fandom_title": "Spanish monarchy places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_events",
+        "fandom_title": "Spanish monarchy events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_objects_&_artifacts",
+        "fandom_title": "Spanish monarchy objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_factions_&_groups",
+        "fandom_title": "Spanish monarchy factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_concepts",
+        "fandom_title": "Spanish monarchy concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_eras",
+        "fandom_title": "Spanish monarchy eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_works_&_media",
+        "fandom_title": "Spanish monarchy works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_symbols",
+        "fandom_title": "Spanish monarchy symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_controversies",
+        "fandom_title": "Spanish monarchy controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_geography",
+        "fandom_title": "Spanish monarchy geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_legacy",
+        "fandom_title": "Spanish monarchy legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_practices",
+        "fandom_title": "Spanish monarchy practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_1",
+        "fandom_title": "Spanish monarchy entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_2",
+        "fandom_title": "Spanish monarchy entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_3",
+        "fandom_title": "Spanish monarchy entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_4",
+        "fandom_title": "Spanish monarchy entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_5",
+        "fandom_title": "Spanish monarchy entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_6",
+        "fandom_title": "Spanish monarchy entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_7",
+        "fandom_title": "Spanish monarchy entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_8",
+        "fandom_title": "Spanish monarchy entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_9",
+        "fandom_title": "Spanish monarchy entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_10",
+        "fandom_title": "Spanish monarchy entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_11",
+        "fandom_title": "Spanish monarchy entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_12",
+        "fandom_title": "Spanish monarchy entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_13",
+        "fandom_title": "Spanish monarchy entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_14",
+        "fandom_title": "Spanish monarchy entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_15",
+        "fandom_title": "Spanish monarchy entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_16",
+        "fandom_title": "Spanish monarchy entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_17",
+        "fandom_title": "Spanish monarchy entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_18",
+        "fandom_title": "Spanish monarchy entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_19",
+        "fandom_title": "Spanish monarchy entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_20",
+        "fandom_title": "Spanish monarchy entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_21",
+        "fandom_title": "Spanish monarchy entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_22",
+        "fandom_title": "Spanish monarchy entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_23",
+        "fandom_title": "Spanish monarchy entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-monarchy-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_monarchy_entry_24",
+        "fandom_title": "Spanish monarchy entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Spanish monarchy article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:00:23.692Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

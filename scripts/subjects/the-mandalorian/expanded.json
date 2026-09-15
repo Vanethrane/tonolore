@@ -1,0 +1,530 @@
+{
+  "enrichments": [
+    {
+      "slug": "the-mandalorian",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian",
+        "fandom_title": "The Mandalorian",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "The Mandalorian, also known as Star Wars: The Mandalorian, is an American space Western television series created by Jon Favreau for the streaming service Disney+. It is the first live-action series in the Star Wars franchise and begins five years after the events of the film Return of the Jedi (1983). It follows a lone bounty hunter who protects a Force-sensitive child, Grogu, from remnant Imperial forces.\n\nPedro Pascal stars as the title character, with Katee Sackhoff co-starring in the third season. Star Wars creator George Lucas had begun developing a live-action Star Wars television series by 2009, but it was deemed too expensive to produce. He sold Lucasfilm to Disney in October 2012, and work on a new Star Wars series began for Disney+. Favreau signed on as writer and showrunner in March 2018. He executive produces alongside Dave Filoni, Kathleen Kennedy, and Colin Wilson; Rick Famuyiwa joined them for the third season. The title was announced in October 2018 when filming started at Manhattan Beach Studios in California. Visual effects company Industrial Light & Magic developed the StageCraft technology for the series, displaying digital backgrounds on a 360-degree video wall. This has since been adopted by other film and television productions.\n\nThe Mandalorian premiered with the launch of Disney+ on November 12, 2019. The rest of the first season was released through December 27. A second season was released from October to December 2020, and a third season was released from March to April 2023. The series has received largely positive reviews from critics and several accolades, including Primetime Creative Arts Emmy Award wins for all three seasons. A fourth season of the series had been in development, before creative plans changed and development shifted towards a feature film which became The Mandalorian and Grogu; the film acts as a continuation of the series, was directed by Favreau, and was released in May 2026. Interconnected spin-off series The Book of Boba Fett, Ahsoka, and Skeleton Crew expand on The Mandalorian timeframe, with an untitled feature film directed by Filoni set to serve as a conclusion to the interconnected stories.\n\nBeginning five years after the events of the film Return of the Jedi (1983) and the fall of the Galactic Empire, The Mandalorian follows Din Djarin, a lone Mandalorian bounty hunter working in the outer reaches of the galaxy. He is hired by Imperial remnant forces to retrieve the child Grogu, but instead goes on the run to protect the infant. While looking to reunite Grogu with his kind, he is pursued by former Imperial commander Moff Gideon, who wants to exploit Grogu's connection to the Force. The duo then travel to Mandalore so Djarin can redeem himself for the transgression of removing his helmet.",
+      "short_description": "The Mandalorian, also known as Star Wars: The Mandalorian, is an American space Western television series created by Jon Favreau for the streaming service Disney+. It is the first live-action series in the Star Wars…"
+    },
+    {
+      "slug": "the-mandalorian-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_figures",
+        "fandom_title": "The Mandalorian figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_world_&_context",
+        "fandom_title": "The Mandalorian world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_places",
+        "fandom_title": "The Mandalorian places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_events",
+        "fandom_title": "The Mandalorian events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_objects_&_artifacts",
+        "fandom_title": "The Mandalorian objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_factions_&_groups",
+        "fandom_title": "The Mandalorian factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_concepts",
+        "fandom_title": "The Mandalorian concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_eras",
+        "fandom_title": "The Mandalorian eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_works_&_media",
+        "fandom_title": "The Mandalorian works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_symbols",
+        "fandom_title": "The Mandalorian symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_controversies",
+        "fandom_title": "The Mandalorian controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_geography",
+        "fandom_title": "The Mandalorian geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_legacy",
+        "fandom_title": "The Mandalorian legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_practices",
+        "fandom_title": "The Mandalorian practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_1",
+        "fandom_title": "The Mandalorian entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_2",
+        "fandom_title": "The Mandalorian entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_3",
+        "fandom_title": "The Mandalorian entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_4",
+        "fandom_title": "The Mandalorian entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_5",
+        "fandom_title": "The Mandalorian entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_6",
+        "fandom_title": "The Mandalorian entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_7",
+        "fandom_title": "The Mandalorian entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_8",
+        "fandom_title": "The Mandalorian entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_9",
+        "fandom_title": "The Mandalorian entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_10",
+        "fandom_title": "The Mandalorian entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_11",
+        "fandom_title": "The Mandalorian entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_12",
+        "fandom_title": "The Mandalorian entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_13",
+        "fandom_title": "The Mandalorian entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_14",
+        "fandom_title": "The Mandalorian entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_15",
+        "fandom_title": "The Mandalorian entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_16",
+        "fandom_title": "The Mandalorian entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_17",
+        "fandom_title": "The Mandalorian entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_18",
+        "fandom_title": "The Mandalorian entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_19",
+        "fandom_title": "The Mandalorian entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_20",
+        "fandom_title": "The Mandalorian entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_21",
+        "fandom_title": "The Mandalorian entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_22",
+        "fandom_title": "The Mandalorian entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_23",
+        "fandom_title": "The Mandalorian entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-mandalorian-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Mandalorian_entry_24",
+        "fandom_title": "The Mandalorian entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "the-armorer",
+      "name": "The Armorer",
+      "type": "person",
+      "description": "The Armorer is a fictional character in the Star Wars franchise who appears in the Disney+ television series The Mandalorian and The Book of Boba Fett. Dressed in red body armor and a gold helmet, she is the leader of a tribe of Mandalorian warriors, which includes the title character of The Mandalorian. A mysterious, patient, and intelligent character, the Armorer provides spiritual guidance for the clan, and forges and repairs their armor.\n\nJon Favreau, the creator and showrunner of The Mandalorian, was among the creators of the Armorer. The character was partially inspired by the films of Akira Kurosawa, as well as the history and culture of the samurai, particularly in the character's slow-paced movement and aura of authority. The Armorer is portrayed by Emily Swallow, who provides both the character's voice and live-action performance, while her stunts are performed by Lauren Mary Kim. When Swallow auditioned for the role, she knew little about the character and did not know it was for a Star Wars series.\n\nThe voice Swallow uses for the Armorer has elements of British and Mid-Atlantic accents, which stemmed from a suggestion made by a casting associate during her audition. She also partially modeled the Armorer's voice after characters from the Lord of the Rings film series. Aspects of The Mandalorian director Deborah Chow's personality influenced Swallow's performance. Kim's combat style in the Armorer's fight scenes was inspired by the Filipino martial art known as Kali.\n\nThe Armorer's costume took several weeks to make, and it proved to be challenging to perform in due to limited visibility and the fact that small movements in the costume were very noticeable. Swallow wore the helmet and armor costume for up to nine hours at a time during filming. The Armorer has been received positively by fans and reviewers alike and has been described as a fan favorite.",
+      "short_description": "The Armorer is a fictional character in the Star Wars franchise who appears in the Disney+ television series The Mandalorian and The Book of Boba Fett. Dressed in red body armor and a gold helmet, she is the leader of a…",
+      "evidence": "fiction",
+      "parentSlug": "the-mandalorian-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Armorer",
+        "fandom_title": "The Armorer",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "the-armorer",
+      "the-mandalorian-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. The Mandalorian article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:56:00.212Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0,
+    "description_ensure_at": "2026-09-14T06:36:03.791Z",
+    "description_ensure_count": 1
+  }
+}

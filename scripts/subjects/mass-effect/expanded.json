@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T04:07:01.881Z",
+  "generated_at": "2026-09-14T19:55:30.573Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (masseffect.fandom.com) for identification and commentary only. Character / franchise art © BioWare / Electronic Arts (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -146,7 +146,7 @@
         "fandom_preferred_image": true
       },
       "short_description": "Commander Shepard is the main protagonist of Mass Effect, Mass Effect 2, and Mass Effect 3.",
-      "image_url": "https://static.wikia.nocookie.net/masseffect/images/2/24/MELE_Default_Shepards.png/revision/latest/scale-to-width-down/360?cb=20211028200648",
+      "image_url": "https://static.wikia.nocookie.net/masseffect/images/2/24/MELE_Default_Shepards.png/revision/latest/scale-to-width-down/180?cb=20211028200648",
       "image_source": "https://masseffect.fandom.com/wiki/Commander_Shepard",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BioWare / Electronic Arts (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -22403,24 +22403,24 @@
       "slug": "caleston",
       "name": "Caleston",
       "type": "place",
-      "description": "Caleston is the original name for the planet Therum in Mass Effect, before a massive amount of its planned content was cut. Like Therum, it was to be where Commander Shepard would find Liara T'Soni. However, like Feros and Noveria, Caleston also had a hub area with several missions, assignments, and many characters to interact with called Throw Down. An element zero refinery was located underneath, the focal point of the ongoing gang war between the Miners' Union and the Cartel.\n\nSome distance away from Throw Down, a set of Prothean ruins known as Knossos could be found inside a supervolcano caldera called the \"Ring of Fire\", which is where the player lands on Therum in the final game. Although no mention of either name is ever made on Therum, the star system it's located in is called Knossos.\n\nUnlike Therum's dark and stormy sky, cut dialogues and development images consistently depict Caleston as having a clear yellow/green sky. While no mention of the rarity of Prothean ruins on Therum is ever made, Throw Down's administrator Tombiri claims there are \"hundreds\" of Prothean ruins on Caleston, though most were not as well preserved as Knossos.\n\nCaleston is mentioned to be a moon, not a planet. The X06 trailer description implies Cernunnos as the name of the planet it orbits, just like in Mass Effect 2 and 3 when both bodies were made canon. This was confirmed through the \"Caleston DLC\" (a misnomer as it is a demo for Bring Down the Sky), where they are located in a new system called Ankyra, in the Hades Gamma cluster.",
+      "description": "The hostile moon Caleston is the largest satellite of the gas giant Cernunnos. An ancient asteroid strike deposited major lodes of element zero within the molten sulfur mantle. Eldfell-Ashland Energy's mining operations have made it the largest source of starship drive core material in the Attican Traverse.\n\nCaleston is wracked with volcanism due to tidal stresses from Cernunnos. Because of weak solar output, plant-like life on Caleston is not carbon-based and photosynthetic but silicon-based and thermosynthetic, requiring heat rather than sunlight to power its chemical reactions. These organisms flourish in volcanic vents and during solar flares, when Balor can double or triple in luminosity. Sadly, sapient habitation is not possible here, and Caleston's biodiversity is considered \"threatened\" by the Citadel Council Committee on Habitable Worlds.\n\nCaleston is the largest satellite of the gas giant Cernunnos. Ancient asteroid strikes deposited major lodes of element zero within the molten sulfur mantle. Eldfell-Ashland Energy's mining operations made it the largest source of starship drive core material in the Attican Traverse, which threatened Caleston's native biodiversity with industrial waste.\n\nCaleston is wracked with volcanism due to tidal stresses from Cernunnos. Because of weak solar output, plant-like life on Caleston is not carbon-based and photosynthetic, but silicon-based and thermosynthetic, requiring heat rather than sunlight to power chemical reactions. These organisms flourish in volcanic vents and during solar flares, when Balor, Caleson's sun, can double or triple in luminosity. Oxygen-breathing habitation is not possible outside its many domed cities. Those cities are now feasts for the Reapers, who drove off Caleston's protective fleet and now threaten to puncture domes to force the population into submission.",
       "short_description": "The hostile moon Caleston is the largest satellite of the gas giant Cernunnos. An ancient asteroid strike deposited major lodes of element zero within the molten sulfur mantle. Eldfell-Ashland Energy's mining operations…",
       "evidence": "fiction",
       "parentSlug": "mass-effect",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/masseffect/images/2/29/Caleston_Orbit.png/revision/latest/scale-to-width-down/360?cb=20260214081326",
-      "image_source": "https://masseffect.fandom.com/wiki/Caleston_(Cut)",
+      "image_url": "https://static.wikia.nocookie.net/masseffect/images/7/7b/Caleston_ME2.png/revision/latest/scale-to-width-down/180?cb=20141210141141",
+      "image_source": "https://masseffect.fandom.com/wiki/Caleston",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BioWare / Electronic Arts (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Caleston (Cut)",
+      "image_alt": "Identification thumbnail for Caleston",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://masseffect.fandom.com/wiki/Caleston_(Cut)",
-        "fandom_title": "Caleston (Cut)",
+        "fandom_url": "https://masseffect.fandom.com/wiki/Caleston",
+        "fandom_title": "Caleston",
         "source_fandom": "masseffect.fandom.com",
         "sources": [
           "fandom"

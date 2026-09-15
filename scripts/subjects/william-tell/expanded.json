@@ -1,0 +1,1416 @@
+{
+  "enrichments": [
+    {
+      "slug": "william-tell",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Landesmuseum_Z%C3%BCrich_2010-09-20_14-38-14_ShiftN.jpg/180px-Landesmuseum_Z%C3%BCrich_2010-09-20_14-38-14_ShiftN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/William_Tell",
+      "image_credit": "Fair-use identification thumbnail via Fandom. William Tell article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for William Tell",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell",
+        "fandom_title": "William Tell",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "William Tell (, ; ; ; ) is a legendary folk hero of Switzerland. He is known for shooting an apple off his son's head.\n\nAccording to the legend, Tell was an expert mountain climber and marksman with a crossbow who assassinated Albrecht Gessler, a tyrannical reeve of the Austrian dukes of the House of Habsburg positioned in Altdorf, in the canton of Uri. Tell's defiance and tyrannicide encouraged the population to open rebellion and to make a pact against the foreign rulers with neighbouring Schwyz and Unterwalden, marking the foundation of the Swiss Confederacy, of which Tell is consequently considered the father.\n\nSet in the early 14th century (traditional date 1307, during the rule of Albert of Habsburg), the first written records of the legend date to the latter part of the 15th century, when the Swiss Confederacy was gaining military and political influence. Tell is a central figure in Swiss national historiography, along with Arnold von Winkelried, the hero of Sempach (1386). He was important as a symbol during the formative stage of modern Switzerland in the 19th century, known as the period of Restoration and Regeneration, as well as in the wider history of 18th- to 19th-century Europe as a symbol of resistance against aristocratic rule, especially in the Revolutions of 1848 against the House of Habsburg which had ruled Austria for centuries.\n\nThe first reference to Tell, without a specified given name, appears in the White Book of Sarnen (). This volume was written in by Hans Schriber, state secretary () of Obwalden. It mentions the Rütli Oath () and names Tell as one of the conspirators () of the Rütli, whose heroic tyrannicide triggered the Burgenbruch rebellion.",
+      "short_description": "William Tell (, ; ; ; ) is a legendary folk hero of Switzerland. He is known for shooting an apple off his son's head."
+    },
+    {
+      "slug": "william-tell-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_figures",
+        "fandom_title": "William Tell figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_world_&_context",
+        "fandom_title": "William Tell world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_places",
+        "fandom_title": "William Tell places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_events",
+        "fandom_title": "William Tell events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_objects_&_artifacts",
+        "fandom_title": "William Tell objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_factions_&_groups",
+        "fandom_title": "William Tell factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_concepts",
+        "fandom_title": "William Tell concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_eras",
+        "fandom_title": "William Tell eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_works_&_media",
+        "fandom_title": "William Tell works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_symbols",
+        "fandom_title": "William Tell symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_controversies",
+        "fandom_title": "William Tell controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_geography",
+        "fandom_title": "William Tell geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_legacy",
+        "fandom_title": "William Tell legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_practices",
+        "fandom_title": "William Tell practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_1",
+        "fandom_title": "William Tell entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_2",
+        "fandom_title": "William Tell entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_3",
+        "fandom_title": "William Tell entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_4",
+        "fandom_title": "William Tell entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_5",
+        "fandom_title": "William Tell entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_6",
+        "fandom_title": "William Tell entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_7",
+        "fandom_title": "William Tell entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_8",
+        "fandom_title": "William Tell entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_9",
+        "fandom_title": "William Tell entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_10",
+        "fandom_title": "William Tell entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_11",
+        "fandom_title": "William Tell entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_12",
+        "fandom_title": "William Tell entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_13",
+        "fandom_title": "William Tell entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_14",
+        "fandom_title": "William Tell entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_15",
+        "fandom_title": "William Tell entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_16",
+        "fandom_title": "William Tell entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_17",
+        "fandom_title": "William Tell entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_18",
+        "fandom_title": "William Tell entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_19",
+        "fandom_title": "William Tell entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_20",
+        "fandom_title": "William Tell entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_21",
+        "fandom_title": "William Tell entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_22",
+        "fandom_title": "William Tell entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_23",
+        "fandom_title": "William Tell entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_entry_24",
+        "fandom_title": "William Tell entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "chronicle-of-the-swiss-confederation",
+      "name": "Chronicle of the Swiss Confederation",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Kronica_von_der_loblichen_Eydtgnoschaft_1507_%286793638%29.jpg/180px-Kronica_von_der_loblichen_Eydtgnoschaft_1507_%286793638%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Chronicle_of_the_Swiss_Confederation",
+      "image_credit": "Fair-use identification thumbnail via Fandom. William Tell article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Chronicle of the Swiss Confederation",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Chronicle_of_the_Swiss_Confederation",
+        "fandom_title": "Chronicle of the Swiss Confederation",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chronicon-helveticum",
+      "name": "Chronicon Helveticum",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Aegidius_Tschudi_Chronicon_Helveticum_Handschrift.jpg/180px-Aegidius_Tschudi_Chronicon_Helveticum_Handschrift.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Chronicon_Helveticum",
+      "image_credit": "Fair-use identification thumbnail via Fandom. William Tell article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Chronicon Helveticum",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Chronicon_Helveticum",
+        "fandom_title": "Chronicon Helveticum",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "albrecht-gessler",
+      "name": "Albrecht Gessler",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/William_Tell_LCCN2003689314_%28cropped%29.jpg/180px-William_Tell_LCCN2003689314_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Albrecht_Gessler",
+      "image_credit": "Fair-use identification thumbnail via Fandom. William Tell article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Albrecht Gessler",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Albrecht_Gessler",
+        "fandom_title": "Albrecht Gessler",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kussnacht",
+      "name": "Küssnacht",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/K%C3%BCssnacht_am_Rigi_Pfarrkirche_St.Peter_und_Paul.jpg/180px-K%C3%BCssnacht_am_Rigi_Pfarrkirche_St.Peter_und_Paul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/K%C3%BCssnacht",
+      "image_credit": "Fair-use identification thumbnail via Fandom. William Tell article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Küssnacht",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/K%C3%BCssnacht",
+        "fandom_title": "Küssnacht",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "konrad-baumgarten",
+      "name": "Konrad Baumgarten",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Konrad_Baumgarten",
+        "fandom_title": "Konrad Baumgarten",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-overture",
+      "name": "William Tell Overture",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Gioachino_Rossini%2C_1828%2C_by_Hortense_Haudebourt-Lescot.jpg/180px-Gioachino_Rossini%2C_1828%2C_by_Hortense_Haudebourt-Lescot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/William_Tell_Overture",
+      "image_credit": "Fair-use identification thumbnail via Fandom. William Tell article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for William Tell Overture",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_Overture_(Mike_Oldfield_instrumental)",
+        "fandom_title": "William Tell Overture (Mike Oldfield instrumental)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shooting-an-apple-off-ones-childs-head",
+      "name": "Shooting an apple off one's child's head",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Tell_Deutsch_M%C3%BCnster_1554.jpg/180px-Tell_Deutsch_M%C3%BCnster_1554.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Shooting_an_apple_off_one%27s_child%27s_head",
+      "image_credit": "Fair-use identification thumbnail via Fandom. William Tell article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Shooting an apple off one's child's head",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Shooting_an_apple_off_one%27s_child%27s_head",
+        "fandom_title": "Shooting an apple off one's child's head",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "werner-stauffacher",
+      "name": "Werner Stauffacher",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Swiss_R%C3%BCtlischwur.jpg/180px-Swiss_R%C3%BCtlischwur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Werner_Stauffacher",
+      "image_credit": "Fair-use identification thumbnail via Fandom. William Tell article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Werner Stauffacher",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Werner_Stauffacher",
+        "fandom_title": "Werner Stauffacher",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stauffacherin",
+      "name": "Stauffacherin",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Stauffacher-Bild_Ausschnitt.jpg/180px-Stauffacher-Bild_Ausschnitt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Stauffacherin",
+      "image_credit": "Fair-use identification thumbnail via Fandom. William Tell article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Stauffacherin",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Stauffacherin",
+        "fandom_title": "Stauffacherin",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tell-city-indiana",
+      "name": "Tell City, Indiana",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Tell_City%2C_Indiana_Town_Hall.jpg/180px-Tell_City%2C_Indiana_Town_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Tell_City,_Indiana",
+      "image_credit": "Fair-use identification thumbnail via Fandom. William Tell article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Tell City, Indiana",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Tell_City,_Indiana",
+        "fandom_title": "Tell City, Indiana",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tellskapelle",
+      "name": "Tellskapelle",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Tellskapelle2000.jpg/180px-Tellskapelle2000.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Tellskapelle",
+      "image_credit": "Fair-use identification thumbnail via Fandom. William Tell article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Tellskapelle",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Tellskapelle",
+        "fandom_title": "Tellskapelle",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "white-book-of-sarnen",
+      "name": "White Book of Sarnen",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Weisses_Buch_von_Sarnen.jpg/180px-Weisses_Buch_von_Sarnen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/White_Book_of_Sarnen",
+      "image_credit": "Fair-use identification thumbnail via Fandom. William Tell article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for White Book of Sarnen",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/White_Book_of_Sarnen",
+        "fandom_title": "White Book of Sarnen",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "adventures-of-william-tell",
+      "name": "Adventures of William Tell",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/AdventuresofWilliamTell.jpg/180px-AdventuresofWilliamTell.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Adventures_of_William_Tell",
+      "image_credit": "Fair-use identification thumbnail via Fandom. William Tell article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Adventures of William Tell",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Adventures_of_William_Tell",
+        "fandom_title": "Adventures of William Tell",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-adventures-of-william-tell",
+      "name": "The Adventures of William Tell",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Adventures_of_William_Tell",
+        "fandom_title": "The Adventures of William Tell",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-apple-and-the-arrow",
+      "name": "The Apple and the Arrow",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Apple_and_the_Arrow",
+        "fandom_title": "The Apple and the Arrow",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bill-teds-excellent-adventures-1990-tv-series",
+      "name": "Bill & Ted's Excellent Adventures",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bill_%26_Ted%27s_Excellent_Adventures_(1990_TV_series)",
+        "fandom_title": "Bill & Ted's Excellent Adventures (1990 TV series)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crossbow-tv-series",
+      "name": "Crossbow",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Crossbow_(TV_series)",
+        "fandom_title": "Crossbow (TV series)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "guillaume-tell-gretry",
+      "name": "Guillaume Tell",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Gr%C3%A9try_-_Guillaume_Tell_-_title_page_of_the_libretto_-_Paris_1793.png/180px-Gr%C3%A9try_-_Guillaume_Tell_-_title_page_of_the_libretto_-_Paris_1793.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Guillaume_Tell_(Gr%C3%A9try)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. William Tell article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Guillaume Tell (Grétry)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Guillaume_Tell_(Gr%C3%A9try)",
+        "fandom_title": "Guillaume Tell (Grétry)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-legend-of-william-tell",
+      "name": "The Legend of William Tell",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Legend_of_William_Tell_(video_game)",
+        "fandom_title": "The Legend of William Tell (video game)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mountains-are-free",
+      "name": "Mountains Are Free",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/ce/Mountains_Are_Free.png/180px-Mountains_Are_Free.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Mountains_Are_Free",
+      "image_credit": "Fair-use identification thumbnail via Fandom. William Tell article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Mountains Are Free",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mountains_Are_Free",
+        "fandom_title": "Mountains Are Free",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mr-peabody",
+      "name": "Mr. Peabody",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mr._Peabody",
+        "fandom_title": "Mr. Peabody",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tell-monument",
+      "name": "Tell Monument",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Wilhelm_Tell_by_Kissling_after_renovation.jpg/180px-Wilhelm_Tell_by_Kissling_after_renovation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Tell_Monument",
+      "image_credit": "Fair-use identification thumbnail via Fandom. William Tell article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Tell Monument",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Tell_Monument",
+        "fandom_title": "Tell Monument",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tellenlied",
+      "name": "Tellenlied",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Tellenlied",
+        "fandom_title": "Tellenlied",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tengen-hero-wars",
+      "name": "Tengen Hero Wars",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Tengen_Hero_Wars",
+        "fandom_title": "Tengen Hero Wars",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "urner-tellspiel",
+      "name": "Urner Tellspiel",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Urner_Tellspiel",
+        "fandom_title": "Urner Tellspiel",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-overturning-the-barque-of-gessler",
+      "name": "William Tell Overturning the Barque of Gessler",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Fran%C3%A7ois-Andr%C3%A9_VINCENT_-_Guillaume_Tell_renversant_la_barque_sur_laquelle_le_gouverneur_Gessler_traversait_le_lac_de_Lucerne_-_Mus%C3%A9e_des_Augustins_-_2004_1_297.jpg/180px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/William_Tell_Overturning_the_Barque_of_Gessler",
+      "image_credit": "Fair-use identification thumbnail via Fandom. William Tell article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for William Tell Overturning the Barque of Gessler",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_Overturning_the_Barque_of_Gessler",
+        "fandom_title": "William Tell Overturning the Barque of Gessler",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "william-tell-told-again",
+      "name": "William Tell Told Again",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "william-tell",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e8/Philip_Dadd_-_P._G._Wodehouse_-_William_Tell_Told_Again_%28Cover%29.jpg/180px-Philip_Dadd_-_P._G._Wodehouse_-_William_Tell_Told_Again_%28Cover%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/William_Tell_Told_Again",
+      "image_credit": "Fair-use identification thumbnail via Fandom. William Tell article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for William Tell Told Again",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/William_Tell_Told_Again",
+        "fandom_title": "William Tell Told Again",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "chronicle-of-the-swiss-confederation",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "chronicon-helveticum",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "albrecht-gessler",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "kussnacht",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "konrad-baumgarten",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "william-tell-overture",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "shooting-an-apple-off-ones-childs-head",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "werner-stauffacher",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "stauffacherin",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "tell-city-indiana",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "tellskapelle",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "white-book-of-sarnen",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "adventures-of-william-tell",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-adventures-of-william-tell",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-apple-and-the-arrow",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bill-teds-excellent-adventures-1990-tv-series",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "crossbow-tv-series",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "guillaume-tell-gretry",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-legend-of-william-tell",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mountains-are-free",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mr-peabody",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "tell-monument",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "tellenlied",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "tengen-hero-wars",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "urner-tellspiel",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "william-tell-overturning-the-barque-of-gessler",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "william-tell-told-again",
+      "william-tell",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. William Tell article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:34:15.757Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

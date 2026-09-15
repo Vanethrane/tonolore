@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "godzilla-films",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films",
+        "fandom_title": "Godzilla films",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_figures",
+        "fandom_title": "Godzilla films figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_world_&_context",
+        "fandom_title": "Godzilla films world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_places",
+        "fandom_title": "Godzilla films places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_events",
+        "fandom_title": "Godzilla films events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_objects_&_artifacts",
+        "fandom_title": "Godzilla films objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_factions_&_groups",
+        "fandom_title": "Godzilla films factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_concepts",
+        "fandom_title": "Godzilla films concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_eras",
+        "fandom_title": "Godzilla films eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_works_&_media",
+        "fandom_title": "Godzilla films works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_symbols",
+        "fandom_title": "Godzilla films symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_controversies",
+        "fandom_title": "Godzilla films controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_geography",
+        "fandom_title": "Godzilla films geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_legacy",
+        "fandom_title": "Godzilla films legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_practices",
+        "fandom_title": "Godzilla films practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_1",
+        "fandom_title": "Godzilla films entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_2",
+        "fandom_title": "Godzilla films entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_3",
+        "fandom_title": "Godzilla films entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_4",
+        "fandom_title": "Godzilla films entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_5",
+        "fandom_title": "Godzilla films entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_6",
+        "fandom_title": "Godzilla films entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_7",
+        "fandom_title": "Godzilla films entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_8",
+        "fandom_title": "Godzilla films entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_9",
+        "fandom_title": "Godzilla films entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_10",
+        "fandom_title": "Godzilla films entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_11",
+        "fandom_title": "Godzilla films entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_12",
+        "fandom_title": "Godzilla films entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_13",
+        "fandom_title": "Godzilla films entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_14",
+        "fandom_title": "Godzilla films entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_15",
+        "fandom_title": "Godzilla films entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_16",
+        "fandom_title": "Godzilla films entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_17",
+        "fandom_title": "Godzilla films entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_18",
+        "fandom_title": "Godzilla films entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_19",
+        "fandom_title": "Godzilla films entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_20",
+        "fandom_title": "Godzilla films entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_21",
+        "fandom_title": "Godzilla films entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_22",
+        "fandom_title": "Godzilla films entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_23",
+        "fandom_title": "Godzilla films entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "godzilla-films-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Godzilla_films_entry_24",
+        "fandom_title": "Godzilla films entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Godzilla films article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:51:51.978Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "rifts-rpg",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts",
+        "fandom_title": "Rifts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_figures",
+        "fandom_title": "Rifts figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_world_&_context",
+        "fandom_title": "Rifts world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_places",
+        "fandom_title": "Rifts places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_events",
+        "fandom_title": "Rifts events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_objects_&_artifacts",
+        "fandom_title": "Rifts objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_factions_&_groups",
+        "fandom_title": "Rifts factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_concepts",
+        "fandom_title": "Rifts concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_eras",
+        "fandom_title": "Rifts eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_works_&_media",
+        "fandom_title": "Rifts works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_symbols",
+        "fandom_title": "Rifts symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_controversies",
+        "fandom_title": "Rifts controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_geography",
+        "fandom_title": "Rifts geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_legacy",
+        "fandom_title": "Rifts legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_practices",
+        "fandom_title": "Rifts practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_1",
+        "fandom_title": "Rifts entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_2",
+        "fandom_title": "Rifts entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_3",
+        "fandom_title": "Rifts entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_4",
+        "fandom_title": "Rifts entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_5",
+        "fandom_title": "Rifts entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_6",
+        "fandom_title": "Rifts entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_7",
+        "fandom_title": "Rifts entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_8",
+        "fandom_title": "Rifts entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_9",
+        "fandom_title": "Rifts entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_10",
+        "fandom_title": "Rifts entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_11",
+        "fandom_title": "Rifts entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_12",
+        "fandom_title": "Rifts entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_13",
+        "fandom_title": "Rifts entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_14",
+        "fandom_title": "Rifts entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_15",
+        "fandom_title": "Rifts entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_16",
+        "fandom_title": "Rifts entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_17",
+        "fandom_title": "Rifts entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_18",
+        "fandom_title": "Rifts entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_19",
+        "fandom_title": "Rifts entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_20",
+        "fandom_title": "Rifts entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_21",
+        "fandom_title": "Rifts entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_22",
+        "fandom_title": "Rifts entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_23",
+        "fandom_title": "Rifts entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rifts-rpg-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Rifts_entry_24",
+        "fandom_title": "Rifts entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Rifts article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T17:05:46.601Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

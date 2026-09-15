@@ -1,0 +1,502 @@
+{
+  "enrichments": [
+    {
+      "slug": "paul-bunyan",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan",
+        "fandom_title": "Paul Bunyan",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "Paul Bunyan is a giant lumberjack and folk hero in American and Canadian folklore. His tall tales revolve around his superhuman labors, and he is customarily accompanied by Babe the Blue Ox (), his pet and working animal. The character first appeared in print in 1893 but originated earlier in the oral tradition of North American loggers. He has been the subject of various literary compositions, musical pieces, commercial works, and theatrical productions.\n\nThere are many hypotheses about the etymology of the name Paul Bunyan. Much of the commentary focuses on a French-Canadian origin for the name. Phonetically, Bunyan is similar to the Québécois expression \"bon yenne!\" expressing surprise or astonishment. The English surname Bunyan is derived from the same root as \"bunion\" in the Old French bugne, referring to a large lump or swelling. Several researchers have attempted to trace Paul Bunyan to the character of Bon Jean of French Canadian folklore.\n\nMichael Edmonds states in his 2009 book Out of the Northwoods: The Many Lives of Paul Bunyan that Paul Bunyan stories circulated for at least thirty years before finding their way into print. In contrast to the lengthy narratives abundant in published material, Paul Bunyan \"stories\" when told in the lumbercamp bunkhouses were presented in short fragments. Parallels in early printings support the view that at least a handful of Bunyan stories hold a common origin in folklore.\n\nThe first known reference of Paul Bunyan in print appeared in the March 17, 1893, issue of Gladwin County Record. Under the local news section for the area of Beaverton, it reads, \"Paul Bunion [sic] is getting ready while the water is high to take his drive out.\"{{cite news |author=",
+      "short_description": "Paul Bunyan is a giant lumberjack and folk hero in American and Canadian folklore. His tall tales revolve around his superhuman labors, and he is customarily accompanied by Babe the Blue Ox (), his pet and working…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Paul_Bunyan_statue_in_Bangor%2C_Maine.jpg/180px-Paul_Bunyan_statue_in_Bangor%2C_Maine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Paul_Bunyan",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Paul Bunyan article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Paul Bunyan"
+    },
+    {
+      "slug": "paul-bunyan-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_figures",
+        "fandom_title": "Paul Bunyan figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_world_&_context",
+        "fandom_title": "Paul Bunyan world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_places",
+        "fandom_title": "Paul Bunyan places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_events",
+        "fandom_title": "Paul Bunyan events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_objects_&_artifacts",
+        "fandom_title": "Paul Bunyan objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_factions_&_groups",
+        "fandom_title": "Paul Bunyan factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_concepts",
+        "fandom_title": "Paul Bunyan concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_eras",
+        "fandom_title": "Paul Bunyan eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_works_&_media",
+        "fandom_title": "Paul Bunyan works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_symbols",
+        "fandom_title": "Paul Bunyan symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_controversies",
+        "fandom_title": "Paul Bunyan controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_geography",
+        "fandom_title": "Paul Bunyan geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_legacy",
+        "fandom_title": "Paul Bunyan legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_practices",
+        "fandom_title": "Paul Bunyan practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_1",
+        "fandom_title": "Paul Bunyan entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_2",
+        "fandom_title": "Paul Bunyan entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_3",
+        "fandom_title": "Paul Bunyan entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_4",
+        "fandom_title": "Paul Bunyan entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_5",
+        "fandom_title": "Paul Bunyan entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_6",
+        "fandom_title": "Paul Bunyan entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_7",
+        "fandom_title": "Paul Bunyan entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_8",
+        "fandom_title": "Paul Bunyan entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_9",
+        "fandom_title": "Paul Bunyan entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_10",
+        "fandom_title": "Paul Bunyan entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_11",
+        "fandom_title": "Paul Bunyan entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_12",
+        "fandom_title": "Paul Bunyan entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_13",
+        "fandom_title": "Paul Bunyan entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_14",
+        "fandom_title": "Paul Bunyan entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_15",
+        "fandom_title": "Paul Bunyan entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_16",
+        "fandom_title": "Paul Bunyan entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_17",
+        "fandom_title": "Paul Bunyan entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_18",
+        "fandom_title": "Paul Bunyan entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_19",
+        "fandom_title": "Paul Bunyan entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_20",
+        "fandom_title": "Paul Bunyan entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_21",
+        "fandom_title": "Paul Bunyan entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_22",
+        "fandom_title": "Paul Bunyan entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_23",
+        "fandom_title": "Paul Bunyan entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-bunyan-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul_Bunyan_entry_24",
+        "fandom_title": "Paul Bunyan entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Paul Bunyan article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:32:41.116Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

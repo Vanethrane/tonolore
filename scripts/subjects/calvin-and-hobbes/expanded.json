@@ -1,0 +1,219 @@
+{
+  "enrichments": [
+    {
+      "slug": "calvin-and-hobbes",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Calvin_and_Hobbes",
+        "fandom_title": "Calvin and Hobbes",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "calvin-and-hobbes-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Calvin_and_Hobbes_figures",
+        "fandom_title": "Calvin and Hobbes figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "calvin-and-hobbes-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Calvin_and_Hobbes_world_&_context",
+        "fandom_title": "Calvin and Hobbes world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "bill-watterson",
+      "name": "Bill Watterson",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "calvin-and-hobbes",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Lemon_Demon.jpg/180px-Lemon_Demon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Lemon_Demon",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Calvin and Hobbes article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Lemon Demon",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Lemon_Demon",
+        "fandom_title": "Lemon Demon",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dear-mr-watterson",
+      "name": "Dear Mr. Watterson",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "calvin-and-hobbes",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Dear_Mr._Watterson",
+        "fandom_title": "Dear Mr. Watterson",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "list-of-calvin-and-hobbes-characters",
+      "name": "List of Calvin and Hobbes characters",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "calvin-and-hobbes",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/List_of_Calvin_and_Hobbes_characters",
+        "fandom_title": "List of Calvin and Hobbes characters",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "calvin-novel",
+      "name": "Calvin",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "calvin-and-hobbes",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Calvin_(novel)",
+        "fandom_title": "Calvin (novel)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "teaching-with-calvin-and-hobbes",
+      "name": "Teaching with Calvin and Hobbes",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "calvin-and-hobbes",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Teaching_with_Calvin_and_Hobbes",
+        "fandom_title": "Teaching with Calvin and Hobbes",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "bill-watterson",
+      "calvin-and-hobbes",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "dear-mr-watterson",
+      "calvin-and-hobbes",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "list-of-calvin-and-hobbes-characters",
+      "calvin-and-hobbes",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "calvin-novel",
+      "calvin-and-hobbes",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "teaching-with-calvin-and-hobbes",
+      "calvin-and-hobbes",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Calvin and Hobbes article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:58:43.487Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

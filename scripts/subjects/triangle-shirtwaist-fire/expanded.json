@@ -1,0 +1,502 @@
+{
+  "enrichments": [
+    {
+      "slug": "triangle-shirtwaist-fire",
+      "description": "The Triangle Shirtwaist Factory fire occurred in the Greenwich Village neighborhood of Manhattan, a borough of New York City, on Saturday, March 25, 1911. The fire was the deadliest industrial disaster in the history of the city, and one of the deadliest in U.S. history. The fire caused the deaths of 146 garment workers—123 women and girls and 23 men—who died from either the fire, smoke inhalation, or falling or jumping to their deaths. Most of the victims were recent Italian and Jewish immigrants aged 14 to 23.\n\nThe factory was located on the 8th, 9th, and 10th floors of the Asch Building (later the Brown Building), which was built in 1901 and remains standing on the New York University (NYU) campus at 23–29 Washington Place, near Washington Square Park. The building has been designated a National Historic Landmark and a New York City landmark.\n\nBecause the doors to the stairwells and exits were locked—a common practice at the time to prevent workers from taking unauthorized breaks and to reduce theft The fire led to legislation requiring improved factory safety standards and helped spur the growth of the International Ladies' Garment Workers' Union (ILGWU), which fought for better working conditions for sweatshop workers.\n\nThe Triangle Waist Company factory occupied the 8th, 9th, and 10th floors of the 10-story Asch Building on the northwest corner of Greene Street and Washington Place, just east of Washington Square Park, in the Greenwich Village neighborhood of New York City. Under the ownership of Max Blanck and Isaac Harris, the factory produced women's blouses, known as \"shirtwaists\". The factory normally employed about 500 workers, mostly young Italian and Jewish immigrant women and girls, who worked nine hours a day on weekdays plus seven hours on Saturdays, earning for their 52 hours of work between $7 and $12 a week, The owners were said to have preferred hiring immigrant women over men because they would work for less and were less likely to unionize against them. Often, these women were poor and young, with little to no education and poor command of English.",
+      "short_description": "The Triangle Shirtwaist Factory fire occurred in the Greenwich Village neighborhood of Manhattan, a borough of New York City, on Saturday, March 25, 1911. The fire was the deadliest industrial disaster in the history of…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Image_of_Triangle_Shirtwaist_Factory_fire_on_March_25_-_1911.jpg/180px-Image_of_Triangle_Shirtwaist_Factory_fire_on_March_25_-_1911.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Triangle Shirtwaist Factory fire article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Triangle Shirtwaist Factory fire",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire",
+        "fandom_title": "Triangle Shirtwaist Factory fire",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_figures",
+        "fandom_title": "Triangle Shirtwaist Factory fire figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_world_&_context",
+        "fandom_title": "Triangle Shirtwaist Factory fire world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_places",
+        "fandom_title": "Triangle Shirtwaist Factory fire places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_events",
+        "fandom_title": "Triangle Shirtwaist Factory fire events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_objects_&_artifacts",
+        "fandom_title": "Triangle Shirtwaist Factory fire objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_factions_&_groups",
+        "fandom_title": "Triangle Shirtwaist Factory fire factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_concepts",
+        "fandom_title": "Triangle Shirtwaist Factory fire concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_eras",
+        "fandom_title": "Triangle Shirtwaist Factory fire eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_works_&_media",
+        "fandom_title": "Triangle Shirtwaist Factory fire works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_symbols",
+        "fandom_title": "Triangle Shirtwaist Factory fire symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_controversies",
+        "fandom_title": "Triangle Shirtwaist Factory fire controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_geography",
+        "fandom_title": "Triangle Shirtwaist Factory fire geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_legacy",
+        "fandom_title": "Triangle Shirtwaist Factory fire legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_practices",
+        "fandom_title": "Triangle Shirtwaist Factory fire practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_1",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_2",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_3",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_4",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_5",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_6",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_7",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_8",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_9",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_10",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_11",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_12",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_13",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_14",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_15",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_16",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_17",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_18",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_19",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_20",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_21",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_22",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_23",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "triangle-shirtwaist-fire-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire_entry_24",
+        "fandom_title": "Triangle Shirtwaist Factory fire entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Triangle Shirtwaist Factory fire article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:12:27.824Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

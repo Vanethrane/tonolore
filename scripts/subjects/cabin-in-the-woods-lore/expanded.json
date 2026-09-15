@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "cabin-in-the-woods-lore",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods",
+        "fandom_title": "The Cabin in the Woods",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_figures",
+        "fandom_title": "The Cabin in the Woods figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_world_&_context",
+        "fandom_title": "The Cabin in the Woods world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_places",
+        "fandom_title": "The Cabin in the Woods places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_events",
+        "fandom_title": "The Cabin in the Woods events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_objects_&_artifacts",
+        "fandom_title": "The Cabin in the Woods objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_factions_&_groups",
+        "fandom_title": "The Cabin in the Woods factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_concepts",
+        "fandom_title": "The Cabin in the Woods concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_eras",
+        "fandom_title": "The Cabin in the Woods eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_works_&_media",
+        "fandom_title": "The Cabin in the Woods works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_symbols",
+        "fandom_title": "The Cabin in the Woods symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_controversies",
+        "fandom_title": "The Cabin in the Woods controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_geography",
+        "fandom_title": "The Cabin in the Woods geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_legacy",
+        "fandom_title": "The Cabin in the Woods legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_practices",
+        "fandom_title": "The Cabin in the Woods practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_1",
+        "fandom_title": "The Cabin in the Woods entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_2",
+        "fandom_title": "The Cabin in the Woods entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_3",
+        "fandom_title": "The Cabin in the Woods entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_4",
+        "fandom_title": "The Cabin in the Woods entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_5",
+        "fandom_title": "The Cabin in the Woods entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_6",
+        "fandom_title": "The Cabin in the Woods entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_7",
+        "fandom_title": "The Cabin in the Woods entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_8",
+        "fandom_title": "The Cabin in the Woods entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_9",
+        "fandom_title": "The Cabin in the Woods entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_10",
+        "fandom_title": "The Cabin in the Woods entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_11",
+        "fandom_title": "The Cabin in the Woods entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_12",
+        "fandom_title": "The Cabin in the Woods entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_13",
+        "fandom_title": "The Cabin in the Woods entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_14",
+        "fandom_title": "The Cabin in the Woods entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_15",
+        "fandom_title": "The Cabin in the Woods entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_16",
+        "fandom_title": "The Cabin in the Woods entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_17",
+        "fandom_title": "The Cabin in the Woods entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_18",
+        "fandom_title": "The Cabin in the Woods entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_19",
+        "fandom_title": "The Cabin in the Woods entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_20",
+        "fandom_title": "The Cabin in the Woods entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_21",
+        "fandom_title": "The Cabin in the Woods entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_22",
+        "fandom_title": "The Cabin in the Woods entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_23",
+        "fandom_title": "The Cabin in the Woods entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cabin-in-the-woods-lore-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods_entry_24",
+        "fandom_title": "The Cabin in the Woods entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. The Cabin in the Woods article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:17:25.035Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

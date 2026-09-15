@@ -1,0 +1,628 @@
+{
+  "enrichments": [
+    {
+      "slug": "fairy-tail",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail",
+        "fandom_title": "Fairy Tail",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "Fairy Tail (stylized in all caps) is a Japanese manga series written and illustrated by Hiro Mashima. It was serialized in Kodansha's Weekly Shōnen Magazine from August 2006 to July 2017, with the individual chapters collected and published into 63 volumes. The story follows the adventures of Natsu Dragneel, a member of the popular wizards meaning is similar to certain Japanese words that have been borrowed by the English language, such as judo (the soft way) and kendo (the way of the sword). Madô is the way of magic, and madôshi are those who follow the way of magic. So although the word \"wizard\" is used in the original dialogue, a Japanese reader would be likely to think not of traditional Western wizards such as Merlin or Gandalf, but of martial artists.}} guild Fairy Tail, as he searches the fictional world of Earth-land for the dragon Igneel.\n\nThe manga has been adapted into an anime series by A-1 Pictures, Dentsu Inc., Satelight, Bridge, and CloverWorks which aired on TV Tokyo from October 2009 to March 2013. A second series aired from April 2014 to March 2016. A third and final aired from October 2018 to September 2019. The series has also inspired numerous spin-off manga, including a prequel by Mashima, Fairy Tail Zero, and a sequel storyboarded by him, titled Fairy Tail: 100 Years Quest.\n\nThe manga series was originally licensed for an English release in North America by Del Rey Manga, which began releasing the individual volumes in March 2008 and ended its licensing with the 12th volume release in September 2010. In December 2010, Kodansha USA took over the North American release of the series. The manga was also licensed in the United Kingdom by Turnaround Publisher Services, and in Australia by Penguin Books Australia.\n\nBy February 2020, the Fairy Tail manga had over 72 million copies in print, making it one of the best-selling manga series of all time.",
+      "short_description": "Fairy Tail (stylized in all caps) is a Japanese manga series written and illustrated by Hiro Mashima. It was serialized in Kodansha's Weekly Shōnen Magazine from August 2006 to July 2017, with the individual chapters…"
+    },
+    {
+      "slug": "fairy-tail-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_figures",
+        "fandom_title": "Fairy Tail figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_world_&_context",
+        "fandom_title": "Fairy Tail world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_places",
+        "fandom_title": "Fairy Tail places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_events",
+        "fandom_title": "Fairy Tail events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_objects_&_artifacts",
+        "fandom_title": "Fairy Tail objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_factions_&_groups",
+        "fandom_title": "Fairy Tail factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_concepts",
+        "fandom_title": "Fairy Tail concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_eras",
+        "fandom_title": "Fairy Tail eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_works_&_media",
+        "fandom_title": "Fairy Tail works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_symbols",
+        "fandom_title": "Fairy Tail symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_controversies",
+        "fandom_title": "Fairy Tail controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_geography",
+        "fandom_title": "Fairy Tail geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_legacy",
+        "fandom_title": "Fairy Tail legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_practices",
+        "fandom_title": "Fairy Tail practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_1",
+        "fandom_title": "Fairy Tail entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_2",
+        "fandom_title": "Fairy Tail entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_3",
+        "fandom_title": "Fairy Tail entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_4",
+        "fandom_title": "Fairy Tail entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_5",
+        "fandom_title": "Fairy Tail entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_6",
+        "fandom_title": "Fairy Tail entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_7",
+        "fandom_title": "Fairy Tail entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_8",
+        "fandom_title": "Fairy Tail entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_9",
+        "fandom_title": "Fairy Tail entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_10",
+        "fandom_title": "Fairy Tail entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_11",
+        "fandom_title": "Fairy Tail entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_12",
+        "fandom_title": "Fairy Tail entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_13",
+        "fandom_title": "Fairy Tail entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_14",
+        "fandom_title": "Fairy Tail entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_15",
+        "fandom_title": "Fairy Tail entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_16",
+        "fandom_title": "Fairy Tail entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_17",
+        "fandom_title": "Fairy Tail entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_18",
+        "fandom_title": "Fairy Tail entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_19",
+        "fandom_title": "Fairy Tail entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_20",
+        "fandom_title": "Fairy Tail entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_21",
+        "fandom_title": "Fairy Tail entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_22",
+        "fandom_title": "Fairy Tail entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_23",
+        "fandom_title": "Fairy Tail entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairy-tail-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairy_Tail_entry_24",
+        "fandom_title": "Fairy Tail entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucy-heartfilia",
+      "description": "Lucy Heartfilia (Japanese: ルーシィ・ハートフィリア, Hepburn: Rūshii Hātofiria) is a fictional character from Hiro Mashima's manga series Fairy Tail. Lucy first makes her debut in Fairy Tail chapter #1, \"The Fairy's Tail\", originally published in Japan's Weekly Shōnen Magazine on August 2, 2006, as a young wizard and aspiring novelist who joins the titular guild because of its popularity, despite its members' tendency to cause unintentional property damage. As a Celestial Wizard, Lucy uses magical objects known as Gatekeys to summon celestial spirits, beings from another world that possess various abilities, such as powerful zodiac spirits that she summons with rare golden keys. Lucy appears in most Fairy Tail media, including both feature films, all original video animations (OVAs), light novels and video games. She is voiced by Aya Hirano in Japanese, while Cherami Leigh voices her in the English dub.\n\nMashima stated that Lucy was designed with a serious personality and represents his artistic side. Lucy's character has received a mixed critical response. Journalists have praised some of her fight scenes and have regarded her as sympathetic, but they have found her early series development lacking and have generally criticized her relationship with the celestial spirits. Lucy has placed high in popularity polls, and many different pieces of merchandise related to her have been released, such as action figures.",
+      "short_description": "Lucy Heartfilia (Japanese: ルーシィ・ハートフィリア, Hepburn: Rūshii Hātofiria) is a fictional character from Hiro Mashima's manga series Fairy Tail. Lucy first makes her debut in Fairy Tail chapter #1, \"The Fairy's Tail\",…"
+    }
+  ],
+  "entities": [
+    {
+      "slug": "natsu-dragneel",
+      "name": "Natsu Dragneel",
+      "type": "person",
+      "description": "Mashima has considered Natsu to be among his favorite characters, and claimed that he based him on his own characteristics. Reviewers have largely praised Natsu's character, noting his action-packed combat scenes and upbeat demeanor throughout the series. His motion sickness has also been well-received as a humorous element within the story. Natsu has placed high in popularity polls, and many different pieces of merchandise related to him, such as action figures, have been released.\n\nDuring the making of the series Rave Master, manga author Hiro Mashima considered the protagonist Haru Glory as the \"angsty hard-working type\". As a result, when writing Fairy Tail, Mashima made the new lead Natsu to be calmer than Haru. Natsu Dragneel was one of the first characters Hiro Mashima created during the development of Fairy Tail. He was conceptualized as a fire-using member of a courier guild who would suffer from motion sickness, a character trait the author based on one of his friends. Mashima implemented Natsu's motion sickness into the final version of the character, believing that this and his pink hair make the character unique. Mashima cited his own personality as a junior high school student as the inspiration for Natsu's personality, Natsu's concept evolved in a one-shot short story titled Fairy Tale, where he is depicted as a spirit with horns. The author mentioned that Natsu had been designed to give the best of himself when it comes to everything. Mashima regarded Natsu's development throughout the story as great and stated that the series could easily progress because of it. The author also commented that Natsu is his favorite character.\n\nMashima named Natsu after the Japanese word for to avoid using Western fantasy names that would sound unfamiliar to the Japanese audience, Mashima also said that the names of both characters highlight their personality traits, with Natsu being \"a fiery guy\" as opposed to the \"warm\" Haru.\n\nNatsu's age is left ambiguous throughout the series, with the character's age listed as \"unknown\" on the cover of chapter 23. A scene occurs during chapter 108 in which he is trapped behind a runic blockade designed to prevent those over the age of 80 from crossing; as a response to questions about the scene, which were submitted by readers for the \"Emergency Request! Explain the Mysteries of Fairy Tail\" section of the manga's volume 15 release, it is asserted that the character's age is actually not over 80, and that \"beyond that would be revealing an important plot point\".",
+      "short_description": "Mashima has considered Natsu to be among his favorite characters, and claimed that he based him on his own characteristics. Reviewers have largely praised Natsu's character, noting his action-packed combat scenes and…",
+      "evidence": "fiction",
+      "parentSlug": "fairy-tail-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Natsu_Dragneel",
+        "fandom_title": "Natsu Dragneel",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "happy-manga-character",
+      "name": "Happy",
+      "type": "person",
+      "description": "Happy has made appearances in various media related to Fairy Tail, including an anime adaptation, feature films, original video animations (OVAs), light novels, and video games. He is voiced by Rie Kugimiya in Japanese media, while Tia Ballard voices him in the English anime dub.\n\nFollowing the completion of Rave Master, Hiro Mashima's initial idea for Happy was to create a \"very chatty\" mascot character that would contrast with Plue, Rave Masters mascot, whom he had difficulty with writing as Plue did not speak. In the pre-production stage of Fairy Tail, Mashima drew an illustration depicting two cat-like creatures resembling Happy with bird-like feet and feathered wings for arms. Mashima initially named the character after the Norse god Freyr, which he felt was \"too much\" for the character and changed to something \"more suitable\". When asked about the creation of his characters, Mashima replied that each character embodies a part of his own personality, with Happy representing how he acts when slacking off, later stating that Happy was based on his fondness of cats. Mashima also mentioned that Natsu and Happy's midair battle against Cobra was \"something [he] always wanted to do\", commenting that it was the first time Happy had been directly involved in one of the series' battle scenes.\n\nRegarding the anime adaptation of Fairy Tail, Mashima commented that he enjoyed seeing Natsu and Happy \"move around\", stating, \"There's a limit to the effects I can draw regarding the depiction of the magic in the manga, so seeing that in the anime is so much fun, and it looks very beautiful onscreen. It made me realize how fun my characters are when I saw them moving around.\" He considers Happy to have the best portrayal in the anime out of all the manga's characters. Happy is voiced by Rie Kugimiya in Japanese media and by Tia Ballard in the English dub.\n\nWhile developing Edens Zero, Mashima decided to reuse Happy as a stand-in for the series' primary mascot character, E.M. Pino, who was originally intended to debut in the manga's first chapter until further development led Mashima to delay her appearance. Before settling on Happy, Mashima drew various concepts of different animal characters, which he described as a futile attempt as he felt the character was bound to become Happy. This iteration of the character has a black-tipped tail, as opposed to a white-tipped one in Fairy Tail, and wears a collar with a heart-marked \"\" instead of a green satchel. Kugimiya and Ballard reprise the role in Japanese and English media, respectively.",
+      "short_description": "Happy has made appearances in various media related to Fairy Tail, including an anime adaptation, feature films, original video animations (OVAs), light novels, and video games. He is voiced by Rie Kugimiya in Japanese…",
+      "evidence": "fiction",
+      "parentSlug": "fairy-tail-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Happy_(manga_character)",
+        "fandom_title": "Happy (manga character)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucy-heartfilia",
+      "name": "Lucy Heartfilia",
+      "type": "person",
+      "description": "Lucy Heartfilia (Japanese: ルーシィ・ハートフィリア, Hepburn: Rūshii Hātofiria) is a fictional character from Hiro Mashima's manga series Fairy Tail. Lucy first makes her debut in Fairy Tail chapter #1, \"The Fairy's Tail\", originally published in Japan's Weekly Shōnen Magazine on August 2, 2006, as a young wizard and aspiring novelist who joins the titular guild because of its popularity, despite its members' tendency to cause unintentional property damage. As a Celestial Wizard, Lucy uses magical objects known as Gatekeys to summon celestial spirits, beings from another world that possess various abilities, such as powerful zodiac spirits that she summons with rare golden keys. Lucy appears in most Fairy Tail media, including both feature films, all original video animations (OVAs), light novels and video games. She is voiced by Aya Hirano in Japanese, while Cherami Leigh voices her in the English dub.\n\nMashima stated that Lucy was designed with a serious personality and represents his artistic side. Lucy's character has received a mixed critical response. Journalists have praised some of her fight scenes and have regarded her as sympathetic, but they have found her early series development lacking and have generally criticized her relationship with the celestial spirits. Lucy has placed high in popularity polls, and many different pieces of merchandise related to her have been released, such as action figures.",
+      "evidence": "fiction",
+      "parentSlug": "fairy-tail-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucy_Heartfilia",
+        "fandom_title": "Lucy Heartfilia",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": "Lucy Heartfilia (Japanese: ルーシィ・ハートフィリア, Hepburn: Rūshii Hātofiria) is a fictional character from Hiro Mashima's manga series Fairy Tail. Lucy first makes her debut in Fairy Tail chapter #1, \"The Fairy's Tail\",…"
+    },
+    {
+      "slug": "list-of-fairy-tail-characters",
+      "name": "List of Fairy Tail characters",
+      "type": "person",
+      "description": "The Fairy Tail manga and anime series features an extensive cast of characters created by Hiro Mashima. The series takes place primarily in the Kingdom of Fiore, a country in the fictional universe Earth-land, where several of its residents perform various forms of magic. Those who practice magic as a profession, referred to as , join guilds where they share information and do paid jobs for clients. The series' storyline follows a group of wizards from the rambunctious titular guild.\n\nThe main protagonists are Natsu Dragneel, a longtime Fairy Tail wizard with the powers of a dragon, and Lucy Heartfilia, a celestial wizard who joins the guild at the series' outset. In the early part of the series, they form a team including: Happy, a flying cat and best friend of Natsu; Gray Fullbuster, an ice wizard; and Erza Scarlet, a knight who specializes in using various magic weapons and armors. Throughout the series, Natsu and Lucy interact with and befriend other wizards and guilds in Fiore. They also encounter various antagonists from illegal \"dark\" guilds, and Zeref, an ancient wizard who is the series' main antagonist.\n\nWhen creating the series, Mashima was influenced by Akira Toriyama, J.R.R. Tolkien and Yudetamago and based the guild on a local bar. He also used people as references in designing other characters. The characters have been well-received overall.\n\nWhen Hiro Mashima was creating Fairy Tail, he cited Akira Toriyama, J. R. R. Tolkien, and Yudetamago as influences on his work. He based the titular guild on a local bar he was visiting at the time. He based Natsu Dragneel on his early years as a junior high school student. Natsu's motion sickness is based on one of his friends, who gets sick when they take taxis together. He has said that his father's death influenced the relationship between Natsu and the dragon Igneel.",
+      "short_description": "The Fairy Tail manga and anime series features an extensive cast of characters created by Hiro Mashima. The series takes place primarily in the Kingdom of Fiore, a country in the fictional universe Earth-land, where…",
+      "evidence": "fiction",
+      "parentSlug": "fairy-tail-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/List_of_Fairy_Tail_characters",
+        "fandom_title": "List of Fairy Tail characters",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "natsu-dragneel",
+      "fairy-tail-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "happy-manga-character",
+      "fairy-tail-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lucy-heartfilia",
+      "fairy-tail-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "list-of-fairy-tail-characters",
+      "fairy-tail-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Fairy Tail article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:30:04.494Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 1,
+    "fandom_enriched_core": 0,
+    "fandom_created": 1,
+    "fandom_images": 0,
+    "fandom_intros": 1,
+    "description_ensure_at": "2026-09-14T11:11:21.557Z",
+    "description_ensure_count": 1
+  }
+}

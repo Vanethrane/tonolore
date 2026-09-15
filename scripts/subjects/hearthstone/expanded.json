@@ -1,0 +1,2045 @@
+{
+  "enrichments": [
+    {
+      "slug": "hearthstone",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone",
+        "fandom_title": "Hearthstone",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "Hearthstone is a 2014 free-to-play digital collectible card video game produced by Blizzard Entertainment. Originally subtitled Heroes of Warcraft, Hearthstone builds upon the existing lore of the Warcraft series by using the same elements, characters, and relics. The game is available on the Windows, macOS, iOS and Android platforms, featuring cross-platform play. It has been a critical and commercial success, with Blizzard reporting more than 100 million Hearthstone players as of November 2018, and the game has become popular as an esport, with cash prize tournaments hosted by Blizzard and other organizers.\n\nThe game is a turn-based card game between two opponents, using constructed decks of 30 cards along with a selected hero with a unique power. Players use their limited mana crystals to play abilities or summon minions to attack the opponent, with the goal of destroying the opponent's hero. Winning matches and completing quests earn in-game gold, rewards in the form of new cards, and other in-game prizes. Players can then buy packs of new cards through gold or microtransactions to customize and improve their decks. The game features several modes of play, including casual and ranked matches, drafted arena battles, and single-player adventures. New content for the game involves the addition of new card sets and gameplay, taking the form of expansion packs.\n\nIn contrast to other games developed by Blizzard, Hearthstone was an experimental game developed by a smaller team based on the appreciation of collectible card games at the company. The game was designed to avoid the pitfalls of other digital collectible card games by eliminating any possible plays from an opponent during a player's turn and by replicating the feel of a physical card game within the game's user interface. Many of the concepts as well as art assets were based on those previously published in the physical World of Warcraft Trading Card Game.\n\nSet within the Warcraft universe, Hearthstone is a digital-only, turn-based collectible card game which pits two opponents against each other. Players select a hero from one of eleven classes. All classes have unique cards and abilities, known as hero powers, which help define class archetypes. Each player uses a deck of cards from their collection with the end goal being to reduce the opponent's health to zero.",
+      "short_description": "Hearthstone is a 2014 free-to-play digital collectible card video game produced by Blizzard Entertainment. Originally subtitled Heroes of Warcraft, Hearthstone builds upon the existing lore of the Warcraft series by…"
+    },
+    {
+      "slug": "hearthstone-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_figures",
+        "fandom_title": "Hearthstone figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_world_&_context",
+        "fandom_title": "Hearthstone world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_places",
+        "fandom_title": "Hearthstone places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_events",
+        "fandom_title": "Hearthstone events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_objects_&_artifacts",
+        "fandom_title": "Hearthstone objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_factions_&_groups",
+        "fandom_title": "Hearthstone factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_concepts",
+        "fandom_title": "Hearthstone concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_eras",
+        "fandom_title": "Hearthstone eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_works_&_media",
+        "fandom_title": "Hearthstone works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_symbols",
+        "fandom_title": "Hearthstone symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_controversies",
+        "fandom_title": "Hearthstone controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_geography",
+        "fandom_title": "Hearthstone geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_legacy",
+        "fandom_title": "Hearthstone legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_practices",
+        "fandom_title": "Hearthstone practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_1",
+        "fandom_title": "Hearthstone entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_2",
+        "fandom_title": "Hearthstone entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_3",
+        "fandom_title": "Hearthstone entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_4",
+        "fandom_title": "Hearthstone entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_5",
+        "fandom_title": "Hearthstone entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_6",
+        "fandom_title": "Hearthstone entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_7",
+        "fandom_title": "Hearthstone entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_8",
+        "fandom_title": "Hearthstone entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_9",
+        "fandom_title": "Hearthstone entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_10",
+        "fandom_title": "Hearthstone entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_11",
+        "fandom_title": "Hearthstone entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_12",
+        "fandom_title": "Hearthstone entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_13",
+        "fandom_title": "Hearthstone entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_14",
+        "fandom_title": "Hearthstone entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_15",
+        "fandom_title": "Hearthstone entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_16",
+        "fandom_title": "Hearthstone entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_17",
+        "fandom_title": "Hearthstone entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_18",
+        "fandom_title": "Hearthstone entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_19",
+        "fandom_title": "Hearthstone entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_20",
+        "fandom_title": "Hearthstone entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_21",
+        "fandom_title": "Hearthstone entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_22",
+        "fandom_title": "Hearthstone entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_23",
+        "fandom_title": "Hearthstone entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_entry_24",
+        "fandom_title": "Hearthstone entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "hearthstone-expansions",
+      "name": "Hearthstone expansions",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_expansions",
+        "fandom_title": "Hearthstone expansions",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hearthstone-in-esports",
+      "name": "Hearthstone in esports",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Gamescom_2015_-_Hearthstone_tournament.jpg/180px-Gamescom_2015_-_Hearthstone_tournament.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Hearthstone_in_esports",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Hearthstone article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Hearthstone in esports",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Hearthstone_in_esports",
+        "fandom_title": "Hearthstone in esports",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blitzchung-controversy",
+      "name": "Blitzchung controversy",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Blitzchung%2C_player_banned_by_Blizzard.jpg/180px-Blitzchung%2C_player_banned_by_Blizzard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Blitzchung_controversy",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Hearthstone article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Blitzchung controversy",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Blitzchung_controversy",
+        "fandom_title": "Blitzchung controversy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-series-of-video-games",
+      "name": "World Series of Video Games",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/World_Series_of_Video_Games",
+        "fandom_title": "World Series of Video Games",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "amaz-gamer",
+      "name": "Amaz",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Amaz_(gamer)",
+        "fandom_title": "Amaz (gamer)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "artosis",
+      "name": "Artosis",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Artosis_at_2012_GSL_Season_5_Finals_-_06_%28cropped%29.jpg/180px-Artosis_at_2012_GSL_Season_5_Finals_-_06_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Artosis",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Hearthstone article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Artosis",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Artosis",
+        "fandom_title": "Artosis",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pavel-beltiukov",
+      "name": "Pavel Beltiukov",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Pavel_at_mini_golf_02.jpg/180px-Pavel_at_mini_golf_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Pavel_Beltiukov",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Hearthstone article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Pavel Beltiukov",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Pavel_Beltiukov",
+        "fandom_title": "Pavel Beltiukov",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stanislav-cifka",
+      "name": "Stanislav Cifka",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Stanislav_Cifka%2C_Throne_of_Cards_IV_2017.jpg/180px-Stanislav_Cifka%2C_Throne_of_Cards_IV_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Stanislav_Cifka",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Hearthstone article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Stanislav Cifka",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Stanislav_Cifka",
+        "fandom_title": "Stanislav Cifka",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "disguised-toast",
+      "name": "Disguised Toast",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Disguised_Toast_2021.jpg/180px-Disguised_Toast_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Disguised_Toast",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Hearthstone article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Disguised Toast",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Disguised_Toast",
+        "fandom_title": "Disguised Toast",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elky",
+      "name": "ElkY",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Bertrand_Grospellier_2020.jpg/180px-Bertrand_Grospellier_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/ElkY",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Hearthstone article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for ElkY",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/ElkY",
+        "fandom_title": "ElkY",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "forsen",
+      "name": "Forsen",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Forsen",
+        "fandom_title": "Forsen",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hafu-gamer",
+      "name": "Hafu",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Hafu2018.jpg/180px-Hafu2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Hafu_(gamer)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Hearthstone article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Hafu (gamer)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Hafu_(gamer)",
+        "fandom_title": "Hafu (gamer)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brian-kibler",
+      "name": "Brian Kibler",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Brian_Kibler_2018.jpg/180px-Brian_Kibler_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Brian_Kibler",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Hearthstone article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Brian Kibler",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Brian_Kibler",
+        "fandom_title": "Brian Kibler",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kolento",
+      "name": "Kolento",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Kolento_at_G2_Class_Legends_Hearthstone_Invitational.jpg/180px-Kolento_at_G2_Class_Legends_Hearthstone_Invitational.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Kolento",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Hearthstone article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Kolento",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Kolento",
+        "fandom_title": "Kolento",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kripparrian",
+      "name": "Kripparrian",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Kripparrian_interview_at_DreamHack_Bucharest_2015.jpg/180px-Kripparrian_interview_at_DreamHack_Bucharest_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Kripparrian",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Hearthstone article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Kripparrian",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Kripparrian",
+        "fandom_title": "Kripparrian",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "liooon",
+      "name": "Liooon",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Liooon",
+        "fandom_title": "Liooon",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "reckful",
+      "name": "Reckful",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Reckful",
+        "fandom_title": "Reckful",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tempo-storm",
+      "name": "Tempo Storm",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Tempo_Storm",
+        "fandom_title": "Tempo Storm",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "trump-gamer",
+      "name": "Trump",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Trump_(gamer)",
+        "fandom_title": "Trump (gamer)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "team-coast-esports",
+      "name": "Team Coast",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Team_Coast_(esports)",
+        "fandom_title": "Team Coast (esports)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cloud9",
+      "name": "Cloud9",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Cloud9_logo_c._2023.svg/180px-Cloud9_logo_c._2023.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Cloud9",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Hearthstone article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Cloud9",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cloud9",
+        "fandom_title": "Cloud9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "complexity-gaming",
+      "name": "Complexity Gaming",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Complexity_Gaming",
+        "fandom_title": "Complexity Gaming",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dark-passage-esports",
+      "name": "Dark Passage",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Dark_Passage_(esports)",
+        "fandom_title": "Dark Passage (esports)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "detonation-focusme",
+      "name": "DetonatioN FocusMe",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/DetonatioN_FocusMe",
+        "fandom_title": "DetonatioN FocusMe",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dignitas-esports",
+      "name": "Dignitas",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Dignitas_(esports)",
+        "fandom_title": "Dignitas (esports)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "edward-gaming",
+      "name": "Edward Gaming",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Edward_Gaming_logo.png/180px-Edward_Gaming_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Edward_Gaming",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Hearthstone article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Edward Gaming",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Edward_Gaming",
+        "fandom_title": "Edward Gaming",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "excel-esports",
+      "name": "Excel Esports",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Excel_Esports",
+        "fandom_title": "Excel Esports",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "flash-wolves",
+      "name": "Flash Wolves",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Flash_Wolves",
+        "fandom_title": "Flash Wolves",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "g2-esports",
+      "name": "G2 Esports",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/G2_Esports",
+        "fandom_title": "G2 Esports",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "invictus-gaming",
+      "name": "Invictus Gaming",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Invictus_Gaming",
+        "fandom_title": "Invictus Gaming",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "team-liquid",
+      "name": "Team Liquid",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Team_Liquid",
+        "fandom_title": "Team Liquid",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "luminosity-gaming",
+      "name": "Luminosity Gaming",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Luminosity_Gaming",
+        "fandom_title": "Luminosity Gaming",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "newbee",
+      "name": "Newbee",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Newbee",
+        "fandom_title": "Newbee",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sk-gaming",
+      "name": "SK Gaming",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/4d/SK_Gaming_logo.svg/180px-SK_Gaming_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/SK_Gaming",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Hearthstone article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for SK Gaming",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/SK_Gaming",
+        "fandom_title": "SK Gaming",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "team-flash",
+      "name": "Team Flash",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Team_Flash",
+        "fandom_title": "Team Flash",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "team-spirit-esports",
+      "name": "Team Spirit",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Team_Spirit_new_em.svg/180px-Team_Spirit_new_em.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Team_Spirit_(esports)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Hearthstone article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Team Spirit (esports)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Team_Spirit_(esports)",
+        "fandom_title": "Team Spirit (esports)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "team-vitality",
+      "name": "Team Vitality",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Team_Vitality",
+        "fandom_title": "Team Vitality",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "team-we",
+      "name": "Team WE",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Team_WE",
+        "fandom_title": "Team WE",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tsm-esports",
+      "name": "TSM",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/TSM_Logo.svg/180px-TSM_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/TSM_(esports)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Hearthstone article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for TSM (esports)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/TSM_(esports)",
+        "fandom_title": "TSM (esports)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "vici-gaming",
+      "name": "Vici Gaming",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Vici_Gaming",
+        "fandom_title": "Vici Gaming",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "copenhagen-wolves",
+      "name": "Copenhagen Wolves",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Copenhagen_Wolves",
+        "fandom_title": "Copenhagen Wolves",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ence-esports",
+      "name": "Ence",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ence_(esports)",
+        "fandom_title": "Ence (esports)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fnatic",
+      "name": "Fnatic",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/43/Esports_organization_Fnatic_logo.svg/180px-Esports_organization_Fnatic_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Fnatic",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Hearthstone article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Fnatic",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Fnatic",
+        "fandom_title": "Fnatic",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "h2k-gaming",
+      "name": "H2k-Gaming",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/H2k-Gaming",
+        "fandom_title": "H2k-Gaming",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meetyourmakers",
+      "name": "MeetYourMakers",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/MeetYourMakers",
+        "fandom_title": "MeetYourMakers",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "natus-vincere",
+      "name": "Natus Vincere",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/NAVI-Logo.svg/180px-NAVI-Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Natus_Vincere",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Hearthstone article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Natus Vincere",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Natus_Vincere",
+        "fandom_title": "Natus Vincere",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "splyce",
+      "name": "Splyce",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Splyce",
+        "fandom_title": "Splyce",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "team-curse",
+      "name": "Team Curse",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "hearthstone",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Team_Curse",
+        "fandom_title": "Team Curse",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "hearthstone-expansions",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "hearthstone-in-esports",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "blitzchung-controversy",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "world-series-of-video-games",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "amaz-gamer",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "artosis",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "pavel-beltiukov",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "stanislav-cifka",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "disguised-toast",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "elky",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "forsen",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "hafu-gamer",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "brian-kibler",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "kolento",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "kripparrian",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "liooon",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "reckful",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "tempo-storm",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "trump-gamer",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "team-coast-esports",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cloud9",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "complexity-gaming",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "dark-passage-esports",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "detonation-focusme",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "dignitas-esports",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "edward-gaming",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "excel-esports",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "flash-wolves",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "g2-esports",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "invictus-gaming",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "team-liquid",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "luminosity-gaming",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "newbee",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "sk-gaming",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "team-flash",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "team-spirit-esports",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "team-vitality",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "team-we",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "tsm-esports",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "vici-gaming",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "copenhagen-wolves",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ence-esports",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "fnatic",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "h2k-gaming",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "meetyourmakers",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "natus-vincere",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "splyce",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "team-curse",
+      "hearthstone",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Hearthstone article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T17:07:20.555Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "fortnite",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite",
+        "fandom_title": "Fortnite",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_figures",
+        "fandom_title": "Fortnite figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_world_&_context",
+        "fandom_title": "Fortnite world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_places",
+        "fandom_title": "Fortnite places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_events",
+        "fandom_title": "Fortnite events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_objects_&_artifacts",
+        "fandom_title": "Fortnite objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_factions_&_groups",
+        "fandom_title": "Fortnite factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_concepts",
+        "fandom_title": "Fortnite concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_eras",
+        "fandom_title": "Fortnite eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_works_&_media",
+        "fandom_title": "Fortnite works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_symbols",
+        "fandom_title": "Fortnite symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_controversies",
+        "fandom_title": "Fortnite controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_geography",
+        "fandom_title": "Fortnite geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_legacy",
+        "fandom_title": "Fortnite legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_practices",
+        "fandom_title": "Fortnite practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_1",
+        "fandom_title": "Fortnite entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_2",
+        "fandom_title": "Fortnite entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_3",
+        "fandom_title": "Fortnite entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_4",
+        "fandom_title": "Fortnite entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_5",
+        "fandom_title": "Fortnite entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_6",
+        "fandom_title": "Fortnite entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_7",
+        "fandom_title": "Fortnite entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_8",
+        "fandom_title": "Fortnite entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_9",
+        "fandom_title": "Fortnite entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_10",
+        "fandom_title": "Fortnite entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_11",
+        "fandom_title": "Fortnite entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_12",
+        "fandom_title": "Fortnite entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_13",
+        "fandom_title": "Fortnite entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_14",
+        "fandom_title": "Fortnite entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_15",
+        "fandom_title": "Fortnite entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_16",
+        "fandom_title": "Fortnite entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_17",
+        "fandom_title": "Fortnite entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_18",
+        "fandom_title": "Fortnite entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_19",
+        "fandom_title": "Fortnite entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_20",
+        "fandom_title": "Fortnite entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_21",
+        "fandom_title": "Fortnite entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_22",
+        "fandom_title": "Fortnite entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_23",
+        "fandom_title": "Fortnite entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fortnite-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fortnite_entry_24",
+        "fandom_title": "Fortnite entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Fortnite article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:39:08.289Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

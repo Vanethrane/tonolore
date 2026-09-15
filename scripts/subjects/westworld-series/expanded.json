@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "westworld-series",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld",
+        "fandom_title": "Westworld",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_figures",
+        "fandom_title": "Westworld figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_world_&_context",
+        "fandom_title": "Westworld world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_places",
+        "fandom_title": "Westworld places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_events",
+        "fandom_title": "Westworld events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_objects_&_artifacts",
+        "fandom_title": "Westworld objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_factions_&_groups",
+        "fandom_title": "Westworld factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_concepts",
+        "fandom_title": "Westworld concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_eras",
+        "fandom_title": "Westworld eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_works_&_media",
+        "fandom_title": "Westworld works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_symbols",
+        "fandom_title": "Westworld symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_controversies",
+        "fandom_title": "Westworld controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_geography",
+        "fandom_title": "Westworld geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_legacy",
+        "fandom_title": "Westworld legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_practices",
+        "fandom_title": "Westworld practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_1",
+        "fandom_title": "Westworld entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_2",
+        "fandom_title": "Westworld entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_3",
+        "fandom_title": "Westworld entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_4",
+        "fandom_title": "Westworld entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_5",
+        "fandom_title": "Westworld entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_6",
+        "fandom_title": "Westworld entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_7",
+        "fandom_title": "Westworld entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_8",
+        "fandom_title": "Westworld entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_9",
+        "fandom_title": "Westworld entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_10",
+        "fandom_title": "Westworld entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_11",
+        "fandom_title": "Westworld entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_12",
+        "fandom_title": "Westworld entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_13",
+        "fandom_title": "Westworld entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_14",
+        "fandom_title": "Westworld entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_15",
+        "fandom_title": "Westworld entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_16",
+        "fandom_title": "Westworld entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_17",
+        "fandom_title": "Westworld entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_18",
+        "fandom_title": "Westworld entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_19",
+        "fandom_title": "Westworld entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_20",
+        "fandom_title": "Westworld entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_21",
+        "fandom_title": "Westworld entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_22",
+        "fandom_title": "Westworld entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_23",
+        "fandom_title": "Westworld entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "westworld-series-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Westworld_entry_24",
+        "fandom_title": "Westworld entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Westworld article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:28:41.739Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

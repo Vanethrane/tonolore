@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "spanish-civil-war",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War",
+        "fandom_title": "Spanish Civil War",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_figures",
+        "fandom_title": "Spanish Civil War figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_world_&_context",
+        "fandom_title": "Spanish Civil War world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_places",
+        "fandom_title": "Spanish Civil War places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_events",
+        "fandom_title": "Spanish Civil War events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_objects_&_artifacts",
+        "fandom_title": "Spanish Civil War objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_factions_&_groups",
+        "fandom_title": "Spanish Civil War factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_concepts",
+        "fandom_title": "Spanish Civil War concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_eras",
+        "fandom_title": "Spanish Civil War eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_works_&_media",
+        "fandom_title": "Spanish Civil War works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_symbols",
+        "fandom_title": "Spanish Civil War symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_controversies",
+        "fandom_title": "Spanish Civil War controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_geography",
+        "fandom_title": "Spanish Civil War geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_legacy",
+        "fandom_title": "Spanish Civil War legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_practices",
+        "fandom_title": "Spanish Civil War practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_1",
+        "fandom_title": "Spanish Civil War entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_2",
+        "fandom_title": "Spanish Civil War entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_3",
+        "fandom_title": "Spanish Civil War entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_4",
+        "fandom_title": "Spanish Civil War entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_5",
+        "fandom_title": "Spanish Civil War entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_6",
+        "fandom_title": "Spanish Civil War entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_7",
+        "fandom_title": "Spanish Civil War entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_8",
+        "fandom_title": "Spanish Civil War entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_9",
+        "fandom_title": "Spanish Civil War entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_10",
+        "fandom_title": "Spanish Civil War entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_11",
+        "fandom_title": "Spanish Civil War entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_12",
+        "fandom_title": "Spanish Civil War entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_13",
+        "fandom_title": "Spanish Civil War entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_14",
+        "fandom_title": "Spanish Civil War entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_15",
+        "fandom_title": "Spanish Civil War entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_16",
+        "fandom_title": "Spanish Civil War entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_17",
+        "fandom_title": "Spanish Civil War entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_18",
+        "fandom_title": "Spanish Civil War entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_19",
+        "fandom_title": "Spanish Civil War entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_20",
+        "fandom_title": "Spanish Civil War entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_21",
+        "fandom_title": "Spanish Civil War entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_22",
+        "fandom_title": "Spanish Civil War entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_23",
+        "fandom_title": "Spanish Civil War entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spanish-civil-war-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spanish_Civil_War_entry_24",
+        "fandom_title": "Spanish Civil War entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Spanish Civil War article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:11:58.109Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

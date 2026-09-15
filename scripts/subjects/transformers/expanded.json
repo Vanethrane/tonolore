@@ -1476,25 +1476,25 @@
       "slug": "ark-crew",
       "name": "Ark Crew",
       "type": "person",
-      "description": "The Ark Crew is a group of Autobots who manned the Ark led by none other than the Autobot leader, Optimus Prime.\n\nDuring the Great Exodus, Optimus Prime have rallied all remaining pockets of Autobots left on Cybertron and ordered them to build the Ark which will allow them to leave their dying world and search for a new home to live.\n\nAfter departing Cybertron, the Ark was under attack by The Nemesis which broke out into a space naval battle. Many crew members of the Ark were killed, wounded or went overboard in the intense fight.\n\nWhen the black hole sucked the Ark and the Nemesis in, the two ships were sent to different locations and started searching for the Allspark. Some time later, a small group from the crew managed to make their way to Earth . The fate of the rest of the crew is unknown so far.",
+      "description": "The Ark Crew is a group of Autobots led by Optimus Prime to evacuate from the dying Cybertron.\n\nCategory:Factions Category:Autobots Category:Cybertronian Category:Ships",
       "short_description": "The Ark Crew is a group of Autobots who manned the Ark led by none other than the Autobot leader, Optimus Prime.",
       "evidence": "fiction",
       "parentSlug": "autobots",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/transformers/images/3/39/Ark-FoC.png/revision/latest/scale-to-width-down/360?cb=20190726171936",
-      "image_source": "https://transformers.fandom.com/wiki/Ark_Crew",
+      "image_url": "https://static.wikia.nocookie.net/transformers/images/6/6d/Ark_Blueprints.jpg/revision/latest/scale-to-width-down/180?cb=20240210113600",
+      "image_source": "https://transformers.fandom.com/wiki/Ark_Crew_(WFC_Trilogy)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hasbro / Takara Tomy (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Ark Crew",
+      "image_alt": "Identification thumbnail for Ark Crew (WFC Trilogy)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
         "kind": "character",
-        "fandom_url": "https://transformers.fandom.com/wiki/Ark_Crew",
-        "fandom_title": "Ark Crew",
+        "fandom_url": "https://transformers.fandom.com/wiki/Ark_Crew_(WFC_Trilogy)",
+        "fandom_title": "Ark Crew (WFC Trilogy)",
         "source_fandom": "transformers.fandom.com",
         "sources": [
           "fandom"
@@ -9464,6 +9464,58 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "afterburner-tfp",
+      "name": "Afterburner TFP",
+      "type": "person",
+      "description": "Afterburner is a member of a rival Decepticon faction of the Cybercomrade Sect.\n\nWhile Strongarm was disguised as Retrofit in an attempt to capture Clipshade, Clipshade tested her by suggesting that they should find Afterburner and obtain his help. When Strongarm agreed, Clipshade knew she wasn't really a member of his sect. Category:Comics Only Category:NoVisuals Category:Cybertronian Category:Decepticons Category:Characters Category:Males\n\nCategory:Transformers Robots in Disguise 2015 Category:Transformers Robots in Disguise 2015 Decepticon",
+      "short_description": "Afterburner is a member of a rival Decepticon faction of the Cybercomrade Sect.",
+      "evidence": "fiction",
+      "parentSlug": "decepticons",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://transformers.fandom.com/wiki/Afterburner_TFP",
+        "fandom_title": "Afterburner TFP",
+        "source_fandom": "transformers.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-map-room",
+      "name": "Ancient map room",
+      "type": "place",
+      "description": "The ancient map room is a holographic observatory of the universe scouted by the mysterious Ancients, located deep within a tomb in the Sea of Rust. The Ancients used it to store information and coordinates of all the locations they visited in their time. Even long after the Ancients ceased to be, any Transformer can still use it for whatever they please, though the room's data and projections have not been updated since the disappearance of the Ancients. It remains perfectly intact, even after the disaster that transformed the surrounding region into the Sea of Rust.\n\nShockwave happened upon the room while searching for a way to reboot Cybertron in the Sea of Rust, and discovered prehistoric Earth with it. The discovery would eventually lead to further research, which soon formed the Dinobots.\n\nCliffjumper would stumble upon the room during the search for Grimlock, awed by the room's beauty. He had a look at the hologram of Earth, and voiced his amazement to Jazz, but his partner was more focused on the task at hand.\n\nIt is unknown what became of the room following the shutdown of Cybertron and the departure of the majority of the Autobots and Decepticons.",
+      "short_description": "The ancient map room is a holographic observatory of the universe scouted by the mysterious Ancients, located deep within a tomb in the Sea of Rust. The Ancients used it to store information and coordinates of all the…",
+      "evidence": "fiction",
+      "parentSlug": "transformers",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/transformers/images/2/20/180px-FallofCybertronStarMap.jpg/revision/latest/scale-to-width-down/180?cb=20190726171048",
+      "image_source": "https://transformers.fandom.com/wiki/Ancient_map_room",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hasbro / Takara Tomy (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Ancient map room",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://transformers.fandom.com/wiki/Ancient_map_room",
+        "fandom_title": "Ancient map room",
+        "source_fandom": "transformers.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -12082,15 +12134,31 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "afterburner-tfp",
+      "decepticons",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ancient-map-room",
+      "transformers",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (transformers.fandom.com) for identification and commentary only. Character / franchise art © Hasbro / Takara Tomy (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-13T03:49:13.449Z",
+  "generated_at": "2026-09-14T19:25:36.738Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://transformers.fandom.com/wiki/",

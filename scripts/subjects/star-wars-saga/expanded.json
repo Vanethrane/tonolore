@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "star-wars-saga",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)",
+        "fandom_title": "Star Wars saga (films)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_figures",
+        "fandom_title": "Star Wars saga (films) figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_world_&_context",
+        "fandom_title": "Star Wars saga (films) world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_places",
+        "fandom_title": "Star Wars saga (films) places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_events",
+        "fandom_title": "Star Wars saga (films) events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_objects_&_artifacts",
+        "fandom_title": "Star Wars saga (films) objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_factions_&_groups",
+        "fandom_title": "Star Wars saga (films) factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_concepts",
+        "fandom_title": "Star Wars saga (films) concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_eras",
+        "fandom_title": "Star Wars saga (films) eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_works_&_media",
+        "fandom_title": "Star Wars saga (films) works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_symbols",
+        "fandom_title": "Star Wars saga (films) symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_controversies",
+        "fandom_title": "Star Wars saga (films) controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_geography",
+        "fandom_title": "Star Wars saga (films) geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_legacy",
+        "fandom_title": "Star Wars saga (films) legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_practices",
+        "fandom_title": "Star Wars saga (films) practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_1",
+        "fandom_title": "Star Wars saga (films) entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_2",
+        "fandom_title": "Star Wars saga (films) entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_3",
+        "fandom_title": "Star Wars saga (films) entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_4",
+        "fandom_title": "Star Wars saga (films) entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_5",
+        "fandom_title": "Star Wars saga (films) entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_6",
+        "fandom_title": "Star Wars saga (films) entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_7",
+        "fandom_title": "Star Wars saga (films) entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_8",
+        "fandom_title": "Star Wars saga (films) entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_9",
+        "fandom_title": "Star Wars saga (films) entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_10",
+        "fandom_title": "Star Wars saga (films) entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_11",
+        "fandom_title": "Star Wars saga (films) entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_12",
+        "fandom_title": "Star Wars saga (films) entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_13",
+        "fandom_title": "Star Wars saga (films) entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_14",
+        "fandom_title": "Star Wars saga (films) entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_15",
+        "fandom_title": "Star Wars saga (films) entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_16",
+        "fandom_title": "Star Wars saga (films) entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_17",
+        "fandom_title": "Star Wars saga (films) entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_18",
+        "fandom_title": "Star Wars saga (films) entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_19",
+        "fandom_title": "Star Wars saga (films) entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_20",
+        "fandom_title": "Star Wars saga (films) entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_21",
+        "fandom_title": "Star Wars saga (films) entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_22",
+        "fandom_title": "Star Wars saga (films) entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_23",
+        "fandom_title": "Star Wars saga (films) entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "star-wars-saga-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Star_Wars_saga_(films)_entry_24",
+        "fandom_title": "Star Wars saga (films) entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Star Wars saga (films) article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:51:38.965Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

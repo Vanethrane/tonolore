@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T03:22:41.517Z",
+  "generated_at": "2026-09-14T17:31:10.600Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (journeytothewest.fandom.com) for identification and commentary only. Classic novel is public domain; modern adaptations remain with rights holders. Not free or redistributable artwork."
   },
   "enrichments": [
@@ -9741,6 +9741,29 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "white-tiger-ridge",
+      "name": "White Tiger Ridge",
+      "type": "place",
+      "description": "White Tiger Ridge is a range of mountains and canyons ten thousand fathoms long. It has a large population of tigers, wolves, deer, boars, and giant snakes. Thorns and thistles grew along the long and winding path through.\n\nCategory:Landforms Category:Locations on Earth",
+      "short_description": "White Tiger Ridge is a range of mountains and canyons ten thousand fathoms long. It has a large population of tigers, wolves, deer, boars, and giant snakes. Thorns and thistles grew along the long and winding path…",
+      "evidence": "fiction",
+      "parentSlug": "journey-to-the-west",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://journey-to-the-west-xiyouji.fandom.com/wiki/White_Tiger_Ridge",
+        "fandom_title": "White Tiger Ridge",
+        "source_fandom": "journeytothewest.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -12826,6 +12849,14 @@
     ],
     [
       "western-continent",
+      "journey-to-the-west",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "white-tiger-ridge",
       "journey-to-the-west",
       "part_of",
       "Part of",

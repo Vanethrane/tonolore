@@ -1,0 +1,4096 @@
+{
+  "enrichments": [
+    {
+      "slug": "industrial-revolution",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Powerloom_weaving_in_1835.jpg/180px-Powerloom_weaving_in_1835.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Industrial Revolution",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+        "fandom_title": "Industrial Revolution",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      }
+    },
+    {
+      "slug": "industrial-revolution-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Industrial_Revolution_figures",
+        "fandom_title": "Industrial Revolution figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "industrial-revolution-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Industrial_Revolution_world_&_context",
+        "fandom_title": "Industrial Revolution world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "industrial-revolution-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Industrial_Revolution_places",
+        "fandom_title": "Industrial Revolution places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "industrial-revolution-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Industrial_Revolution_events",
+        "fandom_title": "Industrial Revolution events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "second-industrial-revolution",
+      "name": "Second Industrial Revolution",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Skglb_promo_1895.jpg/180px-Skglb_promo_1895.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Second_Industrial_Revolution",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Second Industrial Revolution",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Second_Industrial_Revolution",
+        "fandom_title": "Second Industrial Revolution",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-woolen-company",
+      "name": "American Woolen Company",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Woolen_Company",
+        "fandom_title": "American Woolen Company",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "asa-lees",
+      "name": "Asa Lees",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Asa_Lees",
+        "fandom_title": "Asa Lees",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "b-hick-and-sons",
+      "name": "B. Hick and Sons",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/B._Hick_and_Sons",
+        "fandom_title": "B. Hick and Sons",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "barnangens-manufaktur",
+      "name": "Barnängens manufaktur",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Barn%C3%A4ngens_g%C3%A5rd_framsidan.jpg/180px-Barn%C3%A4ngens_g%C3%A5rd_framsidan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Barn%C3%A4ngens_manufaktur",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Barnängens manufaktur",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Barn%C3%A4ngens_manufaktur",
+        "fandom_title": "Barnängens manufaktur",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bernat-mill",
+      "name": "Bernat Mill",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Bernat_Mill%2C_Uxbridge%2C_Massachusetts.jpg/180px-Bernat_Mill%2C_Uxbridge%2C_Massachusetts.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Bernat_Mill",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Bernat Mill",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bernat_Mill",
+        "fandom_title": "Bernat Mill",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "birchmeadow-playing-fields",
+      "name": "Birchmeadow Playing Fields",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Birchmeadow_Playing_Fields",
+        "fandom_title": "Birchmeadow Playing Fields",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "black-lamp-revolutionary-group",
+      "name": "Black Lamp",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Black_Lamp_(revolutionary_group)",
+        "fandom_title": "Black Lamp (revolutionary group)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blast-furnace",
+      "name": "Blast furnace",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Alto_Horno%2C_Puerto_de_Sagunto%2C_Espa%C3%B1a%2C_2015-01-04%2C_DD_91.JPG/180px-Alto_Horno%2C_Puerto_de_Sagunto%2C_Espa%C3%B1a%2C_2015-01-04%2C_DD_91.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Blast_furnace",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Blast furnace",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Blast_furnace",
+        "fandom_title": "Blast furnace",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bowling-iron-works",
+      "name": "Bowling Iron Works",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Bowling_Iron_Company_1861.jpg/180px-Bowling_Iron_Company_1861.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Bowling_Iron_Works",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Bowling Iron Works",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bowling_Iron_Works",
+        "fandom_title": "Bowling Iron Works",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brazilian-cotton-cycle",
+      "name": "Brazilian cotton cycle",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Centro_Hist%C3%B3rico_de_S%C3%A3o_Lu%C3%ADs%2C_Maranh%C3%A3o%2C_Brasil_4.jpg/180px-Centro_Hist%C3%B3rico_de_S%C3%A3o_Lu%C3%ADs%2C_Maranh%C3%A3o%2C_Brasil_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Brazilian_cotton_cycle",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Brazilian cotton cycle",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Brazilian_cotton_cycle",
+        "fandom_title": "Brazilian cotton cycle",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bread-and-roses",
+      "name": "Bread and Roses",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Lawrence_strike%2C_strikers%2C_marching_in_the_city_1912.jpg/180px-Lawrence_strike%2C_strikers%2C_marching_in_the_city_1912.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Bread_and_Roses",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Bread and Roses",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bread_and_Roses",
+        "fandom_title": "Bread and Roses",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bridgewater-canal",
+      "name": "Bridgewater Canal",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Worsley_packet_house_closeup_large_image.jpg/180px-Worsley_packet_house_closeup_large_image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Bridgewater_Canal",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Bridgewater Canal",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bridgewater_Canal",
+        "fandom_title": "Bridgewater Canal",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-industrial-architecture",
+      "name": "British industrial architecture",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Hoover_Building_in_Perivale_%28cropped%29.jpg/180px-Hoover_Building_in_Perivale_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/British_industrial_architecture",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for British industrial architecture",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/British_industrial_architecture",
+        "fandom_title": "British industrial architecture",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "buckley-taylor",
+      "name": "Buckley & Taylor",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Buckley_%26_Taylor",
+        "fandom_title": "Buckley & Taylor",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "burden-iron-works",
+      "name": "Burden Iron Works",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Burden_Wheel.png/180px-Burden_Wheel.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Burden_Iron_Works",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Burden Iron Works",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Burden_Iron_Works",
+        "fandom_title": "Burden Iron Works",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "camperdown-works",
+      "name": "Camperdown Works",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Cox%27s_Stack_-_view_from_Dundee_Law.jpg/180px-Cox%27s_Stack_-_view_from_Dundee_Law.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Camperdown_Works",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Camperdown Works",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Camperdown_Works",
+        "fandom_title": "Camperdown Works",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "child-labour-in-the-british-industrial-revolution",
+      "name": "Child labour in the British Industrial Revolution",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Child_apprentices_in_textile_factory._Wellcome_M0013538EA.jpg/180px-Child_apprentices_in_textile_factory._Wellcome_M0013538EA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Child_labour_in_the_British_Industrial_Revolution",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Child labour in the British Industrial Revolution",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Child_labour_in_the_British_Industrial_Revolution",
+        "fandom_title": "Child labour in the British Industrial Revolution",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "city-of-london-courts-of-justice-act-1815",
+      "name": "City of London Courts of Justice Act 1815",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Coat_of_Arms_of_the_United_Kingdom_%281801-1816%29.svg/180px-Coat_of_Arms_of_the_United_Kingdom_%281801-1816%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/City_of_London_Courts_of_Justice_Act_1815",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for City of London Courts of Justice Act 1815",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/City_of_London_Courts_of_Justice_Act_1815",
+        "fandom_title": "City of London Courts of Justice Act 1815",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "coal-merchant",
+      "name": "Coal merchant",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Coal_merchant_at_Hook_Railway_Station_Hampshire_%28cropped%29.jpg/180px-Coal_merchant_at_Hook_Railway_Station_Hampshire_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Coal_merchant",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Coal merchant",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Coal_merchant",
+        "fandom_title": "Coal merchant",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "coalbrookdale",
+      "name": "Coalbrookdale",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cottages_at_Coalbrookdale_with_Holy_Trinity_Church_behind._-_geograph.org.uk_-_1239753.jpg/180px-Cottages_at_Coalbrookdale_with_Holy_Trinity_Church_behind._-_geograph.org.uk_-_1239753.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Coalbrookdale",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Coalbrookdale",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Coalbrookdale",
+        "fandom_title": "Coalbrookdale",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "coalbrookdale-by-night",
+      "name": "Coalbrookdale by Night",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Philipp_Jakob_Loutherbourg_d._J._002.jpg/180px-Philipp_Jakob_Loutherbourg_d._J._002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Coalbrookdale_by_Night",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Coalbrookdale by Night",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Coalbrookdale_by_Night",
+        "fandom_title": "Coalbrookdale by Night",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "coke-fuel",
+      "name": "Coke",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Koks_Brennstoff.jpg/180px-Koks_Brennstoff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Coke_(fuel)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Coke (fuel)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Coke_(fuel)",
+        "fandom_title": "Coke (fuel)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "coldharbour-mill-working-wool-museum",
+      "name": "Coldharbour Mill Working Wool Museum",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Fox_Brothers%2C_Coldharbour_Mill%2C_Uffculme_-_geograph.org.uk_-_97156.jpg/180px-Fox_Brothers%2C_Coldharbour_Mill%2C_Uffculme_-_geograph.org.uk_-_97156.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Coldharbour_Mill_Working_Wool_Museum",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Coldharbour Mill Working Wool Museum",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Coldharbour_Mill_Working_Wool_Museum",
+        "fandom_title": "Coldharbour Mill Working Wool Museum",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cotton-mill",
+      "name": "Cotton mill",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Ancoats_Redhill_Street-_4556.JPG/180px-Ancoats_Redhill_Street-_4556.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Cotton_mill",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Cotton mill",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cotton_mill",
+        "fandom_title": "Cotton mill",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cotton-spinning-machinery",
+      "name": "Cotton-spinning machinery",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Textiles%3B_a_roving_machine_for_cotton_manufacture._Engraving_Wellcome_V0024590.jpg/180px-Textiles%3B_a_roving_machine_for_cotton_manufacture._Engraving_Wellcome_V0024590.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Cotton-spinning_machinery",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Cotton-spinning machinery",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cotton-spinning_machinery",
+        "fandom_title": "Cotton-spinning machinery",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cottonopolis",
+      "name": "Cottonopolis",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Wyld%2C_William_-_Manchester_from_Kersal_Moor%2C_with_rustic_figures_and_goats_-_Google_Art_Project.jpg/180px-Wyld%2C_William_-_Manchester_from_Kersal_Moor%2C_with_rustic_figures_and_goats_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Cottonopolis",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Cottonopolis",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cottonopolis",
+        "fandom_title": "Cottonopolis",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creusot-steam-hammer",
+      "name": "Creusot steam hammer",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Le_Creusot_-_Marteau_Pilon_5.jpg/180px-Le_Creusot_-_Marteau_Pilon_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Creusot_steam_hammer",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Creusot steam hammer",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Creusot_steam_hammer",
+        "fandom_title": "Creusot steam hammer",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cromford",
+      "name": "Cromford",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cromford_Church_-_geograph.org.uk_-_7533565.jpg/180px-Cromford_Church_-_geograph.org.uk_-_7533565.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Cromford",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Cromford",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cromford",
+        "fandom_title": "Cromford",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ditherington",
+      "name": "Ditherington",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Shrewsbury_Flaxmill-Maltings_south-east_side_December_2017.jpg/180px-Shrewsbury_Flaxmill-Maltings_south-east_side_December_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Ditherington",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Ditherington",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ditherington",
+        "fandom_title": "Ditherington",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dual-revolution",
+      "name": "Dual revolution",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Dual_revolution",
+        "fandom_title": "Dual revolution",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "economy-of-ghana",
+      "name": "Economy of Ghana",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/A_drone_footage_of_Accra_central%2C_Ghana.jpg/180px-A_drone_footage_of_Accra_central%2C_Ghana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Economy_of_Ghana",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Economy of Ghana",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Economy_of_Ghana",
+        "fandom_title": "Economy of Ghana",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elsecar-heritage-centre",
+      "name": "Elsecar Heritage Centre",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Elsecar_Heritage_Centre",
+        "fandom_title": "Elsecar Heritage Centre",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "engels-pause",
+      "name": "Engels' pause",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Engels%27_pause",
+        "fandom_title": "Engels' pause",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "factory",
+      "name": "Factory",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Wolfsburg_VW-Werk.jpg/180px-Wolfsburg_VW-Werk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Factory",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Factory",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Factory",
+        "fandom_title": "Factory",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "factory-system",
+      "name": "Factory system",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Zilina_zapalkaren.jpg/180px-Zilina_zapalkaren.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Factory_system",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Factory system",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Factory_system",
+        "fandom_title": "Factory system",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fairbottom-bobs",
+      "name": "Fairbottom Bobs",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Im1917EnV123-p218.jpg/180px-Im1917EnV123-p218.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Fairbottom_Bobs",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Fairbottom Bobs",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Fairbottom_Bobs",
+        "fandom_title": "Fairbottom Bobs",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fenton-murray-and-jackson",
+      "name": "Fenton, Murray and Jackson",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Fenton,_Murray_and_Jackson",
+        "fandom_title": "Fenton, Murray and Jackson",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "flying-shuttle",
+      "name": "Flying shuttle",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Frisador_Curler.jpg/180px-Frisador_Curler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Flying_shuttle",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Flying shuttle",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Flying_shuttle",
+        "fandom_title": "Flying shuttle",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "forges-de-syam",
+      "name": "Forges de Syam",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Forges_de_Syam_-_PA00102043.jpg/180px-Forges_de_Syam_-_PA00102043.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Forges_de_Syam",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Forges de Syam",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Forges_de_Syam",
+        "fandom_title": "Forges de Syam",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fourth-industrial-revolution",
+      "name": "Fourth Industrial Revolution",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Industry_4.0.png/180px-Industry_4.0.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Fourth_Industrial_Revolution",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Fourth Industrial Revolution",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Fourth_Industrial_Revolution",
+        "fandom_title": "Fourth Industrial Revolution",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "garnddyrys-forge",
+      "name": "Garnddyrys Forge",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Garnddyrys%2C_ironworks_remains_and_tramroad%2C_Blorenge%2C_Llanfoist_Fawr.jpg/180px-Garnddyrys%2C_ironworks_remains_and_tramroad%2C_Blorenge%2C_Llanfoist_Fawr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Garnddyrys_Forge",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Garnddyrys Forge",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Garnddyrys_Forge",
+        "fandom_title": "Garnddyrys Forge",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "george-saxon-co",
+      "name": "George Saxon & Co",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Brook_No._2_Mill%2C_Hollinwood_-_geograph.org.uk_-_216085.jpg/180px-Brook_No._2_Mill%2C_Hollinwood_-_geograph.org.uk_-_216085.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/George_Saxon_%26_Co",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for George Saxon & Co",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/George_Saxon_%26_Co",
+        "fandom_title": "George Saxon & Co",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grazebrook-beam-engine",
+      "name": "Grazebrook beam engine",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Grazebrook_Beam_Engine.jpg/180px-Grazebrook_Beam_Engine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Grazebrook_beam_engine",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Grazebrook beam engine",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grazebrook_beam_engine",
+        "fandom_title": "Grazebrook beam engine",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "life-in-great-britain-during-the-industrial-revolution",
+      "name": "Life in Great Britain during the Industrial Revolution",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Holl_%28after_Frith%29_The_Railway_Station_colorized.jpg/180px-Holl_%28after_Frith%29_The_Railway_Station_colorized.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Life_in_Great_Britain_during_the_Industrial_Revolution",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Life in Great Britain during the Industrial Revolution",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Life_in_Great_Britain_during_the_Industrial_Revolution",
+        "fandom_title": "Life in Great Britain during the Industrial Revolution",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-divergence",
+      "name": "Great Divergence",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Maddison_GDP_per_capita_1500-1950.svg/180px-Maddison_GDP_per_capita_1500-1950.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Great_Divergence",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Great Divergence",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Divergence",
+        "fandom_title": "Great Divergence",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "great-migration-of-canada",
+      "name": "Great Migration of Canada",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Transparentcanadapassporticon.png/180px-Transparentcanadapassporticon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Great_Migration_of_Canada",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Great Migration of Canada",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Great_Migration_of_Canada",
+        "fandom_title": "Great Migration of Canada",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grubb-family-iron-dynasty",
+      "name": "Grubb Family Iron Dynasty",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grubb_Family_Iron_Dynasty",
+        "fandom_title": "Grubb Family Iron Dynasty",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "howard-bullough",
+      "name": "Howard & Bullough",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Howard_and_Bulloughs_Factory_TM152.png/180px-Howard_and_Bulloughs_Factory_TM152.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Howard_%26_Bullough",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Howard & Bullough",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Howard_%26_Bullough",
+        "fandom_title": "Howard & Bullough",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hulett",
+      "name": "Hulett",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Huletts.jpg/180px-Huletts.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Hulett",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Hulett",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Hulett",
+        "fandom_title": "Hulett",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "industrial-age",
+      "name": "Industrial Age",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/William_Bell_Scott_-_Iron_and_Coal.jpg/180px-William_Bell_Scott_-_Iron_and_Coal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Industrial_Age",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Industrial Age",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Industrial_Age",
+        "fandom_title": "Industrial Age",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "industrial-civilization",
+      "name": "Industrial civilization",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Krupp-Werke_in_Essen_1864.jpeg/180px-Krupp-Werke_in_Essen_1864.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Industrial_civilization",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Industrial civilization",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Industrial_civilization",
+        "fandom_title": "Industrial civilization",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "industrial-revolution-in-scotland",
+      "name": "Industrial Revolution in Scotland",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/John_Atkinson_Grimshaw_-_Shipping_on_the_Clyde_%281881%29.jpg/180px-John_Atkinson_Grimshaw_-_Shipping_on_the_Clyde_%281881%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Industrial_Revolution_in_Scotland",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Industrial Revolution in Scotland",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Industrial_Revolution_in_Scotland",
+        "fandom_title": "Industrial Revolution in Scotland",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "industrial-revolution-in-wales",
+      "name": "Industrial Revolution in Wales",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/George_Childs_Dowlais_Ironworks_1840.jpg/180px-George_Childs_Dowlais_Ironworks_1840.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Industrial_Revolution_in_Wales",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Industrial Revolution in Wales",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Industrial_Revolution_in_Wales",
+        "fandom_title": "Industrial Revolution in Wales",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ironmaster",
+      "name": "Ironmaster",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Ironbridge002.JPG/180px-Ironbridge002.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Ironmaster",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Ironmaster",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ironmaster",
+        "fandom_title": "Ironmaster",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ironworks",
+      "name": "Ironworks",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Adolph_Menzel_-_Eisenwalzwerk_-_Google_Art_Project.jpg/180px-Adolph_Menzel_-_Eisenwalzwerk_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Ironworks",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Ironworks",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ironworks",
+        "fandom_title": "Ironworks",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "j-e-wood",
+      "name": "J & E Wood",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Trencherfield_mill_engine_-_geograph.org.uk_-_1960247.jpg/180px-Trencherfield_mill_engine_-_geograph.org.uk_-_1960247.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/J_%26_E_Wood",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for J & E Wood",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/J_%26_E_Wood",
+        "fandom_title": "J & E Wood",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "jackshaft",
+      "name": "Jackshaft",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Jackshaft_two_belt_pulleys.png/180px-Jackshaft_two_belt_pulleys.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Jackshaft",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Jackshaft",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Jackshaft",
+        "fandom_title": "Jackshaft",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "jesenice",
+      "name": "Jesenice",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Sunset_over_my_home_town_Jesenice.jpg/180px-Sunset_over_my_home_town_Jesenice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Jesenice",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Jesenice",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Jesenice",
+        "fandom_title": "Jesenice",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "john-kelly-limited",
+      "name": "John Kelly Limited",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/A_Kelly%27s_%22coal_boat%22_at_Belfast_-_geograph.org.uk_-_565882.jpg/180px-A_Kelly%27s_%22coal_boat%22_at_Belfast_-_geograph.org.uk_-_565882.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/John_Kelly_Limited",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for John Kelly Limited",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/John_Kelly_Limited",
+        "fandom_title": "John Kelly Limited",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "john-musgrave-sons",
+      "name": "John Musgrave & Sons",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Mill_engine_%22Edna%22_at_Bamford_Mill_-_geograph.org.uk_-_257483.jpg/180px-Mill_engine_%22Edna%22_at_Bamford_Mill_-_geograph.org.uk_-_257483.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/John_Musgrave_%26_Sons",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for John Musgrave & Sons",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/John_Musgrave_%26_Sons",
+        "fandom_title": "John Musgrave & Sons",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lancashire-loom",
+      "name": "Lancashire Loom",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/QSMM_Two_Lancashire_looms.ogv/180px--QSMM_Two_Lancashire_looms.ogv.jpg",
+      "image_source": "https://en.wikipedia.org/wiki/Lancashire_Loom",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Lancashire Loom",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Lancashire_Loom",
+        "fandom_title": "Lancashire Loom",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "landflucht",
+      "name": "Landflucht",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Deutsches_Reich_%281871-1918%29-en.png/180px-Deutsches_Reich_%281871-1918%29-en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Landflucht",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Landflucht",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Landflucht",
+        "fandom_title": "Landflucht",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lap-engine",
+      "name": "Lap Engine",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Science_Museum_-_the_%27lap_engine%27_%28geograph_3661968%29.jpg/180px-Science_Museum_-_the_%27lap_engine%27_%28geograph_3661968%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Lap_Engine",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Lap Engine",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Lap_Engine",
+        "fandom_title": "Lap Engine",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lawrence-massachusetts",
+      "name": "Lawrence, Massachusetts",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Lawrence%2C_Massachusetts.jpg/180px-Lawrence%2C_Massachusetts.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Lawrence,_Massachusetts",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Lawrence, Massachusetts",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Lawrence,_Massachusetts",
+        "fandom_title": "Lawrence, Massachusetts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "leblanc-process",
+      "name": "Leblanc process",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Leblanc_process",
+        "fandom_title": "Leblanc process",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lehigh-coal-navigation-company",
+      "name": "Lehigh Coal & Navigation Company",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Jim_Thorpe_Lehigh_Broadway_2898px.jpg/180px-Jim_Thorpe_Lehigh_Broadway_2898px.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Lehigh_Coal_%26_Navigation_Company",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Lehigh Coal & Navigation Company",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Lehigh_Coal_%26_Navigation_Company",
+        "fandom_title": "Lehigh Coal & Navigation Company",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "line-shaft",
+      "name": "Line shaft",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/AHW_Kammgarnspinnerei_Pfaffendorf_Leipzig_um_1925.jpg/180px-AHW_Kammgarnspinnerei_Pfaffendorf_Leipzig_um_1925.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Line_shaft",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Line shaft",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Line_shaft",
+        "fandom_title": "Line shaft",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "low-moor-ironworks",
+      "name": "Low Moor Ironworks",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Low_Moor_Ironworks_1855.jpg/180px-Low_Moor_Ironworks_1855.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Low_Moor_Ironworks",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Low Moor Ironworks",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Low_Moor_Ironworks",
+        "fandom_title": "Low Moor Ironworks",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "luddites",
+      "name": "Luddites",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Luddite.jpg/180px-Luddite.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Luddites",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Luddites",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Luddites",
+        "fandom_title": "Luddites",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "macadam",
+      "name": "Macadam",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Rakeman_%E2%80%93_First_American_Macadam_Road.jpg/180px-Rakeman_%E2%80%93_First_American_Macadam_Road.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Macadam",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Macadam",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Macadam",
+        "fandom_title": "Macadam",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "march-of-intellect",
+      "name": "March of Intellect",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/John_Abernethy._%27The_march_of_intellect%27_Wellcome_L0015719.jpg/180px-John_Abernethy._%27The_march_of_intellect%27_Wellcome_L0015719.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/March_of_Intellect",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for March of Intellect",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/March_of_Intellect",
+        "fandom_title": "March of Intellect",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mill-town",
+      "name": "Mill town",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mill_town",
+        "fandom_title": "Mill town",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "moira-furnace",
+      "name": "Moira Furnace",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/MoiraFurnace01.jpg/180px-MoiraFurnace01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Moira_Furnace",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Moira Furnace",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Moira_Furnace",
+        "fandom_title": "Moira Furnace",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "newcomen-memorial-engine",
+      "name": "Newcomen Memorial Engine",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Dartmouth_Newcomen_engine.jpg/180px-Dartmouth_Newcomen_engine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Newcomen_Memorial_Engine",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Newcomen Memorial Engine",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Newcomen_Memorial_Engine",
+        "fandom_title": "Newcomen Memorial Engine",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "newcomen-atmospheric-engine",
+      "name": "Newcomen atmospheric engine",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Newcomen_atmospheric_engine_animation.gif/180px-Newcomen_atmospheric_engine_animation.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Newcomen_atmospheric_engine",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Newcomen atmospheric engine",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Newcomen_atmospheric_engine",
+        "fandom_title": "Newcomen atmospheric engine",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "old-bess-beam-engine",
+      "name": "Old Bess",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Old_bess_beam_engine_may_2015.JPG/180px-Old_bess_beam_engine_may_2015.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Old_Bess_(beam_engine)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Old Bess (beam engine)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Old_Bess_(beam_engine)",
+        "fandom_title": "Old Bess (beam engine)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "panther-creek-valley",
+      "name": "Panther Creek Valley",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/PANTHER_CREEK_RISES%3DSchuylkill_Drainage_Divides_USGS%2C_Hazelton-Mauch_Chunk_%26Mountain_Quads%2CNW%2BNE-4.JPG/180px-PANTHER_CREEK_RISES%3DSchuylkill_Drainage_Divides_USGS%2C_Hazelton-Mauch_Chunk_%26Mountain_Quads%2CNW%2BNE-4.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Panther_Creek_Valley",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Panther Creek Valley",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Panther_Creek_Valley",
+        "fandom_title": "Panther Creek Valley",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "paul-wyatt-cotton-mills",
+      "name": "Paul-Wyatt cotton mills",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Paul_1758_Patent_Drawing.jpg/180px-Paul_1758_Patent_Drawing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Paul-Wyatt_cotton_mills",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Paul-Wyatt cotton mills",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Paul-Wyatt_cotton_mills",
+        "fandom_title": "Paul-Wyatt cotton mills",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "petrie-of-rochdale",
+      "name": "Petrie of Rochdale",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Petrie_of_Rochdale",
+        "fandom_title": "Petrie of Rochdale",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "petroleum-revolution",
+      "name": "Petroleum Revolution",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Muerte_del_Alcalde_de_Alcoy_D._Agust%C3%ADn_Albors_%28Segunda_parte_de_la_Guerra_Civil._Anales_desde_1843_hasta_el_fallecimiento_de_don_Alfonso_XII%29.jpg/180px-Muerte_del_Alcalde_de_Alcoy_D._Agust%C3%ADn_Albors_%28Segunda_parte_de_la_Guerra_Civil._Anales_desde_1843_hasta_el_fallecimiento_de_don_Alfonso_XII%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Petroleum_Revolution",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Petroleum Revolution",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Petroleum_Revolution",
+        "fandom_title": "Petroleum Revolution",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pocasset-manufacturing-company",
+      "name": "Pocasset Manufacturing Company",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Pocasset_Mills_Fall_River.jpg/180px-Pocasset_Mills_Fall_River.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Pocasset_Manufacturing_Company",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Pocasset Manufacturing Company",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Pocasset_Manufacturing_Company",
+        "fandom_title": "Pocasset Manufacturing Company",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pontypool-japan",
+      "name": "Pontypool japan",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Pontypool_japan_tray%2C_detail%2C_Cardiff_Museum.jpg/180px-Pontypool_japan_tray%2C_detail%2C_Cardiff_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Pontypool_japan",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Pontypool japan",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Pontypool_japan",
+        "fandom_title": "Pontypool japan",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pre-industrial-society",
+      "name": "Pre-industrial society",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/TTTC_Vol_I_098_Tartar_Agriculturalist.png/180px-TTTC_Vol_I_098_Tartar_Agriculturalist.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Pre-industrial_society",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Pre-industrial society",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Pre-industrial_society",
+        "fandom_title": "Pre-industrial society",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-of-workmanship",
+      "name": "Pride of workmanship",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Practice_Good_Workmanship_-_NARA_-_534462.jpg/180px-Practice_Good_Workmanship_-_NARA_-_534462.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Pride_of_workmanship",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Pride of workmanship",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_of_workmanship",
+        "fandom_title": "Pride of workmanship",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "production-line",
+      "name": "Production line",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Krispy_Kreme_Doughnuts.jpg/180px-Krispy_Kreme_Doughnuts.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Production_line",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Production line",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Production_line",
+        "fandom_title": "Production line",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rapier-loom",
+      "name": "Rapier loom",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ruti_rapier_loom.JPG/180px-Ruti_rapier_loom.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Rapier_loom",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Rapier loom",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Rapier_loom",
+        "fandom_title": "Rapier loom",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "reflections-in-bulloughs-pond",
+      "name": "Reflections in Bullough's Pond",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Reflections_in_Bullough%27s_Pond",
+        "fandom_title": "Reflections in Bullough's Pond",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "resolution-beam-engine",
+      "name": "Resolution",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Resolution_(beam_engine)",
+        "fandom_title": "Resolution (beam engine)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "charles-francois-richard",
+      "name": "Charles-François Richard",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Charles-Francois_Richard_%281772-1851%29.jpeg/180px-Charles-Francois_Richard_%281772-1851%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Charles-Fran%C3%A7ois_Richard",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Charles-François Richard",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Charles-Fran%C3%A7ois_Richard",
+        "fandom_title": "Charles-François Richard",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ripley-ville",
+      "name": "Ripley Ville",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Bowling_Dye_Works_Almshouses_-_New_Cross_Street_-_geograph.org.uk_-_638072.jpg/180px-Bowling_Dye_Works_Almshouses_-_New_Cross_Street_-_geograph.org.uk_-_638072.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Ripley_Ville",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Ripley Ville",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ripley_Ville",
+        "fandom_title": "Ripley Ville",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rowac",
+      "name": "Rowac",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Rowac_Logo.jpg/180px-Rowac_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Rowac",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Rowac",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Rowac",
+        "fandom_title": "Rowac",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "runcorn-to-latchford-canal",
+      "name": "Runcorn to Latchford Canal",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Runcorn_and_Latchford_Canal_-_geograph.org.uk_-_323968.jpg/180px-Runcorn_and_Latchford_Canal_-_geograph.org.uk_-_323968.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Runcorn_to_Latchford_Canal",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Runcorn to Latchford Canal",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Runcorn_to_Latchford_Canal",
+        "fandom_title": "Runcorn to Latchford Canal",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sankey-canal",
+      "name": "Sankey Canal",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Spike_Island.jpg/180px-Spike_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Sankey_Canal",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Sankey Canal",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Sankey_Canal",
+        "fandom_title": "Sankey Canal",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sequin-and-knobel",
+      "name": "Sequin and Knobel",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Sequin_and_Knobel",
+        "fandom_title": "Sequin and Knobel",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "silesian-weavers-uprising",
+      "name": "Silesian weavers' uprising",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Carl_Wilhelm_H%C3%BCbner_-_The_Silesian_Weavers_-_Google_Art_Project.jpg/180px-Carl_Wilhelm_H%C3%BCbner_-_The_Silesian_Weavers_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Silesian_weavers%27_uprising",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Silesian weavers' uprising",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Silesian_weavers%27_uprising",
+        "fandom_title": "Silesian weavers' uprising",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sirocco-works",
+      "name": "Sirocco Works",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Samuel_Cleland_Davidson_Sirocco_Engineering_Works%2C_Belfast%2C_hand_painted_illustration.jpg/180px-Samuel_Cleland_Davidson_Sirocco_Engineering_Works%2C_Belfast%2C_hand_painted_illustration.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Sirocco_Works",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Sirocco Works",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Sirocco_Works",
+        "fandom_title": "Sirocco Works",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "slater-mill",
+      "name": "Slater Mill",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Slater_and_Wilkinson_Mills_-_exterior_%26_water_power_systems.jpg/180px-Slater_and_Wilkinson_Mills_-_exterior_%26_water_power_systems.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Slater_Mill",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Slater Mill",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Slater_Mill",
+        "fandom_title": "Slater Mill",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smethwick-engine",
+      "name": "Smethwick Engine",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Smethwick_Engine_at_ThinkTank_Museum.jpg/180px-Smethwick_Engine_at_ThinkTank_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Smethwick_Engine",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Smethwick Engine",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Smethwick_Engine",
+        "fandom_title": "Smethwick Engine",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smith-dove-co",
+      "name": "Smith & Dove Co.",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Smith_%26_Dove_Co.",
+        "fandom_title": "Smith & Dove Co.",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "snailbeach-countryside-site",
+      "name": "Snailbeach Countryside Site",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Mine_chimney_on_Resting_Hill_%28close_up%29.jpg/180px-Mine_chimney_on_Resting_Hill_%28close_up%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Snailbeach_Countryside_Site",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Snailbeach Countryside Site",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Snailbeach_Countryside_Site",
+        "fandom_title": "Snailbeach Countryside Site",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "social-question",
+      "name": "Social question",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Punch_1843_-_Reichtum_und_Armut.png/180px-Punch_1843_-_Reichtum_und_Armut.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Social_question",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Social question",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Social_question",
+        "fandom_title": "Social question",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "society-50",
+      "name": "Society 5.0",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Society5.jpg/180px-Society5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Society_5.0",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Society 5.0",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Society_5.0",
+        "fandom_title": "Society 5.0",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "soho-foundry",
+      "name": "Soho Foundry",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Soho_Foundry.jpg/180px-Soho_Foundry.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Soho_Foundry",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Soho Foundry",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Soho_Foundry",
+        "fandom_title": "Soho Foundry",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "statistical-accounts-of-scotland",
+      "name": "Statistical Accounts of Scotland",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/O.S.A._book_spine_title.JPG/180px-O.S.A._book_spine_title.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Statistical_Accounts_of_Scotland",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Statistical Accounts of Scotland",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Statistical_Accounts_of_Scotland",
+        "fandom_title": "Statistical Accounts of Scotland",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steam-power-during-the-industrial-revolution",
+      "name": "Steam power during the Industrial Revolution",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Steam_power_during_the_Industrial_Revolution",
+        "fandom_title": "Steam power during the Industrial Revolution",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stocking-frame",
+      "name": "Stocking frame",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Stocking_Frame.jpg/180px-Stocking_Frame.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Stocking_frame",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Stocking frame",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Stocking_frame",
+        "fandom_title": "Stocking frame",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stott",
+      "name": "Stott",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Stott",
+        "fandom_title": "Stott",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "structural-transformation",
+      "name": "Structural transformation",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Structural_transformation",
+        "fandom_title": "Structural transformation",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sun-and-planet-gear",
+      "name": "Sun and planet gear",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Flywheel_of_the_Boulton-Watt_steam_engine_%284803665199%29.jpg/180px-Flywheel_of_the_Boulton-Watt_steam_engine_%284803665199%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Sun_and_planet_gear",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Sun and planet gear",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Sun_and_planet_gear",
+        "fandom_title": "Sun and planet gear",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "surplus-women",
+      "name": "Surplus women",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Surplus_women",
+        "fandom_title": "Surplus women",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sykes-bleaching-company",
+      "name": "Sykes Bleaching Company",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Sykes_Bleaching_Company",
+        "fandom_title": "Sykes Bleaching Company",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "textile-manufacture-during-the-british-industrial-revolution",
+      "name": "Textile manufacture during the British Industrial Revolution",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Barmen_%281870%29.jpg/180px-Barmen_%281870%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Textile_manufacture_during_the_British_Industrial_Revolution",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Textile manufacture during the British Industrial Revolution",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Textile_manufacture_during_the_British_Industrial_Revolution",
+        "fandom_title": "Textile manufacture during the British Industrial Revolution",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "thomas-walmsley-and-sons",
+      "name": "Thomas Walmsley and Sons",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Atlas_Forge_-_geograph.org.uk_-_404186.jpg/180px-Atlas_Forge_-_geograph.org.uk_-_404186.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Thomas_Walmsley_and_Sons",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Thomas Walmsley and Sons",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Thomas_Walmsley_and_Sons",
+        "fandom_title": "Thomas Walmsley and Sons",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tredegar-iron-and-coal-company",
+      "name": "Tredegar Iron and Coal Company",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "industrial-revolution",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Tredegar_Iron_%5E_Coal_Company_-_geograph.org.uk_-_7724394.jpg/180px-Tredegar_Iron_%5E_Coal_Company_-_geograph.org.uk_-_7724394.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Tredegar_Iron_and_Coal_Company",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Tredegar Iron and Coal Company",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Tredegar_Iron_and_Coal_Company",
+        "fandom_title": "Tredegar Iron and Coal Company",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "second-industrial-revolution",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "american-woolen-company",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "asa-lees",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "b-hick-and-sons",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "barnangens-manufaktur",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bernat-mill",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "birchmeadow-playing-fields",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "black-lamp-revolutionary-group",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "blast-furnace",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bowling-iron-works",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "brazilian-cotton-cycle",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bread-and-roses",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bridgewater-canal",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "british-industrial-architecture",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "buckley-taylor",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "burden-iron-works",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "camperdown-works",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "child-labour-in-the-british-industrial-revolution",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "city-of-london-courts-of-justice-act-1815",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "coal-merchant",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "coalbrookdale",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "coalbrookdale-by-night",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "coke-fuel",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "coldharbour-mill-working-wool-museum",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cotton-mill",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cotton-spinning-machinery",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cottonopolis",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "creusot-steam-hammer",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cromford",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ditherington",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "dual-revolution",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "economy-of-ghana",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "elsecar-heritage-centre",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "engels-pause",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "factory",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "factory-system",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "fairbottom-bobs",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "fenton-murray-and-jackson",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "flying-shuttle",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "forges-de-syam",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "fourth-industrial-revolution",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "garnddyrys-forge",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "george-saxon-co",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grazebrook-beam-engine",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "life-in-great-britain-during-the-industrial-revolution",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "great-divergence",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "great-migration-of-canada",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grubb-family-iron-dynasty",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "howard-bullough",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "hulett",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "industrial-age",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "industrial-civilization",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "industrial-revolution-in-scotland",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "industrial-revolution-in-wales",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ironmaster",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ironworks",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "j-e-wood",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "jackshaft",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "jesenice",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "john-kelly-limited",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "john-musgrave-sons",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lancashire-loom",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "landflucht",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lap-engine",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lawrence-massachusetts",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "leblanc-process",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lehigh-coal-navigation-company",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "line-shaft",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "low-moor-ironworks",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "luddites",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "macadam",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "march-of-intellect",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mill-town",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "moira-furnace",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "newcomen-memorial-engine",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "newcomen-atmospheric-engine",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "old-bess-beam-engine",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "panther-creek-valley",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "paul-wyatt-cotton-mills",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "petrie-of-rochdale",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "petroleum-revolution",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "pocasset-manufacturing-company",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "pontypool-japan",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "pre-industrial-society",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "pride-of-workmanship",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "production-line",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "rapier-loom",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "reflections-in-bulloughs-pond",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "resolution-beam-engine",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "charles-francois-richard",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ripley-ville",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "rowac",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "runcorn-to-latchford-canal",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "sankey-canal",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "sequin-and-knobel",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "silesian-weavers-uprising",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "sirocco-works",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "slater-mill",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "smethwick-engine",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "smith-dove-co",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "snailbeach-countryside-site",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "social-question",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "society-50",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "soho-foundry",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "statistical-accounts-of-scotland",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "steam-power-during-the-industrial-revolution",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "stocking-frame",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "stott",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "structural-transformation",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "sun-and-planet-gear",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "surplus-women",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "sykes-bleaching-company",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "textile-manufacture-during-the-british-industrial-revolution",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "thomas-walmsley-and-sons",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "tredegar-iron-and-coal-company",
+      "industrial-revolution",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Industrial Revolution article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:10:33.688Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

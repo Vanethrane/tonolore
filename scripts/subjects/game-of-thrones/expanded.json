@@ -247,10 +247,10 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (gameofthrones.fandom.com) for identification and commentary only. Character / franchise art © George R.R. Martin / HBO (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-13T03:50:18.860Z",
+  "generated_at": "2026-09-14T19:26:29.253Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://gameofthrones.fandom.com/wiki/",

@@ -169,7 +169,7 @@
     {
       "slug": "forsaken",
       "description": "thumb|right|300px|Clockwise from left: Sammael, Be'lal, Mesaana, Aginor, Asmodean, Demandred, Rahvin, Semirhage, Lanfear, Balthamel, Moghedien, GraendalCenter: Ishamael|alt=\n\nAlthough during the War of Power there were dozens of Forsaken leading the armies of the Shadow, as time passed, the term \"Forsaken\" came to refer to only the thirteen most powerful among them, who were caught in the sealing of the Bore and imprisoned with the Dark One. The horrific deeds of each were remembered long after their disappearance. In the Third Age, these thirteen were such infamous symbols of the Shadow that mothers would use stories of their exploits to frighten children.\n\nA well known catechism about the Forsaken is as follows: \"The Dark One and all the Forsaken are bound in Shayol Ghul, bound by the Creator at the moment of Creation, bound until the end of time,\" or a similar variant. This is incorrect, of course, as the Forsaken were not even born until the Age of Legends, and it is unclear if there even was an original \"moment of Creation\"—nor is the imprisonment forever. Due to the general weakening of the Seven Seals, some, perhaps all thirteen, had escaped by 997 NE, and all were certainly free by 998 NE.\n\nIn the Age of Legends, those who could channel the One Power afforded the most status and honor as Aes Sedai, living up to the literal translation \"servants of all.\" They employed their various Talents in ways that served the good of society. If a channeler used the Power in a way that was harmful or deceitful, which was relatively rare, he or she would be bound as a criminal by a binder that prevented a repeat offense. Although some such individuals existed who were immoral, there existed little or no opportunity to prosper through corrupt means as service to humanity, in general, was the means by which one could acquire status.",
-      "image_url": "https://static.wikia.nocookie.net/wot/images/0/0a/The_Forsaken.PNG/revision/latest/scale-to-width-down/360?cb=20090804163326",
+      "image_url": "https://static.wikia.nocookie.net/wot/images/0/0a/The_Forsaken.PNG/revision/latest/scale-to-width-down/180?cb=20090804163326",
       "image_source": "https://wot.fandom.com/wiki/Forsaken",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Robert Jordan estate / Tor Books / respective rights holders (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -253,7 +253,7 @@
     },
     {
       "slug": "aiel",
-      "image_url": "https://static.wikia.nocookie.net/wot/images/9/9f/Jeremy_Saliba_aiel_take_2.jpg/revision/latest/scale-to-width-down/360?cb=20091219033003",
+      "image_url": "https://static.wikia.nocookie.net/wot/images/9/9f/Jeremy_Saliba_aiel_take_2.jpg/revision/latest/scale-to-width-down/180?cb=20091219033003",
       "image_source": "https://wot.fandom.com/wiki/Aiel",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Robert Jordan estate / Tor Books / respective rights holders (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -637,7 +637,7 @@
     },
     {
       "slug": "seanchan",
-      "image_url": "https://static.wikia.nocookie.net/wot/images/6/67/SeanchanFlag.png/revision/latest/scale-to-width-down/360?cb=20210630163557",
+      "image_url": "https://static.wikia.nocookie.net/wot/images/6/67/SeanchanFlag.png/revision/latest/scale-to-width-down/180?cb=20210630163557",
       "image_source": "https://wot.fandom.com/wiki/Seanchan",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Robert Jordan estate / Tor Books / respective rights holders (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -14275,6 +14275,64 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "the-wheel-of-time-companion",
+      "name": "The Wheel of Time Companion",
+      "type": "work",
+      "description": "The Wheel of Time Companion is an encyclopedia and guidebook to the world of The Wheel of Time. It was published in November 2015. It was written by Harriet McDougal, Robert Jordan's widow and editor, with the assistance of Maria Simons and Alan Romanczuk. Maria and Alan were Robert Jordan's writing assistants and fact-checkers during the writing of most of the novels of the main series. The book draws heavily upon Robert Jordan's unpublished notes and outlines for the series.\n\nThe companion is the second guide to the series to be published, following The World of Robert Jordan's The Wheel of Time, published in 1997. The companion is a new work, not merely an updated version of the older book.\n\nThe book features a comprehensive guide to many of the characters in the series, along with a 1,000-word vocabulary of the Old Tongue, new maps depicting the Last Battle (including one of Thakan'dar), new portraits of many of the characters, detailed information on the nations of the world, descriptions of flora and fauna, and information on the relative strengths of different channelers.\n\nThe book features new artwork commissioned by Irene Gallo at Tor Books.",
+      "short_description": "The Wheel of Time Companion is an encyclopedia and guidebook to the world of The Wheel of Time. It was published in November 2015. It was written by Harriet McDougal, Robert Jordan's widow and editor, with the…",
+      "evidence": "fiction",
+      "parentSlug": "wheel-of-time",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/wot/images/b/b5/The_Wheel_of_Time_Companion.jpg/revision/latest/scale-to-width-down/180?cb=20150108021734",
+      "image_source": "https://wot.fandom.com/wiki/The_Wheel_of_Time_Companion",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Robert Jordan estate / Tor Books / respective rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for The Wheel of Time Companion",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "work",
+        "fandom_url": "https://wot.fandom.com/wiki/The_Wheel_of_Time_Companion",
+        "fandom_title": "The Wheel of Time Companion",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shadow-forger",
+      "name": "Shadow-Forger",
+      "type": "person",
+      "description": "They are man-shaped and seemingly made of stone, having skin hard enough to turn aside swords. They move extremely slowly and are very strong. Demandred is not able to tell one forger from another. They have dead eyes and cannot speak.\n\nThey are not truly alive. and are rumored to become fierce when provoked. This may not be true as they do not appear to show resistance against Aviendha and her group of channelers when they storm the forge, showing only \"a hint of confusion\". Aviendha, by her own admission, did not wish to wait to test that rumor.\n\nTransported any distance from Shayol Ghul, they simply turn to stone or dust. They can also be killed by the water in which they quench their blades, which is poisonous enough to kill anyone who touches it. Demandred notes that they take great care in not touching it. Aviendha kills one by decapitating it with a weave of Fire, after which it turns to dust.\n\nWe do not know how they are made, nor how, or even if, they reproduce.",
+      "short_description": "They are man-shaped and seemingly made of stone, having skin hard enough to turn aside swords. They move extremely slowly and are very strong. Demandred is not able to tell one forger from another. They have dead eyes…",
+      "evidence": "fiction",
+      "parentSlug": "dark-one",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/wot/images/2/26/Shadow-Forger.png/revision/latest/scale-to-width-down/180?cb=20260707171136",
+      "image_source": "https://wot.fandom.com/wiki/Shadow-Forger",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Robert Jordan estate / Tor Books / respective rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Shadow-Forger",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://wot.fandom.com/wiki/Shadow-Forger",
+        "fandom_title": "Shadow-Forger",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -17501,15 +17559,31 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "the-wheel-of-time-companion",
+      "wheel-of-time",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "shadow-forger",
+      "dark-one",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (wot.fandom.com) for identification and commentary only. Character / franchise art © Robert Jordan estate / Tor Books / respective rights holders (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-13T03:39:13.606Z",
+  "generated_at": "2026-09-14T17:49:38.657Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://wot.fandom.com/wiki/",
@@ -17525,7 +17599,7 @@
     "image_backfill_count": 1,
     "description_backfill_at": "2026-09-11T22:22:17.940Z",
     "description_backfill_count": 1,
-    "description_ensure_at": "2026-09-13T03:39:15.551Z",
+    "description_ensure_at": "2026-09-14T17:49:02.730Z",
     "description_ensure_count": 1
   }
 }

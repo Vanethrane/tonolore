@@ -12048,7 +12048,7 @@
       "parentSlug": "dungeons-and-dragons",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/forgottenrealms/images/3/32/Great_bear_shaman_-_MATIAS_TAPIA.png/revision/latest/scale-to-width-down/360?cb=20260501194230",
+      "image_url": "https://static.wikia.nocookie.net/forgottenrealms/images/3/32/Great_bear_shaman_-_MATIAS_TAPIA.png/revision/latest/scale-to-width-down/180?cb=20260501194230",
       "image_source": "https://forgottenrealms.fandom.com/wiki/Great_Bear",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Wizards of the Coast / Hasbro (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -17372,10 +17372,10 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (forgottenrealms.fandom.com) for identification and commentary only. Character / franchise art © Wizards of the Coast / Hasbro (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-13T04:19:31.225Z",
+  "generated_at": "2026-09-14T20:00:56.526Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://forgottenrealms.fandom.com/wiki/",

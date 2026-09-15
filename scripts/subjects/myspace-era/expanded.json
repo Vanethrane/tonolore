@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "myspace-era",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era",
+        "fandom_title": "MySpace era",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_figures",
+        "fandom_title": "MySpace era figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_world_&_context",
+        "fandom_title": "MySpace era world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_places",
+        "fandom_title": "MySpace era places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_events",
+        "fandom_title": "MySpace era events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_objects_&_artifacts",
+        "fandom_title": "MySpace era objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_factions_&_groups",
+        "fandom_title": "MySpace era factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_concepts",
+        "fandom_title": "MySpace era concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_eras",
+        "fandom_title": "MySpace era eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_works_&_media",
+        "fandom_title": "MySpace era works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_symbols",
+        "fandom_title": "MySpace era symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_controversies",
+        "fandom_title": "MySpace era controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_geography",
+        "fandom_title": "MySpace era geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_legacy",
+        "fandom_title": "MySpace era legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_practices",
+        "fandom_title": "MySpace era practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_1",
+        "fandom_title": "MySpace era entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_2",
+        "fandom_title": "MySpace era entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_3",
+        "fandom_title": "MySpace era entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_4",
+        "fandom_title": "MySpace era entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_5",
+        "fandom_title": "MySpace era entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_6",
+        "fandom_title": "MySpace era entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_7",
+        "fandom_title": "MySpace era entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_8",
+        "fandom_title": "MySpace era entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_9",
+        "fandom_title": "MySpace era entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_10",
+        "fandom_title": "MySpace era entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_11",
+        "fandom_title": "MySpace era entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_12",
+        "fandom_title": "MySpace era entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_13",
+        "fandom_title": "MySpace era entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_14",
+        "fandom_title": "MySpace era entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_15",
+        "fandom_title": "MySpace era entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_16",
+        "fandom_title": "MySpace era entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_17",
+        "fandom_title": "MySpace era entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_18",
+        "fandom_title": "MySpace era entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_19",
+        "fandom_title": "MySpace era entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_20",
+        "fandom_title": "MySpace era entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_21",
+        "fandom_title": "MySpace era entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_22",
+        "fandom_title": "MySpace era entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_23",
+        "fandom_title": "MySpace era entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "myspace-era-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/MySpace_era_entry_24",
+        "fandom_title": "MySpace era entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. MySpace era article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:46:45.355Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

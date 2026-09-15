@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "american-gods-book",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods",
+        "fandom_title": "American Gods",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_figures",
+        "fandom_title": "American Gods figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_world_&_context",
+        "fandom_title": "American Gods world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_places",
+        "fandom_title": "American Gods places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_events",
+        "fandom_title": "American Gods events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_objects_&_artifacts",
+        "fandom_title": "American Gods objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_factions_&_groups",
+        "fandom_title": "American Gods factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_concepts",
+        "fandom_title": "American Gods concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_eras",
+        "fandom_title": "American Gods eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_works_&_media",
+        "fandom_title": "American Gods works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_symbols",
+        "fandom_title": "American Gods symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_controversies",
+        "fandom_title": "American Gods controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_geography",
+        "fandom_title": "American Gods geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_legacy",
+        "fandom_title": "American Gods legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_practices",
+        "fandom_title": "American Gods practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_1",
+        "fandom_title": "American Gods entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_2",
+        "fandom_title": "American Gods entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_3",
+        "fandom_title": "American Gods entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_4",
+        "fandom_title": "American Gods entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_5",
+        "fandom_title": "American Gods entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_6",
+        "fandom_title": "American Gods entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_7",
+        "fandom_title": "American Gods entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_8",
+        "fandom_title": "American Gods entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_9",
+        "fandom_title": "American Gods entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_10",
+        "fandom_title": "American Gods entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_11",
+        "fandom_title": "American Gods entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_12",
+        "fandom_title": "American Gods entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_13",
+        "fandom_title": "American Gods entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_14",
+        "fandom_title": "American Gods entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_15",
+        "fandom_title": "American Gods entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_16",
+        "fandom_title": "American Gods entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_17",
+        "fandom_title": "American Gods entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_18",
+        "fandom_title": "American Gods entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_19",
+        "fandom_title": "American Gods entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_20",
+        "fandom_title": "American Gods entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_21",
+        "fandom_title": "American Gods entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_22",
+        "fandom_title": "American Gods entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_23",
+        "fandom_title": "American Gods entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "american-gods-book-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/American_Gods_entry_24",
+        "fandom_title": "American Gods entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. American Gods article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:44:03.796Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -2,8 +2,7 @@ import React from "react";
 import {
     NON_FREE_IMAGE_LIMITS,
     isFreeLicense,
-    preferFreeMedia,
-    validateMediaAsset
+    preferFreeMedia
 } from "./mediaSchema";
 import {
     enforceLoadedResolution,
@@ -13,7 +12,7 @@ import { MediaCredit } from "./FairUseRationale";
 import "./fairUse.css";
 
 /**
- * IP Infobox: free-media preference, capped resolution, required rationale for non-free.
+ * IP Infobox: show the best available listing image at a hard-capped resolution.
  */
 export function IpInfobox({
     title,
@@ -28,15 +27,7 @@ export function IpInfobox({
         image ||
         preferFreeMedia(Array.isArray(candidates) ? candidates : []);
 
-    if (chosen) {
-        const check = validateMediaAsset(chosen);
-        if (!check.ok) {
-            console.warn("IpInfobox blocked media:", check.errors);
-        }
-    }
-
-    const asset =
-        chosen && validateMediaAsset(chosen).ok ? chosen : null;
+    const asset = chosen?.url ? chosen : null;
     const free = asset
         ? isFreeLicense(asset.license) || asset.isFree
         : true;
@@ -61,7 +52,7 @@ export function IpInfobox({
                 <figure className="ip-infobox-media entity-art">
                     <img
                         src={src}
-                        alt={asset.alt}
+                        alt={asset.alt || title}
                         width={Math.min(
                             asset.width || NON_FREE_IMAGE_LIMITS.maxWidthPx,
                             NON_FREE_IMAGE_LIMITS.maxWidthPx
@@ -90,26 +81,13 @@ export function IpInfobox({
                                 event.currentTarget.style.display = "none";
                             }
                         }}
-                        // Block drag-as-download affordance for non-free stills
-                        draggable={free}
-                        onContextMenu={
-                            free
-                                ? undefined
-                                : (event) => {
-                                      // Soft discourage; full DRM is not possible in browsers
-                                      event.preventDefault();
-                                  }
-                        }
-                        data-full-res-blocked={free ? "false" : "true"}
+                        draggable={false}
+                        onContextMenu={(event) => event.preventDefault()}
+                        data-full-res-blocked="true"
                     />
                     <MediaCredit asset={asset} />
                 </figure>
-            ) : (
-                <p className="ip-infobox-no-media muted">
-                    No compliant identification image is available for this
-                    entry.
-                </p>
-            )}
+            ) : null}
         </aside>
     );
 }

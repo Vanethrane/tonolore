@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "neuromancer-lore",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer",
+        "fandom_title": "Neuromancer",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_figures",
+        "fandom_title": "Neuromancer figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_world_&_context",
+        "fandom_title": "Neuromancer world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_places",
+        "fandom_title": "Neuromancer places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_events",
+        "fandom_title": "Neuromancer events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_objects_&_artifacts",
+        "fandom_title": "Neuromancer objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_factions_&_groups",
+        "fandom_title": "Neuromancer factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_concepts",
+        "fandom_title": "Neuromancer concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_eras",
+        "fandom_title": "Neuromancer eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_works_&_media",
+        "fandom_title": "Neuromancer works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_symbols",
+        "fandom_title": "Neuromancer symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_controversies",
+        "fandom_title": "Neuromancer controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_geography",
+        "fandom_title": "Neuromancer geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_legacy",
+        "fandom_title": "Neuromancer legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_practices",
+        "fandom_title": "Neuromancer practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_1",
+        "fandom_title": "Neuromancer entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_2",
+        "fandom_title": "Neuromancer entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_3",
+        "fandom_title": "Neuromancer entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_4",
+        "fandom_title": "Neuromancer entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_5",
+        "fandom_title": "Neuromancer entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_6",
+        "fandom_title": "Neuromancer entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_7",
+        "fandom_title": "Neuromancer entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_8",
+        "fandom_title": "Neuromancer entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_9",
+        "fandom_title": "Neuromancer entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_10",
+        "fandom_title": "Neuromancer entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_11",
+        "fandom_title": "Neuromancer entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_12",
+        "fandom_title": "Neuromancer entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_13",
+        "fandom_title": "Neuromancer entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_14",
+        "fandom_title": "Neuromancer entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_15",
+        "fandom_title": "Neuromancer entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_16",
+        "fandom_title": "Neuromancer entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_17",
+        "fandom_title": "Neuromancer entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_18",
+        "fandom_title": "Neuromancer entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_19",
+        "fandom_title": "Neuromancer entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_20",
+        "fandom_title": "Neuromancer entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_21",
+        "fandom_title": "Neuromancer entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_22",
+        "fandom_title": "Neuromancer entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_23",
+        "fandom_title": "Neuromancer entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neuromancer-lore-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neuromancer_entry_24",
+        "fandom_title": "Neuromancer entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Neuromancer article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:30:00.377Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

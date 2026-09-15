@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T04:06:26.521Z",
+  "generated_at": "2026-09-14T19:54:51.687Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (witcher.fandom.com) for identification and commentary only. Character / franchise art © Andrzej Sapkowski / CD Projekt (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -93,7 +93,7 @@
       },
       "description": "Cirilla Fiona Elen Riannon (better known as Ciri), was born in , and most likely during the Belleteyn holiday. She was the sole princess of Cintra, the daughter of Pavetta and Emhyr var Emreis (who was using the alias \"Duny\" at the time) as well as Queen Calanthe's granddaughter.\n\nAfter Geralt of Rivia helped lift Duny's curse, Duny asked what reward the witcher would like and Geralt invoked the Law of Surprise, as it turned out Pavetta was pregnant with Ciri, unbeknownst to Duny.\n\nCiri was born in Skellige in Belleteyn of the following year and initially, Calanthe ordered her advisor Mousesack to kill Geralt, wishing to break free from the Law of Surprise. Mousesack was ready to go, as nobody refused the queen, but when he was summoned a short time later Calanthe retracted the order without explanation.\n\nGrowing up, not much is known about Ciri's relationship with her parents, though it appeared Pavetta adored her daughter, with others remarking how it was rare for her to be parted from Ciri. However, this didn't stop Pavetta from secretly sending Ciri ashore just as the small family was set to sail out from Skellige to Cintra, against Calanthe's wishes, who wished for them all to stay. Shortly after, Pavetta and Duny died at sea around the Sedna Abyss, making Ciri an orphan before she was 5 years old. Angry at her nephew-in-law, Crach an Craite, for letting them sail out, Calanthe then had Crach swear a blood oath that he'd always protect Ciri before deciding to forbid Ciri from visiting the isles again. However, this ban only lasted 6 months before Calanthe let Ciri visit Skellige once more every summer and winter.",
       "short_description": "Cirilla Fiona Elen Riannon (better known as Ciri), was born in , and most likely during the Belleteyn holiday. She was the sole princess of Cintra, the daughter of Pavetta and Emhyr var Emreis (who was using the alias…",
-      "image_url": "https://static.wikia.nocookie.net/witcher/images/1/1f/Tw3_ciri_by_ivances-d7v55z5.png/revision/latest/scale-to-width-down/360?cb=20160527143845",
+      "image_url": "https://static.wikia.nocookie.net/witcher/images/1/1f/Tw3_ciri_by_ivances-d7v55z5.png/revision/latest/scale-to-width-down/180?cb=20160527143845",
       "image_source": "https://witcher.fandom.com/wiki/Ciri",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Andrzej Sapkowski / CD Projekt (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -403,7 +403,7 @@
       "slug": "lodge-of-sorceresses",
       "description": "The Lodge of Sorceresses arose from the ruins of the Brotherhood of Sorcerers after the incident on Thanedd Island essentially killed the older order among mages. It was a secret organization composed entirely of female mages and even referred to as a sisterhood due to no men being invited, as the sorceresses saw men as too incompetent to handle governing areas of magic.\n\nAfter the fall of the Brotherhood, Philippa Eilhart began to lay plans to bring forth a new mage organization. With input from some of her fellow sorceresses, they reached out in secret to other notable sorceresses about their tentative plans. Then, on August 5, , several weeks after the coup, Philippa started the first meeting that was attended by herself, Triss Merigold, Keira Metz, and Margarita Laux-Antille with Sabrina Glevissig, Sheala de Tancarville, Francesca Findabair, and Assire var Anahid appearing as projections in Philippa's castle, Montecalvo. Initially it started off rocky, as Francesca had helped out Nilfgaard during the Thanedd coup, while the rest remained neutral or sided with the North, but after revealing that Francesca and Assire could be killed if Nilfgaard found out about the meetings the group banded together and collectively agreed to not invite any men and to remain politically independent when it came to the meetings, though outside of them they were free to side with whoever. Feeling there should be 12 total members, Philippa then stated they'd have a second meeting in a couple weeks where the latter 4 seats would be introduced by Assire, Francesca, and Philippa.\n\nThe second meeting at Montecalvo in Redania was in person. In addition to the original members, Assire brought Fringilla Vigo as a new member, and Francesca brought Ida Emean aep Sivney and Yennefer of Vengerberg (though the latter was brought to the meeting unwillingly). Yennefer was also less accepted as, unknown to most, she had been neutral during the Thanedd coup but her mistake of using Ciri's visions caused many, like Sabrina and Keira, to believe she'd sided with Nilfgaard.\n\nOnce all had arrived, Philippa re-affirmed that the Lodge's goals were to protect the interests of magic. She then announced her ultimate plan: to have one of magical ability on a royal throne to directly influence the world, specifically the kingdom of Kovir and Poviss. She then revealed who she wanted to fill the 12th, empty seat in the Lodge: Ciri, the sole heir and princess of Cintra and a carrier of the Elder Blood, and who Philippa hoped to wed to the prince and heir of Kovir, Tankred Thyssen. Philippa then had Yennefer tell them everything she knew of Ciri, from Geralt's role in the Law of Surprise that linked him to Ciri all the way to when Yennefer, on Tissaia's orders, had Ciri go into a trance at Garstang. The conversation then turned to discussing the Elder Blood at length and finally the crucial information that most of them already knew: Nilfgaard had a fake Ciri.",
       "short_description": "The Lodge of Sorceresses arose from the ruins of the Brotherhood of Sorcerers after the incident on Thanedd Island essentially killed the older order among mages. It was a secret organization composed entirely of female…",
-      "image_url": "https://static.wikia.nocookie.net/witcher/images/f/fb/Tw2_Lodge_sorceress.jpg/revision/latest/scale-to-width-down/360?cb=20110830214109",
+      "image_url": "https://static.wikia.nocookie.net/witcher/images/f/fb/Tw2_Lodge_sorceress.jpg/revision/latest/scale-to-width-down/180?cb=20110830214109",
       "image_source": "https://witcher.fandom.com/wiki/Lodge_of_Sorceresses",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Andrzej Sapkowski / CD Projekt (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -11264,7 +11264,7 @@
       "parentSlug": "the-witcher",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/witcher/images/3/38/Netflix_concept_tor_lara.jpg/revision/latest/scale-to-width-down/360?cb=20200101185440",
+      "image_url": "https://static.wikia.nocookie.net/witcher/images/3/38/Netflix_concept_tor_lara.jpg/revision/latest/scale-to-width-down/180?cb=20200101185440",
       "image_source": "https://witcher.fandom.com/wiki/Tor_Lara",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Andrzej Sapkowski / CD Projekt (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",

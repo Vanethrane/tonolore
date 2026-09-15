@@ -1,0 +1,15 @@
+﻿Γùç injected env (2) from .env // tip: Γîÿ enable debugging { debug: true }
+{
+  "published": 68675,
+  "missingJson": 2,
+  "missingShell": 2,
+  "samplesJson": [
+    "hellraiser/cenobite-hellraiser",
+    "bakugan/baku-tech-bakugan"
+  ],
+  "samplesShell": [
+    "hellraiser/cenobite-hellraiser",
+    "bakugan/baku-tech-bakugan"
+  ],
+  "relationshipsToUnpublishedTargets": 142
+}

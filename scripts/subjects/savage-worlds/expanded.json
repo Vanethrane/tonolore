@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "savage-worlds",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds",
+        "fandom_title": "Savage Worlds",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_figures",
+        "fandom_title": "Savage Worlds figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_world_&_context",
+        "fandom_title": "Savage Worlds world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_places",
+        "fandom_title": "Savage Worlds places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_events",
+        "fandom_title": "Savage Worlds events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_objects_&_artifacts",
+        "fandom_title": "Savage Worlds objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_factions_&_groups",
+        "fandom_title": "Savage Worlds factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_concepts",
+        "fandom_title": "Savage Worlds concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_eras",
+        "fandom_title": "Savage Worlds eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_works_&_media",
+        "fandom_title": "Savage Worlds works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_symbols",
+        "fandom_title": "Savage Worlds symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_controversies",
+        "fandom_title": "Savage Worlds controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_geography",
+        "fandom_title": "Savage Worlds geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_legacy",
+        "fandom_title": "Savage Worlds legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_practices",
+        "fandom_title": "Savage Worlds practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_1",
+        "fandom_title": "Savage Worlds entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_2",
+        "fandom_title": "Savage Worlds entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_3",
+        "fandom_title": "Savage Worlds entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_4",
+        "fandom_title": "Savage Worlds entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_5",
+        "fandom_title": "Savage Worlds entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_6",
+        "fandom_title": "Savage Worlds entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_7",
+        "fandom_title": "Savage Worlds entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_8",
+        "fandom_title": "Savage Worlds entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_9",
+        "fandom_title": "Savage Worlds entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_10",
+        "fandom_title": "Savage Worlds entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_11",
+        "fandom_title": "Savage Worlds entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_12",
+        "fandom_title": "Savage Worlds entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_13",
+        "fandom_title": "Savage Worlds entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_14",
+        "fandom_title": "Savage Worlds entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_15",
+        "fandom_title": "Savage Worlds entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_16",
+        "fandom_title": "Savage Worlds entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_17",
+        "fandom_title": "Savage Worlds entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_18",
+        "fandom_title": "Savage Worlds entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_19",
+        "fandom_title": "Savage Worlds entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_20",
+        "fandom_title": "Savage Worlds entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_21",
+        "fandom_title": "Savage Worlds entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_22",
+        "fandom_title": "Savage Worlds entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_23",
+        "fandom_title": "Savage Worlds entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "savage-worlds-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Savage_Worlds_entry_24",
+        "fandom_title": "Savage Worlds entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Savage Worlds article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T17:04:27.404Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,0 +1,502 @@
+{
+  "enrichments": [
+    {
+      "slug": "playmobil",
+      "description": "Playmobil () is a German line of toys produced by the Brandstätter Group (Geobra Brandstätter GmbH & Co KG), headquartered in Zirndorf, Germany. The signature Playmobil toy is a tall (1:24 scale) human figure with a smiling face . A wide range of accessories, buildings and vehicles, as well as many sorts of animals, are also part of the Playmobil line.\n\nPlaymobil toys are produced in themed series of sets as well as individual special figures and playsets. New products and product lines developed by a 50-strong development team are introduced frequently, and older sets are discontinued. Promotional and one-off products are sometimes produced in very limited quantities. These practices have helped give rise to a sizeable community of collectors. Collector activities extend beyond collecting and free-form play and include customization, miniature wargaming, the creation of photo stories and stop motion films, and using the toys as decoration.\n\nPlaymobil was invented by German inventor Hans Beck (1929–2009), considered the \"Father of Playmobil\". Beck received training as a cabinetmaker and was also an avid hobbyist of model airplanes, a product he pitched to the company Geobra Brandstätter. Horst Brandstätter, the owner of the company, asked Beck to develop toy figures for children instead. (The company had originally been a producer of casket ornaments and handles.)\n\nBeck spent three years from 1971 to 1974 developing what became Playmobil. Beck conducted research that allowed him to develop a toy that would not be too complex but would nevertheless be flexible. He felt that too much flexibility would get in the way of children's imaginations, and too much rigidity would cause frustration. The toy he conceived would fit in a child's hand and its facial design was based on children's drawings: a large head, a big smile, and no nose. \"I would put the little figures in their hands without saying anything about what they were,\" Beck remarked. \"They accepted them right away&nbsp;... They invented little scenarios for them. They never grew tired of playing with them\".",
+      "short_description": "Playmobil () is a German line of toys produced by the Brandstätter Group (Geobra Brandstätter GmbH & Co KG), headquartered in Zirndorf, Germany. The signature Playmobil toy is a tall (1:24 scale) human figure with a…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Playmobil_logo.svg/180px-Playmobil_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Playmobil",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Playmobil article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Playmobil",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil",
+        "fandom_title": "Playmobil",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      }
+    },
+    {
+      "slug": "playmobil-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_figures",
+        "fandom_title": "Playmobil figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_world_&_context",
+        "fandom_title": "Playmobil world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_places",
+        "fandom_title": "Playmobil places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_events",
+        "fandom_title": "Playmobil events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_objects_&_artifacts",
+        "fandom_title": "Playmobil objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_factions_&_groups",
+        "fandom_title": "Playmobil factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_concepts",
+        "fandom_title": "Playmobil concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_eras",
+        "fandom_title": "Playmobil eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_works_&_media",
+        "fandom_title": "Playmobil works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_symbols",
+        "fandom_title": "Playmobil symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_controversies",
+        "fandom_title": "Playmobil controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_geography",
+        "fandom_title": "Playmobil geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_legacy",
+        "fandom_title": "Playmobil legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_practices",
+        "fandom_title": "Playmobil practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_1",
+        "fandom_title": "Playmobil entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_2",
+        "fandom_title": "Playmobil entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_3",
+        "fandom_title": "Playmobil entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_4",
+        "fandom_title": "Playmobil entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_5",
+        "fandom_title": "Playmobil entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_6",
+        "fandom_title": "Playmobil entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_7",
+        "fandom_title": "Playmobil entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_8",
+        "fandom_title": "Playmobil entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_9",
+        "fandom_title": "Playmobil entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_10",
+        "fandom_title": "Playmobil entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_11",
+        "fandom_title": "Playmobil entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_12",
+        "fandom_title": "Playmobil entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_13",
+        "fandom_title": "Playmobil entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_14",
+        "fandom_title": "Playmobil entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_15",
+        "fandom_title": "Playmobil entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_16",
+        "fandom_title": "Playmobil entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_17",
+        "fandom_title": "Playmobil entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_18",
+        "fandom_title": "Playmobil entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_19",
+        "fandom_title": "Playmobil entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_20",
+        "fandom_title": "Playmobil entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_21",
+        "fandom_title": "Playmobil entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_22",
+        "fandom_title": "Playmobil entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_23",
+        "fandom_title": "Playmobil entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "playmobil-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Playmobil_entry_24",
+        "fandom_title": "Playmobil entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Playmobil article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:28:57.109Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

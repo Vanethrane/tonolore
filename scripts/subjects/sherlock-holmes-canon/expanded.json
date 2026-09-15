@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "sherlock-holmes-canon",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon",
+        "fandom_title": "Sherlock Holmes canon",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_figures",
+        "fandom_title": "Sherlock Holmes canon figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_world_&_context",
+        "fandom_title": "Sherlock Holmes canon world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_places",
+        "fandom_title": "Sherlock Holmes canon places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_events",
+        "fandom_title": "Sherlock Holmes canon events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_objects_&_artifacts",
+        "fandom_title": "Sherlock Holmes canon objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_factions_&_groups",
+        "fandom_title": "Sherlock Holmes canon factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_concepts",
+        "fandom_title": "Sherlock Holmes canon concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_eras",
+        "fandom_title": "Sherlock Holmes canon eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_works_&_media",
+        "fandom_title": "Sherlock Holmes canon works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_symbols",
+        "fandom_title": "Sherlock Holmes canon symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_controversies",
+        "fandom_title": "Sherlock Holmes canon controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_geography",
+        "fandom_title": "Sherlock Holmes canon geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_legacy",
+        "fandom_title": "Sherlock Holmes canon legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_practices",
+        "fandom_title": "Sherlock Holmes canon practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_1",
+        "fandom_title": "Sherlock Holmes canon entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_2",
+        "fandom_title": "Sherlock Holmes canon entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_3",
+        "fandom_title": "Sherlock Holmes canon entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_4",
+        "fandom_title": "Sherlock Holmes canon entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_5",
+        "fandom_title": "Sherlock Holmes canon entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_6",
+        "fandom_title": "Sherlock Holmes canon entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_7",
+        "fandom_title": "Sherlock Holmes canon entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_8",
+        "fandom_title": "Sherlock Holmes canon entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_9",
+        "fandom_title": "Sherlock Holmes canon entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_10",
+        "fandom_title": "Sherlock Holmes canon entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_11",
+        "fandom_title": "Sherlock Holmes canon entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_12",
+        "fandom_title": "Sherlock Holmes canon entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_13",
+        "fandom_title": "Sherlock Holmes canon entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_14",
+        "fandom_title": "Sherlock Holmes canon entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_15",
+        "fandom_title": "Sherlock Holmes canon entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_16",
+        "fandom_title": "Sherlock Holmes canon entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_17",
+        "fandom_title": "Sherlock Holmes canon entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_18",
+        "fandom_title": "Sherlock Holmes canon entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_19",
+        "fandom_title": "Sherlock Holmes canon entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_20",
+        "fandom_title": "Sherlock Holmes canon entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_21",
+        "fandom_title": "Sherlock Holmes canon entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_22",
+        "fandom_title": "Sherlock Holmes canon entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_23",
+        "fandom_title": "Sherlock Holmes canon entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sherlock-holmes-canon-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_canon_entry_24",
+        "fandom_title": "Sherlock Holmes canon entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Sherlock Holmes canon article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:44:30.439Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

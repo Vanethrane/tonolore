@@ -1,0 +1,70 @@
+{
+  "enrichments": [
+    {
+      "slug": "asterix-comics",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Asterix",
+        "fandom_title": "Asterix",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "Asterix ( or , \"Asterix the Gaul\"; also known as Asterix and Obelix in some adaptations or The Adventures of Asterix) is a French comic album series about a Gaulish village which, thanks to a magic potion that enhances strength, resists the forces of Julius Caesar's Roman Republic Army in the time after the Gallic Wars. Many adventures take the titular hero Asterix and his friend Obelix to Rome and beyond.\n\nThe series first appeared in the Franco-Belgian comic magazine Pilote on 29 October 1959. It was written by René Goscinny and illustrated by Albert Uderzo until Goscinny's death in 1977. Uderzo then took over the writing until 2009, when he sold the rights to publishing company Hachette; he died in 2020. In 2013, a new team consisting of Jean-Yves Ferri (script) and Didier Conrad (artwork) took over. , 41 volumes have been released; the most recent was penned by new writer Fabcaro and released on 23 October 2025. By that point, the volumes in total had sold 393 million copies,{{cite web\n\nAsterix comics usually start with the following introduction:\n\nThe series follows the adventures of a village of Gauls as they resist Roman occupation in 50 BC. They do so using a magic potion, brewed by their druid Getafix (Panoramix in the French version), which temporarily gives the recipient superhuman strength. The protagonists, the title character Asterix and his friend Obelix, have various adventures. The ending of both names (as well as all the other pseudo-Gaulish names in the series) alludes to the suffix (meaning , like in Latin) present in the names of many real Gaulish chieftains such as Vercingetorix, Orgetorix, and Dumnorix.",
+      "short_description": "Asterix ( ; ) is a fictional character and the titular hero of the French comic book series Asterix.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Asterix.svg/180px-Asterix.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Asterix",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Asterix article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Asterix"
+    },
+    {
+      "slug": "asterix-comics-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Asterix_figures",
+        "fandom_title": "Asterix figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "asterix-comics-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Asterix_world_&_context",
+        "fandom_title": "Asterix world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Asterix article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:58:17.203Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

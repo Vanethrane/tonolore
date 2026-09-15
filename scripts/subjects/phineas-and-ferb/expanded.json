@@ -1,0 +1,592 @@
+{
+  "enrichments": [
+    {
+      "slug": "phineas-and-ferb",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb",
+        "fandom_title": "Phineas and Ferb",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "Phineas and Ferb is an American animated musical-comedy television series created by Dan Povenmire and Jeff \"Swampy\" Marsh for Disney Channel and Disney XD. The series originally aired on the networks for four seasons between 2007 and 2015, and returned for the first of two additional seasons in 2025. The series follows stepbrothers Phineas Flynn and Ferb Fletcher, who construct a grand project or embark on an adventure each day to make the most of their time on summer vacation, to the annoyance of Phineas' older sister Candace Flynn. Candace's attempts to expose their schemes to her mother always fail due to the fights between local evil scientist Dr. Heinz Doofenshmirtz and the boys' secret agent pet Perry the Platypus inadvertently removing all evidence of their work. The series follows a standard plot system, with several running gags occurring each episode.\n\nPovenmire and Marsh conceived the characters while working together on animated programs The Simpsons and Rocko's Modern Life in the 1990s, and were inspired by the summers of their own childhoods. They developed the series together and pitched it to networks for 16 years before successfully selling it to The Walt Disney Company. Phineas and Ferb is produced by Disney Television Animation, and was originally broadcast as a one-episode preview on August 17, 2007, following the premiere of the made-for-television film High School Musical 2. It again previewed on September 28, 2007, and officially premiered on Disney Channel on February 1, 2008. The series originally concluded on June 12, 2015, before two new seasons were ordered in January 2023, with the fifth season premiering on Disney Channel on June 5, 2025, and on Disney+ the following day.\n\nPhineas and Ferb is one of Disney Channel's most successful animated franchises. It received high viewership in the United States on cable television and influenced the development of merchandise, a live tour, spin-offs, and movies. A made-for-television film, Phineas and Ferb the Movie: Across the 2nd Dimension, aired in 2011, while a follow-up titled Phineas and Ferb the Movie: Candace Against the Universe was released on Disney+ in 2020. Critics praised the writing and humor of the show, citing its appeal to a wide range of ages. Others criticized its perceived lack of originality and formulaic approach. The series won a Daytime Emmy Award in 2010 for Outstanding Writing in Animation and several Primetime Emmy Awards for Outstanding Individual Achievement in Animation.",
+      "short_description": "Phineas and Ferb is an American animated musical-comedy television series created by Dan Povenmire and Jeff \"Swampy\" Marsh for Disney Channel and Disney XD. The series originally aired on the networks for four seasons…"
+    },
+    {
+      "slug": "phineas-and-ferb-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_figures",
+        "fandom_title": "Phineas and Ferb figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_world_&_context",
+        "fandom_title": "Phineas and Ferb world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_places",
+        "fandom_title": "Phineas and Ferb places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_events",
+        "fandom_title": "Phineas and Ferb events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_objects_&_artifacts",
+        "fandom_title": "Phineas and Ferb objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_factions_&_groups",
+        "fandom_title": "Phineas and Ferb factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_concepts",
+        "fandom_title": "Phineas and Ferb concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_eras",
+        "fandom_title": "Phineas and Ferb eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_works_&_media",
+        "fandom_title": "Phineas and Ferb works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_symbols",
+        "fandom_title": "Phineas and Ferb symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_controversies",
+        "fandom_title": "Phineas and Ferb controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_geography",
+        "fandom_title": "Phineas and Ferb geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_legacy",
+        "fandom_title": "Phineas and Ferb legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_practices",
+        "fandom_title": "Phineas and Ferb practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_1",
+        "fandom_title": "Phineas and Ferb entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_2",
+        "fandom_title": "Phineas and Ferb entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_3",
+        "fandom_title": "Phineas and Ferb entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_4",
+        "fandom_title": "Phineas and Ferb entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_5",
+        "fandom_title": "Phineas and Ferb entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_6",
+        "fandom_title": "Phineas and Ferb entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_7",
+        "fandom_title": "Phineas and Ferb entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_8",
+        "fandom_title": "Phineas and Ferb entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_9",
+        "fandom_title": "Phineas and Ferb entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_10",
+        "fandom_title": "Phineas and Ferb entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_11",
+        "fandom_title": "Phineas and Ferb entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_12",
+        "fandom_title": "Phineas and Ferb entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_13",
+        "fandom_title": "Phineas and Ferb entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_14",
+        "fandom_title": "Phineas and Ferb entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_15",
+        "fandom_title": "Phineas and Ferb entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_16",
+        "fandom_title": "Phineas and Ferb entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_17",
+        "fandom_title": "Phineas and Ferb entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_18",
+        "fandom_title": "Phineas and Ferb entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_19",
+        "fandom_title": "Phineas and Ferb entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_20",
+        "fandom_title": "Phineas and Ferb entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_21",
+        "fandom_title": "Phineas and Ferb entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_22",
+        "fandom_title": "Phineas and Ferb entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_23",
+        "fandom_title": "Phineas and Ferb entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-and-ferb-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_and_Ferb_entry_24",
+        "fandom_title": "Phineas and Ferb entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "dr-doofenshmirtz",
+      "name": "Dr. Doofenshmirtz",
+      "type": "person",
+      "description": "Dr. Heinz Doofenshmirtz, often called \"Doof\" or \"Dr. D\" for short, is a fictional character from the American animated television series Phineas and Ferb and Milo Murphy's Law. He was created by Dan Povenmire and Jeff \"Swampy\" Marsh, and is voiced by Povenmire. Doofenshmirtz is a cartoonishly evil scientist intent on conquering the Tri-State Area using his inventions. Much of the humor associated with Doofenshmirtz comes from the combination of his archetypical megalomania juxtaposed with his affable personality. Doofenshmirtz speaks with a caricature of a German accent and is from the fictional European country Drusselstein.\n\nDoofenshmirtz appears in several merchandise pieces, including a book series and a video game. After first appearing in Milo Murphy's Law in a guest role in the first-season finale, subsequently he becomes in a major supporting character throughout the rest of the series, moving into the Murphy's house after his building is destroyed and before it is later rebuilt.\n\nDoofenshmirtz in the show is a bumbling evil genius. His goal throughout most of the show is to take over the \"entire tri-state area\" from his brother Roger, who is the mayor.\n\nA typical episode features Doofenshmirtz hatching a mischievous scheme or invention that he often links to a \"back story\" from his youth in the fictional village of Gimmelshtump, Drusselstein. Drusselstein is loosely based on countries in Western-Central Europe like Germany, Austria, Bohemia, Hungary, Transylvania, and Switzerland, evidenced by buildings with Fachwerkhäuser architecture, the citizens speaking German in grammatical form or how the food, dresses and carnivals are similar to that of Fasching or even Oktoberfest. As a child, his parents were abusive and neglectful to him in many ways, including forcing him to be a lawn gnome, forcing him to dress as a girl, favoring his brother Roger over him, sending him to boarding school, and both failing to attend his birth. Doofenshmirtz monologues and often and displays acts of \"cartoonish\" physical violence towards Perry the Platypus, his nemesis. Often his inventions achieve a single successful shot before being destroyed. This shot usually serves to get rid of Phineas and Ferb's invention for that episode, preventing their sister, Candace, from \"busting\" them by showing their creations to their mother. According to his own life story, he was a bratwurst salesman, before being ruined by the hot dog industry; only then did he become an evil scientist.",
+      "short_description": "Dr. Heinz Doofenshmirtz, often called \"Doof\" or \"Dr. D\" for short, is a fictional character from the American animated television series Phineas and Ferb and Milo Murphy's Law. He was created by Dan Povenmire and Jeff…",
+      "evidence": "fiction",
+      "parentSlug": "phineas-and-ferb-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Dr._Doofenshmirtz",
+        "fandom_title": "Dr. Doofenshmirtz",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ferb-fletcher",
+      "name": "Ferb Fletcher",
+      "type": "person",
+      "description": "Ferbs \"Ferb\" Fletcher is a fictional character and the titular co-protagonist of the animated television series Phineas and Ferb. Voiced by British actor Thomas Sangster in Phineas and Ferbs original run and the film Across the 2nd Dimension (2011), American actor David Errigo Jr. in the Milo Murphy's Law episode \"The Phineas and Ferb Effect\", the film Candace Against the Universe (2020), and Phineas and Ferbs revival run, with a singing voice by series composer Danny Jacob, he was created by Phineas and Ferb founders Dan Povenmire and Jeff \"Swampy\" Marsh. He first appeared in the show's pilot episode, \"Rollercoaster\".\n\nFerb and his step-brother Phineas Flynn spend their days during summer vacation from school striving to have fun. They are featured in the majority of episodes as the A-Plot constructing large scale inventions or taking part in other outlandish activities. Ferb, an engineering genius, allows Phineas to do most of the talking for the pair and is \"more of a man of action.\" When Ferb does speak, it is almost always a single sentence. In a conversation in the future time of \"Phineas and Ferb's Quantum Boogaloo\", it is revealed that he was at Camp David.\n\nFerb was named after a set-builder named Frank Leasure, a construction foreman on several Star Trek properties and a friend of Povenmire and Marsh. His wife Melinda, an artist on The Simpsons and King of the Hill, nicknamed him \"Ferb\". In \"Vanessassary Roughness\" Ferb explains that his name is short for something, but he didn't get a chance to say it. On Twitter, Povenmire announced that Ferb was actually short for \"Ferbs\". He cares for Vanessa Doofenshmirtz (daughter of Dr. Heinz Doofenshmirtz) and saves her in the same episode when she gets tangled up and a lawn mower almost gets her, but he is able to save her with a giant tool which appears to be an exaggerated version of a Swiss Army Knife. In \"Summer Belongs To You\" Vanessa asks Candace what Ferb is short for; Candace realizes she doesn't know herself what it is short for. In the fourth season episode \"Act Your Age\", he as a teenager appears to be in a relationship with Vanessa. Ferb's design is based on a rectangle and also shaped like an \"F\" and is inspired by the style of late animator Tex Avery. As a character, Ferb has been critically well-received and appears in several pieces of Phineas and Ferb merchandise, including toys, T-shirts, and video games.",
+      "short_description": "Ferbs \"Ferb\" Fletcher is a fictional character and the titular co-protagonist of the animated television series Phineas and Ferb. Voiced by British actor Thomas Sangster in Phineas and Ferbs original run and the film…",
+      "evidence": "fiction",
+      "parentSlug": "phineas-and-ferb-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ferb_Fletcher",
+        "fandom_title": "Ferb Fletcher",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phineas-flynn",
+      "name": "Phineas Flynn",
+      "type": "person",
+      "description": "Phineas Flynn is a fictional character and the titular co-protagonist of the animated television series Phineas and Ferb. He is voiced by Vincent Martella. Phineas, along with his quiet but intelligent stepbrother Ferb Fletcher, stars in the A-Plot of most episodes.\n\nThe series concerns Phineas and Ferb's attempts to avoid boredom by finding something new to do for each day of their summer vacation, often with many other neighborhood children. The activities they devise usually involve outlandish contraptions, including roller coasters, haunted houses, etc. which Phineas and Ferb design and build cooperatively. Phineas's sister is Candace Flynn, who tries to reveal their outrageous creations to their mother, but to no avail.\n\nPhineas comes from a blended family. The creators chose this arrangement because they considered it underused in children's programming as well as from co-creator Jeff \"Swampy\" Marsh's past experiences in one. Phineas appears in Phineas and Ferb merchandise, including plush toys, t-shirts,\n\nPhineas comes from a blended family, a decision co-creator Marsh made to reflect his own experiences growing up.",
+      "short_description": "Phineas Flynn is a fictional character and the titular co-protagonist of the animated television series Phineas and Ferb. He is voiced by Vincent Martella. Phineas, along with his quiet but intelligent stepbrother Ferb…",
+      "evidence": "fiction",
+      "parentSlug": "phineas-and-ferb-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Phineas_Flynn",
+        "fandom_title": "Phineas Flynn",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "dr-doofenshmirtz",
+      "phineas-and-ferb-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ferb-fletcher",
+      "phineas-and-ferb-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "phineas-flynn",
+      "phineas-and-ferb-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Phineas and Ferb article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:21:08.009Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 1,
+    "fandom_enriched_core": 0,
+    "fandom_created": 1,
+    "fandom_images": 0,
+    "fandom_intros": 1,
+    "description_ensure_at": "2026-09-14T09:32:06.171Z",
+    "description_ensure_count": 1
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "enrichments": [
+    {
+      "slug": "neopets",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets",
+        "fandom_title": "Neopets",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "Neopets is a free-to-play virtual pet browser game. First launched in 1999, the game allows users to own virtual pets (\"Neopets\") and explore a virtual world called \"Neopia.\" Players can earn one of two virtual currencies. One currency, called Neopoints, can be obtained for free through on-site features like games, events, and contests. The other, Neocash (NC), is purchased with real-world money and can be exchanged for wearable items for pets.\n\nPlayers can buy digital food, toys, and other items for their Neopets to keep them happy. They can also customize the appearance of their Neopets by applying different colors, clothing, accessories, and styles. Additionally, users can train their Neopets to fight in the \"Battledome,\" which offers both PvP and PvE battles. Players interact with others through social features like message boards and guilds, or by buying, selling, and trading items with each other.\n\nNeopets was conceived in 1997 by Adam Powell, a British student at the University of Nottingham at the time. He shared this idea with Donna Williams and the two started work on the site in September 1999, with Powell responsible for the programming and the database and Williams the web design and art. Their original office was located in Guildford.\n\nThe user base grew by word of mouth and by Christmas 1999, Neopets was logging 600,000 page views daily and sought investors to cover the high cost of running the site. Later in the month, American businessman Doug Dohring was introduced to the creators of the site and, along with other investors, bought a majority share in January of the following year.",
+      "short_description": "Neopets is a free-to-play virtual pet browser game. First launched in 1999, the game allows users to own virtual pets (\"Neopets\") and explore a virtual world called \"Neopia.\" Players can earn one of two virtual…"
+    },
+    {
+      "slug": "neopets-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_figures",
+        "fandom_title": "Neopets figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_world_&_context",
+        "fandom_title": "Neopets world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_places",
+        "fandom_title": "Neopets places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_events",
+        "fandom_title": "Neopets events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_objects_&_artifacts",
+        "fandom_title": "Neopets objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_factions_&_groups",
+        "fandom_title": "Neopets factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_concepts",
+        "fandom_title": "Neopets concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_eras",
+        "fandom_title": "Neopets eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_works_&_media",
+        "fandom_title": "Neopets works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_symbols",
+        "fandom_title": "Neopets symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_controversies",
+        "fandom_title": "Neopets controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_geography",
+        "fandom_title": "Neopets geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_legacy",
+        "fandom_title": "Neopets legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_practices",
+        "fandom_title": "Neopets practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_1",
+        "fandom_title": "Neopets entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_2",
+        "fandom_title": "Neopets entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_3",
+        "fandom_title": "Neopets entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_4",
+        "fandom_title": "Neopets entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_5",
+        "fandom_title": "Neopets entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_6",
+        "fandom_title": "Neopets entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_7",
+        "fandom_title": "Neopets entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_8",
+        "fandom_title": "Neopets entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_9",
+        "fandom_title": "Neopets entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_10",
+        "fandom_title": "Neopets entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_11",
+        "fandom_title": "Neopets entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_12",
+        "fandom_title": "Neopets entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_13",
+        "fandom_title": "Neopets entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_14",
+        "fandom_title": "Neopets entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_15",
+        "fandom_title": "Neopets entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_16",
+        "fandom_title": "Neopets entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_17",
+        "fandom_title": "Neopets entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_18",
+        "fandom_title": "Neopets entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_19",
+        "fandom_title": "Neopets entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_20",
+        "fandom_title": "Neopets entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_21",
+        "fandom_title": "Neopets entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_22",
+        "fandom_title": "Neopets entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_23",
+        "fandom_title": "Neopets entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neopets-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neopets_entry_24",
+        "fandom_title": "Neopets entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Neopets article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:47:13.255Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0,
+    "description_ensure_at": "2026-09-13T17:01:12.327Z",
+    "description_ensure_count": 1
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "marvel-champions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions",
+        "fandom_title": "Marvel Champions",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_figures",
+        "fandom_title": "Marvel Champions figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_world_&_context",
+        "fandom_title": "Marvel Champions world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_places",
+        "fandom_title": "Marvel Champions places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_events",
+        "fandom_title": "Marvel Champions events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_objects_&_artifacts",
+        "fandom_title": "Marvel Champions objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_factions_&_groups",
+        "fandom_title": "Marvel Champions factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_concepts",
+        "fandom_title": "Marvel Champions concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_eras",
+        "fandom_title": "Marvel Champions eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_works_&_media",
+        "fandom_title": "Marvel Champions works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_symbols",
+        "fandom_title": "Marvel Champions symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_controversies",
+        "fandom_title": "Marvel Champions controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_geography",
+        "fandom_title": "Marvel Champions geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_legacy",
+        "fandom_title": "Marvel Champions legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_practices",
+        "fandom_title": "Marvel Champions practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_1",
+        "fandom_title": "Marvel Champions entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_2",
+        "fandom_title": "Marvel Champions entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_3",
+        "fandom_title": "Marvel Champions entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_4",
+        "fandom_title": "Marvel Champions entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_5",
+        "fandom_title": "Marvel Champions entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_6",
+        "fandom_title": "Marvel Champions entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_7",
+        "fandom_title": "Marvel Champions entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_8",
+        "fandom_title": "Marvel Champions entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_9",
+        "fandom_title": "Marvel Champions entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_10",
+        "fandom_title": "Marvel Champions entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_11",
+        "fandom_title": "Marvel Champions entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_12",
+        "fandom_title": "Marvel Champions entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_13",
+        "fandom_title": "Marvel Champions entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_14",
+        "fandom_title": "Marvel Champions entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_15",
+        "fandom_title": "Marvel Champions entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_16",
+        "fandom_title": "Marvel Champions entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_17",
+        "fandom_title": "Marvel Champions entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_18",
+        "fandom_title": "Marvel Champions entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_19",
+        "fandom_title": "Marvel Champions entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_20",
+        "fandom_title": "Marvel Champions entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_21",
+        "fandom_title": "Marvel Champions entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_22",
+        "fandom_title": "Marvel Champions entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_23",
+        "fandom_title": "Marvel Champions entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-champions-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Champions_entry_24",
+        "fandom_title": "Marvel Champions entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Marvel Champions article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T17:10:40.658Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

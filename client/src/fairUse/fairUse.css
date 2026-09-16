@@ -17,7 +17,7 @@
 
 .ip-infobox-media,
 .media-gallery-item {
-    max-width: 220px;
+    max-width: 400px;
 }
 
 .ip-infobox-media img,
@@ -29,8 +29,8 @@
 
 .ip-infobox-media img.is-nonfree-media,
 .media-gallery-item img.is-nonfree-media {
-    /* Soft cue: listing thumb, not poster art */
-    filter: contrast(0.97) saturate(0.96);
+    /* Soft visual cue: identification thumb, not poster art */
+    filter: contrast(0.98);
 }
 
 .fair-use-credit {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T01:07:08.938Z",
+  "generated_at": "2026-09-11T15:24:26.051Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 180,
+    "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (wowpedia.fandom.com) for identification and commentary only. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -170,15 +170,16 @@
     {
       "slug": "thrall",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Thrall",
-      "description": "In an alternate reality, when found an orcish infant whom he named Thrall, he gave him to the Foxton family to nurse. remembered his unique blue eyes. He died after a few days, bringing \"shame\" on her parents and . Many years later, after the Battle of Blackrock Spire, Taretha found an orc who revealed himself as Thrall from the main universe.\n\nCategory:Orc characters Category:Children Category:Thrall: Twilight of the Aspects characters Category:Alternate universe characters Category:Deceased characters Category:Lore characters",
+      "description": "Earthbinder, World Shaman, Son of Durotan Ruler of Durotar Formerly: Warchief of the Horde, Chieftain of the Frostwolf Clan, Leader of the Earthen Ring, see more below\n\nRepresentative of the Orcs on the Horde Council Shaman of the Earthen Ring Ruler of the Nation of Durotar\n\nGarad, Geyah (paternal grandparents); Kelkar, Zuura (maternal grandparents); Durotan, Draka (parents); Ga'nar, Fenris Wolfbrother (paternal uncles), Lokra (maternal aunt), Karg Bloodfury (uncle-in-law); Ryal (mother-in-law); Aggra (life-mate); Durak (son), Rehze (daughter)\n\nThrall (birthname Go'el), son of Durotan and Draka, the former Warchief of the restored shamanistic Horde, founder and current ruler of the Nation of Durotar in Kalimdor and one of the second wave of shaman. His parents killed by Gul'dan's assassins shortly after his birth in the beginning of the First War, he was found and raised by Aedelas Blackmoore who gave Thrall his name. Raised as a slave and gladiator, he later joined Orgrim Doomhammer in freeing the orcs imprisoned after the Second War, being named Warchief after Doomhammer's death. After leading the Horde away from the Alliance-claimed Eastern Kingdoms, he rescued and made allies of the Darkspear trolls and Bloodhoof tauren. Thrall led the new Horde against their former demonic masters in the Battle of Mount Hyjal. He subsequently led diplomatic efforts at peace between the Horde and Alliance after the end of the Third War, as well as accepted new members to the Horde, like the Forsaken of the Undercity and the blood elves of Quel'Thalas.",
       "metadata": {
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Thrall_(alternate_universe)",
-        "fandom_title": "Thrall (alternate universe)",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Thrall",
+        "fandom_title": "Thrall",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "wikipedia",
           "fandom"
-        ]
+        ],
+        "fandom_preferred_image": true
       },
       "short_description": "In an alternate reality, when found an orcish infant whom he named Thrall, he gave him to the Foxton family to nurse. remembered his unique blue eyes. He died after a few days, bringing \"shame\" on her parents and . Many…",
       "image_url": "https://static.wikia.nocookie.net/wowpedia/images/e/e1/Afterlives_-_Draka%27s_last_stand.png/revision/latest/scale-to-width-down/360?cb=20200903172330",
@@ -191,15 +192,16 @@
     {
       "slug": "jaina-proudmoore",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Jaina_Proudmoore",
-      "description": "In an alternate timeline where died as an infant and conquered Kingdom of Lordaeron, Jaina Proudmoore and fled to Stormwind and married. They had a sole son, Prince Uther Menethil.\n\nAfter the wedding, she may have taken the name Menethil. As such she may have become a queen.\n\nCategory:Human characters Category:Mage characters Category:Thrall: Twilight of the Aspects characters Category:Alternate universe characters Category:Lore characters",
+      "description": "Lady Jaina Proudmoore is the daughter of Daelin and Katherine Proudmoore, and sister of Derek and Tandred. She is considered one of the finest mages in all Azeroth and the most powerful human sorceress alive. She is the Lord Admiral of Kul Tiras, the former leader of the Kirin Tor of Dalaran, and of the port-city of Theramore.\n\nTrained as the personal agent of Archmage Antonidas, the late leader of the Kirin Tor and Dalaran, she was sent to investigate the plague of undeath with Prince Arthas Menethil, her childhood friend and one-time romantic interest. She witnessed the first stages of the fall of Lordaeron during the Third War firsthand and, guided by a mysterious prophet later revealed as Medivh, Jaina rallied what survivors she could find and fled across the sea to Kalimdor.\n\nThere, her expedition forces joined together with the night elves and the New Horde and defeated the Burning Legion during the Battle of Mount Hyjal. The human survivors then founded the port city of Theramore, joining the Alliance led by Varian Wrynn, while maintaining peace with the Horde for several years.\n\nShortly after the fall of Deathwing, the Horde led by Garrosh Hellscream destroyed Theramore. Jaina managed to escape with her life, but the experience transformed her, making her more bellicose and even altering her appearance. Following the death of Rhonin during the attack, and fulfilling a prophecy made by the dragon-mage Korialstrasz, Jaina took the fallen mage's place as leader of the Kirin Tor and head of the Council of Six. In spite of personal tragedies, she attempted to maintain the Kirin Tor's neutrality during the Alliance-Horde war. After the Horde-aligned Sunreavers aided Garrosh to steal the :Divine Bell, Jaina exiled the Sunreavers from her city during the Purge of Dalaran and aligned the Kirin Tor with the Alliance. Following the Battle for the Broken Shore, the Council decided unanimously to re-admit the Horde into Dalaran for the greater good. Furious, Jaina left the Kirin Tor.",
       "metadata": {
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Jaina_Proudmoore_(alternate_universe)",
-        "fandom_title": "Jaina Proudmoore (alternate universe)",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Jaina_Proudmoore",
+        "fandom_title": "Jaina Proudmoore",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "wikipedia",
           "fandom"
-        ]
+        ],
+        "fandom_preferred_image": true
       },
       "short_description": "In an alternate timeline where died as an infant and conquered Kingdom of Lordaeron, Jaina Proudmoore and fled to Stormwind and married. They had a sole son, Prince Uther Menethil.",
       "image_url": "https://static.wikia.nocookie.net/wowpedia/images/8/88/Jaina_meets_with_Anduin.jpg/revision/latest/scale-to-width-down/360?cb=20130829223236",
@@ -300,10 +302,10 @@
     {
       "slug": "guldan",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Gul%27dan",
-      "description": "Gul'dan was an orc who was cast out of his clan for his physical weakness, and agreed to a secret alliance with the Burning Legion in exchange to wield fel magic. The first warlock, he seeks to spread his influence — and the power of the Legion — to all worlds.\n\nGul'dan was the main antagonist of World of Warcraft: Warlords of Draenor. He and his Shadow Council are responsible for most of the demonic activity in Draenor and most of the Legendary questline focuses on a cat-and-mouse game between Gul'dan and Archmage Khadgar.\n\nGul'dan returned as a major antagonist in World of Warcraft: Legion, where he made an alliance with the nightborne under Grand Magistrix Elisande to serve the Legion. Atop the Nighthold, he intended to use the corpse of Illidan Stormrage as a vessel to bring Sargeras onto Azeroth. However, the nightfallen rebellion and the order leaders who had fought on Draenor were able to stop him, and Khadgar returned Illidan's soul to his body. His plan in tatters, Gul'dan was destroyed by the reborn Illidan.\n\nNo one now living has heard of the village where Gul'dan was born. He was born crippled, weak, and deformed, which made him a target for constant mockery and abuse ever since his childhood. He knew that he was meant for more than his clan would ever allow of him, and he hated them for it. He used the hate and bitterness he felt as a way to keep going. One day, the other clan members grew so tired of the runt's refusal to accept his place in the clan that they beat him repeatedly in an attempt to rid themselves of him once and for all. As the chieftain was about to beat him again, the elderly shaman of the clan stopped him, saying that he had tried and failed to help Gul'dan find his place in the clan. Laying a hand on Gul'dan's shoulder, the elder said, not unkindly, that there was nothing more he could do for him, but that he had always believed there was greatness within him. He then advised the runt to seek out the , for perhaps there he would find his destiny. In response, Gul'dan angrily slapped his hand away. The chieftain then banished Gul'dan to the wastes outside the village, saying that there he would come to understand what it meant to have no people.",
+      "description": "Gul'dan was the first orcish warlock as well as the de facto founder of the Horde. He betrayed both his people and his mentor Ner'zhul to the demon lord Kil'jaeden for personal gain and power, and was directly responsible for the orcs' fall to demonic enslavement and their subsequent invasion of Azeroth. Tutored by the leaders of the Burning Legion, he is considered one of the most powerful warlocks to have ever existed. He founded the Shadow Council and created the first death knights.\n\nGul'dan serves as the overarching antagonist in Warcraft: Orcs and Humans, the main antagonist in Warcraft II: Tides of Darkness, and a posthumous antagonist for the rest of the Warcraft franchise, though his alternate version does appear as one of the main antagonists in two expansions of World of Warcraft.\n\nGul'dan was born crippled, weak and deformed in a village in Gorgrond. His condition made him a target for constant mockery and abuse, for which he hated his clan. When the others finally tried to beat him to death to be rid of him, the clan's shaman stopped them and told Gul'dan that he saw greatness in him, advising him to go to the Throne of the Elements to seek his destiny. Gul'dan angrily rejected the shaman, and the chieftain banished Gul'dan from the village.\n\nThe bitterness that had sustained him all his life ate at him until nothing was left. After months of starvation and wandering alone through the wastes, Gul'dan began to consider that the safety of a clan might be better than endless suffering. He finally heeded the old shaman's words and, dragging himself to the Throne of the Elements, offered himself in the service of whatever would end his anguish. The spirits of fire, earth, water, and air approached him but, sensing the darkness and fury within the orc's heart, violently recoiled from him. However, in the absence of the furies, Kil'jaeden began to whisper to him. The demon lord offered Gul'dan power in return for becoming the harbinger of his fury.",
       "metadata": {
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe)",
-        "fandom_title": "Gul'dan (alternate universe)",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Gul%27dan",
+        "fandom_title": "Gul'dan",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "wikipedia",
@@ -312,12 +314,12 @@
         "fandom_preferred_image": true
       },
       "short_description": "Gul'dan was an orc who was cast out of his clan for his physical weakness, and agreed to a secret alliance with the Burning Legion in exchange to wield fel magic. The first warlock, he seeks to spread his influence —…",
-      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/5/56/Harbingers_Gul%27dan_1.jpg/revision/latest/scale-to-width-down/180?cb=20160722112946",
-      "image_source": "https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe)",
+      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/5/56/Harbingers_Gul%27dan_1.jpg/revision/latest/scale-to-width-down/360?cb=20160722112946",
+      "image_source": "https://wowpedia.fandom.com/wiki/Gul%27dan",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Gul'dan (alternate universe)"
+      "image_alt": "Identification thumbnail for Gul'dan"
     },
     {
       "slug": "frostmourne",
@@ -428,17 +430,17 @@
     },
     {
       "slug": "orgrimmar",
-      "description": "Orgrimmar is the faction occupying the orcish capital city of Orgrimmar, located on the northern edge of the region of Durotar. The city is a fortified complex guarded by stout walls, massive gates and tall towers. The mountainous ranges of northern Durotar form a natural barrier to the rear of the fortress, and parts of the complex are carved into the mountain itself.\n\nMany zones contain quests that reward Orgrimmar reputation, including: Durotar, Azshara, Northern Barrens, Southern Barrens, Stonetalon Mountains, and Twilight Highlands.\n\nThe Orgrimmar quartermaster, Stone Guard Nargol, can be found on the central mesa of Orgrimmar (Orgrimmar Skyway) by the flight master. At all reputation levels he sells the Orgrimmar Tabard, which can be used to champion Orgrimmar in dungeons for additional reputation.\n\nDaily cooking and fishing quests that reward reputation are available in Orgrimmar. The fishing daily is given by Razgar in the Valley of Honor, while the cooking daily is given by Marogg in The Drag.",
+      "description": "Orgrimmar is the capital city of the orcs, and the Horde as a whole. Nestled into a system of valleys on the northern edge of Durotar, the imposing warrior city is the seat of the Horde Council that governs the entire faction. It is the primary hub for player characters of the Horde and, as with all capital cities, has banks, class and profession trainers, and auction houses. The equivalent hub for the Alliance is Stormwind City.\n\nOrgrimmar has been the central hub of the orc community since the end of the Third War. The city was founded by Thrall and named after his friend and mentor, the former Warchief Orgrim Doomhammer. It is a fortified complex guarded by stout walls, massive gates, and tall towers. The mountainous ranges of northern Durotar form a natural barrier to the rear of the fortress, and parts of the complex are carved into the mountain itself.\n\nThrall led the orcs to the continent of Kalimdor, where they founded a new homeland with the help of their tauren brethren. Naming their new land Durotar after Thrall's murdered father, the orcs settled down to rebuild their once-glorious society. The demonic curse on their kind ended, the Horde changed from a bloodthirsty, warlike juggernaut into more of a loose coalition, dedicated to survival and prosperity rather than conquest. Aided by the noble tauren and the cunning trolls of the Darkspear tribe, Thrall and his orcs looked forward to a new era of peace in their own land.\n\nFrom there, they began the creation of the great warrior city, Orgrimmar. Named after the former Warchief, Orgrim Doomhammer, the new city was constructed in a short amount of time, with the aid of goblins, tauren, trolls, and the Mok'Nathal Rexxar. Despite having some problems with the centaur, harpies, enraged thunder lizards, kobolds, evil orcish warlocks and quilboar, Orgrimmar prospered in the end and became home to the orcs and Darkspear Trolls.",
       "short_description": "Orgrimmar is the faction occupying the orcish capital city of Orgrimmar, located on the northern edge of the region of Durotar. The city is a fortified complex guarded by stout walls, massive gates and tall towers. The…",
-      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/7/74/Orc_Crest.png/revision/latest/scale-to-width-down/360?cb=20240708155638",
-      "image_source": "https://wowpedia.fandom.com/wiki/Orgrimmar_(faction)",
+      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/6/65/Orgrimmar_concept.jpg/revision/latest/scale-to-width-down/360?cb=20210320043957",
+      "image_source": "https://wowpedia.fandom.com/wiki/Orgrimmar",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Orgrimmar (faction)",
+      "image_alt": "Identification thumbnail for Orgrimmar",
       "metadata": {
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Orgrimmar_(faction)",
-        "fandom_title": "Orgrimmar (faction)",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Orgrimmar",
+        "fandom_title": "Orgrimmar",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "wikipedia",
@@ -449,17 +451,17 @@
     },
     {
       "slug": "stormwind",
-      "description": "Stormwind is the faction associated with Stormwind City, the capital of the Alliance humans as well as the Kingdom of Stormwind. It is located in the northwestern part of Elwynn Forest. It was formerly ruled by the young child king Anduin Wrynn, regent Highlord Bolvar Fordragon, and Lady Katrana Prestor, before the return of Anduin's father, King Varian Wrynn, just before the war against the Lich King.\n\nRecently however the Kingdom once again came under the rule of Anduin Wrynn after the death of his father at the Broken Shore at the start of the Burning Legion's third invasion.\n\nMany zones contain quests that reward Stormwind reputation, including: Elwynn Forest, Westfall, Redridge Mountains, Stonetalon Mountains, Southern Barrens, Duskwood, Northern Stranglethorn, and Twilight Highlands.\n\nDaily cooking and fishing quests that reward reputation are available in Stormwind. The fishing daily is given by Catherine Leland along the Canals west of the Trade District. The cooking daily is given by Robby Flay, just outside of the Stockades in the Mage Quarter.",
+      "description": "Stormwind City (a.k.a. New Stormwind or simply Stormwind), located north of Elwynn Forest on Azeroth region's northwest coast, is the capital city of the kingdom of Stormwind and the largest human city on Azeroth. After the Third War, it has become one of the last great human cities, and embodies the heart of the Alliance. Stormwind's willingness to work with others to find diplomatic solutions stands out as one of its true strengths. Its citizens hold fast to the principles of honor and justice as they defend their settlements, and the Alliance, against any aggressors.\n\nNo city better demonstrates human determination than Stormwind. Destroyed during the Horde's initial invasion of Azeroth, Stormwind was painstakingly reconstructed by the Stonemasons' Guild after the Second War. Parts of the city were razed again when Deathwing, the corrupted black Dragon Aspect, brutally attacked Stormwind, but the other undamaged districts are more beautiful than ever thanks to their hardworking inhabitants. From the magnificent Cathedral of Light, which serves as a major spiritual hub, to the awe-inspiring Valley of Heroes, which commemorates the sacrifices of Stormwind's loyal champions, the city truly represents the courageous heart of humanity, and serves as a bastion of the Holy Light.\n\nThe Stormwind City Guard are the law enforcement and protectors of Stormwind City, keeping the peace within the city's walls.\n\nThe kingdom of Stormwind was originally founded 1,200 years before the First War by the descendants of the Arathi bloodline, who had migrated south from the nation of Arathor. Traveling past the rocky mountains of Khaz Modan, their journey finally ended after many long seasons, and they settled in the northern region of the continent they would name Azeroth. In a fertile valley, they founded the kingdom of Stormwind, which quickly became a self-sufficient power in its own right. It had a long and prosperous history, with the king served loyally by the knights of the Brotherhood of the Horse and the clerics of the Holy Order of Northshire Clerics. Secretive conjurers also served the kingdom, and as such Stormwind Keep had its own court conjurer. The Kirin Tor was also present in the kingdom, as Anduin Lothar was acquainted with their fellow wizards in the realm.",
       "short_description": "Stormwind is the faction associated with Stormwind City, the capital of the Alliance humans as well as the Kingdom of Stormwind. It is located in the northwestern part of Elwynn Forest. It was formerly ruled by the…",
-      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/6/60/AllianceLogo.png/revision/latest/scale-to-width-down/360?cb=20180419123400",
-      "image_source": "https://wowpedia.fandom.com/wiki/Stormwind_(faction)",
+      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/c/cb/Stormwind_City_HS.jpg/revision/latest/scale-to-width-down/360?cb=20210807231808",
+      "image_source": "https://wowpedia.fandom.com/wiki/Stormwind_City",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Stormwind (faction)",
+      "image_alt": "Identification thumbnail for Stormwind",
       "metadata": {
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Stormwind_(faction)",
-        "fandom_title": "Stormwind (faction)",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Stormwind_City",
+        "fandom_title": "Stormwind City",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "wikipedia",
@@ -1038,6 +1040,64 @@
       }
     },
     {
+      "slug": "garrosh-hellscream",
+      "name": "Garrosh Hellscream",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Garrosh Hellscream in world of warcraft.",
+      "description": "Garrosh Hellscream was a former Warchief of the Horde chosen by Thrall to replace him in the wake of the Cataclysm, until he was succeeded by Vol'jin after the Siege of Orgrimmar. Throughout the history of Azeroth, few mortals have achieved greater notoriety than him.\n\nGarrosh grew up on Draenor in the shadow of his father, the great warrior Grommash Hellscream, leader of the Warsong clan. Grom was the first orc leader to drink the blood of Mannoroth, subjugating the orcs to the Legion's will. Before this event, Garrosh was among several orcs who had become ill with the red pox. They had been quarantined far away in Nagrand, allowing them to escape the demonic corruption. The younger Hellscream was ashamed of his father for many years until he met Thrall during the invasion of Outland and learned of Grom's heroic redemption. Garrosh has since embraced his potential as a strong leader, most notably in Northrend, where he directed the Horde advance through the Borean Tundra and won the hearts of his people. Uncompromising and fiercely proud, Garrosh intended to restore the orcs' glory by any means necessary.\n\nAs the renewed Alliance-Horde war developed, Garrosh's thirst for power corrupted him to the point that he did not care about the means used to bring the orcish supremacy on Azeroth, with himself as the world's supreme ruler - going as far as to unleash the full power of the dead Old God's heart by resurrecting it using the Pools of Power, effectively destroying half of the sacred pandaren Vale of Eternal Blossoms.\n\nUltimately, he became the final antagonist of Mists of Pandarias Alliance-Horde war arc. He was ultimately defeated and depowered and then captured by the coalition below Orgrimmar. He was to be tried in Pandaria as a war criminal, but managed to escape to an alternate Draenor through the efforts of Kairoz, and Garrosh's own loyalists aided by the infinite dragonflight. There, he was able to confront and witness his transformation into one of the first green orcs, corrupted by the influence of the fel powers, and slowly change the course of events leading to the birth of the Iron Horde.",
+      "aliases": [
+        "Garrosh Hellscream"
+      ],
+      "parentSlug": "world-of-warcraft",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Garrosh_Hellscream",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true,
+        "canon": false,
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Garrosh_Hellscream",
+        "fandom_title": "Garrosh Hellscream",
+        "source_fandom": "wowpedia.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/f/f3/Garrosh_Hellscream.jpg/revision/latest/scale-to-width-down/360?cb=20141220074321",
+      "image_source": "https://wowpedia.fandom.com/wiki/Garrosh_Hellscream",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Garrosh Hellscream"
+    },
+    {
+      "slug": "leeroy-jenkins",
+      "name": "Leeroy Jenkins",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Leeroy Jenkins in world of warcraft.",
+      "description": "He was a part of 's royal guard when he and attempted to parlay with one another in order to stop . However, unknown to all was that , not convinced that aiding the humans would lead to victory, had betrayed them and the parlay was ambushed by forces. During the battle that followed Medivh split the battlefield in two with lightning barriers, allowing the king and most of the party to escape, but locking Leeroy, Callan Lothar and a few footmen with the orc party. Leeroy was first to charge at the orcs.\n\nCategory:Human characters Category:Film universe characters Category:Deceased characters",
+      "aliases": [
+        "Leeroy Jenkins"
+      ],
+      "parentSlug": "world-of-warcraft",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Leeroy_Jenkins",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true,
+        "canon": false,
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Leeroy_Jenkins_(film_universe)",
+        "fandom_title": "Leeroy Jenkins (film universe)",
+        "source_fandom": "wowpedia.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
       "slug": "kaelthas-sunstrider",
       "name": "Kael'thas Sunstrider",
       "type": "person",
@@ -1602,6 +1662,38 @@
       }
     },
     {
+      "slug": "gilneas",
+      "name": "Gilneas",
+      "type": "place",
+      "evidence": "fiction",
+      "short_description": "Gilneas in world of warcraft.",
+      "description": "Gilneas is the name of the in-game starting zone for worgen players. In the overworld, the region is known as the Ruins of Gilneas and can be visited at any time.\n\nQuesting begins with Gilneas City under attack by feral worgen, then expands to the area surrounding the town of Duskhaven, showing the effects of the Cataclysm and the Forsaken invasion of Gilneas. It continues with the introduction of the night elves and the events of the Blackwald, building up to The Battle for Gilneas City and the last stand against the Forsaken and Horde forces in the western section of the peninsula, and finally culminating in the exodus of the Gilneans to Darnassus.\n\n! Zone Name ! Faction ! Level Range ! Direction ! Access\n\nResources found in Gilneas are similar to other starting zones in World of Warcraft and include:",
+      "aliases": [
+        "Gilneas"
+      ],
+      "parentSlug": "azeroth",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Warcraft",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true,
+        "canon": false,
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Gilneas_(starting_zone)",
+        "fandom_title": "Gilneas (starting zone)",
+        "source_fandom": "wowpedia.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/2/2f/Gilneas_concept_art.jpg/revision/latest/scale-to-width-down/360?cb=20180618110534",
+      "image_source": "https://wowpedia.fandom.com/wiki/Gilneas_(starting_zone)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Gilneas (starting zone)"
+    },
+    {
       "slug": "khaz-modan",
       "name": "Khaz Modan",
       "type": "place",
@@ -1746,6 +1838,38 @@
       }
     },
     {
+      "slug": "teldrassil",
+      "name": "Teldrassil",
+      "type": "place",
+      "evidence": "fiction",
+      "short_description": "Teldrassil in world of warcraft.",
+      "description": "Off Kalimdor's northern coast lies the island, and great tree of the same name, Teldrassil, the new home of the reclusive night elves and a stunning testament to the power of their magic and their connection with nature.\n\nIn recent times, the night elves have moved their capital to an island off northwest Kalimdor. It was here that the Circle of the Ancients and the wise druids pooled their power to create another World Tree, but on a smaller scale. They called this tree Teldrassil (“crown of the earth”) and built their city of Darnassus atop it. The island takes the name of the \"tree\" as well, and a twilit forest now covers it.\n\nTeldrassil is truly massive, a huge trunk rising out of the sea and holding the entire night elf homeland, and the capital of Darnassus, in its boughs. The enterprise was not blessed by the Aspects, however, and the tree's growth has been flawed. Regardless, the behemoth of a tree dwarfs Nordrassil, even large enough that a decently large amount of land has emerged atop its gargantuan limbs. Trees, flora, and fauna are now verdantly spreading across the magical tree.\n\nTeldrassil sees very little PvP action due to the fact that Horde players have to cross through Darnassus. The only way for Horde players to get to Teldrassil itself is via ship from Auberdine on mainland Kalimdor. Most other starting areas are directly accessible by the opposing faction without such hazards.",
+      "aliases": [
+        "Teldrassil"
+      ],
+      "parentSlug": "azeroth",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Azeroth",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true,
+        "canon": false,
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Teldrassil_(Classic)",
+        "fandom_title": "Teldrassil (Classic)",
+        "source_fandom": "wowpedia.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/e/e0/Teldrassil.jpg/revision/latest/scale-to-width-down/360?cb=20120123021007",
+      "image_source": "https://wowpedia.fandom.com/wiki/Teldrassil_(Classic)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Teldrassil (Classic)"
+    },
+    {
       "slug": "the-barrens",
       "name": "The Barrens",
       "type": "place",
@@ -1798,129 +1922,6 @@
         "source": "wikipedia-category",
         "discovered": true
       }
-    },
-    {
-      "slug": "garrosh-hellscream",
-      "name": "Garrosh Hellscream",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Garrosh Hellscream in world of warcraft.",
-      "description": "Garrosh Hellscream was a former Warchief of the Horde chosen by Thrall to replace him in the wake of the Cataclysm, until he was succeeded by Vol'jin after the Siege of Orgrimmar. Throughout the history of Azeroth, few mortals have achieved greater notoriety than him.\n\nGarrosh grew up on Draenor in the shadow of his father, the great warrior Grommash Hellscream, leader of the Warsong clan. Grom was the first orc leader to drink the blood of Mannoroth, subjugating the orcs to the Legion's will. Before this event, Garrosh was among several orcs who had become ill with the red pox. They had been quarantined far away in Nagrand, allowing them to escape the demonic corruption. The younger Hellscream was ashamed of his father for many years until he met Thrall during the invasion of Outland and learned of Grom's heroic redemption. Garrosh has since embraced his potential as a strong leader, most notably in Northrend, where he directed the Horde advance through the Borean Tundra and won the hearts of his people. Uncompromising and fiercely proud, Garrosh intended to restore the orcs' glory by any means necessary.\n\nAs the renewed Alliance-Horde war developed, Garrosh's thirst for power corrupted him to the point that he did not care about the means used to bring the orcish supremacy on Azeroth, with himself as the world's supreme ruler - going as far as to unleash the full power of the dead Old God's heart by resurrecting it using the Pools of Power, effectively destroying half of the sacred pandaren Vale of Eternal Blossoms.\n\nUltimately, he became the final antagonist of Mists of Pandarias Alliance-Horde war arc. He was ultimately defeated and depowered and then captured by the coalition below Orgrimmar. He was to be tried in Pandaria as a war criminal, but managed to escape to an alternate Draenor through the efforts of Kairoz, and Garrosh's own loyalists aided by the infinite dragonflight. There, he was able to confront and witness his transformation into one of the first green orcs, corrupted by the influence of the fel powers, and slowly change the course of events leading to the birth of the Iron Horde.",
-      "aliases": [
-        "Garrosh Hellscream"
-      ],
-      "parentSlug": "world-of-warcraft",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Garrosh_Hellscream",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true,
-        "canon": false,
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Garrosh_Hellscream",
-        "fandom_title": "Garrosh Hellscream",
-        "source_fandom": "wowpedia.fandom.com",
-        "sources": [
-          "wikipedia",
-          "fandom"
-        ]
-      },
-      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/f/f3/Garrosh_Hellscream.jpg/revision/latest/scale-to-width-down/360?cb=20141220074321",
-      "image_source": "https://wowpedia.fandom.com/wiki/Garrosh_Hellscream",
-      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
-      "image_license": "fair_use",
-      "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Garrosh Hellscream"
-    },
-    {
-      "slug": "leeroy-jenkins",
-      "name": "Leeroy Jenkins",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Leeroy Jenkins in world of warcraft.",
-      "description": "He was a part of 's royal guard when he and attempted to parlay with one another in order to stop . However, unknown to all was that , not convinced that aiding the humans would lead to victory, had betrayed them and the parlay was ambushed by forces. During the battle that followed Medivh split the battlefield in two with lightning barriers, allowing the king and most of the party to escape, but locking Leeroy, Callan Lothar and a few footmen with the orc party. Leeroy was first to charge at the orcs.\n\nCategory:Human characters Category:Film universe characters Category:Deceased characters",
-      "aliases": [
-        "Leeroy Jenkins"
-      ],
-      "parentSlug": "world-of-warcraft",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Leeroy_Jenkins",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true,
-        "canon": false,
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Leeroy_Jenkins_(film_universe)",
-        "fandom_title": "Leeroy Jenkins (film universe)",
-        "source_fandom": "wowpedia.fandom.com",
-        "sources": [
-          "wikipedia",
-          "fandom"
-        ]
-      }
-    },
-    {
-      "slug": "gilneas",
-      "name": "Gilneas",
-      "type": "organization",
-      "evidence": "fiction",
-      "short_description": "Gilneas in world of warcraft.",
-      "description": "The people of Gilneas are a nation of survivors. Having walled themselves off from the rest of humanity, they now face threats from neighboring lands as well as from within, which quickly threaten to tear their kingdom apart.\n\nAfter finally fleeing from their ravaged homeland, the proud Gilneans have settled in with the Night elves of Darnassus. Having mastered the curse that overtook Gilneas, they have gained the ability to transform into worgen form at will. Their leader, King Genn Greymane, currently resides in Stormwind Keep, within Stormwind City. There, he acts as one of King Anduin Wrynn's primary advisers. As of Battle for Azeroth, Gilneas has been reclaimed in some capacity.\n\nThe zones of Duskwood, Felwood, Stonetalon Mountains, Blasted Lands, and Shadowfang Keep offer some quests for gaining reputation with Gilneas.\n\nThe Gilneas Quartermaster is Lord Candren, located in the Temple Gardens of Darnassus beside the Darnassus flight point. At all reputation levels he sells the Gilneas Tabard, which can be used to champion Gilneas.",
-      "aliases": [
-        "Gilneas"
-      ],
-      "parentSlug": "world-of-warcraft",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Warcraft",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true,
-        "canon": false,
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Gilneas_(faction)",
-        "fandom_title": "Gilneas (faction)",
-        "source_fandom": "wowpedia.fandom.com",
-        "sources": [
-          "wikipedia",
-          "fandom"
-        ],
-        "kind": "faction"
-      },
-      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/a/ab/Worgen-Icon.png/revision/latest/scale-to-width-down/360?cb=20180710002807",
-      "image_source": "https://wowpedia.fandom.com/wiki/Gilneas_(faction)",
-      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
-      "image_license": "fair_use",
-      "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Gilneas (faction)"
-    },
-    {
-      "slug": "teldrassil",
-      "name": "Teldrassil",
-      "type": "place",
-      "evidence": "fiction",
-      "short_description": "Teldrassil in world of warcraft.",
-      "description": "Off Kalimdor's northern coast lies the island, and great tree of the same name, Teldrassil, the new home of the reclusive night elves and a stunning testament to the power of their magic and their connection with nature.\n\nIn recent times, the night elves have moved their capital to an island off northwest Kalimdor. It was here that the Circle of the Ancients and the wise druids pooled their power to create another World Tree, but on a smaller scale. They called this tree Teldrassil (“crown of the earth”) and built their city of Darnassus atop it. The island takes the name of the \"tree\" as well, and a twilit forest now covers it.\n\nTeldrassil is truly massive, a huge trunk rising out of the sea and holding the entire night elf homeland, and the capital of Darnassus, in its boughs. The enterprise was not blessed by the Aspects, however, and the tree's growth has been flawed. Regardless, the behemoth of a tree dwarfs Nordrassil, even large enough that a decently large amount of land has emerged atop its gargantuan limbs. Trees, flora, and fauna are now verdantly spreading across the magical tree.\n\nTeldrassil sees very little PvP action due to the fact that Horde players have to cross through Darnassus. The only way for Horde players to get to Teldrassil itself is via ship from Auberdine on mainland Kalimdor. Most other starting areas are directly accessible by the opposing faction without such hazards.",
-      "aliases": [
-        "Teldrassil"
-      ],
-      "parentSlug": "azeroth",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Azeroth",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true,
-        "canon": false,
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Teldrassil_(Classic)",
-        "fandom_title": "Teldrassil (Classic)",
-        "source_fandom": "wowpedia.fandom.com",
-        "sources": [
-          "wikipedia",
-          "fandom"
-        ]
-      },
-      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/e/e0/Teldrassil.jpg/revision/latest/scale-to-width-down/360?cb=20120123021007",
-      "image_source": "https://wowpedia.fandom.com/wiki/Teldrassil_(Classic)",
-      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
-      "image_license": "fair_use",
-      "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Teldrassil (Classic)"
     },
     {
       "slug": "lore-character",
@@ -6346,29 +6347,28 @@
       "slug": "drekthar",
       "name": "Drek'Thar",
       "type": "person",
-      "description": "Drek'Thar (sometimes spelled Drek'thar) is the elder shaman and former farseer of the Frostwolf clan, and served as Thrall's tutor many years ago. Drek'Thar had to prove his worth during the Horde's dark period, being one of the first shaman eager to learn the dark arts of warlock magic. He found the spirits of the elements to be close companions, so shamanism became his path to might. Despite his power over the elements, Drek'Thar always maintained his meekness and wisdom. He continues to shepherd the younger shaman of the Horde in the old traditions of his people.\n\nCurrently Drek'Thar is the leader of the Frostwolf clan, and the General of the Frostwolf armies in Alterac Valley, as well as one of the few remaining orcs from the old Horde in the current faction. Besides being a shaman, Drek'Thar is also a trained warrior. He was once the Farseer of the Frostwolf clan, but ended up passing that role to Aggralan a few years after the Fourth War.\n\nHe is also an elite boss located at Frostwolf Keep in Alterac Valley.\n\nSome claim that Drek'Thar was blind from birth, and others that he went blind later in life. Drek'Thar was an apprentice shaman to the Frostwolf far seer, Mother Kashur, for many years on Draenor. When Kashur was killed while hunting, Drek'Thar became the senior Frostwolf shaman. Unlike his chieftain, Durotan, Drek'Thar was willing to accept Ner'zhul's announcement due to Mother Kashur's spirit (Kil'jaeden in disguise) confirming that the draenei were plotting against them. When the elements abandoned the orcs following the beginnings of their genocidal campaign against the draenei people, Drek'Thar and the other shamans of the orcish race followed the evil Gul'dan and his apprentices from the Shadow Council into the path of the warlock. As such, he followed all assaults by the Horde on draenei hunting parties as well as on innocent civilians, including women and children. He was also present with Durotan during their meeting with Velen. Drek'Thar wanted to attack the prophet but Durotan stopped him.",
+      "description": "Drek'Thar is the orc elder shaman of the Frostwolf clan that reside in Frostfire Ridge on Draenor. During a battle with a wolf, it bit him on his head and ruptured one eye, the second went blind afterwards.\n\nFollowing the massacre of the Frostwolf clan by the rest of the Horde, Drek'Thar's current location is unknown. noticed that his and Palkar's bodies were not among the dead, but was uncertain whether they had escaped or merely been taken to serve as fuel for the . If they were taken prisoner, they may have been killed to fuel the opening of the , or may still be alive.\n\nDrek'Thar was present when Chieftain Garad refused Gul'dan's offer to join the Horde. Drek'Thar was disturbed by Gul'dan's presence and claimed that death followed him. Sometime after Gul'dan left, Garad became increasingly ill. Drek'Thar could not discover why. Unknown to all, Gul'dan had secretly poisoned Garad with the ceremonial dagger giving to him at the end of the parlay. Garad died in battle against the Redwalker clan. After laying Garad to rest, Drek'Thar asked the spirits to bless their new chieftain Durotan. Although approving of him, both Drek'Thar and Durotan realized that something was off with the spirits.\n\nAfter their attack was repelled by the Frostwolves, the Redwalkers moved north. Through unknown means, they took their strength from the spirits, all the while anticipating that the Frostwolves would come to the spirits' aid. Drek'Thar and his fellow shaman were unable to hear the weakening spirits, resulting in the Frostwolf clan being caught off guard when the volcano near their home erupted. As the Frostwolves settled within a new area to call home, they were once again approached by Gul'dan. Drek'Thar praised Durotan for refusing Gul'dan's offer.",
       "short_description": "Drek'Thar (sometimes spelled Drek'thar) is the elder shaman and former farseer of the Frostwolf clan, and served as Thrall's tutor many years ago. Drek'Thar had to prove his worth during the Horde's dark period, being…",
       "evidence": "fiction",
       "parentSlug": "world-of-warcraft",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/0/06/Drek%27Thar_%28original%29.jpg/revision/latest/scale-to-width-down/360?cb=20191122125114",
-      "image_source": "https://wowpedia.fandom.com/wiki/Drek%27Thar",
+      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/4/4b/Drek%27Thar_during_the_secret_meeting_ambush.jpg/revision/latest/scale-to-width-down/360?cb=20221209141859",
+      "image_source": "https://wowpedia.fandom.com/wiki/Drek%27Thar_(film_universe)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Drek'Thar",
+      "image_alt": "Identification thumbnail for Drek'Thar (film universe)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Drek%27Thar",
-        "fandom_title": "Drek'Thar",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Drek%27Thar_(film_universe)",
+        "fandom_title": "Drek'Thar (film universe)",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -9436,8 +9436,7 @@
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -10637,8 +10636,7 @@
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -10660,8 +10658,7 @@
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -12604,29 +12601,28 @@
       "slug": "blackhand",
       "name": "Blackhand",
       "type": "person",
-      "description": "Blackhand was the chieftain of the mighty Blackrock clan and the first Warchief of the Old Horde until he was killed by Orgrim Doomhammer near the end of the First War. He was known throughout Draenor and Azeroth alike as a brutal tyrant.\n\nBlackhand once visited the Frostwolf Village only to witness a large fire. Blackhand saw Draka hardly able to lift a bucket of water, and he took it as a sign of weakness on the part of the Frostwolf clan. He told that if such a frail child had been born in Blackrock clan they would have killed her. Because of this, Garad exiled Kelkar, Zuura, and Draka to the outskirts of the village.\n\nA warlord with massive musculature and a dominating presence, the chieftain of the Blackrock clan formed brilliant strategies and maintained rigorous order within his armies. He could always turn the tide of battle. He could always find the enemy's weakness. When ogres attacked and his clan faced annihilation, he orchestrated a daring last-minute triumph alongside his second-in-command, Orgrim. On the eve of battle, the chieftain reclaimed a famous weapon, the Doomhammer, and restored hope for victory.\n\nAs all the chieftains, Blackhand was present during a Kosh'harg festival in Nagrand. Later on he went to a meeting to Oshu'gun, where Ner'zhul told them that draenei were their enemies. At first, Blackhand roared in distrust to Ner'zhul's declaration, but changed his mind after learning that other shamans had visions similar to the one described by Ner'zhul. After this, Blackhand then started to attack draenei hunters.",
+      "description": "Blackhand was the Warchief of the , and the mightiest warrior the Horde had ever known. Although a ruthless war leader, he still held respect for tradition, placing honor above victory or even his own survival.\n\nAfter passing through the , Blackhand led the orcish warband on their raids of the denizens of the Eastern Kingdoms. Following the battle at the Great Gate, he challenged to , where he was defeated by the human warrior.\n\nBlackhand was made Warchief of the Horde by in Draenor. Commanding the many orcish clans, he passed through to Azeroth with the initial warband.\n\nBlackhand began to lead raids on the nearby human settlements, taking food and prisoners where possible to fuel the opening of the . Despite this, Blackhand seemed to share the disdain for the one-sided nature of their attacks, wishing to find a worthy foe to fight.",
       "short_description": "Blackhand was the chieftain of the mighty Blackrock clan and the first Warchief of the Old Horde until he was killed by Orgrim Doomhammer near the end of the First War. He was known throughout Draenor and Azeroth alike…",
       "evidence": "fiction",
       "parentSlug": "world-of-warcraft",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/a/a3/Warcraft_I_-_Blackhand.jpg/revision/latest/scale-to-width-down/360?cb=20210616210421",
-      "image_source": "https://wowpedia.fandom.com/wiki/Blackhand",
+      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/1/19/Blackhand_mounted_%28film%29.jpg/revision/latest/scale-to-width-down/360?cb=20160705233322",
+      "image_source": "https://wowpedia.fandom.com/wiki/Blackhand_(film_universe)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Blackhand",
+      "image_alt": "Identification thumbnail for Blackhand (film universe)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Blackhand",
-        "fandom_title": "Blackhand",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Blackhand_(film_universe)",
+        "fandom_title": "Blackhand (film universe)",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -14962,8 +14958,7 @@
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -16119,8 +16114,7 @@
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -20134,8 +20128,7 @@
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -21874,29 +21867,28 @@
       "slug": "draka",
       "name": "Draka",
       "type": "person",
-      "description": "Draka was a courageous warrior of the Frostwolf clan, the mate of Durotan, and the mother of Go'el (Thrall). After her death, her soul was sent to Maldraxxus and became a baroness of the House of Eyes. She later joined the House of the Chosen following the Eyes' near-destruction, and subsequently led the Necrolord Covenant in their battles against the traitorous Maldraxxi houses. When Maldraxxus' lost ruler, the Primus, returned to the realm, he named Draka the new Margrave of the Chosen, making her the house's official leader.\n\nShortly after Draka's birth to Kelkar and Zuura, Durotan the young heir of the Frostwolf clan blessed her on his mother Geyah's request. He did so but noticed that Draka was ill. Draka indeed turned into a weak and sickly child. Not only did her clanmates discriminate against her, but orcs from other clans also claimed she was a dishonor to the orcish race. Blackhand said that if she was born in his clan, she would have been drowned at a young age. Draka and her family were forced to move to the outskirts of the Frostwolf village by Garad, though her parents understood the chieftain's reasons.\n\nAs a teenager, Draka asked Mother Kashur if there was any way to strengthen her sickly body. Visited by a vision of the ancestors, Mother Kashur told Draka that there was a way, but it could mean death. Kashur sent Draka on a hunt to obtain a wing feather of windroc, horn of talbuk, and fur of clefthoof. From the three ingredients, Kashur claimed that she could make a potion to cure Draka's illness.\n\nHaving helped their daughter pack for her quest, Kelkar and Zuura saw her off with heavy hearts, believing it was more likely that they would never see her again. Young Draka started her adventure alone. She had never been allowed to join any orcish hunts, and now she had to learn from the world itself. As time passed, Draka's skill increased and, although still weak, she defeated and claimed her first kill of a windroc.",
+      "description": "Draka was an orc warrior of the , the mate of chieftain and mother of . After travelling through the to Azeroth, she gave birth to her son, and spent her remaining time caring for the child. When the Frostwolves were exterminated by the other orcs, Draka fled, with the aid of , taking Go'el with her. She was killed defending her child, shortly after sending him to safety on a river, afloat in a basket.\n\nAs a youth Draka would be exiled from the Frostwolf clan due to her weakness, however on the day of her exile that fact she marched forward without looking back would be admired that elders of the clan would remark \"In this, at least, she is a Frostwolf.\" Draka would later return to the clan during Midsummer after proving herself strong and the Frostwolves would welcome her among them, though Draka would discover that in her exile her parents had passed away.\n\nAs Draka began teaching what she learned to the clan, she and Durotan would become close and Ice, would choose her as his companion. However unknown to Durotan the dormant volcano near their home was close to erupting and in their weakened state Drek'Thar and the other shaman were unable to hear the spirit's warning. As such the clan would be caught off guard but Durotan would be able to successfully save the bulk of the clan. Sometime later he and Draka would become mates, with Draka later becoming pregnant with his child.\n\nIn this time of uncertainly Gul'dan would try to once again to gain Frostwolf support for the Horde and Durotan would be greatly tempted to join. However he ultimately rejected convinced that doing so would make them the warlock's slaves. A surprised Garona would use the Draenei tongue to warn them that Gul'dan was dangerous, and Draka (who had learned the tongue in her exile) informed her that they knew, though when Gul'dan demanded to know what was said Drake informed that warlock that Garona had called them fools. Accepting this Gul'dan then called Durotan stubborn but remarked that should he see wisdom and change his mind all he had to was head to Tanaan Jungle. While the likes of Doomhammer and Drek'thar would praise Durotan, other Frostwolves were in disagreement with rejecting the Horde and Durotan would be challenged by Nokrar and despite winning Durotan would refuse to kill arguing that too many Frostwolf lives had been lost. Nokrar, still convinced to join the Horde, would take his family and leave and Durotan would give chase to prevent the loss of Frostwolf lives. While Nokrar's family would be recovered Nokrar would be killed and eaten by the Redwalkers, a fact that would horrify Durotan and Draka.",
       "short_description": "Draka was a courageous warrior of the Frostwolf clan, the mate of Durotan, and the mother of Go'el (Thrall). After her death, her soul was sent to Maldraxxus and became a baroness of the House of Eyes. She later joined…",
       "evidence": "fiction",
       "parentSlug": "world-of-warcraft",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/d/d0/Afterlives_-_House_of_Eyes.png/revision/latest/scale-to-width-down/360?cb=20200903185815",
-      "image_source": "https://wowpedia.fandom.com/wiki/Draka",
+      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/6/65/Durotan_and_Draka_%28film%29.jpg/revision/latest/scale-to-width-down/360?cb=20190609113420",
+      "image_source": "https://wowpedia.fandom.com/wiki/Draka_(film_universe)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Draka",
+      "image_alt": "Identification thumbnail for Draka (film universe)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Draka",
-        "fandom_title": "Draka",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Draka_(film_universe)",
+        "fandom_title": "Draka (film universe)",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -22677,29 +22669,28 @@
       "slug": "durotan",
       "name": "Durotan",
       "type": "person",
-      "description": "Durotan, son of Garad and Geyah, was the chieftain of the Frostwolf clan, mate of Draka and father of the future Warchief Thrall. He was also a contemporary of Orgrim Doomhammer.\n\nYoung Durotan saw Draka after she was born and his mother Geyah told him to bless the child. He did so but noticed that Draka was ill.\n\nFrom chieftain Garad's three sons, Ga'nar, Fenris, and Durotan, the orc was the one who embraced family and tradition most. A some point Geyah was bitten by a drift lurker which caused her to enter a coma. While Ga'nar wanted to leave her to die a natural death and move the Frostwolf clan out of the area, Durotan couldn't do that. After Ga'nar left, he and Geyah's companion, Stormfang remained with her and tended to her. At some point, a lone garn attacked them but the two killed the beast. Durotan knew that a whole pack would attack soon, so he prepared for the battle. When they attacked, he lost control over his anger and fell to bloodlust. While he killed everything that moved, Geyah awoke. After hearing her, he focused once more and found out that he killed Stormfang too. It is said that since that day, he wore Stormfang's fur to the end of his days as a reminder of loyalty and of a threat of savagery.\n\nDurotan later became the heir of the Frostwolf clan when Fenris vanished and Garad chose him instead of hot-headed Ga'nar for the role.",
+      "description": "Durotan was chieftain of the , mate to and father of . Although he resisted the invitations of the warlock , with his homeworld of dying, Durotan was forced to join Gul'dan's in order to preserve his clan. After travelling through the Durotan chose to forge an alliance with the humans of Stormwind in order to save his people from the dark influence of Gul'dan and his magic, but was betrayed by his childhood friend . His clan slaughtered, Durotan challenged Gul'dan to a , where he was dishonorably killed by the warlock's magics.\n\nHis weapons were Sever and Thunderstrike.\n\nAs heir to the Frostwolf clan, Durotan would be personally taught by his father, Garad. As a youth Durotan would befriend Orgrim Doomhammer and the boys would forge a lifetime friendship.\n\nDurotan bore witness to Gul'dan's parlay with with father, where Garad refused to join the Horde. At the end of the parlay Garad would be given the ceremonial dagger required for it and be poisoned, and later die in battle against the Red Walker clan. A grieving Durotan, unaware of Gul'dan's role in his father's death, would be blessed by the spirits after Drek'Thar asked them to find the new Chieftain worthy. Despite his grief and awe at the situation Durotan and Drek'thar would come to realize that something was off with the spirits.",
       "short_description": "Durotan, son of Garad and Geyah, was the chieftain of the Frostwolf clan, mate of Draka and father of the future Warchief Thrall. He was also a contemporary of Orgrim Doomhammer.",
       "evidence": "fiction",
       "parentSlug": "world-of-warcraft",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/7/71/Young_Durotan.jpg/revision/latest/scale-to-width-down/360?cb=20230320113616",
-      "image_source": "https://wowpedia.fandom.com/wiki/Durotan",
+      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/6/65/Durotan_and_Draka_%28film%29.jpg/revision/latest/scale-to-width-down/360?cb=20190609113420",
+      "image_source": "https://wowpedia.fandom.com/wiki/Durotan_(film_universe)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Durotan",
+      "image_alt": "Identification thumbnail for Durotan (film universe)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Durotan",
-        "fandom_title": "Durotan",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Durotan_(film_universe)",
+        "fandom_title": "Durotan (film universe)",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -25768,7 +25759,7 @@
       "slug": "falric",
       "name": "Falric",
       "type": "person",
-      "description": "Captain Falric, also known as the Captain, was a member of the King's Guard of Lordaeron who served in both the Second War and the Third War. He distinguished himself as the right hand man of Prince Arthas Menethil during the Third War. Falric is thought to be the Scourge's second death knight.\n\nHaving grown up around the province of the King's Road, Falric's father originally wanted him to be a farmer. His fate was to be different, however, and he enlisted in the King's Guard in Capital City instead. Arthas quickly befriended him, bringing him a warm drink or two when the weather was foul and Falric was on duty. Such acts of generosity on Arthas's part quickly earned Falric's genuine respect, forging a bond of companionship that was to last for decades to come.\n\nFalric was present when Anduin Lothar of Stormwind arrived at Capital City asking King Terenas for assistance.\n\nHe assisted Arthas throughout his campaign, from the investigation at Brill all the way to the icy roof of the world, Northrend itself. There, Falric managed Arthas's base camps and held the line against the forces of Mal'Ganis. He did this with the assistance of two other lieutenants under Arthas, Luc Valonforth and Marwyn.",
+      "description": "Falric was amongst the five mage students of Magna Scavell. As the others, he also was against Aegwynn becoming the next Guardian. He proclaimed that he was good enough to cast a spell from Meitre's scrolls. He succeeded, but the result was not as he intended, transforming a rock into fool's gold. When Scavell died, he was on his own. Like the other apprentices, he eventually joined the Order of Tirisfal and died at some point fighting demons.\n\nCategory:Human characters Category:Mage characters Category:Council of Tirisfal Category:Lore characters Category:Cycle of Hatred characters Category:Deceased characters",
       "short_description": "Captain Falric, also known as the Captain, was a member of the King's Guard of Lordaeron who served in both the Second War and the Third War. He distinguished himself as the right hand man of Prince Arthas Menethil…",
       "evidence": "fiction",
       "parentSlug": "world-of-warcraft",
@@ -25784,13 +25775,12 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Falric",
-        "fandom_title": "Falric",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Falric_(Cycle_of_Hatred)",
+        "fandom_title": "Falric (Cycle of Hatred)",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -28585,29 +28575,28 @@
       "slug": "garad",
       "name": "Garad",
       "type": "person",
-      "description": "Garad was the chieftain of the Frostwolf clan many years before the rise of the Horde. He was the father of Durotan, Ga'nar and Fenris Wolfbrother, making him the grandfather of Thrall.\n\nWhen Draka was born into the Frostwolf clan, her parents Kelkar and Zuura showed her to the rest of the clan and Garad blessed her. Years later, Blackhand visited the Frostwolf village while it was on fire and took Draka's difficulty with lifting a bucket of water as a sign of the Frostwolves' weakness. Blackhand added that if Draka had been born to the Blackrock clan she would have been killed. To save face, Garad exiled Kelkar, Zuura and Draka to the outskirts of the village. Years later, months before the Kosh'harg festival, Garad forbade them from attending the celebration.\n\nGarad embodied the Frostwolf clan's ideals of family and community and believed that only by working together could the orcs survive their harsh environment of Frostfire Ridge. The Frostwolf chieftain pressed his ideals of family and tradition on his three sons - Fenris, Ga'nar, and Durotan. Fenris, however, defied his father's wishes and hunted with the neighboring Thunderlord clan. Fenris was victorious and continued to hunt with the Thunderlords as well as with the Frostwolves. During a Kosh'harg festival, Garad declared in front of everyone that his son's pursuit of fame was hollow and without honor. Fenris then challenged Garad to a mak'gora and was defeated but not killed. Humiliated, Fenris left his native Frostwolf clan and joined the Thunderlords, eventually becoming the clan's new cheiftain. When Fenris vanished, Garad chose Durotan as the heir of the Frostwolf clan instead of the hot-headed Ga'nar.\n\n11 years before the First War, Imperator Kelgrok and the Bladespire ogres rampaged across Frostfire alongside their half-breed slaves, the mok'nathal, seizing large tracts of resoure-rich land from the orcs. Garad called upon the neighboring Thunderlord and Whiteclaw clans to unite aganist the ogres, but the Thunderlords - led by Garad's estranged son Fenris - rejected the offer. Thunderlord orcs raided Bladespire settlements alone in the dead of night, slaughtering young and old alike. The Whiteclaw clan, however, did unite with the Frostwolves. Garad was declared leader of the Frostwolf and Whiteclaw army, and he named Ga'nar and Durotan as his lieutenants. With a formidable force under his command, Garad struck at the Bladespire and managed to capture a number of mok'nathal, including their elder Leoroxx.",
+      "description": "Garad is the orcish chieftain of the that reside in in . He is the son of Durkosh, his mate is and his son is . He has a wolf companion named Ice.\n\nAs Draenor suffered hardship (longer winters, short springs and summers, a shortage of game to hunt) Garad and the Frostwolves would be approached by , who sought for them to join his . By invoking the right of parlay Garad felt honor-bound to hear his case but would be unmoved and refuse to join the Horde ended the parlay. In accordance with parlay tradition, Gul'dan would give him a ceremonial dagger as a gift, but unknown to all the blade was poisoned. After Gul'dan departure Garad would feel weakness sweeping into him and despite this was insistence on leading his warriors into battle against the , who had invaded Frostwolf territory. During the battle, Garad would perish but in final moments would realize that Gul'dan had poisoned him and would hold him responsible for his death.\n\nCategory:Orc characters Category:Frostwolf clan Category:Film universe characters Category:Deceased characters",
       "short_description": "Garad was the chieftain of the Frostwolf clan many years before the rise of the Horde. He was the father of Durotan, Ga'nar and Fenris Wolfbrother, making him the grandfather of Thrall.",
       "evidence": "fiction",
       "parentSlug": "world-of-warcraft",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/a/ab/Garad.jpg/revision/latest?cb=20150307110443",
-      "image_source": "https://wowpedia.fandom.com/wiki/Garad",
+      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/e/e3/Go%27el-Film-Family-Tree.jpg/revision/latest/scale-to-width-down/360?cb=20170130115028",
+      "image_source": "https://wowpedia.fandom.com/wiki/Garad_(film_universe)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Garad",
+      "image_alt": "Identification thumbnail for Garad (film universe)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Garad",
-        "fandom_title": "Garad",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Garad_(film_universe)",
+        "fandom_title": "Garad (film universe)",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -33201,8 +33190,7 @@
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -34699,7 +34687,7 @@
       "slug": "iron-scout",
       "name": "Iron Scout",
       "type": "person",
-      "description": "The torched Iron Scout is found at northwest of the lake near Aruuna, west of the entrance to the Aruuna Crystal Mine. It and a few other scouts were caught in the arakkoa attack on Aruuna. Interact with the one interactable orc:\n\nLoot the corpse to come away with 20-30 Garrison Resources.\n\nCategory:Orc characters Category:Scouts Category:Iron Horde Category:Talador NPCs Category:Talador vignettes Category:Deceased characters",
+      "description": "Iron Scouts are dead orcs located in Frostfire Ridge.\n\nCategory:Orc characters Category:Scouts Category:Iron Horde Category:Deceased characters Category:Frostfire Ridge NPCs",
       "short_description": "The torched Iron Scout is found at northwest of the lake near Aruuna, west of the entrance to the Aruuna Crystal Mine. It and a few other scouts were caught in the arakkoa attack on Aruuna. Interact with the one…",
       "evidence": "fiction",
       "parentSlug": "world-of-warcraft",
@@ -34715,13 +34703,12 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Iron_Scout",
-        "fandom_title": "Iron Scout",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Iron_Scout_(Frostfire_Ridge)",
+        "fandom_title": "Iron Scout (Frostfire Ridge)",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -37247,22 +37234,21 @@
       "wikipedia_url": null,
       "wikidata_id": null,
       "image_url": "https://static.wikia.nocookie.net/wowpedia/images/7/78/Ra%27wani_Kanae.jpg/revision/latest?cb=20191020141338",
-      "image_source": "https://wowpedia.fandom.com/wiki/Champion_of_the_Light",
+      "image_source": "https://wowpedia.fandom.com/wiki/Champion_of_the_Light_(Alliance)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Champion of the Light",
+      "image_alt": "Identification thumbnail for Champion of the Light (Alliance)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Champion_of_the_Light",
-        "fandom_title": "Champion of the Light",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Champion_of_the_Light_(Alliance)",
+        "fandom_title": "Champion of the Light (Alliance)",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -38070,8 +38056,7 @@
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -40533,8 +40518,7 @@
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -43171,7 +43155,7 @@
       "slug": "mangled-body",
       "name": "Mangled Body",
       "type": "person",
-      "description": "A Mangled Body lies along the road to Northwatch Hold in the Southern Barrens. Although there are wild raptors, hyenas and other animals in the area, the suspicious state of the body leads to the quest Scavenged to investigate it.\n\nFor those who are not sufficient level or have simply completed the quest already, it simply has gossip text explaining the state of the body.\n\nCategory:Human characters Category:Northwatch Expeditionary Unit Category:Quest givers Category:Deceased characters Category:Southern Barrens NPCs",
+      "description": "Mangled Body is a human located in Drustvar.\n\nCategory:Human characters Category:Quest givers Category:Drustvar NPCs Category:Deceased characters",
       "short_description": "A Mangled Body lies along the road to Northwatch Hold in the Southern Barrens. Although there are wild raptors, hyenas and other animals in the area, the suspicious state of the body leads to the quest Scavenged to…",
       "evidence": "fiction",
       "parentSlug": "world-of-warcraft",
@@ -43187,13 +43171,12 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Mangled_Body",
-        "fandom_title": "Mangled Body",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Mangled_Body_(Drustvar)",
+        "fandom_title": "Mangled Body (Drustvar)",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -47560,29 +47543,28 @@
       "slug": "night-elf-corpse",
       "name": "Night Elf Corpse",
       "type": "person",
-      "description": "Night Elf Corpses are night elves found around the Night Elf Moon Crystal in An'telas in the Ghostlands.\n\nThey were members of the Sentinel spies and died defending their camp from blood elf ambushers.\n\nCategory:Night elf characters Category:Sentinels Category:Ghostlands NPCs Category:Deceased characters",
+      "description": "The Night Elf Corpses are the remains of three night elves located at the Gloaming Reef in Val'sharah. The Gluttonous Hydra can be found feasting on their bodies.\n\nCategory:Night elf characters Category:Sentinels Category:Deceased characters Category:Val'sharah NPCs",
       "short_description": "Night Elf Corpses are night elves found around the Night Elf Moon Crystal in An'telas in the Ghostlands.",
       "evidence": "fiction",
       "parentSlug": "world-of-warcraft",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/c/c4/Night_Elf_Corpse.jpg/revision/latest/scale-to-width-down/360?cb=20200326141628",
-      "image_source": "https://wowpedia.fandom.com/wiki/Night_Elf_Corpse",
+      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/a/af/Night_Elf_Corpse_%28Val%27sharah%29.jpg/revision/latest/scale-to-width-down/360?cb=20190824030222",
+      "image_source": "https://wowpedia.fandom.com/wiki/Night_Elf_Corpse_(Val%27sharah)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Night Elf Corpse",
+      "image_alt": "Identification thumbnail for Night Elf Corpse (Val'sharah)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Night_Elf_Corpse",
-        "fandom_title": "Night Elf Corpse",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Night_Elf_Corpse_(Val%27sharah)",
+        "fandom_title": "Night Elf Corpse (Val'sharah)",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -49272,8 +49254,7 @@
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -50629,8 +50610,7 @@
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -55195,7 +55175,7 @@
       "slug": "7th-legion",
       "name": "7th Legion",
       "type": "organization",
-      "description": "The 7th Legion is an elite special operations regiment composed of the Alliance's most seasoned veteran fighters. Initially serving behind the scenes, the Legion became the face of the Alliance military during the Fourth War, leading Alliance incursions into Zandalar. Prior to that campaign as well as subsequently, they have participated in almost every major offensive and engagement the Alliance has been involved in.\n\nThey fulfill a similar role to the Horde's Kor'kron Guard, a similarly elite organization; the two have frequently crossed blades during the various conflicts between the Alliance and Horde, including in Northrend and Pandaria.\n\nThe 7th Legion has been known to have participated in the Battle of Mount Hyjal and in battles against the Horde and Burning Legion.\n\nDuring the Ahn'Qiraj War, the 7th Legion was part of the Might of Kalimdor in Silithus.",
+      "description": "The 7th Legion is a faction located in Tiragarde Sound, aboard the Wind's Redemption.\n\nA elite special force delegation of the Alliance army, currently focused on disrupting Horde operations in Zandalar.\n\nAlthough there are far more members of the 7th Legion, the following is a list of NPCs specifically tagged with the reputation faction.",
       "short_description": "The 7th Legion is an elite special operations regiment composed of the Alliance's most seasoned veteran fighters. Initially serving behind the scenes, the Legion became the face of the Alliance military during the…",
       "evidence": "fiction",
       "parentSlug": "world-of-warcraft",
@@ -55211,13 +55191,12 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://wowpedia.fandom.com/wiki/7th_Legion",
-        "fandom_title": "7th Legion",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/7th_Legion_(faction)",
+        "fandom_title": "7th Legion (faction)",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -56382,8 +56361,7 @@
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -63840,7 +63818,7 @@
       "slug": "wildhammer-clan",
       "name": "Wildhammer clan",
       "type": "organization",
-      "description": "The Wildhammer clan (or clan Wildhammer) is a dwarf clan currently centered mainly in the Hinterlands and the Twilight Highlands; although members can be found in Kalimdor and Outland as well. Now part of the Alliance, they hold the Horde as enemies. They are renowned gryphon riders, and lead the Wildhammer dwarves as a whole. The clan is led by High Thane Falstad Wildhammer, who represents the Wildhammer people on the Council of Three Hammers within Ironforge.\n\nLike all dwarves, the Wildhammer are descendants of the earthen.\n\nJust prior to the War of the Three Hammers, the Wildhammer clan, ruled by Thane Khardros Wildhammer, inhabited the foothills and crags around the base of Ironforge. They were one of the three great factions of dwarves under High King Modimus Anvilmar, controlling the strongest mountaineers that Khaz Modan had to offer. After Modimus died, a civil war broke out between the Bronzebeard clan, the Wildhammer clan, and the Dark Iron clan for control of the kingdom. The Wildhammer clan was unsuccessful in wresting control of Ironforge, with Madoran Bronzebeard and his clan claiming the city as their own and declaring himself king. Khardros and his Wildhammer warriors traveled north and founded their own kingdom within the distant peak of Grim Batol, establishing a holdfast that would come to rival even Ironforge.\n\nThaurissan, leader of the Dark Iron clan, and his Dark Irons vowed revenge against Ironforge, founding their own kingdom, named for the Sorcerer-Thane, Thaurissan, in the northern Redridge Mountains. Thaurissan and his Dark Irons vowed revenge against the Ironforge dwarves and Wildhammers. Thaurissan and his sorceress wife, Modgud, launched a two-pronged assault against both Ironforge and Grim Batol. As Modgud confronted the enemy warriors, she used her powers to strike fear into their hearts. Shadows moved at her command, and dark things crawled up from the depths of the earth to stalk the Wildhammers in their own halls. Eventually, Modgud broke through the gates and laid siege to the fortress itself. The Wildhammers fought desperately, Khardros himself wading through the roiling masses to slay the sorceress queen. With their queen lost, the Dark Irons fled before the fury of the Wildhammers. Uniting with the Ironforge dwarves, Khardros and Madoran put their differences aside to make Sorcerer-Thane Thaurissan answer for his crimes, though they were ultimately unable to do so as the dark Thane summoned Ragnaros with his hatred, destroying the northern half of the Redridge Mountains with his magic. Horrified, the two dwarven leaders fell back. While the Wildhammers were invited back into Ironforge, Khardros' pride prevented him from accepting the offer. Instead, the Valley of Kings was erected as a monument to Wildhammer and Ironforge friendship, and while rivalries would continue, the two did not raise arms against one another ever again.",
+      "description": "Wildhammer Clan was an Alliance reputation faction based in the Hinterlands. Even though quests and killing mobs would yield reputation, no rewards were available. They were the enemies of the Revantusk Trolls.\n\nThough not a part of the Alliance, the dwarves of Aerie Peak have opened their doors to it and hold the Horde as enemies.\n\nCategory:Alliance factions Category:Hinterlands",
       "short_description": "The Wildhammer clan (or clan Wildhammer) is a dwarf clan currently centered mainly in the Hinterlands and the Twilight Highlands; although members can be found in Kalimdor and Outland as well. Now part of the Alliance,…",
       "evidence": "fiction",
       "parentSlug": "world-of-warcraft",
@@ -63856,13 +63834,12 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Wildhammer_clan",
-        "fandom_title": "Wildhammer clan",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Wildhammer_Clan_(Classic)",
+        "fandom_title": "Wildhammer Clan (Classic)",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -64169,7 +64146,7 @@
       "slug": "7th-legion-arcanist",
       "name": "7th Legion Arcanist",
       "type": "organization",
-      "description": "7th Legion Arcanists are night elves, humans, and void elves located around Nazwatha in Nazmir, Vol'dun, and Greystone Relief in Tiragarde Sound during the Faction Assaults.\n\nCategory:Human characters Category:Night elf characters Category:Void elf characters Category:Mage characters Category:Arcanists Category:7th Legion Category:Nazmir NPCs Category:Tiragarde Sound NPCs Category:Vol'dun NPCs Category:Faction Assault NPCs",
+      "description": "7th Legion Arcanists are humans and void elves located in the Eternal Palace.\n\nCategory:Human characters Category:Void elf characters Category:Mage characters Category:Arcanists Category:7th Legion Category:Eternal Palace NPCs",
       "short_description": "7th Legion Arcanists are night elves, humans, and void elves located around Nazwatha in Nazmir, Vol'dun, and Greystone Relief in Tiragarde Sound during the Faction Assaults.",
       "evidence": "fiction",
       "parentSlug": "world-of-warcraft",
@@ -64185,13 +64162,12 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://wowpedia.fandom.com/wiki/7th_Legion_Arcanist",
-        "fandom_title": "7th Legion Arcanist",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/7th_Legion_Arcanist_(Eternal_Palace)",
+        "fandom_title": "7th Legion Arcanist (Eternal Palace)",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -64482,36 +64458,35 @@
       "slug": "7th-legion-cannoneer",
       "name": "7th Legion Cannoneer",
       "type": "organization",
-      "description": "7th Legion Cannoneers are humans located aboard the Sword of Dawn in the Arathi Highlands during the Battle for Stromgarde.\n\nCategory:Human characters Category:Cannoneers Category:7th Legion Category:Battle for Stromgarde NPCs",
+      "description": "7th Legion Cannoneers are dwarves located aboard Wind's Redemption in Boralus.\n\nCategory:Dwarf characters Category:Cannoneers Category:7th Legion Category:Boralus NPCs",
       "short_description": "7th Legion Cannoneers are dwarves located aboard Wind's Redemption when it sailed from Stormwind City to Azuremyst Isle during Two If By Sea (Alliance). They later accompanied Captain Angelica to Nazjatar and were…",
       "evidence": "fiction",
       "parentSlug": "world-of-warcraft",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/b/b8/7th_Legion_Cannoneer.jpg/revision/latest/scale-to-width-down/360?cb=20170630130055",
-      "image_source": "https://wowpedia.fandom.com/wiki/7th_Legion_Cannoneer",
+      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/0/0b/7th_Legion_Cannoneer_%28Boralus%29.jpg/revision/latest/scale-to-width-down/360?cb=20220616130111",
+      "image_source": "https://wowpedia.fandom.com/wiki/7th_Legion_Cannoneer_(Boralus)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for 7th Legion Cannoneer",
+      "image_alt": "Identification thumbnail for 7th Legion Cannoneer (Boralus)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://wowpedia.fandom.com/wiki/7th_Legion_Cannoneer_(Arathi_Highlands)",
-        "fandom_title": "7th Legion Cannoneer (Arathi Highlands)",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/7th_Legion_Cannoneer_(Boralus)",
+        "fandom_title": "7th Legion Cannoneer (Boralus)",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
       "slug": "7th-legion-captive",
       "name": "7th Legion Captive",
       "type": "organization",
-      "description": "7th Legion Captives are human and dwarf prisoners located in Vol'dun.\n\nCategory:Human characters Category:Dwarf characters Category:Prisoners Category:7th Legion Category:Vol'dun NPCs",
+      "description": "7th Legion Captives are Alliance soldiers located at the Spears of Azshara in Nazjatar. Captured by the naga, along with Honorbound Captives, they are being sacrificed in the pool of Wekemara.\n\nCategory:Dwarf characters Category:Human characters Category:Prisoners Category:7th Legion Category:Nazjatar NPCs",
       "short_description": "7th Legion Captives are human and dwarf prisoners located in Vol'dun.",
       "evidence": "fiction",
       "parentSlug": "world-of-warcraft",
@@ -64521,13 +64496,12 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://wowpedia.fandom.com/wiki/7th_Legion_Captive",
-        "fandom_title": "7th Legion Captive",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/7th_Legion_Captive_(Nazjatar)",
+        "fandom_title": "7th Legion Captive (Nazjatar)",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       },
       "image_url": "https://static.wikia.nocookie.net/wowpedia/images/2/2d/Dwarf_nopic.jpg/revision/latest/scale-to-width-down/360?cb=20170906151718",
       "image_source": "https://wowpedia.fandom.com/wiki/7th_Legion_Captive_(Nazjatar)",
@@ -64540,29 +64514,28 @@
       "slug": "7th-legion-cavalier",
       "name": "7th Legion Cavalier",
       "type": "organization",
-      "description": "7th Legion Cavaliers are dwarves located in Wintergarde Keep in the Dragonblight.\n\nCategory:Dwarf characters Category:Warrior characters Category:Riders Category:7th Legion Category:Valiance Expedition Category:Dragonblight NPCs",
+      "description": "7th Legion Cavaliers are humans located in the Zocalo and Dazar'alor in the Battle of Dazar'alor.\n\nCategory:Human characters Category:Riders Category:7th Legion Category:Battle of Dazar'alor mobs",
       "short_description": "7th Legion Cavaliers are dwarves located in Wintergarde Keep in the Dragonblight.",
       "evidence": "fiction",
       "parentSlug": "world-of-warcraft",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/4/41/7th_Legion_Cavalier.jpg/revision/latest/scale-to-width-down/360?cb=20160220134917",
-      "image_source": "https://wowpedia.fandom.com/wiki/7th_Legion_Cavalier",
+      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/9/91/7th_Legion_Cavalier_%28Battle_of_Dazar%27alor%29.jpg/revision/latest/scale-to-width-down/360?cb=20231008111759",
+      "image_source": "https://wowpedia.fandom.com/wiki/7th_Legion_Cavalier_(Battle_of_Dazar%27alor)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for 7th Legion Cavalier",
+      "image_alt": "Identification thumbnail for 7th Legion Cavalier (Battle of Dazar'alor)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://wowpedia.fandom.com/wiki/7th_Legion_Cavalier",
-        "fandom_title": "7th Legion Cavalier",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/7th_Legion_Cavalier_(Battle_of_Dazar%27alor)",
+        "fandom_title": "7th Legion Cavalier (Battle of Dazar'alor)",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -64897,29 +64870,28 @@
       "slug": "7th-legion-earthcaller",
       "name": "7th Legion Earthcaller",
       "type": "organization",
-      "description": "7th Legion Earthcallers are draenei located in Nazmir.\n\nCategory:Draenei characters Category:Shaman characters Category:7th Legion Category:Nazmir NPCs",
+      "description": "7th Legion Earthcallers are dwarves located in the Eternal Palace.\n\nCategory:Dwarf characters Category:Shaman characters Category:7th Legion Category:Eternal Palace NPCs",
       "short_description": "7th Legion Earthcallers are draenei located in Nazmir.",
       "evidence": "fiction",
       "parentSlug": "world-of-warcraft",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/f/fb/Draeneimale_nopic.jpg/revision/latest?cb=20080315082244",
-      "image_source": "https://wowpedia.fandom.com/wiki/7th_Legion_Earthcaller",
+      "image_url": "https://static.wikia.nocookie.net/wowpedia/images/8/8e/7th_Legion_Earthcaller_%28Eternal_Palace%29.jpg/revision/latest/scale-to-width-down/360?cb=20200917114307",
+      "image_source": "https://wowpedia.fandom.com/wiki/7th_Legion_Earthcaller_(Eternal_Palace)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Blizzard Entertainment (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for 7th Legion Earthcaller",
+      "image_alt": "Identification thumbnail for 7th Legion Earthcaller (Eternal Palace)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://wowpedia.fandom.com/wiki/7th_Legion_Earthcaller",
-        "fandom_title": "7th Legion Earthcaller",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/7th_Legion_Earthcaller_(Eternal_Palace)",
+        "fandom_title": "7th Legion Earthcaller (Eternal Palace)",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -65003,8 +64975,7 @@
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -65183,7 +65154,7 @@
       "slug": "zones-by-level",
       "name": "Zones by level",
       "type": "place",
-      "description": "This article is a list of all zones by level.",
+      "description": "This article is a list of all zones by level before World of Warcraft: Cataclysm.",
       "short_description": "This article is a list of all zones by level.",
       "evidence": "fiction",
       "parentSlug": "azeroth",
@@ -65193,13 +65164,12 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://wowpedia.fandom.com/wiki/Zones_by_level_(Battle_for_Azeroth)",
-        "fandom_title": "Zones by level (Battle for Azeroth)",
+        "fandom_url": "https://wowpedia.fandom.com/wiki/Zones_by_level_(original)",
+        "fandom_title": "Zones by level (original)",
         "source_fandom": "wowpedia.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "location"
+        ]
       }
     },
     {
@@ -98743,11 +98713,11 @@
     "images_attached": 3,
     "core_enrichments": 16,
     "preserved_fandom": 0,
-    "fandom_titles": 1,
-    "fandom_enriched_core": 0,
-    "fandom_created": 0,
-    "fandom_images": 0,
-    "fandom_intros": 1,
+    "fandom_titles": 2883,
+    "fandom_enriched_core": 39,
+    "fandom_created": 2786,
+    "fandom_images": 2188,
+    "fandom_intros": 2876,
     "image_backfill_at": "2026-09-11T16:29:44.217Z",
     "image_backfill_count": 33
   }

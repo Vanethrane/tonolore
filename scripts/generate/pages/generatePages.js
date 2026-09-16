@@ -11,7 +11,6 @@ const {
     buildUniqueDidYouKnow,
     scoreUniqueness
 } = require("./pageSeoContent");
-const { formatHubSummaries } = require("../../subjects/formatHubs");
 
 function escapeHtml(value) {
     return String(value || "")
@@ -22,64 +21,9 @@ function escapeHtml(value) {
         .replace(/'/g, "&#039;");
 }
 
-function buildFormatHubMenu(entity, subjectMeta = {}, pathLookup = null) {
-    const root = subjectMeta.rootSlug || subjectMeta.id;
-    if (!root || entity.slug !== root) {
-        return "";
-    }
-
-    const hubs =
-        subjectMeta.formatHubs?.length > 0
-            ? subjectMeta.formatHubs
-            : formatHubSummaries(subjectMeta.id || root);
-
-    if (!hubs.length) {
-        return "";
-    }
-
-    const items = hubs
-        .map((hub) => {
-            const segment = hub.urlSlug || hub.slug;
-            let href = null;
-            if (typeof pathLookup === "function") {
-                href =
-                    pathLookup(root, hub.slug) ||
-                    pathLookup(root, segment);
-            }
-            if (!href) {
-                href = `/${root}/${segment}`;
-            }
-            return `<li><a href="${href}" class="entity-link">${escapeHtml(hub.name)}</a></li>`;
-        })
-        .join("\n");
-
-    return `
-<section class="overview format-hubs">
-    <h2>Explore by medium</h2>
-    <p>
-        Open the format-specific shelves — movies, games, manga, shows, and more —
-        each with their own long-tail pages.
-    </p>
-    <ul class="format-hub-list">
-        ${items}
-    </ul>
-</section>
-`;
-}
-
-function pathSegment(entity) {
-    const meta =
-        typeof entity.metadata === "string"
-            ? JSON.parse(entity.metadata || "{}")
-            : entity.metadata || {};
-    return meta.urlSlug || entity.slug;
-}
-
 /**
  * Build canonical paths from url_parent_id hierarchy.
  * Roots use /{slug}; children nest under parents.
- * Format hubs may set metadata.urlSlug for pretty segments
- * (entity slug star-wars-movies → URL /star-wars/movies).
  */
 function buildPaths(entities) {
     const byId = new Map(entities.map((entity) => [entity.id, entity]));
@@ -103,7 +47,6 @@ function buildPaths(entities) {
         visiting.add(entityId);
 
         let path;
-        const segment = pathSegment(entity);
 
         if (!entity.url_parent_id) {
             path = `/${entity.slug}`;
@@ -114,7 +57,7 @@ function buildPaths(entities) {
                 path = `/${entity.slug}`;
             } else {
                 const parentPath = getPath(parent.id, visiting);
-                path = `${parentPath}/${segment}`;
+                path = `${parentPath}/${entity.slug}`;
             }
         }
 
@@ -203,11 +146,11 @@ function buildIntroduction(entity, connections = []) {
             .map((connection, index) => {
                 const link = `<a href="${connection.path}" class="entity-link"><strong>${escapeHtml(connection.name)}</strong></a>`;
 
-            if (index === 0) {
+                if (index === 0) {
                     return link;
-            }
+                }
 
-            if (index === primaryConnections.length - 1) {
+                if (index === primaryConnections.length - 1) {
                     return ` and ${link}`;
                 }
 
@@ -351,7 +294,7 @@ function buildOverview(entity, connections, subjectMeta = {}, pathLookup = null)
     }
 
     if (universe === "five-nights-at-freddys" && entity.slug === "five-nights-at-freddys") {
-    return `
+        return `
 <section class="overview">
     <h2>What is Five Nights at Freddy's?</h2>
 
@@ -693,7 +636,6 @@ function buildGraphSections(connections) {
 function buildContent(entity, connections, subjectMeta, pathLookup = null) {
     return [
         buildIntroduction(entity, connections),
-        buildFormatHubMenu(entity, subjectMeta, pathLookup),
         buildOverview(entity, connections, subjectMeta, pathLookup),
         buildConnectionNarrative(entity, connections, linkEntitiesInText),
         buildGraphSections(connections),
@@ -762,7 +704,7 @@ async function generatePage(entity, paths, subjectMeta = {}, pathLookup = null) 
                 ? canonical
                 : `/${universe}/${connection.slug}`;
         return {
-        ...connection,
+            ...connection,
             path
         };
     });
@@ -849,12 +791,12 @@ async function generatePage(entity, paths, subjectMeta = {}, pathLookup = null) 
         RETURNING id, slug
     `,
         [
-        entity.id,
-        slug,
-        entity.name,
+            entity.id,
+            slug,
+            entity.name,
             metaTitle,
-        metaDescription,
-        content,
+            metaDescription,
+            content,
             wordCount,
             depthScore,
             uniqueness
@@ -865,24 +807,10 @@ async function generatePage(entity, paths, subjectMeta = {}, pathLookup = null) 
 }
 
 async function main() {
-    const argv = process.argv.slice(2);
-    const onlyMissing = argv.includes("--only-missing");
-    const universeFilter =
-        argv.find((arg) => arg !== "--only-missing" && !arg.startsWith("-")) ||
-        null;
+    const universeFilter = process.argv[2] || null;
 
     const entitiesResult = await query(
-        onlyMissing
-            ? `
-        SELECT e.*
-        FROM entities e
-        WHERE ($1::text IS NULL OR e.metadata->>'universe' = $1)
-          AND NOT EXISTS (
-              SELECT 1 FROM pages p WHERE p.entity_id = e.id
-          )
-        ORDER BY e.name
-    `
-            : `
+        `
         SELECT *
         FROM entities
         WHERE ($1::text IS NULL OR metadata->>'universe' = $1)
@@ -896,14 +824,8 @@ async function main() {
     console.log(
         `Generating pages for ${entities.length} entities` +
             (universeFilter ? ` (universe: ${universeFilter})` : "") +
-            (onlyMissing ? " [only-missing]" : "") +
             "..."
     );
-
-    if (!entities.length) {
-        console.log("Nothing to generate.");
-        return;
-    }
 
     // Paths need the full hierarchy, so load parents even when filtering.
     const allForPaths = universeFilter

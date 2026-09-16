@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T01:11:30.422Z",
+  "generated_at": "2026-09-11T15:33:57.085Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 180,
+    "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (masseffect.fandom.com) for identification and commentary only. Character / franchise art © BioWare / Electronic Arts (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -146,7 +146,7 @@
         "fandom_preferred_image": true
       },
       "short_description": "Commander Shepard is the main protagonist of Mass Effect, Mass Effect 2, and Mass Effect 3.",
-      "image_url": "https://static.wikia.nocookie.net/masseffect/images/2/24/MELE_Default_Shepards.png/revision/latest/scale-to-width-down/180?cb=20211028200648",
+      "image_url": "https://static.wikia.nocookie.net/masseffect/images/2/24/MELE_Default_Shepards.png/revision/latest/scale-to-width-down/360?cb=20211028200648",
       "image_source": "https://masseffect.fandom.com/wiki/Commander_Shepard",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BioWare / Electronic Arts (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -239,7 +239,7 @@
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BioWare / Electronic Arts (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Illusive Man"
+      "image_alt": "Identification thumbnail for The Illusive Man"
     },
     {
       "slug": "david-anderson",
@@ -356,22 +356,21 @@
       "wikipedia_url": "https://en.wikipedia.org/wiki/The_Citadel",
       "description": "Location: Milky Way / Serpent Nebula / Widow\n\nSupposedly constructed by the long-extinct Protheans, this colossal deep-space station serves as the capital of the Citadel Council. Gravity is simulated through rotation, and is a comfortable 1.02 standard G's on the Wards and a light 0.3 standard G's on the Presidium Ring.\n\nTotal Length (Open): 44.7 km Diameter (Open): 12.8 km Population: 13.2 million (not including keepers) Gross Weight: 7.11 billion metric tons\n\nStrategically located at the junction of a number of mass relays leading to various parts of the galaxy, the Citadel quickly became a hub of activity. The station was chosen to house the Citadel Council, thereby cementing its importance in the galactic community. It is accepted to be the political and cultural heart of Citadel space, the unofficial name given to all systems that fall under the Citadel species' control.",
       "metadata": {
-        "fandom_url": "https://masseffect.fandom.com/wiki/Citadel",
-        "fandom_title": "Citadel",
+        "fandom_url": "https://masseffect.fandom.com/wiki/The_Citadel",
+        "fandom_title": "The Citadel",
         "source_fandom": "masseffect.fandom.com",
         "sources": [
           "wikipedia",
           "fandom"
-        ],
-        "fandom_preferred_image": true
+        ]
       },
       "short_description": "Location: Milky Way / Serpent Nebula / Widow",
-      "image_url": "https://static.wikia.nocookie.net/masseffect/images/a/a9/Galaxy_Map_-_Citadel.png/revision/latest/scale-to-width-down/360?cb=20221208170749",
-      "image_source": "https://masseffect.fandom.com/wiki/Citadel",
+      "image_url": "https://static.wikia.nocookie.net/masseffect/images/f/f0/Presidium_Structure.png/revision/latest/scale-to-width-down/360?cb=20210620183000",
+      "image_source": "https://masseffect.fandom.com/wiki/Presidium",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BioWare / Electronic Arts (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Citadel"
+      "image_alt": "Identification thumbnail for The Citadel"
     },
     {
       "slug": "mass-relay",
@@ -769,8 +768,7 @@
         "source_fandom": "masseffect.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -798,8 +796,7 @@
         "source_fandom": "masseffect.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -827,8 +824,7 @@
         "source_fandom": "masseffect.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -856,8 +852,7 @@
         "source_fandom": "masseffect.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -885,8 +880,7 @@
         "source_fandom": "masseffect.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -914,8 +908,7 @@
         "source_fandom": "masseffect.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -943,8 +936,7 @@
         "source_fandom": "masseffect.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -966,8 +958,7 @@
         "source_fandom": "masseffect.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -995,8 +986,7 @@
         "source_fandom": "masseffect.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -1018,8 +1008,7 @@
         "source_fandom": "masseffect.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -1047,8 +1036,7 @@
         "source_fandom": "masseffect.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -4423,29 +4411,28 @@
       "slug": "delan",
       "name": "Delan",
       "type": "person",
-      "description": "Delan (pronounced Délən), short for Delanynder, is a hanar merchant who operates the Emporium on the Citadel Presidium.\n\nLike all hanar, Delan is extremely polite to everyone, but particularly welcoming to Commander Shepard. When asked what the Emporium sells, Delan claims it only sells the \"finest and most luxurious items that credits can buy\".\n\nIf asked why it refers to itself as \"this one\" and \"it\", Delan can offer insight into its people's culture, giving the Commander a better understanding of the hanar race.\n\nDelan sells licenses for Sirta Foundation, Devlon Industries, and Serrice Council, along with a Medi-gel capacity upgrade, in addition to its normal wares.",
+      "description": "Delan (pronounced Dəlán) is a human mechanic living on the colony Horizon.\n\nDelan left for Horizon because he believed that the Systems Alliance brought nothing but trouble. He felt that his claims were justified when the Alliance started setting up GARDIAN anti-ship batteries on the colony for defense against probable Cerberus attacks, seeing that they only made Horizon a target. Worse, the targeting calibration was completely off, so the Alliance sent a representative to help fix the problem, but Delan believed the representative was a spy. When the communications went down, the Collectors, originally believed to be myths, attacked. Delan hid in a shed as the Collectors began paralyzing and rounding up every human in sight.\n\nWhen the Normandy SR-2 responds to the attack, Commander Shepard finds Delan hiding in one of the buildings. Delan can be advised to stay put, letting Shepard power up the defense towers to take out the Collector ship. However, even if asked to help Shepard, Delan will reject the offer, saying that a mechanic can do nothing against Collectors. Unfortunately, the Collectors escape with approximately one-third of Horizon's colonists. A dismayed Delan runs out, concerned over the loss of his friends and loved ones. Things get even more disappointing for Delan when one of Shepard's former squadmates appears, not having been kidnapped. Having had enough of the Alliance, Delan walks away.",
       "short_description": "Delan (pronounced Délən), short for Delanynder, is a hanar merchant who operates the Emporium on the Citadel Presidium.",
       "evidence": "fiction",
       "parentSlug": "mass-effect",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/masseffect/images/4/47/Delan.png/revision/latest/scale-to-width-down/360?cb=20260506141606",
-      "image_source": "https://masseffect.fandom.com/wiki/Delan",
+      "image_url": "https://static.wikia.nocookie.net/masseffect/images/6/63/DelanPortraitLE2.png/revision/latest/scale-to-width-down/360?cb=20220827040841",
+      "image_source": "https://masseffect.fandom.com/wiki/Delan_(Mass_Effect_2)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BioWare / Electronic Arts (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Delan",
+      "image_alt": "Identification thumbnail for Delan (Mass Effect 2)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://masseffect.fandom.com/wiki/Delan",
-        "fandom_title": "Delan",
+        "fandom_url": "https://masseffect.fandom.com/wiki/Delan_(Mass_Effect_2)",
+        "fandom_title": "Delan (Mass Effect 2)",
         "source_fandom": "masseffect.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -5710,29 +5697,28 @@
       "slug": "eva-core",
       "name": "Eva Coré",
       "type": "person",
-      "description": "Eva Coré is a human mercenary who worked with Jack Harper and Ben Hislop. Eva fought in the resistance effort against turian forces on occupied Shanxi during the First Contact War.\n\nEva Coré, along with Ben Hislop and Jack Harper, ambushes a turian patrol on occupied Shanxi. The trio take Desolas Arterius, a turian general, prisoner. On a mission to locate the artifact that Desolas was searching for on the planet, the group subdues the rest of Desolas' unit outside a cave where the artifact is hidden. Eva guards the turian soldiers while Jack and Ben investigate the artifact. When the artifact seemingly \"attacks\" Jack and Ben, Eva is distracted long enough for the turians to overpower her. Desolas then takes the humans prisoner.\n\nAfter the conclusion of the First Contact War, Eva is reunited with Jack and informs him that Ben had died from his exposure to the artifact. After being turned over to General Williams by their turian captors, Eva decides to accompany Jack as he seeks revenge against Desolas. Arriving at Illium, they track Desolas to a remote warehouse, where they are ambushed by Desolas and his brother Saren's forces and encounter a cybernetically-enhanced Ben Hislop, who has fallen under the control of the artifact.\n\nPrisoners once more, Eva and Jack are taken by Desolas to Palaven, the turian homeworld, to witness Desolas' plan to use the artifact - the Arca Monolith - to transform the turian people into a race of super-soldiers. At Temple Palaven, Eva and Jack subdue their guards and attempt to stop Desolas. In the middle of a fight, Eva tries to pull Ben out, hoping that his condition could be reversed. When Jack points out that doing so may not be possible, Eva shoots at the Arca Monolith to try and destroy it. The artifact uses Ben to stop her, slamming her head against a wall. After the fight, Jack carries a dying Eva from the Temple, and with her last words she tells Jack to leave her behind and save Ben. Jack would later include both Ben and Eva's names in his manifesto as he takes on the persona of the Illusive Man.",
+      "description": "Eva Coré is a doctor and recent addition to the science team studying the Prothean Archive on Mars.\n\nEva Coré arrives at the Mars facility one week prior to the Reaper invasion of Earth. After fleeing Earth, Commander Shepard is ordered by Admiral Hackett to head to Mars to retrieve intel from Liara T'Soni and the team studying the Prothean Archives before humanity loses control of the Sol system.\n\nShepard and crew discover upon landing that Cerberus had arrived and commandeered the site. Considering it would have taken nothing less than a battalion to take the facility, both team members and Liara conclude that a mole must have been involved. After fighting their way through the facility and reaching a security terminal, the team discovers that Dr. Eva is the suspected Cerberus infiltrator who enabled the disposal of the Mars research team. She takes charge of the Cerberus ground troops on-site and begins to download and erase the Prothean data in the archives.\n\nAshley/Kaidan soon discover Eva in a terminal booth inside the archives, amid a projection of Crucible schematics. The woman disables her Alliance adversary with a kick before destroying the console linked to the Prothean cache. She leads the team on a chase through the station, and manages to secure a ride on a Cerberus shuttle. James Vega, who had been ordered back to the squad's own shuttle by Shepard after meeting up with Liara, prevents her escape by crashing the Normandy's shuttle into hers. As the team begins to pick themselves up from the aftermath, with Ashley/Kaidan picking up Liara, Coré emerges from the inferno of the shuttle crash, revealing that she is not human, but a gynoid infiltration unit controlled by the Illusive Man.",
       "short_description": "Eva Coré is a human mercenary who worked with Jack Harper and Ben Hislop. Eva fought in the resistance effort against turian forces on occupied Shanxi during the First Contact War.",
       "evidence": "fiction",
       "parentSlug": "mass-effect",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/masseffect/images/1/1c/Evolution_Eva_Core_portrait.png/revision/latest/scale-to-width-down/360?cb=20110510185459",
-      "image_source": "https://masseffect.fandom.com/wiki/Eva_Cor%C3%A9",
+      "image_url": "https://static.wikia.nocookie.net/masseffect/images/5/51/ME3_Eva_Core_Burning_Shuttle.png/revision/latest/scale-to-width-down/360?cb=20120320173308",
+      "image_source": "https://masseffect.fandom.com/wiki/Eva_Cor%C3%A9_(Mass_Effect_3)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BioWare / Electronic Arts (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Eva Coré",
+      "image_alt": "Identification thumbnail for Eva Coré (Mass Effect 3)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://masseffect.fandom.com/wiki/Eva_Cor%C3%A9",
-        "fandom_title": "Eva Coré",
+        "fandom_url": "https://masseffect.fandom.com/wiki/Eva_Cor%C3%A9_(Mass_Effect_3)",
+        "fandom_title": "Eva Coré (Mass Effect 3)",
         "source_fandom": "masseffect.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -18071,29 +18057,28 @@
       "slug": "squad-members-guide",
       "name": "Squad Members Guide",
       "type": "person",
-      "description": "This Squad Members Guide is meant as a general overview of the various squadmates Commander Shepard can acquire in Mass Effect 3, summarizing their abilities, strengths, and weaknesses in combat. The proper selection and use of squad members can significantly reduce the challenge of a given mission, especially on the higher difficulty settings.\n\nThis page focuses on what makes a particular squad member stand out compared to others and is meant to serve as a starting point for how to assemble a team. For recommendations on what squadmate choices work well for specific player classes, see the individual Class Guides. For in-depth information on the various abilities, equipment, and weapon options, investigate those individual pages as most will contain notes and recommendations on squadmate use. Finally, for recommendations on which squadmates to take on specific missions, see the Walkthrough page for that mission.\n\nA good basic understanding of how Power Combos work is essential for getting the most out of squadmates in Mass Effect 3, especially on higher difficulties, so be sure to review that page and see the quick reference table here. Also, the customizable appearances feature for squadmates returns from Mass Effect 2, but significantly, the various armors and outfits now have gameplay effects&mdash;see the table on this page for reference.\n\nSquad members are listed in approximately the order in which they become available.",
+      "description": "Given how combos work in Andromeda (you only need a source and a detonator, they can be of any type), you don't need to think as much about whether or not you can create combos, but whether they are the OPTIMAL ones.\n\nAgainst enemies like Hydras or Fiends, hard-hitting snipers work if you can keep your distance or shotguns if you are skilled at dodging. Cryo combos can help slow them down, giving you more time to react.\n\nBiotic combos against large enemies aren't as effective, since the force of a biotic detonation won't do much. Of course, any combo is better than no combo in this kind of situation, just don't expect to knock huge enemies down.\n\nIf you're facing \"mook-level\" mobs like raiders or kett troopers, biotic combos can trivialize those encounters, and fire combos can make them panic, letting you dispose of them with impunity.",
       "short_description": "This Squad Members Guide is meant as a general overview of the various squadmates Commander Shepard can acquire in Mass Effect, summarizing their abilities, strengths, and weaknesses in combat. The proper selection and…",
       "evidence": "fiction",
       "parentSlug": "mass-effect",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/masseffect/images/f/f7/ME3_Ashley_Basic_Outfit.png/revision/latest/scale-to-width-down/360?cb=20120325141227",
-      "image_source": "https://masseffect.fandom.com/wiki/Squad_Members_Guide_(Mass_Effect_3)",
+      "image_url": "https://static.wikia.nocookie.net/masseffect/images/d/d0/MEA_Squadmate_Selection_Screen.png/revision/latest/scale-to-width-down/360?cb=20180407235230",
+      "image_source": "https://masseffect.fandom.com/wiki/Squad_Members_Guide_(Mass_Effect:_Andromeda)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BioWare / Electronic Arts (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Squad Members Guide (Mass Effect 3)",
+      "image_alt": "Identification thumbnail for Squad Members Guide (Mass Effect: Andromeda)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://masseffect.fandom.com/wiki/Squad_Members_Guide_(Mass_Effect_3)",
-        "fandom_title": "Squad Members Guide (Mass Effect 3)",
+        "fandom_url": "https://masseffect.fandom.com/wiki/Squad_Members_Guide_(Mass_Effect:_Andromeda)",
+        "fandom_title": "Squad Members Guide (Mass Effect: Andromeda)",
         "source_fandom": "masseffect.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -22409,7 +22394,7 @@
       "parentSlug": "mass-effect",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/masseffect/images/2/29/Caleston_Orbit.png/revision/latest/scale-to-width-down/180?cb=20260214081326",
+      "image_url": "https://static.wikia.nocookie.net/masseffect/images/2/29/Caleston_Orbit.png/revision/latest/scale-to-width-down/360?cb=20260214081326",
       "image_source": "https://masseffect.fandom.com/wiki/Caleston_(Cut)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BioWare / Electronic Arts (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -22424,8 +22409,7 @@
         "source_fandom": "masseffect.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "location"
+        ]
       }
     },
     {
@@ -37320,11 +37304,11 @@
     "images_attached": 3,
     "core_enrichments": 29,
     "preserved_fandom": 0,
-    "fandom_titles": 1,
-    "fandom_enriched_core": 0,
-    "fandom_created": 0,
-    "fandom_images": 1,
-    "fandom_intros": 1,
+    "fandom_titles": 1073,
+    "fandom_enriched_core": 36,
+    "fandom_created": 1031,
+    "fandom_images": 975,
+    "fandom_intros": 1068,
     "image_backfill_at": "2026-09-11T16:30:18.158Z",
     "image_backfill_count": 33
   }

@@ -108,8 +108,8 @@ function escape(value) {
 }
 
 /**
- * Map entity API image fields into a MediaAsset for listing display.
- * Prefer showing the best available thumb (downscaled) over hiding it.
+ * Map today's entity API image fields into a MediaAsset when possible.
+ * Returns null if fair-use metadata is too thin to render legally under our rules.
  */
 export function entityImageToMediaAsset(entity, sectionId = "overview") {
     if (!entity?.image_url) return null;
@@ -121,12 +121,6 @@ export function entityImageToMediaAsset(entity, sectionId = "overview") {
         license === MEDIA_LICENSE.CC_BY ||
         license === MEDIA_LICENSE.CC_BY_SA;
 
-    const edge = 220;
-    const excerpt =
-        entity.short_description ||
-        entity.description ||
-        `${entity.name} appears in ${entity.universe || "this franchise"} and is catalogued on Ton-o-Lore.`;
-
     if (free) {
         return {
             id: `${entity.slug || entity.id}-media`,
@@ -134,25 +128,36 @@ export function entityImageToMediaAsset(entity, sectionId = "overview") {
             alt: entity.image_alt || entity.name,
             license,
             isFree: true,
-            width: edge,
-            height: edge
+            width: 400,
+            height: 400
         };
+    }
+
+    const excerpt =
+        entity.short_description ||
+        entity.description ||
+        "";
+    if (String(excerpt).trim().length < 40) {
+        // Refuse non-free render without commentary tether.
+        return null;
     }
 
     return {
         id: `${entity.slug || entity.id}-media`,
         url: entity.image_url,
         originalUrl: entity.image_source || undefined,
-        alt: entity.image_alt || entity.name,
+        alt:
+            entity.image_alt ||
+            `Low-resolution identification still of ${entity.name}`,
         license: MEDIA_LICENSE.FAIR_USE,
-        width: edge,
-        height: edge,
+        width: 360,
+        height: 360,
         isFree: false,
         fairUseRationale: {
             copyrightHolder: "Respective rights holders",
             sourceAttribution:
                 entity.image_credit ||
-                "Reduced-resolution listing art — not free or redistributable artwork.",
+                "Fair-use identification thumbnail — not free artwork.",
             sourceUrl: entity.image_source || undefined,
             purposeOfUse: MEDIA_PURPOSE.PRIMARY_IDENTIFICATION,
             nonReplaceabilityStatement: DEFAULT_NON_REPLACEABILITY,

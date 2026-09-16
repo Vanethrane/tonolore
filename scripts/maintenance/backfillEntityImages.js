@@ -52,7 +52,7 @@ function normalizeThumbUrl(url) {
         return url;
     }
     return String(url)
-        .replace(/\/scale-to-width-down\/\d+/i, "/scale-to-width-down/220")
+        .replace(/\/scale-to-width-down\/\d+/i, "/scale-to-width-down/360")
         .replace(/\/\d+px-/i, "/360px-");
 }
 
@@ -117,7 +117,7 @@ async function fetchWikipediaIdentities(titles, credit) {
                 redirects: "1",
                 prop: "pageimages|info",
                 piprop: "thumbnail|name",
-                pithumbsize: "800",
+                pithumbsize: "360",
                 inprop: "url"
             });
             break;

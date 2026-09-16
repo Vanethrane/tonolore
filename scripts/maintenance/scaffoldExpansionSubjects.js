@@ -1,5 +1,5 @@
 /**
- * Scaffold expansion + depth-fill subject packages and theme CSS.
+ * Scaffold expansion-category subject packages (15 categories × 3 subjects).
  *
  *   node scripts/maintenance/scaffoldExpansionSubjects.js
  */
@@ -9,18 +9,10 @@ const path = require("path");
 const {
     allExpansionSubjects
 } = require("../subjects/expansionCatalog");
-const {
-    allDepthFillSubjects
-} = require("../subjects/categoryDepthFillers");
-const { CATEGORY_CATALOG } = require("../subjects/categories");
 
 const root = path.join(__dirname, "..", "..");
 const subjectsDir = path.join(root, "scripts", "subjects");
 const cssPath = path.join(root, "client", "src", "expansionSubjectThemes.css");
-
-const CATEGORY_LABELS = Object.fromEntries(
-    CATEGORY_CATALOG.map((row) => [row.id, row.label])
-);
 
 function writeIfMissing(filePath, contents) {
     if (fs.existsSync(filePath)) {
@@ -29,16 +21,6 @@ function writeIfMissing(filePath, contents) {
     fs.mkdirSync(path.dirname(filePath), { recursive: true });
     fs.writeFileSync(filePath, contents);
     return true;
-}
-
-function withLabel(subject) {
-    return {
-        ...subject,
-        categoryLabel:
-            subject.categoryLabel ||
-            CATEGORY_LABELS[subject.categoryId] ||
-            subject.categoryId
-    };
 }
 
 function packageIndex(subject) {
@@ -160,19 +142,10 @@ function themeCss(subject) {
 `;
 }
 
-const byId = new Map();
-for (const subject of [
-    ...allExpansionSubjects(),
-    ...allDepthFillSubjects()
-].map(withLabel)) {
-    byId.set(subject.id, subject);
-}
-const subjects = [...byId.values()];
-
 let created = 0;
-const cssChunks = ["/* Expansion + depth-fill subject themes */\n"];
+const cssChunks = ["/* Expansion category subject themes */\n"];
 
-for (const subject of subjects) {
+for (const subject of allExpansionSubjects()) {
     const dir = path.join(subjectsDir, subject.id);
     if (writeIfMissing(path.join(dir, "index.js"), packageIndex(subject))) {
         created += 1;
@@ -183,5 +156,5 @@ for (const subject of subjects) {
 
 fs.writeFileSync(cssPath, cssChunks.join("\n"));
 console.log(
-    `Scaffolded ${created} new packages (${subjects.length} total). Wrote ${path.relative(root, cssPath)}`
+    `Scaffolded ${created} new packages (${allExpansionSubjects().length} total). Wrote ${path.relative(root, cssPath)}`
 );

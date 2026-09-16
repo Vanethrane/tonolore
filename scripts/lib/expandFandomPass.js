@@ -99,10 +99,9 @@ function normalizeThumbUrl(url) {
     if (!url) {
         return url;
     }
-    // Store a small CDN edge so listings look good but aren't merch-ready.
     return String(url).replace(
         /\/scale-to-width-down\/\d+/i,
-        "/scale-to-width-down/220"
+        "/scale-to-width-down/360"
     );
 }
 
@@ -234,9 +233,7 @@ async function expandFandomPass(subjectId, opts = {}) {
     }
 
     const pageMeta = new Map();
-    const categories = Array.isArray(opts.categories) && opts.categories.length
-        ? opts.categories
-        : fandom.categories || [];
+    const categories = fandom.categories || [];
 
     console.log(`Fandom pass (${host}) for ${subjectId}…`);
 
@@ -244,18 +241,14 @@ async function expandFandomPass(subjectId, opts = {}) {
         console.log(`  Category:${cat.title}…`);
         let members = [];
         try {
-            const categoryCap =
-                opts.categoryMaxPages ||
-                cat.maxPages ||
-                (opts.onlyNew ? 20000 : 3000);
             members = await listCategoryMembers(host, cat.title, {
                 // When discovering only-new titles, don't clamp category crawl to
                 // the batch size — we need to walk past already-known pages.
                 maxPages: opts.onlyNew
-                    ? categoryCap
+                    ? cat.maxPages || 3000
                     : Math.min(
-                          categoryCap,
-                          opts.limit || categoryCap
+                          cat.maxPages || 3000,
+                          opts.limit || cat.maxPages || 3000
                       ),
                 delayMs: opts.delayMs || 110,
                 pageOnly: !cat.includeSubcats,
@@ -356,7 +349,7 @@ async function expandFandomPass(subjectId, opts = {}) {
     const identities = new Map();
     for (const batch of chunk(titles, opts.batchSize || 40)) {
         try {
-            const map = await fetchPageIdentities(host, batch, 800);
+            const map = await fetchPageIdentities(host, batch, 360);
             for (const [k, v] of map) {
                 identities.set(k, v);
             }
@@ -641,7 +634,7 @@ async function expandFandomPass(subjectId, opts = {}) {
         fair_use_policy: {
             image_license: "fair_use",
             image_usage: "fair_use_identification",
-            max_edge_px: 220,
+            max_edge_px: 360,
             note: `Thumbnails may come from Wikipedia and/or Fandom (${host}) for identification and commentary only. ${credit} Not free or redistributable artwork.`
         },
         enrichments: [...enrichmentBySlug.values()],
@@ -657,33 +650,7 @@ async function expandFandomPass(subjectId, opts = {}) {
         }
     };
 
-    const payload = JSON.stringify(out, null, 2);
-    const tmp = `${outPath}.${process.pid}.tmp`;
-    let wrote = false;
-    for (let attempt = 0; attempt < 8; attempt += 1) {
-        try {
-            fs.writeFileSync(tmp, payload);
-            fs.renameSync(tmp, outPath);
-            wrote = true;
-            break;
-        } catch (error) {
-            try {
-                fs.unlinkSync(tmp);
-            } catch (_) {
-                /* ignore */
-            }
-            if (attempt === 7) {
-                throw error;
-            }
-            const end = Date.now() + 250 * (attempt + 1);
-            while (Date.now() < end) {
-                /* brief backoff for Windows file locks */
-            }
-        }
-    }
-    if (!wrote) {
-        throw new Error(`Failed to write ${outPath}`);
-    }
+    fs.writeFileSync(outPath, JSON.stringify(out, null, 2));
     console.log("  Wrote", outPath);
     console.log("  Fandom stats", out.stats);
 

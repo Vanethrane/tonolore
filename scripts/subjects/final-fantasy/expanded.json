@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T01:07:59.605Z",
+  "generated_at": "2026-09-11T15:27:47.526Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 180,
+    "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (finalfantasy.fandom.com) for identification and commentary only. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -217,7 +217,7 @@
         "fandom_preferred_image": true
       },
       "short_description": "Terra Branford, known as Tina in the Japanese version, is a playable character in Final Fantasy VI. Her name in menus before the player names her is displayed as ?????? and her \"name\" in dialogue is Girl.",
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/2/22/200px-Ff6_amano_tina.jpg/revision/latest/scale-to-width-down/360?cb=20220226002319",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/2/22/360px-Ff6_amano_tina.jpg/revision/latest/scale-to-width-down/360?cb=20220226002319",
       "image_source": "https://finalfantasy.fandom.com/wiki/Terra_Branford",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -271,10 +271,10 @@
     {
       "slug": "tidus",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Tidus",
-      "description": "Tidus is a minor character in World of Final Fantasy. He is a Grymoirian incarnation of Tidus originating from Final Fantasy X. Tidus is one of three character representatives of that game, the other two being Yuna and Rikku.\n\nThe player takes control of Tidus in the Einhänder Invasion minigame.\n\nThe player can take on Intervention Quests that center around Tidus.\n\nTidus also appears in the following Intervention Quests.",
+      "description": "Tidus (Tee-dus) is the main protagonist of Final Fantasy X. He can be acquired as a Creature Creator ally in the International + Last Mission and HD versions of Final Fantasy X-2 and plays a pivotal role in the extended universe audio drama and novella.\n\nHe is a rising star blitzball player from Zanarkand and the son of major blitzball star Jecht. After the gargantuan monster known as Sin attacks his hometown, Tidus is transported to the world of Spira. Lost, confused, and seemingly out of place, Tidus meets a newly fledged summoner named Yuna and her guardians. Yuna is to set out on a pilgrimage to put an end to Sin and, by joining Yuna on her pilgrimage, Tidus hopes he will find his way home. Tidus is upbeat and initially childish and naive to the world of Spira. He is also selfless and will do what he believes is right, even if he doesn't think it through first. Throughout the pilgrimage, he matures and becomes more level-headed and grounded.\n\nTidus wields swords and shields in battle. His Sphere Grid path grants him Wht Magic concerned with time status effects, such as Haste and Slow, and also improves his Agility, Evasion, and Accuracy. His Celestial Weapon, the Caladbolg, deals more damage depending on how high his HP is. His Overdrive is Swordplay, dealing physical damage, which can be improved by correct player button timing, and he learns new Swordplay abilities by frequently using them. Tidus is one of three characters who can fight underwater, along with Wakka and Rikku, and can be used in blitzball matches.\n\nSince Tidus is never directly referred to by name in audible dialogue, instead being referred to using impersonal pronouns (you, him, new guy, brudda), the pronunciation of his name among fans is sometimes unclear. His name in Japanese is slightly different, approximately pronounced Tee-da, and, therefore, the assumption is that the first syllable would be pronounced the same in his English name. The pronunciation of his name was first confirmed in an official localization in , which features him in a cameo where his name is pronounced Tee-dus [tiːdʌs]. This pronunciation had also been used in English-language trailers and commercials released prior to Final Fantasy X. James Arnold Taylor, Tidus' English voice actor, has told a story of how the English pronunciation of Tidus's name came about: to make an English version of a trailer, Square hired a narrator in Japan, who pronounced the name as Tee-dus, and the producers assumed that this was the proper way to say the name in English.",
       "metadata": {
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Tidus_(World_of_Final_Fantasy)",
-        "fandom_title": "Tidus (World of Final Fantasy)",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Tidus",
+        "fandom_title": "Tidus",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "wikipedia",
@@ -283,20 +283,20 @@
         "fandom_preferred_image": true
       },
       "short_description": "Tidus is a minor character in World of Final Fantasy. He is a Grymoirian incarnation of Tidus originating from Final Fantasy X. Tidus is one of three character representatives of that game, the other two being Yuna and…",
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/8/8e/WoFF_Tidus.png/revision/latest/scale-to-width-down/360?cb=20160816192227",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Tidus_(World_of_Final_Fantasy)",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/2/20/FFX_Tidus_Art_Render.png/revision/latest/scale-to-width-down/360?cb=20240828002225",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Tidus",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Tidus (World of Final Fantasy)"
+      "image_alt": "Identification thumbnail for Tidus"
     },
     {
       "slug": "yuna",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Yuna",
-      "description": "Yuna is a minor character in World of Final Fantasy. She is a Grymoirian incarnation of Yuna originating from Final Fantasy X. Yuna is one of three character representatives of that game, the other two being Tidus and Rikku.\n\nYuna first encounters Reynn and Lann at Forest Lake after performing her Sending dance. Seeing them in their Jiant forms, Yuna mistakes the duo for Heralds and in her anger, summons a Mirage Valefor to battle them. After their battle, she comments on their use of Mirages and likens them to how Lusse Farna used them. She brings the twins to a monolith of Lusse Farna and explains to them the mythology of Grymoire passed down through the common people. Yuna suggests to the twins that they go to Saronia to look for the whereabouts of Castle Exnine and their mother, suggesting that they pass through Icicle Ridge and obtain Mirages with fire magic. After the twins leave, she is ambushed by the Plumed Knight but remains safe as she produced an illusion of herself.\n\nYuna is fought as a boss alongside Valefor in Forest Lake in Chapter 5, \"The Champion Who Saved Grymoire\".\n\nThe player can take on Intervention Quests that center around Yuna.",
+      "description": "Yuna is a playable character in Final Fantasy X and the main protagonist of Final Fantasy X-2.\n\nIn Final Fantasy X, Yuna becomes a summoner like her father before her and embarks on a pilgrimage to expel Sin, a monstrous creature that terrorizes the world of Spira. She meets Tidus, who teaches her that there is more to life than sacrifice. In Final Fantasy X-2, Yuna is a sphere hunter on a personal quest to uncover the mystery behind a movie sphere and becomes involved in rising political tensions and an ancient force that threaten to end Spira's Eternal Calm.\n\nIn Final Fantasy X, Yuna is the only character who can summon aeons into battle, with her Overdrive allowing her to summon an aeon with their Overdrive already full. Her Sphere Grid path grants her curative and defensive Wht Magic abilities and she equips rods and rings. Her Celestial Weapon, Nirvana, gives all her spells one MP cost. In Final Fantasy X-2, Yuna's default dressphere is a Gunner and her special dressphere is the Floral Fallal.\n\nIn Final Fantasy X, Yuna wears an ensemble similar to, but widely varied from, those worn by Yevonites: a purple pleated, flower-patterned hakama; black boots; a black spaghetti-string camisole under a white sash that wraps around her neck and over her chest; and a yellow patterned obi with a chōchō musubi knot and a decorative obidome to clinch the cords. Two separate, kimono-like pink and white sleeves secured by purple cords complete the outfit. The design of her staff is based on the Khakkhara, a staff used by practitioners of Buddhism.",
       "metadata": {
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Yuna_(World_of_Final_Fantasy)",
-        "fandom_title": "Yuna (World of Final Fantasy)",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Yuna",
+        "fandom_title": "Yuna",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "wikipedia",
@@ -305,34 +305,33 @@
         "fandom_preferred_image": true
       },
       "short_description": "Yuna is a minor character in World of Final Fantasy. She is a Grymoirian incarnation of Yuna originating from Final Fantasy X. Yuna is one of three character representatives of that game, the other two being Tidus and…",
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/4/4a/WoFF_Yuna.png/revision/latest/scale-to-width-down/360?cb=20161111020855",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Yuna_(World_of_Final_Fantasy)",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/f/f9/FFX_Artwork_Yuna.png/revision/latest/scale-to-width-down/360?cb=20141023193639",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Yuna",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Yuna (World of Final Fantasy)"
+      "image_alt": "Identification thumbnail for Yuna"
     },
     {
       "slug": "sin-spira",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Sin",
       "description": "Sin is the main antagonistic force in Final Fantasy X. It is a gargantuan whale-like beast that threatens the world of Spira. It was named by the people of Spira who believed the beast came into being as punishment for their ancestors relying on machina and becoming a hedonistic society. By following the teachings of Yevon, the people of Spira believe one day they will atone for their crimes and Sin will vanish.\n\nSin is represented by the letter Z in the Yevon script alphabet. It appears in many places in Final Fantasy X, sometimes paired with the letter A, the symbol of Yu Yevon, symbolizing the beginning and the end of things.\n\nSin has a whale-like body that it moves with a pair of clawed arms, as well as hind legs resembling pectoral fins for movement in water. It has a long tail and its body is encased in scales it can shed and turn into smaller monsters known as Sinscales. It carries part of a city, presumed to be a part of Zanarkand, on its body close to the back of the head. Sin's final form has feathery wing-like protrusions that are purple at the tips.\n\nAccording to Final Fantasy X Scenario Ultimania, Sin's body is composed of pyreflies and in that respect it is no different from a common fiend. However, Sin draws in pyreflies to replenish its strength whenever damaged, and thus conventional attacks cannot defeat it. According to the Final Fantasy X Ultimania Omega, its body is formed as a result of gravity magic used to draw in further pyreflies from the atmosphere and compressing them densely. Sin can recover the separated parts of its own body, known as \"Sinspawn\", because Sin can repair its body more efficiently by taking in pyreflies that have already been condensed, rather than freshly absorbing pyreflies that drift around the surrounding areas.",
       "metadata": {
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Sin_(Final_Fantasy_X)",
-        "fandom_title": "Sin (Final Fantasy X)",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Sin",
+        "fandom_title": "Sin",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "wikipedia",
           "fandom"
-        ],
-        "fandom_preferred_image": true
+        ]
       },
       "short_description": "Sin is the main antagonistic force in Final Fantasy X. It is a gargantuan whale-like beast that threatens the world of Spira. It was named by the people of Spira who believed the beast came into being as punishment for…",
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/4/4c/FFRK_Sin_FFX.png/revision/latest?cb=20150917073918",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Sin_(Final_Fantasy_X)",
-      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Jan_Brueghel_de_Oude_en_Peter_Paul_Rubens_-_Het_aards_paradijs_met_de_zondeval_van_Adam_en_Eva.jpg/360px-Jan_Brueghel_de_Oude_en_Peter_Paul_Rubens_-_Het_aards_paradijs_met_de_zondeval_van_Adam_en_Eva.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Sin",
+      "image_credit": "Fair-use identification thumbnail via Wikipedia. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Sin (Final Fantasy X)"
+      "image_alt": "Identification thumbnail for Sin"
     },
     {
       "slug": "spira",
@@ -402,17 +401,17 @@
     },
     {
       "slug": "chaos-ff",
-      "description": "Chaos is the primary antagonist and the final boss of Dissidia Final Fantasy and Dissidia 012 Final Fantasy. He is the God of Discord that opposes Cosmos, the goddess of harmony, both being equal in power. During Dissidia Final Fantasy, Chaos and his forces tip the balance of power in their favor, setting the stage for their victory. Dissidia 012 Final Fantasy explores this shift in power in-depth and the actions taken by hero and villain alike that set the stage for the thirteenth cycle.\n\nAs the final boss, Chaos is unplayable unless one hacks the game. An alternate form of Chaos, a bestial monstrosity known as Feral Chaos, is playable in Dissidia 012 Final Fantasy and serves as the superboss.\n\nChaos's appearance is based on his original artwork by Yoshitaka Amano as a muscular dark red four-armed fiend with wings sprouting from his back and demonic faces on his knees. He has a long tail and several horns, the most prominent of which are two red horns that curve into the air. Chaos wears a loincloth with another face on it and a red amulet. While using his Utter Chaos attack, Chaos changes into an alternate form based on his original sprites in Final Fantasy, coloring his skin a pale yellow-green and the demonic faces purple. In this form, Chaos wields up to four large black and orange swords, initially appearing as spires stuck into the arena floor. In the opening FMV of Dissidia Final Fantasy, he takes the form of a creature made of magma emerging from the earth juxtaposing the cloudy form of Cosmos.\n\nWhile his Final Fantasy counterpart shared Garland's personality, in Dissidia, Chaos and Garland are entirely different (although the latter implies that he will eventually become the former). Despite his monstrous appearance and position as the God of Discord, Chaos demonstrates a calm, collected, and reasoned demeanor when not in combat, speaking in an even tone, even to his enemies. He watches over his minions with a light hand, a trait influenced by his time with the Lufenian military when he was forced to fight against his will and came to hate his superiors. Even against traitors and those who neglect their duties to him, Chaos is hesitant to punish their disobedience. This attitude allows many of his warriors to turn their backs on him or plot against him and only Garland is loyal to the end.",
+      "description": "Chaos , also known as Chaos, Walker of the Wheel , is a recurring creature in Final Fantasy series. The main antagonist of the original Final Fantasy, variations on Chaos have reappeared through the franchise as a monstrously powerful demonic figure associated with reincarnation and endless cycles of violence, appearing as either a powerful or final boss, or as a summoned monster.\n\nChaos appears as the final boss. A former knight of Cornelia named Garland, when he was defeated in the Chaos Shrine by the Warriors of Light he was sent 2000 years into the past by the Four Fiends. There his hatred would merge with elements of the world, causing the paradoxical creation of the Four Fiends and turning him into Chaos. Chaos would then send the Four Fiends to the future, creating a time loop wherein the Four Fiends would always sent Garland back to the past upon his defeat.\n\nAfter the Warriors of Light defeated the Four Fiends in the present, who had been draining the elemental powers of the Crystals, the Crystals revealed a portal to the Chaos Shrine of 2000 years past. There they defeated the Four Fiends of the past and re-encountered Garland, who explained the time loop he had created to ensure his survival. Turning into Chaos for the final battle, he would finally be defeated and time loop ended.\n\nChaos appears as Vincent Valentine's level 4 Limit, which sees him transform into the creature. Little explanation is given for Vincent's transformations in the original game.",
       "short_description": "Chaos is the primary antagonist and the final boss of Dissidia Final Fantasy and Dissidia 012 Final Fantasy. He is the God of Discord that opposes Cosmos, the goddess of harmony, both being equal in power. During…",
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/b/be/DissidiaChaos.png/revision/latest/scale-to-width-down/180?cb=20101002233636",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Chaos_(Dissidia)",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/b/ba/PFF_Chaos.png/revision/latest?cb=20141102002640",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Chaos",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Chaos (Dissidia)",
+      "image_alt": "Identification thumbnail for Chaos",
       "metadata": {
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Chaos_(Dissidia)",
-        "fandom_title": "Chaos (Dissidia)",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Chaos",
+        "fandom_title": "Chaos",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "wikipedia",
@@ -423,17 +422,17 @@
     },
     {
       "slug": "cid-ff",
-      "description": "Cid is a recurring character in the Chocobo series. Like in the Final Fantasy games, the Cids of the Chocobo series have different appearances and roles.\n\nCid is the recluse inventor in the village where Chocobo lived. He lives in Cid's Tower, away from the village since the inhabitants did not like the presence of humans in their village. When Cid's Tower was taken over by monsters, Cid enlists Chocobo to help him. As gratitude for his assistance, Cid helped the bird in many of his journeys, producing submarines and airships for his use. As a party member, Cid is a mostly physical fighter with high HP, using his wrench in combat. When asked, Cid can plant mines on where he is currently standing.\n\nIn Chocobo's Mystery Dungeon: Every Buddy, he makes a cameo appearance in Chapter 3 after the Guardian of Water dungeon is revealed and also after clearing Shiroma's dungeon. He is again found at the Empty House in the Residential District. Completing his dungeon unlocks his buddy for use. Because the enemies are much stronger than Shiroma's dungeon, it is best to wait until you reach level 55.\n\nCid is the ingenious inventor in the village where Chocobo and his friend Mog live. He invented the Jet-Blades for Chocobo, completely forgetting that Mog had commissioned a racing machine from him earlier. He cooked up a scooter bike later for Mog.",
+      "description": "Cid is a character who has appeared or been mentioned in almost all Final Fantasy-related media; the main series, spinoffs, film, and anime. Cid has become a Final Fantasy trademark, as with chocobos and moogles. He leads the list of recurring characters, which include Biggs and Wedge and Gilgamesh. However, each installment features a different Cid character and his roles in the series range widely from a party member to an NPC to an antagonist.\n\nIn Final Fantasy tradition, Cid characters often have a group of distinct traits fans have come to expect. They are often mechanically minded and frequently portrayed as engineers or inventors. Cids are often the source of the airships that the player uses toward the game's end as its captain or its creator.\n\nThe Cid characters are sometimes partially responsible for the main conflict within the game as a result of his inventions or research being abused. If this is the case, he will often seek redemption by assisting the party. Cid is usually older than the main cast, sometimes by several decades, and they are thus portrayed as fatherly figures, sometimes as the biological, adoptive, or surrogate father of one of the main characters.\n\nCid is described as the ancient Lufenian creator of the airship that the Warriors of Light use.",
       "short_description": "Cid, also known as Veritas of the Heavens , is a major character in Final Fantasy Brave Exvius. A member of the Sworn Six of Paladia, he commands the element of Wind and serves as the main antagonist of Season One's…",
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/b/bd/Vwavatar_cdwii-cid.jpg/revision/latest?cb=20081005201012",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Cid_(Chocobo_series)",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/a/ae/FFRK_Doctor_Cid_%26_Rook_FFXII.png/revision/latest?cb=20151120065012",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Cid",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Cid (Chocobo series)",
+      "image_alt": "Identification thumbnail for Cid",
       "metadata": {
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Cid_(Chocobo_series)",
-        "fandom_title": "Cid (Chocobo series)",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Cid",
+        "fandom_title": "Cid",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "wikipedia",
@@ -446,12 +445,12 @@
       "slug": "sephiroth",
       "description": "Sephiroth is a minor character in World of Final Fantasy. He is a Grymoirian incarnation of Sephiroth originating from Final Fantasy VII. Sephiroth is one of the five character representatives of the Final Fantasy VII series, the other four being Cloud, Tifa, Shelke, and Zack (the latter appearing only in the Maxima version).\n\nAn image of Sephiroth appears in the Who's Who, but does not have a written entry for him.\n\nAs a Champion, Sephiroth can be summoned to assist Lann and Reynn in battle. Upon acquiring Sephiroth's Champion Medal, the player can summon him to attack one enemy with the ability Super Nova. The party is also bestowed with .\n\n\"Advent: One-Winged Angel\" plays when using Sephiroth's Champion Medal. The player may select this theme as the background music for battles from the Config section of the main menu, labeled as \"Champion Theme: Sephiroth\".",
       "short_description": "Sephiroth is the main antagonist of Final Fantasy VII, Final Fantasy VII: Advent Children, Final Fantasy VII Remake, Final Fantasy VII Rebirth, and Final Fantasy VII Revelation, and one of the major antagonists in its…",
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/c/c3/WoFF_Sephiroth.png/revision/latest/scale-to-width-down/360?cb=20161020065818",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Sephiroth_(World_of_Final_Fantasy)",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/1/18/Sephiroth_from_FFVII_Revelation_promo_render.png/revision/latest/scale-to-width-down/360?cb=20260904180304",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Sephiroth",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Sephiroth (World of Final Fantasy)",
+      "image_alt": "Identification thumbnail for Sephiroth",
       "metadata": {
         "fandom_url": "https://finalfantasy.fandom.com/wiki/Sephiroth_(World_of_Final_Fantasy)",
         "fandom_title": "Sephiroth (World of Final Fantasy)",
@@ -465,38 +464,37 @@
     },
     {
       "slug": "warrior-of-light",
-      "description": "The Warrior of Light is a minor character in World of Final Fantasy. He is a Grymoirian incarnation of the Warrior of Light originating from the Dissidia Final Fantasy series. The Warrior of Light is one of the three character representatives of the first Final Fantasy, the other two being Princess Sarah and Garland (the latter appearing only in the Maxima version).\n\nThe Warrior of Light appears as a denizen of Grymoire. When introduced, he appears before the protagonists Lann and Reynn as the Brigade Captain of Cornelia. He informs the two of their plan to stop the enemy invasion in The Watchplains.\n\nWhen Princess Sarah is about to be attacked by the Giant Goblin, the Captain steps in to save her, but the Goblin retaliates, prompting the twins' light to indirectly awaken the Captain's ability as a Champion. He fells the Goblin, and is dubbed by the Princess as the \"Warrior of Light\".\n\nReturning to the castle with the Princess, he informs the twins of the \"League of S\", an anti-federation group rebelling against the Bahumutian army. The Warrior volunteers to contact them in Saronia, but Lann and Reynn go in his place instead, so that the Warrior can continue protecting Princess Sarah and Cornelia.",
+      "description": "The Warrior of Light is a recurring character in the Final Fantasy series, primarily appearing in its myriad sequels, remakes, and spin-off media. Where he appears, the Warrior of Light is usually the chosen representative of the original Final Fantasy.\n\nThe Warrior of Light appears in a pre-title FMV sequence for the Final Fantasy Origins reboot and the 20th Anniversary print of the original game. Here, he can be seen fiercely fighting a fire-breathing dragon for several minutes. As the dragon readies its fiery breath, the Warrior of Light positions his sword for a parry. Then, the dragon fires, the fireball partially deflecting around the Warrior as he readies for his attack. The scene cuts as the two prepare for another round, and the viewer is left to wonder which of the two prevails.\n\nThe Warrior of Light is a central character in all titles of the Dissidia series. His story changes between each title.",
       "short_description": "The Warrior of Light is a minor character in World of Final Fantasy. He is a Grymoirian incarnation of the Warrior of Light originating from the Dissidia Final Fantasy series. The Warrior of Light is one of the three…",
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/c/ce/WoFF_Warrior_of_Light.png/revision/latest/scale-to-width-down/360?cb=20161111015100",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Warrior_of_Light_(World_of_Final_Fantasy)",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/8/87/Amano_Party_III.jpg/revision/latest/scale-to-width-down/360?cb=20111128215005",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Warriors_of_Light",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Warrior of Light (World of Final Fantasy)",
+      "image_alt": "Identification thumbnail for Warrior of Light",
       "metadata": {
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Warrior_of_Light_(World_of_Final_Fantasy)",
-        "fandom_title": "Warrior of Light (World of Final Fantasy)",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Warrior_of_Light",
+        "fandom_title": "Warrior of Light",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "wikipedia",
           "fandom"
-        ],
-        "fandom_preferred_image": true
+        ]
       }
     },
     {
       "slug": "chocobo",
-      "description": "Chocobo is a temporary party member in Final Fantasy Adventure. He is found north of Menos as an egg.\n\nThe Final Fantasy Adventure script, and recent English Art of Mana, use masculine pronouns for Chocobo, while the English localization of Adventures of Mana uses feminine.\n\nA boy in Menos mentions that the village used to see many chocobos around the area, even seeing an egg in a forest up north. Sumo ventures into the forest and locates the egg. The egg starts to hatch and a chocobo emerges from the egg. Sumo wonders what the creature is. When he leaves, the newborn follows him. Eventually, Sumo agrees to have the chocobo tag along on his journey. While on open land, Sumo can ride them and avoid most attacks\n\nChocobo is left behind at the entrance of Mt. Rocks. After Sumo's confrontation with Julius, he finds himself left for dead in the middle of the Crystal Desert. He's rescued by Chocobo, who carries him to Ish. Sumo learns from Dr. Bowow that chocobo's leg was wounded and he mechanized it and gains the ability to go on water. Dr. Bowow also names him Chocobot. Both Sumo and Chocobot head to their next destination, Wendel.",
+      "description": "The chocobo , also called chocob, is a recurring animal in the Final Fantasy series. Large avian creatures, chocobos roughly act as the Final Fantasy equivalent of horses, being domesticated for use as mounts, for pulling carts and carriages, and for racing. Since their first appearance in Final Fantasy II, they have appeared in every game in the series in some capacity. As a mainstay, they could be considered the series's mascot.\n\nThe character Chocobo serves as the protagonist of the Chocobo series of spin-offs.\n\nChocobos are generally depicted as yellow-orange birds with three-toed feet (two toes front-facing and one back-facing), large wings, and long necks. Later games have made the yellow variety the common breed and introduced other types characterized by different colors. While the yellow chocobo is flightless, stronger breeds can swim and fly. Common variations include the black chocobo, red chocobo, blue chocobo, and the chocobo breed universally regarded as the strongest, the gold chocobo.\n\nOther games depict colors such as green, white, silver, brown, and purple. Chocobo breeding is a sidequest or activity in several games, as stronger breeds able to swim and fly can reach optional areas that an airship cannot. The ruler of the chocobos is the fat chocobo, a corpulent chocobo capable of human speech who possesses varying degrees of magical powers over lesser chocobos.",
       "short_description": "Chocobo, also called Poulet , is the main protagonist in the Chocobo series. A young chocobo, he is the only chocobo who doesn't speak the language of the humans, but he is certainly the bravest.",
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/6/65/Chocobo_%28FFA%29.jpg/revision/latest/scale-to-width-down/360?cb=20091206020848",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Chocobo_(Adventure)",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/d/d0/Chocobo_from_Final_Fantasy_VII_Remake_artwork.png/revision/latest/scale-to-width-down/360?cb=20200914144356",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Chocobo",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Chocobo (Adventure)",
+      "image_alt": "Identification thumbnail for Chocobo",
       "metadata": {
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Chocobo_(Adventure)",
-        "fandom_title": "Chocobo (Adventure)",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Chocobo",
+        "fandom_title": "Chocobo",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "wikipedia",
@@ -507,7 +505,7 @@
     },
     {
       "slug": "cloud-strife",
-      "description": "Cloud Strife is a major protagonist in the Final Fantasy VII series. He is the main protagonist of Final Fantasy VII, Final Fantasy VII Remake, Final Fantasy VII Rebirth, Final Fantasy VII Revelation, and Final Fantasy VII: Advent Children. He also appears in numerous entries of the Final Fantasy VII series as a supporting character, including Dirge of Cerberus -Final Fantasy VII- and Crisis Core -Final Fantasy VII-.\n\nAn arrogant and proud swordsman at first, Cloud introduces himself to Avalanche as a former member of an elite warrior unit called SOLDIER who has turned mercenary and is uninterested in anything beyond his hired task at hand. Beneath his hardened outer persona is a softer, more caring individual who simply struggles to open up, but is striving to be a hero. Cloud later discovers more about his past and, with the help of his friends, learns that there is more to being a hero than possessing physical strength and fame. He develops compassion for the planet and the people he fights to protect from the Shinra Electric Power Company and his nemesis, Sephiroth.\n\nCloud Strife wields large broadswords in battle, including the iconic Buster Sword, and is a versatile melee combatant. In Final Fantasy VII, he has access to the most powerful weapons in the game, as well as the strongest Limit abilities (all of which involve his sword), though they take the longest to learn. In Final Fantasy VII Remake, Cloud's strength is in his raw damage output and his versatility, able to switch back-and-forth between the agile Operator Mode and the more offensive Punisher Mode that allows him to counterattack. In both titles, Cloud has the best all-around stats.\n\nCloud was born on August 11, 1986 in the mountain village of Nibelheim to Claudia Strife; his father died when Cloud was very young. Cloud lived next door to a girl a year younger than him, Tifa Lockhart, and was excluded from her friendship group. Bitter as a result, Cloud developed a superiority complex, believing that her friends were stupid and that he was more mature and different from them. He did not harbor any dislike for Tifa, but suspected that she disliked him.",
+      "description": "Cloud Strife is the main protagonist from Final Fantasy VII that, through the power of the auracite, had his soul copied from the original Cloud's dimension and given a replica body to act as an secret optional character in Final Fantasy Tactics. His birthday is January 31 in Ivalice, rather than his original birthday in August in Final Fantasy VII games.\n\nCloud's default job is the soldier, allowing him to use his Limits from Final Fantasy VII as powerful magickal attacks. He can be recruited in the sidequest \"Secrets Beneath Goug\" in chapter 4, \"In the Name of Love\".\n\nCloud was summoned to Ivalice as a consequence of Ramza Beoulve using the Cancer Stone to activate an ancient dimensional portal device similar to a mechanical planetarium called \"transporter\" that had been unearthed by the machinist Besrudio Bunansa in Clockwork City of Goug. Confused, distressed, and suffering from amnesia due to the nonsensical situation he found himself in, Cloud fled the city after experiencing a headache, prompting Ramza to pursue him.\n\nTraveling far from Goug, Cloud ended up in the Trade City of Sal Ghidos, where he was approached by a flower peddler. After looking at her perplexed, as she reminded him of someone, he left. Soon after, the peddler was harassed by a group of bandits, who demanded the money they lent her to help her sick mother. Cloud intervened to protect her, but was again tormented by headaches. Ramza appeared to help him and together they defeated the bandits. After the confrontation, Cloud offered to join the group, concluding that in this way he could reach the promised land.",
       "short_description": "Cloud Strife is a major protagonist in the Final Fantasy VII series. He is the main protagonist of Final Fantasy VII, Final Fantasy VII Remake, Final Fantasy VII Rebirth, Final Fantasy VII Revelation, and Final Fantasy…",
       "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/e/e8/Cloud_Strife_from_FFVII_Revelation_promo_render.png/revision/latest/scale-to-width-down/360?cb=20260904175026",
       "image_source": "https://finalfantasy.fandom.com/wiki/Cloud_Strife",
@@ -516,8 +514,8 @@
       "image_usage": "fair_use_identification",
       "image_alt": "Identification thumbnail for Cloud Strife",
       "metadata": {
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Cloud_Strife",
-        "fandom_title": "Cloud Strife",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Cloud_Strife_(Tactics)",
+        "fandom_title": "Cloud Strife (Tactics)",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "wikipedia",
@@ -842,6 +840,38 @@
       }
     },
     {
+      "slug": "bahamut",
+      "name": "Bahamut",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Bahamut in final fantasy.",
+      "description": "Bahamut is the King of the Dragons in the original Final Fantasy. He lives in a subterranean network underneath the Cardian Islands, and grants the class change to the Warriors of Light after they bring back a token of their courage, the rat's tail, from the Citadel of Trials. He states that he has not seen any humans in a while by the time the party visits him.\n\nBahamut is one of the Warriors of Light in the Final Fantasy manga by Yuu Kaimeiji.\n\nes:Bahamut (Final Fantasy) pl:Bahamut (Final Fantasy) pt-br:Bahamut (Final Fantasy) ru:Бахамут (Final Fantasy) Category:Characters in Final Fantasy Category:Kings Category:Dragons",
+      "aliases": [
+        "Bahamut"
+      ],
+      "parentSlug": "final-fantasy",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bahamut_(Final_Fantasy)",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true,
+        "canon": false,
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Bahamut_(Final_Fantasy)",
+        "fandom_title": "Bahamut (Final Fantasy)",
+        "source_fandom": "finalfantasy.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/7/78/Bahamut_FF1.png/revision/latest?cb=20120626061435",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Bahamut_(Final_Fantasy)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Bahamut (Final Fantasy)"
+    },
+    {
       "slug": "dion-lesage",
       "name": "Dion Lesage",
       "type": "person",
@@ -876,6 +906,38 @@
         "source": "wikipedia-category",
         "discovered": true
       }
+    },
+    {
+      "slug": "aki-ross",
+      "name": "Aki Ross",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Aki Ross in final fantasy.",
+      "description": "Dr. Aki Ross is the main character in Final Fantasy: The Spirits Within.\n\nA scientific prodigy, she was one of the first ever photorealistic computer-generated human characters to be created and used in film, and was intended to be the world's first computer generated \"virtual actress\".\n\nAki has shoulder-length bob-style black hair and brown eyes. When not in her USMF recon jumpsuit, she wears a formal gray blouse and skirt, and a white jumper with a chocobo print while resting. She has a chest plate that contains and monitors her infection.\n\nThe eye-piece Aki wears is a Coronet Mono-Scopic S-Scanned Retinal Image Projection Ear Mounted Goggle. Currently undergoing prototype testing, the Coronet is the latest state of the art spiritual energy scanning goggle. The gun that Aki carries into Old New York is the \"Flare Gun\"; a light, compact Dersled Induced 5.6mm S Short Rifle.",
+      "aliases": [
+        "Aki Ross"
+      ],
+      "parentSlug": "final-fantasy",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Aki_Ross",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true,
+        "canon": false,
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Aki_Ross",
+        "fandom_title": "Aki Ross",
+        "source_fandom": "finalfantasy.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/e/ed/Akiross.jpg/revision/latest/scale-to-width-down/360?cb=20071105031549",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Aki_Ross",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Aki Ross"
     },
     {
       "slug": "jun-akiyama",
@@ -1556,6 +1618,38 @@
       }
     },
     {
+      "slug": "esper",
+      "name": "Esper",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Esper in final fantasy.",
+      "description": "Espers are powerful, primordial beings that live in the Esper realm in Final Fantasy Airborne Brigade. The players and their brigade are tasked with battling them to earn their respect and ask for their help in restoring light to the remaining guardian crystal. Espers are both similar and different to weapons and abilities; they're equipped the same way and can be optimized by the system (separately from weapons and abilities), and they can be evolved to boost limits and enhanced to become stronger, but there the similarities end.\n\nThe player can equip up to five summon stones. There is no \"main\" slot; every equipped esper gets charged when the player battles, and espers are used automatically when they're fully charged, unless the player unequip them.\n\nEspers do not have attack and defense values. What they do have is a bravery value, and a charging gauge. The bravery value indicates their attack power when they're summoned and is independent of their own attack, while the charging gauge dictates how long they must be equipped before they can be summoned. Each normal attack will fill all equipped summon stones' charging gauge by one, while each all-out attack will fill them by three. When they are fully charged, the player will summon them with their next all-out attack.\n\n{|class=\"half-width FFAB article-table\" style=\"text-align:center\"",
+      "aliases": [
+        "Esper"
+      ],
+      "parentSlug": "final-fantasy",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Final_Fantasy_VI",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true,
+        "canon": false,
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Esper_(Airborne_Brigade)",
+        "fandom_title": "Esper (Airborne Brigade)",
+        "source_fandom": "finalfantasy.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/4/47/FFAB_Ifrit_Hellfire.png/revision/latest/scale-to-width-down/360?cb=20130127075410",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Esper_(Airborne_Brigade)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Esper (Airborne Brigade)"
+    },
+    {
       "slug": "hume",
       "name": "Hume",
       "type": "person",
@@ -1718,6 +1812,38 @@
       }
     },
     {
+      "slug": "turks",
+      "name": "Turks",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Turks in final fantasy.",
+      "description": "The Turks is the unofficial name of the Investigation Sector of the General Affairs Department (; alternatively, Administrative Research or Auditing) of the Shinra Electric Power Company in Final Fantasy VII. They work inside the Public Security Division under Shinra executive Heidegger.\n\nThe spin-off game Before Crisis -Final Fantasy VII- and its Final Fantasy VII Ever Crisis adaptation focuses on the Turks in the years leading up to Final Fantasy VII.\n\nThe Turks act similarly to an intelligence agency or investigative bureau, engaging in reconnaissance and espionage, or even black ops, including kidnappings and assassinations, on behalf of the corporation. They are also known for scouting for potential SOLDIER candidates. The Turks are consummate professionals, adhering to the mission no matter what. Due to the nature of their job, members are privy to numerous company secrets, and as such, become security risks should they resign or desert.\n\nPrior to the events of Final Fantasy VII the department boasted a larger headcount and operated independently, but following a series of defections and betrayals during the conflict with Avalanche was placed under the supervision of Heidegger, and later nearly dissolved entirely. After a majority of its members and its former director were reported KIA, Rufus Shinra petitioned his father to preserve and restructure the department, then comprised of only three members.",
+      "aliases": [
+        "Turks"
+      ],
+      "parentSlug": "final-fantasy",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Characters_of_the_Final_Fantasy_VII_series",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true,
+        "canon": false,
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Turks",
+        "fandom_title": "Turks",
+        "source_fandom": "finalfantasy.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/2/24/Turks_group_artwork_from_Final_Fantasy_VII.png/revision/latest/scale-to-width-down/360?cb=20200516054234",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Turks",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Turks"
+    },
+    {
       "slug": "voidsent",
       "name": "Voidsent",
       "type": "person",
@@ -1752,6 +1878,38 @@
         "source": "wikipedia-category",
         "discovered": true
       }
+    },
+    {
+      "slug": "ivalice",
+      "name": "Ivalice",
+      "type": "place",
+      "evidence": "fiction",
+      "short_description": "Ivalice in final fantasy.",
+      "description": "Ivalice in Final Fantasy Tactics Advance is a dream world and country populated by five races. Situated in a peninsula that stretches southwards, its geography varies from deserts to snowy mountains to lush green plains. The kingdom is governed by a set of laws created using magic by its ancient king and enforced by a rank of Judges.\n\nThe geography of Ivalice revolves around plains, mountains, deserts, forests, and swamps, and introduces areas called jagds; lawless slums where no Judges dare to tread. Jagds are the only places where a character can die; everywhere else, they are protected from death by the Judges and are simply knocked out.\n\nThe placement of location symbols on the world map after each story-related mission and certain other missions is controlled completely by the player, and there are potentially thousands of world map configurations varying by player. The \"Treasure Hunting\" system is deeply linked to location placement, and can sometimes result in items that cannot be found any other way (note: Four locations in the game always have default placement - Giza Plains, Cyril, Bervenia Palace, and Ambervale).\n\nThere is a calendar system that advances one day for every step taken on the World Map. There are 5 months, and each month has 20 days in it. Each month is also representative of one of the races of Ivalice. If the number of units in the Clan decreases to 5 or less, a mission will become available in the Pub that allows one to recruit a new unit, whose race depends on the current month.",
+      "aliases": [
+        "Ivalice"
+      ],
+      "parentSlug": "final-fantasy",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ivalice",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true,
+        "canon": false,
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Ivalice_(Tactics_Advance)",
+        "fandom_title": "Ivalice (Tactics Advance)",
+        "source_fandom": "finalfantasy.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/b/bc/FFTA_world.png/revision/latest?cb=20070426184509",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Ivalice_(Tactics_Advance)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Ivalice (Tactics Advance)"
     },
     {
       "slug": "opera-house",
@@ -3038,168 +3196,6 @@
       }
     },
     {
-      "slug": "bahamut",
-      "name": "Bahamut",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Bahamut in final fantasy.",
-      "description": "Bahamut, the Draconian is an Astral in the Final Fantasy XV Universe. He is one of the Six and is the God of War clad in winged armor. Bahamut is said to have bestowed the powers of the Oracle and given the Ring of the Lucii and the Crystal onto his chosen king. He is the most mysterious of the six gods with the fewest mentions in written records.\n\nAs the Astral standing above the other deities, Bahamut is depicted benevolently in Final Fantasy XV, but the game's expanded universe depicts him as harsh and indifferent to individual lives.\n\nLike the other Astrals, Bahamut is based on a recurring summon in the Final Fantasy series. He is is one of the most prominent summoned monsters in the series, and is typically considered the strongest among storyline summons.\n\nBahamut dons a metallic suit of armor similar to that of the traditional Dragoon armor, and is more humanoid in appearance, having the title of \"Bladekeeper\". He has a dragon's tail and the wings of his armor are made of swords, 15 on each side, himself also brandishing one. When he unleashes Ultima Sword his wings disappear as the swords circle him and two long red capes with golden markings billow behind him, giving him the appearance of flying with wings. He is big enough for Prince Noctis to fit upon the palm of his hand. On the cover of the Cosmogony books , and on the paintings of the prophecy kept in the Hall of History , Bahamut is depicted as a winged man wearing black armor.",
-      "aliases": [
-        "Bahamut"
-      ],
-      "parentSlug": "final-fantasy",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Bahamut_(Final_Fantasy)",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true,
-        "canon": false,
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Bahamut_(Final_Fantasy_XV)",
-        "fandom_title": "Bahamut (Final Fantasy XV)",
-        "source_fandom": "finalfantasy.fandom.com",
-        "sources": [
-          "wikipedia",
-          "fandom"
-        ],
-        "kind": "character"
-      },
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/f/f6/Bahamut_FFXV.png/revision/latest/scale-to-width-down/360?cb=20170102001438",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Bahamut_(Final_Fantasy_XV)",
-      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
-      "image_license": "fair_use",
-      "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Bahamut (Final Fantasy XV)"
-    },
-    {
-      "slug": "aki-ross",
-      "name": "Aki Ross",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Aki Ross in final fantasy.",
-      "description": "Dr. Aki Ross is the main character in Final Fantasy: The Spirits Within.\n\nA scientific prodigy, she was one of the first ever photorealistic computer-generated human characters to be created and used in film, and was intended to be the world's first computer generated \"virtual actress\".\n\nAki has shoulder-length bob-style black hair and brown eyes. When not in her USMF recon jumpsuit, she wears a formal gray blouse and skirt, and a white jumper with a chocobo print while resting. She has a chest plate that contains and monitors her infection.\n\nThe eye-piece Aki wears is a Coronet Mono-Scopic S-Scanned Retinal Image Projection Ear Mounted Goggle. Currently undergoing prototype testing, the Coronet is the latest state of the art spiritual energy scanning goggle. The gun that Aki carries into Old New York is the \"Flare Gun\"; a light, compact Dersled Induced 5.6mm S Short Rifle.",
-      "aliases": [
-        "Aki Ross"
-      ],
-      "parentSlug": "final-fantasy",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Aki_Ross",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true,
-        "canon": false,
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Aki_Ross",
-        "fandom_title": "Aki Ross",
-        "source_fandom": "finalfantasy.fandom.com",
-        "sources": [
-          "wikipedia",
-          "fandom"
-        ]
-      },
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/e/ed/Akiross.jpg/revision/latest/scale-to-width-down/360?cb=20071105031549",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Aki_Ross",
-      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
-      "image_license": "fair_use",
-      "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Aki Ross"
-    },
-    {
-      "slug": "esper",
-      "name": "Esper",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Esper in final fantasy.",
-      "description": "Espers are powerful, primordial beings that live in the Esper realm in Final Fantasy Airborne Brigade. The players and their brigade are tasked with battling them to earn their respect and ask for their help in restoring light to the remaining guardian crystal. Espers are both similar and different to weapons and abilities; they're equipped the same way and can be optimized by the system (separately from weapons and abilities), and they can be evolved to boost limits and enhanced to become stronger, but there the similarities end.\n\nThe player can equip up to five summon stones. There is no \"main\" slot; every equipped esper gets charged when the player battles, and espers are used automatically when they're fully charged, unless the player unequip them.\n\nEspers do not have attack and defense values. What they do have is a bravery value, and a charging gauge. The bravery value indicates their attack power when they're summoned and is independent of their own attack, while the charging gauge dictates how long they must be equipped before they can be summoned. Each normal attack will fill all equipped summon stones' charging gauge by one, while each all-out attack will fill them by three. When they are fully charged, the player will summon them with their next all-out attack.\n\n{|class=\"half-width FFAB article-table\" style=\"text-align:center\"",
-      "aliases": [
-        "Esper"
-      ],
-      "parentSlug": "final-fantasy",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Final_Fantasy_VI",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true,
-        "canon": false,
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Esper_(Airborne_Brigade)",
-        "fandom_title": "Esper (Airborne Brigade)",
-        "source_fandom": "finalfantasy.fandom.com",
-        "sources": [
-          "wikipedia",
-          "fandom"
-        ],
-        "kind": "character"
-      },
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/4/47/FFAB_Ifrit_Hellfire.png/revision/latest/scale-to-width-down/180?cb=20130127075410",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Esper_(Airborne_Brigade)",
-      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
-      "image_license": "fair_use",
-      "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Esper (Airborne Brigade)"
-    },
-    {
-      "slug": "turks",
-      "name": "Turks",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Turks in final fantasy.",
-      "description": "The Turks is the unofficial name of the Investigation Sector of the General Affairs Department (; alternatively, Administrative Research or Auditing) of the Shinra Electric Power Company in Final Fantasy VII. They work inside the Public Security Division under Shinra executive Heidegger.\n\nThe spin-off game Before Crisis -Final Fantasy VII- and its Final Fantasy VII Ever Crisis adaptation focuses on the Turks in the years leading up to Final Fantasy VII.\n\nThe Turks act similarly to an intelligence agency or investigative bureau, engaging in reconnaissance and espionage, or even black ops, including kidnappings and assassinations, on behalf of the corporation. They are also known for scouting for potential SOLDIER candidates. The Turks are consummate professionals, adhering to the mission no matter what. Due to the nature of their job, members are privy to numerous company secrets, and as such, become security risks should they resign or desert.\n\nPrior to the events of Final Fantasy VII the department boasted a larger headcount and operated independently, but following a series of defections and betrayals during the conflict with Avalanche was placed under the supervision of Heidegger, and later nearly dissolved entirely. After a majority of its members and its former director were reported KIA, Rufus Shinra petitioned his father to preserve and restructure the department, then comprised of only three members.",
-      "aliases": [
-        "Turks"
-      ],
-      "parentSlug": "final-fantasy",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Characters_of_the_Final_Fantasy_VII_series",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true,
-        "canon": false,
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Turks",
-        "fandom_title": "Turks",
-        "source_fandom": "finalfantasy.fandom.com",
-        "sources": [
-          "wikipedia",
-          "fandom"
-        ]
-      },
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/2/24/Turks_group_artwork_from_Final_Fantasy_VII.png/revision/latest/scale-to-width-down/360?cb=20200516054234",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Turks",
-      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
-      "image_license": "fair_use",
-      "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Turks"
-    },
-    {
-      "slug": "ivalice",
-      "name": "Ivalice",
-      "type": "place",
-      "evidence": "fiction",
-      "short_description": "Ivalice in final fantasy.",
-      "description": "Ivalice in Final Fantasy Tactics Advance is a dream world and country populated by five races. Situated in a peninsula that stretches southwards, its geography varies from deserts to snowy mountains to lush green plains. The kingdom is governed by a set of laws created using magic by its ancient king and enforced by a rank of Judges.\n\nThe geography of Ivalice revolves around plains, mountains, deserts, forests, and swamps, and introduces areas called jagds; lawless slums where no Judges dare to tread. Jagds are the only places where a character can die; everywhere else, they are protected from death by the Judges and are simply knocked out.\n\nThe placement of location symbols on the world map after each story-related mission and certain other missions is controlled completely by the player, and there are potentially thousands of world map configurations varying by player. The \"Treasure Hunting\" system is deeply linked to location placement, and can sometimes result in items that cannot be found any other way (note: Four locations in the game always have default placement - Giza Plains, Cyril, Bervenia Palace, and Ambervale).\n\nThere is a calendar system that advances one day for every step taken on the World Map. There are 5 months, and each month has 20 days in it. Each month is also representative of one of the races of Ivalice. If the number of units in the Clan decreases to 5 or less, a mission will become available in the Pub that allows one to recruit a new unit, whose race depends on the current month.",
-      "aliases": [
-        "Ivalice"
-      ],
-      "parentSlug": "final-fantasy",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Ivalice",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true,
-        "canon": false,
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Ivalice_(Tactics_Advance)",
-        "fandom_title": "Ivalice (Tactics Advance)",
-        "source_fandom": "finalfantasy.fandom.com",
-        "sources": [
-          "wikipedia",
-          "fandom"
-        ]
-      },
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/b/bc/FFTA_world.png/revision/latest?cb=20070426184509",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Ivalice_(Tactics_Advance)",
-      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
-      "image_license": "fair_use",
-      "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Ivalice (Tactics Advance)"
-    },
-    {
       "slug": "guest",
       "name": "Guest",
       "type": "person",
@@ -4311,29 +4307,28 @@
       "slug": "beatrix",
       "name": "Beatrix",
       "type": "person",
-      "description": "General Beatrix is a temporary player character and boss in Final Fantasy IX. She is the top general and most trusted warrior of the all-female army of Alexandria.\n\nBeatrix is a proud, merciless, and threatening soldier, respected and feared among warriors all around Gaia as the finest of them all. She does not like to take a back seat to anyone, especially Kuja and his black mages, and initially views Captain Steiner of the Knights of Pluto as a rival. While loyal to Queen Brahne, her first priority is protecting the citizens of Alexandria. Beatrix acts stoic towards her enemies, but has a kind heart, willingness to forgive, and is soft-spoken and polite to her allies.\n\nBeatrix is fought as an unwinnable boss on a few occasions. As a playable character, her abilities are Seiken and Wht Mag. Seiken grants her offensive damaging abilities with her sword, similar to Steiner's Swd Art (the skillsets also share some abilities), while she has access to several Wht Mag spells for curative purposes. Beatrix wields the Save the Queen sword in battle and wears heavy armor.\n\nBeatrix is tall, slender, and curvy with chestnut brown hair. She wears a silver eye patch over her right eye, with the left being a purple/reddish color. In her concept art, she has a bandana over her right eye and the left eye is blue. She frequently tosses back her hair with her hand. She wears less armor than the heavily clad Steiner and thus is more agile. She wears a red and white sleeveless duster with a rose embroidered on the back over a pair of reddish-brown leggings tucked within a pair of armored boots, armored gloves, and additional armor on her right arm. A large belt is secured around her waist at an angle, holding her sword, Save the Queen.",
+      "description": "Beatrix is both a temporary playable character and a boss in Final Fantasy IX. As a boss, she is never fully defeated, and once her HP is depleted, she will use an attack to reduce the party's HP to 1 and end the battle. As a party member, she resembles a Paladin. She briefly is available during the \"rescuing Garnet\" scenario, partnered with Freya, and in the Battle of Alexandria scenario, partnered with Steiner. She has access to a few Wht Mag abilities, and her skillset is known as Seiken, which is similar to Steiner's Swd Art.\n\nBeatrix has both high physical and magical stats, and knows many devastating attacks as well as healing spells. She does not gain enough MP to consistently use her expensive abilities. In her victory pose, Beatrix sheathes her weapon and flips her hair back as she does in most of the game's cutscenes.\n\nSince Beatrix is a temporary party member, she joins with all her abilities mastered. She has neither a Trance bar nor any support abilities, and she cannot learn any new abilities from equipment but does gain Magic Stones upon leveling up.\n\nShe can use Wht Mag spells, a total of eight spells that are a mixture of Dagger's and Eiko's spells: Cura, Life, Full-Life, Esuna, Silence, Reflect, Blind, and Holy.",
       "short_description": "General Beatrix is a temporary player character and boss in Final Fantasy IX. She is the top general and most trusted warrior of the all-female army of Alexandria.",
       "evidence": "fiction",
       "parentSlug": "final-fantasy",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/5/5d/Beatrix-ffix.png/revision/latest/scale-to-width-down/360?cb=20130118164034",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Beatrix",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/0/06/Beatrix-battle.png/revision/latest/scale-to-width-down/360?cb=20130118004622",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Beatrix_(Final_Fantasy_IX_gameplay)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Beatrix",
+      "image_alt": "Identification thumbnail for Beatrix (Final Fantasy IX gameplay)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Beatrix",
-        "fandom_title": "Beatrix",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Beatrix_(Final_Fantasy_IX_gameplay)",
+        "fandom_title": "Beatrix (Final Fantasy IX gameplay)",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -5985,8 +5980,7 @@
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -7891,29 +7885,28 @@
       "slug": "golbez",
       "name": "Golbez",
       "type": "person",
-      "description": "Golbez, called Man in Black before his identity is revealed in The After Years, is a non-player character and the secondary antagonist in Final Fantasy IV and a playable character in Final Fantasy IV: The After Years. In Final Fantasy IV, he is an antagonist, a powerful sorcerer who pursues the Crystals. In the English localization of the 3D versions, Golbez is pronounced [ˈɡoʊɫˌbɛz].\n\nIn Final Fantasy IV, Golbez is a tall imposing man in dark blue and black armor with gold trimmings and a helmet with tall horns. The lining of his cape has been both red and blue, sometimes even in the same game: the 3D remake shows Golbez's official render with a blue lining, but his in-game appearance has a red lining. The exact color of his suit of armor has also varied from light to dark blue to black.\n\nIn The After Years, Golbez wears a black cloak and kilt with black prayer beads on his arms and legs. He has prayer bead bracelets (black on the right wrist and red on the left). He has a large, muscular figure, with long silver hair and pale tanned skin. His concept art depicts him carrying a large black sword on his back, possibly the Ebony Blade, an exclusive weapon for Golbez that can be acquired at the start of his tale.\n\nAs a child, Golbez had short brown hair and wore a brown short vest with a gold trim, a short-sleeved lavender tunic with purple triangle design and a purple bandanna around his neck, light purple pants, brown short boots, and a white headband.",
+      "description": "Golbez , real name Durante , is a powerful voidsent from the Thirteenth and the primary antagonist of the post-Endwalker patch content in Final Fantasy XIV.\n\nDuring the Contramemoria, Durante was a Memoriate together with his friend, the true Golbez. Durante claims that it was through Golbez's faith and support in him, that he became the knight he was then. The two, hailing from the kingdom of Baron, would travel the realm hunting Memoriates taken by darkness and assisted individuals in need. At some point in their adventures, they encountered Zero. Sensing a kindred spirit, Durante offered her an invitation into their party, but was declined, with Durante lamenting the inability to overcome distrust in troubled times. An unknown amount of time later, Baron came under attack. Whilst fending off their enemies, a dark memoriate managed to corrupt Golbez, leaving Durante no choice but to seal his friend into a memoria crystal. Taking Golbez's armor and name, he promised them that the people would eventually sing of the hero that shattered the wheel, and brought salvation to the world.\n\nThe Ascian Igeyorhm would eventually appear before Golbez, telling him of the existence of other worlds and that the only way to end the Contramemoria and bring balance to his world was to get rid of the Watcher of The Thirteenth. However, in striking down the Watcher, his actions unleashed the Flood of Darkness. Golbez was amongst the many denizens turned into voidsent, but maintained his mortal form, and realized he had been misled. He came to loath his world's purgatorial state and wanted to end the cycle of life and immediate rebirth. He would also establish his base of operations on his world's moon.\n\nGolbez began plotting a war against the Source, hoping to lead all voidsent there to reclaim their mortality. He captured and imprisoned the great wyrm Azdaja, a dragon from the Source who had made her way to the Thirteenth in an effort to stem the flow of voidsent conjured up by the Allagan Empire. He recruited four powerful voidsent to serve as his generals for his cause, allowing them to feast on a portion of Azdaja's aether. As Golbez's forces gained strength and conquered more of the void, so too did his notoriety rise, and the rulers of other domains heard of him and feared they would be his next conquest.",
       "short_description": "Golbez, called Man in Black before his identity is revealed in The After Years, is a non-player character and the secondary antagonist in Final Fantasy IV and a playable character in Final Fantasy IV: The After Years.…",
       "evidence": "fiction",
       "parentSlug": "final-fantasy",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/e/ee/DS_Golbez.png/revision/latest/scale-to-width-down/360?cb=20230307204556",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Golbez",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/d/dc/Golbez_from_Final_Fantasy_XIV_render.png/revision/latest/scale-to-width-down/360?cb=20230610031255",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Golbez_(Final_Fantasy_XIV)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Golbez",
+      "image_alt": "Identification thumbnail for Golbez (Final Fantasy XIV)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Golbez",
-        "fandom_title": "Golbez",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Golbez_(Final_Fantasy_XIV)",
+        "fandom_title": "Golbez (Final Fantasy XIV)",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -8725,8 +8718,7 @@
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -8894,8 +8886,7 @@
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -11488,29 +11479,28 @@
       "slug": "necron",
       "name": "Necron",
       "type": "person",
-      "description": "Necron is the final boss of Final Fantasy IX, appearing at the Hill of Despair. It represents death and existential dread itself. Necron's ultimate goal is to reduce everything to nothingness.\n\nNecron is an otherworldly being with a humanoid torso. It has a glowing pale blue skin that may be intended to look crystalline. Its face looks like it is covered by a mask that has holes and a mouth. Necron's torso appears like without skin, its muscles being pronounced. Its arm-like limbs taper off into two tentacles with stingers at the ends and it has large wing-like protrusions; although Necron hovers, the wings appear ornamental.\n\nNecron wants to fulfill what it perceives to be mankind's yearning for death. Necron is neutral and does not hate living beings, but considers the Zero World a release that all living beings seek and itself as benevolent for offering it. As Necron represents death itself, it states that it will always exist as long as there is life in the universe.\n\nWhen Zidane awakens on the Hill of Despair, he is greeted by Necron's voice emanating from rays of light above the hill. The entity announces that by observing Kuja's murderous actions, it has concluded that all life exists to seek death. Necron resolves to destroy the crystal, the origin of life, and thus revert everything to a \"zero world\" of perpetual nothingness, an existence that would be without the fear of death. It teleports the heroes to a coliseum-like structure and engages them in battle.",
+      "description": "Necron is a primal in Final Fantasy XIV: Dawntrail. It is summoned by the Endless scientist Calyx to destroy the Warrior of Light and reclaim the interdimensional key.\n\nAfter the death of Endless Sphene, the Queen of Alexandria, Calyx created a simulant Sphene to convince the people of Alexandria to obtain neo-regulators, so that they can transcend death and become Endless. Since Alexandrians had been living for decades without knowledge about the nature of death, their first true encounter with it festered their fear of death, and they found the neo-regulators as means of escaping it.\n\nThe Warrior of Light, the original Sphene Alexandros XIV, Wuk Lamat, as well as members from Scions of the Seventh Dawn and Oblivion gathered to put an end to Calyx's scheme and traced his location to the Meso Terminal in Living Memory. They stormed the terminal and found the memory unit which stored Calyx's memories. Before they could do anything about it, Calyx appeared and initiated a summoning based on a concept of his own creation, fueled by the lightning aether that permeated the Ninth, and the by the fear of death of those who had a neo-regulator, and brought Necron into being. He believed this primal would destroy the Warrior and allow him to reclaim the interdimensional key. Since they were dealing with a primal, Alphinaud and Alisaie gave Sphene and Wuk Lamat warding scales to protect them from tempering. Together, the companions engaged Necron, and after a long struggle, they defeated the primal.\n\nWith Necron down, they focused on Calyx's memory unit, but it was shielded. Calyx smugly said he invited them to his memory unit, but he never allowed them to destroy it. Necron soon reappeared, still empowered by the Alexandrians' fear of death; Calyx explained that as a primal embodiment of the fear of death, experiencing death would only heighten its fear and revive it even stronger. Sphene realized what she must do, and contacted Shale to let her speak with the Alexandrians to convince them to not give in to the fear of death. As her words reached them, Necron started to weaken. The Scions began to pummel it, while Y'shtola Rhul urged Wuk Lamat to focus on the memory unit. She struck on the shield, and holding on to the promise she made to the Endless Sphene to protect her people, she kept striking the shield despite the serious injuries she was receiving. Sphene enchanted her axe and broke the shield, allowing the Warrior to destroy the memory unit. Necron was dealt a finishing blow by Alisaie and was vanquished as Calyx vanished. Since Calyx had knowledge not only of summoning a primal, but of developing a concept for one, G'raha Tia believed that he must have had contact with Ascians, later confirmed to be Halmarut.",
       "short_description": "Necron is the final boss of Final Fantasy IX, appearing at the Hill of Despair. It represents death and existential dread itself. Necron's ultimate goal is to reduce everything to nothingness.",
       "evidence": "fiction",
       "parentSlug": "final-fantasy",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/7/7e/Necron.png/revision/latest/scale-to-width-down/360?cb=20210722172915",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Necron",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/a/ac/Necron_render_from_Final_Fantasy_XIV.png/revision/latest/scale-to-width-down/360?cb=20250815214003",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Necron_(Final_Fantasy_XIV)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Necron",
+      "image_alt": "Identification thumbnail for Necron (Final Fantasy XIV)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Necron",
-        "fandom_title": "Necron",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Necron_(Final_Fantasy_XIV)",
+        "fandom_title": "Necron (Final Fantasy XIV)",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -13169,29 +13159,28 @@
       "slug": "rubicante",
       "name": "Rubicante",
       "type": "person",
-      "description": "Rubicante , also known as Rubicant, is a recurring character in the Final Fantasy universe. First appearing in Final Fantasy IV as a minor antagonist, he is one of the four archfiends associated with the elements; in this case, fire. Despite his role as an antagonist, he has a strong sense of honor and fair play, unlike the other archfiends, as he heals the party before each encounter with him. Furthermore, unlike the other archfiends who get upset upon defeat, Rubicante is the only one who shows respect for the party's skills after they defeat him.\n\nRubicante appears in the Dawn of Souls and 20th Anniversary remakes as a boss on the last floor Hellfire Chasm, one of the bonus dungeons for the remakes. Defeating him will take the player out of the dungeon and he drops a Kikuichimonji.\n\nRubicante is one of Golbez's Archfiends and is the Element Lord of Fire, titled the Autarch of Flame. He is considered to be the most powerful of the four and is their leader.\n\nIn spite of his less than savory actions, he is an honorable fighter at heart and restores the party's health before every fight against him. He wears a \"Cloak of Flame\", which, when donned, absorbs all elemental magic, though ice elemental weapons can still damage him (the 3D version is an exception to this). He is voiced by Doug Lee and Norio Wakamoto in the English and Japanese versions respectively.",
+      "description": "Rubicante is a voidsent who serves as a character and boss in Final Fantasy XIV: Endwalker. Formerly an Au Ra Memoriate from the Thirteenth reflection of the Source, he, like all denizens of the star, was consumed by the Flood of Darkness which rendered him into an aether-starved beast known as a voidsent. As a voidsent, he served Golbez as his archfiend of fire.\n\nBefore being known as Rubicante, he was a solemn mage who trained in fire magic with his brother mage. Living in Mount Ordeals, they both honed their magical skills to be unbeatable. Due to the Contramemoria, fiends began to descend on nearby villages, which galvanized the mages into action, using their mastered flames for the salvation of the world.\n\nArriving at a nearby village, the pair vanquished many fiends until only one remained. The brother mage prepared to strike it down but hesitated because of the words of a little girl, whose mother had turned into the fiend. Due to his hesitation he was struck down. Unsure of what to do, the man who would be known as Rubicante hesitated as well until he saw the creature go after the little girl. Using his powers as a Memoriate, he flung his wand at the creature, turning it into a memoria crystal.\n\nFrustrated at his inability to save a life, much less the world, his face turned red in both anger and from his flames, earning him the name Rubicante from the little girl. Taking his comrade to the mountain, he buried him and etched in his tombstone admonishments and returned to training in solitude. One day Rubicante discovered the memoria crystal placed on his comrade's tombstone by the little girl and he regained his resolve to attempt to save the world..|name=Shadowed Pasts Once More}}",
       "short_description": "Rubicante , also known as Rubicant, is a recurring character in the Final Fantasy universe. First appearing in Final Fantasy IV as a minor antagonist, he is one of the four archfiends associated with the elements; in…",
       "evidence": "fiction",
       "parentSlug": "final-fantasy",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/f/f0/FFD2_Parai_Rubicante.png/revision/latest/scale-to-width-down/360?cb=20171209145003",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Rubicante",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/e/e9/Rubicante_XIV.png/revision/latest/scale-to-width-down/360?cb=20230126164405",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Rubicante_(Final_Fantasy_XIV)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Rubicante",
+      "image_alt": "Identification thumbnail for Rubicante (Final Fantasy XIV)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Rubicante",
-        "fandom_title": "Rubicante",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Rubicante_(Final_Fantasy_XIV)",
+        "fandom_title": "Rubicante (Final Fantasy XIV)",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -14978,7 +14967,7 @@
       "slug": "ultros",
       "name": "Ultros",
       "type": "person",
-      "description": "Ultros is a minor character in World of Final Fantasy.\n\n{|class=\"half-width WoFF article-table\" style=\"text-align:center\" ! colspan=\"3\"|Abilities\n\n!style=\"width:70%\"|Active Ability !style=\"width:30%\"|SP Required\n\n!style=\"width:70%\"|Passive Ability !style=\"width:30%\"|SP Required",
+      "description": "Ultros is a minor antagonist in Chocobo's Dungeon 2.\n\nUltros is the boss of the Sea Floor Dungeon, the third dungeon. He is fought on 27F with Shiroma as an ally. He is accompanied by 2 Ultros' Hands.\n\nWhen out of melee range, Ultros will cast Drain repeatedly, damaging the Chocobo and healing himself for approximately 40 HP. Due to the small size of the arena, he can reach Chocobo with Drain anytime.\n\nBlitz Claws are a good way to exploit Ultros' weakness to lightning.",
       "short_description": "Ultros , also known as Orthros, is a recurring creature in the Final Fantasy series, first appearing in Final Fantasy VI. Ultros is a carnivorous purple octopus with a writhing mass of tentacles who has a mouth full of…",
       "evidence": "fiction",
       "parentSlug": "final-fantasy",
@@ -14994,13 +14983,12 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Ultros_(World_of_Final_Fantasy)",
-        "fandom_title": "Ultros (World of Final Fantasy)",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Ultros_(Chocobo%27s_Dungeon_2)",
+        "fandom_title": "Ultros (Chocobo's Dungeon 2)",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -17902,8 +17890,7 @@
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -20546,29 +20533,28 @@
       "slug": "sherlotta",
       "name": "Sherlotta",
       "type": "person",
-      "description": "Sherlotta is a 2000-year-old immortal girl in Final Fantasy Crystal Chronicles: Echoes of Time who has a connection with a mysterious crystal. She takes the form of a black cat that can transform into the appearance of her real body except for a new set of clothes and a tail.\n\nSherlotta has short light silver-pink hair with a large orange bow in the back that resembles cat ears and blue eyes. Her outfit gives her a distinctly cat-like appearance. She wears a black tube top with gold trim and an orange bow and silver bell with light pink ribbons in the center. She has a black choker with white trim and orange bows wrapped around each wrist. She wears puffy pink-and-gold striped shorts over black tights, and orange ballet shoes. She has a long black cat tail with a white tip.\n\nIn flashbacks, she appears younger with longer hair worn down and a short white dress with gold trim and a white choker.\n\nShe also appears as a small black and white cat with an bow and silver bell with yellow ribbons around her neck, like a collar.",
+      "description": "Sherlotta is a minor character in World of Final Fantasy. She is a Grymoirian incarnation of Sherlotta originating from Final Fantasy Crystal Chronicles: Echoes of Time and is one of the two character representatives of that game, the other being the Undead Princess.\n\nThe player can take on an Intervention Quest that centers around Sherlotta.\n\nSherlotta also appears in the following Intervention Quests.\n\n\"Prismelody: Sherlotta\" plays while inside Sherlotta's Solace. It is an arrangement of the song of the same name from Final Fantasy Crystal Chronicles: Echoes of Time.",
       "short_description": "Sherlotta is a 2000-year-old immortal girl in Final Fantasy Crystal Chronicles: Echoes of Time who has a connection with a mysterious crystal. She takes the form of a black cat that can transform into the appearance of…",
       "evidence": "fiction",
       "parentSlug": "final-fantasy",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/b/b7/Sherlotta-FFCCEOT.png/revision/latest/scale-to-width-down/360?cb=20121021115314",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Sherlotta",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/3/38/WoFF_Sherlotta.png/revision/latest/scale-to-width-down/360?cb=20161111021121",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Sherlotta_(World_of_Final_Fantasy)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Sherlotta",
+      "image_alt": "Identification thumbnail for Sherlotta (World of Final Fantasy)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Sherlotta",
-        "fandom_title": "Sherlotta",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Sherlotta_(World_of_Final_Fantasy)",
+        "fandom_title": "Sherlotta (World of Final Fantasy)",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -21101,29 +21087,28 @@
       "slug": "croma",
       "name": "Croma",
       "type": "person",
-      "description": "Croma , also known as Black Magician, is a recurring character in the Chocobo game series. While Croma appears as a male character in most appearances, Final Fantasy Fables: Chocobo's Dungeon and Chocobo GP include Croma as a female character.\n\nKnown as Black Magician, he is a silent magician who has a castle in Cursed Forest called Black Manor, although it is revealed he does indeed talk in Chapter 9 of the Story Mode when he talks about the gate opening to Fantasia. His racing skills are, on average, better than White Mage's. His cornering is tougher compared to White Mage's and he has poor acceleration. He can fly over ice sheets.\n\nHis vehicle is the MagiCloud MK-I. His ability is Magic Plus, which upgrades the power of the magic stones he owns. The stone powered up is the last one he picked up. His theme is a remixed version of the theme of the town of Mysidia.\n\nBlack Magician appears as various types of enemies in the dungeons, but a group of them resides as researchers in the village. Helping them out allows Chocobo the use of their stove and Dispel Tonics for a small fee. The head mage may also give Chocobo a choice of feathers that he could use on his journeys. Later on, a \"bestiary\" statue hall can be accessed through the basement of the research facility to see the enemies Chocobo has defeated.",
+      "description": "Croma Magnolie is a mysterious figure in Final Fantasy Fables: Chocobo's Dungeon. She is the older sister of Shirma and the original Oracle of Darkness until the Destroyer began his rampage. She starts out as an enemy to Chocobo, but later becomes an ally.\n\nCroma is a recurring type of character in the Chocobo series.\n\nA book found in the empty house after the ending reveals that Croma and her sister were the daughters of two of the nine former heroes who died against the Destroyer: Elena, the White Mage and Nero, the Black Mage. When a young Shirma got a painful injury and yelled out in pain, Croma told her not to cry and healed her with white magic. Shirma wanted to learn white magic too, and Croma believed she would master it in no time and vowed they would always be together. The two sisters held this promise dear in their hearts for the rest of their lives, and shared a deep bond and love from thereafter. At some point, Croma became the Oracle of Darkness.\n\nWhen the Destroyer attacked the town that would later be known as Lostime, Mayor Gale urged the oracles to release the Guardian Beasts to seal the Destroyer, and subsequently Memoria and everyone's memories, from the rest of the world. Though Shirma did not want to lose her memories, a weakened Croma begged her to follow through. As Shirma summoned the last of the Guardian Beasts, Alexander, Croma prayed to the great gods of the crystals to seal Memoria so that they would never live another tragedy. Alexander granted their wishes. Croma's parents were killed during the battle, and Croma lost all her memories except for the duty to put a stop to the one who would disrupt this fragile peace. The Bell of Oblivion was created as a means to prevent everyone from regaining their memories lest the Destroyer would be reborn.",
       "short_description": "Croma , also known as Black Magician, is a recurring character in the Chocobo game series. While Croma appears as a male character in most appearances, Final Fantasy Fables: Chocobo's Dungeon and Chocobo GP include…",
       "evidence": "fiction",
       "parentSlug": "final-fantasy",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/3/3a/Vwavatar_croma.jpg/revision/latest?cb=20081005200534",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Croma",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/2/2d/ChocoDWii-Croma.png/revision/latest/scale-to-width-down/360?cb=20120810020730",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Croma_(Chocobo%27s_Dungeon)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Croma",
+      "image_alt": "Identification thumbnail for Croma (Chocobo's Dungeon)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Croma",
-        "fandom_title": "Croma",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Croma_(Chocobo%27s_Dungeon)",
+        "fandom_title": "Croma (Chocobo's Dungeon)",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -21326,29 +21311,28 @@
       "slug": "irma",
       "name": "Irma",
       "type": "person",
-      "description": "Irma is a recurring non-playable character in the Chocobo series. Her first appearance is that in Final Fantasy Fables: Chocobo Tales. She is often a rival to the main character along with her partner, Volg the chocobo.\n\nIrma plays the role of an antagonist. She is helping Bebuzzu return to his true form, for unknown reasons. She believes that love is a hindrance, and that no intelligent creatures should love another.\n\nWhen Irma was young, she lived with her mother and father on the edge of the forest on Chocobo Island. One day her father suddenly became ill, and started talking in his sleep. Irma's mother, as stated in her diary, heard him say that a foul creature was inside of him. He disappeared, never to return. Even though her mother just told her that her father would come back soon, Irma was smart enough to know he was never returning.\n\nHer mother eventually came down with a deadly disease, similar to tuberculosis, and was mainly bed ridden. At one point in the diary, it is mentioned that Irma turned 8 years old on March 22nd.",
+      "description": "Irma is a character in Final Fantasy Fables: Chocobo's Dungeon. She is an ambitious, temperamental, and fierce treasure hunter alongside her chocobo companion, Volg. She and Volg are rivals to the treasure hunters Cid and Chocobo, often competing against them in races to treasures, such as Timeless Power.\n\nIrma met her treasure hunting partner, Volg, when she came across him lying on the ground after he had battled a hefty monster and been knocked out, though he was not yet known as Volg at the time. She told him to get up quickly, which caught Volg by surprise. When Volg told her he did not have a name, Irma introduced herself and explained she was aspiring to become a great robber. When Volg merely grunted from his injuries, Irma replied that he \"must be an idiot\". She questioned if he really thought he stood a chance against the big monster that had just knocked him down. Realizing that Irma had watched his fight, Volg explained that he spent his life fighting enemies, and that it was just the way he had always lived.\n\nIntrigued by how \"strange\" Volg was, Irma decided to help him. She offered him plenty of days with exciting fights if he joined her. Volg was thrilled and Irma encouraged him to do his best and to try to keep up. When Volg grunted in pain again Irma exasperatedly told him to be a man, calling him Volg for the first time. When he asked what \"Volg\" was, Irma told him that the name was what she was calling, and that he would better get used to it. Volg went along with it. From then on, Irma and Volg were inseparable and went on to pursue their ambitions as treasure hunters and fighters.\n\nAt some point, either before or after meeting Volg, Irma became familiar with Cid and Chocobo, fellow treasure hunters. Cid complained about Irma always getting in their way and noted she had never helped them before. Cid and Irma have a competitive rivalry. Irma would also come to raise a herd of jailbirds, though almost all of them, except for one jailbird, bailed out on her and Volg. The sole jailbird who did not leave Irma served as her messenger. One day, while Irma and Volg were on vacation, she noticed that Cid had been acting suspicious. Irma was convinced she could smell a treasure coming her way, her ambition showing through. Volg was exasperated that Irma was talking about work already, but Irma was bored. Eager for more adventure, Irma was bursting to pursue this opportunity. Volg reminded their last job almost left her for dead, but Irma retorted there was no time for looking back, and a chance like this would not wait for them to seize it. She declared that as a treasure hunter, any treasure she set her eyes upon was hers.",
       "short_description": "Irma is a recurring non-playable character in the Chocobo series. Her first appearance is that in Final Fantasy Fables: Chocobo Tales. She is often a rival to the main character along with her partner, Volg the chocobo.",
       "evidence": "fiction",
       "parentSlug": "final-fantasy",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/4/45/Vwavatar_irma.jpg/revision/latest?cb=20081005200806",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Irma",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/a/a5/ChocoDWii-Iruma.png/revision/latest/scale-to-width-down/360?cb=20120810020634",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Irma_(Chocobo%27s_Dungeon)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Irma",
+      "image_alt": "Identification thumbnail for Irma (Chocobo's Dungeon)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Irma",
-        "fandom_title": "Irma",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Irma_(Chocobo%27s_Dungeon)",
+        "fandom_title": "Irma (Chocobo's Dungeon)",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -21573,29 +21557,28 @@
       "slug": "shirma",
       "name": "Shirma",
       "type": "person",
-      "description": "Shirma , also known as Shiroma, is a character from the Chocobo series. A kind White Mage, Shirma quickly befriends Chocobo in many of the Chocobo series titles.\n\nShirma is a young girl with pink hair with an ahoge, light skin, and eyes that vary from green to teal in color. As a White Mage, her outfit consists of a white robe or dress with a hood and red triangular patterns at the trims, matching boots with red tips, and a necklace with a jewel that varies in design and color.\n\nHer appearance has differed in some games, such as her skin having a more fair complexion, or her hair being a different color or shade of pink.\n\nIn Chocobo's Dungeon 2, she wears her usual outfit and a necklace with a blue droplet-shaped jewel. In Chocobo Racing, she wears the same outfit but with a lighter blue circular jewel. In Chocobo GP, she wears a yellow neckerchief, and she wears short brown boots with a gold horseshoe at the front.",
+      "description": "Shirma Magnolie is a kind-hearted White Mage who is a constant worrier in Final Fantasy Fables: Chocobo's Dungeon. She is a supporting character to Chocobo who lives with her Aunt Stella at the farm at the outskirts of Lostime. Shirma does not like that the townspeople are okay with losing their memories, because she personally had precious memories she wanted to keep.\n\nShirma is a recurring type of character in the Chocobo series, a pink-haired White Mage.\n\nA book in the empty house after the ending reveals that she and her sister are the daughters of two of the nine former heroes who died against the Destroyer: Elena, the White Mage; and Nero, the Black Mage. In Shirma's early life, she got a painful injury and her sister healed her with white magic. Shirma wanted to learn too and her sister believed white magic was the perfect school of magic for her. As Shirma promised to practice a lot, her sister vowed that they'd always be together. Shirma held this promise dear in her heart from thereafter. Alexander eventually blessed Shirma as the Oracle of Light.\n\nWhen The Destroyer attacked the town that would be later be known as Lostime, Mayor Gale urged the Oracles to release the power of the Guardian Beasts to seal the Destroyer, even though this would seal everyone's memories away. Shirma did not want to lose her memories, but when her weakened sister begged her to follow through, Shirma obeyed and summoned the Guardian Beast of Light, Alexander. Shirma and the other Oracles sealed the Destroyer away, sealing Memoria from the rest of the world. Shirma's parents were killed during the battle.",
       "short_description": "Shirma , also known as Shiroma, is a character from the Chocobo series. A kind White Mage, Shirma quickly befriends Chocobo in many of the Chocobo series titles.",
       "evidence": "fiction",
       "parentSlug": "final-fantasy",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/7/72/Vwavatar_shirma.jpg/revision/latest?cb=20081005195825",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Shirma",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/8/86/ChocoDWii-Shirma.png/revision/latest/scale-to-width-down/360?cb=20120810020804",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Shirma_(Chocobo%27s_Dungeon)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Shirma",
+      "image_alt": "Identification thumbnail for Shirma (Chocobo's Dungeon)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Shirma",
-        "fandom_title": "Shirma",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Shirma_(Chocobo%27s_Dungeon)",
+        "fandom_title": "Shirma (Chocobo's Dungeon)",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -21798,29 +21781,28 @@
       "slug": "angel-of-valhalla",
       "name": "Angel of Valhalla",
       "type": "person",
-      "description": "The Angel of Valhalla is a legendary white chocobo within the Wildlands in Lightning Returns: Final Fantasy XIII. It features in local legends, and is said to herald the end of the world.\n\nAfter Lightning finds it and nurses it back to health, she can ride it and it fights alongside her as a guest during battles. In contrast to the white chocobos of Final Fantasy XIII-2, the Angel of Valhalla has green feathers and a tattoo of Zantetsuken above its left eye.\n\nThe chocobo is a great bird most easily recognized by its bright yellow plumage. Chocobos are extremely useful to humans and often used as steeds. They are irreplaceable allies to the hunters who eke out a living in the Wildlands.\n\nIn those same Wildlands, there is a legend of a pure-white chocobo, called the Angel of Valhalla, who would appear at the end of the world. Until recently, the story has remained just that; but the number of reported sightings is on the increase. A certain veterinarian in the Canopus Farms, affectionately known as Dr. Gysahl, is said to be the authority on everything related to this legend.",
+      "description": "Angel of Valhalla is a white chocobo in Lightning Returns: Final Fantasy XIII that appears as an uncontrollable guest character on the Wildlands as part of the main quest there. Once recruited, Lightning can ride him across most of the overworld in the Wildlands, and he will fight alongside her in battle. He is not particularly strong, but helps Lightning along by healing and buffing her.\n\nLightning can ride the Angel of Valhalla by pressing / when next to him, and the same button is also used for dismounting. The Angel of Valhalla runs the same speed Lightning dashes, but riding will not deplete the action gauge. He jumps with / and pecks enemies with /. Once the Angel can glide, the player must hold / after jumping to glide through the air. Gliding is needed to reach the Temple of the Goddess from Poltae, and also to reach some treasure chests that are off the beaten path. When fully healed, the Angel can perform a three-hit combo to strike enemies just as Lightning can.\n\nLightning automatically climbs off her steed when talking to certain people or during other events. The player can name the white chocobo in the original console releases, although no one outside the party will refer to him by that name. In the PC version, it is impossible to change the chocobo's name.\n\nWithin the Wildlands, the Angel is Lightning's loyal companion. If Lightning explores an area on foot and falls to an area where she would not be able to return to the Angel, the bird will return to Lightning on his own. If Lightning leaves the Wildlands and returns later in a different area of the Wildlands, the Angel will shortly appear in that area, ready for Lightning to ride again.",
       "short_description": "The Angel of Valhalla is a legendary white chocobo within the Wildlands in Lightning Returns: Final Fantasy XIII. It features in local legends, and is said to herald the end of the world.",
       "evidence": "fiction",
       "parentSlug": "final-fantasy",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/1/19/Angel-of-Valhalla2-LRFFXIII.png/revision/latest/scale-to-width-down/360?cb=20131224171013",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Angel_of_Valhalla",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/6/6b/Angel_of_Valhalla_from_LRFFXIII.png/revision/latest/scale-to-width-down/360?cb=20211011174507",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Angel_of_Valhalla_(party_member)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Angel of Valhalla",
+      "image_alt": "Identification thumbnail for Angel of Valhalla (party member)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Angel_of_Valhalla",
-        "fandom_title": "Angel of Valhalla",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Angel_of_Valhalla_(party_member)",
+        "fandom_title": "Angel of Valhalla (party member)",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -23893,29 +23875,28 @@
       "slug": "reddas",
       "name": "Reddas",
       "type": "person",
-      "description": "Reddas, real name Foris Zecht, is a guest character in Final Fantasy XII. A pirate of both the land and sky, he is the ruler of Balfonheim, cursed with memories of his terrible actions.\n\nReddas is a mature man of 33, with a strong, stocky build. He has a white beard, mutton chops, and a bald head. He wears a camel shirt with exposed shoulders, large bell-sleeves and a large collar. Across his shirt he wears a dark leather strapped holster, in which he keeps his weapons, the Chirijiraden and the Ninja Knife. He wears pink cropped trousers and a silver pendant around his neck. On his feet he wears open-shinned strap boots.\n\nReddas is a man haunted by his past, one that he cannot easily let go. Despite attempts to continue on with his life, Reddas's remorse over his past actions never truly leaves him, despite his change of identity. He proves to be both noble and brave, and ultimately selfless in his sacrifice to save Dalmasca.\n\nForis Zecht was a loyal and trusted Judge Magister for the Archadian Empire. He led the 13th Bureau and accompanied Vayne in his command of the 8th Imperial Fleet before Ghis took it over.",
+      "description": "Reddas joins the party as a guest in Final Fantasy XII after the party acquires the Treaty-Blade. He wields the Chirijiraden and Ninja Knife, and is equipped with a Dragon Mail, Dragon Helm, and a Battle Harness (original) or Steel Gorget (Zodiac). Reddas's weapons, the Chirijiraden and the Ninja Knife, do not match the appearance of their names, and have their designs based on different weapons: his longer sword resembles a Kora , a sword of Nepalese origin, and his shorter sword of a Kopis or a Khukuri.\n\nIn the original PlayStation 2 version, he has the augments Last Stand, Adrenaline, Counter, Parry, and Null Evade. He knows Telekinesis.\n\nIn the Zodiac versions, Reddas can cast Arise and Holy, and use the Technicks Stamp, Bonecrusher, Sight Unseeing, and 1000 Needles. He has the augments Adrenaline, Last Stand, Headsman, Martyr, Null Evade, Parry, and Spellbound. He can now attack flying enemies with his normal attack (in the original, he needed to use his Telekinesis).\n\nReddas is the fastest party member the player has access to alongside Reks and his entry level is calculated by the average of the two highest leveled party members, plus two. Reddas's base Strength is high, and it is augmented by heavy armor, but his HP is low, even for a character that had bought no +HP licenses, and will benefit from Bubble. Reddas's victory pose is to draw both his Chirijiraden and Ninja Knife and swipe them in the air. As a guest, he cannot access the License Board system or use a Quickening.",
       "short_description": "Reddas, real name Foris Zecht, is a guest character in Final Fantasy XII. A pirate of both the land and sky, he is the ruler of Balfonheim, cursed with memories of his terrible actions.",
       "evidence": "fiction",
       "parentSlug": "final-fantasy",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/1/1b/Reddas1.png/revision/latest/scale-to-width-down/360?cb=20160217225729",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Reddas",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/0/0a/FF12_Char_Model_-_Reddas.png/revision/latest/scale-to-width-down/360?cb=20130625223634",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Reddas_(Final_Fantasy_XII_party_member)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Reddas",
+      "image_alt": "Identification thumbnail for Reddas (Final Fantasy XII party member)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Reddas",
-        "fandom_title": "Reddas",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Reddas_(Final_Fantasy_XII_party_member)",
+        "fandom_title": "Reddas (Final Fantasy XII party member)",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -23950,29 +23931,28 @@
       "slug": "reks",
       "name": "Reks",
       "type": "person",
-      "description": "Reks is a minor character in Final Fantasy XII. Vaan's elder brother by two years, he fights to protect what little family he has left. Reks is the playable character during the game's prologue.\n\nReks has white-blond hair and pale blue eyes. He wears a short leather shirt that bares his midriff, curved pieces of armor on the sides of his neck, plated bracers and leather fingerless gloves, strips of leather round his waist with a metal plate in front, black trousers under metal and leather greaves, and flat brown shoes with the toes cut away. A blue brooch upon his chest resembles the one that his brother, Vaan, wears and, in a dream sequence, it is implied that he also left Vaan a silver ring with a blue motif. In the Final Fantasy XII manga, it is revealed that Vaan's chestplate originates from Reks.\n\nReks is a timid, somewhat pessimistic young man, unsure of himself, but determined to fight for his brother and for Dalmasca. He joined the Order of the Knights of Dalmasca at the end of the war when it was already clear they could not win against the Archadian Empire. He respects his captains, Basch and Vossler, and justifies his purpose within the army when Basch objects due to his age.\n\nReks does not hesitate in the face of danger and encourages others to go on while he stays behind alone to dispatch enemy soldiers, despite being the least experienced of their squad. Reks's honest and perhaps naive nature make him a perfect witness for the Empire to use in a conspiracy to set up Captain Basch for murder.",
+      "description": "Reks is a temporary playable character in the prologue to Final Fantasy XII who acts as tutorial for the player. As such, he is not easily killed and the player cannot change his equipment. He has Cure, Thunder and some healing potions, and is equipped with Mythril Sword, Buckler, Leather Cap and Leather Armor.\n\nReks starts at level 3. His levels and inventory are not transferred to Vaan, who starts at level 1, unlike later in the game where Vaan's level determines the levels of the allies that join the party later. Considering his stat development, Reks is the second fastest playable character after Reddas. However, it will be nigh impossible to level him up even once, as only the starter area Imperial Swordsmen give any EXP, and only if Reks deals the finishing blow over the knight NPCs that accompany him.\n\nHe cannot access the License Board and has no Quickening.\n\n{|class=\"FFXII article-table\" style=\"text-align:center;\"",
       "short_description": "Reks is a minor character in Final Fantasy XII. Vaan's elder brother by two years, he fights to protect what little family he has left. Reks is the playable character during the game's prologue.",
       "evidence": "fiction",
       "parentSlug": "final-fantasy",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/3/3e/Reks_1.png/revision/latest/scale-to-width-down/360?cb=20160217224559",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Reks",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/f/ff/FF12_Char_Model_-_Reks.png/revision/latest/scale-to-width-down/360?cb=20130625223606",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Reks_(Final_Fantasy_XII_party_member)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Reks",
+      "image_alt": "Identification thumbnail for Reks (Final Fantasy XII party member)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Reks",
-        "fandom_title": "Reks",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Reks_(Final_Fantasy_XII_party_member)",
+        "fandom_title": "Reks (Final Fantasy XII party member)",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -25226,8 +25206,7 @@
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -25333,8 +25312,7 @@
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -27507,7 +27485,7 @@
       "slug": "traveling-merchant",
       "name": "Traveling merchant",
       "type": "person",
-      "description": "The traveling merchant appears in the Finest Fantasy for Advance and discontinued 2013 versions of Final Fantasy V. The party will first meet him in the Sealed Temple. To unlock the Sealed Temple, the player will have to acquire all the tablets. The temple is underwater, south of the Phantom Village. There will be bubbles on the surface of the sea, and going underwater reveals the rift. After meeting the traveling merchant, he can be found throughout the merged world at the inns of Karnak, Crescent and Castle of Bal, where he will sell ammunition for the Cannoneer job.\n\nAfter being sucked inside the rift, the party finds three crystal fragments containing the Oracle, Gladiator, and Cannoneer jobs. Upon leaving, a traveling merchant will enter and introduce himself, stating he is searching the world for rare and wonderful items. His ship was caught in a storm and washed up in the rift. On the bright side of things, a mysterious cavern under the sea is bound to be full of loot, or so he figured.\n\nThe merchant notices the crystal fragments, exclaiming they are the rarest of the rare. He asks if the party understands the powers hidden inside the shards, but they do not have a clue. The traveling merchant goes into great detail and explains what their newly found jobs do.\n\nThe merchant would love to offer help to get the party started by selling ammo, but he is sold out. He is heading to his supplier, and afterward would be happy to help with all the party's ammunition needs. The merchant mentions he is always on the go, so the party should be on the lookout when they are in towns or castles. He is usually lurking around the equipment shops since he has got to keep tabs on the competition. Hoping this is the beginning of a profitable relationship, the merchant bids the party farewell.",
+      "description": "The Traveling Merchant appears after the party reaches Final Town. He will be found loitering inside the Item Shops in First Town, Second Town, Desert Town, Ashura's Town, Giant's Town, Lynn's Village, Port Town, Monster World's Pillar of Sky, Venus' City, Race Circuit, Edo, and Hana's Town. In Final Town, he will stand behind the counter inside the Item Shop.\n\nThe Traveling Merchant's most important role is to sell Doors, preventing the player from getting stranded in any individual world now that they have lost their MAGI.\n\n{|class=\"half-width FFL2 article-table\" style=\"text-align:center\"\n\nCategory:Characters in Final Fantasy Legend II Category:Merchants",
       "short_description": "The traveling merchant is a recurring type of a character in the Final Fantasy series, selling the party supplies during their adventures allowing them to replenish their inventory. They usually follow the party across…",
       "evidence": "fiction",
       "parentSlug": "final-fantasy",
@@ -27523,13 +27501,12 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Traveling_merchant_(Final_Fantasy_V)",
-        "fandom_title": "Traveling merchant (Final Fantasy V)",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Traveling_Merchant_(Legend_II)",
+        "fandom_title": "Traveling Merchant (Legend II)",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -32130,29 +32107,28 @@
       "slug": "mysidia",
       "name": "Mysidia",
       "type": "place",
-      "description": "Mysidia is a recurring town or village of mages in the Final Fantasy series. The Mysidian Rabbit takes its name from the location. Throughout its appearances, it has been shown with an Arabic form of architecture.\n\nMysidia is a town founded and governed by Wizards. It features a great store of magic tomes and a bookshelf can be found in an abandoned house, holding a lot of information about the Key Terms learned in Final Fantasy II. It is the hometown of Minwu, and is visited upon Firion's quest to obtain Ultima Tome.\n\nMysidia is a town of wizards founded by the great sage Minwu, as reference to its Final Fantasy II appearance. Cecil Harvey travels to Mysidia early in the game in order to steal the town's crystal, as an order of the King of Baron. It is here that the events of Final Fantasy IV begin.\n\nMysidia is the setting of the DLC expansion \"The Rising Tide\", a hidden land with blue skies.",
+      "description": "Mysidia is a location in Final Fantasy Dimensions. It's the legendary homeland of the mages and thought to be existed only in fables. It's kept floating by the power of a Crystal. There is a small house here that leads to Mysidia Cavern.\n\nAfter their departure from Castle Burtgang, the Warriors of Light head to Mysidia. Despite being pursued by an imperial airship, they lose it and get to the town's area. With Dr. Lugae and Argy stay behind on the airship, the warriors move out and meet the Great Elder, Sophia. Sol calls her a \"Gaunt Girl\" and is struck by lightning. Dusk reports that they have succeeded in protecting five crystals and Alba has also succeeded in her charges as well. Sophia informs them about the Dimensional Shift and explains she sent Dusk and Alba to protect the crystals from Avalon Empire and they let themselves to be captured to secure the crystals' safety.\n\nThe earth shakes and a Black Mage tells them that a battleship is heading to Mysidia. The warriors head outside and ready to bring the battleship down. After returning from the Heliogabalus, Sophia and the Warriors head to the Mysidia Cavern to acquire the ultimate White Magic spell, Holy, causing Mysidia to return to the surface.\n\nWhile Sophia and the Warriors are exploring the Massive Cavern, the empire's soldiers capture the mages in Mysidia. A Dimensional Shift occurs, making all people in Mysidia disappear. The Warriors of Light unite with the Warriors of Darkness and the team heads back to Mysidia. Alba reports the situation to Sophia and Sol urges the party to attack Castle Avalon and receive Sophia's approval. Then they head to Castle Avalon.",
       "short_description": "Mysidia is a recurring town or village of mages in the Final Fantasy series. The Mysidian Rabbit takes its name from the location. Throughout its appearances, it has been shown with an Arabic form of architecture.",
       "evidence": "fiction",
       "parentSlug": "final-fantasy",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/d/d1/FF_Dimensions_Mysidia.png/revision/latest/scale-to-width-down/360?cb=20131011171949",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Mysidia",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/8/87/FFD_Floating_Mysidia.png/revision/latest/scale-to-width-down/360?cb=20140318173951",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Mysidia_(Dimensions)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Mysidia",
+      "image_alt": "Identification thumbnail for Mysidia (Dimensions)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Mysidia",
-        "fandom_title": "Mysidia",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Mysidia_(Dimensions)",
+        "fandom_title": "Mysidia (Dimensions)",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "location"
+        ]
       }
     },
     {
@@ -33363,29 +33339,28 @@
       "slug": "the-praetorium",
       "name": "The Praetorium",
       "type": "place",
-      "description": "The Praetorium is the final dungeon in the main scenario storyline of Final Fantasy XIV.\n\nBy clearing this dungeon, the player will obtain 150 Allagan tomestones of Poetics. The cutscenes in this duty were made unskippable in patch 4.2.\n\nWhile this dungeon originally was ran with a group of 8 players, it was reworked in patch 6.1 and included downscaling to 4 players in addition to being made compatible with the Duty Support system.\n\n\"Penitus\" plays throughout the dungeon. It uses \"The Maker's Ruin\"'s leitmotif, contains a Latin chorus, and was composed by Masayoshi Soken and arranged by Nobuko Toda and Yoshitaka Suzuki.",
+      "description": "The original version of the Praetorium was a dungeon in Final Fantasy XIV, and the final dungeon of A Realm Reborn. It was the second of only two 8-man dungeons players would encounter, and the last of three duties representing the climax of A Realm Reborn along with and . As part of the Main Scenario roulette, several cinematics played throughout the duty that could not be skipped, preventing new players experiencing the dungeon for the first time from being left behind. The dungeon was split into three smaller duties in patch 6.1—a 4-man dungeon representing the bulk of the original duty, along with a 4-man trial and a solo quest battle representing the final battles.\n\nObjectives are paraphrased and expanded on from their in-game listing for clarity.\n\nThe Praetorium has no item level sync and is extremely easy for most parties. Owing to this low difficulty, most of the details in this section can be ignored when running the duty normally. Most groups will simply round up as many enemies as possible to AoE them down, and ignore adds during boss encounters in favor of burning the boss down. Running the duty with minimum item level enforced and silenced can make it more of a challenge, and this section is generally written with this in mind.\n\nOnly a single group of enemies can be found in this section, defending the Magitek Terminal that allows access to Castrum Control. The Magitek Terminal functions without needing to defeat these enemies, and most groups speed-running the Praetorium will try to skip them by going directly to the terminal. Players with enmity may have difficulty interacting with the Terminal and get left behind; in this case they can simply wait for the rest of the party to engage the boss in the Command Chamber, which will allow them to teleport there.",
       "short_description": "The Praetorium is the final dungeon in the main scenario storyline of Final Fantasy XIV.",
       "evidence": "fiction",
       "parentSlug": "final-fantasy",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/b/bf/Praetorium_banner_image_from_Final_Fantasy_XIV.png/revision/latest/scale-to-width-down/180?cb=20210415070755",
-      "image_source": "https://finalfantasy.fandom.com/wiki/The_Praetorium",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/b/bf/Praetorium_banner_image_from_Final_Fantasy_XIV.png/revision/latest/scale-to-width-down/360?cb=20210415070755",
+      "image_source": "https://finalfantasy.fandom.com/wiki/The_Praetorium_(original)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for The Praetorium",
+      "image_alt": "Identification thumbnail for The Praetorium (original)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/The_Praetorium",
-        "fandom_title": "The Praetorium",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/The_Praetorium_(original)",
+        "fandom_title": "The Praetorium (original)",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "location"
+        ]
       }
     },
     {
@@ -61484,11 +61459,11 @@
     "images_attached": 15,
     "core_enrichments": 18,
     "preserved_fandom": 0,
-    "fandom_titles": 1,
-    "fandom_enriched_core": 0,
-    "fandom_created": 0,
-    "fandom_images": 1,
-    "fandom_intros": 1,
+    "fandom_titles": 1891,
+    "fandom_enriched_core": 53,
+    "fandom_created": 1610,
+    "fandom_images": 1626,
+    "fandom_intros": 1888,
     "image_backfill_at": "2026-09-11T16:29:46.523Z",
     "image_backfill_count": 32
   }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T01:08:31.510Z",
+  "generated_at": "2026-09-11T15:28:18.162Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 180,
+    "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (fallout.fandom.com) for identification and commentary only. Character / franchise art © Bethesda Softworks / ZeniMax / Interplay (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -214,19 +214,18 @@
     {
       "slug": "brotherhood-of-steel",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Brotherhood_of_Steel",
-      "description": "The Brotherhood of Steel (commonly abbreviated to BoS) is a post-War quasi-religious technocratic paramilitary order, founded in the immediate aftermath of the Great War by members of the United States Armed Forces and the government-sponsored scientific community. Originating in California, the organization has numerous extant chapters throughout the former continental United States, becoming the dominant force in many of these regions by the 2290s.\n\nThe Brotherhood's original purpose was to preserve advanced technology and regulate its usage. This is because they believe humanity cannot be trusted with the means to destroy itself, and they acquire technology to prevent another apocalypse. Although they tend to be relatively isolationist, the Brotherhood has proved to be one of the most important organizations in the history of the wasteland, though their power, influence, and doctrine vary heavily from chapter to chapter.\n\nThe Brotherhood has been featured in every game and other entry in the Fallout series, in one form or another. This article focuses on an overview of the Brotherhood as it appears throughout the series, detailing the evolution of its doctrine and policies.\n\nFor information on specific Brotherhood chapters, see Brotherhood of Steel chapters.",
+      "description": "The Montana chapter of the Brotherhood of Steel is a mentioned-only faction .\n\nLittle is known about the chapter, such as when and where it was founded in the former state of Montana, other than that it is still in operation around 2277 and led by an Elder Patrocolus.\n\nThe Montana bunker is mentioned by Elder Lyons , however, due to missing package references, his speech is never heard in normal gameplay.",
       "metadata": {
-        "fandom_url": "https://fallout.fandom.com/wiki/Brotherhood_of_Steel",
-        "fandom_title": "Brotherhood of Steel",
+        "fandom_url": "https://fallout.fandom.com/wiki/Brotherhood_of_Steel_(Montana_chapter)",
+        "fandom_title": "Brotherhood of Steel (Montana chapter)",
         "source_fandom": "fallout.fandom.com",
         "sources": [
           "wikipedia",
           "fandom"
-        ],
-        "fandom_preferred_image": true
+        ]
       },
       "short_description": "The Brotherhood of Steel (commonly abbreviated to BoS) is a post-War quasi-religious technocratic paramilitary order, founded in the immediate aftermath of the Great War by members of the United States Armed Forces and…",
-      "image_url": "https://static.wikia.nocookie.net/fallout/images/2/23/Fo3_Citadel_flag_rev2.png/revision/latest/scale-to-width-down/180?cb=20210415053618",
+      "image_url": "https://static.wikia.nocookie.net/fallout/images/2/23/Fo3_Citadel_flag_rev2.png/revision/latest/scale-to-width-down/360?cb=20210415053618",
       "image_source": "https://fallout.fandom.com/wiki/Brotherhood_of_Steel",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax / Interplay (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -390,7 +389,7 @@
     {
       "slug": "mojave",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Fallout:_New_Vegas",
-      "image_url": "https://static.wikia.nocookie.net/fallout/images/2/2d/Mojave_Wasteland.jpg/revision/latest/scale-to-width-down/180?cb=20220914041304",
+      "image_url": "https://static.wikia.nocookie.net/fallout/images/2/2d/Mojave_Wasteland.jpg/revision/latest/scale-to-width-down/360?cb=20220914041304",
       "image_source": "https://fallout.fandom.com/wiki/Mojave_Wasteland",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax / Interplay (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -777,8 +776,7 @@
         "source_fandom": "fallout.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -800,8 +798,7 @@
         "source_fandom": "fallout.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -829,8 +826,7 @@
         "source_fandom": "fallout.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -858,8 +854,7 @@
         "source_fandom": "fallout.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -887,8 +882,7 @@
         "source_fandom": "fallout.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -916,8 +910,7 @@
         "source_fandom": "fallout.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -945,8 +938,7 @@
         "source_fandom": "fallout.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -974,8 +966,7 @@
         "source_fandom": "fallout.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -1003,8 +994,7 @@
         "source_fandom": "fallout.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -1032,8 +1022,7 @@
         "source_fandom": "fallout.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -1061,8 +1050,7 @@
         "source_fandom": "fallout.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -1084,8 +1072,7 @@
         "source_fandom": "fallout.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -1590,13 +1577,13 @@
       "slug": "master",
       "name": "Master",
       "type": "person",
-      "description": "The Master of the Super Mutants or simply the Master was the founder and leader of the Unity, a mutant-led organization dedicated to the post-humanist transformation of mankind in the post-nuclear world. By the time he was encountered by the Vault Dweller, the Master was a hybridized amalgamation of several dozens of humans and other mutants, as well as the Cathedral's computer network, speaking in multiple voices and switching between them on the fly. Born Richard Moreau, he would later change his name to Richard Grey while still human. His followers, the Children of the Cathedral, used a variety of names to refer to him, calling him the Holy Flame, Dark God,\n\nThe Master's end goal was to create a new race from humanity using FEV, one that could thrive in the post-apocalyptic conditions of the world and to rid humanity of its differences and reasons for waging war. The Master's race of mutants would be dubbed super mutants colloquially by most and would become a permanent presence throughout California and neighboring areas and a long-lasting reminder of the Master's attempt to reform humanity.\n\nThe Master is the main antagonist of Fallout, encountered at the Cathedral. Destroying him is required to eliminate the mutant threat, although meeting the Master in person is entirely optional.\n\nRichard Moreau was born before the Great War, but little is known about his past except for the fact that he was one of the lucky few who found shelter in Vault 8 when the bombs fell. When the Vault opened in 2092, he was exiled for murder shortly after; traveling to the newly-founded Hub more than four hundred miles to the south and established himself as a doctor there, adopting the last name Grey. His story could have ended there, were it not for his decision to investigate the mutant attacks that plagued caravans. Along with gangers and scavengers, mutants were the primary problem for caravans, and their attacks were increasing. Caravan masters were forced to hire large numbers of guards, but even with their firepower they kept losing men. Harold, a noted local merchant at the time, organized an expedition to try and find the source of the mutations and shut it down, if possible. Richard Grey joined it, assuming leadership.",
+      "description": "The Master is the leader of the mutant faction that was set to appear in the Fallout Movie.\n\nUnable to afford a space in a Vault, he created the Forced Evolutionary Virus to adapt fallout survivors like himself to hostile radiation conditions. Unfortunately, it is not known how he managed to create FEV, or from what. Nonetheless, the formula not only worked but also imbued its hosts with unexpected super-human side effects. It did, however, also make the mutants sterile, and so their only means of reproduction was to force the virus on humans. Consequently, the Master turned the Los Angeles basin into a lush jungle with G.E.C.K.s, in order to appear as an inviting Oasis in the wasteland, drawing in humans from miles around. Los Angeles thus acted as a cleverly self-perpetuating cattle field for the Master's experiments. Humans were then captured and the F.E.V. was used to convert them into mutants within mere hours. It seems the imperfection of the F.E.V., in that its hosts could not reproduce naturally, led the Master to test all sorts of genetic combinations for years.\n\nHe hoped that Hero and Female Officer might finally be the solution, and that they would come to be the 'Adam and Eve' from which his master race would descend. It was for this reason that, along with the help of Dekker, his mutants ambushed Hero, Max, Female Officer and Scholar within Dekker's club. After a lot of dealing, with Scholar initially selling out his friends and then being out-dealt by Max, the trio from Vault 13 are captured and taken to the Cedars-Sinai medical labs for conversion.\n\nAfter it turned out Max's betrayal was not real and he rescued them, the group returned swiftly to Vault 13. The Master and his mutants followed him, and they fought against the Vault in the final 3-way battle. Outside the Vault, while Hero deals with the mutated Scholar, Female Officer and Max take on the Master as the battle rages all around them, inside the Vault and out. The pair manage to defeat him, and once the dust is settling, and Max's dues are settled too, he goes to leave. However, the Master was merely faking, and so he injects Max with the last strain of F.E.V. It is at this point that he is finished off for real, and, moments later, Max shares his fate.",
       "short_description": "The Master of the Super Mutants or simply the Master was the founder and leader of the Unity, a mutant-led organization dedicated to the post-humanist transformation of mankind in the post-nuclear world. By the time he…",
       "evidence": "fiction",
       "parentSlug": "fallout",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/fallout/images/7/76/MasterInGame.png/revision/latest/scale-to-width-down/180?cb=20140530152600",
+      "image_url": "https://static.wikia.nocookie.net/fallout/images/7/76/MasterInGame.png/revision/latest/scale-to-width-down/360?cb=20140530152600",
       "image_source": "https://fallout.fandom.com/wiki/Master",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax / Interplay (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -1606,13 +1593,12 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://fallout.fandom.com/wiki/Master",
-        "fandom_title": "Master",
+        "fandom_url": "https://fallout.fandom.com/wiki/Master_(film)",
+        "fandom_title": "Master (film)",
         "source_fandom": "fallout.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -3773,7 +3759,7 @@
       "slug": "ciphers",
       "name": "Ciphers",
       "type": "organization",
-      "description": "The Ciphers are a tribe of scientifically-gifted people in the western United States. They live concealed in the hills of NCR territory, but outside the Republic's control.\n\nDismissed as mere tribals by the New California Republic, the tribe actually sits on a wealth of pre-War knowledge. They spend their days memorizing pre-War schematics that no contemporary wastelander can understand. during which he also observed, and was able to understand, their pre-War documents. the current status of the Ciphers is unknown.\n\nCategory:Dead Money mentioned-only content Category:Tribes",
+      "description": "The Ciphers or Painted People are a tribe of scientifically-gifted people in the state of Colorado, based around their village at Mesa Verde.\n\nIn the weeks following the Great War, a group of scientists and soldiers left the atomic laboratory at Los Alamos, New Mexico, and wandered north with a band of other survivors, looking for a place of relative safety. They assumed that they were the only \"civilized\" people left, since everyone else they encountered attacked them, trying to take their food, water, and clothes. When they discovered one of the ancient pueblos at Mesa Verde, they decided to set up camp there.\n\nThe group carried only a limited amount of technology with them. The soldiers had pistols and rifles, and the scientists carried one barely working computer, enough parts to build several water makers and a crude wind turbine to power them, several lead-lined boxes containing enriched uranium, and a small supply of medicine. The rest of the band had a variety of miscellaneous gear which most contributed to group use.\n\nA decade later, the computer began to fail. Fearing that the technology of the Old World would be forever lost, the scientists began painting and carving electronic schematics into the walls of the pit. At the same time, they insisted that mathematics be emphasized when educating the village children so that their descendants would understand how to use the schematics.",
       "short_description": "The Ciphers are a tribe of scientifically-gifted people in the western United States. They live concealed in the hills of NCR territory, but outside the Republic's control.",
       "evidence": "fiction",
       "parentSlug": "fallout",
@@ -3783,13 +3769,12 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://fallout.fandom.com/wiki/Ciphers",
-        "fandom_title": "Ciphers",
+        "fandom_url": "https://fallout.fandom.com/wiki/Ciphers_(Van_Buren)",
+        "fandom_title": "Ciphers (Van Buren)",
         "source_fandom": "fallout.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       },
       "image_url": "https://static.wikia.nocookie.net/fallout/images/8/82/VB_DD07_loc_Mesa_Verde.jpg/revision/latest/scale-to-width-down/360?cb=20100119001345",
       "image_source": "https://fallout.fandom.com/wiki/Ciphers_(Van_Buren)",
@@ -3830,7 +3815,7 @@
       "slug": "hangdogs",
       "name": "Hangdogs",
       "type": "organization",
-      "description": "The Hangdogs were a tribe formerly living outside of Denver, Colorado before being absorbed into Caesar's Legion.\n\nWhen Caesar's Legion arrived at Denver, the Hangdogs resisted them like most other tribes, and fared better than most. Eventually however, they surrendered to Legate Lanius when he began burning their dogs alive. The tribe's elders could not bear the thought of their spirit animal burning in the afterlife, so they submitted to Caesar. After they were integrated into the Legion, Caesar, seeing how useful the Hangdogs' talents were in taming dogs, made the male members of the tribe the houndmasters of the Legion, specializing in training and taming the Legion mongrels.\n\nThe Hangdogs are mentioned in Fallout: New Vegas and its add-on Lonesome Road.\n\nCategory:Fallout: New Vegas mentioned-only associations Category:Lonesome Road mentioned-only content Category:Caesar's Legion Category:Tribes",
+      "description": "The Hangdogs were a tribe formerly living outside of Denver, Colorado.\n\nThe Hangdogs are a group of tribals with a mixed reputation across the wasteland. Neither known for being particularly brutal or kind, the Hangdogs mostly keep to themselves, living in northeastern Colorado near Denver – or, as the NCR calls it, \"Dog Town.\" The Hangdogs run with packs of dogs that have been taken from the hordes that reportedly infest Denver. They worshiped dogs and saw them as their spirit animals. Outside of their dog-focused culture, the Hangdogs act as slavers and scavengers and are often in league with Hecate.\n\nThe Hangdogs were to appear in Van Buren, the canceled Fallout 3 project.\n\nCategory:Van Buren factions Category:Tribes",
       "short_description": "The Hangdogs were a tribe formerly living outside of Denver, Colorado before being absorbed into Caesar's Legion.",
       "evidence": "fiction",
       "parentSlug": "fallout",
@@ -3846,13 +3831,12 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://fallout.fandom.com/wiki/Hangdogs",
-        "fandom_title": "Hangdogs",
+        "fandom_url": "https://fallout.fandom.com/wiki/Hangdogs_(Van_Buren)",
+        "fandom_title": "Hangdogs (Van Buren)",
         "source_fandom": "fallout.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -8283,11 +8267,11 @@
     "images_attached": 14,
     "core_enrichments": 32,
     "preserved_fandom": 0,
-    "fandom_titles": 1,
-    "fandom_enriched_core": 1,
-    "fandom_created": 0,
-    "fandom_images": 1,
-    "fandom_intros": 1,
+    "fandom_titles": 254,
+    "fandom_enriched_core": 36,
+    "fandom_created": 215,
+    "fandom_images": 209,
+    "fandom_intros": 253,
     "image_backfill_at": "2026-09-11T16:29:48.090Z",
     "image_backfill_count": 32
   }

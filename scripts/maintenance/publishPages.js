@@ -37,69 +37,13 @@ function copyDir(from, to) {
     }
 }
 
-function ensureCatalogInDocs() {
-    // CI / local publish must ship catalog + search with the Pages artifact.
-    // Prefer freshest files already under docs/; fill gaps from repo-root data/.
-    const docsData = path.join(docs, "data");
-    const rootData = path.join(root, "data");
-    fs.mkdirSync(docsData, { recursive: true });
-
-    for (const name of ["subjects.json", "search-index.json"]) {
-        const docsFile = path.join(docsData, name);
-        const rootFile = path.join(rootData, name);
-        if (fs.existsSync(docsFile)) {
-            continue;
-        }
-        if (fs.existsSync(rootFile)) {
-            fs.copyFileSync(rootFile, docsFile);
-            console.log(`Filled docs/data/${name} from repo-root data/`);
-        }
-    }
-
-    for (const name of ["robots.txt", "sitemap.xml"]) {
-        const docsFile = path.join(docs, name);
-        const rootFile = path.join(root, name);
-        if (!fs.existsSync(docsFile) && fs.existsSync(rootFile)) {
-            fs.copyFileSync(rootFile, docsFile);
-            console.log(`Filled docs/${name} from repo root`);
-        }
-    }
-    if (fs.existsSync(root)) {
-        for (const entry of fs.readdirSync(root)) {
-            if (!/^sitemap-\d+\.xml$/i.test(entry)) {
-                continue;
-            }
-            const docsFile = path.join(docs, entry);
-            const rootFile = path.join(root, entry);
-            if (!fs.existsSync(docsFile) && fs.existsSync(rootFile)) {
-                fs.copyFileSync(rootFile, docsFile);
-                console.log(`Filled docs/${entry} from repo root`);
-            }
-        }
-    }
-
-    const docsCategory = path.join(docs, "category");
-    const rootCategory = path.join(root, "category");
-    if (!fs.existsSync(docsCategory) && fs.existsSync(rootCategory)) {
-        copyDir(rootCategory, docsCategory);
-        console.log("Filled docs/category/ from repo root");
-    }
-}
-
 function stashStaticOverlay(fromDir) {
     const stash = {
         dir: fs.mkdtempSync(path.join(os.tmpdir(), "tonolore-static-")),
         names: []
     };
 
-    const overlayNames = ["data", "category", "robots.txt", "sitemap.xml"];
-    for (const entry of fs.readdirSync(fromDir)) {
-        if (/^sitemap-\d+\.xml$/i.test(entry)) {
-            overlayNames.push(entry);
-        }
-    }
-
-    for (const name of overlayNames) {
+    for (const name of ["data", "category", "robots.txt", "sitemap.xml"]) {
         const src = path.join(fromDir, name);
         if (!fs.existsSync(src)) {
             continue;
@@ -174,20 +118,6 @@ function mirrorToRoot() {
             fs.copyFileSync(src, path.join(root, name));
         }
     }
-    for (const entry of fs.readdirSync(docs)) {
-        if (!/^sitemap-\d+\.xml$/i.test(entry)) {
-            continue;
-        }
-        fs.copyFileSync(path.join(docs, entry), path.join(root, entry));
-    }
-    for (const entry of fs.readdirSync(root)) {
-        if (
-            /^sitemap-\d+\.xml$/i.test(entry) &&
-            !fs.existsSync(path.join(docs, entry))
-        ) {
-            fs.unlinkSync(path.join(root, entry));
-        }
-    }
 
     rmrf(path.join(root, "data"));
     if (fs.existsSync(path.join(docs, "data"))) {
@@ -197,25 +127,6 @@ function mirrorToRoot() {
     rmrf(path.join(root, "category"));
     if (fs.existsSync(path.join(docs, "category"))) {
         copyDir(path.join(docs, "category"), path.join(root, "category"));
-    }
-
-    // Subject / hub SPA shells (one-piece/index.html, etc.)
-    for (const entry of fs.readdirSync(docs, { withFileTypes: true })) {
-        if (!entry.isDirectory()) {
-            continue;
-        }
-        if (
-            ["assets", "data", "category", "node_modules"].includes(entry.name)
-        ) {
-            continue;
-        }
-        const src = path.join(docs, entry.name);
-        const dest = path.join(root, entry.name);
-        if (!fs.existsSync(path.join(src, "index.html"))) {
-            continue;
-        }
-        rmrf(dest);
-        copyDir(src, dest);
     }
 }
 
@@ -227,17 +138,14 @@ if (!fs.existsSync(path.join(dist, "index.html"))) {
 }
 
 const skipExport = process.argv.includes("--skip-export");
-const skipShells = process.argv.includes("--skip-shells");
 const envPath = path.join(root, ".env");
 const hasDb =
     Boolean(process.env.DATABASE_URL) ||
     (fs.existsSync(envPath) &&
         fs.readFileSync(envPath, "utf8").includes("DATABASE_URL="));
 
-ensureCatalogInDocs();
 const stash = stashStaticOverlay(docs);
 publishShell(docs, stash);
-fs.writeFileSync(path.join(docs, ".nojekyll"), "");
 
 console.log(
     "Published client/dist → docs/ (preserved data/sitemap when present)"
@@ -262,78 +170,5 @@ if (!skipExport && hasDb) {
     );
 }
 
-const subjectsPath = path.join(docs, "data", "subjects.json");
-if (!fs.existsSync(subjectsPath)) {
-    console.error(
-        "docs/data/subjects.json is missing after publish — home/search will hang on GitHub Pages."
-    );
-    process.exit(1);
-}
-
-// Keep search shards complete after export/publish (meta + /data/search/shards).
-if (hasDb && !process.argv.includes("--skip-search-index")) {
-    console.log("Rebuilding sharded search index…");
-    const searchRebuild = spawnSync(
-        process.execPath,
-        [path.join(__dirname, "rebuildSearchIndex.js")],
-        { stdio: "inherit", cwd: root, env: process.env }
-    );
-    if (searchRebuild.status !== 0) {
-        console.error("Search index rebuild failed.");
-        process.exit(searchRebuild.status || 1);
-    }
-}
-
-const searchMetaPath = path.join(docs, "data", "search-index.json");
-const searchShardDir = path.join(docs, "data", "search", "shards");
-if (
-    !fs.existsSync(searchMetaPath) ||
-    !fs.existsSync(searchShardDir) ||
-    fs.readdirSync(searchShardDir).filter((n) => n.endsWith(".json")).length < 1
-) {
-    console.error(
-        "docs/data/search-index.json or search/shards missing — site search will fail on GitHub Pages."
-    );
-    process.exit(1);
-}
-
-if (!skipShells) {
-    console.log("Writing SPA route shells…");
-    const shells = spawnSync(
-        process.execPath,
-        [path.join(__dirname, "writeSpaRouteShells.js")],
-        { stdio: "inherit", cwd: root, env: process.env }
-    );
-    if (shells.status !== 0) {
-        console.error("SPA shell write failed.");
-        process.exit(shells.status || 1);
-    }
-
-    console.log("Writing SEO-tagged page shells…");
-    const seoShells = spawnSync(
-        process.execPath,
-        [path.join(__dirname, "writeSeoPageShells.js")],
-        { stdio: "inherit", cwd: root, env: process.env }
-    );
-    if (seoShells.status !== 0) {
-        console.error("SEO shell write failed.");
-        process.exit(seoShells.status || 1);
-    }
-}
-
 mirrorToRoot();
-fs.writeFileSync(path.join(root, ".nojekyll"), "");
 console.log("Mirrored docs/ → repo root for legacy Pages source=/");
-
-// Host IndexNow key + ping Bing/partners for recently updated URLs.
-if (hasDb && !process.argv.includes("--skip-indexnow")) {
-    console.log("Notifying IndexNow (Bing + partners)…");
-    const indexNow = spawnSync(
-        process.execPath,
-        [path.join(__dirname, "notifyIndexNowRecent.js"), "--limit=400"],
-        { stdio: "inherit", cwd: root, env: process.env }
-    );
-    if (indexNow.status !== 0) {
-        console.warn("IndexNow notify failed (non-fatal).");
-    }
-}

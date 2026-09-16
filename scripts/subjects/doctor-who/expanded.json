@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T01:09:46.772Z",
+  "generated_at": "2026-09-11T15:30:44.559Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 180,
+    "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (tardis.fandom.com) for identification and commentary only. Character / franchise art © BBC (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -685,13 +685,13 @@
       "slug": "alien",
       "name": "Alien",
       "type": "organization",
-      "description": "Alien was a broad, subjective term. It could be applied as a noun or an adjective for any entity, object, place or practice which was not familiar. In one sense, it meant someone not from one's nation or locality. But more typically it was a synonym for extraterrestrials, or that which was \"alien to humans\". The Doctor, for instance, often admitted that they were an \"alien\" to their new human companions. (TV: Rose, The Runaway Bride, The Bells of Saint John, The Woman Who Fell to Earth)\n\nTo some, the term was offensive; they sensitively referrer to it as the \"a-word\". (COMIC: )\n\nHowever, the word was equally applicable to humans, from the perspective of extraterrestrials. As Melanie Bush once pointed out to an English cabbie suddenly brought into the presence of extraterrestrials, \"We're all aliens to each other.\" (AUDIO: Unregenerate!) The Time Lords labelled Leela an alien when she visited Gallifrey. The Fourth Doctor, posing to fool the Vardans, ordered that she be banished from the Capitol for being alien. (TV: The Invasion of Time) Romana I once used the label \"Earth alien\" in reference to the natives of Earth. (TV: The Ribos Operation)\n\nThe term was trickier to apply to non-human Earth sapients. For instance, the Third Doctor referred to the Silurians as alien beings even after he discovered they had ruled the planet Earth millions of years before. (TV: Doctor Who and the Silurians) However, the Eleventh Doctor later stated that they were not aliens but rather \"Earth...liens\". (TV: The Hungry Earth)",
+      "description": "In a possible future for the Eighth Doctor, (PROSE: ) an alien race of \"monsters\" was responsible for killing nearly every Time Lord on Gallifrey, but they were defeated by the Ninth Doctor and the Master. The Master's final physical body was destroyed in the process. (PROSE: )",
       "short_description": "Alien was a broad, subjective term. It could be applied as a noun or an adjective for any entity, object, place or practice which was not familiar. In one sense, it meant someone not from one's nation or locality. But…",
       "evidence": "fiction",
       "parentSlug": "doctor-who",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/tardis/images/7/72/Abzorbaloff_genuine_article.jpg/revision/latest/scale-to-width-down/180?cb=20201210160129",
+      "image_url": "https://static.wikia.nocookie.net/tardis/images/7/72/Abzorbaloff_genuine_article.jpg/revision/latest/scale-to-width-down/360?cb=20201210160129",
       "image_source": "https://tardis.fandom.com/wiki/Alien",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BBC (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -701,13 +701,12 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://tardis.fandom.com/wiki/Alien",
-        "fandom_title": "Alien",
+        "fandom_url": "https://tardis.fandom.com/wiki/Alien_(Doctor_Who_-_The_Ninth_Doctor)",
+        "fandom_title": "Alien (Doctor Who - The Ninth Doctor)",
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -729,8 +728,7 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -752,8 +750,7 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -781,8 +778,7 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -804,8 +800,7 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -827,8 +822,7 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -850,8 +844,7 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -873,8 +866,7 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -896,8 +888,7 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -925,8 +916,7 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -948,8 +938,7 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -971,8 +960,7 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -1000,8 +988,7 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -3813,8 +3800,8 @@
     {
       "slug": "chiroptera",
       "name": "Chiroptera",
-      "type": "organization",
-      "description": "The Chiroptera were a species resembling giant bats which guarded Hellmouth.\n\nThe Chiroptera resembled giant bats. They had dog-like teeth with vampire fangs capable of ripping open Dalekanium. They could fire psionic energy from their blood-red eyes to turn ships to dust.\n\nThe Chiroptera guarded the Hellmouth Wormhole, believed to lead to Nosfera II, home of the ancient Vampire Gods and their Vampire Weapon-Worlds. The Daleks travelled to the wormhole to see if the legends were true. The Dalek Fleet were ordered to fly through the Hellmouth, conquer Nosfera II and take control of the mythical Vampire Weapon-Worlds. As the fleet prepared to enter the wormhole, a hundred thousand Chiroptera came shrieking out. They tore the fleet to pieces, ripping open the Dalek casings and consuming the Kaled mutants within. The Daleks were soon reduced to dust, though legend says their screams could still be heard echoing through the Astral Fog. (PROSE: Bats Out of Hell!)",
+      "type": "place",
+      "description": "Chiroptera was a planet inhabited by Chiropterans. (AUDIO: The Widow's Assassin)",
       "short_description": "The Chiroptera were a species resembling giant bats which guarded Hellmouth.",
       "evidence": "fiction",
       "parentSlug": "doctor-who",
@@ -3824,13 +3811,12 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://tardis.fandom.com/wiki/Chiroptera",
-        "fandom_title": "Chiroptera",
+        "fandom_url": "https://tardis.fandom.com/wiki/Chiroptera_(planet)",
+        "fandom_title": "Chiroptera (planet)",
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       }
     },
     {
@@ -7987,7 +7973,7 @@
       "slug": "harpy",
       "name": "Harpy",
       "type": "organization",
-      "description": "Harpies were bird-like creatures mentioned twice by Auteur in his cursed Abecedarium, firstly under the letter H where they were described as \"preening and squawking\" up and down the Interdimensional Black Market's \"twisted lane\" and then under the letter I where the Black Market was stated to be their \"bazaar domain\". (PROSE: )\n\nIris Wildthyme once pondered as to whether she was an archetype, a siren, a witch, a harpy, a femme fatale, or even a Valkyrie from Nordic myth. (AUDIO: Iris Wildthyme Speaks...!)\n\nMehendri Solon once referred to the Sisterhood of Karn as a \"squalid brood of harpies\". (PROSE: Mehendri Solon)",
+      "description": "Harpies, informally known as Blazes, were a species that tried to invade planets so they could feed. They originated from the Detritus Belt around the Infernal Moon of Bravo 11 Zebra. (COMIC: The Warkeeper's Crown)\n\nThey were able to switch between their real forms and a human form. In their real forms, they were significantly larger than humans, had red skin, and wings which enabled them to fly. (COMIC: The Warkeeper's Crown)\n\nA group of four Harpies, in the disguise of nursemaids on the Slough of the Disunited Planets, tried to use the Warkeeper's Crown to control the Hawk army and win wars. They killed the original Warkeeper and replaced him with Michael Yates. They transported themselves to Upper Wardleswick on Earth, where Yates declared he would invade France. They were defeated by the Tenth Doctor and the Brigadier. (COMIC: The Warkeeper's Crown)\n\nCategory:Shapeshifters Category:Predators Category:Humanoid species Category:Species with red skin Category:Avian species Category:Species",
       "short_description": "Harpies were bird-like creatures mentioned twice by Auteur in his cursed Abecedarium, firstly under the letter H where they were described as \"preening and squawking\" up and down the Interdimensional Black Market's…",
       "evidence": "fiction",
       "parentSlug": "doctor-who",
@@ -7997,13 +7983,12 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://tardis.fandom.com/wiki/Harpy",
-        "fandom_title": "Harpy",
+        "fandom_url": "https://tardis.fandom.com/wiki/Harpy_(The_Warkeeper%27s_Crown)",
+        "fandom_title": "Harpy (The Warkeeper's Crown)",
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "faction"
+        ]
       },
       "image_url": "https://static.wikia.nocookie.net/tardis/images/a/a2/Harpies.jpg/revision/latest/scale-to-width-down/360?cb=20161125093232",
       "image_source": "https://tardis.fandom.com/wiki/Harpy_(The_Warkeeper%27s_Crown)",
@@ -11925,8 +11910,7 @@
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "location"
+        ]
       }
     },
     {
@@ -25401,11 +25385,11 @@
     "images_attached": 0,
     "core_enrichments": 2,
     "preserved_fandom": 0,
-    "fandom_titles": 1,
-    "fandom_enriched_core": 0,
-    "fandom_created": 0,
-    "fandom_images": 0,
-    "fandom_intros": 1,
+    "fandom_titles": 831,
+    "fandom_enriched_core": 32,
+    "fandom_created": 795,
+    "fandom_images": 171,
+    "fandom_intros": 829,
     "image_backfill_at": "2026-09-11T16:30:04.754Z",
     "image_backfill_count": 31
   }

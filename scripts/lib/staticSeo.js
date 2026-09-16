@@ -32,13 +32,6 @@ function buildRobotsTxt(siteUrl) {
     return [
         "User-agent: *",
         "Allow: /",
-        "",
-        "User-agent: Googlebot",
-        "Allow: /",
-        "",
-        "User-agent: Bingbot",
-        "Allow: /",
-        "",
         `Sitemap: ${base}/sitemap.xml`,
         ""
     ].join("\n");
@@ -68,77 +61,6 @@ function buildSitemapXml(siteUrl, entries) {
 ${urls.join("\n")}
 </urlset>
 `;
-}
-
-const SITEMAP_MAX_URLS = 10000;
-
-/**
- * Write sitemap index + chunked sitemap-N.xml (Google + Bing friendly).
- * Returns { indexPath, chunkCount, urlCount }.
- */
-function writeSitemapArtifacts(targetDir, siteUrl, entries, writeFile) {
-    const write =
-        writeFile ||
-        ((filePath, contents) => {
-            const fs = require("fs");
-            const path = require("path");
-            fs.mkdirSync(path.dirname(filePath), { recursive: true });
-            fs.writeFileSync(filePath, contents);
-        });
-    const path = require("path");
-    const base = String(siteUrl || "").replace(/\/+$/, "");
-    const list = Array.isArray(entries) ? entries : [];
-    const chunks = [];
-    for (let i = 0; i < list.length; i += SITEMAP_MAX_URLS) {
-        chunks.push(list.slice(i, i + SITEMAP_MAX_URLS));
-    }
-    if (!chunks.length) {
-        chunks.push([]);
-    }
-
-    const chunkNames = [];
-    chunks.forEach((chunk, index) => {
-        const name = `sitemap-${index + 1}.xml`;
-        chunkNames.push(name);
-        write(path.join(targetDir, name), buildSitemapXml(base, chunk));
-    });
-
-    const indexXml = `<?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${chunkNames
-    .map(
-        (name) => `  <sitemap>
-    <loc>${escapeHtml(`${base}/${name}`)}</loc>
-    <lastmod>${escapeHtml(new Date().toISOString().slice(0, 10))}</lastmod>
-  </sitemap>`
-    )
-    .join("\n")}
-</sitemapindex>
-`;
-    write(path.join(targetDir, "sitemap.xml"), indexXml);
-
-    // Remove stale higher-numbered shards
-    const fs = require("fs");
-    for (const entry of fs.readdirSync(targetDir)) {
-        const match = entry.match(/^sitemap-(\d+)\.xml$/i);
-        if (!match) {
-            continue;
-        }
-        const n = Number(match[1]);
-        if (n > chunks.length) {
-            try {
-                fs.unlinkSync(path.join(targetDir, entry));
-            } catch (_) {
-                /* ignore */
-            }
-        }
-    }
-
-    return {
-        indexPath: path.join(targetDir, "sitemap.xml"),
-        chunkCount: chunks.length,
-        urlCount: list.length
-    };
 }
 
 function baseHead({
@@ -507,8 +429,6 @@ module.exports = {
     slugToRelativeDir,
     buildRobotsTxt,
     buildSitemapXml,
-    writeSitemapArtifacts,
-    SITEMAP_MAX_URLS,
     buildEntityPageHtml,
     buildHomeHtml,
     buildCategoryHtml,

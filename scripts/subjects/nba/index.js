@@ -1,5 +1,5 @@
 /**
- * NBA — Basketball subject package.
+ * NBA — Sports subject package.
  */
 
 const path = require("path");
@@ -17,7 +17,6 @@ module.exports = mergeSubjectPackage({
         rootSlug: "nba",
         theme: "nba",
         categories: ["sports"],
-        sportsSport: "basketball",
         copyright: {
             title: "NBA is not owned by Ton-o-Lore.",
             body:

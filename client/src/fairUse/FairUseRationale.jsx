@@ -86,7 +86,7 @@ export function MediaCredit({ asset }) {
                 <span className="fair-use-badge is-free">Free / open media</span>
             ) : (
                 <span className="fair-use-badge is-nonfree">
-                    Low-res listing art — not for reuse
+                    Fair-use identification — not free artwork
                 </span>
             )}
             {rationale?.sourceAttribution ? (

@@ -1,5 +1,5 @@
 /**
- * Formula 1 — Motorsport subject package.
+ * Formula 1 — Sports subject package.
  */
 
 const path = require("path");
@@ -17,7 +17,6 @@ module.exports = mergeSubjectPackage({
         rootSlug: "formula-1",
         theme: "formula-1",
         categories: ["sports"],
-        sportsSport: "motorsport",
         copyright: {
             title: "Formula 1 is not owned by Ton-o-Lore.",
             body:

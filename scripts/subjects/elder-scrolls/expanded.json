@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T01:06:16.463Z",
+  "generated_at": "2026-09-11T15:21:22.697Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 180,
+    "max_edge_px": 360,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (elderscrolls.fandom.com) for identification and commentary only. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -72,7 +72,7 @@
         "fandom_preferred_image": true
       },
       "short_description": "Nirn is a planet referred to by otherworldly beings as the mortal plane and sometimes poetically called \"Mundus\" by both mortals and Daedric lords. The exact reasons and specifics behind Nirn's creation are largely…",
-      "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/8/8a/Nirn_Globe_Dark_Brotherhood_Promotion.png/revision/latest/scale-to-width-down/180?cb=20180403171408",
+      "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/8/8a/Nirn_Globe_Dark_Brotherhood_Promotion.png/revision/latest/scale-to-width-down/360?cb=20180403171408",
       "image_source": "https://elderscrolls.fandom.com/wiki/Nirn",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -248,7 +248,7 @@
         "fandom_preferred_image": true
       },
       "short_description": "The Aedra (singular: Aedroth) are one of the two groups of immortals which took part in the creation of Mundus. Their name is from the old Aldmeric language, and translates roughly into \"our ancestors,\" referring to…",
-      "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/d/d7/Statue_akatosh.jpg/revision/latest/scale-to-width-down/180?cb=20100202215234",
+      "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/d/d7/Statue_akatosh.jpg/revision/latest/scale-to-width-down/360?cb=20100202215234",
       "image_source": "https://elderscrolls.fandom.com/wiki/Aedra",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -270,7 +270,7 @@
         "fandom_preferred_image": true
       },
       "short_description": "Daedra (singular: Daedroth) The most powerful of the Daedra are referred to as Daedric Princes or Daedra Ladies/Lords, and rule over their own planes of Oblivion, which they shaped. Because they have no connection to…",
-      "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/a/ac/TESIV_Obliviongate2.png/revision/latest/scale-to-width-down/180?cb=20160831141504",
+      "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/a/ac/TESIV_Obliviongate2.png/revision/latest/scale-to-width-down/360?cb=20160831141504",
       "image_source": "https://elderscrolls.fandom.com/wiki/Daedra",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -425,11 +425,11 @@
       },
       "short_description": "Alduin (Dragon Language: ), sometimes referred to as the World Eater, and the First Dragon, is a mighty dragon who ruled over Skyrim during the Merethic Era. Worshipped as a god-king by the ancient Nords through the…",
       "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/7/7f/Alduin_over_Helgen.png/revision/latest/scale-to-width-down/360?cb=20120810223011",
-      "image_source": "https://elderscrolls.fandom.com/wiki/Alduin_(Skyrim)",
+      "image_source": "https://elderscrolls.fandom.com/wiki/Alduin",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Alduin (Skyrim)"
+      "image_alt": "Identification thumbnail for Alduin"
     },
     {
       "slug": "dragonborn",
@@ -534,11 +534,11 @@
       },
       "short_description": "Vivec, also known as Vehk, Vivek, the Warrior-Poet, God-Poet, the Guardian God-King, was one of the three immortal god-kings of Morrowind alongside Sotha Sil and Almalexia. A pillar of the Tribunal Temple and the patron…",
       "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/e/e2/Vivec_ESO_%281%29.png/revision/latest/scale-to-width-down/360?cb=20170531034101",
-      "image_source": "https://elderscrolls.fandom.com/wiki/Vivec_(Online)",
+      "image_source": "https://elderscrolls.fandom.com/wiki/Vivec",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Vivec (Online)"
+      "image_alt": "Identification thumbnail for Vivec"
     },
     {
       "slug": "nerevarine",
@@ -810,6 +810,102 @@
       }
     },
     {
+      "slug": "almalexia",
+      "name": "Almalexia",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Almalexia in elder scrolls.",
+      "description": "Almalexia is a Chimer goddess and a member of the Tribunal. She is a prominent member of the Ebonheart Pact and has some degree of influence in the decisions it makes.\n\nShe primarily appears in Deshaan, which features Mournhold, capital of the Ebonheart Pact. She was once the mortal wife of Indoril Nerevar, until their marriage ended after his death at the Battle of Red Mountain. With Vivec and Sotha Sil, Almalexia used Keening, Sunder and Wraithguard on the Heart of Lorkhan to become gods.\n\nSince then, the Tribunal as they were now called became the living gods of the Dunmer people, using their godlike powers to aid them in times of chaos and strife. Her public image is that of a kind and nurturing mother who offers council to the Dunmer people, and leads them along with her fellow Tribunal in times of war, often seen as the more popular of the three.\n\nAfter reporting to Almalexia, she will thank the Vestige for their service, rewarding them with her lantern and bestowing higher authority upon them.",
+      "aliases": [
+        "Almalexia"
+      ],
+      "parentSlug": "elder-scrolls",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Tribunal",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true,
+        "canon": false,
+        "fandom_url": "https://elderscrolls.fandom.com/wiki/Almalexia_(Online)",
+        "fandom_title": "Almalexia (Online)",
+        "source_fandom": "elderscrolls.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/5/53/Almalexia_%28Online%29_Full-body.png/revision/latest/scale-to-width-down/360?cb=20201008150449",
+      "image_source": "https://elderscrolls.fandom.com/wiki/Almalexia_(Online)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Almalexia (Online)"
+    },
+    {
+      "slug": "caius-cosades",
+      "name": "Caius Cosades",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Caius Cosades in elder scrolls.",
+      "description": "Caius Cosades was an Imperial member of the Blades, being the Grand Spymaster of the Blades in Vvardenfell. Before the revelation of the Nerevarine Prophecy, Caius Cosades was in contact with the Nerevarine, when they arrived into Vvardenfell.\n\nDuring the events of 3E 427, Caius Cosades was the head of the Blades in Vvardenfell, being situated in the city-state of Balmora. Cosades received information from Uriel Septim VII himself about a prisoner that piqued the Emperor's interest, he wants this prisoner to fulfill the Nerevarine Prophecy for his own deeds. After the prisoner was brought to Seyda Neen, they were redirected to Balmora, where they would meet with Caius Cosades at his home. At that point, Cosades had named the prisoner, a novice of the Blades.\n\nFrom that point on, Cosades had used the prisoner as an agent, sending them on quests and have them meet with correspondents such as Hasphat Antabolis of the Fighters Guild, a handful of informants in Vivec, and Sul-Matuul of the Urshilaku Tribe, and a handful of others. As time went on, the plan was going smoothly and it seemed that this Agent was the Nerevarine of legend. After he had sent the Agent to the cavern of Ilunibi and the Agent slew Dagoth Gares, the Agent had contracted Corprus. He would then send them to Divayth Fyr, who would cure them. When the Agent returned, he was promoted to Operative but told this was their last order from Cosades, who was recalled to the Imperial City. Caius presumed it had to do with the Emperor's health and his succession, and so assumed he would be gone for a while. Caius left his house, his ring, his Blades pants, and his Blades shirt for the Agent until his return. Caius Cosades traveled back to Cyrodiil, informing the Agent that he feared for the future of the Empire. The Operative continued their journey, fulfilling the Nerevarine Prophecy.\n\nAfter the Oblivion Crisis in 3E 433, Caius Cosades was stationed in the city-state of Kragenmoor, which was under the occupation of House Hlaalu. Fortunately for him, the Crisis did not entirely affect Kragenmoor and the local shrine of Akatosh had pilgrims coming in the ten-folds. He would eventually move back to Cyrodiil and the city-state of Kvatch to see his sister and the local festival. Once he had returned, he visited the tomb of Uriel Septim VII, paying his respects to his old friend. Praising how Martin Septim turned out, as opposed to his other sons with Caula Voria. Caius would eventually leave and continue his duties as a Spymaster of the Blades.",
+      "aliases": [
+        "Caius Cosades"
+      ],
+      "parentSlug": "elder-scrolls",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true,
+        "canon": false,
+        "fandom_url": "https://elderscrolls.fandom.com/wiki/Caius_Cosades",
+        "fandom_title": "Caius Cosades",
+        "source_fandom": "elderscrolls.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/4/40/Caius_Cosades_card_art.png/revision/latest/scale-to-width-down/360?cb=20200529123337",
+      "image_source": "https://elderscrolls.fandom.com/wiki/Caius_Cosades",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Caius Cosades"
+    },
+    {
+      "slug": "dagoth-ur",
+      "name": "Dagoth Ur",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Dagoth Ur in elder scrolls.",
+      "description": "Dagoth Ur, known as Voryn Dagoth in life, Awakened Lord of the Sixth House, Lord Dagoth, and Father of the Mountain to his followers, and whom Vivec would later come to call The Sharmat, was a powerful Chimer lord and Lord High Councillor to House Dagoth, and is the main antagonist of . He is also called Devil Dagoth Ur or Devil of Dagoth.\n\nVoryn Dagoth was born into the Great House Dagoth. Accounts of his early life are few, but it is known that he did later in life become the Lord High Councillor of the house and a retainer to Indoril Nerevar. In 1E 416, the Chimer and Dwemer created an alliance known as the First Council formed by Nerevar and Dumac, the king of the Dwemer in Morrowind. The First Council lasted for centuries until Voryn, through unknown means, claimed to have discovered that the Tonal Architect, Kagrenac had found the Heart of Lorkhan, and that the Dwemer would use the power of the Heart to create a giant machine known as the Numidium to use against the Chimer. Voryn, along with Nerevar, Vivec, Nerevar's wife Almalexia, and Sotha Sil were the only ones before Kagrenac to learn about the Heart. The Daedric Prince Azura later confirmed Voryn's claims and Nerevar declared war on the Dwemer, culminating in the race's disappearance at the Battle of Red Mountain.\n\nAfter the defeat of the Dwemer, the artifacts Sunder, Keening, and Wraithguard fell into the hands of Nerevar, who had to decide what to do with the tools. Voryn urged the destruction of the tools while Nerevar convened with the Tribunal and Azura. Unknown to Nerevar and the Tribunal, Voryn had experimented on the tools and the Heart and had managed to steal its divine energy. Voryn now called himself Dagoth Ur from that point on, though other sources claim that Nerevar coined the name. Nerevar and the Tribunal's guards fought and drove off Dagoth Ur, who was thought to have died. Nerevar was said to have died from his injuries fighting Dagoth Ur, though the cause of Nerevar's death is often disputed. Other accounts suggest it was the Tribunal who killed Nerevar, but only after he had vowed along with the Tribunal to never use the tools.\n\nThe Tribunal took possession of the tools, and after some time, Sotha Sil managed to find a way to become gods by using the tools. The Tribunal traveled to Red Mountain and used Kagrenac's tools on the Heart of Lorkhan, using its power to attain immortality. For breaking their promise to never use the tools, Azura appeared in anger, turning the Chimer into the Dunmer and prophesying that Nerevar would be incarnated and curse them for their deeds. Dagoth Ur, however, managed to maintain a connection to the Heart through unknown means and managed to stay alive and immortal, although temporarily non-corporeal and presumed to be dead by most.",
+      "aliases": [
+        "Dagoth Ur"
+      ],
+      "parentSlug": "elder-scrolls",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true,
+        "canon": false,
+        "fandom_url": "https://elderscrolls.fandom.com/wiki/Dagoth_Ur_(Character)",
+        "fandom_title": "Dagoth Ur (Character)",
+        "source_fandom": "elderscrolls.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/0/0d/Dagoth_Ur_Character.png/revision/latest/scale-to-width-down/360?cb=20140330101451",
+      "image_source": "https://elderscrolls.fandom.com/wiki/Dagoth_Ur_(Character)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Dagoth Ur (Character)"
+    },
+    {
       "slug": "dexion-evicus",
       "name": "Dexion Evicus",
       "type": "person",
@@ -900,427 +996,6 @@
       }
     },
     {
-      "slug": "sahrotaar",
-      "name": "Sahrotaar",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Sahrotaar in elder scrolls.",
-      "description": "The Elder Scrolls V: Skyrim – Dragonborn is the third and final add-on for the action role-playing open world video game The Elder Scrolls V: Skyrim. It was developed by Bethesda Game Studios and released by Bethesda Softworks on the Xbox Live Marketplace on December 4, 2012. The Microsoft Windows version was released on February 5, 2013, and the PlayStation 3 version was released on February 12, 2013.\nDragonborn involves the player character (the current Dragonborn) coming into contact with the first Dragonborn, Miraak. The expansion takes place on the island of Solstheim, previously featured in the Bloodmoon expansion for The Elder Scrolls III: Morrowind.",
-      "aliases": [
-        "Sahrotaar"
-      ],
-      "parentSlug": "elder-scrolls",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim_%E2%80%93_Dragonborn",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true
-      }
-    },
-    {
-      "slug": "volkihar",
-      "name": "Volkihar",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Volkihar in elder scrolls.",
-      "description": "The Elder Scrolls V: Skyrim – Dawnguard is a downloadable content add-on for the action role-playing open world video game The Elder Scrolls V: Skyrim. It was developed by Bethesda Game Studios and published by Bethesda Softworks. The Xbox 360 version of Dawnguard was launched in English-speaking territories on June 26, 2012, and in France, Germany, Italy, and Spain in mid-July 2012. It was released on Microsoft Windows via Steam on August 2, 2012. Due to performance issues, the PlayStation 3 release of Dawnguard was delayed until February 26, 2013.\nDawnguard revolves around an ancient prophecy predicted by an Elder Scroll. The Dawnguard is an organization dedicated to hunting vampires who attempt to stop the return of a powerful clan of Vampires named the Volkihar who possess the power to turn into monstrous \"vampire lords\". The Volkihar's leader Lord Harkon intends to use an Elder Scroll to permanently blot out the sun. The player can choose to either aid the Dawnguard or join the Volkihar, becoming a vampire lord themselves in the process. The DLC includes new armors, items, weapons, characters, etc.",
-      "aliases": [
-        "Volkihar"
-      ],
-      "parentSlug": "elder-scrolls",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim_%E2%80%93_Dawnguard",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true
-      }
-    },
-    {
-      "slug": "castle-volkihar",
-      "name": "Castle Volkihar",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Castle Volkihar in elder scrolls.",
-      "description": "The Elder Scrolls V: Skyrim – Dawnguard is a downloadable content add-on for the action role-playing open world video game The Elder Scrolls V: Skyrim. It was developed by Bethesda Game Studios and published by Bethesda Softworks. The Xbox 360 version of Dawnguard was launched in English-speaking territories on June 26, 2012, and in France, Germany, Italy, and Spain in mid-July 2012. It was released on Microsoft Windows via Steam on August 2, 2012. Due to performance issues, the PlayStation 3 release of Dawnguard was delayed until February 26, 2013.\nDawnguard revolves around an ancient prophecy predicted by an Elder Scroll. The Dawnguard is an organization dedicated to hunting vampires who attempt to stop the return of a powerful clan of Vampires named the Volkihar who possess the power to turn into monstrous \"vampire lords\". The Volkihar's leader Lord Harkon intends to use an Elder Scroll to permanently blot out the sun. The player can choose to either aid the Dawnguard or join the Volkihar, becoming a vampire lord themselves in the process. The DLC includes new armors, items, weapons, characters, etc.",
-      "aliases": [
-        "Castle Volkihar"
-      ],
-      "parentSlug": "elder-scrolls",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim_%E2%80%93_Dawnguard",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true
-      }
-    },
-    {
-      "slug": "cyrodil",
-      "name": "Cyrodil",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Cyrodil in elder scrolls.",
-      "description": "The Elder Scrolls is a series of action role-playing video games primarily developed by Bethesda Game Studios and published by Bethesda Softworks. The series focuses on free-form gameplay in an open world. Most games in the series have been critically and commercially successful, with The Elder Scrolls III: Morrowind (2002), The Elder Scrolls IV: Oblivion (2006) and The Elder Scrolls V: Skyrim (2011) all winning Game of the Year awards from multiple outlets. The series has sold more than 90 million copies worldwide.\nWithin the series' fictional universe, each game takes place on the continent of Tamriel. The setting combines pre-medieval real-world elements, such as a powerful Roman-like Empire, with high fantasy medieval themes, including limited technology, widespread magic use, and the existence of many mythological creatures. The continent is split into a number of provinces inhabited by humans and humanoid fantasy races such as elves, orcs and anthropomorphic animals. A common theme in the lore is that a chosen hero (represented by the player's character) rises to defeat an impending threat, typically a malevolent being or an antagonistic army.\nSince debuting with The Elder Scrolls: Arena in 1994, the series has produced a total of five main games (of which the last three have each featured two or three expansions) as well as several spin-offs. In 2014, a massively multipl",
-      "aliases": [
-        "Cyrodil"
-      ],
-      "parentSlug": "elder-scrolls",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true
-      }
-    },
-    {
-      "slug": "dayspring-canyon",
-      "name": "Dayspring Canyon",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Dayspring Canyon in elder scrolls.",
-      "description": "The Elder Scrolls V: Skyrim – Dawnguard is a downloadable content add-on for the action role-playing open world video game The Elder Scrolls V: Skyrim. It was developed by Bethesda Game Studios and published by Bethesda Softworks. The Xbox 360 version of Dawnguard was launched in English-speaking territories on June 26, 2012, and in France, Germany, Italy, and Spain in mid-July 2012. It was released on Microsoft Windows via Steam on August 2, 2012. Due to performance issues, the PlayStation 3 release of Dawnguard was delayed until February 26, 2013.\nDawnguard revolves around an ancient prophecy predicted by an Elder Scroll. The Dawnguard is an organization dedicated to hunting vampires who attempt to stop the return of a powerful clan of Vampires named the Volkihar who possess the power to turn into monstrous \"vampire lords\". The Volkihar's leader Lord Harkon intends to use an Elder Scroll to permanently blot out the sun. The player can choose to either aid the Dawnguard or join the Volkihar, becoming a vampire lord themselves in the process. The DLC includes new armors, items, weapons, characters, etc.",
-      "aliases": [
-        "Dayspring Canyon"
-      ],
-      "parentSlug": "elder-scrolls",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim_%E2%80%93_Dawnguard",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true
-      }
-    },
-    {
-      "slug": "fort-dawnguard",
-      "name": "Fort Dawnguard",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Fort Dawnguard in elder scrolls.",
-      "description": "The Elder Scrolls V: Skyrim – Dawnguard is a downloadable content add-on for the action role-playing open world video game The Elder Scrolls V: Skyrim. It was developed by Bethesda Game Studios and published by Bethesda Softworks. The Xbox 360 version of Dawnguard was launched in English-speaking territories on June 26, 2012, and in France, Germany, Italy, and Spain in mid-July 2012. It was released on Microsoft Windows via Steam on August 2, 2012. Due to performance issues, the PlayStation 3 release of Dawnguard was delayed until February 26, 2013.\nDawnguard revolves around an ancient prophecy predicted by an Elder Scroll. The Dawnguard is an organization dedicated to hunting vampires who attempt to stop the return of a powerful clan of Vampires named the Volkihar who possess the power to turn into monstrous \"vampire lords\". The Volkihar's leader Lord Harkon intends to use an Elder Scroll to permanently blot out the sun. The player can choose to either aid the Dawnguard or join the Volkihar, becoming a vampire lord themselves in the process. The DLC includes new armors, items, weapons, characters, etc.",
-      "aliases": [
-        "Fort Dawnguard"
-      ],
-      "parentSlug": "elder-scrolls",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim_%E2%80%93_Dawnguard",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true
-      }
-    },
-    {
-      "slug": "sky-haven-temple",
-      "name": "Sky Haven Temple",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Sky Haven Temple in elder scrolls.",
-      "description": "The Elder Scrolls V: Skyrim is a 2011 action role-playing game developed by Bethesda Game Studios and published by Bethesda Softworks. It is the fifth main installment in The Elder Scrolls series, following The Elder Scrolls IV: Oblivion (2006), and was released worldwide for Windows, PlayStation 3, and Xbox 360 on November 11, 2011. Skyrim was developed using the Creation Engine. The team opted for a rugged, largely sub-arctic world, after Oblivion's Imperial Province of Cyrodiil, which game director and executive producer Todd Howard considered more unique by comparison.\nThe game is set 201 years after the events of Oblivion and takes place in Skyrim, the northernmost province of Tamriel, a continent on the planet Nirn. Its main story focuses on the player character, the Last Dragonborn, on their quest to defeat Alduin the World-Eater, a dragon prophesied to destroy the world. Throughout the game, the player completes quests and develops the character by improving skills. The game continues the open world tradition of its predecessors by allowing the player to travel to discovered locations in the game world at any time, and to ignore or postpone the main storyline indefinitely.\nUpon release, the game received critical acclaim, with praise for its character advancement, world design, visuals, and the ability to dual-wield in combat. Criticism targeted the melee combat, dragon",
-      "aliases": [
-        "Sky Haven Temple"
-      ],
-      "parentSlug": "elder-scrolls",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true
-      }
-    },
-    {
-      "slug": "soul-cairn",
-      "name": "Soul Cairn",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Soul Cairn in elder scrolls.",
-      "description": "The Elder Scrolls V: Skyrim – Dawnguard is a downloadable content add-on for the action role-playing open world video game The Elder Scrolls V: Skyrim. It was developed by Bethesda Game Studios and published by Bethesda Softworks. The Xbox 360 version of Dawnguard was launched in English-speaking territories on June 26, 2012, and in France, Germany, Italy, and Spain in mid-July 2012. It was released on Microsoft Windows via Steam on August 2, 2012. Due to performance issues, the PlayStation 3 release of Dawnguard was delayed until February 26, 2013.\nDawnguard revolves around an ancient prophecy predicted by an Elder Scroll. The Dawnguard is an organization dedicated to hunting vampires who attempt to stop the return of a powerful clan of Vampires named the Volkihar who possess the power to turn into monstrous \"vampire lords\". The Volkihar's leader Lord Harkon intends to use an Elder Scroll to permanently blot out the sun. The player can choose to either aid the Dawnguard or join the Volkihar, becoming a vampire lord themselves in the process. The DLC includes new armors, items, weapons, characters, etc.",
-      "aliases": [
-        "Soul Cairn"
-      ],
-      "parentSlug": "elder-scrolls",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim_%E2%80%93_Dawnguard",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true
-      }
-    },
-    {
-      "slug": "skyrim-modding",
-      "name": "Skyrim modding",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Skyrim modding in elder scrolls.",
-      "description": "Skyrim modding is the fan-made modification of The Elder Scrolls V: Skyrim (2011), a fantasy role-playing video game. One of the most modded video games of all time, it has over 70,000 mod submissions on Nexus Mods and 28,000 in the Steam Workshop. Many of these mods were created for utility reasons, patching numerous bugs left in the game by Bethesda Softworks, while also improving the game's usability and character movement. Other mods add new quests and characters, and update the game's graphics and animations, with an adult mod community also thriving. Several total conversion mods have been made and others are in development.\nAs the vanilla game has a reputation for outdated mechanics, it is common for players to mod Skyrim even prior to their first playthrough. Traditionally, Skyrim mods have been largely free to download. Valve Corporation walked back its attempts to add paid mods to Skyrim, following backlash from fans. These mods made their way to the PlayStation 4 and Xbox One with the release of Skyrim: Special Edition (2016). Fans were also able to create an unofficial modding scene for the Nintendo Switch version. Bethesda created a system of microtransactions for paid mods, known as Creation Club, several of which were included in Skyrim: Anniversary Edition (2021).\n\n",
-      "aliases": [
-        "Skyrim modding"
-      ],
-      "parentSlug": "elder-scrolls",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Skyrim_modding",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true
-      }
-    },
-    {
-      "slug": "creation-club",
-      "name": "Creation Club",
-      "type": "place",
-      "evidence": "fiction",
-      "short_description": "Creation Club in elder scrolls.",
-      "description": "Creations (formerly Creation Club) is a system of microtransactions designed by Bethesda Game Studios for its games Fallout 4, The Elder Scrolls V: Skyrim – Special Edition and Starfield. The system was launched for Fallout 4 on August 29, 2017.\nAll (at the time) available Creation Club content for Skyrim was bundled with the Anniversary Edition, released on November 11, 2021 to coincide with the game's tenth anniversary.\nOn December 5, 2023, Bethesda replaced Creation Club with Creations, which combined paid creations and free mods. Modders can upload their free mods, or apply for the Bethesda Game Studios Verified Creator Program, which allows them to receive royalties for their paid mods. With Creation Club, modders could only receive payment if they were hired and paid by Bethesda. Creations thus makes it easier for modders to get paid for their mods.",
-      "aliases": [
-        "Creation Club"
-      ],
-      "parentSlug": "elder-scrolls",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Creation_Club",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true
-      }
-    },
-    {
-      "slug": "enderal",
-      "name": "Enderal",
-      "type": "topic",
-      "evidence": "fiction",
-      "short_description": "Enderal in elder scrolls.",
-      "description": "Enderal: The Shards of Order is a total conversion mod of The Elder Scrolls V: Skyrim developed by SureAI as a sequel to Nehrim: At Fate's Edge. After five years of development, it was released on July 3, 2016, initially in German only. An English version was released August 16, 2016. An expansion, Forgotten Stories, was released on February 14, 2019.",
-      "aliases": [
-        "Enderal"
-      ],
-      "parentSlug": "elder-scrolls",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Enderal",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true
-      }
-    },
-    {
-      "slug": "the-forgotten-city",
-      "name": "The Forgotten City",
-      "type": "place",
-      "evidence": "fiction",
-      "short_description": "The Forgotten City in elder scrolls.",
-      "description": "The Forgotten City is a mystery adventure role-playing game developed by Australian developer Modern Storyteller and published by Dear Villagers with additional support from Film Victoria. It is a full game adaptation of the critically acclaimed Elder Scrolls V: Skyrim mod of the same name. Initially released in 2015 as a game mod, the full game was released in July 2021 for Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One, and Xbox Series X/S. A cloud-based version launched in September 2021 for the Nintendo Switch.\n\n",
-      "aliases": [
-        "The Forgotten City"
-      ],
-      "parentSlug": "elder-scrolls",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Forgotten_City",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true
-      }
-    },
-    {
-      "slug": "nehrim-at-fates-edge",
-      "name": "Nehrim: At Fate's Edge",
-      "type": "topic",
-      "evidence": "fiction",
-      "short_description": "Nehrim: At Fate's Edge in elder scrolls.",
-      "description": "Nehrim: At Fate's Edge is a total conversion mod of The Elder Scrolls IV: Oblivion developed by the German team SureAI over the span of four years. It was released in German on June 9, 2010, and subsequently in English on September 11, 2010, to positive reviews. A sequel, Enderal: The Shards of Order, was released in 2016.",
-      "aliases": [
-        "Nehrim: At Fate's Edge"
-      ],
-      "parentSlug": "elder-scrolls",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Nehrim:_At_Fate%27s_Edge",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true
-      }
-    },
-    {
-      "slug": "skyblivion",
-      "name": "Skyblivion",
-      "type": "work",
-      "evidence": "fiction",
-      "short_description": "Skyblivion in elder scrolls.",
-      "description": "Skyblivion is an upcoming action role-playing video game. It is a fan-made game remake of The Elder Scrolls IV: Oblivion (2006) developed through the Creation Engine of Bethesda Game Studios as a total conversion mod for The Elder Scrolls V: Skyrim (2011). It is scheduled to be released in 2026. The game development began around 2012 as part of The Elder Scrolls Renewal Project (also known as TES Renewal) and was initially intended to be a port before it was switched to a full remake by 2014. Pre-release reception has been positive.\nSince 2016, the team released several trailers, including \"Skyblivion – Return To Cyrodiil\", \"The Elder Scrolls: Skyblivion – Teaser Trailer\", and \"Official Release Year Announcement Trailer\", the latest of which set a release date of 2025 which was later pushed back to 2026. In November 2016, the project lead Kyle Rebel (also known as Rebelzize) started to send out invites on Nexus Mods in the hope of attracting more volunteers. More people joined and the \"Skyblivion – Return To Cyrodiil\" trailer was published in December 2016, resulting in an influx of new volunteers. A Developer Map and Road Map series was released to show the game development.",
-      "aliases": [
-        "Skyblivion"
-      ],
-      "parentSlug": "elder-scrolls",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Skyblivion",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true
-      }
-    },
-    {
-      "slug": "skywind",
-      "name": "Skywind",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Skywind in elder scrolls.",
-      "description": "Skywind is an upcoming non-commercial fan-made total conversion mod for The Elder Scrolls V: Skyrim (2011), which aims to faithfully recreate the world of The Elder Scrolls III: Morrowind (2002) in the Creation Engine. It features improved smithing, crafting, and combat systems, along with numerous other Skyrim mechanics and features integrated into the Morrowind setting. In order to run Skywind, ownership of both Skyrim: Special Edition and Morrowind (likely the Game of the Year Edition) is required. As of 2025, the mod is still in development.\nSkywind began development in 2012 as part of The Elder Scrolls Renewal Project (also known as TES Renewal). Earlier, a mod was being developed as a porting of Morrowind into the Oblivion engine as part of the Morroblivion project, which inspired Skywind. While the characters of Morrowind shared only a few voice actors, Skywind will contain voice acting for the majority of in-game characters. Pre-release reception has been positive.",
-      "aliases": [
-        "Skywind"
-      ],
-      "parentSlug": "elder-scrolls",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Skywind",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true
-      }
-    },
-    {
-      "slug": "tamriel-rebuilt",
-      "name": "Tamriel Rebuilt",
-      "type": "work",
-      "evidence": "fiction",
-      "short_description": "Tamriel Rebuilt in elder scrolls.",
-      "description": "Tamriel Rebuilt is a third-party modification for The Elder Scrolls III: Morrowind, a 2002 role-playing video game published by Bethesda Softworks. Founded in 2001, the Tamriel Rebuilt project is a long-term collaborative effort by volunteer modders to expand the content of Morrowind to include wider settings consistent with the setting of the Elder Scrolls' universe of Tamriel. Since foundation, the project has published ten releases for Morrowind, described as expansions, that allow the player to travel to and explore the mainland of the province of Morrowind, featuring new factions and quests. In 2006, Tamriel Rebuilt briefly launched a secondary project to recreate the province of Hammerfell in the succeeding Elder Scrolls game, The Elder Scrolls IV: Oblivion, although the project was cancelled in 2009. \nTamriel Rebuilt has formally released ten expansions for Morrowind for download and one for Oblivion. The project has been praised for its scope, detail and faithfulness of its additions, with critics observing that the content has since eclipsed the size and features of the original game.",
-      "aliases": [
-        "Tamriel Rebuilt"
-      ],
-      "parentSlug": "elder-scrolls",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Tamriel_Rebuilt",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true
-      }
-    },
-    {
-      "slug": "the-infernal-city",
-      "name": "The Infernal City",
-      "type": "place",
-      "evidence": "fiction",
-      "short_description": "The Infernal City in elder scrolls.",
-      "description": "The Infernal City is a fantasy novel by Greg Keyes. It is the first of two published books based on The Elder Scrolls series of video games. It was published on November 24, 2009, by Titan Books in the UK, and Del Rey Books in the US.",
-      "aliases": [
-        "The Infernal City"
-      ],
-      "parentSlug": "elder-scrolls",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Infernal_City",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true
-      }
-    },
-    {
-      "slug": "lord-of-souls",
-      "name": "Lord of Souls",
-      "type": "work",
-      "evidence": "fiction",
-      "short_description": "Lord of Souls in elder scrolls.",
-      "description": "Lord of Souls is a fantasy novel by Greg Keyes. It is the second of two books based on The Elder Scrolls series of video games. It was published on September 27, 2011, by Titan Books in the UK, and by Del Rey Books in the US.",
-      "aliases": [
-        "Lord of Souls"
-      ],
-      "parentSlug": "elder-scrolls",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/Lord_of_Souls",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true
-      }
-    },
-    {
-      "slug": "almalexia",
-      "name": "Almalexia",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Almalexia in elder scrolls.",
-      "description": "Almalexia is a Chimer goddess and a member of the Tribunal. She is a prominent member of the Ebonheart Pact and has some degree of influence in the decisions it makes.\n\nShe primarily appears in Deshaan, which features Mournhold, capital of the Ebonheart Pact. She was once the mortal wife of Indoril Nerevar, until their marriage ended after his death at the Battle of Red Mountain. With Vivec and Sotha Sil, Almalexia used Keening, Sunder and Wraithguard on the Heart of Lorkhan to become gods.\n\nSince then, the Tribunal as they were now called became the living gods of the Dunmer people, using their godlike powers to aid them in times of chaos and strife. Her public image is that of a kind and nurturing mother who offers council to the Dunmer people, and leads them along with her fellow Tribunal in times of war, often seen as the more popular of the three.\n\nAfter reporting to Almalexia, she will thank the Vestige for their service, rewarding them with her lantern and bestowing higher authority upon them.",
-      "aliases": [
-        "Almalexia"
-      ],
-      "parentSlug": "elder-scrolls",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Tribunal",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true,
-        "canon": false,
-        "fandom_url": "https://elderscrolls.fandom.com/wiki/Almalexia_(Online)",
-        "fandom_title": "Almalexia (Online)",
-        "source_fandom": "elderscrolls.fandom.com",
-        "sources": [
-          "wikipedia",
-          "fandom"
-        ],
-        "kind": "character"
-      },
-      "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/5/53/Almalexia_%28Online%29_Full-body.png/revision/latest/scale-to-width-down/360?cb=20201008150449",
-      "image_source": "https://elderscrolls.fandom.com/wiki/Almalexia_(Online)",
-      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork.",
-      "image_license": "fair_use",
-      "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Almalexia (Online)"
-    },
-    {
-      "slug": "caius-cosades",
-      "name": "Caius Cosades",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Caius Cosades in elder scrolls.",
-      "description": "Caius Cosades was an Imperial member of the Blades, being the Grand Spymaster of the Blades in Vvardenfell. Before the revelation of the Nerevarine Prophecy, Caius Cosades was in contact with the Nerevarine, when they arrived into Vvardenfell.\n\nDuring the events of 3E 427, Caius Cosades was the head of the Blades in Vvardenfell, being situated in the city-state of Balmora. Cosades received information from Uriel Septim VII himself about a prisoner that piqued the Emperor's interest, he wants this prisoner to fulfill the Nerevarine Prophecy for his own deeds. After the prisoner was brought to Seyda Neen, they were redirected to Balmora, where they would meet with Caius Cosades at his home. At that point, Cosades had named the prisoner, a novice of the Blades.\n\nFrom that point on, Cosades had used the prisoner as an agent, sending them on quests and have them meet with correspondents such as Hasphat Antabolis of the Fighters Guild, a handful of informants in Vivec, and Sul-Matuul of the Urshilaku Tribe, and a handful of others. As time went on, the plan was going smoothly and it seemed that this Agent was the Nerevarine of legend. After he had sent the Agent to the cavern of Ilunibi and the Agent slew Dagoth Gares, the Agent had contracted Corprus. He would then send them to Divayth Fyr, who would cure them. When the Agent returned, he was promoted to Operative but told this was their last order from Cosades, who was recalled to the Imperial City. Caius presumed it had to do with the Emperor's health and his succession, and so assumed he would be gone for a while. Caius left his house, his ring, his Blades pants, and his Blades shirt for the Agent until his return. Caius Cosades traveled back to Cyrodiil, informing the Agent that he feared for the future of the Empire. The Operative continued their journey, fulfilling the Nerevarine Prophecy.\n\nAfter the Oblivion Crisis in 3E 433, Caius Cosades was stationed in the city-state of Kragenmoor, which was under the occupation of House Hlaalu. Fortunately for him, the Crisis did not entirely affect Kragenmoor and the local shrine of Akatosh had pilgrims coming in the ten-folds. He would eventually move back to Cyrodiil and the city-state of Kvatch to see his sister and the local festival. Once he had returned, he visited the tomb of Uriel Septim VII, paying his respects to his old friend. Praising how Martin Septim turned out, as opposed to his other sons with Caula Voria. Caius would eventually leave and continue his duties as a Spymaster of the Blades.",
-      "aliases": [
-        "Caius Cosades"
-      ],
-      "parentSlug": "elder-scrolls",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true,
-        "canon": false,
-        "fandom_url": "https://elderscrolls.fandom.com/wiki/Caius_Cosades",
-        "fandom_title": "Caius Cosades",
-        "source_fandom": "elderscrolls.fandom.com",
-        "sources": [
-          "wikipedia",
-          "fandom"
-        ]
-      },
-      "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/4/40/Caius_Cosades_card_art.png/revision/latest/scale-to-width-down/360?cb=20200529123337",
-      "image_source": "https://elderscrolls.fandom.com/wiki/Caius_Cosades",
-      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork.",
-      "image_license": "fair_use",
-      "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Caius Cosades"
-    },
-    {
-      "slug": "dagoth-ur",
-      "name": "Dagoth Ur",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Dagoth Ur in elder scrolls.",
-      "description": "Dagoth Ur, known as Voryn Dagoth in life, Awakened Lord of the Sixth House, Lord Dagoth, and Father of the Mountain to his followers, and whom Vivec would later come to call The Sharmat, was a powerful Chimer lord and Lord High Councillor to House Dagoth, and is the main antagonist of . He is also called Devil Dagoth Ur or Devil of Dagoth.\n\nVoryn Dagoth was born into the Great House Dagoth. Accounts of his early life are few, but it is known that he did later in life become the Lord High Councillor of the house and a retainer to Indoril Nerevar. In 1E 416, the Chimer and Dwemer created an alliance known as the First Council formed by Nerevar and Dumac, the king of the Dwemer in Morrowind. The First Council lasted for centuries until Voryn, through unknown means, claimed to have discovered that the Tonal Architect, Kagrenac had found the Heart of Lorkhan, and that the Dwemer would use the power of the Heart to create a giant machine known as the Numidium to use against the Chimer. Voryn, along with Nerevar, Vivec, Nerevar's wife Almalexia, and Sotha Sil were the only ones before Kagrenac to learn about the Heart. The Daedric Prince Azura later confirmed Voryn's claims and Nerevar declared war on the Dwemer, culminating in the race's disappearance at the Battle of Red Mountain.\n\nAfter the defeat of the Dwemer, the artifacts Sunder, Keening, and Wraithguard fell into the hands of Nerevar, who had to decide what to do with the tools. Voryn urged the destruction of the tools while Nerevar convened with the Tribunal and Azura. Unknown to Nerevar and the Tribunal, Voryn had experimented on the tools and the Heart and had managed to steal its divine energy. Voryn now called himself Dagoth Ur from that point on, though other sources claim that Nerevar coined the name. Nerevar and the Tribunal's guards fought and drove off Dagoth Ur, who was thought to have died. Nerevar was said to have died from his injuries fighting Dagoth Ur, though the cause of Nerevar's death is often disputed. Other accounts suggest it was the Tribunal who killed Nerevar, but only after he had vowed along with the Tribunal to never use the tools.\n\nThe Tribunal took possession of the tools, and after some time, Sotha Sil managed to find a way to become gods by using the tools. The Tribunal traveled to Red Mountain and used Kagrenac's tools on the Heart of Lorkhan, using its power to attain immortality. For breaking their promise to never use the tools, Azura appeared in anger, turning the Chimer into the Dunmer and prophesying that Nerevar would be incarnated and curse them for their deeds. Dagoth Ur, however, managed to maintain a connection to the Heart through unknown means and managed to stay alive and immortal, although temporarily non-corporeal and presumed to be dead by most.",
-      "aliases": [
-        "Dagoth Ur"
-      ],
-      "parentSlug": "elder-scrolls",
-      "wikidata_id": null,
-      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind",
-      "metadata": {
-        "source": "wikipedia-category",
-        "discovered": true,
-        "canon": false,
-        "fandom_url": "https://elderscrolls.fandom.com/wiki/Dagoth_Ur_(Character)",
-        "fandom_title": "Dagoth Ur (Character)",
-        "source_fandom": "elderscrolls.fandom.com",
-        "sources": [
-          "wikipedia",
-          "fandom"
-        ]
-      },
-      "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/0/0d/Dagoth_Ur_Character.png/revision/latest/scale-to-width-down/360?cb=20140330101451",
-      "image_source": "https://elderscrolls.fandom.com/wiki/Dagoth_Ur_(Character)",
-      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork.",
-      "image_license": "fair_use",
-      "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Dagoth Ur (Character)"
-    },
-    {
       "slug": "miraak",
       "name": "Miraak",
       "type": "person",
@@ -1385,6 +1060,24 @@
       "image_alt": "Identification thumbnail for Odahviing"
     },
     {
+      "slug": "sahrotaar",
+      "name": "Sahrotaar",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Sahrotaar in elder scrolls.",
+      "description": "The Elder Scrolls V: Skyrim – Dragonborn is the third and final add-on for the action role-playing open world video game The Elder Scrolls V: Skyrim. It was developed by Bethesda Game Studios and released by Bethesda Softworks on the Xbox Live Marketplace on December 4, 2012. The Microsoft Windows version was released on February 5, 2013, and the PlayStation 3 version was released on February 12, 2013.\nDragonborn involves the player character (the current Dragonborn) coming into contact with the first Dragonborn, Miraak. The expansion takes place on the island of Solstheim, previously featured in the Bloodmoon expansion for The Elder Scrolls III: Morrowind.",
+      "aliases": [
+        "Sahrotaar"
+      ],
+      "parentSlug": "elder-scrolls",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim_%E2%80%93_Dragonborn",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true
+      }
+    },
+    {
       "slug": "ulfric-stormcloak",
       "name": "Ulfric Stormcloak",
       "type": "person",
@@ -1447,6 +1140,24 @@
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
       "image_alt": "Identification thumbnail for General Tullius"
+    },
+    {
+      "slug": "volkihar",
+      "name": "Volkihar",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Volkihar in elder scrolls.",
+      "description": "The Elder Scrolls V: Skyrim – Dawnguard is a downloadable content add-on for the action role-playing open world video game The Elder Scrolls V: Skyrim. It was developed by Bethesda Game Studios and published by Bethesda Softworks. The Xbox 360 version of Dawnguard was launched in English-speaking territories on June 26, 2012, and in France, Germany, Italy, and Spain in mid-July 2012. It was released on Microsoft Windows via Steam on August 2, 2012. Due to performance issues, the PlayStation 3 release of Dawnguard was delayed until February 26, 2013.\nDawnguard revolves around an ancient prophecy predicted by an Elder Scroll. The Dawnguard is an organization dedicated to hunting vampires who attempt to stop the return of a powerful clan of Vampires named the Volkihar who possess the power to turn into monstrous \"vampire lords\". The Volkihar's leader Lord Harkon intends to use an Elder Scroll to permanently blot out the sun. The player can choose to either aid the Dawnguard or join the Volkihar, becoming a vampire lord themselves in the process. The DLC includes new armors, items, weapons, characters, etc.",
+      "aliases": [
+        "Volkihar"
+      ],
+      "parentSlug": "elder-scrolls",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim_%E2%80%93_Dawnguard",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true
+      }
     },
     {
       "slug": "pelinal-whitestrake",
@@ -1545,6 +1256,24 @@
       "image_alt": "Identification thumbnail for Black Marsh"
     },
     {
+      "slug": "castle-volkihar",
+      "name": "Castle Volkihar",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Castle Volkihar in elder scrolls.",
+      "description": "The Elder Scrolls V: Skyrim – Dawnguard is a downloadable content add-on for the action role-playing open world video game The Elder Scrolls V: Skyrim. It was developed by Bethesda Game Studios and published by Bethesda Softworks. The Xbox 360 version of Dawnguard was launched in English-speaking territories on June 26, 2012, and in France, Germany, Italy, and Spain in mid-July 2012. It was released on Microsoft Windows via Steam on August 2, 2012. Due to performance issues, the PlayStation 3 release of Dawnguard was delayed until February 26, 2013.\nDawnguard revolves around an ancient prophecy predicted by an Elder Scroll. The Dawnguard is an organization dedicated to hunting vampires who attempt to stop the return of a powerful clan of Vampires named the Volkihar who possess the power to turn into monstrous \"vampire lords\". The Volkihar's leader Lord Harkon intends to use an Elder Scroll to permanently blot out the sun. The player can choose to either aid the Dawnguard or join the Volkihar, becoming a vampire lord themselves in the process. The DLC includes new armors, items, weapons, characters, etc.",
+      "aliases": [
+        "Castle Volkihar"
+      ],
+      "parentSlug": "elder-scrolls",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim_%E2%80%93_Dawnguard",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true
+      }
+    },
+    {
       "slug": "chorrol",
       "name": "Chorrol",
       "type": "place",
@@ -1577,6 +1306,42 @@
       "image_alt": "Identification thumbnail for Chorrol"
     },
     {
+      "slug": "cyrodil",
+      "name": "Cyrodil",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Cyrodil in elder scrolls.",
+      "description": "The Elder Scrolls is a series of action role-playing video games primarily developed by Bethesda Game Studios and published by Bethesda Softworks. The series focuses on free-form gameplay in an open world. Most games in the series have been critically and commercially successful, with The Elder Scrolls III: Morrowind (2002), The Elder Scrolls IV: Oblivion (2006) and The Elder Scrolls V: Skyrim (2011) all winning Game of the Year awards from multiple outlets. The series has sold more than 90 million copies worldwide.\nWithin the series' fictional universe, each game takes place on the continent of Tamriel. The setting combines pre-medieval real-world elements, such as a powerful Roman-like Empire, with high fantasy medieval themes, including limited technology, widespread magic use, and the existence of many mythological creatures. The continent is split into a number of provinces inhabited by humans and humanoid fantasy races such as elves, orcs and anthropomorphic animals. A common theme in the lore is that a chosen hero (represented by the player's character) rises to defeat an impending threat, typically a malevolent being or an antagonistic army.\nSince debuting with The Elder Scrolls: Arena in 1994, the series has produced a total of five main games (of which the last three have each featured two or three expansions) as well as several spin-offs. In 2014, a massively multipl",
+      "aliases": [
+        "Cyrodil"
+      ],
+      "parentSlug": "elder-scrolls",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true
+      }
+    },
+    {
+      "slug": "dayspring-canyon",
+      "name": "Dayspring Canyon",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Dayspring Canyon in elder scrolls.",
+      "description": "The Elder Scrolls V: Skyrim – Dawnguard is a downloadable content add-on for the action role-playing open world video game The Elder Scrolls V: Skyrim. It was developed by Bethesda Game Studios and published by Bethesda Softworks. The Xbox 360 version of Dawnguard was launched in English-speaking territories on June 26, 2012, and in France, Germany, Italy, and Spain in mid-July 2012. It was released on Microsoft Windows via Steam on August 2, 2012. Due to performance issues, the PlayStation 3 release of Dawnguard was delayed until February 26, 2013.\nDawnguard revolves around an ancient prophecy predicted by an Elder Scroll. The Dawnguard is an organization dedicated to hunting vampires who attempt to stop the return of a powerful clan of Vampires named the Volkihar who possess the power to turn into monstrous \"vampire lords\". The Volkihar's leader Lord Harkon intends to use an Elder Scroll to permanently blot out the sun. The player can choose to either aid the Dawnguard or join the Volkihar, becoming a vampire lord themselves in the process. The DLC includes new armors, items, weapons, characters, etc.",
+      "aliases": [
+        "Dayspring Canyon"
+      ],
+      "parentSlug": "elder-scrolls",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim_%E2%80%93_Dawnguard",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true
+      }
+    },
+    {
       "slug": "elsweyr",
       "name": "Elsweyr",
       "type": "place",
@@ -1607,6 +1372,24 @@
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
       "image_alt": "Identification thumbnail for Elsweyr"
+    },
+    {
+      "slug": "fort-dawnguard",
+      "name": "Fort Dawnguard",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Fort Dawnguard in elder scrolls.",
+      "description": "The Elder Scrolls V: Skyrim – Dawnguard is a downloadable content add-on for the action role-playing open world video game The Elder Scrolls V: Skyrim. It was developed by Bethesda Game Studios and published by Bethesda Softworks. The Xbox 360 version of Dawnguard was launched in English-speaking territories on June 26, 2012, and in France, Germany, Italy, and Spain in mid-July 2012. It was released on Microsoft Windows via Steam on August 2, 2012. Due to performance issues, the PlayStation 3 release of Dawnguard was delayed until February 26, 2013.\nDawnguard revolves around an ancient prophecy predicted by an Elder Scroll. The Dawnguard is an organization dedicated to hunting vampires who attempt to stop the return of a powerful clan of Vampires named the Volkihar who possess the power to turn into monstrous \"vampire lords\". The Volkihar's leader Lord Harkon intends to use an Elder Scroll to permanently blot out the sun. The player can choose to either aid the Dawnguard or join the Volkihar, becoming a vampire lord themselves in the process. The DLC includes new armors, items, weapons, characters, etc.",
+      "aliases": [
+        "Fort Dawnguard"
+      ],
+      "parentSlug": "elder-scrolls",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim_%E2%80%93_Dawnguard",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true
+      }
     },
     {
       "slug": "hammerfell",
@@ -1763,6 +1546,24 @@
       "image_alt": "Identification thumbnail for Skingrad"
     },
     {
+      "slug": "sky-haven-temple",
+      "name": "Sky Haven Temple",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Sky Haven Temple in elder scrolls.",
+      "description": "The Elder Scrolls V: Skyrim is a 2011 action role-playing game developed by Bethesda Game Studios and published by Bethesda Softworks. It is the fifth main installment in The Elder Scrolls series, following The Elder Scrolls IV: Oblivion (2006), and was released worldwide for Windows, PlayStation 3, and Xbox 360 on November 11, 2011. Skyrim was developed using the Creation Engine. The team opted for a rugged, largely sub-arctic world, after Oblivion's Imperial Province of Cyrodiil, which game director and executive producer Todd Howard considered more unique by comparison.\nThe game is set 201 years after the events of Oblivion and takes place in Skyrim, the northernmost province of Tamriel, a continent on the planet Nirn. Its main story focuses on the player character, the Last Dragonborn, on their quest to defeat Alduin the World-Eater, a dragon prophesied to destroy the world. Throughout the game, the player completes quests and develops the character by improving skills. The game continues the open world tradition of its predecessors by allowing the player to travel to discovered locations in the game world at any time, and to ignore or postpone the main storyline indefinitely.\nUpon release, the game received critical acclaim, with praise for its character advancement, world design, visuals, and the ability to dual-wield in combat. Criticism targeted the melee combat, dragon",
+      "aliases": [
+        "Sky Haven Temple"
+      ],
+      "parentSlug": "elder-scrolls",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true
+      }
+    },
+    {
       "slug": "solstheim",
       "name": "Solstheim",
       "type": "place",
@@ -1793,6 +1594,24 @@
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
       "image_alt": "Identification thumbnail for Solstheim"
+    },
+    {
+      "slug": "soul-cairn",
+      "name": "Soul Cairn",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Soul Cairn in elder scrolls.",
+      "description": "The Elder Scrolls V: Skyrim – Dawnguard is a downloadable content add-on for the action role-playing open world video game The Elder Scrolls V: Skyrim. It was developed by Bethesda Game Studios and published by Bethesda Softworks. The Xbox 360 version of Dawnguard was launched in English-speaking territories on June 26, 2012, and in France, Germany, Italy, and Spain in mid-July 2012. It was released on Microsoft Windows via Steam on August 2, 2012. Due to performance issues, the PlayStation 3 release of Dawnguard was delayed until February 26, 2013.\nDawnguard revolves around an ancient prophecy predicted by an Elder Scroll. The Dawnguard is an organization dedicated to hunting vampires who attempt to stop the return of a powerful clan of Vampires named the Volkihar who possess the power to turn into monstrous \"vampire lords\". The Volkihar's leader Lord Harkon intends to use an Elder Scroll to permanently blot out the sun. The player can choose to either aid the Dawnguard or join the Volkihar, becoming a vampire lord themselves in the process. The DLC includes new armors, items, weapons, characters, etc.",
+      "aliases": [
+        "Soul Cairn"
+      ],
+      "parentSlug": "elder-scrolls",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim_%E2%80%93_Dawnguard",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true
+      }
     },
     {
       "slug": "sovngarde",
@@ -1981,6 +1800,186 @@
       }
     },
     {
+      "slug": "skyrim-modding",
+      "name": "Skyrim modding",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Skyrim modding in elder scrolls.",
+      "description": "Skyrim modding is the fan-made modification of The Elder Scrolls V: Skyrim (2011), a fantasy role-playing video game. One of the most modded video games of all time, it has over 70,000 mod submissions on Nexus Mods and 28,000 in the Steam Workshop. Many of these mods were created for utility reasons, patching numerous bugs left in the game by Bethesda Softworks, while also improving the game's usability and character movement. Other mods add new quests and characters, and update the game's graphics and animations, with an adult mod community also thriving. Several total conversion mods have been made and others are in development.\nAs the vanilla game has a reputation for outdated mechanics, it is common for players to mod Skyrim even prior to their first playthrough. Traditionally, Skyrim mods have been largely free to download. Valve Corporation walked back its attempts to add paid mods to Skyrim, following backlash from fans. These mods made their way to the PlayStation 4 and Xbox One with the release of Skyrim: Special Edition (2016). Fans were also able to create an unofficial modding scene for the Nintendo Switch version. Bethesda created a system of microtransactions for paid mods, known as Creation Club, several of which were included in Skyrim: Anniversary Edition (2021).\n\n",
+      "aliases": [
+        "Skyrim modding"
+      ],
+      "parentSlug": "elder-scrolls",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Skyrim_modding",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true
+      }
+    },
+    {
+      "slug": "creation-club",
+      "name": "Creation Club",
+      "type": "place",
+      "evidence": "fiction",
+      "short_description": "Creation Club in elder scrolls.",
+      "description": "Creations (formerly Creation Club) is a system of microtransactions designed by Bethesda Game Studios for its games Fallout 4, The Elder Scrolls V: Skyrim – Special Edition and Starfield. The system was launched for Fallout 4 on August 29, 2017.\nAll (at the time) available Creation Club content for Skyrim was bundled with the Anniversary Edition, released on November 11, 2021 to coincide with the game's tenth anniversary.\nOn December 5, 2023, Bethesda replaced Creation Club with Creations, which combined paid creations and free mods. Modders can upload their free mods, or apply for the Bethesda Game Studios Verified Creator Program, which allows them to receive royalties for their paid mods. With Creation Club, modders could only receive payment if they were hired and paid by Bethesda. Creations thus makes it easier for modders to get paid for their mods.",
+      "aliases": [
+        "Creation Club"
+      ],
+      "parentSlug": "elder-scrolls",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Creation_Club",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true
+      }
+    },
+    {
+      "slug": "enderal",
+      "name": "Enderal",
+      "type": "topic",
+      "evidence": "fiction",
+      "short_description": "Enderal in elder scrolls.",
+      "description": "Enderal: The Shards of Order is a total conversion mod of The Elder Scrolls V: Skyrim developed by SureAI as a sequel to Nehrim: At Fate's Edge. After five years of development, it was released on July 3, 2016, initially in German only. An English version was released August 16, 2016. An expansion, Forgotten Stories, was released on February 14, 2019.",
+      "aliases": [
+        "Enderal"
+      ],
+      "parentSlug": "elder-scrolls",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Enderal",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true
+      }
+    },
+    {
+      "slug": "the-forgotten-city",
+      "name": "The Forgotten City",
+      "type": "place",
+      "evidence": "fiction",
+      "short_description": "The Forgotten City in elder scrolls.",
+      "description": "The Forgotten City is a mystery adventure role-playing game developed by Australian developer Modern Storyteller and published by Dear Villagers with additional support from Film Victoria. It is a full game adaptation of the critically acclaimed Elder Scrolls V: Skyrim mod of the same name. Initially released in 2015 as a game mod, the full game was released in July 2021 for Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One, and Xbox Series X/S. A cloud-based version launched in September 2021 for the Nintendo Switch.\n\n",
+      "aliases": [
+        "The Forgotten City"
+      ],
+      "parentSlug": "elder-scrolls",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Forgotten_City",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true
+      }
+    },
+    {
+      "slug": "nehrim-at-fates-edge",
+      "name": "Nehrim: At Fate's Edge",
+      "type": "topic",
+      "evidence": "fiction",
+      "short_description": "Nehrim: At Fate's Edge in elder scrolls.",
+      "description": "Nehrim: At Fate's Edge is a total conversion mod of The Elder Scrolls IV: Oblivion developed by the German team SureAI over the span of four years. It was released in German on June 9, 2010, and subsequently in English on September 11, 2010, to positive reviews. A sequel, Enderal: The Shards of Order, was released in 2016.",
+      "aliases": [
+        "Nehrim: At Fate's Edge"
+      ],
+      "parentSlug": "elder-scrolls",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nehrim:_At_Fate%27s_Edge",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true
+      }
+    },
+    {
+      "slug": "skyblivion",
+      "name": "Skyblivion",
+      "type": "work",
+      "evidence": "fiction",
+      "short_description": "Skyblivion in elder scrolls.",
+      "description": "Skyblivion is an upcoming action role-playing video game. It is a fan-made game remake of The Elder Scrolls IV: Oblivion (2006) developed through the Creation Engine of Bethesda Game Studios as a total conversion mod for The Elder Scrolls V: Skyrim (2011). It is scheduled to be released in 2026. The game development began around 2012 as part of The Elder Scrolls Renewal Project (also known as TES Renewal) and was initially intended to be a port before it was switched to a full remake by 2014. Pre-release reception has been positive.\nSince 2016, the team released several trailers, including \"Skyblivion – Return To Cyrodiil\", \"The Elder Scrolls: Skyblivion – Teaser Trailer\", and \"Official Release Year Announcement Trailer\", the latest of which set a release date of 2025 which was later pushed back to 2026. In November 2016, the project lead Kyle Rebel (also known as Rebelzize) started to send out invites on Nexus Mods in the hope of attracting more volunteers. More people joined and the \"Skyblivion – Return To Cyrodiil\" trailer was published in December 2016, resulting in an influx of new volunteers. A Developer Map and Road Map series was released to show the game development.",
+      "aliases": [
+        "Skyblivion"
+      ],
+      "parentSlug": "elder-scrolls",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Skyblivion",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true
+      }
+    },
+    {
+      "slug": "skywind",
+      "name": "Skywind",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Skywind in elder scrolls.",
+      "description": "Skywind is an upcoming non-commercial fan-made total conversion mod for The Elder Scrolls V: Skyrim (2011), which aims to faithfully recreate the world of The Elder Scrolls III: Morrowind (2002) in the Creation Engine. It features improved smithing, crafting, and combat systems, along with numerous other Skyrim mechanics and features integrated into the Morrowind setting. In order to run Skywind, ownership of both Skyrim: Special Edition and Morrowind (likely the Game of the Year Edition) is required. As of 2025, the mod is still in development.\nSkywind began development in 2012 as part of The Elder Scrolls Renewal Project (also known as TES Renewal). Earlier, a mod was being developed as a porting of Morrowind into the Oblivion engine as part of the Morroblivion project, which inspired Skywind. While the characters of Morrowind shared only a few voice actors, Skywind will contain voice acting for the majority of in-game characters. Pre-release reception has been positive.",
+      "aliases": [
+        "Skywind"
+      ],
+      "parentSlug": "elder-scrolls",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Skywind",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true
+      }
+    },
+    {
+      "slug": "tamriel-rebuilt",
+      "name": "Tamriel Rebuilt",
+      "type": "work",
+      "evidence": "fiction",
+      "short_description": "Tamriel Rebuilt in elder scrolls.",
+      "description": "Tamriel Rebuilt is a third-party modification for The Elder Scrolls III: Morrowind, a 2002 role-playing video game published by Bethesda Softworks. Founded in 2001, the Tamriel Rebuilt project is a long-term collaborative effort by volunteer modders to expand the content of Morrowind to include wider settings consistent with the setting of the Elder Scrolls' universe of Tamriel. Since foundation, the project has published ten releases for Morrowind, described as expansions, that allow the player to travel to and explore the mainland of the province of Morrowind, featuring new factions and quests. In 2006, Tamriel Rebuilt briefly launched a secondary project to recreate the province of Hammerfell in the succeeding Elder Scrolls game, The Elder Scrolls IV: Oblivion, although the project was cancelled in 2009. \nTamriel Rebuilt has formally released ten expansions for Morrowind for download and one for Oblivion. The project has been praised for its scope, detail and faithfulness of its additions, with critics observing that the content has since eclipsed the size and features of the original game.",
+      "aliases": [
+        "Tamriel Rebuilt"
+      ],
+      "parentSlug": "elder-scrolls",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Tamriel_Rebuilt",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true
+      }
+    },
+    {
+      "slug": "the-infernal-city",
+      "name": "The Infernal City",
+      "type": "place",
+      "evidence": "fiction",
+      "short_description": "The Infernal City in elder scrolls.",
+      "description": "The Infernal City is a fantasy novel by Greg Keyes. It is the first of two published books based on The Elder Scrolls series of video games. It was published on November 24, 2009, by Titan Books in the UK, and Del Rey Books in the US.",
+      "aliases": [
+        "The Infernal City"
+      ],
+      "parentSlug": "elder-scrolls",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/The_Infernal_City",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true
+      }
+    },
+    {
+      "slug": "lord-of-souls",
+      "name": "Lord of Souls",
+      "type": "work",
+      "evidence": "fiction",
+      "short_description": "Lord of Souls in elder scrolls.",
+      "description": "Lord of Souls is a fantasy novel by Greg Keyes. It is the second of two books based on The Elder Scrolls series of video games. It was published on September 27, 2011, by Titan Books in the UK, and by Del Rey Books in the US.",
+      "aliases": [
+        "Lord of Souls"
+      ],
+      "parentSlug": "elder-scrolls",
+      "wikidata_id": null,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lord_of_Souls",
+      "metadata": {
+        "source": "wikipedia-category",
+        "discovered": true
+      }
+    },
+    {
       "slug": "anstius-metchim",
       "name": "Anstius Metchim",
       "type": "person",
@@ -1999,8 +1998,7 @@
         "source_fandom": "elderscrolls.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -2022,8 +2020,7 @@
         "source_fandom": "elderscrolls.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -2051,8 +2048,7 @@
         "source_fandom": "elderscrolls.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -2080,8 +2076,7 @@
         "source_fandom": "elderscrolls.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -2103,8 +2098,7 @@
         "source_fandom": "elderscrolls.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -2126,8 +2120,7 @@
         "source_fandom": "elderscrolls.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -2149,8 +2142,7 @@
         "source_fandom": "elderscrolls.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -2172,8 +2164,7 @@
         "source_fandom": "elderscrolls.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -2195,8 +2186,7 @@
         "source_fandom": "elderscrolls.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -2218,8 +2208,7 @@
         "source_fandom": "elderscrolls.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -2247,8 +2236,7 @@
         "source_fandom": "elderscrolls.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -2276,8 +2264,7 @@
         "source_fandom": "elderscrolls.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -4494,29 +4481,28 @@
       "slug": "sotha-sil",
       "name": "Sotha Sil",
       "type": "person",
-      "description": "Sotha Sil, also called Lord Seht, was one of the members of the Tribunal, the divine rulers of Morrowind. For his feats, Sotha Sil was called an architect of time, a binder of Oblivion, and the \"Mystery of Morrowind.\" He is known by many other titles, such as the Clockwork God, Father of Mysteries, the Inspiration of Craft and Sorcery, the Light of Knowledge, Magus, Magician, Sorcerer, Tinkerer, the \"si\" in ALMSIVI, and later a Saint of the New Temple.\n\nHe was said to be reshaping the world from his hidden Clockwork City. Sotha Sil the Magus was one of the three God-like Kings of Morrowind, a Pillar of the Tribunal Temple, and the patron of artificers and wizards. Sotha Sil was the mightiest wizard and the wisest councilor of the First Council, and also spent time training the Psijic Order on Artaeum. He was the companion and teacher of Vivec and Nerevar. According to the Tribunal Temple Cult, Sotha Sil was the Light of Knowledge and the Inspiration of Craft and Sorcery, and Azura was the Anticipation of Sotha Sil.\n\nSotha Sil was born a Chimer to the small house of Sotha in Ald Sotha, Resdayn, now known as Morrowind. He was known to have had a mother, whose name is unknown, and a sister, Sotha Nall. From one of his memories, Sotha Sil's mother comforted the young boy after he had sustained a minor injury, using the childhood nursery tale of the Brave Little Scrib to inspire courage in him. Another memory involved his sister, Nall, trying to convince Sil to enter an off-limits area, an idea that Sil was hesitant towards.\n\nAccording to one of Almalexia's homilies, a young Sotha Sil was playing in a Kwama Egg Mine as a child, throwing stones at small scribs for amusement. One scrib lifted its head up and begged Sotha Sil to stop, telling him that for them, it was suffering and death when they were hit by the stones. This taught the young Chimer that what are idle amusements of one can be solemn tortures for another. Another homily tells of young Sotha laying down and gazing at the stars at night. In his passion for maths, Sil decided to count every star and give each of them a name, eventually falling asleep. When he awoke, he saw that the stars had vanished, and began to weep, learning the lesson that time cages all tasks.",
+      "description": "Sotha Sil, also called Lord Seht or the Clockwork God, is one of the three members of the Tribunal, the divine rulers of Morrowind, and the creator of the Clockwork City. The main questline of involves helping Sotha Sil find a powerful artifact and stopping a mysterious Daedric threat that has beset him.\n\nDivayth Fyr has noticed that something is off with Sotha Sil, as he has been acting much unlike himself. He asks the Vestige to investigate, and after interviewing a number of workers and inspecting the lanterns Sotha Sil ordered to be removed, it is discovered Sil is avoiding a unique invisible light within the lamps. Fyr asks the Vestige to place one of the old lanterns in the hall, and convinces \"Sotha Sil\" into giving a lecture there. He asks the Vestige to activate the lamp to determine who is really masquerading as Sotha Sil, once the imposter finishes delivering his speech.\n\nUpon activation of the lantern, \"Sotha Sil\" yells in pain, and transforms into a purple shadow closely resembling Sotha Sil, revealing that the shadow has been disguised as him for quite some time.\n\nWithin the final chamber of the Cogitum Centralis, The Throne Aligned, Sotha Sil will be found incapacitated and subdued by a contraption around his head, with the Skeleton Key inside. His Shadow will attack the Vestige and Proctor Luciana Pullo to defend the key, and once it is defeated, a dark aura of pitch-black energy will surround the area. It is revealed to be Nocturnal who is casting it, with the energy only stopped by Proctor Luciana and the recently arrived Divayth Fyr. The Vestige must activate the Skeleton Key to free Sotha Sil, who will then absorb the energy stolen by his Shadow and address Noctural.",
       "short_description": "Sotha Sil, also called Lord Seht, was one of the members of the Tribunal, the divine rulers of Morrowind. For his feats, Sotha Sil was called an architect of time, a binder of Oblivion, and the \"Mystery of Morrowind.\"…",
       "evidence": "fiction",
       "parentSlug": "elder-scrolls",
       "wikipedia_url": null,
       "wikidata_id": null,
       "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/3/3c/Sotha_Sil_ESO_%281%29.png/revision/latest/scale-to-width-down/360?cb=20170919050156",
-      "image_source": "https://elderscrolls.fandom.com/wiki/Sotha_Sil",
+      "image_source": "https://elderscrolls.fandom.com/wiki/Sotha_Sil_(Online)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Sotha Sil",
+      "image_alt": "Identification thumbnail for Sotha Sil (Online)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://elderscrolls.fandom.com/wiki/Sotha_Sil",
-        "fandom_title": "Sotha Sil",
+        "fandom_url": "https://elderscrolls.fandom.com/wiki/Sotha_Sil_(Online)",
+        "fandom_title": "Sotha Sil (Online)",
         "source_fandom": "elderscrolls.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -5302,8 +5288,8 @@
     {
       "slug": "vestige",
       "name": "Vestige",
-      "type": "person",
-      "description": "The Vestige, also known as the Soulless One, and later Meridia's Champion, the Hero of Coldharbour, and the Savior of Tamriel, is the player character and main protagonist in .\n\nAs with most Elder Scrolls games, the player starts off as a prisoner, referred to throughout the game as the Vestige. The Vestige, at the game's opening, has been captured by Daedric Prince Molag Bal and is imprisoned in his realm of Oblivion known as Coldharbour; their soul has been stolen. There is an ancient prophecy in the Elder Scrolls which states that the Vestige will thwart Molag Bal's plan to merge the world of Nirn with the realm of Coldharbour in Oblivion. During the events of , the Vestige attempts to reclaim their soul from the Daedric Prince and stop the merging of Oblivion and Nirn.\n\nThe Vestige was one of many mortals sacrificed by the Worm Cult to Molag Bal, specifically by Mannimarco himself. They were sent to The Wailing Prison in Coldharbour. There, the Vestige was contacted by the Prophet, who informed them that they had an important part to play in foiling Molag Bal's schemes. First, the Vestige had to escape and locate a Nord half-giant named Lyris Titanborn to help free the Prophet. At that moment, the prisoners overpowered the Dremora guards and began liberating the other prisoners, including the Vestige. They fought their way through the prison, eventually finding Lyris and, with the aid of a mad Soul-Shriven knight named Cadwell, were able to locate the Prophet's cell. However, for him to be liberated, someone had to take his place in the cell. Lyris switched places with the Prophet, who vowed they would find a way to free her. The Prophet and the Vestige made their way to one of the Dark Anchors and, with the aid of the Prophet's magic, were able to return to Nirn.\n\nThe Vestige and the Prophet were not returned to the same location on Nirn, but they eventually reunited at a place called the Harborage. There, the Prophet explained the events that led up to his capture. Several years prior, the Cyrodilic Emperor Varen Aquilarios desired to become Dragonborn in order to light the Dragonfires in the Imperial City to legitimize his claim to the Ruby Throne. Mannimarco was able to convince him that he knew a ritual that could accomplish this, but that it required the Amulet of Kings. Along with the leader of the Dragonguard Sai Sahan, Lyris Titanborn and the High Chancellor of the Elder Council Abnur Tharn, they became the Five Companions. They were able to retrieve the Amulet of Kings and begin the ritual. At that moment, Mannimarco used his magic to immobilize the others and reveal his true intentions: he was an agent of Molag Bal, and the ritual in fact weakened the barriers between Nirn and Oblivion in an event known as the Soulburst. This event allowed Molag Bal to initiate a Planemeld, a forceful merging of worlds.",
+      "type": "concept",
+      "description": "Vestige, also called Morphotype, is the essence of any Daedra, analogous of the soul of mortals.\n\nWhen Daedra die, their Vestige returns to their home realm in Oblivion, where it gradually accretes Chaotic Creatia which slowly takes on the form of the Daedra, granting it a new physical form. The same process happens for Daedra who die in their home realm too.\n\nEach Soul Shriven is a mortal kidnapped from Mundus at the moment of death, his or her soul stolen by Molag Bal, and given in exchange the vestige that enables him or her to form a counterfeit body in Coldharbour. But they are not native to Oblivion, so a Soul Shriven's body is an imitation of the body worn in life, suffering rapid wear and decay until it dies, only for its vestige to form a body once again, over and over, like a Daedra. It is also believed that the lack of an Anuic soul makes the bodies of the Soul Shriven deformed. Like the Daedra, the Soul Shriven are bound to their home realm of Oblivion, namely Coldharbour. However, it was still believed they were linked to Coldharbour in some manner and depended on it to reform since their soul resided there.",
       "short_description": "The Vestige, also known as the Soulless One, and later Meridia's Champion, the Hero of Coldharbour, and the Savior of Tamriel, is the player character and main protagonist in .",
       "evidence": "fiction",
       "parentSlug": "elder-scrolls",
@@ -5319,13 +5305,12 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://elderscrolls.fandom.com/wiki/Vestige",
-        "fandom_title": "Vestige",
+        "fandom_url": "https://elderscrolls.fandom.com/wiki/Vestige_(Essence)",
+        "fandom_title": "Vestige (Essence)",
         "source_fandom": "elderscrolls.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "character"
+        ]
       }
     },
     {
@@ -22814,29 +22799,28 @@
       "slug": "apocrypha",
       "name": "Apocrypha",
       "type": "place",
-      "description": "Apocrypha is Hermaeus Mora's Daedric plane of forbidden knowledge.",
+      "description": "Apocrypha is the plane of Oblivion belonging to Hermaeus Mora, the Daedric Prince of Fate, Knowledge and Memory. The plane is first seen in the add-on . The Dragonborn has to visit the realm as part of the main questline in Solstheim for the add-on.\n\nApocrypha can only be accessed by reading the Black Books while in Solstheim. There are seven Black Books. Many can be found through the quest \"Lost Knowledge.\"\n\nAs with Hermaeus Mora, Apocrypha is always changing and never constant. Its environment is filled with hidden and forbidden knowledge, and dangerous to the unwary. This infinite plane of reality is dominated by an endless, roiling sea of toxic green liquid, where giant oily tentacles slither and writhe about the waves, whipping at anyone who gets too close. What little solid ground there is consists of several archipelagos and cathedral-like buildings composed of heavily weathered stone, connected by constantly-shifting bridges built of greasy black metal. Several bridges and hallways even move on their own, stretching and bending like tentacles to render other areas accessible or hinder intruders.\n\nThe most prominent feature of Apocrypha, however, is the overwhelming abundance of books that make up Hermaeus Mora's library. Giant stacks of reading material break the surface of the poisonous sea, numerous shelves that line the halls and walls are literally crammed to bursting with ancient scrolls and smoldering journals, heaps of books and papers litter the floors, and even entire buildings are constructed from twisting stacks of books. These books are protected and maintained by the Seekers and Lurkers, who act as the principal security force of Apocrypha.",
       "short_description": "Apocrypha is Hermaeus Mora's Daedric plane of forbidden knowledge.",
       "evidence": "fiction",
       "parentSlug": "tamriel",
       "wikipedia_url": null,
       "wikidata_id": null,
       "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/2/2c/ApocryphaScene.png/revision/latest/scale-to-width-down/360?cb=20141029043026",
-      "image_source": "https://elderscrolls.fandom.com/wiki/Apocrypha",
+      "image_source": "https://elderscrolls.fandom.com/wiki/Apocrypha_(Skyrim)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Apocrypha",
+      "image_alt": "Identification thumbnail for Apocrypha (Skyrim)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://elderscrolls.fandom.com/wiki/Apocrypha",
-        "fandom_title": "Apocrypha",
+        "fandom_url": "https://elderscrolls.fandom.com/wiki/Apocrypha_(Skyrim)",
+        "fandom_title": "Apocrypha (Skyrim)",
         "source_fandom": "elderscrolls.fandom.com",
         "sources": [
           "fandom"
-        ],
-        "kind": "location"
+        ]
       }
     },
     {
@@ -44120,11 +44104,11 @@
     "images_attached": 0,
     "core_enrichments": 30,
     "preserved_fandom": 0,
-    "fandom_titles": 1,
-    "fandom_enriched_core": 1,
-    "fandom_created": 0,
-    "fandom_images": 1,
-    "fandom_intros": 1,
+    "fandom_titles": 1335,
+    "fandom_enriched_core": 35,
+    "fandom_created": 1272,
+    "fandom_images": 629,
+    "fandom_intros": 1334,
     "image_backfill_at": "2026-09-11T16:29:42.467Z",
     "image_backfill_count": 32
   }

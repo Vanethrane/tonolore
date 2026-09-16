@@ -142,71 +142,11 @@ export const CATEGORY_THEMES = {
         glow: "rgba(106, 138, 74, 0.26)",
         surface: "linear-gradient(155deg, rgba(16, 22, 14, 0.98), rgba(8, 10, 10, 0.98))"
     },
-    unexplained: {
-        accent: "#6a5acd",
-        warm: "#5b9cff",
-        glow: "rgba(106, 90, 205, 0.28)",
-        surface: "linear-gradient(155deg, rgba(18, 14, 32, 0.98), rgba(8, 8, 14, 0.98))"
-    },
-    maritime: {
-        accent: "#1a5a7a",
-        warm: "#2a8a8a",
-        glow: "rgba(26, 90, 122, 0.28)",
-        surface: "linear-gradient(155deg, rgba(8, 18, 28, 0.98), rgba(6, 10, 14, 0.98))"
-    },
-    crime: {
-        accent: "#8b1a1a",
-        warm: "#c45a3a",
-        glow: "rgba(139, 26, 26, 0.3)",
-        surface: "linear-gradient(155deg, rgba(24, 8, 8, 0.98), rgba(8, 8, 10, 0.98))"
-    },
-    military: {
-        accent: "#5a6a48",
-        warm: "#c9a227",
-        glow: "rgba(90, 106, 72, 0.26)",
-        surface: "linear-gradient(155deg, rgba(16, 20, 14, 0.98), rgba(8, 10, 10, 0.98))"
-    },
-    occult: {
-        accent: "#5a2a6a",
-        warm: "#8a4a9a",
-        glow: "rgba(90, 42, 106, 0.3)",
-        surface: "linear-gradient(155deg, rgba(22, 10, 28, 0.98), rgba(8, 8, 12, 0.98))"
-    },
-    royalty: {
-        accent: "#b8860b",
-        warm: "#1a3a6a",
-        glow: "rgba(184, 134, 11, 0.28)",
-        surface: "linear-gradient(155deg, rgba(28, 22, 10, 0.98), rgba(10, 10, 12, 0.98))"
-    },
-    religion: {
-        accent: "#6a5a3a",
-        warm: "#c9a227",
-        glow: "rgba(106, 90, 58, 0.26)",
-        surface: "linear-gradient(155deg, rgba(22, 18, 12, 0.98), rgba(10, 10, 10, 0.98))"
-    },
-    disasters: {
-        accent: "#c45a2c",
-        warm: "#a05a2a",
-        glow: "rgba(196, 90, 44, 0.28)",
-        surface: "linear-gradient(155deg, rgba(28, 14, 8, 0.98), rgba(10, 8, 8, 0.98))"
-    },
     culinary: {
         accent: "#e07040",
         warm: "#6f4e37",
         glow: "rgba(224, 112, 64, 0.26)",
         surface: "linear-gradient(155deg, rgba(28, 16, 12, 0.98), rgba(10, 8, 8, 0.98))"
-    },
-    transport: {
-        accent: "#4a6a8a",
-        warm: "#c45a2c",
-        glow: "rgba(74, 106, 138, 0.28)",
-        surface: "linear-gradient(155deg, rgba(14, 18, 28, 0.98), rgba(8, 10, 12, 0.98))"
-    },
-    "built-environment": {
-        accent: "#7a6a5a",
-        warm: "#c9a227",
-        glow: "rgba(122, 106, 90, 0.26)",
-        surface: "linear-gradient(155deg, rgba(22, 18, 14, 0.98), rgba(10, 10, 10, 0.98))"
     },
     other: {
         accent: "#3db8a0",

@@ -82,7 +82,7 @@ async function fetchWikipediaIdentity(titleOrName) {
         titles: titleOrName,
         prop: "pageimages|extracts|info",
         inprop: "url",
-        pithumbsize: "800",
+        pithumbsize: "360",
         piprop: "thumbnail|name|original",
         exintro: "1",
         explaintext: "1",

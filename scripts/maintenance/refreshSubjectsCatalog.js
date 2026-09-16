@@ -29,9 +29,7 @@ async function main() {
         path: `/${meta.rootSlug || meta.id}`,
         logo: meta.logo || null,
         categories: meta.categories || [],
-        musicGenre: meta.musicGenre || null,
-        categoryPaths: meta.categoryPaths || {},
-        formatHubs: meta.formatHubs || []
+        musicGenre: meta.musicGenre || null
     }));
     const catalog = { categories: CATEGORY_CATALOG, subjects };
     const root = path.join(__dirname, "..", "..");

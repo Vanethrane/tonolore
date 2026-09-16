@@ -15,13 +15,6 @@ const {
     boardGameSubjectIds
 } = require("./tabletopCardCatalog");
 const { expansionSubjectIds } = require("./expansionCatalog");
-const { sportsSubjectIds } = require("./sportsCatalog");
-const { depthFillSubjectIds } = require("./categoryDepthFillers");
-const {
-    categoryPathsForSubject,
-    formatHubSummaries
-} = require("./formatHubs");
-const { applyFormatHubs } = require("../lib/applyFormatHubs");
 
 const SUBJECT_IDS = [
     "one-piece",
@@ -72,49 +65,26 @@ const SUBJECT_IDS = [
     ...musicSubjectIds(),
     ...newCardGameSubjectIds(),
     ...boardGameSubjectIds(),
-    ...sportsSubjectIds(),
-    ...expansionSubjectIds(),
-    // Core-shelf depth fillers (anime/movies/etc.) not already covered above.
-    ...depthFillSubjectIds().filter((id) => {
-        // expansionSubjectIds already includes expansion-depth fillers.
-        return true;
-    })
+    ...expansionSubjectIds()
 ];
-
-// Deduplicate while preserving order.
-const _seenIds = new Set();
-const SUBJECT_IDS_UNIQUE = SUBJECT_IDS.filter((id) => {
-    if (_seenIds.has(id)) {
-        return false;
-    }
-    _seenIds.add(id);
-    return true;
-});
 
 function loadSubject(id) {
     // eslint-disable-next-line import/no-dynamic-require, global-require
-    const subject = require(path.join(__dirname, id));
-    return applyFormatHubs(subject);
+    return require(path.join(__dirname, id));
 }
 
 function listSubjectMeta() {
-    return SUBJECT_IDS_UNIQUE.map((id) => {
+    return SUBJECT_IDS.map((id) => {
         const subject = loadSubject(id);
-        const rootSlug = subject.rootSlug || id;
         return {
             id: subject.id,
             name: subject.name,
-            rootSlug,
+            rootSlug: subject.rootSlug,
             theme: subject.theme || subject.id,
             copyright: subject.copyright || null,
             logo: subject.logo || SUBJECT_LOGOS[id] || null,
             categories: categoriesForSubject(id, subject.categories),
-            musicGenre: subject.musicGenre || null,
-            sportsSport: subject.sportsSport || null,
-            categoryPaths:
-                subject.categoryPaths ||
-                categoryPathsForSubject(id, rootSlug),
-            formatHubs: subject.formatHubs || formatHubSummaries(id, rootSlug)
+            musicGenre: subject.musicGenre || null
         };
     });
 }
@@ -133,7 +103,7 @@ function getSubjectMeta(idOrTheme) {
 }
 
 module.exports = {
-    SUBJECT_IDS: SUBJECT_IDS_UNIQUE,
+    SUBJECT_IDS,
     CATEGORY_CATALOG,
     loadSubject,
     listSubjectMeta,

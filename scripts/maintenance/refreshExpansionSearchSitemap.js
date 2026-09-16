@@ -10,7 +10,7 @@ const path = require("path");
 const { query, pool } = require("../../server/src/db");
 const { expansionSubjectIds } = require("../subjects/expansionCatalog");
 const { CATEGORY_CATALOG } = require("../subjects/registry");
-const { buildRobotsTxt, writeSitemapArtifacts, absoluteCanonical } = require("../lib/staticSeo");
+const { buildSitemapXml, absoluteCanonical } = require("../lib/staticSeo");
 
 const SITE_URL = (
     process.env.SITE_URL ||
@@ -101,10 +101,11 @@ async function main() {
         }))
     ];
 
-    writeSitemapArtifacts(docs, SITE_URL, entries);
-    writeSitemapArtifacts(root, SITE_URL, entries);
-    fs.writeFileSync(path.join(docs, "robots.txt"), buildRobotsTxt(SITE_URL));
-    fs.writeFileSync(path.join(root, "robots.txt"), buildRobotsTxt(SITE_URL));
+    fs.writeFileSync(path.join(docs, "sitemap.xml"), buildSitemapXml(SITE_URL, entries));
+    fs.writeFileSync(
+        path.join(docs, "robots.txt"),
+        `User-agent: *\nAllow: /\nSitemap: ${SITE_URL}/sitemap.xml\n`
+    );
 
     console.log(
         `search-index: ${entities.length}; sitemap urls: ${entries.length}`

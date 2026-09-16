@@ -34,7 +34,6 @@ const {
     slugToRelativeDir,
     buildRobotsTxt,
     buildSitemapXml,
-    writeSitemapArtifacts,
     buildEntityPageHtml,
     buildHomeHtml,
     buildCategoryHtml,
@@ -83,32 +82,14 @@ function ensureDir(dir) {
     fs.mkdirSync(dir, { recursive: true });
 }
 
-function writeWithRetry(filePath, contents, attempts = 8) {
-    ensureDir(path.dirname(filePath));
-    let lastError = null;
-    for (let i = 0; i < attempts; i += 1) {
-        try {
-            const tmp = `${filePath}.${process.pid}.tmp`;
-            fs.writeFileSync(tmp, contents);
-            fs.renameSync(tmp, filePath);
-            return;
-        } catch (error) {
-            lastError = error;
-            const end = Date.now() + 150 * (i + 1);
-            while (Date.now() < end) {
-                /* brief backoff for Windows file locks */
-            }
-        }
-    }
-    throw lastError;
-}
-
 function writeJson(filePath, data) {
-    writeWithRetry(filePath, JSON.stringify(data));
+    ensureDir(path.dirname(filePath));
+    fs.writeFileSync(filePath, JSON.stringify(data));
 }
 
 function writeText(filePath, text) {
-    writeWithRetry(filePath, text);
+    ensureDir(path.dirname(filePath));
+    fs.writeFileSync(filePath, text);
 }
 
 async function loadSubjectsCatalog() {
@@ -135,9 +116,7 @@ async function loadSubjectsCatalog() {
         path: `/${meta.rootSlug || meta.id}`,
         logo: meta.logo || null,
         categories: meta.categories || [],
-        musicGenre: meta.musicGenre || null,
-        categoryPaths: meta.categoryPaths || {},
-        formatHubs: meta.formatHubs || []
+        musicGenre: meta.musicGenre || null
     }));
 
     return {
@@ -604,22 +583,13 @@ async function main() {
         path.join(targetDir, "robots.txt"),
         buildRobotsTxt(SITE_URL)
     );
-    const sitemapInfo = writeSitemapArtifacts(
-        targetDir,
-        SITE_URL,
-        sitemapEntries,
-        writeText
+    writeText(
+        path.join(targetDir, "sitemap.xml"),
+        buildSitemapXml(SITE_URL, sitemapEntries)
     );
-    // Mirror sitemap + robots to repo root when exporting into docs/
-    if (path.resolve(targetDir) === path.resolve(path.join(root, "docs"))) {
-        writeText(path.join(root, "robots.txt"), buildRobotsTxt(SITE_URL));
-        writeSitemapArtifacts(root, SITE_URL, sitemapEntries, writeText);
-    }
 
     console.log(`Wrote ${written} page JSON files`);
-    console.log(
-        `robots.txt + sitemap index (${sitemapInfo.urlCount} urls, ${sitemapInfo.chunkCount} shards)`
-    );
+    console.log(`robots.txt + sitemap.xml (${sitemapEntries.length} urls)`);
     console.log("Done.");
 }
 

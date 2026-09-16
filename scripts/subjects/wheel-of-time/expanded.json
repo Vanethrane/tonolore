@@ -14333,6 +14333,104 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "a-comprehensive-discussion-of-pre-breaking-relics",
+      "name": "A Comprehensive Discussion of Pre-Breaking Relics",
+      "type": "work",
+      "description": "A Comprehensive Discussion of Pre-Breaking Relics is one of Min Farshaw's books. She was studying it just before Semirhage captured Rand al'Thor with the Domination Band.",
+      "short_description": "A Comprehensive Discussion of Pre-Breaking Relics is one of Min Farshaw's books. She was studying it just before Semirhage captured Rand al'Thor with the Domination Band.",
+      "evidence": "fiction",
+      "parentSlug": "wheel-of-time",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "work",
+        "fandom_url": "https://wot.fandom.com/wiki/A_Comprehensive_Discussion_of_Pre-Breaking_Relics",
+        "fandom_title": "A Comprehensive Discussion of Pre-Breaking Relics",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stick",
+      "name": "Stick",
+      "type": "person",
+      "description": "A stick is a denizen of the Great Blight. They look like their name, a part of a tree, however their vines lash out like snakes strangling those who walk by them. Their bite is deadly. It releases a type of poison into the persons bloodstream that digests them from inside out. The only way to save a person bitten by a stick is to amputate the bitten limb. The trees on which they live seem fleshy, rather than woody like the trees in the south. They have sores that leak red sap that looks like blood. Unlike many other animals of the Great Blight, Sticks do not attack unless someone touches or irritates them.\n\nCategory:Shadowspawn Category:Constructs",
+      "short_description": "A stick is a denizen of the Great Blight. They look like their name, a part of a tree, however their vines lash out like snakes strangling those who walk by them. Their bite is deadly. It releases a type of poison into…",
+      "evidence": "fiction",
+      "parentSlug": "dark-one",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://wot.fandom.com/wiki/Stick",
+        "fandom_title": "Stick",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "customs-and-ceremonies-of-the-tairen-court",
+      "name": "Customs and Ceremonies of the Tairen Court",
+      "type": "work",
+      "description": "Customs and Ceremonies of the Tairen Court is a book left behind when a group of Black Ajah fled the White Tower. It was used as a taunt and bait so that Nynaeve al'Meara, Elayne Trakand, and Egwene al'Vere would chase the Black sisters to Tear.",
+      "short_description": "Customs and Ceremonies of the Tairen Court is a book left behind when a group of Black Ajah fled the White Tower. It was used as a taunt and bait so that Nynaeve al'Meara, Elayne Trakand, and Egwene al'Vere would chase…",
+      "evidence": "fiction",
+      "parentSlug": "wheel-of-time",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "work",
+        "fandom_url": "https://wot.fandom.com/wiki/Customs_and_Ceremonies_of_the_Tairen_Court",
+        "fandom_title": "Customs and Ceremonies of the Tairen Court",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "trolloc",
+      "name": "Trolloc",
+      "type": "person",
+      "description": "A Trolloc (pronounced: TRAHL-lohk) is a type of Shadowspawn created in the Age of Legends that comprises the bulk of the Dark One's armies. A horrifying crossing of human and animal stock with physical characteristics of both. While capable of speech and a cruel and twisted humor, they are less intelligent than humans and require supervision in battle. They are carnivorous, as is shown by many references in the first two books of Trollocs eating their human prey, sadistic, fearful, and violent. Unlike other Shadowspawn, Trollocs are social creatures, grouped by several distinct tribes. They are called “Twisted Ones” by the wolves.\n\nHe combined human genetic material with that of several animal species. Species such as boars, bears, and eagles were selected due to their high levels of aggression, leading to some of the common animal features seen in Trollocs. The crossbreeding eventually produced a soldier with the desired physical and emotional attributes, and just as importantly, a soldier that was capable of producing viable offspring. A self-replenishing army was more highly valued than one that needed to be produced in biological laboratories.\n\nOriginally, Trollocs were a failed creation. Their innate blood lust overwhelmed them and made them impossible to control, and thus, while they were superior fighters, they made terrible soldiers and had extremely poor discipline. This problem was solved when Trolloc breeding began to result in the Myrddraal: a being capable of intelligent thought and of being commanded, and which also terrifies any Trolloc into obedience. What causes the birth of a myrdraal is unknown, even by Aginor, although it is generally described as a \"throwback\" of sorts that is more human in appearance, if not in nature or abilities.\n\nThe non-human genetic elements can lend the Trolloc more unique abilities e.g. those with canine (largely wolf) characteristics can be more intelligent and more likely able to speak other languages, while those resembling bears are noticeably tougher. Some can track a person by scent or sound. They see better than a man in the dark.",
+      "short_description": "A Trolloc (pronounced: TRAHL-lohk) is a type of Shadowspawn created in the Age of Legends that comprises the bulk of the Dark One's armies. A horrifying crossing of human and animal stock with physical characteristics…",
+      "evidence": "fiction",
+      "parentSlug": "dark-one",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/wot/images/6/6f/Trolloc_saliba.jpg/revision/latest/scale-to-width-down/180?cb=20091219034244",
+      "image_source": "https://wot.fandom.com/wiki/Trolloc",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Robert Jordan estate / Tor Books / respective rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Trolloc",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://wot.fandom.com/wiki/Trolloc",
+        "fandom_title": "Trolloc",
+        "source_fandom": "wot.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -17575,6 +17673,38 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "a-comprehensive-discussion-of-pre-breaking-relics",
+      "wheel-of-time",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "stick",
+      "dark-one",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "customs-and-ceremonies-of-the-tairen-court",
+      "wheel-of-time",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "trolloc",
+      "dark-one",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -17583,7 +17713,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (wot.fandom.com) for identification and commentary only. Character / franchise art © Robert Jordan estate / Tor Books / respective rights holders (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T17:49:38.657Z",
+  "generated_at": "2026-09-15T04:22:44.441Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://wot.fandom.com/wiki/",
@@ -17599,7 +17729,7 @@
     "image_backfill_count": 1,
     "description_backfill_at": "2026-09-11T22:22:17.940Z",
     "description_backfill_count": 1,
-    "description_ensure_at": "2026-09-14T17:49:02.730Z",
+    "description_ensure_at": "2026-09-15T04:22:46.549Z",
     "description_ensure_count": 1
   }
 }

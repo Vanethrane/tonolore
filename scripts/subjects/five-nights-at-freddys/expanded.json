@@ -11716,6 +11716,116 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "tabor-family",
+      "name": "Tabor Family",
+      "type": "person",
+      "description": "The Tabor family in Fazbear Frights comprises the relatives of Ron Tabor from the tenth book's Sea Bonnies story.\n\nRon Tabor is a major character in Sea Bonnies.\n\nMott’s earliest memory with Nate was when they had tried to climb up onto a counter in order to steal freshly baked cookies. The two of them ended up in Dr. Tabor’s office with contusions and mild burns from the hot cookie sheets. Mott also does not remember most of the event either, only the chair ladder they created and a lot of pain.\n\nMott, Lyle, and Nate work together on a science project at his house, being a study of the effects of antibiotics on microorganisms. Nate bets on penicillin, which Lyle takes, while Mott sides with Nate.",
+      "short_description": "The Tabor family in Fazbear Frights comprises the relatives of Ron Tabor from the tenth book's Sea Bonnies story.",
+      "evidence": "fiction",
+      "parentSlug": "five-nights-at-freddys",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/6/6d/Nate_Tabor.jpeg/revision/latest/scale-to-width-down/180?cb=20250119215052",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Tabor_Family",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Tabor Family",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Tabor_Family",
+        "fandom_title": "Tabor Family",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "big-top-showroom",
+      "name": "Big Top Showroom",
+      "type": "place",
+      "description": "The Big Top Showroom, also known as Showroom 2, is a carnival-style hub area. This is where Big Top is located. Around the showroom are three minigames: The Space Gallery (Blast Off), The Shooting Gallery (Fire Away), and the Ball Toss (Smack a Clown). There is also a Prize Wheel here.\n\nEach time the player completes a minigame, the power in the room goes out and Big Top begins to slowly search the room, scanning a crowd of mannequins. Being spotted results in a game over.\n\nTo regain power, the player must complete a puzzle in the main showroom lobby. If not done in time or failed, Big Top will jumpscare the player, resulting in a game over.\n\nUpon completing all three minigames, spinning the Prize Wheel will result in the wheel landing on \"Grand Prize.\" The player can then head upstairs and collect the \"Grand Prize\" collectible.",
+      "short_description": "The Big Top Showroom, also known as Showroom 2, is a carnival-style hub area. This is where Big Top is located. Around the showroom are three minigames: The Space Gallery (Blast Off), The Shooting Gallery (Fire Away),…",
+      "evidence": "fiction",
+      "parentSlug": "five-nights-at-freddys",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/b/b2/Big_Top%27s_Carnival_Showroom.png/revision/latest/scale-to-width-down/180?cb=20250825150759",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Big_Top_Showroom",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Big Top Showroom",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Big_Top_Showroom",
+        "fandom_title": "Big Top Showroom",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "talbert-family",
+      "name": "Talbert Family",
+      "type": "person",
+      "description": "The Talbert Family in Fazbear Frights comprises the relatives of Dr. Talbert from the Stitchwraith Stingers saga.\n\nDr. Talbert (full name unknown) is one of the supporting characters of the Stitchwraith Stingers series, and first appeared in the epilogue of Fazbear Frights 10: Friendly Face. He is a scientist who collects and studies the Remnant.\n\nMrs. Talbert (full name unknown) was the wife of Dr. Talbert and mother of Renelle Talbert. Although only mentioned, she passed away two years prior to the events of the epilogues.\n\nRenelle Talbert is the daughter of the Talbert parents. She was kicked out of the house two years ago after her mother's death, ending up going missing. Fortunately, Jake was able to find her and bring her back to her father.",
+      "short_description": "The Talbert Family in Fazbear Frights comprises the relatives of Dr. Talbert from the Stitchwraith Stingers saga.",
+      "evidence": "fiction",
+      "parentSlug": "five-nights-at-freddys",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Talbert_Family",
+        "fandom_title": "Talbert Family",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "birthday-showroom",
+      "name": "Birthday Showroom",
+      "type": "place",
+      "description": "The , also known as Showroom 3, is a location in Murray's Costume Manor.\n\nArnold enters the Birthday Showroom for the first time through a broken wall and winds up Jackie's music box. After doing so, the hand cranks comes off and can be used to open a gate.\n\n{|class=\"article-table\" align=\"center\" border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"text-align:center;\"\n\nThe entrance of the Birthday Showroom consists of a single room with a giant birthday cake with Mrs. Helpful on top of it. The full room resembles a children's play place, with different types of decorations, cutouts and Jackie as the main attraction.",
+      "short_description": "The , also known as Showroom 3, is a location in Murray's Costume Manor.",
+      "evidence": "fiction",
+      "parentSlug": "five-nights-at-freddys",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/d/d5/BirthdayShowroom.png/revision/latest/scale-to-width-down/180?cb=20250825143211",
+      "image_source": "https://freddy-fazbears-pizza.fandom.com/wiki/Birthday_Showroom",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Birthday Showroom",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://freddy-fazbears-pizza.fandom.com/wiki/Birthday_Showroom",
+        "fandom_title": "Birthday Showroom",
+        "source_fandom": "freddy-fazbears-pizza.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -14902,6 +15012,38 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "tabor-family",
+      "five-nights-at-freddys",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "big-top-showroom",
+      "five-nights-at-freddys",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "talbert-family",
+      "five-nights-at-freddys",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "birthday-showroom",
+      "five-nights-at-freddys",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -14910,7 +15052,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (freddy-fazbears-pizza.fandom.com) for identification and commentary only. Character / franchise art © Scott Cawthon / Steel Wool / rights holders (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T17:44:40.455Z",
+  "generated_at": "2026-09-15T04:18:27.350Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://freddy-fazbears-pizza.fandom.com/wiki/",

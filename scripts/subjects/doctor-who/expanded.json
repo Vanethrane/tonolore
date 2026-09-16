@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T19:53:43.640Z",
+  "generated_at": "2026-09-15T01:09:46.772Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -685,13 +685,13 @@
       "slug": "alien",
       "name": "Alien",
       "type": "organization",
-      "description": "In a possible future for the Eighth Doctor, (PROSE: ) an alien race of \"monsters\" was responsible for killing nearly every Time Lord on Gallifrey, but they were defeated by the Ninth Doctor and the Master. The Master's final physical body was destroyed in the process. (PROSE: )",
+      "description": "Alien was a broad, subjective term. It could be applied as a noun or an adjective for any entity, object, place or practice which was not familiar. In one sense, it meant someone not from one's nation or locality. But more typically it was a synonym for extraterrestrials, or that which was \"alien to humans\". The Doctor, for instance, often admitted that they were an \"alien\" to their new human companions. (TV: Rose, The Runaway Bride, The Bells of Saint John, The Woman Who Fell to Earth)\n\nTo some, the term was offensive; they sensitively referrer to it as the \"a-word\". (COMIC: )\n\nHowever, the word was equally applicable to humans, from the perspective of extraterrestrials. As Melanie Bush once pointed out to an English cabbie suddenly brought into the presence of extraterrestrials, \"We're all aliens to each other.\" (AUDIO: Unregenerate!) The Time Lords labelled Leela an alien when she visited Gallifrey. The Fourth Doctor, posing to fool the Vardans, ordered that she be banished from the Capitol for being alien. (TV: The Invasion of Time) Romana I once used the label \"Earth alien\" in reference to the natives of Earth. (TV: The Ribos Operation)\n\nThe term was trickier to apply to non-human Earth sapients. For instance, the Third Doctor referred to the Silurians as alien beings even after he discovered they had ruled the planet Earth millions of years before. (TV: Doctor Who and the Silurians) However, the Eleventh Doctor later stated that they were not aliens but rather \"Earth...liens\". (TV: The Hungry Earth)",
       "short_description": "Alien was a broad, subjective term. It could be applied as a noun or an adjective for any entity, object, place or practice which was not familiar. In one sense, it meant someone not from one's nation or locality. But…",
       "evidence": "fiction",
       "parentSlug": "doctor-who",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/tardis/images/7/72/Abzorbaloff_genuine_article.jpg/revision/latest/scale-to-width-down/360?cb=20201210160129",
+      "image_url": "https://static.wikia.nocookie.net/tardis/images/7/72/Abzorbaloff_genuine_article.jpg/revision/latest/scale-to-width-down/180?cb=20201210160129",
       "image_source": "https://tardis.fandom.com/wiki/Alien",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © BBC (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -701,8 +701,8 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://tardis.fandom.com/wiki/Alien_(Doctor_Who_-_The_Ninth_Doctor)",
-        "fandom_title": "Alien (Doctor Who - The Ninth Doctor)",
+        "fandom_url": "https://tardis.fandom.com/wiki/Alien",
+        "fandom_title": "Alien",
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"
@@ -11910,7 +11910,7 @@
       "slug": "antalin",
       "name": "Antalin",
       "type": "place",
-      "description": "Antalin was a planet which served as a decoy for Skaro.\n\nDuring the 2150s Dalek invasion of Earth, the Daleks discovered records which showed that Skaro had been destroyed during the Imperial-Renegade Dalek Civil War. The Seventh Doctor apparently had destroyed Skaro using the Hand of Omega. (PROSE: War of the Daleks)\n\nAfter an unsuccessful attempt to change history, the Daleks realised that history could not be altered and Skaro would have to appear to be destroyed.\n\nTo fool Davros and the Doctor into thinking Skaro had been destroyed, the Daleks terraformed Antalin to resemble Skaro. Davros was moved from Skaro to Antalin and placed inside a replica of the Kaled bunker. The Daleks also created a race of robots called the Movellans and manufactured a war with them, before reviving Davros. It was Antalin which served as the location for the Doctor and Romana's encounter with the Daleks and which was destroyed by the Hand of Omega. (PROSE: War of the Daleks)",
+      "description": "Antalin's ocean world, more often referred to as simply Antalin, was a planet covered entirely in water, with no islands, continents, or any land masses. There seemed to be no native civilisations, but marine life included fish.\n\nThe planet was discovered and hastily surveyed 50 years prior to c.4000, located in human space but close to the Daleks' border. At some point, most likely c.4000, the Daleks built a drilling rig on Antalin to gain new supplies for their war efforts, but the rig was destroyed by Space Security Service agent Dryn Faber. (PROSE: War of the Daleks)\n\nCategory:Planets Category:Aquatic planets Category:Uninhabited planets",
       "short_description": "Antalin was a planet which served as a decoy for Skaro.",
       "evidence": "fiction",
       "parentSlug": "doctor-who",
@@ -11920,8 +11920,8 @@
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://tardis.fandom.com/wiki/Antalin",
-        "fandom_title": "Antalin",
+        "fandom_url": "https://tardis.fandom.com/wiki/Antalin_(ocean_world)",
+        "fandom_title": "Antalin (ocean world)",
         "source_fandom": "tardis.fandom.com",
         "sources": [
           "fandom"

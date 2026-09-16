@@ -203,11 +203,11 @@ function buildIntroduction(entity, connections = []) {
             .map((connection, index) => {
                 const link = `<a href="${connection.path}" class="entity-link"><strong>${escapeHtml(connection.name)}</strong></a>`;
 
-                if (index === 0) {
+            if (index === 0) {
                     return link;
-                }
+            }
 
-                if (index === primaryConnections.length - 1) {
+            if (index === primaryConnections.length - 1) {
                     return ` and ${link}`;
                 }
 
@@ -351,7 +351,7 @@ function buildOverview(entity, connections, subjectMeta = {}, pathLookup = null)
     }
 
     if (universe === "five-nights-at-freddys" && entity.slug === "five-nights-at-freddys") {
-        return `
+    return `
 <section class="overview">
     <h2>What is Five Nights at Freddy's?</h2>
 
@@ -762,7 +762,7 @@ async function generatePage(entity, paths, subjectMeta = {}, pathLookup = null) 
                 ? canonical
                 : `/${universe}/${connection.slug}`;
         return {
-            ...connection,
+        ...connection,
             path
         };
     });
@@ -849,12 +849,12 @@ async function generatePage(entity, paths, subjectMeta = {}, pathLookup = null) 
         RETURNING id, slug
     `,
         [
-            entity.id,
-            slug,
-            entity.name,
+        entity.id,
+        slug,
+        entity.name,
             metaTitle,
-            metaDescription,
-            content,
+        metaDescription,
+        content,
             wordCount,
             depthScore,
             uniqueness

@@ -540,6 +540,29 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "deep-throat-the-x-files",
+      "name": "Deep Throat",
+      "type": "person",
+      "description": "Deep Throat is a fictional character on the American science fiction television series The X-Files. He serves as an informant, leaking information to FBI Special Agent Fox Mulder to aid Mulder's investigation of paranormal cases, dubbed X-Files. Introduced in the series' second episode, also named \"Deep Throat\", the character was killed off during the first season finale \"The Erlenmeyer Flask\"; however, he later made several appearances in flashbacks and visions. In the season 11 episode \"This\", his real name is ostensibly revealed to be Ronald Pakula.\n\nThe character of Deep Throat was portrayed by Jerry Hardin in all his appearances. After the character was killed, Steven Williams was introduced in the second season episode \"The Host\" to portray his successor, X. The creation of Deep Throat was inspired by the historical Deep Throat, Mark Felt, who leaked information on the Watergate scandal, and by Donald Sutherland's character X in the film JFK.\n\nSeries creator Chris Carter has stated that the character of Deep Throat was \"of course\" inspired by the historical Deep Throat. After the conclusion of The X-Files, this Deep Throat was later revealed to be FBI Associate Director Mark Felt. Also cited as an influence on the fictional Deep Throat was X, the character portrayed by Donald Sutherland in the 1991 Oliver Stone film JFK. In the film, Sutherland's X reveals information about the possibility that the assassination of John F. Kennedy was orchestrated by elements within the American government. Carter felt he needed to create a character who would bridge the gap between FBI agents Fox Mulder (David Duchovny) and Dana Scully (Gillian Anderson) and the shadowy conspirators who were working against them; he conceived of a character \"who works in some level of government that we have no idea exists\".\n\nCarter was drawn to actor Jerry Hardin after seeing him in 1993's The Firm. Hardin believed his initial appearance would be a one-time role, although he soon found himself regularly commuting to the series' Vancouver filming location on short notice. Producer Howard Gordon has spoken of the elusiveness of the character's allegiances, stating that during production, it was often left ambiguous whether he was \"ally or foe\". After filming the character's death in the first season finale, \"The Erlenmeyer Flask\", Hardin was toasted with champagne, and told by Carter that \"no one ever really dies on X-Files\".",
+      "short_description": "Deep Throat is a fictional character on the American science fiction television series The X-Files. He serves as an informant, leaking information to FBI Special Agent Fox Mulder to aid Mulder's investigation of…",
+      "evidence": "fiction",
+      "parentSlug": "the-x-files-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Deep_Throat_(The_X-Files)",
+        "fandom_title": "Deep Throat (The X-Files)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -566,6 +589,14 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "deep-throat-the-x-files",
+      "the-x-files-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -574,7 +605,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. The X-Files article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T16:54:05.184Z",
+  "generated_at": "2026-09-15T03:31:06.331Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://en.wikipedia.org/wiki/",

@@ -840,13 +840,13 @@
       "slug": "akane",
       "name": "Akane",
       "type": "person",
-      "description": "Akane is deeply infatuated with Naruto Uzumaki to the point she and her friends would chase after him repeatedly for his affections. However, it appears her affections for him are rather vain and solely because he is the hero of the village. In fact, she would rather flirt with Naruto than focusing on her training or missions as a shinobi.\n\nOn the day of the Sixth Hokage's inauguration, Akane, Kaede and their other friend, stood amongst a crowd at Konoha's entrance, shouting to see Naruto.\n\nde:Akane (Kunoichi) es:Akane (Kunoichi) fr:Akane (kunoichi) id:Akane (Kunoichi) it:Akane (Kunoichi) pl:Akane (kunoichi) pt-br:Akane (kunoichi) ru:Акане (куноичи)",
+      "description": "After he lost interest in Pochi, Akane threw him into the sea. When Inari hesitated to go in and save him, Akane pushed him in too. Although Inari started to drown, Akane and his friends left. After Kaiza saved Inari, he gave Akane a stern talking to. He appears to not own Pochi anymore.\n\nAkane was at first really mean and always bullied Inari but later on, in the anime, he came to realise that he was wrong and he apologised and became friends with him. Akane is also very cowardly as seen when he and his friends were kidnapped.\n\nAkane has short brown hair and small dark-coloured eyes.\n\nIn the anime, when Inari went to go return a coupon to Naruto, he runs into Akane and his friends. Knowing that Team 7 finished their mission, Akane and his friends decide to bully Inari again. Zōri and Waraji hear this and kidnap Inari, along with Akane and his friends. Akane and his friends are scared and crying for their lives of what the thugs will do to them except Inari who tells them crying won't solve anything and manages to free them. He tells Akane and his friends to notify the villagers while he distracts the thugs. Akane and his friends run into Naruto and Sasuke who then rescue Inari and stop the thugs along with the villagers. Akane apologises to Inari for bullying him, realising he was wrong about him and they become friends.",
       "short_description": "After he lost interest in Pochi, Akane threw him into the sea. When Inari hesitated to go in and save him, Akane pushed him in too. Although Inari started to drown, Akane and his friends left. After Kaiza saved Inari,…",
       "evidence": "fiction",
       "parentSlug": "naruto",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/naruto/images/a/aa/Akane.png/revision/latest/scale-to-width-down/360?cb=20150221142705",
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/a/aa/Akane.png/revision/latest/scale-to-width-down/180?cb=20150221142705",
       "image_source": "https://naruto.fandom.com/wiki/Akane",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Masashi Kishimoto / Shueisha / Pierrot (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -857,8 +857,8 @@
         "discovered": true,
         "source": "fandom",
         "kind": "character",
-        "fandom_url": "https://naruto.fandom.com/wiki/Akane_(Kunoichi)",
-        "fandom_title": "Akane (Kunoichi)",
+        "fandom_url": "https://naruto.fandom.com/wiki/Akane",
+        "fandom_title": "Akane",
         "source_fandom": "naruto.fandom.com",
         "sources": [
           "fandom"
@@ -18251,6 +18251,58 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "ankorodo",
+      "name": "Ankorodō",
+      "type": "place",
+      "description": "Ankorodō is run by an old woman who was once a kunoichi. During a previous eating contest, Ankorodō also offered unlimited free sweet sake to the winner, a prize won by Chōji Akimichi. Ankorodō nearly went bankrupt providing free sake to Chōji, making Ankorodō's owner determined to never again risk her restaurant's welfare with an \"unlimited\" offer. When her fellow restaurateurs pressure her to offer unlimited free dumplings for another eating contest, she attempts to sabotage the contest using her old Earth Release skills. Chōji thwarts her efforts and ultimately wins again. Rather than jail her for her actions, Ankorodō's owner is forced to honour the unlimited free dumpling offer for Chōji and his family; Sai deems this a punishment worse than jail.",
+      "short_description": "Ankorodō is run by an old woman who was once a kunoichi. During a previous eating contest, Ankorodō also offered unlimited free sweet sake to the winner, a prize won by Chōji Akimichi. Ankorodō nearly went bankrupt…",
+      "evidence": "fiction",
+      "parentSlug": "naruto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://naruto.fandom.com/wiki/Ankorod%C5%8D",
+        "fandom_title": "Ankorodō",
+        "source_fandom": "naruto.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "acid-permeation",
+      "name": "Acid Permeation",
+      "type": "concept",
+      "description": "Utakata blows acidic bubbles from his pipe that burn anything it comes into contact with. The sheer multitude and wide-range it can cover makes avoiding it very difficult.\n\nes:Ácido Penetrante fr:Glycines Acides pl:Santōka",
+      "short_description": "Utakata blows acidic bubbles from his pipe that burn anything it comes into contact with. The sheer multitude and wide-range it can cover makes avoiding it very difficult.",
+      "evidence": "fiction",
+      "parentSlug": "naruto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/9/95/Acid_Flower.PNG/revision/latest/scale-to-width-down/180?cb=20150816014028",
+      "image_source": "https://naruto.fandom.com/wiki/Acid_Permeation",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Masashi Kishimoto / Shueisha / Pierrot (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Acid Permeation",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://naruto.fandom.com/wiki/Acid_Permeation",
+        "fandom_title": "Acid Permeation",
+        "source_fandom": "naruto.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -23261,6 +23313,22 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "ankorodo",
+      "naruto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "acid-permeation",
+      "naruto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -23269,7 +23337,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (naruto.fandom.com) for identification and commentary only. Character / franchise art © Masashi Kishimoto / Shueisha / Pierrot (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T19:42:35.686Z",
+  "generated_at": "2026-09-15T00:59:52.663Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://naruto.fandom.com/wiki/",
@@ -23281,7 +23349,7 @@
     "fandom_created": 1,
     "fandom_images": 1,
     "fandom_intros": 1,
-    "description_ensure_at": "2026-09-14T19:42:37.724Z",
+    "description_ensure_at": "2026-09-15T00:59:54.745Z",
     "description_ensure_count": 1
   }
 }

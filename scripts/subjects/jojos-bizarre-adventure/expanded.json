@@ -2239,25 +2239,25 @@
       "slug": "foo-fighters",
       "name": "Foo Fighters",
       "type": "topic",
-      "description": "Foo Fighters allows bundles of plankton to exist in a humanoid form. It adopts a personality, along with the nickname F.F.; siding with the allies of the story.\n\nFoo Fighters takes two main appearances. Naked, it is a tall, dark, robotic humanoid of masculine proportions, and an alien visage.\n\nLater, it maintains the appearance of the dead prisoner ; a woman of average height and slim build.\n\nAs F.F.'s identity develops due to its experiences with Jolyne Cujoh, the true form of its Stand takes on a more human appearance starting to resemble the body she took over while still retaining some of the features of its older form.",
+      "description": "Alicia Vélez [https://www.animenewsnetwork.com/encyclopedia/people.php?id=153486 Vii Zedek]\n\nPlankton (Anasui)|ja_romaji=Fū Faitāzu|prisonerte=Six years in Green Dolphin Street Prison (Atroe)}}\n\nF.F. is a mix of Stand and Stand User; A colony of plankton that is organized, maintained by, and essentially equivalent to the Stand, Foo Fighters. At first serving Enrico Pucci/Whitesnake, they soon ally themself with Jolyne Cujoh out of gratitude for being spared.\n\nF.F. can change their appearance at any time. However, their habitual appearance is that of the prisoner Atroe, a woman of average height and slim build with hair or a cap covering her head in a mop or bob forming a serrated edge at its ends.",
       "short_description": "Alicia Vélez [https://www.animenewsnetwork.com/encyclopedia/people.php?id=153486 Vii Zedek]",
       "evidence": "fiction",
       "parentSlug": "jojos-bizarre-adventure",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/jjba/images/4/4d/FooP.png/revision/latest/scale-to-width-down/180?cb=20170109053755",
-      "image_source": "https://jojo.fandom.com/wiki/Foo_Fighters_(Stand)",
+      "image_url": "https://static.wikia.nocookie.net/jjba/images/f/f8/FF_so_v04_066.png/revision/latest/scale-to-width-down/180?cb=20160327120951",
+      "image_source": "https://jojo.fandom.com/wiki/Foo_Fighters",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hirohiko Araki / Shueisha / David Production (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Foo Fighters (Stand)",
+      "image_alt": "Identification thumbnail for Foo Fighters",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
         "kind": "topic",
-        "fandom_url": "https://jojo.fandom.com/wiki/Foo_Fighters_(Stand)",
-        "fandom_title": "Foo Fighters (Stand)",
+        "fandom_url": "https://jojo.fandom.com/wiki/Foo_Fighters",
+        "fandom_title": "Foo Fighters",
         "source_fandom": "jojo.fandom.com",
         "sources": [
           "fandom"
@@ -13154,6 +13154,35 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "kingdom-of-naples",
+      "name": "Kingdom of Naples",
+      "type": "place",
+      "description": "The is a fictional country featured in Steel Ball Run. It is Gyro Zeppeli's birthplace and while Naples isn't visited, it is shown in details through flashbacks and other narrative reveals.\n\nAlthough the Kingdom of Naples is inspired by the real-life , much of its history and characteristics are fictitious.\n\nThe Kingdom of Naples is a very small country situated in the Italian Peninsula, with a size of 800 km². Nonetheless, it has about 780,000 inhabitants.\n\nAs its name indicates, the country is ruled by a king, Dell'Ovo II. The country is particularly oppressive and any challenge against the authority of the king is suppressed violently. As such, even people slightly related to a known traitor to the crown are to be considered treasonous and executed, leading to the imprisonment of Marco, a young child. Moreover, the laws of Naples make it so those found guilty of adultery can be executed. The kindgom employs professional executioners who carry out beheading in the name of the king, among them is the Zeppeli Family.",
+      "short_description": "The is a fictional country featured in Steel Ball Run. It is Gyro Zeppeli's birthplace and while Naples isn't visited, it is shown in details through flashbacks and other narrative reveals.",
+      "evidence": "fiction",
+      "parentSlug": "jojos-bizarre-adventure",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/jjba/images/9/9a/Naples_crest.png/revision/latest/scale-to-width-down/180?cb=20190427133537",
+      "image_source": "https://jojo.fandom.com/wiki/Kingdom_of_Naples",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hirohiko Araki / Shueisha / David Production (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Kingdom of Naples",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://jojo.fandom.com/wiki/Kingdom_of_Naples",
+        "fandom_title": "Kingdom of Naples",
+        "source_fandom": "jojo.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -16660,6 +16689,14 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "kingdom-of-naples",
+      "jojos-bizarre-adventure",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -16668,7 +16705,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (jojo.fandom.com) for identification and commentary only. Character / franchise art © Hirohiko Araki / Shueisha / David Production (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T19:56:32.567Z",
+  "generated_at": "2026-09-15T01:12:31.682Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://jojo.fandom.com/wiki/",

@@ -10,7 +10,9 @@
           "wikipedia",
           "fandom"
         ]
-      }
+      },
+      "description": "StarCraft is a military science fiction media franchise created by Chris Metzen and James Phinney and owned by Blizzard Entertainment. The series, set in the beginning of the 26th century, centers on a galactic struggle for dominance among four species—the adaptable and mobile Terrans, the ever-evolving insectoid Zerg, the powerful and enigmatic Protoss, and the godlike Xel'Naga creator race—in a distant part of the Milky Way galaxy known as the Koprulu Sector. The series debuted with the video game StarCraft in 1998. It has grown to include a number of other games as well as eight novelizations, two Amazing Stories articles, a board game and other licensed merchandise, such as collectible statues and toys.\n\nBlizzard Entertainment began planning StarCraft in 1995 with a development team led by Metzen and Phinney. The game debuted at the 1996 Electronic Entertainment Expo and used a modified Warcraft II game engine. StarCraft also marked the creation of Blizzard Entertainment's film department; the game introduced high quality cinematics integral to the storyline of the series. Most of the original development team for StarCraft returned to work on the game's expansion pack, Brood War; that game's development began only shortly after StarCraft was released. In 2001, StarCraft: Ghost began development under Nihilistic Software. Unlike the previous real-time strategy games in the series, Ghost was to be a stealth-action game. After three years of development, work on the game was postponed in 2004. Development of a true RTS sequel, StarCraft II: Wings of Liberty, began in 2003; the game was announced in May 2007 and was released in July 2010. StarCraft II continued with the StarCraft II: Heart of the Swarm expansion, which was released in March 2013. The third and final StarCraft II installment, Legacy of the Void, was released in November 2015. In 2016, a single-player nine-mission pack, Nova Covert Ops, was released in form of DLC.\n\nThe original game and its expansion have been praised as one of the benchmark real-time strategy games of its time. The series has gathered a solid following around the world, particularly in South Korea, where professional players and teams participate in matches, earn sponsorships, and compete in televised matches. By June 2007, StarCraft and Brood War had sold nearly 10&nbsp;million copies combined. In addition, the series was awarded a star on the Walk of Game in 2006, and holds four Guinness World Records in the Guinness World Records Gamer's Edition of 2008.\n\nOn March 27, 2017, Blizzard announced StarCraft: Remastered, a remastered version of the original StarCraft, with the core updates being up-to-date graphics and revised dialogue and audio. As of 2017, the original StarCraft, its Brood War expansion, and StarCraft II: Wings of Liberty are free to download and play from Blizzard's website.",
+      "short_description": "StarCraft is a military science fiction media franchise created by Chris Metzen and James Phinney and owned by Blizzard Entertainment. The series, set in the beginning of the 26th century, centers on a galactic struggle…"
     },
     {
       "slug": "starcraft-figures",
@@ -469,25 +471,91 @@
       }
     }
   ],
-  "entities": [],
-  "relationships": [],
+  "entities": [
+    {
+      "slug": "characters-of-the-starcraft-series",
+      "name": "Characters of the StarCraft series",
+      "type": "person",
+      "description": "Major and recurring characters from the military science fiction series StarCraft are listed below, organised by respective species and most commonly affiliated faction within the fictional universe. The story of the StarCraft series revolves around interstellar affairs in a distant sector of the galaxy, where three species are vying for supremacy: the Terrans, a highly factionalised future version of humanity; the Protoss, a theocratic race of vast psionic ability; and the Zerg, an insectoid species connected through a hive mind. The latter two of these species were genetically engineered by an ancient precursor series known as the Xel'Naga.\n\nThe series was begun with Blizzard Entertainment's 1998 video game StarCraft, and has been expanded with sequels Insurrection, Retribution, Brood War, Ghost, Wings of Liberty, Heart of the Swarm, and Legacy of the Void. The franchise has been further extended with a series of novels, graphic novels, and other works.\n\nSeventeen characters from StarCraft universe appear as playable heroes within crossover multiplayer online battle arena game, Heroes of the Storm. All the three races—Terrans, Protoss, and Zerg—have been represented in the game.\n\nThe characters and story of the StarCraft series were created by Chris Metzen and James Phinney. Despite the series success globally, particularly in South Korea, Blizzard Entertainment has not made any major comments regarding the development of the characters and the storyline of the StarCraft series.",
+      "short_description": "Major and recurring characters from the military science fiction series StarCraft are listed below, organised by respective species and most commonly affiliated faction within the fictional universe. The story of the…",
+      "evidence": "fiction",
+      "parentSlug": "starcraft-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Characters_of_the_StarCraft_series",
+        "fandom_title": "Characters of the StarCraft series",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sarah-kerrigan",
+      "name": "Sarah Kerrigan",
+      "type": "person",
+      "description": "Sarah Louise Kerrigan, the self-styled Queen of Blades, is a character in Blizzard Entertainment's StarCraft franchise. She was created by Chris Metzen and James Phinney, and her original appearance was designed by Metzen. Sarah Kerrigan is voiced by Glynnis Talken Campbell in StarCraft and Brood War, Tricia Helfer in StarCraft II: Wings of Liberty, Heart of the Swarm and Legacy of the Void, and Vanessa Marshall in Heroes of the Storm.\n\nKerrigan first appears in StarCraft as a twenty-six-year-old Ghost, a psychic trained both physically and mentally as an expert espionage agent and assassin. Initially the second-in-command of Sons of Korhal, a revolutionary movement against the oppressive Confederacy of Man, she is captured by the insectoid Zerg and genetically mutated into a human/Zerg hybrid (\"infested\" in series lore) completely under the control of the Zerg Overmind. Initially one of the Zerg's most powerful agents, she gains control of the Zerg after the destruction of the Overmind, and seeks dominance over the galaxy. Kerrigan's life before her mutation is further explored in the StarCraft novels Uprising and Liberty's Crusade, while Queen of Blades elaborates on her infested persona.\n\nAs one of the major characters of the series, Kerrigan has been critically praised by video game journalists for her believability and character depth, and is frequently featured in lists of the top video game women, villains and characters in general. Her reception in regards to gender representation in video games has been more mixed. She has been considered to challenge some hetero-normative gender roles while adhering to others, and to also have an overly sexualized design.\n\nThe character of Kerrigan was created by Blizzard Entertainment's Chris Metzen and James Phinney, with her physical appearance designed by Metzen. Though only meant to appear in a single level, her character grew on the developers, who ultimately designed a far greater role as the \"Queen of Blades\" that would evolve into the greatest agent of the Zerg Overmind.",
+      "short_description": "Sarah Louise Kerrigan, the self-styled Queen of Blades, is a character in Blizzard Entertainment's StarCraft franchise. She was created by Chris Metzen and James Phinney, and her original appearance was designed by…",
+      "evidence": "fiction",
+      "parentSlug": "starcraft-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Sarah_Kerrigan",
+        "fandom_title": "Sarah Kerrigan",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "characters-of-the-starcraft-series",
+      "starcraft-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "sarah-kerrigan",
+      "starcraft-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. StarCraft article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T16:37:55.518Z",
+  "generated_at": "2026-09-15T03:17:01.461Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://en.wikipedia.org/wiki/",
     "host": "en.wikipedia.org"
   },
   "stats": {
-    "fandom_titles": 0,
+    "fandom_titles": 1,
     "fandom_enriched_core": 0,
-    "fandom_created": 0,
+    "fandom_created": 1,
     "fandom_images": 0,
-    "fandom_intros": 0
+    "fandom_intros": 1,
+    "description_ensure_at": "2026-09-14T22:13:03.947Z",
+    "description_ensure_count": 1
   }
 }

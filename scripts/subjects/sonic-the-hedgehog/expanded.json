@@ -494,11 +494,42 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "knuckles-the-echidna",
+      "name": "Knuckles the Echidna",
+      "type": "person",
+      "description": "Knuckles debuted as one of the main antagonists in Sonic the Hedgehog 3 (1994); in Sonic & Knuckles, he first became a playable character. In the games' story, Doctor Eggman manipulates him into opposing Sonic and Tails. After antagonizing the duo, he forms a temporary alliance with them after learning of Eggman's trickery. Since then, he has appeared in numerous playable and non-playable roles, as well as in several series of comic books, Western animated television, and Japanese anime, in addition to the feature films Sonic the Hedgehog 2 and Sonic the Hedgehog 3, he stars in the live action Knuckles television miniseries.\n\nOne of the series' most popular characters, Knuckles has appeared in most games in the franchise, including those for the main series and spin-offs. His likeness has been frequently utilized in Sonic the Hedgehog merchandise, with the character also being subject to various Internet memes.\n\nDuring conception of Sonic the Hedgehog 3, the development team wanted to create a new rival for Sonic. The final design of Knuckles was the result of dozens of possible designs inspired by numerous different animals. In collaboration between the Sonic Team and Sega of America's product marketing manager, Pamela Kelly, the final character of \"Knuckles\" was chosen. The emphasis of the character was to break walls, with the original idea being a 'whirlwind' ability, rather than punching.\n\nKnuckles was created by developer Takashi Yuda and Pamela Kelly who never intended him to be any more than a \"supporting character\". Knuckles was introduced in Sonic the Hedgehog 3 as an \"intimidator\" because of his powerful abilities and physical strength. He was given a headlining role in the next game, Sonic & Knuckles, where he made his first appearance as a playable character.",
+      "short_description": "Knuckles debuted as one of the main antagonists in Sonic the Hedgehog 3 (1994); in Sonic & Knuckles, he first became a playable character. In the games' story, Doctor Eggman manipulates him into opposing Sonic and…",
+      "evidence": "fiction",
+      "parentSlug": "sonic-the-hedgehog-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Knuckles_the_Echidna",
+        "fandom_title": "Knuckles the Echidna",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
     [
       "doctor-eggman",
+      "sonic-the-hedgehog-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "knuckles-the-echidna",
       "sonic-the-hedgehog-figures",
       "part_of",
       "Part of",
@@ -512,7 +543,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Sonic the Hedgehog article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T16:40:05.091Z",
+  "generated_at": "2026-09-15T03:19:08.751Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://en.wikipedia.org/wiki/",

@@ -494,11 +494,42 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "the-client-star-wars",
+      "name": "The Client",
+      "type": "person",
+      "description": "The Client is a fictional character in the Star Wars franchise who appears in three episodes of the first season of the Disney+ television series The Mandalorian. He is a mysterious, unnamed leader in the former Galactic Empire and subordinate of Moff Gideon, who plays a key role in setting the show's story into motion by hiring the bounty hunter known as \"The Mandalorian\" to retrieve a \"50-year-old\", yet infantile alien dubbed \"The Child\" (later named as Grogu).\n\nThe Client is portrayed by German film director, screenwriter, and actor Werner Herzog, who was recruited for the part by series creator and showrunner Jon Favreau. Herzog was not familiar with Favreau's previous work, nor had he ever seen a Star Wars film, but was impressed with the screenplays for The Mandalorian as well as the film-making style of the show.\n\nHerzog particularly enjoyed filming scenes with the animatronic puppet of The Child, subsequently strongly urging Favreau to solely use the puppet for the character and not computer-generated imagery as had originally been intended for later scenes, calling them \"cowards\" for considering using CGI in its place. The character and Herzog's performance have received positive reviews from critics.\n\nAlmost no details are provided about the Client's backstory, except that he is loyal to the remnant of the former Galactic Empire, which by this time has fallen from power after losing its war against the Rebel Alliance. The character is never identified by name on the series and is known simply as \"The Client\".",
+      "short_description": "The Client is a fictional character in the Star Wars franchise who appears in three episodes of the first season of the Disney+ television series The Mandalorian. He is a mysterious, unnamed leader in the former…",
+      "evidence": "fiction",
+      "parentSlug": "the-mandalorian-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Client_(Star_Wars)",
+        "fandom_title": "The Client (Star Wars)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
     [
       "the-armorer",
+      "the-mandalorian-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-client-star-wars",
       "the-mandalorian-figures",
       "part_of",
       "Part of",
@@ -512,7 +543,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. The Mandalorian article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T16:56:00.212Z",
+  "generated_at": "2026-09-15T03:32:57.905Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://en.wikipedia.org/wiki/",

@@ -10,7 +10,9 @@
           "wikipedia",
           "fandom"
         ]
-      }
+      },
+      "description": "Discworld is a collection of fantasy comedy novels, graphic novels, short stories, and associated works conceived and primarily written by the English author Terry Pratchett. They are united by their being set on the Discworld, a flat planet balanced on the backs of four elephants which in turn stand on the back of a giant turtle. The novel series consists of forty-one books, the first being The Colour of Magic, published in 1983, and the last The Shepherd's Crown, published posthumously in 2015. Pratchett also wrote eleven short stories related to the Discworld. The novels often satirise classic fantasy and science fiction, mythology, and folklore, and also include commentary on contemporary cultural, political and scientific issues.\n\nThe series has spawned a number of supplementary works, including four books on the science of Discworld, four maps of locations within it, and an encyclopedia. While Pratchett was involved with most of these, he often worked in collaboration with others including Stephen Briggs, Ian Stewart, Jack Cohen, and long-time series illustrators Josh Kirby and Paul Kidby. There is no intention to publish further novels following Pratchett's death, but supplementary works continue to be published and include Tiffany Aching's Guide to Being a Witch, by Pratchett's daughter Rhianna and Gabrielle Kent. In addition, Discworld novels have been adapted into computer games, board games, and for the theatre and television.\n\nThe Discworld books contributed significantly to Pratchett being the UK's best-selling author in the 1990s, and they regularly topped the Sunday Times bestsellers list. Discworld novels have also won awards such as the Prometheus Award and the Carnegie Medal. In the BBC's Big Read, four Discworld novels were in the top 100, and a total of fourteen in the top 200. More than 80 million Discworld books have been sold in 37 languages.\n\nThe Discworld novels contain common themes and motifs that run through the series. Many of the novels parody fantasy tropes and various subgenres of fantasy, like fairy tales (notably Witches Abroad) or vampire tales (Carpe Jugulum). Analogies of real-world issues, such as religion (Small Gods), fundamentalism and inner city tension (Thud), business and politics (Making Money), racial prejudice and exploitation (Snuff) recur, as do aspects of culture and entertainment such as opera (Maskerade), rock music (Soul Music), cinema (Moving Pictures), and football (Unseen Academicals). Parodies of non-Discworld fiction also occur frequently, including Shakespeare, Beatrix Potter, the Dirty Harry films and other movies. Major historical events, especially battles, are sometimes the basis for both trivial and key events (Jingo, Eric, and Pyramids), as are trends in science, technology, pop culture and modern art (Moving Pictures, Men at Arms, Thud). There are also humanist themes in many Discworld novels, and a focus on critical thinking skills in the Witches and Tiffany Aching series.",
+      "short_description": "Discworld is a collection of fantasy comedy novels, graphic novels, short stories, and associated works conceived and primarily written by the English author Terry Pratchett. They are united by their being set on the…"
     },
     {
       "slug": "discworld-figures",
@@ -469,15 +471,48 @@
       }
     }
   ],
-  "entities": [],
-  "relationships": [],
+  "entities": [
+    {
+      "slug": "tiffany-aching",
+      "name": "Tiffany Aching",
+      "type": "person",
+      "description": "Tiffany Aching is a fictional character in Terry Pratchett's satirical Discworld series of fantasy novels. Her name in Nac Mac Feegle is Tir-far-thóinn or 'Land Under Wave'.\n\nTiffany is a trainee witch whose growth into her job forms one of the many arcs in the Discworld series. She is the main character in The Wee Free Men, A Hat Full of Sky, Wintersmith, I Shall Wear Midnight and The Shepherd's Crown. Tiffany grows up over the course of the series, from nine years old in The Wee Free Men to being in her late teens in The Shepherd's Crown.\n\nBeginning with The Wee Free Men in 2003, the main Discworld books featuring Tiffany Aching are:\n\nTiffany is also the in-universe author of the tie-in book Tiffany Aching’s Guide to Being a Witch by Rhianna Pratchett and Gabrielle Kent, published in 2023 in part to celebrate twenty years of the character.",
+      "short_description": "Tiffany Aching is a fictional character in Terry Pratchett's satirical Discworld series of fantasy novels. Her name in Nac Mac Feegle is Tir-far-thóinn or 'Land Under Wave'.",
+      "evidence": "fiction",
+      "parentSlug": "discworld-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Tiffany_Aching",
+        "fandom_title": "Tiffany Aching",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "tiffany-aching",
+      "discworld-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Discworld article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T16:40:51.395Z",
+  "generated_at": "2026-09-15T03:19:53.682Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://en.wikipedia.org/wiki/",
@@ -488,6 +523,8 @@
     "fandom_enriched_core": 0,
     "fandom_created": 0,
     "fandom_images": 0,
-    "fandom_intros": 0
+    "fandom_intros": 0,
+    "description_ensure_at": "2026-09-14T22:16:06.544Z",
+    "description_ensure_count": 1
   }
 }

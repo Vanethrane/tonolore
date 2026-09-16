@@ -350,14 +350,14 @@ const entities = [
 const relationships = [
     [
         "notch",
-        "minecraft",
+    "minecraft",
         "created",
         "Notch created Minecraft.",
         0.99,
         0.99
     ],
     [
-        "jeb",
+    "jeb",
         "minecraft",
         "influenced",
         "Jeb led development after Notch.",
@@ -374,14 +374,14 @@ const relationships = [
     ],
     [
         "microsoft",
-        "mojang",
+    "mojang",
         "produced",
         "Microsoft acquired Mojang.",
         0.98,
         0.96
     ],
     [
-        "microsoft",
+    "microsoft",
         "minecraft",
         "produced",
         "Microsoft publishes Minecraft worldwide.",
@@ -413,7 +413,7 @@ const relationships = [
         0.9
     ],
     [
-        "steve",
+    "steve",
         "minecraft",
         "connected_to",
         "Steve is a default Minecraft avatar.",
@@ -421,7 +421,7 @@ const relationships = [
         0.94
     ],
     [
-        "alex",
+    "alex",
         "minecraft",
         "connected_to",
         "Alex is a default Minecraft avatar.",
@@ -429,7 +429,7 @@ const relationships = [
         0.94
     ],
     [
-        "overworld",
+    "overworld",
         "minecraft",
         "located_in",
         "The Overworld is Minecraft's main dimension.",
@@ -437,7 +437,7 @@ const relationships = [
         0.97
     ],
     [
-        "nether",
+    "nether",
         "minecraft",
         "located_in",
         "The Nether is a Minecraft dimension.",
@@ -445,7 +445,7 @@ const relationships = [
         0.97
     ],
     [
-        "the-end",
+    "the-end",
         "minecraft",
         "located_in",
         "The End is a Minecraft dimension.",
@@ -453,7 +453,7 @@ const relationships = [
         0.97
     ],
     [
-        "villages",
+    "villages",
         "overworld",
         "located_in",
         "Villages generate in the Overworld.",
@@ -461,7 +461,7 @@ const relationships = [
         0.95
     ],
     [
-        "creeper",
+    "creeper",
         "overworld",
         "located_in",
         "Creepers spawn in the Overworld.",
@@ -469,7 +469,7 @@ const relationships = [
         0.94
     ],
     [
-        "enderman",
+    "enderman",
         "the-end",
         "located_in",
         "Endermen are iconic to The End.",
@@ -477,7 +477,7 @@ const relationships = [
         0.92
     ],
     [
-        "ender-dragon",
+    "ender-dragon",
         "the-end",
         "located_in",
         "The Ender Dragon rules The End.",
@@ -485,7 +485,7 @@ const relationships = [
         0.97
     ],
     [
-        "villagers",
+    "villagers",
         "villages",
         "located_in",
         "Villagers live in villages.",
@@ -493,7 +493,7 @@ const relationships = [
         0.95
     ],
     [
-        "iron-golem",
+    "iron-golem",
         "villages",
         "supports",
         "Iron Golems protect villages.",
@@ -501,7 +501,7 @@ const relationships = [
         0.93
     ],
     [
-        "piglin",
+    "piglin",
         "nether",
         "located_in",
         "Piglins inhabit the Nether.",
@@ -509,7 +509,7 @@ const relationships = [
         0.95
     ],
     [
-        "warden",
+    "warden",
         "overworld",
         "located_in",
         "The Warden appears in the deep dark of the Overworld.",
@@ -517,7 +517,7 @@ const relationships = [
         0.92
     ],
     [
-        "diamonds",
+    "diamonds",
         "survival",
         "uses",
         "Diamonds power mid-to-late Survival progression.",
@@ -525,7 +525,7 @@ const relationships = [
         0.92
     ],
     [
-        "redstone",
+    "redstone",
         "minecraft",
         "connected_to",
         "Redstone enables Minecraft automation.",
@@ -533,7 +533,7 @@ const relationships = [
         0.94
     ],
     [
-        "netherite",
+    "netherite",
         "nether",
         "connected_to",
         "Netherite comes from Nether ancient debris.",
@@ -541,7 +541,7 @@ const relationships = [
         0.95
     ],
     [
-        "crafting-table",
+    "crafting-table",
         "survival",
         "uses",
         "Crafting tables unlock Survival crafting.",
@@ -549,7 +549,7 @@ const relationships = [
         0.93
     ],
     [
-        "survival",
+    "survival",
         "minecraft",
         "part_of",
         "Survival is a core Minecraft mode.",
@@ -557,7 +557,7 @@ const relationships = [
         0.97
     ],
     [
-        "creative",
+    "creative",
         "minecraft",
         "part_of",
         "Creative is a core Minecraft mode.",
@@ -565,7 +565,7 @@ const relationships = [
         0.97
     ],
     [
-        "hardcore",
+    "hardcore",
         "survival",
         "part_of",
         "Hardcore is a permanent-death Survival variant.",
@@ -573,7 +573,7 @@ const relationships = [
         0.94
     ],
     [
-        "enchanting",
+    "enchanting",
         "survival",
         "connected_to",
         "Enchanting upgrades Survival gear.",

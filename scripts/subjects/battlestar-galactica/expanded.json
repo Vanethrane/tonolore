@@ -10,7 +10,9 @@
           "wikipedia",
           "fandom"
         ]
-      }
+      },
+      "description": "Battlestar Galactica is an American science fiction media franchise created by Glen A. Larson. It began with the original television series in 1978, and was followed by a short-run sequel series, Galactica 1980, a line of book adaptations, original novels, comic books, a board game, and video games. A \"re-imagined\" reboot aired as a two-part, three-hour miniseries developed by Ronald D. Moore and David Eick in 2003, followed by a 2004 television series, which aired until 2009. A prequel series, Caprica, aired in 2010.\n\nAll Battlestar Galactica productions share the premise that in a distant part of the universe, a human civilization has extended to a group of planets known as the Twelve Colonies, to which they have migrated from their ancestral homeworld of Kobol. The Twelve Colonies have been engaged in a lengthy war with the Cylons, a cybernetic race whose goal is the extermination of the human species. The Cylons offer peace to the humans, which proves to be a ruse. With the aid of a human named Baltar, the Cylons carry out a massive nuclear attack on the Twelve Colonies and the Colonial Fleet of starships that protect them, devastating the fleet, laying waste to the Colonies, and destroying all but a small remnant population. Survivors flee into outer space aboard a motley fleet of spaceworthy ships. Of the Colonial battle fleet, only the Battlestar Galactica, a gigantic battleship and spacecraft carrier, appears to have survived the attack. Under the leadership of Commander Adama, the Galactica and the pilots of \"Viper fighters\" lead a fugitive fleet of survivors in search of the fabled thirteenth colony known as Earth.\n\nGlen A. Larson, the creator and executive producer of Battlestar Galactica, claimed he had conceived of the Battlestar Galactica premise, which he called Adam's Ark, during the late 1960s. As James E. Ford detailed in \"Battlestar Galactica and Mormon Theology\", a paper read at the Joint Conference of the American Culture and Popular Culture Associations on April 17, 1980 (and published as \"Theology in Prime Time Science Fiction: Battlestar Galactica and Mormon Doctrine\", Journal of Popular Culture #17 [1983]: 83–87), the series incorporated many themes from Mormon theology, such as marriage for \"time and eternity\", a \"council of twelve\", a lost thirteenth tribe of humans, and a planet called Kobol (an anagram of Kolob), as Larson was a member of the Church of Jesus Christ of Latter-day Saints. However, he was unable to find financial backing for his TV series for a number of years. Battlestar Galactica was finally produced in the wake of the success of the 1977 film Star Wars. The original Cylons of Battlestar Galactica, robotic antagonists bent on destroying all humankind, owe much to Fred Saberhagen's berserker stories, including Saberhagen's fictional race the Builders whose \"sliding single red eye\" became the signature design element for the Cylons.",
+      "short_description": "Battlestar Galactica is an American science fiction media franchise created by Glen A. Larson. It began with the original television series in 1978, and was followed by a short-run sequel series, Galactica 1980, a line…"
     },
     {
       "slug": "battlestar-galactica-figures",
@@ -467,17 +469,55 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "athena-battlestar-galactica",
+      "description": "Athena is the name of multiple characters in the fictional Battlestar Galactica science fiction universe.\n\nLieutenant Athena, a bridge officer in the 1978–79 television series Battlestar Galactica\n\nNumber Eight (Battlestar Galactica), a humanoid Cylon in the 2004–09 television series Battlestar Galactica, one copy of whom uses the call sign \"Athena\"",
+      "short_description": "Athena is the name of multiple characters in the fictional Battlestar Galactica science fiction universe."
     }
   ],
-  "entities": [],
-  "relationships": [],
+  "entities": [
+    {
+      "slug": "athena-battlestar-galactica",
+      "name": "Athena",
+      "type": "person",
+      "description": "Athena is the name of multiple characters in the fictional Battlestar Galactica science fiction universe.\n\nLieutenant Athena, a bridge officer in the 1978–79 television series Battlestar Galactica\n\nNumber Eight (Battlestar Galactica), a humanoid Cylon in the 2004–09 television series Battlestar Galactica, one copy of whom uses the call sign \"Athena\"",
+      "short_description": "Athena is the name of multiple characters in the fictional Battlestar Galactica science fiction universe.",
+      "evidence": "fiction",
+      "parentSlug": "battlestar-galactica-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Athena_(Battlestar_Galactica)",
+        "fandom_title": "Athena (Battlestar Galactica)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "athena-battlestar-galactica",
+      "battlestar-galactica-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Battlestar Galactica article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T15:27:34.448Z",
+  "generated_at": "2026-09-15T02:12:37.070Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://en.wikipedia.org/wiki/",
@@ -488,6 +528,8 @@
     "fandom_enriched_core": 0,
     "fandom_created": 0,
     "fandom_images": 0,
-    "fandom_intros": 0
+    "fandom_intros": 0,
+    "description_ensure_at": "2026-09-14T21:06:36.298Z",
+    "description_ensure_count": 2
   }
 }

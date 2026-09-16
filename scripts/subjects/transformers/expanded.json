@@ -1476,25 +1476,25 @@
       "slug": "ark-crew",
       "name": "Ark Crew",
       "type": "person",
-      "description": "The Ark Crew is a group of Autobots led by Optimus Prime to evacuate from the dying Cybertron.\n\nCategory:Factions Category:Autobots Category:Cybertronian Category:Ships",
+      "description": "The Ark Crew is a group of Autobots who manned the Ark led by none other than the Autobot leader, Optimus Prime.\n\nDuring the Great Exodus, Optimus Prime have rallied all remaining pockets of Autobots left on Cybertron and ordered them to build the Ark which will allow them to leave their dying world and search for a new home to live.\n\nAfter departing Cybertron, the Ark was under attack by The Nemesis which broke out into a space naval battle. Many crew members of the Ark were killed, wounded or went overboard in the intense fight.\n\nWhen the black hole sucked the Ark and the Nemesis in, the two ships were sent to different locations and started searching for the Allspark. Some time later, a small group from the crew managed to make their way to Earth . The fate of the rest of the crew is unknown so far.",
       "short_description": "The Ark Crew is a group of Autobots who manned the Ark led by none other than the Autobot leader, Optimus Prime.",
       "evidence": "fiction",
       "parentSlug": "autobots",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/transformers/images/6/6d/Ark_Blueprints.jpg/revision/latest/scale-to-width-down/180?cb=20240210113600",
-      "image_source": "https://transformers.fandom.com/wiki/Ark_Crew_(WFC_Trilogy)",
+      "image_url": "https://static.wikia.nocookie.net/transformers/images/3/39/Ark-FoC.png/revision/latest/scale-to-width-down/180?cb=20190726171936",
+      "image_source": "https://transformers.fandom.com/wiki/Ark_Crew",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hasbro / Takara Tomy (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Ark Crew (WFC Trilogy)",
+      "image_alt": "Identification thumbnail for Ark Crew",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
         "kind": "character",
-        "fandom_url": "https://transformers.fandom.com/wiki/Ark_Crew_(WFC_Trilogy)",
-        "fandom_title": "Ark Crew (WFC Trilogy)",
+        "fandom_url": "https://transformers.fandom.com/wiki/Ark_Crew",
+        "fandom_title": "Ark Crew",
         "source_fandom": "transformers.fandom.com",
         "sources": [
           "fandom"
@@ -9516,6 +9516,58 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "aimless",
+      "name": "Aimless",
+      "type": "person",
+      "description": "Aimless should have been called \"Useless\". This Nebulan's success rate when he tries to hit a target is unknown, because that would require him to, you know, actually try. Together with his Targetmaster partner Misfire, he's a danger to himself and others. Mostly others.\n\nAimless was a member of the Hive, the despotic rulers of Nebulos. When the Hive allied themselves with a group of Decepticons, he became the Targetmaster partner of Misfire. Aimless introduced himself to his new Decepticon partner with the line, \"I live only to destroy our mutual enemies!\" He then transformed into gun mode, dropped to the ground, and started randomly firing in all directions. After Misfire picked him, he told him that he thought the name Aimless \"suited him better.\"\n\nWhen the partners first engaged in battle together, Misfire criticized Aimless's lack of marksmanship. (He's one to talk!) Aimless responded that this was to be expected, as he was new at this. ,\n\nCategory:Decepticons Category:Headmasters characters Category:Hive Category:Targetmasters Category:Nebulans",
+      "short_description": "Aimless should have been called \"Useless\". This Nebulan's success rate when he tries to hit a target is unknown, because that would require him to, you know, actually try. Together with his Targetmaster partner Misfire,…",
+      "evidence": "fiction",
+      "parentSlug": "decepticons",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/transformers/images/a/ae/G1_Aimless.jpg/revision/latest/scale-to-width-down/180?cb=20210324195410",
+      "image_source": "https://transformers.fandom.com/wiki/Aimless",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hasbro / Takara Tomy (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Aimless",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://transformers.fandom.com/wiki/Aimless",
+        "fandom_title": "Aimless",
+        "source_fandom": "transformers.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "angelino-district",
+      "name": "Angelino District",
+      "type": "place",
+      "description": "Angelino District is a section of some city on the west coast of the United States of America. Bifurcated by a large storm drain, crisscrossed by overpasses, the area is abandoned by humans, mostly due to the nearby power plant in danger of meltdown, but also because of the frequent meteor strikes and a near-constant struggle between the Autobots and Decepticons.\n\nAngelino District became a battlefield in the Autobot/Decepticon war after they arrived on Earth.\n\nCategory:Transformers Universe Category:Locations Category:Earth locations Category:Games only Category:Prime locations",
+      "short_description": "Angelino District is a section of some city on the west coast of the United States of America. Bifurcated by a large storm drain, crisscrossed by overpasses, the area is abandoned by humans, mostly due to the nearby…",
+      "evidence": "fiction",
+      "parentSlug": "transformers",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://transformers.fandom.com/wiki/Angelino_District",
+        "fandom_title": "Angelino District",
+        "source_fandom": "transformers.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -12150,6 +12202,22 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "aimless",
+      "decepticons",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "angelino-district",
+      "transformers",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -12158,7 +12226,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (transformers.fandom.com) for identification and commentary only. Character / franchise art © Hasbro / Takara Tomy (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T19:25:36.738Z",
+  "generated_at": "2026-09-15T00:54:47.834Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://transformers.fandom.com/wiki/",
@@ -12168,7 +12236,7 @@
     "fandom_titles": 1,
     "fandom_enriched_core": 0,
     "fandom_created": 1,
-    "fandom_images": 1,
+    "fandom_images": 0,
     "fandom_intros": 1,
     "description_ensure_at": "2026-09-13T02:38:23.277Z",
     "description_ensure_count": 1

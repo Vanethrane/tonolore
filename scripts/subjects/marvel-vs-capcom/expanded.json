@@ -430,4 +430,101 @@
         "source_fandom": "en.wikipedia.org",
         "sources": [
           "wikipedia",
-          "fa
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-vs-capcom-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_vs._Capcom_entry_22",
+        "fandom_title": "Marvel vs. Capcom entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-vs-capcom-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_vs._Capcom_entry_23",
+        "fandom_title": "Marvel vs. Capcom entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-vs-capcom-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_vs._Capcom_entry_24",
+        "fandom_title": "Marvel vs. Capcom entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "marvel-super-heroes-video-game",
+      "name": "Marvel Super Heroes",
+      "type": "topic",
+      "description": "Marvel Super Heroes is loosely based on \"The Infinity Gauntlet\" storyline of the Marvel Universe. It is the second Capcom fighting game based on characters from Marvel Comics, following 1994's X-Men: Children of the Atom. It was succeeded by X-Men vs. Street Fighter, the first entry in the Marvel vs. Capcom series, in 1996.\n\nMarvel Super Heroes is a fighting game in which superheroes and villains from the Marvel Universe fight against each other. Loosely based on The Infinity Gauntlet storyline, the game focuses on heroes and villains battling each other for the Infinity Gems. The main antagonist is Thanos, who plots to use the Infinity Gems to take over the universe.\n\nThe aim of the game is to use attacks and special abilities to knock out the opponent, or possess more life than him/her at the end of the round. Throughout the match, players build up a super meter which can be used to perform powerful Infinity Combo attacks. A unique mechanic in the game are the Infinity Gems; Power, Time, Space, Reality, Soul and Mind. These gems can be earned by obtaining them from opponents during arcade mode, or by fulfilling certain criteria during versus mode, such as getting the first hit. By using these gems in battle, fighters receive enhanced effects for a short amount of time, such as increased power or defense, health recovery or additional attacks. Certain fighters will receive extra benefits whilst using certain gems. For example, if Spider-Man uses the Power Gem, he can create a doppelganger on the opposite side of his opponent for extra damage during his attacks.\n\nCapcom included the four characters from X-Men: Children of the Atom which their market research had determined to be the most popular: Wolverine, Juggernaut, Magneto and Psylocke.",
+      "short_description": "Marvel Super Heroes is loosely based on \"The Infinity Gauntlet\" storyline of the Marvel Universe. It is the second Capcom fighting game based on characters from Marvel Comics, following 1994's X-Men: Children of the…",
+      "evidence": "fiction",
+      "parentSlug": "marvel-vs-capcom",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Super_Heroes_(video_game)",
+        "fandom_title": "Marvel Super Heroes (video game)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "marvel-super-heroes-video-game",
+      "marvel-vs-capcom",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Marvel vs. Capcom article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-15T02:09:04.464Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0,
+    "description_ensure_at": "2026-09-14T20:59:08.077Z",
+    "description_ensure_count": 1
+  }
+}

@@ -438,4 +438,58 @@
       "slug": "blazblue-entry-22",
       "metadata": {
         "fandom_url": "https://en.wikipedia.org/wiki/BlazBlue_entry_22",
-    
+        "fandom_title": "BlazBlue entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blazblue-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BlazBlue_entry_23",
+        "fandom_title": "BlazBlue entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "blazblue-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BlazBlue_entry_24",
+        "fandom_title": "BlazBlue entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. BlazBlue article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-15T02:07:14.943Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

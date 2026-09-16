@@ -478,6 +478,11 @@
       "slug": "doll",
       "description": "A doll is a model typically of a human or humanoid character, often used as a toy for children. Dolls have also been used in traditional religious rituals throughout the world. Traditional dolls made of materials such as clay and wood are found in the Americas, Asia, Africa and Europe. The earliest documented dolls go back to the ancient civilizations of Egypt, Greece, and Rome. They have been made as crude, rudimentary playthings as well as elaborate art. Modern doll manufacturing has its roots in Germany, from the 15th century. With industrialization and new materials such as porcelain and plastic, dolls were increasingly mass-produced. During the 20th century, dolls became increasingly popular as collectibles.",
       "short_description": "A doll is a model typically of a human or humanoid character, often used as a toy for children. Dolls have also been used in traditional religious rituals throughout the world. Traditional dolls made of materials such…"
+    },
+    {
+      "slug": "akkala",
+      "description": "Akkala Sámi, also referred to, particularly in Russia, as Babin Sámi (Russian: Бабинский саа́мский), was a Sámi language spoken in the Sámi villages of Aʼkkel (Russian: Бабинский; Finnish: Akkala),  Čuʼkksuâl (Russian: Экостровский) and Sââʼrvesjäuʼrr (Russian: Гирвасозеро; Finnish: Hirvasjärvi), in the inland parts of the Kola Peninsula in Russia. Formerly erroneously regarded as a dialect of Kildin Sámi, it has recently become recognized as an independent Sámi language that is most closely related to its western neighbor Skolt Sámi, although the two are somewhat mutually intelligible.\n\nAkkala Sámi was noted as extinct in the 2010 UNESCO Atlas of the World's Languages in Danger. Previously, it had been considered the most endangered Eastern Sámi language. On 29 December 2003 Maria Sergina – the last fluent native speaker of Akkala Sámi – died. However, as of 2011 there were at least two people, both aged 70, with some knowledge of Akkala Sámi. Remaining ethnic Akkala Sámi live in the village Yona, where there is a cultural office.\n\nAlthough there exists a description of Akkala Sámi phonology and morphology, a few published texts, and archived audio recordings, as well as a grammar of the language, the Akkala Sámi language remains among the most poorly documented Sámi languages. One of the few items in the language are chapters 23–28 of the Gospel of Matthew published in 1897. It was translated by Arvid Genetz and published by the Finnish Literature Society, with costs paid by the British and Foreign Bible Society.\n\nIn the Russian 2020 census, 1 person still claimed knowledge of Akkala.",
+      "short_description": "Akkala Sámi, also referred to, particularly in Russia, as Babin Sámi (Russian: Бабинский саа́мский), was a Sámi language spoken in the Sámi villages of Aʼkkel (Russian: Бабинский; Finnish: Akkala), Čuʼkksuâl (Russian:…"
     }
   ],
   "entities": [
@@ -15938,7 +15943,7 @@
       "slug": "doll",
       "name": "Doll",
       "type": "object",
-      "description": "A doll is a model typically of a human or humanoid character, often used as a toy for children. Dolls have also been used in traditional religious rituals throughout the world. Traditional dolls made of materials such as clay and wood are found in the Americas, Asia, Africa and Europe. The earliest documented dolls go back to the ancient civilizations of Egypt, Greece, and Rome. They have been made as crude, rudimentary playthings as well as elaborate art. Modern doll manufacturing has its roots in Germany, from the 15th century. With industrialization and new materials such as porcelain and plastic, dolls were increasingly mass-produced. During the 20th century, dolls became increasingly popular as collectibles.",
+      "description": "Dolls are odd dolls that seemed to have been crafted to resemble Link. They increase the number of Link's lives when collected. They are well hidden in certain areas of Hyrule's overworld. However, once they are collected, they disappear from their locations for the rest of the game and cannot be recollected.",
       "short_description": "A doll is a model typically of a human or humanoid character, often used as a toy for children. Dolls have also been used in traditional religious rituals throughout the world. Traditional dolls made of materials such…",
       "evidence": "fiction",
       "parentSlug": "the-legend-of-zelda",
@@ -15957,6 +15962,35 @@
         "kind": "item",
         "fandom_url": "https://zelda.fandom.com/wiki/Doll",
         "fandom_title": "Doll",
+        "source_fandom": "zelda.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "akkala",
+      "name": "Akkala",
+      "type": "place",
+      "description": "Akkala Sámi, also referred to, particularly in Russia, as Babin Sámi (Russian: Бабинский саа́мский), was a Sámi language spoken in the Sámi villages of Aʼkkel (Russian: Бабинский; Finnish: Akkala),  Čuʼkksuâl (Russian: Экостровский) and Sââʼrvesjäuʼrr (Russian: Гирвасозеро; Finnish: Hirvasjärvi), in the inland parts of the Kola Peninsula in Russia. Formerly erroneously regarded as a dialect of Kildin Sámi, it has recently become recognized as an independent Sámi language that is most closely related to its western neighbor Skolt Sámi, although the two are somewhat mutually intelligible.\n\nAkkala Sámi was noted as extinct in the 2010 UNESCO Atlas of the World's Languages in Danger. Previously, it had been considered the most endangered Eastern Sámi language. On 29 December 2003 Maria Sergina – the last fluent native speaker of Akkala Sámi – died. However, as of 2011 there were at least two people, both aged 70, with some knowledge of Akkala Sámi. Remaining ethnic Akkala Sámi live in the village Yona, where there is a cultural office.\n\nAlthough there exists a description of Akkala Sámi phonology and morphology, a few published texts, and archived audio recordings, as well as a grammar of the language, the Akkala Sámi language remains among the most poorly documented Sámi languages. One of the few items in the language are chapters 23–28 of the Gospel of Matthew published in 1897. It was translated by Arvid Genetz and published by the Finnish Literature Society, with costs paid by the British and Foreign Bible Society.\n\nIn the Russian 2020 census, 1 person still claimed knowledge of Akkala.",
+      "short_description": "Akkala Sámi, also referred to, particularly in Russia, as Babin Sámi (Russian: Бабинский саа́мский), was a Sámi language spoken in the Sámi villages of Aʼkkel (Russian: Бабинский; Finnish: Akkala), Čuʼkksuâl (Russian:…",
+      "evidence": "fiction",
+      "parentSlug": "hyrule",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b0/BotW_Akkala.png/revision/latest/scale-to-width-down/180?cb=20220109203558",
+      "image_source": "https://zelda.fandom.com/wiki/Akkala",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Akkala",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://zelda.fandom.com/wiki/Akkala",
+        "fandom_title": "Akkala",
         "source_fandom": "zelda.fandom.com",
         "sources": [
           "fandom"
@@ -20444,6 +20478,14 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "akkala",
+      "hyrule",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -20452,7 +20494,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (zelda.fandom.com) for identification and commentary only. Character / franchise art © Nintendo (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T19:45:32.490Z",
+  "generated_at": "2026-09-15T01:02:46.169Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://zelda.fandom.com/wiki/",
@@ -20461,10 +20503,10 @@
   "stats": {
     "fandom_titles": 1,
     "fandom_enriched_core": 0,
-    "fandom_created": 1,
+    "fandom_created": 0,
     "fandom_images": 1,
     "fandom_intros": 1,
-    "description_ensure_at": "2026-09-14T19:45:36.676Z",
+    "description_ensure_at": "2026-09-15T01:02:07.278Z",
     "description_ensure_count": 1
   }
 }

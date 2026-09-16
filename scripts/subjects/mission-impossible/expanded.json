@@ -494,11 +494,42 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "luther-stickell",
+      "name": "Luther Stickell",
+      "type": "person",
+      "description": "Luther Stickell is a fictional character in the Mission: Impossible film series who first appeared in the 1996 film Mission: Impossible and is the only character besides Ethan Hunt to appear in all eight films.\n\nIn the films, Luther is an expert computer hacker who works for the IMF (Impossible Missions Force) division of the CIA alongside Ethan Hunt. He is portrayed by Ving Rhames.\n\nOver the course of the series, Luther's character goes from being a soft-spoken, down-to-business and reliable team member to being Ethan's most trusted friend and confidant.",
+      "short_description": "Luther Stickell is a fictional character in the Mission: Impossible film series who first appeared in the 1996 film Mission: Impossible and is the only character besides Ethan Hunt to appear in all eight films.",
+      "evidence": "fiction",
+      "parentSlug": "mission-impossible-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Luther_Stickell",
+        "fandom_title": "Luther Stickell",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
     [
       "ethan-hunt",
+      "mission-impossible-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "luther-stickell",
       "mission-impossible-figures",
       "part_of",
       "Part of",
@@ -512,18 +543,18 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Mission: Impossible article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T16:49:25.689Z",
+  "generated_at": "2026-09-15T03:26:04.241Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://en.wikipedia.org/wiki/",
     "host": "en.wikipedia.org"
   },
   "stats": {
-    "fandom_titles": 0,
+    "fandom_titles": 1,
     "fandom_enriched_core": 0,
-    "fandom_created": 0,
+    "fandom_created": 1,
     "fandom_images": 0,
-    "fandom_intros": 0,
+    "fandom_intros": 1,
     "description_ensure_at": "2026-09-14T11:25:07.438Z",
     "description_ensure_count": 1
   }

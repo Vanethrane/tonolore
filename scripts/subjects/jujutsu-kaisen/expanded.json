@@ -563,6 +563,29 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "nobara-kugisaki",
+      "name": "Nobara Kugisaki",
+      "type": "person",
+      "description": "In the Jujutsu Kaisen anime adaptation, Nobara is voiced by Asami Seto in Japanese and Anne Yatco in English. Her character has been widely praised by critics alongside other female characters in the series for being more layered and true to herself than other female characters.\n\nNobara Kugisaki's name was meant by creator Gege Akutami to be \"thorny\", with the kanji characters for and meaning \"wild\" and \"rose\", respectively, while the character used to denote in her last name means \"nail\" or \"peg\", in order to demonstrate the two sides of her personality being rebellious and refined. He came up with her name at the same time as he came up with her powers and abilities, as they come hand-in-hand with each other. Akutami found her dialogue to be the easiest to write of the three main characters, but struggled with her composure in action scenes. Akutami felt it was interesting to give her the sharp desire to go to Tokyo, contrasting against her grandmother's wish for her to be raised normally in her small hometown.\n\nNobara was designed to be more true to herself than the other two protagonists; her authenticity is on full display at multiple points in the series, including during the Kyoto Goodwill Exchange event, where she declares that she will only ever be herself and refuses to try to follow expectations from others. According to Akutami, she is best described by the songs \"Seishun Kyosokyoku\" by Sunny Day Service and \"Ano Depaato\" by Natsuko Nisshoku, which contrast rock with heartfelt vocals and plucky piano playing to show her country upbringing and creativity.\n\nJapanese voice actress Asami Seto struggled to voice Nobara, as her personality contrasts heavily with Nobara's brashness, and had to consult and rehearse many times with the producers to get the personality down through her voice acting. According to Anne Yatco, her English voice actress, \"she is confident, sassy, and snarky—and I love all of it! I also really appreciate that the dynamic between Nobara, Yuji, and Megumi isn't affected by their gender. So, even though she's 'the girl' in the group, no one treats Nobara with kid gloves or thinks that she is weaker than them\". She also touched on Nobara's journey of self-discovery after leaving her home, saying that \"I really came into my own as a person after l left home. I think Nobara wants to grow, not just as a sorcerer but also as a human being, and she outgrew her hometown long ago.\"",
+      "short_description": "In the Jujutsu Kaisen anime adaptation, Nobara is voiced by Asami Seto in Japanese and Anne Yatco in English. Her character has been widely praised by critics alongside other female characters in the series for being…",
+      "evidence": "fiction",
+      "parentSlug": "jujutsu-kaisen-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Nobara_Kugisaki",
+        "fandom_title": "Nobara Kugisaki",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -597,6 +620,14 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "nobara-kugisaki",
+      "jujutsu-kaisen-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -605,7 +636,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Jujutsu Kaisen article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T16:29:05.517Z",
+  "generated_at": "2026-09-15T03:11:07.591Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://en.wikipedia.org/wiki/",
@@ -617,7 +648,7 @@
     "fandom_created": 1,
     "fandom_images": 0,
     "fandom_intros": 1,
-    "description_ensure_at": "2026-09-14T16:29:06.020Z",
+    "description_ensure_at": "2026-09-15T03:11:08.154Z",
     "description_ensure_count": 1
   }
 }

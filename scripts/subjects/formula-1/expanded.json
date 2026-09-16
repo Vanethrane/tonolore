@@ -489,6 +489,11 @@
       "slug": "gus-hutchison",
       "description": "Augustus Hutchison (born April 26, 1937 in Atlanta, Georgia) is an American former racecar driver.\n\nHutchison was the winner of the 1967 SCCA Grand Prix Championship driving a Lotus 41.\n\nIn 1970, Hutchison purchased a Formula One Brabham BT26, entering it in the 1970 United States Grand Prix.  He retired after 21 laps with a loose fuel tank.\n\nWhen Formula A became Formula 5000, Hutchison continued driving in the SCCA series, driving cars from Lola and March.\n\nAfter retiring from racing, Hutchison focused on running his business, Solar Kinetics, based in Dallas.",
       "short_description": "Augustus Hutchison (born April 26, 1937 in Atlanta, Georgia) is an American former racecar driver."
+    },
+    {
+      "slug": "scuderia-centro-sud",
+      "description": "Scuderia Centro Sud was a privateer racing team founded in Modena by Guglielmo \"Mimmo\" Dei and active in Formula One and sports car racing between 1956 and 1965.\n\nDei had been an amateur driver in the 1930s. In the early 1950s he opened a Maserati dealership in Rome. Keen on maintaining a relationship with motorsport, in 1956 he founded his own team. The name \"Centro Sud\" refers to the parts of Italy where his adoptive and native cities are (Modena and Rome).\n\nOver the course of nine seasons, Scuderia Centro Sud entered a total of 49 World Championship rounds, with cars such as the Maserati 250F, various Maserati-powered Coopers and, in the 1960s, a BRM P57. After a very promising start (they scored their first points at their debut with Luigi Villoresi), Centro Sud went on to earn a further total of 24 points, mostly with Masten Gregory and Tony Maggs. But they never won a race: Gregory's third place at the 1957 Monaco Grand Prix was the team's best result.\n\nCentro Sud was the only Italian racing team that took part in the Tasman races in Australia and New Zealand during the winter of 1961-1962.\n\nOne of their most notable feats was to be the first team in the history of Formula One to run a female driver, when Maria Teresa de Filippis (who had already raced as a privateer in the 1958 Belgian Grand Prix a few weeks earlier) competed in the 1958 Portuguese Grand Prix as a Centro Sud team driver. Future 1963 24 Hours of Le Mans, and 1967 24 Hours of Daytona winner Lorenzo Bandini made his Formula One debut with the team at the 1961 Belgian Grand Prix.",
+      "short_description": "Scuderia Centro Sud was a privateer racing team founded in Modena by Guglielmo \"Mimmo\" Dei and active in Formula One and sports car racing between 1956 and 1965."
     }
   ],
   "entities": [
@@ -16649,6 +16654,174 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "jean-pierre-jabouille",
+      "name": "Jean-Pierre Jabouille",
+      "type": "person",
+      "description": "Jean-Pierre Alain Jabouille (; 1 October 1942 - 2 February 2023) was a French former racing driver who competed in Formula One from until . Jabouille had a notable career driving for the first incarnation of the team between and . Jabouille competed in the first turbo charged Formula One car in 1977, Renault pioneering the move to turbo charged engines within Formula One.\n\nJabouille's time at Renault saw him unable to demonstrate his and the team's talent through results due to consistent reliability issues with the Renault cars. Jabouille, however, did manage to achieve some success, taking two victories at the 1979 French Grand Prix (the first race victory for a turbocharged engine in Formula 1), and at the 1980 Austrian Grand Prix.\n\nAt the 1981 Canadian Grand Prix, he sustained a broken leg following an accident caused by a suspension failure on his car. Jabouille, who had signed for the team for 1981, was forced to sit out the first two rounds of the new season. However, following his F1 return, Jabouille appeared no longer fit for F1 following his injuries and was forced to make his retirement from Formula One following his first five races, which accrued little results and two failures to qualify.\n\nJabouille remained with the Ligier team in 1982 in a managerial role, a position he held for a number of years with the team.",
+      "short_description": "Jean-Pierre Alain Jabouille (; 1 October 1942 - 2 February 2023) was a French former racing driver who competed in Formula One from until . Jabouille had a notable career driving for the first incarnation of the team…",
+      "evidence": "fiction",
+      "parentSlug": "formula-1",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/f1wikia/images/e/ef/JeanPierreJabouille.jpeg/revision/latest/scale-to-width-down/180?cb=20250817133156",
+      "image_source": "https://f1.fandom.com/wiki/Jean-Pierre_Jabouille",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Formula 1 marks © Formula One Group / FIA (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Jean-Pierre Jabouille",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://f1.fandom.com/wiki/Jean-Pierre_Jabouille",
+        "fandom_title": "Jean-Pierre Jabouille",
+        "source_fandom": "f1.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "scuderia-centro-sud",
+      "name": "Scuderia Centro Sud",
+      "type": "organization",
+      "description": "Scuderia Centro Sud was a privateer racing team founded in Modena by Guglielmo \"Mimmo\" Dei and active in Formula One and sports car racing between 1956 and 1965.\n\nDei had been an amateur driver in the 1930s. In the early 1950s he opened a Maserati dealership in Rome. Keen on maintaining a relationship with motorsport, in 1956 he founded his own team. The name \"Centro Sud\" refers to the parts of Italy where his adoptive and native cities are (Modena and Rome).\n\nOver the course of nine seasons, Scuderia Centro Sud entered a total of 49 World Championship rounds, with cars such as the Maserati 250F, various Maserati-powered Coopers and, in the 1960s, a BRM P57. After a very promising start (they scored their first points at their debut with Luigi Villoresi), Centro Sud went on to earn a further total of 24 points, mostly with Masten Gregory and Tony Maggs. But they never won a race: Gregory's third place at the 1957 Monaco Grand Prix was the team's best result.\n\nCentro Sud was the only Italian racing team that took part in the Tasman races in Australia and New Zealand during the winter of 1961-1962.\n\nOne of their most notable feats was to be the first team in the history of Formula One to run a female driver, when Maria Teresa de Filippis (who had already raced as a privateer in the 1958 Belgian Grand Prix a few weeks earlier) competed in the 1958 Portuguese Grand Prix as a Centro Sud team driver. Future 1963 24 Hours of Le Mans, and 1967 24 Hours of Daytona winner Lorenzo Bandini made his Formula One debut with the team at the 1961 Belgian Grand Prix.",
+      "short_description": "Scuderia Centro Sud was a privateer racing team founded in Modena by Guglielmo \"Mimmo\" Dei and active in Formula One and sports car racing between 1956 and 1965.",
+      "evidence": "fiction",
+      "parentSlug": "formula-1",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/f1wikia/images/e/ee/LogoCentro-sud2.jpg/revision/latest/scale-to-width-down/180?cb=20191022225101",
+      "image_source": "https://f1.fandom.com/wiki/Scuderia_Centro_Sud",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Formula 1 marks © Formula One Group / FIA (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Scuderia Centro Sud",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://f1.fandom.com/wiki/Scuderia_Centro_Sud",
+        "fandom_title": "Scuderia Centro Sud",
+        "source_fandom": "f1.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "autodromo-internacional-nelson-piquet",
+      "name": "Autódromo Internacional Nelson Piquet",
+      "type": "place",
+      "description": "The Autódromo Internacional Nelson Piquet (commonly known as Jacarepaguá) was a racing circuit which held the Brazilian Grand Prix ten times between to . The five km circuit, named after triple World Champion, Nelson Piquet was opened in 1977 and stood until November 2012, when the circuit was demolished in order to make way for venues for the 2016 Summer Olympic Games.\n\nThe most successful driver around the Jacarepaguá circuit was Alain Prost, winner of five of the 10 Formula One races held there. Nelson Piquet was the only Brazilian driver to win his home event there, doing so in 1983 and 1986.\n\nThe circuit held its last F1 Grand Prix in 1989, a race won by Nigel Mansell, before being replaced by the Autódromo José Carlos Pace at Interlagos.\n\nThe following is a list of Formula One World Championship events held at the Jacarepaguá circuit: {|class=\"wikitable\" width=\"75%\" !Year !Winning Driver !Winning Constructor !Report",
+      "short_description": "The Autódromo Internacional Nelson Piquet (commonly known as Jacarepaguá) was a racing circuit which held the Brazilian Grand Prix ten times between to . The five km circuit, named after triple World Champion, Nelson…",
+      "evidence": "fiction",
+      "parentSlug": "formula-1",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/f1wikia/images/0/06/Aut%C3%B3dromo_Internacional_Nelson_Piquet.png/revision/latest/scale-to-width-down/180?cb=20130416004955",
+      "image_source": "https://f1.fandom.com/wiki/Aut%C3%B3dromo_Internacional_Nelson_Piquet",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Formula 1 marks © Formula One Group / FIA (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Autódromo Internacional Nelson Piquet",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://f1.fandom.com/wiki/Aut%C3%B3dromo_Internacional_Nelson_Piquet",
+        "fandom_title": "Autódromo Internacional Nelson Piquet",
+        "source_fandom": "f1.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "jimmy-jackson",
+      "name": "Jimmy Jackson",
+      "type": "person",
+      "description": "Jimmy Jackson (born 25 July 1910 and died 24 November 1984) was an American racing driver who participated in seven Indianapolis 500 races between 1946 and 1954. His results between and were included in the Formula One championship, although he scored no championship points.\n\n{|class=\"wikitable\" !Year !Entrant !Team ! Points ! Pos.\n\nCategory:Drivers Category:Indianapolis 500-only Drivers Category:United States Drivers Category:1910 births Category:1984 deaths Category:1950 Début Drivers Category:Kurtis Kraft Drivers Category:Deceased Drivers",
+      "short_description": "Jimmy Jackson (born 25 July 1910 and died 24 November 1984) was an American racing driver who participated in seven Indianapolis 500 races between 1946 and 1954. His results between and were included in the Formula One…",
+      "evidence": "fiction",
+      "parentSlug": "formula-1",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://f1.fandom.com/wiki/Jimmy_Jackson",
+        "fandom_title": "Jimmy Jackson",
+        "source_fandom": "f1.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "scuderia-ferrari",
+      "name": "Scuderia Ferrari",
+      "type": "organization",
+      "description": "The team withdrew from the opening round at Silverstone due a dispute about starting money, so would make its debut at the following round in Monaco. The team missed the opening practice session, where the top five spots on the grid were decided, so Ascari and Villoresi lined up sixth and seventh respectively. Sommer was ninth in the third car.\n\nLike the rest of the regular Grand Prix teams, Ferrari missed the Indianapolis 500, so returned for round 4 in Switzerland. Raymond Sommer would be called up in a third car again, this time using the Ferrari 166, with which he won the supporting F2 race. It was a poor showing for the team, with all three cars retiring before half distance.\n\nFerrari would not make use of Sommer's services again, and the Frenchman would return to driving both works and private Talbot Lagos for the rest of the season. For the Belgian GP, Ascari had a new car, the Ferrari 275, which unlike the 125, was normally aspirated. He scored points with it in fifth place, while Villoresi finished a place behind int he older car.\n\nThe team withdrew from the French Grand Prix during practice due to the poor pace of its drivers, both with the newer 275 model. Another new car, the 375, was introduced and tested at Geneva. It was good enough to be taken to the season finale at Monza. Villoresi was unfortunately involved in a traffic accident at the test, and as a result could not race in Italy. Ferrari asked Raymond Sommer back, but organisers would not allow it, so Ferrari recruited former bike racing star Dorino Serafini to drive the car.",
+      "short_description": "The team withdrew from the opening round at Silverstone due a dispute about starting money, so would make its debut at the following round in Monaco. The team missed the opening practice session, where the top five…",
+      "evidence": "fiction",
+      "parentSlug": "formula-1",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/f1wikia/images/d/d6/FerrariLogo.png/revision/latest/scale-to-width-down/180?cb=20220216092511",
+      "image_source": "https://f1.fandom.com/wiki/Scuderia_Ferrari",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Formula 1 marks © Formula One Group / FIA (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Scuderia Ferrari",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://f1.fandom.com/wiki/Scuderia_Ferrari",
+        "fandom_title": "Scuderia Ferrari",
+        "source_fandom": "f1.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "autodromo-jose-carlos-pace",
+      "name": "Autódromo José Carlos Pace",
+      "type": "place",
+      "description": "Autódromo José Carlos Pace, also known by its former name Interlagos, is a circuit located in São Paulo, Brazil. It was renamed after Carlos Pace, the Brazilian driver who died in a 1977 plane crash. It is the current home of the Brazilian Grand Prix.\n\nThe land on which the circuit is located was originally bought in 1926 by property developers who wanted to build housing. Following the 1929 stock market crash, the housing project was suspended, and it was eventually decided to build a racing circuit instead. Construction started in 1938 and the track was inaugurated in May 1940.\n\nThe traditional name of the circuit (literally, \"between the lakes\") comes from the fact that it was built in a region between two large artificial lakes, Guarapiranga and Billings, which were built in the early 20th century to supply the city with water and electric power.\n\nFormula One started racing there in 1972, the first year being the required \"dry run\" non-championship race. It was won by Argentinean Carlos Reutemann. The first World Championship Brazilian Grand Prix was held at Interlagos in 1973, and was won by defending Formula One World Champion and local hero Emerson Fittipaldi. Fittipaldi won the race again the following year in bad weather, and Brazilian driver José Carlos Pace won his only race at Interlagos in 1975.",
+      "short_description": "Autódromo José Carlos Pace, also known by its former name Interlagos, is a circuit located in São Paulo, Brazil. It was renamed after Carlos Pace, the Brazilian driver who died in a 1977 plane crash. It is the current…",
+      "evidence": "fiction",
+      "parentSlug": "formula-1",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/f1wikia/images/b/bd/Autodromo_Jose_Carlos_Pace_2014_Layout.png/revision/latest/scale-to-width-down/180?cb=20221023024323",
+      "image_source": "https://f1.fandom.com/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Formula 1 marks © Formula One Group / FIA (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Autódromo José Carlos Pace",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://f1.fandom.com/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace",
+        "fandom_title": "Autódromo José Carlos Pace",
+        "source_fandom": "f1.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -21499,6 +21672,54 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "jean-pierre-jabouille",
+      "formula-1",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "scuderia-centro-sud",
+      "formula-1",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "autodromo-internacional-nelson-piquet",
+      "formula-1",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "jimmy-jackson",
+      "formula-1",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "scuderia-ferrari",
+      "formula-1",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "autodromo-jose-carlos-pace",
+      "formula-1",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -21507,7 +21728,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (f1.fandom.com) for identification and commentary only. Formula 1 marks © Formula One Group / FIA (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T17:29:57.835Z",
+  "generated_at": "2026-09-15T04:05:42.832Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://f1.fandom.com/wiki/",
@@ -21519,7 +21740,7 @@
     "fandom_created": 1,
     "fandom_images": 1,
     "fandom_intros": 1,
-    "description_ensure_at": "2026-09-12T17:35:21.870Z",
-    "description_ensure_count": 5
+    "description_ensure_at": "2026-09-14T23:05:39.870Z",
+    "description_ensure_count": 1
   }
 }

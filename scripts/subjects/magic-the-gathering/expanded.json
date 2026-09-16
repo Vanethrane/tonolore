@@ -11351,6 +11351,35 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "dreadnought",
+      "name": "Dreadnought",
+      "type": "person",
+      "description": "Dreadnought is a seldom used creature type. A dreadnought originally is a type of battleship armed with heavy-caliber guns in turrets. The term is also used to describe something that is among the largest or most powerful of its kind.\n\nThe first use of the type was for the artifact creature card Phyrexian Dreadnought from Mirage, designed by Mark Rosewater. It is apt to describe the card, which definitely suits a Phyrexian 12/12 artifact creature with trample.\n\nDreadnought returned for the Warhammer 40,000 Commander Decks with Helbrute and Redemptor Dreadnought.\n\nThe Brothers' War added Depth Charge Colossus, the second ever canonIcal dreadnought.",
+      "short_description": "Dreadnought is a seldom used creature type. A dreadnought originally is a type of battleship armed with heavy-caliber guns in turrets. The term is also used to describe something that is among the largest or most…",
+      "evidence": "fiction",
+      "parentSlug": "magic-the-gathering",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/c/cb/Dreadnought.jpg/revision/latest/scale-to-width-down/180?cb=20171218112018",
+      "image_source": "https://mtg.fandom.com/wiki/Dreadnought",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Wizards of the Coast / Hasbro (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Dreadnought",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://mtg.fandom.com/wiki/Dreadnought",
+        "fandom_title": "Dreadnought",
+        "source_fandom": "mtg.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -14545,6 +14574,14 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "dreadnought",
+      "magic-the-gathering",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -14553,7 +14590,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (mtg.fandom.com) for identification and commentary only. Character / franchise art © Wizards of the Coast / Hasbro (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T20:01:45.939Z",
+  "generated_at": "2026-09-15T01:16:57.209Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://mtg.fandom.com/wiki/",

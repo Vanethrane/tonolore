@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T17:17:29.346Z",
+  "generated_at": "2026-09-15T03:54:22.091Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -11182,6 +11182,116 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "air-temple",
+      "name": "Air temple",
+      "type": "place",
+      "description": "An air temple, or airbender temple, is a large structure that was formerly inhabited by the Air Nomads and the pilgrims they took in from other nations prior to the Air Nomad Genocide, though some also later came to be home to people from other nations who weren't pilgrims. The temples are typically located in isolated and difficult-to-reach environments, such as mountaintops or islands.\n\nThere are five known major temples to date, of which one was completely destroyed in 171 AG. Following the Hundred Year War, Avatar Aang established the Air Acolytes, who eventually moved into the various temples and repaired them to their former states. The four original temples became pilgrimage sites for the Air Acolytes as they studied Air Nomad history and philosophy. Following Harmonic Convergence, all surviving temples have become home to some of the Air Nation's new airbenders. The Fire & Air Center of Learning, built during Avatar Roku's lifetime but later closed, was regarded as a minor air temple.\n\nThe Southern Air Temple is located in the Patola Mountain Range and was one of two temples that traditionally housed male Air Nomads before the beginning of the Hundred Year War. It was notable for being the home of Avatar Aang. It features an airball arena and an inner sanctuary that houses numerous statues of past Avatars. The temple also contains a statue of Monk Gyatso and was the last known residence of the winged lemur. It was restored to its former glory by the Air Acolytes after the end of the Hundred Year War.\n\nThe Northern Air Temple was located in the Taihua Mountains along the northern coast of the Earth Kingdom and was one of the two temples that traditionally housed male Air Nomads. Prior to the Air Nomad Genocide, it also served as the location of the bison polo championship. Years after the devastating blow the Fire Nation had dealt to the Air Nomads, the deserted temple was colonized by a group of Earth Kingdom refugees, led by a renowned inventor, after their town was destroyed in a flood. The mechanist modified the temple to make life easier for the new inhabitants. The temple once held statues and paintings; however, these and other parts of the temple were destroyed by the mechanist to make room for his new technology. The temple returned to its more traditional appearance after it was restored by the Air Acolytes after the end of the Hundred Year War, though it was destroyed in 171 AG when Ghazan used his lavabending to melt the foundations.",
+      "short_description": "An air temple, or airbender temple, is a large structure that was formerly inhabited by the Air Nomads and the pilgrims they took in from other nations prior to the Air Nomad Genocide, though some also later came to be…",
+      "evidence": "fiction",
+      "parentSlug": "avatar-the-last-airbender",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/avatar/images/2/23/Southern_Air_Temple_courtyard.png/revision/latest/scale-to-width-down/180?cb=20130715131628",
+      "image_source": "https://avatar.fandom.com/wiki/Air_temple",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Avatar art © Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Air temple",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://avatar.fandom.com/wiki/Air_temple",
+        "fandom_title": "Air temple",
+        "source_fandom": "avatar.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ba-sing-se-university",
+      "name": "Ba Sing Se University",
+      "type": "organization",
+      "description": "In 296 BG, the zoology department at Ba Sing Se University was headed by Professor Shaw, who procured a collection of shirshus for the university during an expedition. The professor was written to by Hei-Ran requesting to borrow the animals from the department, ostensibly to be displayed in the Fire Nation as part of a goodwill tour between the two nations, though in reality to track an escaped Avatar Kyoshi. Included with the letter was an expensive painting of the northern lights on vellum owned by Jianzhu, intended to \"butter [the professor] up\".\n\nThe university, once a great repository of knowledge for the citizens of Ba Sing Se, saw its academic offerings become somewhat tainted after Long Feng's ascent to the post of Grand Secretariat, especially in the areas of current events and political science. Anyone interested in researching the history or relics of the Air Nomads had to keep their interests private, because it was difficult to mention the Air Nomads without speaking of their demise, and all mentions of the war were censored by the government. Professor Ko of the university was interested in obtaining Air Nomad relics to preserve the history of the lost nation, but kept such motivations entirely secret.\n\nDespite the negative effects of political repression, it continued to be regarded as a major school of engineering, architecture, and science. During this time, Professor Zei held the position of head of anthropology and taught a class on desert cultures.\n\nIn spring 100 AG, Team Avatar visited the university, chaperoned by Joo Dee, while attempting to find a kidnapped Appa. The group questioned a student there, asking him if he had seen any sandbenders or nomads in the city, but the young scholar replied in the negative. However, after Sokka questioned him about the Hundred Year War with the Fire Nation, the student became nervous and, at Joo Dee's subtle direction, dodged the question before claiming he was late for class. With their questions unanswered, the team subsequently left the campus.",
+      "short_description": "In 296 BG, the zoology department at Ba Sing Se University was headed by Professor Shaw, who procured a collection of shirshus for the university during an expedition. The professor was written to by Hei-Ran requesting…",
+      "evidence": "fiction",
+      "parentSlug": "avatar-the-last-airbender",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/avatar/images/a/a0/Ba_Sing_Se_University.png/revision/latest/scale-to-width-down/180?cb=20140422090140",
+      "image_source": "https://avatar.fandom.com/wiki/Ba_Sing_Se_University",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Avatar art © Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Ba Sing Se University",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://avatar.fandom.com/wiki/Ba_Sing_Se_University",
+        "fandom_title": "Ba Sing Se University",
+        "source_fandom": "avatar.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "air-temple-island",
+      "name": "Air Temple Island",
+      "type": "place",
+      "description": "The island was initially uninhabited and dominated by wilderness. Aang and Katara visited it in 102 AG with Appa, seeking a place to quietly discuss the development of the nearby-located, overcrowded Cranefish Town. Around 110 AG, Team Avatar and the Air Acolytes began the construction of the air temple on the island, which Aang and Katara also turned into their home following their marriage.\n\nAs a teenager, Tenzin saw petty vandals defacing the airbending gates on the island, and followed them to the city, where all three were arrested after fighting. Aang took the opportunity to bring them all back to the island, and teach them the Air Nomad way of conflict resolution, before they all worked to clean the gates.\n\nIn 170 AG, when Korra was in need of an airbending master, she moved to Air Temple Island to be taught the ancient art by Tenzin. For the Avatar's airbending training, Tenzin used the temple's airbending gates to teach her how to move like a true airbender and be able to switch direction at a moment's notice. This proved to be a real challenge for Korra, and she ended up destroying the two-thousand-year-old gates with firebending in frustration, though they were later repaired by the Air Acolytes.\n\nTarrlok, who was attempting to persuade Korra to join his task force, made a visit to the island, rudely interrupting the dinner of Tenzin's family and Korra. He left the island after being turned down by the Avatar herself but continued to try and change her mind by sending the council page to deliver extravagant gifts to the island.",
+      "short_description": "The island was initially uninhabited and dominated by wilderness. Aang and Katara visited it in 102 AG with Appa, seeking a place to quietly discuss the development of the nearby-located, overcrowded Cranefish Town.…",
+      "evidence": "fiction",
+      "parentSlug": "avatar-the-last-airbender",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/avatar/images/8/8d/Air_Temple_Island_overview.png/revision/latest/scale-to-width-down/180?cb=20121107105550",
+      "image_source": "https://avatar.fandom.com/wiki/Air_Temple_Island",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Avatar art © Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Air Temple Island",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://avatar.fandom.com/wiki/Air_Temple_Island",
+        "fandom_title": "Air Temple Island",
+        "source_fandom": "avatar.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "badgermole-triad",
+      "name": "Badgermole Triad",
+      "type": "organization",
+      "description": "The Badgermole Triad came to prominence after finding a workaround to to Republic City's ban on unsanctioned street races. The triad took over a large section of tunnels from the days of large-scale crystal mining, and would choose a new location every week to host races.\n\nThe Badgermoles' earthbenders started to widen and reinforce a section of tunnels whenever they hosted a race. Over time, they refined and repeated their technique, improving their method and allowing them to build better automobile circuits.\n\nThe officials tried to shut the races down, but the fact they had no fixed location meant that the races were very hard to crack down on without the Republic City Police investing significant personnel. Chief Lin Beifong was content to be relatively lenient, while keeping an eye and an ear out for excessively dangerous incidents, as she was tired of wasting time and officers policing something that was oftentimes harmless.\n\nAs the ragtag group came to see the tunnels as theirs, they came to increasingly lock horns with Akemi, the most prolific criminal in the underground who was not affiliated with the triad.",
+      "short_description": "The Badgermole Triad came to prominence after finding a workaround to to Republic City's ban on unsanctioned street races. The triad took over a large section of tunnels from the days of large-scale crystal mining, and…",
+      "evidence": "fiction",
+      "parentSlug": "avatar-the-last-airbender",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://avatar.fandom.com/wiki/Badgermole_Triad",
+        "fandom_title": "Badgermole Triad",
+        "source_fandom": "avatar.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -14467,6 +14577,38 @@
     ],
     [
       "autumn-leaves",
+      "avatar-the-last-airbender",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "air-temple",
+      "avatar-the-last-airbender",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ba-sing-se-university",
+      "avatar-the-last-airbender",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "air-temple-island",
+      "avatar-the-last-airbender",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "badgermole-triad",
       "avatar-the-last-airbender",
       "part_of",
       "Part of",

@@ -469,6 +469,11 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "will-parry-his-dark-materials",
+      "description": "Will Parry is one of the protagonists in Philip Pullman's trilogy His Dark Materials, along with Lyra Belacqua. He first appears in the series at the start of the second novel, The Subtle Knife, and continues through to the final book, The Amber Spyglass. Introduced as a 12-year-old boy, he meets and befriends Lyra in the world of Cittàgazze and teams up with her in order to uncover the mysteries of Dust and the disappearance of his father many years previously. He takes possession of the Subtle Knife which he uses to aid Lord Asriel in his bid to destroy the Authority.",
+      "short_description": "Will Parry is one of the protagonists in Philip Pullman's trilogy His Dark Materials, along with Lyra Belacqua. He first appears in the series at the start of the second novel, The Subtle Knife, and continues through to…"
     }
   ],
   "entities": [
@@ -540,6 +545,29 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "will-parry-his-dark-materials",
+      "name": "Will Parry",
+      "type": "person",
+      "description": "Will Parry is one of the protagonists in Philip Pullman's trilogy His Dark Materials, along with Lyra Belacqua. He first appears in the series at the start of the second novel, The Subtle Knife, and continues through to the final book, The Amber Spyglass. Introduced as a 12-year-old boy, he meets and befriends Lyra in the world of Cittàgazze and teams up with her in order to uncover the mysteries of Dust and the disappearance of his father many years previously. He takes possession of the Subtle Knife which he uses to aid Lord Asriel in his bid to destroy the Authority.",
+      "evidence": "fiction",
+      "parentSlug": "his-dark-materials-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Will_Parry_(His_Dark_Materials)",
+        "fandom_title": "Will Parry (His Dark Materials)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": "Will Parry is one of the protagonists in Philip Pullman's trilogy His Dark Materials, along with Lyra Belacqua. He first appears in the series at the start of the second novel, The Subtle Knife, and continues through to…"
     }
   ],
   "relationships": [
@@ -566,6 +594,14 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "will-parry-his-dark-materials",
+      "his-dark-materials-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -574,19 +610,19 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. His Dark Materials article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T16:43:05.071Z",
+  "generated_at": "2026-09-15T03:21:29.333Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://en.wikipedia.org/wiki/",
     "host": "en.wikipedia.org"
   },
   "stats": {
-    "fandom_titles": 1,
+    "fandom_titles": 0,
     "fandom_enriched_core": 0,
-    "fandom_created": 1,
+    "fandom_created": 0,
     "fandom_images": 0,
-    "fandom_intros": 1,
-    "description_ensure_at": "2026-09-13T19:16:10.074Z",
+    "fandom_intros": 0,
+    "description_ensure_at": "2026-09-14T22:19:20.311Z",
     "description_ensure_count": 1
   }
 }

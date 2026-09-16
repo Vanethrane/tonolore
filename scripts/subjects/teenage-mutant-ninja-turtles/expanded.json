@@ -74,8 +74,24 @@
     },
     {
       "slug": "foot-clan",
-      "description": "The Foot Clan (足一族 Ashi Ichizoku or フット一族 Futto Ichizoku or フットクラン Futto Kuran), often called the Foot, is a fictional Japanese ninja clan in the Teenage Mutant Ninja Turtles franchise that is typically led by the Shredder and is the main antagonist of the Ninja Turtles and their allies.\n\nThe Foot Clan consists of a multitude of faceless ninja who exist to do battle with the heroic Ninja Turtles and although most individual Foot Ninja tend to fall rather easily, they are nothing if not persistent and continually return to take more punishment.\n\nThe Foot Clan was originally a parody of the criminal ninja clan in ' Daredevil. In addition to the obvious similarity in their names, both are ninja clans that originated from feudal Japan, practice ninjutsu, and black magic that now run powerful international organized crime rings who are familiar with multiple illegal activities such as drug smuggling, arms running, and assassination.\n\nThe Foot Clan symbol has been a left foot in most incarnations, except for the films, the 2003 TV series, the 2012 TV series, and Rise of the TMNT where it is a right foot.",
-      "short_description": "The Foot Clan (足一族 Ashi Ichizoku or フット一族 Futto Ichizoku or フットクラン Futto Kuran), often called the Foot, is a fictional Japanese ninja clan in the Teenage Mutant Ninja Turtles franchise that is typically led by the…"
+      "description": "In the 2003 TV series, the Foot Clan is similar to its original comic version.\n\nThe Foot Clan are a group of warriors and assassins that The Shredder created 1000 years ago in Feudal Japan. The Shredder, who in this series is a long-lived Utrom, has led the Clan since its creation and has turned it into a fearsome and secret group present across the world. The Foot emblem is a red, trident-like footprint (hence the name of the clan), an inverted version of the \"Three-Toed Sign of the Dragon\", the symbol of the five warriors who had defeated the original demon known as the Shredder in 300 AD. Thanks to the Shredder's knowledge of Utrom technology, the Clan has weapons and equipment centuries ahead of human technology. They once created Foot Mechs in \"Rogue in the House\", which were based on Master Splinter, the President, the Prime Minister, and some others.\n\nDuring the The Lost Episodes, the Foot Clan was under attack by the Tengu Shredder, who wanted to get rid the clan for insulting his power.\n\nThe Foot appear in the episodes Clash of the Turtle Titans and Timing is Everything they are again lead by the Utrom Shredder, but the former is what Mikey daydreamed and the latter is the past.",
+      "short_description": "The Foot Clan (足一族 Ashi Ichizoku or フット一族 Futto Ichizoku or フットクラン Futto Kuran), often called the Foot, is a fictional Japanese ninja clan in the Teenage Mutant Ninja Turtles franchise that is typically led by the…",
+      "image_url": "https://static.wikia.nocookie.net/tmnt/images/8/82/Foot_Clan_%282003%29.png/revision/latest/scale-to-width-down/180?cb=20230802171708",
+      "image_source": "https://turtlepedia.fandom.com/wiki/Foot_Clan_(2003_TV_series)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Mirage / Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Foot Clan (2003 TV series)",
+      "metadata": {
+        "fandom_url": "https://turtlepedia.fandom.com/wiki/Foot_Clan_(2003_TV_series)",
+        "fandom_title": "Foot Clan (2003 TV series)",
+        "source_fandom": "turtlepedia.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      }
     },
     {
       "slug": "kraang",
@@ -5560,6 +5576,35 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "yomi",
+      "name": "Yomi",
+      "type": "place",
+      "description": "Yomi (), also called \"Yomi-No-Kuni\" or \"Land of the Dead\", is the Shintoist version of the afterlife. It appears as a location in the TMNT franchise.\n\nIn the Teenage Mutant Ninja Turtles Adventures by Archie Comics, Noi Tai Dar and Vulvana are denizens of Yomi. In , Ninjara, Naga, their grandmother, and temporarily hide there to elude a hunter, passing through a torii to arrive in Yomi.\n\nMuch of the mini-series Shredder in Hell takes place in various areas of the Yomi, including \"Hell\".\n\nDuring the Ujigami story arc, leaves the Yomi through a portal created by . Later, during a battle against Karai and , is kicked through a portal and lands in the Yomi, where he encounters his mother, Tang Shen. The portal attracts a Gashadokuro, who leaves the Yomi through it in order to feed on the fear it senses from the other side. Tang Shen then fetches and leaves the Yomi as well, though Mikey is stuck there when the portal closes.",
+      "short_description": "Yomi (), also called \"Yomi-No-Kuni\" or \"Land of the Dead\", is the Shintoist version of the afterlife. It appears as a location in the TMNT franchise.",
+      "evidence": "fiction",
+      "parentSlug": "teenage-mutant-ninja-turtles",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/tmnt/images/c/c0/Gashadokuro.jpg/revision/latest/scale-to-width-down/180?cb=20260408143244",
+      "image_source": "https://turtlepedia.fandom.com/wiki/Yomi",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Mirage / Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Yomi",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://turtlepedia.fandom.com/wiki/Yomi",
+        "fandom_title": "Yomi",
+        "source_fandom": "turtlepedia.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -7018,6 +7063,14 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "yomi",
+      "teenage-mutant-ninja-turtles",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -7026,7 +7079,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (turtlepedia.fandom.com) for identification and commentary only. Character / franchise art © Mirage / Nickelodeon / Paramount (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T19:59:29.205Z",
+  "generated_at": "2026-09-15T01:15:24.056Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://turtlepedia.fandom.com/wiki/",
@@ -7034,8 +7087,8 @@
   },
   "stats": {
     "fandom_titles": 1,
-    "fandom_enriched_core": 0,
-    "fandom_created": 1,
+    "fandom_enriched_core": 1,
+    "fandom_created": 0,
     "fandom_images": 1,
     "fandom_intros": 1,
     "description_ensure_at": "2026-09-14T19:58:48.376Z",

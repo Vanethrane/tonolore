@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T17:40:15.901Z",
+  "generated_at": "2026-09-15T04:14:23.936Z",
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
@@ -70065,30 +70065,6 @@
       "image_alt": "Identification thumbnail for Rattata and Raticate"
     },
     {
-      "slug": "cynthia",
-      "name": "Cynthia",
-      "type": "person",
-      "evidence": "fiction",
-      "short_description": "Cynthia (シロナ Shirona) is an archaeologist and the Pokémon Champion of the Sinnoh region, where Professor Carolina, her grandmother, runs the Pokémon Research Lab in Celestic Town.",
-      "description": "Cynthia (シロナ Shirona) is an archaeologist and the Pokémon Champion of the Sinnoh region, where Professor Carolina, her grandmother, runs the Pokémon Research Lab in Celestic Town.\n\nCynthia is a tall and slender young woman with gray eyes and wavy knee-length creamy blonde fringe hair that covers her left eye with bangs. She wears black straight leg trousers, a long black coat with a V-shaped neck and black fur rimming its cuffs and hem, and a teardrop shaped pearl on the center of the coat. Under the coat, she dons a black top. Cynthia's outfit is finished with black kitten heel pumps possessing each a yellow stripe. For accessories, she wears a black fur ruff around her neck with two pairs of hair clips on each side of her hair, both teardrop shaped and possessing a yellow stripe.\n\nCynthia is a passionate and humble Trainer who takes Pokémon battles very seriously. She is also seen to be a kind person who so deeply cares for both Pokémon and her friends that she helps out Trainers who look up to her and gives them tips on their journeys.\n\nShe tends to enjoy relaxation and travel, visiting the villas owned by Unova Elite Four member Caitlin and the player character found in that region, and in Sinnoh's Battle Zone respectively. In Pokémon Platinum Version, she expresses that part of the reason for this is that she is usually a messy person, and has research papers thrown around the house. Cynthia, as suggested by her theme song, also enjoys the piano, claiming that she enjoys the sound, listening to it with both her body and spirit.",
-      "aliases": [
-        "Cynthia"
-      ],
-      "parentSlug": "pokemon",
-      "wikidata_id": "Q3651393",
-      "wikipedia_url": null,
-      "metadata": {
-        "source": "wikidata",
-        "discovered": true
-      },
-      "image_url": "https://static.wikia.nocookie.net/pokemon/images/d/de/Cynthia_Brilliant_Diamond_and_Shining_Pearl.png/revision/latest/scale-to-width-down/360?cb=20211008122904",
-      "image_source": "https://pokemon.fandom.com/wiki/Cynthia",
-      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo / Creatures / Game Freak (as applicable). Not free or redistributable artwork.",
-      "image_license": "fair_use",
-      "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Cynthia"
-    },
-    {
       "slug": "whitney",
       "name": "Whitney",
       "type": "person",
@@ -100689,6 +100665,39 @@
       "image_alt": null
     },
     {
+      "slug": "cynthia",
+      "name": "Cynthia",
+      "type": "person",
+      "evidence": "fiction",
+      "short_description": "Cynthia (シロナ Shirona) is an archaeologist and the Pokémon Champion of the Sinnoh region, where Professor Carolina, her grandmother, runs the Pokémon Research Lab in Celestic Town.",
+      "description": "Cynthia is a character appearing in Pokémon the Series, who is the Pokémon Champion of the Sinnoh region. In Pokémon Journeys: The Series, Cynthia returns as one of the top-eight Pokémon Trainers in the world within the World Coronation Series, currently being ranked second.\n\nShe helps Ash Ketchum and his friends against Team Galactic to stop them from both using Dialga and Palkia to create a new world and later from using Heatran of bringing back Cyrus.\n\nDue to the climate of the east coast of Unova, Cynthia changed her outfit. She wears a light-blue top with a medium-sized collar and a teardrop-shaped pearl, a light blue ribbon tied on her waist, and she wears open-toed high-heel pumps.\n\nCynthia's appearance remains the same as it is in Pokémon: Diamond & Pearl series. However, she also has a Key Stone embedded in her lip balm, and she uses it to Mega Evolve her Garchomp. She is also observed with a pale pink gel manicure while her fingernails are maintained short, terminating at her fingers' extremes. In addition, Cynthia has a Dynamax Band that she would wear whenever she was battling in Galar.",
+      "aliases": [
+        "Cynthia"
+      ],
+      "parentSlug": "pokemon",
+      "wikidata_id": "Q3651393",
+      "wikipedia_url": null,
+      "metadata": {
+        "source": "wikidata",
+        "discovered": true,
+        "canon": false,
+        "kind": "character",
+        "fandom_url": "https://pokemon.fandom.com/wiki/Cynthia_(anime)",
+        "fandom_title": "Cynthia (anime)",
+        "source_fandom": "pokemon.fandom.com",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/5/56/Cynthia_anime_Journeys.png/revision/latest/scale-to-width-down/180?cb=20220727031303",
+      "image_source": "https://pokemon.fandom.com/wiki/Cynthia_(anime)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo / Creatures / Game Freak (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Cynthia (anime)"
+    },
+    {
       "slug": "chalce",
       "name": "Chalce",
       "type": "person",
@@ -107673,6 +107682,93 @@
         "kind": "location",
         "fandom_url": "https://pokemon.fandom.com/wiki/Brave_Olivine",
         "fandom_title": "Brave Olivine",
+        "source_fandom": "pokemon.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cameran-palace",
+      "name": "Cameran Palace",
+      "type": "place",
+      "description": "Cameran Palace (Japanese: オルドラン Oldoran) is an anime-exclusive place in Kanto.\n\nThe current ruler of this palace is Lady Ilene and her Pokémon, Mime Jr., at her side. It is located in the center of Rota, a kingdom on the Northside of Kanto. In the past, Queen Rin, Sir Aaron, and Lucario used to reside in this palace. Ash and friends traveled there for a Pokémon Battle competition, and whoever wins will be crowned Guardian of the Aura for the year. Cameran Palace was featured in the movie Lucario and the Mystery of Mew.\n\nCategory:Movie locations Category:Locations",
+      "short_description": "Cameran Palace (Japanese: オルドラン Oldoran) is an anime-exclusive place in Kanto.",
+      "evidence": "fiction",
+      "parentSlug": "pokemon",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/08/Cameran_Palace.png/revision/latest/scale-to-width-down/180?cb=20101128134350",
+      "image_source": "https://pokemon.fandom.com/wiki/Cameran_Palace",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo / Creatures / Game Freak (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Cameran Palace",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://pokemon.fandom.com/wiki/Cameran_Palace",
+        "fandom_title": "Cameran Palace",
+        "source_fandom": "pokemon.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "draconid-people",
+      "name": "Draconid people",
+      "type": "person",
+      "description": "The Draconid people are one of the first two groups of people in the Hoenn region. They make their first appearance in Pokémon Omega Ruby and Pokémon Alpha Sapphire.\n\nThe Draconid people were one of the first inhabitants of the Hoenn region. They were a tribe consisting of -type Pokémon Trainers who lived in Meteor Falls. During their time in the falls, meteors fell from the sky and the two Legendary Pokémon Groudon and Kyogre fought in their Primal forms until Rayquaza descended from the sky and stopped them.\n\nOne-thousand years later, when a meteor struck Hoenn, Groudon and Kyogre were awakened once again and fought. The Lorekeeper of the Draconid people bearing the Key Stone wished for Rayquaza to return in order to stop the enraged Pokémon. Rayquaza descended once more and, due to the wish, was able to Mega Evolve and battle both Legendary Pokémon, causing them to return to the depths of the earth and sea.\n\nFilled with gratitude, the Draconid people built and decorated the Sky Pillar so that they could call to their Pokémon savior. After another thousand years, the Draconid people predicted an approaching meteoroid that would strike the Pokémon world and they planned for Rayquaza to once again save them.",
+      "short_description": "The Draconid people are one of the first two groups of people in the Hoenn region. They make their first appearance in Pokémon Omega Ruby and Pokémon Alpha Sapphire.",
+      "evidence": "fiction",
+      "parentSlug": "pokemon",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/f/f2/Draconid_People.jpg/revision/latest/scale-to-width-down/180?cb=20210719183932",
+      "image_source": "https://pokemon.fandom.com/wiki/Draconid_people",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo / Creatures / Game Freak (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Draconid people",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://pokemon.fandom.com/wiki/Draconid_people",
+        "fandom_title": "Draconid people",
+        "source_fandom": "pokemon.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cavern-zone",
+      "name": "Cavern Zone",
+      "type": "place",
+      "description": "The Cavern Zone is a location in PokéPark Wii: Pikachu's Adventure. It is a mine primarily inhabited by -type and other cave Pokémon. The player can access the Lava Zone from here.\n\nWhen Pikachu first enters the zone, a Mr. Mime reveals that the zone's hot spring has dried up and that a piece of the rail for the zone's mine carts has gone missing and requests Pikachu find it. After questioning Zubat and Aron, Pikachu learns it was Mawile who took the rail piece to prevent more Pokémon from leaving the zone. After Mawile is defeated, she reveals she gave the missing piece to Dugtrio who in turn, hid it in the berry storage area guarded by Marowak. Pikachu gets Marowak's permission to search the storage area, where he finds a Diglett inside who reveals he relocated the piece underneath the sleeping Snorlax. Pikachu awakens Snorlax with a Thunderbolt and convinces him to move by giving him a Big Berry. When Snorlax moves, a geyser he was sleeping on erupts and restores the hot springs and also shoots out the hidden rail piece. After Pikachu restores the rail, he recovers the mine cart from some Gible and restores access to the Lava Zone.\n\nDuring the search for the three secret words of the Granite Zone, Pikachu returns to the Cavern Zone and receives the final word from Snorlax: Rainbow.\n\nBastiodon's Block Barrage is a game where the Pokémon moves across the bottoms of the screen to kick a ball into one of five panels that give points when they are hit. The ball ricochets against Pokémon and walls, causing it to bounce back and forth from both ends. Bastiodon and Dugtrio act as obstacles in the balls path. Bastiodon moves across the panels and travels according to where the ball is and Dugtrio pop up in between the ends of the field and hit the ball back if it hits them. Each time a panel is hit, its number goes up from one to nine and gives points equal to 100 times it's current number. The Pokémon has a limited number of tries and each time a ball gets past them, they lose one. The attraction ends when the all Pokémon's tries are up.",
+      "short_description": "The Cavern Zone is a location in PokéPark Wii: Pikachu's Adventure. It is a mine primarily inhabited by -type and other cave Pokémon. The player can access the Lava Zone from here.",
+      "evidence": "fiction",
+      "parentSlug": "pokemon",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/pokemon/images/0/0b/Park_Cavern_Zone_.jpg/revision/latest/scale-to-width-down/180?cb=20210415031154",
+      "image_source": "https://pokemon.fandom.com/wiki/Cavern_Zone",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Nintendo / Creatures / Game Freak (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Cavern Zone",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://pokemon.fandom.com/wiki/Cavern_Zone",
+        "fandom_title": "Cavern Zone",
         "source_fandom": "pokemon.fandom.com",
         "sources": [
           "fandom"
@@ -132384,6 +132480,30 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "cameran-palace",
+      "pokemon",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "draconid-people",
+      "pokemon",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cavern-zone",
+      "pokemon",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "stats": {
@@ -132401,7 +132521,7 @@
     "fandom_intros": 1,
     "description_backfill_at": "2026-09-11T13:14:53.088Z",
     "description_backfill_count": 2074,
-    "description_ensure_at": "2026-09-14T17:40:22.630Z",
+    "description_ensure_at": "2026-09-15T04:14:26.433Z",
     "description_ensure_count": 6
   },
   "source": {

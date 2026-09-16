@@ -9,8 +9,17 @@
         "sources": [
           "wikipedia",
           "fandom"
-        ]
-      }
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "The Pied Piper of Hamelin (), also known as the Pan Piper or the Rat-Catcher of Hamelin, is the title character of a legend from the town of Hamelin (Hameln), Lower Saxony, Germany.\n\nThe legend dates back to the Middle Ages. The earliest references describe a piper, dressed in multicoloured (\"pied\") clothing, who was a rat catcher hired by the town to lure rats away with his magic pipe. When the citizens refused to pay for this service as promised, he retaliated by using his instrument's magical power on their children, leading them away as he had the rats. This version of the story spread as folklore and has appeared in the writings of Johann Wolfgang von Goethe, the Brothers Grimm, and Robert Browning, among others. The phrase \"pied piper\" has become a metaphor for a person who attracts a following through charisma or false promises.\n\nVarious theories have arisen about the origin and symbolism of the Pied Piper. Some suggest he was a symbol of hope to the people of Hamelin, which had been subjected to plague; he drew the rats from Hamelin, saving the people from the epidemic.\n\nAs the town Hamelin is suffering from a rat infestation, a piper dressed in multicoloured (\"pied\") clothing appears, claiming to be a rat-catcher. He promises the burgermeister a solution to their problem with the rats. The burgermeister, in turn, promises to pay him 1,000 guilders for the removal of the rats. The piper accepts and plays his pipe to lure the rats into the Weser River, where all the rats drown.",
+      "short_description": "The Pied Piper of Hamelin (), also known as the Pan Piper or the Rat-Catcher of Hamelin, is the title character of a legend from the town of Hamelin (Hameln), Lower Saxony, Germany.",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Pied_piper.jpg/180px-Pied_piper.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Pied_Piper_of_Hamelin",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Pied Piper of Hamelin article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Pied Piper of Hamelin"
     },
     {
       "slug": "pied-piper-figures",
@@ -477,7 +486,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Pied Piper of Hamelin article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T15:33:47.755Z",
+  "generated_at": "2026-09-15T02:18:51.613Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://en.wikipedia.org/wiki/",

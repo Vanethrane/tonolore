@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T19:51:55.346Z",
+  "generated_at": "2026-09-15T01:07:59.605Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -3108,7 +3108,7 @@
       "type": "person",
       "evidence": "fiction",
       "short_description": "Esper in final fantasy.",
-      "description": "Espers were an important gameplay mechanic in Final Fantasy Brave Exvius. In game's lore, espers are supernatural beings born through different means who live independently from other races.\n\nDifferent parties could earn the power of an esper by proving themselves in battle, this being a rule that all espers followed regardless of whether they liked it or not. Due to living many more years than the average human, and having witnessed firsthand the war and conflict that humans bring with themselves, the overall opinion of espers regarding humans was quite low. Nonetheless, they understood that there were exceptions and most of the time the espers preferred to test the human seeking their power to measure their worthiness of character.\n\nMost, if not all, of the espers are believed to have originated from Paladia. A significant number of them sided with Hess during the Paladian Civil War against Aldore, the world's leading nation, as Hess proclaimed independence. Hess was the weaker faction but through the help of the espers, amassed enough power to oppose Aldore and led to several casualties. The strongest of all espers, the Dragon King Bahamut, was himself crowned as one of Hess' Eight Sages serving as one of Hess' main lieutenants.\n\nAs the conflict escalated, the Sworn Eight of Paladia's leader, the man known as Veritas of the Dark, developed a bold plan to seal the Sages in Crystal, and in turn become the leveraging power in the world to secure Hess' independence and stop the bloodshed. The sealing succeeded, but the Sworn Eight were betrayed when the leaders of Aldore, fearing them, transported the entire landmass of the battlefield to the world of Lapis, which in turn transported several espers to that world as well.",
+      "description": "Espers are powerful, primordial beings that live in the Esper realm in Final Fantasy Airborne Brigade. The players and their brigade are tasked with battling them to earn their respect and ask for their help in restoring light to the remaining guardian crystal. Espers are both similar and different to weapons and abilities; they're equipped the same way and can be optimized by the system (separately from weapons and abilities), and they can be evolved to boost limits and enhanced to become stronger, but there the similarities end.\n\nThe player can equip up to five summon stones. There is no \"main\" slot; every equipped esper gets charged when the player battles, and espers are used automatically when they're fully charged, unless the player unequip them.\n\nEspers do not have attack and defense values. What they do have is a bravery value, and a charging gauge. The bravery value indicates their attack power when they're summoned and is independent of their own attack, while the charging gauge dictates how long they must be equipped before they can be summoned. Each normal attack will fill all equipped summon stones' charging gauge by one, while each all-out attack will fill them by three. When they are fully charged, the player will summon them with their next all-out attack.\n\n{|class=\"half-width FFAB article-table\" style=\"text-align:center\"",
       "aliases": [
         "Esper"
       ],
@@ -3119,8 +3119,8 @@
         "source": "wikipedia-category",
         "discovered": true,
         "canon": false,
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/Esper_(Brave_Exvius)",
-        "fandom_title": "Esper (Brave Exvius)",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/Esper_(Airborne_Brigade)",
+        "fandom_title": "Esper (Airborne Brigade)",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "wikipedia",
@@ -3128,12 +3128,12 @@
         ],
         "kind": "character"
       },
-      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/a/ad/FFBE_Summon_Cast.jpg/revision/latest/scale-to-width-down/180?cb=20171019212711",
-      "image_source": "https://finalfantasy.fandom.com/wiki/Esper_(Brave_Exvius)",
+      "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/4/47/FFAB_Ifrit_Hellfire.png/revision/latest/scale-to-width-down/180?cb=20130127075410",
+      "image_source": "https://finalfantasy.fandom.com/wiki/Esper_(Airborne_Brigade)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Esper (Brave Exvius)"
+      "image_alt": "Identification thumbnail for Esper (Airborne Brigade)"
     },
     {
       "slug": "turks",
@@ -33363,24 +33363,24 @@
       "slug": "the-praetorium",
       "name": "The Praetorium",
       "type": "place",
-      "description": "The original version of the Praetorium was a dungeon in Final Fantasy XIV, and the final dungeon of A Realm Reborn. It was the second of only two 8-man dungeons players would encounter, and the last of three duties representing the climax of A Realm Reborn along with and . As part of the Main Scenario roulette, several cinematics played throughout the duty that could not be skipped, preventing new players experiencing the dungeon for the first time from being left behind. The dungeon was split into three smaller duties in patch 6.1—a 4-man dungeon representing the bulk of the original duty, along with a 4-man trial and a solo quest battle representing the final battles.\n\nObjectives are paraphrased and expanded on from their in-game listing for clarity.\n\nThe Praetorium has no item level sync and is extremely easy for most parties. Owing to this low difficulty, most of the details in this section can be ignored when running the duty normally. Most groups will simply round up as many enemies as possible to AoE them down, and ignore adds during boss encounters in favor of burning the boss down. Running the duty with minimum item level enforced and silenced can make it more of a challenge, and this section is generally written with this in mind.\n\nOnly a single group of enemies can be found in this section, defending the Magitek Terminal that allows access to Castrum Control. The Magitek Terminal functions without needing to defeat these enemies, and most groups speed-running the Praetorium will try to skip them by going directly to the terminal. Players with enmity may have difficulty interacting with the Terminal and get left behind; in this case they can simply wait for the rest of the party to engage the boss in the Command Chamber, which will allow them to teleport there.",
+      "description": "The Praetorium is the final dungeon in the main scenario storyline of Final Fantasy XIV.\n\nBy clearing this dungeon, the player will obtain 150 Allagan tomestones of Poetics. The cutscenes in this duty were made unskippable in patch 4.2.\n\nWhile this dungeon originally was ran with a group of 8 players, it was reworked in patch 6.1 and included downscaling to 4 players in addition to being made compatible with the Duty Support system.\n\n\"Penitus\" plays throughout the dungeon. It uses \"The Maker's Ruin\"'s leitmotif, contains a Latin chorus, and was composed by Masayoshi Soken and arranged by Nobuko Toda and Yoshitaka Suzuki.",
       "short_description": "The Praetorium is the final dungeon in the main scenario storyline of Final Fantasy XIV.",
       "evidence": "fiction",
       "parentSlug": "final-fantasy",
       "wikipedia_url": null,
       "wikidata_id": null,
       "image_url": "https://static.wikia.nocookie.net/finalfantasy/images/b/bf/Praetorium_banner_image_from_Final_Fantasy_XIV.png/revision/latest/scale-to-width-down/180?cb=20210415070755",
-      "image_source": "https://finalfantasy.fandom.com/wiki/The_Praetorium_(original)",
+      "image_source": "https://finalfantasy.fandom.com/wiki/The_Praetorium",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Square Enix (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for The Praetorium (original)",
+      "image_alt": "Identification thumbnail for The Praetorium",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
-        "fandom_url": "https://finalfantasy.fandom.com/wiki/The_Praetorium_(original)",
-        "fandom_title": "The Praetorium (original)",
+        "fandom_url": "https://finalfantasy.fandom.com/wiki/The_Praetorium",
+        "fandom_title": "The Praetorium",
         "source_fandom": "finalfantasy.fandom.com",
         "sources": [
           "fandom"

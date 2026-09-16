@@ -1440,6 +1440,11 @@
       "slug": "dragon-ball-super-card-game",
       "description": "The Dragon Ball Super Card Game, often abbreviated as DBSCG, is a collectible card game developed by Bandai based on the Dragon Ball franchise. The game incorporates characters, locations, events, and other elements from across the Dragon Ball franchise, including Dragon Ball, Dragon Ball Z, Dragon Ball GT, Dragon Ball Super, Dragon Ball Daima and related films and video games.\n\nSince August 2023, it exists in two variants:\n\nDragon Ball Super Card Game Masters, released in July 2017 and is available in English, French and Italian;\n\nDragon Ball Super Card Game Fusion World, released in February 2024 and is available in English and Japanese.\n\nFusion World was developed as a new game alongside the continuation of the original Dragon Ball Super Card Game. In 2023, Bandai announced that the existing game would continue under the name Dragon Ball Super Card Game Masters, while Fusion World would serve as a separate, newly developed card game. Although the two games share elements of their rules and setting, their cards, formats, card pools, and competitive environments are not interchangeable.\n\nUnlike Masters, which had accumulated numerous mechanics and a large card pool since its original release in 2017, Fusion World emphasizes comparatively concise card text, streamlined mechanics, and aggressive combat. A free-to-play digital version of Fusion World was also released for Microsoft Windows and macOS.",
       "short_description": "The Dragon Ball Super Card Game, often abbreviated as DBSCG, is a collectible card game developed by Bandai based on the Dragon Ball franchise. The game incorporates characters, locations, events, and other elements…"
+    },
+    {
+      "slug": "banna",
+      "description": "Banna may refer to:\n\nBanna (Battagram), a town in Khyber Pakhtunkhwa, Pakistan\n\nBanna (Birdoswald), a Roman Birdoswald in Cumbria in England\n\nBanna, Bangladesh, a town in Barisal, Bangladesh\n\nBanna, Ilocos Norte, a municipality in the Philippines\n\nBanna people, an ethnic group from Ethiopia\n\nBanna Strand, a beach in Country Kerry, Ireland\n\nBan Na district, a district in Nakhon Nayok Province, Thailand\n\nOm Banna, a shrine located in Pali district near Jodhpur, India\n\nXishuangbanna Dai Autonomous Prefecture, commonly shorted to Banna, a prefecture in Yunnan, China",
+      "short_description": "Banna may refer to:"
     }
   ],
   "entities": [
@@ -5903,6 +5908,145 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "banna",
+      "name": "Banna",
+      "type": "place",
+      "description": "Banna may refer to:\n\nBanna (Battagram), a town in Khyber Pakhtunkhwa, Pakistan\n\nBanna (Birdoswald), a Roman Birdoswald in Cumbria in England\n\nBanna, Bangladesh, a town in Barisal, Bangladesh\n\nBanna, Ilocos Norte, a municipality in the Philippines\n\nBanna people, an ethnic group from Ethiopia\n\nBanna Strand, a beach in Country Kerry, Ireland\n\nBan Na district, a district in Nakhon Nayok Province, Thailand\n\nOm Banna, a shrine located in Pali district near Jodhpur, India\n\nXishuangbanna Dai Autonomous Prefecture, commonly shorted to Banna, a prefecture in Yunnan, China",
+      "short_description": "Banna may refer to:",
+      "evidence": "fiction",
+      "parentSlug": "dragon-ball",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://dragonball.fandom.com/wiki/Banna",
+        "fandom_title": "Banna",
+        "source_fandom": "dragonball.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "2x-photon-buster",
+      "name": "2x Photon Buster",
+      "type": "concept",
+      "description": "After knocking her opponent into the air, 18 charges to energy spheres in each hand and then fires a powerful energy wave.\n\nIn Extreme Butōden, it is named 2x Photon Buster where it is Android 18's Ground Ultimate Combo.\n\nCategory:Techniques Category:Offensive techniques Category:Energy waves Category:Video game techniques",
+      "short_description": "After knocking her opponent into the air, 18 charges to energy spheres in each hand and then fires a powerful energy wave.",
+      "evidence": "fiction",
+      "parentSlug": "dragon-ball",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/dragonball/images/8/81/Extreme_But%C5%8Dden_-_2x_Photon_Buster.png/revision/latest/scale-to-width-down/180?cb=20160120185643",
+      "image_source": "https://dragonball.fandom.com/wiki/2x_Photon_Buster",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Akira Toriyama / Shueisha / Toei Animation (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 2x Photon Buster",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://dragonball.fandom.com/wiki/2x_Photon_Buster",
+        "fandom_title": "2x Photon Buster",
+        "source_fandom": "dragonball.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "transforming-ability",
+      "name": "Transforming Ability",
+      "type": "concept",
+      "description": "A user of the ability is capable of creating new forms for themselves by growing and altering their Bio Suit. The transformations also have some alteration to the user's voice with each state.\n\nFrieza's clan has displayed the ability to create up to three transformations that suppress their true power.\n\nThe user may wish to use this ability to hide their full strength, or because they cannot fully control their abilities in their natural form. They can then freely release more and more power, going through less suppressive states until returning to their natural form as necessary. As such, the natural form is not included in this list due to not counting as an actual transformation. Frieza's clan seemingly create their suppression transformations by growing a power suppressing Bio Suit over their true form, and then altering and shedding it as they see fit to increase their power back up. In Dragon Ball Z: Resurrection ‘F’, Frieza trained to be able to return to his proper form from his first form, rather than taking longer to do so by going through his second and third forms as well.\n\nFirst Form: Utilized by Frieza, Frost and Kuriza. It is also stated that Cooler possesses this form.",
+      "short_description": "A user of the ability is capable of creating new forms for themselves by growing and altering their Bio Suit. The transformations also have some alteration to the user's voice with each state.",
+      "evidence": "fiction",
+      "parentSlug": "dragon-ball",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/dragonball/images/1/1b/Fighting_Power_One_Million_-_Transform2.PNG/revision/latest/scale-to-width-down/180?cb=20260527200721",
+      "image_source": "https://dragonball.fandom.com/wiki/Transforming_Ability",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Akira Toriyama / Shueisha / Toei Animation (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Transforming Ability",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://dragonball.fandom.com/wiki/Transforming_Ability",
+        "fandom_title": "Transforming Ability",
+        "source_fandom": "dragonball.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batapi",
+      "name": "Batapi",
+      "type": "place",
+      "description": "Batapi consists of two brown plants that are one atop the other. They have longitude and latitude type surface formations. The top planet being one third smaller than the one at the bottom. Due to the two planet's gravity, it has formed a ring system between the two.\n\nCategory:Planets Category:Places in the Seventh Universe Category:Destroyed Planets",
+      "short_description": "Batapi consists of two brown plants that are one atop the other. They have longitude and latitude type surface formations. The top planet being one third smaller than the one at the bottom. Due to the two planet's…",
+      "evidence": "fiction",
+      "parentSlug": "dragon-ball",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/dragonball/images/d/d8/Planet_Batapi.png/revision/latest/scale-to-width-down/180?cb=20241025234829",
+      "image_source": "https://dragonball.fandom.com/wiki/Batapi",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Akira Toriyama / Shueisha / Toei Animation (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Batapi",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://dragonball.fandom.com/wiki/Batapi",
+        "fandom_title": "Batapi",
+        "source_fandom": "dragonball.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "3-generations-kamehameha",
+      "name": "3 Generations Kamehameha",
+      "type": "concept",
+      "description": "Goku and the Future Warrior in Black launch their Father-Son Kamehameha at the opponent but struggle to make headway. Xeno Bardock then joins them and fires Rebellion Trigger. All three then power up to their most powerful forms to unleash more energy, causing their attacks to combine into one mighty energy wave.\n\nIn the Supreme Kai of Time Saga, when Super Saiyan 3 Xeno Bardock arrives to help and adds his Rebellion Trigger to the Father-Son Kamehameha used by Super Saiyan Blue Goku and the darkness-enhanced Super Saiyan Future Warrior in Black, it turns into a makeshift Family Kamehameha - the 3 Generations Kamehameha. The combined resolve of the past, present and future proves more than a match for Demigra's Chaotic Gigantes, and when Goku, Future Warrior in Black, and Xeno Bardock awaken their respective transformations, the energy wave gains enough power to force the blast back considerably, overcoming it and putting a decisive end to the mad demon warlord.\n\nIn Dragon Ball Heroes, Goku (UGM9-SEC) uses it as his \"Fighting Together Across Time\" Super Ability, Super Warriors Linked By Blood Across Time.\n\nCategory:Techniques Category:Offensive techniques Category:Energy waves Category:Team attacks Category:Combined techniques",
+      "short_description": "Goku and the Future Warrior in Black launch their Father-Son Kamehameha at the opponent but struggle to make headway. Xeno Bardock then joins them and fires Rebellion Trigger. All three then power up to their most…",
+      "evidence": "fiction",
+      "parentSlug": "dragon-ball",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/dragonball/images/3/34/The_New_Family_Kamehameha.png/revision/latest/scale-to-width-down/180?cb=20230611022519",
+      "image_source": "https://dragonball.fandom.com/wiki/3_Generations_Kamehameha",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Akira Toriyama / Shueisha / Toei Animation (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 3 Generations Kamehameha",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://dragonball.fandom.com/wiki/3_Generations_Kamehameha",
+        "fandom_title": "3 Generations Kamehameha",
+        "source_fandom": "dragonball.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -7177,6 +7321,46 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "banna",
+      "dragon-ball",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "2x-photon-buster",
+      "dragon-ball",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "transforming-ability",
+      "dragon-ball",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "batapi",
+      "dragon-ball",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "3-generations-kamehameha",
+      "dragon-ball",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -7185,7 +7369,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (dragonball.fandom.com) for identification and commentary only. Character / franchise art © Akira Toriyama / Shueisha / Toei Animation (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T17:47:31.674Z",
+  "generated_at": "2026-09-15T04:21:14.097Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://dragonball.fandom.com/wiki/",
@@ -7194,14 +7378,14 @@
   "stats": {
     "fandom_titles": 1,
     "fandom_enriched_core": 0,
-    "fandom_created": 1,
+    "fandom_created": 0,
     "fandom_images": 1,
     "fandom_intros": 1,
     "image_backfill_at": "2026-09-11T12:38:48.580Z",
     "image_backfill_count": 1,
     "description_backfill_at": "2026-09-11T12:52:17.228Z",
     "description_backfill_count": 197,
-    "description_ensure_at": "2026-09-14T17:46:55.501Z",
+    "description_ensure_at": "2026-09-15T04:20:37.607Z",
     "description_ensure_count": 3
   }
 }

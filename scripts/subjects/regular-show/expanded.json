@@ -10,7 +10,9 @@
           "wikipedia",
           "fandom"
         ]
-      }
+      },
+      "description": "Regular Show}} is an American animated sitcom created by J. G. Quintel for Cartoon Network. It ran from September 6, 2010, to January 16, 2017, over the course of eight seasons and 244 episodes.\n\nThe series follows the daily lives of two 23-year-old friends — Mordecai, a blue jay, and Rigby, a raccoon — who work at a local park as groundskeepers. Their coworkers are Skips, an immortal yeti, Muscle Man, a green-skinned overweight man, and Hi-Five Ghost, a small ghost. Other characters include Pops, the lollipop-shaped owner of the park, and the duo's boss Benson, a gumball machine. Mordecai and Rigby spend their days slacking off and avoiding work to entertain themselves by any means, which unexpectedly leads to surreal, extreme, and supernatural misconduct.\n\nMany of Regular Show characters were loosely based on those developed for Quintel's student films at California Institute of the Arts: The Naïve Man from Lolliland and 2 in the AM PM. The former was one of the winners of the 2005 Nicktoons Film Festival and received international attention after being broadcast on Nicktoons Network. Quintel pitched Regular Show for Cartoon Network's Cartoonstitute project, in which the network allowed young artists to create pilots with no notes, which would possibly be optioned as shows.\n\nRegular Show was nominated for several awards, including seven Annie Awards, six Primetime Emmy Awards – winning one for the episode \"Eggscellent\" (season 3, episode 17) – and three British Academy Children's Awards. A film adaptation based on the series, titled Regular Show: The Movie, premiered in 2015. On June 12, 2024, Warner Bros. Discovery announced that a new series featuring some characters from Regular Show had been greenlit, with Quintel returning as showrunner. The series, titled Regular Show: The Lost Tapes, premiered on May 11, 2026.",
+      "short_description": "Regular Show}} is an American animated sitcom created by J. G. Quintel for Cartoon Network. It ran from September 6, 2010, to January 16, 2017, over the course of eight seasons and 244 episodes."
     },
     {
       "slug": "regular-show-figures",
@@ -477,7 +479,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Regular Show article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T20:22:57.403Z",
+  "generated_at": "2026-09-15T01:37:22.272Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://en.wikipedia.org/wiki/",

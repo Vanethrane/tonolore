@@ -610,7 +610,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Fairy Tail article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T16:30:04.494Z",
+  "generated_at": "2026-09-15T03:12:06.166Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://en.wikipedia.org/wiki/",
@@ -619,7 +619,7 @@
   "stats": {
     "fandom_titles": 1,
     "fandom_enriched_core": 0,
-    "fandom_created": 1,
+    "fandom_created": 0,
     "fandom_images": 0,
     "fandom_intros": 1,
     "description_ensure_at": "2026-09-14T11:11:21.557Z",

@@ -3,8 +3,8 @@
     {
       "slug": "asterix-comics",
       "metadata": {
-        "fandom_url": "https://en.wikipedia.org/wiki/Asterix",
-        "fandom_title": "Asterix",
+        "fandom_url": "https://en.wikipedia.org/wiki/Asterix_(character)",
+        "fandom_title": "Asterix (character)",
         "source_fandom": "en.wikipedia.org",
         "sources": [
           "wikipedia",
@@ -12,14 +12,14 @@
         ],
         "fandom_preferred_image": true
       },
-      "description": "Asterix ( or , \"Asterix the Gaul\"; also known as Asterix and Obelix in some adaptations or The Adventures of Asterix) is a French comic album series about a Gaulish village which, thanks to a magic potion that enhances strength, resists the forces of Julius Caesar's Roman Republic Army in the time after the Gallic Wars. Many adventures take the titular hero Asterix and his friend Obelix to Rome and beyond.\n\nThe series first appeared in the Franco-Belgian comic magazine Pilote on 29 October 1959. It was written by René Goscinny and illustrated by Albert Uderzo until Goscinny's death in 1977. Uderzo then took over the writing until 2009, when he sold the rights to publishing company Hachette; he died in 2020. In 2013, a new team consisting of Jean-Yves Ferri (script) and Didier Conrad (artwork) took over. , 41 volumes have been released; the most recent was penned by new writer Fabcaro and released on 23 October 2025. By that point, the volumes in total had sold 393 million copies,{{cite web\n\nAsterix comics usually start with the following introduction:\n\nThe series follows the adventures of a village of Gauls as they resist Roman occupation in 50 BC. They do so using a magic potion, brewed by their druid Getafix (Panoramix in the French version), which temporarily gives the recipient superhuman strength. The protagonists, the title character Asterix and his friend Obelix, have various adventures. The ending of both names (as well as all the other pseudo-Gaulish names in the series) alludes to the suffix (meaning , like in Latin) present in the names of many real Gaulish chieftains such as Vercingetorix, Orgetorix, and Dumnorix.",
+      "description": "Asterix ( ; ) is a fictional character and the titular hero of the French comic book series Asterix.\n\nThe series portrays him as a diminutive but fearless Gaulish warrior living in the time of Julius Caesar's Gallic Wars. Asterix was created in 1959 by writer René Goscinny and illustrator Albert Uderzo. Since then, more than forty books in the series have been released, with Uderzo taking over writing duties after the death of Goscinny in 1977. Asterix has also appeared in several animated and live-action film adaptations of the series, and serves as the mascot of the amusement park Parc Astérix. Before that, he was also the mascot of the magazine Pilote.\n\nAsterix is a diminutive but fearless and cunning warrior, ever eager for new adventures. He lives around 50 BC in a fictional village in northwest Armorica (a region of ancient Gaul mostly equivalent to modern Brittany). This village is celebrated as the only part of Gaul still not conquered by Julius Caesar and his Roman legions. The inhabitants of the village gain superhuman strength by drinking a magic potion prepared by the druid, Getafix (). The village is surrounded by, on one side, the ocean, and on the other by four unlucky Roman garrisons, intended to keep a watchful eye and ensure that the Gauls do not get up to mischief. These camps are Compendium, Aquarium, Laudanum and Totorum.\n\nAsterix' parents are former villagers who now live in the city of Condatum (Rennes), and he has cousins in Britannia (Britain). He shares his birthday with his clumsy, oversized, but extremely strong and good-hearted best friend, Obelix. Asterix is one of the smartest and most sensible members of the village, and so he is usually chosen for any dangerous, important or exotic mission. Unlike most of the other villagers, he does not start or join brawls for the fun of it, although he does enjoy a good fight when there's cause. He rarely resorts to weapons, preferring to rely on his wits, and when necessary, his (magic potion enhanced) fists – though he carries his shortsword with him at all times, he is shown to be an occasional swordsman at best. What he does for a living is never truly known, though he is often shown going on missions, quests, or hunting. In Asterix and the Cauldron, however, it is clearly stated that neither he nor Obelix have ever done anything of the sort to 'earn' money. Asterix is most often simply described as a warrior, which makes sense in light of the fact that most of the adventures he undertakes at some point require engaging an enemy.",
       "short_description": "Asterix ( ; ) is a fictional character and the titular hero of the French comic book series Asterix.",
-      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Asterix.svg/180px-Asterix.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "image_source": "https://en.wikipedia.org/wiki/Asterix",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Asterix.jpg/180px-Asterix.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Asterix_(character)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Asterix article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Asterix"
+      "image_alt": "Identification thumbnail for Asterix (character)"
     },
     {
       "slug": "asterix-comics-figures",
@@ -54,17 +54,17 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Asterix article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T16:58:17.203Z",
+  "generated_at": "2026-09-15T03:35:08.924Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://en.wikipedia.org/wiki/",
     "host": "en.wikipedia.org"
   },
   "stats": {
-    "fandom_titles": 0,
-    "fandom_enriched_core": 0,
+    "fandom_titles": 1,
+    "fandom_enriched_core": 1,
     "fandom_created": 0,
-    "fandom_images": 0,
-    "fandom_intros": 0
+    "fandom_images": 1,
+    "fandom_intros": 1
   }
 }

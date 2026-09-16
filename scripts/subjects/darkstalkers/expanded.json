@@ -11,8 +11,8 @@
           "fandom"
         ]
       },
-      "description": "Darkstalkers, known in Japan as , is a Japanese fighting game series and media franchise created by Capcom. The series is set in a pastiche gothic fiction universe with characters based on monsters from international folklore, and features a stylized 2D graphic style. Its first game, Darkstalkers: The Night Warriors, was released in arcades in 1994 and its third and final main game is Vampire Savior, released in 1997. Darkstalkers introduced gameplay concepts used in later Capcom fighting games, including the Street Fighter Alpha and Marvel vs. Capcom series.\n\nBesides video games, the Darkstalkers media franchise also includes an anime miniseries, an American animated series, a Canadian comic book series, and many books of various kinds and other media released only in Japan. Some individual characters, such as Morrigan Aensland and Felicia, appeared in later Capcom games, as well as in a few crossover games released by other companies.\n\nThe Darkstalkers series is composed of five arcade games and the home ports and compilations of those games. {| class=\"wikitable sortable\" style=\"width:100%;\"\n\n! scope=\"col\" | Release ! scope=\"col\" style=\"width: 30%;\" | Title ! scope=\"col\" | Platform ! scope=\"col\" class=\"unsortable\" | Notes",
-      "short_description": "Darkstalkers, known in Japan as , is a Japanese fighting game series and media franchise created by Capcom. The series is set in a pastiche gothic fiction universe with characters based on monsters from international…"
+      "description": "Darkstalkers, known in Japan as Vampire (ヴァンパイア), is a Japanese fighting game series and media franchise created by Capcom. The series is set in a pastiche gothic fiction universe with characters based on monsters from international folklore, and features a stylized 2D graphic style. Its first game, Darkstalkers: The Night Warriors, was released in arcades in 1994 and its third and final main game is Vampire Savior, released in 1997. Darkstalkers introduced gameplay concepts used in later Capcom fighting games, including the Street Fighter Alpha and Marvel vs. Capcom series.\n\nBesides video games, the Darkstalkers media franchise also includes an anime miniseries, an American animated series, a Canadian comic book series, and many books of various kinds and other media released only in Japan. Some individual characters, such as Morrigan Aensland and Felicia, appeared in later Capcom games, as well as in a few crossover games released by other companies.",
+      "short_description": "Darkstalkers, known in Japan as Vampire (ヴァンパイア), is a Japanese fighting game series and media franchise created by Capcom. The series is set in a pastiche gothic fiction universe with characters based on monsters from…"
     },
     {
       "slug": "darkstalkers-figures",
@@ -469,6 +469,11 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "felicia-darkstalkers",
+      "description": "Felicia (Japanese: フェリシア, Hepburn: Ferishia) is a character from the Darkstalkers fighting game series created by Capcom, where she is an optimistic American catgirl who was raised in a convent. Introduced in the 1994 game Darkstalkers: The Night Warriors and returned for its subsequent sequels, she has also appeared in other games outside of the Darkstalkers series and related media and merchandise, becoming a well-known Capcom personality among critics.",
+      "short_description": "Felicia (Japanese: フェリシア, Hepburn: Ferishia) is a character from the Darkstalkers fighting game series created by Capcom, where she is an optimistic American catgirl who was raised in a convent. Introduced in the 1994…"
     }
   ],
   "entities": [
@@ -522,7 +527,7 @@
       "slug": "felicia-darkstalkers",
       "name": "Felicia",
       "type": "person",
-      "description": "",
+      "description": "Felicia (Japanese: フェリシア, Hepburn: Ferishia) is a character from the Darkstalkers fighting game series created by Capcom, where she is an optimistic American catgirl who was raised in a convent. Introduced in the 1994 game Darkstalkers: The Night Warriors and returned for its subsequent sequels, she has also appeared in other games outside of the Darkstalkers series and related media and merchandise, becoming a well-known Capcom personality among critics.",
       "evidence": "fiction",
       "parentSlug": "darkstalkers-figures",
       "wikipedia_url": null,
@@ -538,7 +543,8 @@
         "sources": [
           "fandom"
         ]
-      }
+      },
+      "short_description": "Felicia (Japanese: フェリシア, Hepburn: Ferishia) is a character from the Darkstalkers fighting game series created by Capcom, where she is an optimistic American catgirl who was raised in a convent. Introduced in the 1994…"
     }
   ],
   "relationships": [
@@ -569,4 +575,23 @@
   ],
   "fair_use_policy": {
     "image_license": "fair_use",
-    "i
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Darkstalkers article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-15T02:09:42.913Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0,
+    "description_ensure_at": "2026-09-14T21:01:25.106Z",
+    "description_ensure_count": 2
+  }
+}

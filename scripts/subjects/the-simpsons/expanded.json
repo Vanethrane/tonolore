@@ -3005,25 +3005,25 @@
       "slug": "alf",
       "name": "Alf",
       "type": "person",
-      "description": "Alf is Apu's character in Earthland Realms.\n\nCleric was surprised to see Alf in her game, initially believing him to be a virus. Alf told her about the Shadow Knight and pulled her into hiding when he appeared. When the Shadow Knight's flame sword killed Turkey Skinner, Alf ate him.\n\nAlf was one of the characters who killed the Shadow Knight when he was weak. Warrior Marge later possibly killed him as a revenge.\n\nCategory:Characters Category:Male characters Category:One-time characters Category:Fictional Characters Category:Characters voiced by Hank Azaria",
+      "description": "Gordon Shumway (more commonly known as ALF) is an alien and the main character of the eponymous sitcom, ALF.\n\nAlf appeared in the cover for Us magazine in the 80's.\n\nMilhouse traded Bart's soul to Comic Book Guy in exchange for some Alf pogs.\n\nHe was in a lineup of other aliens, which Homer had to pick the alien he saw; this would also mark the first time original ALF voice Paul Fusco voiced him on The Simpsons.",
       "short_description": "Alf is Apu's character in Earthland Realms.",
       "evidence": "fiction",
       "parentSlug": "the-simpsons",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/simpsons/images/7/77/Alf.png/revision/latest/scale-to-width-down/180?cb=20130315212236",
-      "image_source": "https://simpsons.fandom.com/wiki/Alf",
+      "image_url": "https://static.wikia.nocookie.net/simpsons/images/1/11/Alf-Mayored_to_the_Mob.png/revision/latest/scale-to-width-down/180?cb=20200623182708",
+      "image_source": "https://simpsons.fandom.com/wiki/ALF",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Matt Groening / 20th Television / Disney (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Alf",
+      "image_alt": "Identification thumbnail for ALF",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
         "kind": "character",
-        "fandom_url": "https://simpsons.fandom.com/wiki/Alf",
-        "fandom_title": "Alf",
+        "fandom_url": "https://simpsons.fandom.com/wiki/ALF",
+        "fandom_title": "ALF",
         "source_fandom": "simpsons.fandom.com",
         "sources": [
           "fandom"
@@ -14798,6 +14798,35 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "15201-maple-systems-road",
+      "name": "15201 Maple Systems Road",
+      "type": "place",
+      "description": "15201 Maple Systems Road (known in The Simpsons: Tapped Out as Cypress Creek Home) was the Simpsons’ home while living in Cypress Creek after Homer was headhunted by the Globex Corporation. From the outside, it appeared structurally similar to the Simpson home in Springfield; however, the interior was much larger and more modern.\n\nThey were welcomed shortly after arriving by the CEO of the Globex Corporation, Hank Scorpio, who was participating in a fun run.\n\nMany of the house's functions were automated, including a self-cleaning oven, dirt-patrolling vacuum cleaner, and an automatic sprinkler system.\n\nAfter Homer tackled an escaping secret agent at work, Hank Scorpio promised that when he returned home there would be another story in his house.",
+      "short_description": "15201 Maple Systems Road (known in The Simpsons: Tapped Out as Cypress Creek Home) was the Simpsons’ home while living in Cypress Creek after Homer was headhunted by the Globex Corporation. From the outside, it appeared…",
+      "evidence": "fiction",
+      "parentSlug": "springfield",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/simpsons/images/c/cf/You_Only_Move_Twice_37.JPG/revision/latest/scale-to-width-down/180?cb=20131001162059",
+      "image_source": "https://simpsons.fandom.com/wiki/15201_Maple_Systems_Road",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Matt Groening / 20th Television / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 15201 Maple Systems Road",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://simpsons.fandom.com/wiki/15201_Maple_Systems_Road",
+        "fandom_title": "15201 Maple Systems Road",
+        "source_fandom": "simpsons.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -18864,6 +18893,14 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "15201-maple-systems-road",
+      "springfield",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -18872,7 +18909,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (simpsons.fandom.com) for identification and commentary only. Character / franchise art © Matt Groening / 20th Television / Disney (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T19:31:56.381Z",
+  "generated_at": "2026-09-15T00:58:29.260Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://simpsons.fandom.com/wiki/",

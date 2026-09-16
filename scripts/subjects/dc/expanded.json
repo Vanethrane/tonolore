@@ -25895,6 +25895,91 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "11th-street-kids-dcu",
+      "name": "11th Street Kids",
+      "type": "organization",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dc",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marvel_dc/images/c/c0/11th_Street_Kids_DCU_002.jpg/revision/latest/scale-to-width-down/180?cb=20250827151528",
+      "image_source": "https://dc.fandom.com/wiki/11th_Street_Kids_(DCU)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © DC Comics / Warner Bros. Discovery (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 11th Street Kids (DCU)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://dc.fandom.com/wiki/11th_Street_Kids_(DCU)",
+        "fandom_title": "11th Street Kids (DCU)",
+        "source_fandom": "dc.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "colby-hills-estates",
+      "name": "Colby Hills Estates",
+      "type": "place",
+      "description": "Category:Flash Category:Central City Category:Neighborhoods",
+      "short_description": "Category:Flash Category:Central City Category:Neighborhoods",
+      "evidence": "fiction",
+      "parentSlug": "dc",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marvel_dc/images/1/14/Colby_Hills_Estates_001.jpg/revision/latest/scale-to-width-down/180?cb=20220219091546",
+      "image_source": "https://dc.fandom.com/wiki/Colby_Hills_Estates",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © DC Comics / Warner Bros. Discovery (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Colby Hills Estates",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://dc.fandom.com/wiki/Colby_Hills_Estates",
+        "fandom_title": "Colby Hills Estates",
+        "source_fandom": "dc.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "13th-floor-witches",
+      "name": "13th Floor Witches",
+      "type": "organization",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dc",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marvel_dc/images/d/dc/13th_Floor_Magicians.jpg/revision/latest/scale-to-width-down/180?cb=20200328212540",
+      "image_source": "https://dc.fandom.com/wiki/13th_Floor_Witches",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © DC Comics / Warner Bros. Discovery (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 13th Floor Witches",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://dc.fandom.com/wiki/13th_Floor_Witches",
+        "fandom_title": "13th Floor Witches",
+        "source_fandom": "dc.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -32905,6 +32990,30 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "11th-street-kids-dcu",
+      "dc",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "colby-hills-estates",
+      "dc",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "13th-floor-witches",
+      "dc",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -32913,7 +33022,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (dc.fandom.com) for identification and commentary only. Character / franchise art © DC Comics / Warner Bros. Discovery (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T19:22:17.668Z",
+  "generated_at": "2026-09-15T05:28:46.769Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://dc.fandom.com/wiki/",
@@ -32922,10 +33031,10 @@
   "stats": {
     "fandom_titles": 1,
     "fandom_enriched_core": 0,
-    "fandom_created": 0,
+    "fandom_created": 1,
     "fandom_images": 1,
     "fandom_intros": 0,
-    "description_ensure_at": "2026-09-14T19:03:21.244Z",
+    "description_ensure_at": "2026-09-15T05:28:48.956Z",
     "description_ensure_count": 2
   }
 }

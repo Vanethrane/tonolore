@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T17:31:10.600Z",
+  "generated_at": "2026-09-15T04:06:54.759Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9764,6 +9764,52 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "woman-kingdom",
+      "name": "Woman Kingdom",
+      "type": "place",
+      "description": "The is a kingdom in [https://en.wikipedia.org/wiki/Liang_Province Western Liang] inhabited solely by women.\n\nThe Woman Kingdom is inhabited solely by woman, whom perform all roles in society. They reproduce by drinking the magic impregnating water of the Child-Mother River.\n\nCategory:Regions Category:Locations on Earth Category:Kingdoms",
+      "short_description": "The is a kingdom in [https://en.wikipedia.org/wiki/Liang_Province Western Liang] inhabited solely by women.",
+      "evidence": "fiction",
+      "parentSlug": "journey-to-the-west",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://journey-to-the-west-xiyouji.fandom.com/wiki/Woman_Kingdom",
+        "fandom_title": "Woman Kingdom",
+        "source_fandom": "journeytothewest.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "wondrous-cliff-palace",
+      "name": "Wondrous Cliff Palace",
+      "type": "place",
+      "description": "The is a palace on the east pole where Taiyi Zhenren lives.\n\nFrom Wondrous Cliff Palace rises coloured clouds in tiers, rows of purple mist, and golden flames. The palace is completely covered by one massive brocade, which loops in and out of windows.\n\nCategory:Structures Category:Locations in Heaven",
+      "short_description": "The is a palace on the east pole where Taiyi Zhenren lives.",
+      "evidence": "fiction",
+      "parentSlug": "journey-to-the-west",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://journey-to-the-west-xiyouji.fandom.com/wiki/Wondrous_Cliff_Palace",
+        "fandom_title": "Wondrous Cliff Palace",
+        "source_fandom": "journeytothewest.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -12857,6 +12903,22 @@
     ],
     [
       "white-tiger-ridge",
+      "journey-to-the-west",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "woman-kingdom",
+      "journey-to-the-west",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "wondrous-cliff-palace",
       "journey-to-the-west",
       "part_of",
       "Part of",

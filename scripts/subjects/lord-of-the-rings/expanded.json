@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T17:42:53.927Z",
+  "generated_at": "2026-09-15T04:16:44.141Z",
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
@@ -61979,6 +61979,156 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "ogbar",
+      "name": "Ogbar",
+      "type": "person",
+      "description": "Ogbar was an individual who owned a spear that might be related to Gaurin's glaive.\n\nIn the final centuries of the First Age, after Túrin had been captured by Orcs, his friend Beleg and the Nargothronder Gwindor rescued him from the enemy's camp while he was still chained and unconscious. Once they took him nearby, Beleg sought sharpen his sword to cut Túrin's chains, and whispered a whetting spell, and invoked many great objects of power, such as Ogbar's spear, which might be related to Gaurin's spear that was said to have once rived \"the rocks of Rodrim's hall\".\n\nOgbar is a Sindarin name with an untold meaning.\n\nCategory:Characters Category:Sindarin names & words",
+      "short_description": "Ogbar was an individual who owned a spear that might be related to Gaurin's glaive.",
+      "evidence": "fiction",
+      "parentSlug": "lord-of-the-rings",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://lotr.fandom.com/wiki/Ogbar",
+        "fandom_title": "Ogbar",
+        "source_fandom": "lotr.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nordinbad",
+      "name": "Nordinbad",
+      "type": "place",
+      "description": "Nordinbad as it appears in War in the North ]]\n\nNordinbad is a location in the game The Lord of the Rings: War in the North. It is a Dwarven fortress hidden deep within the Grey Mountains, providing isolation and refuge for the Dwarves of Durin's Folk who have inhabited it since before the Dwarves fled the Grey Mountains. They lived around an underground lake known as Azan-zâram.\n\nGorin of the Longbeards was the Lord of Nordinbad.\n\nCenturies before the War of the Ring, the great-great grandsire of Lord Gorin, discovered the caves in which dwelt the hidden lake that would be called Azan-zâram. He chose to lead some of his kin there and over the course of many years, they slowly built the hall that they would name, Nordinbad. Though Nordinbad was never wealthy in gold or jewels, the inhabitants considered it to be rich in beauty. So they took great care to enhance and preserve this beauty and to never defile it.",
+      "short_description": "Nordinbad as it appears in War in the North ]]",
+      "evidence": "fiction",
+      "parentSlug": "lord-of-the-rings",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lotr/images/7/71/180px-Nordinbad.jpg/revision/latest/scale-to-width-down/180?cb=20111120175122",
+      "image_source": "https://lotr.fandom.com/wiki/Nordinbad",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Tolkien Estate / New Line / Warner Bros. / Amazon (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Nordinbad",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://lotr.fandom.com/wiki/Nordinbad",
+        "fandom_title": "Nordinbad",
+        "source_fandom": "lotr.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fire-of-doom",
+      "name": "Fire of Doom",
+      "type": "object",
+      "description": "The Fire of Doom, or simply the Fire, was the caldera and/or magma chamber inside Mount Doom. A boiling lake of magma deep inside the mountain that was named by a voice heard by Samwise Gamgee coming from a figure robed in white, but afterwards appeared to be Frodo Baggins.\n\nOn July 19, of 2022, Mark Fisher speculated on The Encyclopedia of Arda Sauron's ability to control the Fire of Doom may be due to a connection to the One Ring.",
+      "short_description": "The Fire of Doom, or simply the Fire, was the caldera and/or magma chamber inside Mount Doom. A boiling lake of magma deep inside the mountain that was named by a voice heard by Samwise Gamgee coming from a figure robed…",
+      "evidence": "fiction",
+      "parentSlug": "lord-of-the-rings",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "item",
+        "fandom_url": "https://lotr.fandom.com/wiki/Fire_of_Doom",
+        "fandom_title": "Fire of Doom",
+        "source_fandom": "lotr.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rodrim",
+      "name": "Rodrim",
+      "type": "person",
+      "description": "Rodrim was an individual who owned a hall that was riven by Gaurin's glaive.\n\nIn the final centuries of the First Age, after Túrin had been captured by Orcs, his friend Beleg and the Nargothronder Gwindor rescued him from the enemy's camp while he was still chained and unconscious. Once they took him nearby, Beleg sought sharpen his sword to cut Túrin's chains, and whispered a whetting spell, and invoked many great objects of power, such as Gaurin's glaive, which was said to have once rived \"the rocks of Rodrim's hall\".\n\nRodrim is a Sindarin name with an untold meaning.\n\nCategory:Characters Category:Sindarin names & words",
+      "short_description": "Rodrim was an individual who owned a hall that was riven by Gaurin's glaive.",
+      "evidence": "fiction",
+      "parentSlug": "lord-of-the-rings",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://lotr.fandom.com/wiki/Rodrim",
+        "fandom_title": "Rodrim",
+        "source_fandom": "lotr.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-southern-gate",
+      "name": "The Southern Gate",
+      "type": "place",
+      "description": "The Southern Gate is the fourth level of video game.\n\nAragorn is making his way through the gate to Gondor. But before he can, the gate closes and from it an Uruk captain jumps down. After killing the Uruk captain, the player may kill battle the Uruks freely. After firing two catapults at any point, the player must go to the top of the gate and defeat another Uruk captain and a new enemy, the Mûmakil, and then open the gate for good. After leaving the gate, the player must kill the Uruk-hai before going through the gate to finish the level.\n\nThe player may choose any of these once The Crack of Doom is completed. Category:Non-canon locations Category:The Return of the King (video game) Levels",
+      "short_description": "The Southern Gate is the fourth level of video game.",
+      "evidence": "fiction",
+      "parentSlug": "lord-of-the-rings",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://lotr.fandom.com/wiki/The_Southern_Gate",
+        "fandom_title": "The Southern Gate",
+        "source_fandom": "lotr.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "galadriels-gifts",
+      "name": "Galadriel's gifts",
+      "type": "object",
+      "description": "During the Quest of Mount Doom, Galadriel gave eight gifts to the remaining members of the Fellowship of the Ring (after the loss of Gandalf) soon before they departed from Lothlórien.\n\nOn February 16 in the year 3019 of the Third Age, Galadriel gave each member of the Fellowship of the Ring a gift to help them on their way. She gave Aragorn a magical Elven scabbard and the Elessar, a green gem set in a silver eagle shaped brooch, left for him by Arwen. To Boromir, she gave a solid belt of gold that was crafted in Lothlórien in the shape of linked golden leaves. To Legolas, she gave a bow of the Galadhrim with a quiver of arrows, crafted deep in Lothlórien and strung with elf-hair. Both Merry and Pippin received a silver belt with a gold, flower-shaped clasp. Samwise was given earth from Galadriel's garden, and a Mallorn seed - These were contained in a small box of grey wood with a silver G-rune on the lid. When Galadriel asked Gimli what he wanted of her, he modestly refused, but when pressed, he could think of nothing else he wanted but a single strand of her hair. She gave him three, as well as a blessing that his hands would ever flow with gold, though it would have no dominion over his mind. Galadriel then gave Frodo Baggins a small crystal vial in which was caught the light of Eärendil's star in the water of Galadriel's fountain. The phial emitted a brilliant light in darkness, so intense that dark creatures fear it.\n\nAfter Gandalf saved Samwise Gamgee's and Frodo’s gifts, Samwise Gamgee used it to replant trees in the Shire after the Scouring of the Shire.\n\nIn Peter Jackson's , the gifts differ somewhat:",
+      "short_description": "During the Quest of Mount Doom, Galadriel gave eight gifts to the remaining members of the Fellowship of the Ring (after the loss of Gandalf) soon before they departed from Lothlórien.",
+      "evidence": "fiction",
+      "parentSlug": "lord-of-the-rings",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lotr/images/8/87/Frodo_light_3.JPG/revision/latest/scale-to-width-down/180?cb=20060507062834",
+      "image_source": "https://lotr.fandom.com/wiki/Galadriel%27s_gifts",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Tolkien Estate / New Line / Warner Bros. / Amazon (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Galadriel's gifts",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "item",
+        "fandom_url": "https://lotr.fandom.com/wiki/Galadriel%27s_gifts",
+        "fandom_title": "Galadriel's gifts",
+        "source_fandom": "lotr.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -75829,6 +75979,54 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "ogbar",
+      "lord-of-the-rings",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "nordinbad",
+      "lord-of-the-rings",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "fire-of-doom",
+      "lord-of-the-rings",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "rodrim",
+      "lord-of-the-rings",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-southern-gate",
+      "lord-of-the-rings",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "galadriels-gifts",
+      "lord-of-the-rings",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "stats": {
@@ -75846,7 +76044,7 @@
     "fandom_created": 1,
     "fandom_images": 1,
     "fandom_intros": 1,
-    "description_ensure_at": "2026-09-14T17:42:08.057Z",
+    "description_ensure_at": "2026-09-15T04:16:46.497Z",
     "description_ensure_count": 4
   },
   "source": {

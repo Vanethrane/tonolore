@@ -10,7 +10,9 @@
           "wikipedia",
           "fandom"
         ]
-      }
+      },
+      "description": "League of Legends (LoL, commonly referred to as League, is a multiplayer online battle arena video game developed and published by Riot Games. Inspired by Defense of the Ancients, a custom map for Warcraft III, Riot's founders sought to develop a stand-alone game in the same genre. Since its release in October 2009, League has been free-to-play and is monetized through purchasable character customization. The game is available for Windows and macOS.\n\nIn the game's main mode, Summoner's Rift, two teams of five players battle in player-versus-player combat. Each player controls a character, known as a \"champion\", with unique abilities and styles of play. During a match, champions become more powerful by collecting experience points, earning gold, and purchasing items to defeat the opposing team. Teams defend their base and win by pushing toward the enemy base and destroying a large structure within it, the \"Nexus\".\n\nLeague of Legends has received generally favorable reviews, which have highlighted its accessibility, character designs, and production value. The game's long lifespan has resulted in a critical reappraisal, with reviews trending favorably; it is widely considered one of the greatest video games ever made. However, rude and abusive in-game player behavior, criticized since the game's early days, persists despite Riot's attempts to fix the problem. In 2019, League regularly peaked at eight million concurrent players, and its popularity has led to tie-ins such as music, comic books, short stories, and the animated series Arcane. Its success has spawned several spin-off video games, including a mobile version, a digital collectible card game, a trading card game, and a turn-based role-playing game, among others. An MMORPG based on the property is in development.\n\nLeague of Legends is the world's largest esport, with an international competitive scene consisting of multiple regional leagues which culminates in an annual League of Legends World Championship. The 2019 event registered over 100 million unique viewers, peaking at a concurrent viewership of 44 million during the finals. Domestic and international events have been broadcast on livestreaming websites such as Twitch, YouTube, Bilibili, and the cable television sports channel ESPN.",
+      "short_description": "League of Legends (LoL, commonly referred to as League, is a multiplayer online battle arena video game developed and published by Riot Games. Inspired by Defense of the Ancients, a custom map for Warcraft III, Riot's…"
     },
     {
       "slug": "league-of-legends-figures",
@@ -469,15 +471,48 @@
       }
     }
   ],
-  "entities": [],
-  "relationships": [],
+  "entities": [
+    {
+      "slug": "jinx-league-of-legends",
+      "name": "Jinx",
+      "type": "person",
+      "description": "Jinx is a character in Riot Games' League of Legends media franchise. She was introduced as a playable champion in the October 2013 update for the 2009 video game of the same name, which was complemented by the animated music video \"Get Jinxed\" to commemorate her official debut. In the game's fictional universe, Jinx is a manic and impulsive criminal from Zaun who serves as the archenemy of her sister Vi. The Netflix animated series Arcane explores the character's origin story as Powder who, following a series of personal tragedies, is taken in and raised by the crime lord Silco. Ella Purnell voices the character in Arcane.\n\nJinx has become one of the franchise's most popular and iconic characters since her introduction. Her portrayal in Arcane and Purnell's vocal performance garnered critical acclaim.\n\nIllustrator Katie De Sousa posted conceptual artwork of the \"gun-toting, braid-rocking criminal\" that would ultimately become Jinx on a bulletin board for potential ideas at Riot Games. De Sousa wanted to create a \"completely insane female villain who is beyond any kind of reform or rehabilitation\" for League of Legends. De Sousa was also a fan of \"Attack Damage Carry\" (ADC), a term used to describe champions that deal high levels of continuous damage in matches. The character was given the codename \"Psycho Arsenal\" and remained on the board for months until August Browning, seeking to make a weapon-swapping ADC, decided to develop her with De Sousa, while her backstory was written by Graham McNeill. They avoided giving her a \"sexy persona\" and instead depicted her as a pale and slender woman who wielded disproportionately oversized weapons to make her stand out from other female League champions. Harley Quinn also was an inspiration for the character.\n\nTo commemorate Jinx's in-game debut, an animated music video starring the character titled \"Get Jinxed\" was released on the League of Legends YouTube channel. Jinx would officially join League of Legends in the October 2013 update, voiced by Sarah Anne Williams. Jinx's origin was later expanded upon when she was adapted by Christian Linke and Alex Yee for the animated streaming series Arcane. The first season was released on Netflix in November 2021. Ella Purnell voices Jinx in the series, while Mia Sinclair Jenness voices a younger version of the character in Act 1.",
+      "short_description": "Jinx is a character in Riot Games' League of Legends media franchise. She was introduced as a playable champion in the October 2013 update for the 2009 video game of the same name, which was complemented by the animated…",
+      "evidence": "fiction",
+      "parentSlug": "league-of-legends-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Jinx_(League_of_Legends)",
+        "fandom_title": "Jinx (League of Legends)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "jinx-league-of-legends",
+      "league-of-legends-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. League of Legends article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T16:38:55.185Z",
+  "generated_at": "2026-09-15T03:17:59.916Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://en.wikipedia.org/wiki/",
@@ -488,6 +523,8 @@
     "fandom_enriched_core": 0,
     "fandom_created": 0,
     "fandom_images": 0,
-    "fandom_intros": 0
+    "fandom_intros": 0,
+    "description_ensure_at": "2026-09-14T22:14:03.299Z",
+    "description_ensure_count": 1
   }
 }

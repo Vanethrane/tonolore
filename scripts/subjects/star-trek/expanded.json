@@ -14587,6 +14587,168 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "acamar-iii",
+      "name": "Acamar III",
+      "type": "place",
+      "description": "Acamar III was the inhabited third planet in the Acamar system. This planet was located in a sector of the Beta Quadrant and was approximately 165 light years from Sol. It was the homeworld of the Acamarians, a warp-capable humanoid species.\n\nIn 2366, the visited the planet to enlist the aid of Sovereign Marouk to end the Gatherer raids on Federation outposts. Upon completion of this mission, the Enterprise returned the sovereign to her planet. ()\n\nThis planet's quadrant of origin was inferred based on the position of its star system as seen in the star chart appearing in the episode .\n\n\"AWK-uh-mar\" was the pronunciation for this planet's name from the pronunciation guide.",
+      "short_description": "Acamar III was the inhabited third planet in the Acamar system. This planet was located in a sector of the Beta Quadrant and was approximately 165 light years from Sol. It was the homeworld of the Acamarians, a…",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/memoryalpha/images/9/9a/Acamar_III_remastered.jpg/revision/latest/scale-to-width-down/180?cb=20161130003545&path-prefix=en",
+      "image_source": "https://memory-alpha.fandom.com/wiki/Acamar_III",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Acamar III",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Acamar_III",
+        "fandom_title": "Acamar III",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sanction-freighter",
+      "name": "Sanction",
+      "type": "object",
+      "description": "The Sanction was an Ornaran freighter that was used to transport goods between the worlds of Ornara and Brekka, in the Delos star system. For two hundred years, freighters were critical to both planets due to the medicine traded between them.\n\nFrom 2357 to 2364, the starship was commanded by T'Jon, Under his command, the Sanction completed twenty-six trips, with its primary mission being to transport the cargo of felicium from Brekka to Ornara.\n\nIn 2364, on approach to Brekka, the Sanction lost power to its engineering systems when the electromagnetic coil misaligned. Being unable to maintain orbit nor being able to use its main thrusters, the freighter found itself in a decaying orbit above the planet. A distress signal was transmitted, which was received by the Federation starship . Unable to save the ship, the Enterprise crew beamed aboard some of the freighter's cargo of felicium, and four of its six passengers and crew, including T'Jon, Sobi, Romas, and Langor. The Sanction disintegrated in the atmosphere of Brekka. ()\n\nde:Sanction es:Sanction fr:Sanction (vaisseau)",
+      "short_description": "The Sanction was an Ornaran freighter that was used to transport goods between the worlds of Ornara and Brekka, in the Delos star system. For two hundred years, freighters were critical to both planets due to the…",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/memoryalpha/images/5/55/Sanction%2C_aft.jpg/revision/latest/scale-to-width-down/180?cb=20120720105911&path-prefix=en",
+      "image_source": "https://memory-alpha.fandom.com/wiki/Sanction_(freighter)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Sanction (freighter)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "ship",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Sanction_(freighter)",
+        "fandom_title": "Sanction (freighter)",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "abronian",
+      "name": "Abronian",
+      "type": "concept",
+      "description": "The Abronians were a spacefaring insectoid species unknown to the Federation until 3190.\n\nThe Abronians had six limbs, a jointed exoskeleton, and a short tail. Their biomatter contained high concentrations of latinum. They were telepathic and could send messages over significant distances. ()\n\nThe original Abronian homeworld was destroyed by a supernova. To escape extinction, the Abronians converted their planet's moon into a spaceship and departed for another habitable world, with their population preserved within cryostasis cocoons housed in a massive cavern beneath the surface. However, when the ship entered orbit around its destination, it suffered a malfunction and the Abronians never revived.\n\nHundreds of years later in the 3180s, the Abronians were discovered by grave robbers who sought to harvest the latinum within their bodies. One of the Abronians, Taglonen, awoke during their attack and managed to send a telepathic distress call. The only individual in range was J'Vini, a of the Qowat Milat who was passing through the star system. After dispatching the grave robbers, she swore an oath to protect the Abronians as a qalankhkai.",
+      "short_description": "The Abronians were a spacefaring insectoid species unknown to the Federation until 3190.",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/memoryalpha/images/4/46/Taglonen.jpg/revision/latest/scale-to-width-down/180?cb=20211203015400&path-prefix=en",
+      "image_source": "https://memory-alpha.fandom.com/wiki/Abronian",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Abronian",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Abronian",
+        "fandom_title": "Abronian",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "achrady-vii",
+      "name": "Achrady VII",
+      "type": "place",
+      "description": "Achrady VII was the inhabited seventh planet in its star system. This planet was located somewhere in the Alpha or Beta Quadrant.\n\nIn 2366, when Counselor Deanna Troi tried to convince Captain Jean-Luc Picard to take a vacation, she claimed her mother, returning from a conference on Achrady VII, was making a stop at Starbase 12 to await the there. ()\n\ncs:Achrady VII de:Achrady VII fr:Achrady VII nl:Achrady VII Achrady 07",
+      "short_description": "Achrady VII was the inhabited seventh planet in its star system. This planet was located somewhere in the Alpha or Beta Quadrant.",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Achrady_VII",
+        "fandom_title": "Achrady VII",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "saowins-shuttle",
+      "name": "Saowin's shuttle",
+      "type": "object",
+      "description": "Saowin's shuttle was a shuttle that Saowin used to visit the Think Tank.\n\nIn 2375, Kurros ordered that Saowin be escorted back to his shuttle so that he wouldn't get lost on his way back. ()",
+      "short_description": "Saowin's shuttle was a shuttle that Saowin used to visit the Think Tank.",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "ship",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Saowin%27s_shuttle",
+        "fandom_title": "Saowin's shuttle",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "acamarian",
+      "name": "Acamarian",
+      "type": "concept",
+      "description": "The Acamarians were an intelligent humanoid civilization whose homeworld was Acamar III.\n\nDistinguishing external physical traits of the Acamarians included a formed indentation on their foreheads. The hemoglobin in their blood comprised an iron and copper base, a rarity among species in that area of the galaxy. Most Acamarians had traditional facial tattoos as well. ()\n\nAcamarian script was distinguished by layered horizontal lines, punctuated by dots and sets of shorter vertical lines.\n\nThe Acamarians were governed by a representative government headed by a Sovereign. The legislative body was known as the Acamarian Ruling Council. The Acamarian Internal Security was responsible for law enforcement duties. In 2366, the head of the Acamarian government was Sovereign Marouk.",
+      "short_description": "The Acamarians were an intelligent humanoid civilization whose homeworld was Acamar III.",
+      "evidence": "fiction",
+      "parentSlug": "star-trek",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/memoryalpha/images/a/aa/Marouk.jpg/revision/latest/scale-to-width-down/180?cb=20170612204950&path-prefix=en",
+      "image_source": "https://memory-alpha.fandom.com/wiki/Acamarian",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Acamarian",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "concept",
+        "fandom_url": "https://memory-alpha.fandom.com/wiki/Acamarian",
+        "fandom_title": "Acamarian",
+        "source_fandom": "memory-alpha.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -19133,6 +19295,54 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "acamar-iii",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "sanction-freighter",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abronian",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "achrady-vii",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "saowins-shuttle",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "acamarian",
+      "star-trek",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -19141,7 +19351,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (memory-alpha.fandom.com) for identification and commentary only. Star Trek art © Paramount / CBS (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T17:13:25.612Z",
+  "generated_at": "2026-09-15T03:50:29.489Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://memory-alpha.fandom.com/wiki/",
@@ -19153,7 +19363,7 @@
     "fandom_created": 1,
     "fandom_images": 1,
     "fandom_intros": 1,
-    "description_ensure_at": "2026-09-14T17:13:27.675Z",
+    "description_ensure_at": "2026-09-15T03:50:30.029Z",
     "description_ensure_count": 1
   }
 }

@@ -68,11 +68,48 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "peanut-allergy",
+      "name": "Peanut allergy",
+      "type": "topic",
+      "description": "Peanut allergy is a type of food allergy to peanuts. It is different from tree nut allergies, because peanuts are legumes and not true nuts. Symptoms of allergic reaction typically occur within 2 hours of peanut ingestion. The risk of death from anaphylaxis is low, approximately 1 in 10 million.\n\nIt is due to a type I hypersensitivity reaction of the immune system in susceptible individuals.\n\nPrevention may be partly achieved through early introduction of peanuts to the diets of pregnant women and babies. It is recommended that babies at high risk be given peanut products in areas where medical care is available as early as 4 months of age. Oral immunotherapy results in some degree of tolerance in about 65% of children, though side effects are frequent. The principal treatment for anaphylaxis is the injection of epinephrine.\n\nPeanut allergy occurs in about 1.4–2% in Europe and the United States as of 2021, increasing 3.5-fold over the preceding two decades. Among children in the Western world, rates of peanut allergy are between approximately 1.5% and 3% and have increased over time. It is a common cause of food-related fatal and near-fatal allergic reactions.",
+      "short_description": "Peanut allergy is a type of food allergy to peanuts. It is different from tree nut allergies, because peanuts are legumes and not true nuts. Symptoms of allergic reaction typically occur within 2 hours of peanut…",
+      "evidence": "fiction",
+      "parentSlug": "peanuts-comics",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Nut_warning_1.jpg/180px-Nut_warning_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Peanut_allergy",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Peanuts article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Peanut allergy",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Peanut_allergy",
+        "fandom_title": "Peanut allergy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
     [
       "peanut",
+      "peanuts-comics",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "peanut-allergy",
       "peanuts-comics",
       "part_of",
       "Part of",
@@ -86,7 +123,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Peanuts article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T16:58:56.422Z",
+  "generated_at": "2026-09-15T03:35:50.122Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://en.wikipedia.org/wiki/",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T17:25:31.952Z",
+  "generated_at": "2026-09-15T04:01:35.329Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -18213,6 +18213,64 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "newt",
+      "name": "Newt",
+      "type": "work",
+      "description": "Newt, stylized as newt, is a cancelled Pixar film. It would have been the studio's fourteenth feature film.\n\nGary Rydstrom was going to make his full-length feature film directorial debut. The film was originally scheduled to be released during the summer of 2011, but was pushed back to 2012. Later, it was announced that Brave would be released in summer 2012 instead, with no new release date or extra information announced for Newt.\n\nAs described in the [http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=104&STORY=/www/story/04-08-2008/0004789174&EDATE= Disney press release]:\n\nAt the April 2010 announcement, Disney/Pixar didn't provide an updated release date for newt. Additionally, the film was removed from the official Disney A to Z Encyclopedia supplement by chief archivist Dave Smith. An unsigned message received from Smith's email address stated \"The film has been cancelled\". This message, along with comments from other industry insiders, led to the speculation that the film had indeed been cancelled. Disney/Pixar animation head John Lasseter \"declined to comment\", but a separate source from within the studio stated that:",
+      "short_description": "Newt, stylized as newt, is a cancelled Pixar film. It would have been the studio's fourteenth feature film.",
+      "evidence": "fiction",
+      "parentSlug": "pixar",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/pixar/images/7/77/Newt.png/revision/latest/scale-to-width-down/180?cb=20110413181030",
+      "image_source": "https://pixar.fandom.com/wiki/Newt",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Pixar art © Disney / Pixar (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Newt",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "work",
+        "fandom_url": "https://pixar.fandom.com/wiki/Newt",
+        "fandom_title": "Newt",
+        "source_fandom": "pixar.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "onward",
+      "name": "Onward",
+      "type": "work",
+      "description": "Onward is Pixar's twenty-second feature film about a \"suburban fantasy world\" which was first announced at the 2017 D23 Expo. Directed by Dan Scanlon and produced by Kori Rae; both of whom previously worked on Monsters University, the film released on March 6, 2020. The voice cast includes Chris Pratt, Tom Holland, Julia Louis-Dreyfus, and Octavia Spencer.\n\nSet in a humanless world of elves, trolls, sprites, and \"pretty much anything that would be on the side of a van in the '70s\", the movie follows two teenage brothers whose father died when they were young; now, they're \"on a quest through this mundane, modern fantasy world to somehow find a way to spend one last magical day with their father.\"\n\nDan Scanlon also described more details about the \"modern suburban fantasy world\" the film inhabits. It's a world where magic existed long ago, but because of difficulty and complication, people simply lost interest and instead created machines to do both the magic and the mundane. \"The world is basically a mix of the fantastic and the everyday\", Scanlon explained as concept art showed slices of recognizable suburbia, albeit with goblins and creatures. \"There are mushroom houses that line the streets with satellite dishes sticking out the top of them and a minivan parked in front of each one. There are no humans... but there are winged unicorns everywhere. They're basically rodents, possums eating all the trash out of your bins.\"\n\nThe film is inspired by the death of director Dan Scanlon's father, when he and his brother were younger, and their relationship. Scanlon decided to write the story after hearing an audio clip of his father.",
+      "short_description": "Onward is Pixar's twenty-second feature film about a \"suburban fantasy world\" which was first announced at the 2017 D23 Expo. Directed by Dan Scanlon and produced by Kori Rae; both of whom previously worked on Monsters…",
+      "evidence": "fiction",
+      "parentSlug": "pixar",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/pixar/images/e/e7/Onward_poster_%282%29.jpg/revision/latest/scale-to-width-down/180?cb=20191217183958",
+      "image_source": "https://pixar.fandom.com/wiki/Onward",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Pixar art © Disney / Pixar (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Onward",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "work",
+        "fandom_url": "https://pixar.fandom.com/wiki/Onward",
+        "fandom_title": "Onward",
+        "source_fandom": "pixar.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -23210,6 +23268,22 @@
     ],
     [
       "monsters-inc",
+      "pixar",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "newt",
+      "pixar",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "onward",
       "pixar",
       "part_of",
       "Part of",

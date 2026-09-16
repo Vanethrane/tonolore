@@ -10,7 +10,9 @@
           "wikipedia",
           "fandom"
         ]
-      }
+      },
+      "description": "Mistborn is a series of epic fantasy novels by the American author Brandon Sanderson and published by Tor Books. The books follow a series of Allomancers, who are individuals who can consume metal to wield magical powers.\n\nThe books are organised into four eras with large time skips between, of which the first two are complete and the third is currently being written. The first era (published 2006-2008) is fantasy and chronicles the efforts of a secret group of Allomancers who attempt to overthrow a dystopian empire and establish themselves in a world covered by ash. The second (2011-2022) is a detective story set 300 years later, following the Lawmen Wax and Wayne in their efforts to undermine a criminal ring. The third series will be set in the early computer age with 1980s/1990s technology. The fourth series is planned to be a space-opera.\n\nMistborn has been a critical and commercial success, and has led to adaptations in other media, including tabletop gaming. It is part of Sanderson's Cosmere, an interconnected universe, and thus some elements from Mistborn have appeared in or influenced other stories.\n\n! # !! Title !! Words !! Publication date",
+      "short_description": "Mistborn is a series of epic fantasy novels by the American author Brandon Sanderson and published by Tor Books. The books follow a series of Allomancers, who are individuals who can consume metal to wield magical…"
     },
     {
       "slug": "mistborn-era-figures",
@@ -477,7 +479,7 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Mistborn article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T16:41:06.684Z",
+  "generated_at": "2026-09-15T03:20:06.794Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://en.wikipedia.org/wiki/",

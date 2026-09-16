@@ -10,7 +10,9 @@
           "wikipedia",
           "fandom"
         ]
-      }
+      },
+      "description": "The Earthsea Cycle, also known as Earthsea, is a series of high fantasy books written by American author Ursula K. Le Guin. Beginning with A Wizard of Earthsea (1968), The Tombs of Atuan (1970), and The Farthest Shore (1972), the series was continued in Tehanu (1990), and Tales from Earthsea and The Other Wind (both 2001). In 2018, all the novels and short stories were published in a single volume, The Books of Earthsea: The Complete Illustrated Edition, with artwork by Charles Vess.\n\nThe world of Earthsea is one of sea and islands: a vast archipelago of hundreds of islands surrounded by mostly uncharted ocean. Earthsea contains no large continents. The largest island, Havnor, at approximately across, is about the size of Great Britain. The overall climate of Earthsea is temperate, comparable to the mid-latitudes of the northern hemisphere of Earth. There is a yearly transition from warm summers to cold and snowy winters, especially on northern islands like Gont and Osskil. In the southern regions of Earthsea, it can be much warmer.\n\nThe cultures of Earthsea are not direct analogues of those of the real world, but are literate non-industrial civilizations.\n\nTechnologically, Earthsea is an early Iron Age society, with bronze used in places where iron is scarce. Ged's father is a bronze-smith. Weapons also include the use of wood and other hard but easily crafted metals.",
+      "short_description": "The Earthsea Cycle, also known as Earthsea, is a series of high fantasy books written by American author Ursula K. Le Guin. Beginning with A Wizard of Earthsea (1968), The Tombs of Atuan (1970), and The Farthest Shore…"
     },
     {
       "slug": "earthsea-figures",
@@ -469,15 +471,48 @@
       }
     }
   ],
-  "entities": [],
-  "relationships": [],
+  "entities": [
+    {
+      "slug": "ged-earthsea",
+      "name": "Ged",
+      "type": "person",
+      "description": "Ged is the true name of a fictional character in Ursula K. Le Guin's Earthsea realm. He is introduced in A Wizard of Earthsea, and plays both main and supporting roles in the subsequent Earthsea novels. In most of the Earthsea books he goes by the Hardic name Sparrowhawk; as a child he is known as Duny.\n\nGed is the main protagonist in A Wizard of Earthsea in which he is a serious and arrogant boy who matures into \"one of the wisest and most powerful magicians in the land.\" He has red-brown skin.\n\nAt birth, Ged was given the child-name Duny by his mother. He was born on the island of Gont, the son of a bronzesmith. His mother died before he reached the age of one. A small boy, Ged had overheard the village witch, his maternal aunt, using various words of power to call goats. Ged later used the words without understanding their meanings, to surprising effect. The witch knew that using words of power effectively without understanding them required innate power, so she endeavored to teach him what little she knew. After learning more from her, he could call animals to him. Particularly, he was seen in the company of wild sparrowhawks so often that his \"use name\" became Sparrowhawk (in Earthsea, most people customarily conceal their true name from all but their closest confidants). By age twelve, Ged had learned all the village witch could teach him.\n\nWhen Ged was twelve, the island was attacked by raiders from the nearby Kargad lands. This attack changed Ged's life forever. When the Kargs attacked, Ged, seeing the doom of his village, used two spells to protect his people from the Kargs. The first spell enveloped the town in a fog that hid the villagers from the Kargs. The second created illusions in the mist. Ged's need to cover a large area in moisture for a long time overspent his strength, leaving him semi-conscious.",
+      "short_description": "Ged is the true name of a fictional character in Ursula K. Le Guin's Earthsea realm. He is introduced in A Wizard of Earthsea, and plays both main and supporting roles in the subsequent Earthsea novels. In most of the…",
+      "evidence": "fiction",
+      "parentSlug": "earthsea-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ged_(Earthsea)",
+        "fandom_title": "Ged (Earthsea)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "ged-earthsea",
+      "earthsea-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Earthsea article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T16:43:50.457Z",
+  "generated_at": "2026-09-15T03:21:42.363Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://en.wikipedia.org/wiki/",

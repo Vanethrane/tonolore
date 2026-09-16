@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T17:22:50.090Z",
+  "generated_at": "2026-09-15T03:59:04.056Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -15683,6 +15683,35 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "bat",
+      "name": "Bat",
+      "type": "person",
+      "description": "Bats are Minecraft minifigures introduced in 2017.\n\nBats are mobs that live in caves and fly around. They get startled and fly away if the player gets too close.\n\nCategory:Animals Category:Minifigures introduced in 2017 Category:Minecraft",
+      "short_description": "A Bat is a small, single-stud animal part. Typically black, they have also appeared on occasion in dark gray, representing statues, and have never yet been printed. They are positioned sitting upright with wings…",
+      "evidence": "fiction",
+      "parentSlug": "lego",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lego/images/e/ed/Minecraft_Bat.png/revision/latest/scale-to-width-down/180?cb=20230526051818",
+      "image_source": "https://brickipedia.fandom.com/wiki/Bat_(Minecraft)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. LEGO art © The LEGO Group (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Bat (Minecraft)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://brickipedia.fandom.com/wiki/Bat_(Minecraft)",
+        "fandom_title": "Bat (Minecraft)",
+        "source_fandom": "lego.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -20112,6 +20141,14 @@
     ],
     [
       "basilisk",
+      "lego",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bat",
       "lego",
       "part_of",
       "Part of",

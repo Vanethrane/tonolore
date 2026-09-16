@@ -517,6 +517,29 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "evil-lyn",
+      "name": "Evil-Lyn",
+      "type": "person",
+      "description": "Jason | title=Masters Of The Universe Classics Faceless One Review | website=MTV | date=2011-06-13 | url=https://www.mtv.com/news/jat6pt/masters-of-the-universe-classics-faceless-one-review | archive-url=https://web.archive.org/web/20240621092029/https://www.mtv.com/news/jat6pt/masters-of-the-universe-classics-faceless-one-review | archive-date=2024-06-21 | url-status=unfit | access-date=2024-07-05}}Hordak (father, 2021 reboot)\n\nEvil-Lyn is a supervillainess in the Masters of the Universe toy line and the accompanying cartoon series He-Man and the Masters of the Universe.\n\nShe is an evil witch who aids Skeletor as his second-in-command with her powers of darkness. She is vastly more intelligent than Skeletor's other minions, and while she admits that she is not as powerful as Skeletor, she readily confesses that she hopes to seize her master's powers and rule over Eternia herself one day. Thus, she has worked completely independently of Skeletor on multiple occasions. Her trademark is the magic wand crowned with a crystal orb, but Evil-Lyn typically generates magic without the assistance of any instruments.\n\nEvil-Lyn was introduced into the Masters of the Universe toyline in 1983 in order to add a female character to the Evil Warriors. Envisioned as an evil warrior-goddess and counterpart to Teela, Evil-Lyn's action figure is identical to Teela's except in color scheme, head mold, and accessories. The original figure has bright yellow skin.",
+      "short_description": "Jason | title=Masters Of The Universe Classics Faceless One Review | website=MTV | date=2011-06-13 | url=https://www.mtv.com/news/jat6pt/masters-of-the-universe-classics-faceless-one-review |…",
+      "evidence": "fiction",
+      "parentSlug": "he-man-motu-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Evil-Lyn",
+        "fandom_title": "Evil-Lyn",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -535,6 +558,14 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "evil-lyn",
+      "he-man-motu-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
@@ -543,18 +574,18 @@
     "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Masters of the Universe article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-14T20:24:45.390Z",
+  "generated_at": "2026-09-15T01:39:09.181Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://en.wikipedia.org/wiki/",
     "host": "en.wikipedia.org"
   },
   "stats": {
-    "fandom_titles": 0,
+    "fandom_titles": 1,
     "fandom_enriched_core": 0,
-    "fandom_created": 0,
+    "fandom_created": 1,
     "fandom_images": 0,
-    "fandom_intros": 0,
+    "fandom_intros": 1,
     "description_ensure_at": "2026-09-13T16:25:06.323Z",
     "description_ensure_count": 1
   }

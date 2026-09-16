@@ -56,3 +56,15 @@ cd client && npm run dev
 ```
 
 API defaults to `http://localhost:3001`. Set `DATABASE_URL` in the repo-root `.env`.
+
+## Static docs preview
+
+To rebuild the database-backed pages into `docs/` and serve the static site locally:
+
+```bash
+node serve-docs.js
+```
+
+This will export the current database content into the static HTML pages under `docs/` and then serve the site locally at `http://localhost:4173/`.
+
+For GitHub Pages, the workflow already uploads the `docs/` folder as the artifact. The static pages should be published from `docs/`, not from the repo root.

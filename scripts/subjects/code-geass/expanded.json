@@ -1,0 +1,975 @@
+{
+  "enrichments": [
+    {
+      "slug": "code-geass",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass",
+        "fandom_title": "Code Geass",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_figures",
+        "fandom_title": "Code Geass figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_world_&_context",
+        "fandom_title": "Code Geass world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_places",
+        "fandom_title": "Code Geass places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_events",
+        "fandom_title": "Code Geass events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_objects_&_artifacts",
+        "fandom_title": "Code Geass objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_factions_&_groups",
+        "fandom_title": "Code Geass factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_concepts",
+        "fandom_title": "Code Geass concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_eras",
+        "fandom_title": "Code Geass eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_works_&_media",
+        "fandom_title": "Code Geass works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_symbols",
+        "fandom_title": "Code Geass symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_controversies",
+        "fandom_title": "Code Geass controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_geography",
+        "fandom_title": "Code Geass geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_legacy",
+        "fandom_title": "Code Geass legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_practices",
+        "fandom_title": "Code Geass practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_1",
+        "fandom_title": "Code Geass entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_2",
+        "fandom_title": "Code Geass entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_3",
+        "fandom_title": "Code Geass entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_4",
+        "fandom_title": "Code Geass entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_5",
+        "fandom_title": "Code Geass entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_6",
+        "fandom_title": "Code Geass entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_7",
+        "fandom_title": "Code Geass entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_8",
+        "fandom_title": "Code Geass entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_9",
+        "fandom_title": "Code Geass entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_10",
+        "fandom_title": "Code Geass entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_11",
+        "fandom_title": "Code Geass entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_12",
+        "fandom_title": "Code Geass entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_13",
+        "fandom_title": "Code Geass entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_14",
+        "fandom_title": "Code Geass entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_15",
+        "fandom_title": "Code Geass entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_16",
+        "fandom_title": "Code Geass entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_17",
+        "fandom_title": "Code Geass entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_18",
+        "fandom_title": "Code Geass entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_19",
+        "fandom_title": "Code Geass entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_20",
+        "fandom_title": "Code Geass entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_21",
+        "fandom_title": "Code Geass entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_22",
+        "fandom_title": "Code Geass entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_23",
+        "fandom_title": "Code Geass entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_entry_24",
+        "fandom_title": "Code Geass entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "code-geass-akito-the-exiled",
+      "name": "Code Geass: Akito the Exiled",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "code-geass",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass:_Akito_the_Exiled",
+        "fandom_title": "Code Geass: Akito the Exiled",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-black-hayabiki-no-lelouch",
+      "name": "Code Black: Hayabiki no Lelouch",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "code-geass",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Black:_Hayabiki_no_Lelouch",
+        "fandom_title": "Code Black: Hayabiki no Lelouch",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-lelouch-of-the-rebellion",
+      "name": "Code Geass Lelouch of the Rebellion",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "code-geass",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_Lelouch_of_the_Rebellion",
+        "fandom_title": "Code Geass Lelouch of the Rebellion",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-lelouch-of-the-resurrection",
+      "name": "Code Geass Lelouch of the Re;surrection",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "code-geass",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass_Lelouch_of_the_Re;surrection",
+        "fandom_title": "Code Geass Lelouch of the Re;surrection",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "code-geass-roze-of-the-recapture",
+      "name": "Code Geass: Rozé of the Recapture",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "code-geass",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Code_Geass:_Roz%C3%A9_of_the_Recapture",
+        "fandom_title": "Code Geass: Rozé of the Recapture",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "colors-flow-song",
+      "name": "Colors",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "code-geass",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Colors_(Flow_song)",
+        "fandom_title": "Colors (Flow song)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "waga-rotashi-aku-no-hana",
+      "name": "Waga Rōtashi Aku no Hana",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "code-geass",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Waga_R%C5%8Dtashi_Aku_no_Hana",
+        "fandom_title": "Waga Rōtashi Aku no Hana",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "world-end",
+      "name": "World End",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "code-geass",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/World_End",
+        "fandom_title": "World End",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "euphemia-li-britannia",
+      "name": "Euphemia li Britannia",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "code-geass-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Euphemia_li_Britannia",
+        "fandom_title": "Euphemia li Britannia",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cc-code-geass",
+      "name": "C.C.",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "code-geass-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/C.C._(Code_Geass)",
+        "fandom_title": "C.C. (Code Geass)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "akito-hyuga",
+      "name": "Akito Hyuga",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "code-geass-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Akito_Hyuga",
+        "fandom_title": "Akito Hyuga",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suzaku-kururugi",
+      "name": "Suzaku Kururugi",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "code-geass-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Suzaku_Kururugi",
+        "fandom_title": "Suzaku Kururugi",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lelouch-lamperouge",
+      "name": "Lelouch Lamperouge",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "code-geass-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Lelouch_Lamperouge",
+        "fandom_title": "Lelouch Lamperouge",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nunnally-lamperouge",
+      "name": "Nunnally Lamperouge",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "code-geass-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Nunnally_Lamperouge",
+        "fandom_title": "Nunnally Lamperouge",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kallen-stadtfeld",
+      "name": "Kallen Stadtfeld",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "code-geass-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Kallen_Stadtfeld",
+        "fandom_title": "Kallen Stadtfeld",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "list-of-code-geass-characters",
+      "name": "List of Code Geass characters",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "code-geass-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/List_of_Code_Geass_characters",
+        "fandom_title": "List of Code Geass characters",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "code-geass-akito-the-exiled",
+      "code-geass",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "code-black-hayabiki-no-lelouch",
+      "code-geass",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "code-geass-lelouch-of-the-rebellion",
+      "code-geass",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "code-geass-lelouch-of-the-resurrection",
+      "code-geass",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "code-geass-roze-of-the-recapture",
+      "code-geass",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "colors-flow-song",
+      "code-geass",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "waga-rotashi-aku-no-hana",
+      "code-geass",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "world-end",
+      "code-geass",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "euphemia-li-britannia",
+      "code-geass-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cc-code-geass",
+      "code-geass-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "akito-hyuga",
+      "code-geass-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "suzaku-kururugi",
+      "code-geass-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lelouch-lamperouge",
+      "code-geass-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "nunnally-lamperouge",
+      "code-geass-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "kallen-stadtfeld",
+      "code-geass-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "list-of-code-geass-characters",
+      "code-geass-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Code Geass article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:31:42.581Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

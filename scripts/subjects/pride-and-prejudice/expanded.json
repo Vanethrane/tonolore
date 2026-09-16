@@ -1,0 +1,2004 @@
+{
+  "enrichments": [
+    {
+      "slug": "pride-and-prejudice",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+        "fandom_title": "Pride and Prejudice",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "Pride and Prejudice is a novel by English author Jane Austen. Written when she was aged 20–21, it was her third novel written and became the second to see print when it was published in 1813. A novel of manners, it follows the character development of Elizabeth Bennet, the protagonist of the book, who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness.\n\nHer father, Mr Bennet—owner of the Longbourn estate in Hertfordshire—has five daughters; but this estate is entailed and so can only be inherited in the male line. To his regret, he has failed to save out of the income from the Longbourn estate to provide for his daughters. From the Bennets' perspective, it is imperative that at least one of their daughters marry well to support the others, which is a primary motivation driving the plot.\n\nPride and Prejudice has consistently appeared near the top of lists of \"most-loved books\" among literary scholars and the reading public. It has become one of the most popular novels in English literature, with over 20 million copies sold, and has inspired many derivatives in modern literature. For more than a century, dramatic adaptations, reprints, unofficial sequels, films, and TV versions of Pride and Prejudice have portrayed the memorable characters and themes of the novel, reaching mass audiences.\n\nIn the early 19th century, the Bennet family lives at their Longbourn estate, situated near the small town of Meryton in Hertfordshire, England. Mrs Bennet's greatest desire is to marry off her five daughters to secure their futures. A regiment of militia is encamped outside the town, and the younger Bennet daughters flirt with the officers, to the great embarrassment of their elder sisters.",
+      "short_description": "Pride and Prejudice is a novel by English author Jane Austen. Written when she was aged 20–21, it was her third novel written and became the second to see print when it was published in 1813. A novel of manners, it…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/PrideAndPrejudiceTitlePage.jpg/180px-PrideAndPrejudiceTitlePage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Pride and Prejudice article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Pride and Prejudice"
+    },
+    {
+      "slug": "pride-and-prejudice-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_figures",
+        "fandom_title": "Pride and Prejudice figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_world_&_context",
+        "fandom_title": "Pride and Prejudice world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_places",
+        "fandom_title": "Pride and Prejudice places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_events",
+        "fandom_title": "Pride and Prejudice events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_objects_&_artifacts",
+        "fandom_title": "Pride and Prejudice objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_factions_&_groups",
+        "fandom_title": "Pride and Prejudice factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_concepts",
+        "fandom_title": "Pride and Prejudice concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_eras",
+        "fandom_title": "Pride and Prejudice eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_works_&_media",
+        "fandom_title": "Pride and Prejudice works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_symbols",
+        "fandom_title": "Pride and Prejudice symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_controversies",
+        "fandom_title": "Pride and Prejudice controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_geography",
+        "fandom_title": "Pride and Prejudice geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_legacy",
+        "fandom_title": "Pride and Prejudice legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_practices",
+        "fandom_title": "Pride and Prejudice practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_1",
+        "fandom_title": "Pride and Prejudice entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_2",
+        "fandom_title": "Pride and Prejudice entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_3",
+        "fandom_title": "Pride and Prejudice entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_4",
+        "fandom_title": "Pride and Prejudice entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_5",
+        "fandom_title": "Pride and Prejudice entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_6",
+        "fandom_title": "Pride and Prejudice entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_7",
+        "fandom_title": "Pride and Prejudice entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_8",
+        "fandom_title": "Pride and Prejudice entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_9",
+        "fandom_title": "Pride and Prejudice entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_10",
+        "fandom_title": "Pride and Prejudice entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_11",
+        "fandom_title": "Pride and Prejudice entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_12",
+        "fandom_title": "Pride and Prejudice entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_13",
+        "fandom_title": "Pride and Prejudice entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_14",
+        "fandom_title": "Pride and Prejudice entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_15",
+        "fandom_title": "Pride and Prejudice entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_16",
+        "fandom_title": "Pride and Prejudice entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_17",
+        "fandom_title": "Pride and Prejudice entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_18",
+        "fandom_title": "Pride and Prejudice entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_19",
+        "fandom_title": "Pride and Prejudice entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_20",
+        "fandom_title": "Pride and Prejudice entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_21",
+        "fandom_title": "Pride and Prejudice entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_22",
+        "fandom_title": "Pride and Prejudice entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_23",
+        "fandom_title": "Pride and Prejudice entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_entry_24",
+        "fandom_title": "Pride and Prejudice entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "it-is-a-truth-universally-acknowledged",
+      "name": "It is a truth universally acknowledged",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/It_is_a_truth_universally_acknowledged",
+        "fandom_title": "It is a truth universally acknowledged",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "jane-austens-literary-universe",
+      "name": "Jane Austen's literary universe",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Jane_Austen's_literary_universe",
+        "fandom_title": "Jane Austen's literary universe",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pemberley",
+      "name": "Pemberley",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Pemberley",
+        "fandom_title": "Pemberley",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "death-comes-to-pemberley-tv-series",
+      "name": "Death Comes to Pemberley",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Death_Comes_to_Pemberley_(TV_series)",
+        "fandom_title": "Death Comes to Pemberley (TV series)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kahiin-to-hoga",
+      "name": "Kahiin to Hoga",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Kahiin_to_Hoga",
+        "fandom_title": "Kahiin to Hoga",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-lizzie-bennet-diaries",
+      "name": "The Lizzie Bennet Diaries",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lizzie_Bennet_Diaries",
+        "fandom_title": "The Lizzie Bennet Diaries",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lost-in-austen",
+      "name": "Lost in Austen",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Lost_in_Austen",
+        "fandom_title": "Lost in Austen",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "orgulho-e-paixao",
+      "name": "Orgulho e Paixão",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Orgulho_e_Paixão",
+        "fandom_title": "Orgulho e Paixão",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "trishna-tv-series",
+      "name": "Trishna",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Trishna_(TV_series)",
+        "fandom_title": "Trishna (TV series)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elizabeth-bennet",
+      "name": "Elizabeth Bennet",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Elizabeth_Bennet",
+        "fandom_title": "Elizabeth Bennet",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bennet-family",
+      "name": "Bennet family",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bennet_family",
+        "fandom_title": "Bennet family",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mr-william-collins",
+      "name": "Mr William Collins",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mr_William_Collins",
+        "fandom_title": "Mr William Collins",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mr-darcy",
+      "name": "Mr. Darcy",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mr._Darcy",
+        "fandom_title": "Mr. Darcy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lady-catherine-de-bourgh",
+      "name": "Lady Catherine de Bourgh",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Lady_Catherine_de_Bourgh",
+        "fandom_title": "Lady Catherine de Bourgh",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "george-wickham",
+      "name": "George Wickham",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/George_Wickham",
+        "fandom_title": "George Wickham",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beyond-a-joke-red-dwarf",
+      "name": "Beyond a Joke",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Beyond_a_Joke_(Red_Dwarf)",
+        "fandom_title": "Beyond a Joke (Red Dwarf)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bridget-jones",
+      "name": "Bridget Jones",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bridget_Jones_(film_series)",
+        "fandom_title": "Bridget Jones (film series)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stolthet-och-fordom",
+      "name": "Stolthet och fördom",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Stolthet_och_fördom",
+        "fandom_title": "Stolthet och fördom",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stride-prejudice",
+      "name": "Stride & Prejudice",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Stride_&_Prejudice",
+        "fandom_title": "Stride & Prejudice",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bridget-joness-diary-musical",
+      "name": "Bridget Jones's Diary",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bridget_Jones's_Diary_(musical)",
+        "fandom_title": "Bridget Jones's Diary (musical)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "first-impressions-musical",
+      "name": "First Impressions",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/First_Impressions_(musical)",
+        "fandom_title": "First Impressions (musical)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "i-love-you-because",
+      "name": "I Love You Because",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/I_Love_You_Because",
+        "fandom_title": "I Love You Because",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "miss-bennet-christmas-at-pemberley",
+      "name": "Miss Bennet: Christmas at Pemberley",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Miss_Bennet:_Christmas_at_Pemberley",
+        "fandom_title": "Miss Bennet: Christmas at Pemberley",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bridget-jones-mad-about-the-boy",
+      "name": "Bridget Jones: Mad About the Boy",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bridget_Jones:_Mad_About_the_Boy_(novel)",
+        "fandom_title": "Bridget Jones: Mad About the Boy (novel)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bridget-jones-the-edge-of-reason",
+      "name": "Bridget Jones: The Edge of Reason",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bridget_Jones:_The_Edge_of_Reason_(soundtrack)",
+        "fandom_title": "Bridget Jones: The Edge of Reason (soundtrack)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bridget-joness-baby",
+      "name": "Bridget Jones's Baby",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bridget_Jones's_Baby",
+        "fandom_title": "Bridget Jones's Baby",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bridget-joness-baby-original-motion-picture-soundtrack",
+      "name": "Bridget Jones's Baby: Original Motion Picture Soundtrack",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bridget_Jones's_Baby:_Original_Motion_Picture_Soundtrack",
+        "fandom_title": "Bridget Jones's Baby: Original Motion Picture Soundtrack",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bridget-joness-diary",
+      "name": "Bridget Jones's Diary",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bridget_Jones's_Diary_(novel)",
+        "fandom_title": "Bridget Jones's Diary (novel)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bridget-joness-diary-music-from-the-motion-picture",
+      "name": "Bridget Jones's Diary: Music from the Motion Picture",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bridget_Jones's_Diary:_Music_from_the_Motion_Picture",
+        "fandom_title": "Bridget Jones's Diary: Music from the Motion Picture",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "helen-fielding",
+      "name": "Helen Fielding",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Helen_Fielding",
+        "fandom_title": "Helen Fielding",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-isnt-perfect-but-it-might-be",
+      "name": "It Isn't Perfect But It Might Be",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/It_Isn't_Perfect_But_It_Might_Be",
+        "fandom_title": "It Isn't Perfect But It Might Be",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meteorite-years-years-song",
+      "name": "Meteorite",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Meteorite_(Years_&_Years_song)",
+        "fandom_title": "Meteorite (Years & Years song)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "out-of-reach-song",
+      "name": "Out of Reach",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Out_of_Reach_(song)",
+        "fandom_title": "Out of Reach (song)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "still-falling-for-you",
+      "name": "Still Falling for You",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Still_Falling_for_You",
+        "fandom_title": "Still Falling for You",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "an-assembly-such-as-this",
+      "name": "An Assembly Such as This",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/An_Assembly_Such_as_This",
+        "fandom_title": "An Assembly Such as This",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "austenland",
+      "name": "Austenland",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Austenland_(film)",
+        "fandom_title": "Austenland (film)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "death-comes-to-pemberley",
+      "name": "Death Comes to Pemberley",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Death_Comes_to_Pemberley",
+        "fandom_title": "Death Comes to Pemberley",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "eligible-novel",
+      "name": "Eligible",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Eligible_(novel)",
+        "fandom_title": "Eligible (novel)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "longbourn",
+      "name": "Longbourn",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Longbourn",
+        "fandom_title": "Longbourn",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "love-lies-and-lizzie",
+      "name": "Love, Lies and Lizzie",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Love,_Lies_and_Lizzie",
+        "fandom_title": "Love, Lies and Lizzie",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mr-darcys-daughters",
+      "name": "Mr. Darcy's Daughters",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mr._Darcy's_Daughters",
+        "fandom_title": "Mr. Darcy's Daughters",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "old-friends-and-new-fancies",
+      "name": "Old Friends and New Fancies",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Old_Friends_and_New_Fancies",
+        "fandom_title": "Old Friends and New Fancies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-other-bennet-sister-novel",
+      "name": "The Other Bennet Sister",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Other_Bennet_Sister_(novel)",
+        "fandom_title": "The Other Bennet Sister (novel)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-and-zombies",
+      "name": "Pride and Prejudice and Zombies",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_and_Zombies_(film)",
+        "fandom_title": "Pride and Prejudice and Zombies (film)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-and-prejudice-and-zombies-dawn-of-the-dreadfuls",
+      "name": "Pride and Prejudice and Zombies: Dawn of the Dreadfuls",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_and_Zombies:_Dawn_of_the_Dreadfuls",
+        "fandom_title": "Pride and Prejudice and Zombies: Dawn of the Dreadfuls",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bride-and-prejudice",
+      "name": "Bride and Prejudice",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bride_and_Prejudice",
+        "fandom_title": "Bride and Prejudice",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fire-island-film",
+      "name": "Fire Island",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Fire_Island_(film)",
+        "fandom_title": "Fire Island (film)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "jane-austens-period-drama",
+      "name": "Jane Austen's Period Drama",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Jane_Austen's_Period_Drama",
+        "fandom_title": "Jane Austen's Period Drama",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-prejudice-2005-film",
+      "name": "Pride & Prejudice",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_&_Prejudice_(2005_film)",
+        "fandom_title": "Pride & Prejudice (2005 film)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pride-prejudice-a-latter-day-comedy",
+      "name": "Pride & Prejudice: A Latter-Day Comedy",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "pride-and-prejudice",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Pride_&_Prejudice:_A_Latter-Day_Comedy",
+        "fandom_title": "Pride & Prejudice: A Latter-Day Comedy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "it-is-a-truth-universally-acknowledged",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "jane-austens-literary-universe",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "pemberley",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "death-comes-to-pemberley-tv-series",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "kahiin-to-hoga",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-lizzie-bennet-diaries",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lost-in-austen",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "orgulho-e-paixao",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "trishna-tv-series",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "elizabeth-bennet",
+      "pride-and-prejudice-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bennet-family",
+      "pride-and-prejudice-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mr-william-collins",
+      "pride-and-prejudice-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mr-darcy",
+      "pride-and-prejudice-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lady-catherine-de-bourgh",
+      "pride-and-prejudice-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "george-wickham",
+      "pride-and-prejudice-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "beyond-a-joke-red-dwarf",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bridget-jones",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "stolthet-och-fordom",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "stride-prejudice",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bridget-joness-diary-musical",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "first-impressions-musical",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "i-love-you-because",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "miss-bennet-christmas-at-pemberley",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bridget-jones-mad-about-the-boy",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bridget-jones-the-edge-of-reason",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bridget-joness-baby",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bridget-joness-baby-original-motion-picture-soundtrack",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bridget-joness-diary",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bridget-joness-diary-music-from-the-motion-picture",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "helen-fielding",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "it-isnt-perfect-but-it-might-be",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "meteorite-years-years-song",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "out-of-reach-song",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "still-falling-for-you",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "an-assembly-such-as-this",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "austenland",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "death-comes-to-pemberley",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "eligible-novel",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "longbourn",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "love-lies-and-lizzie",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mr-darcys-daughters",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "old-friends-and-new-fancies",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-other-bennet-sister-novel",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "pride-and-prejudice-and-zombies",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "pride-and-prejudice-and-zombies-dawn-of-the-dreadfuls",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bride-and-prejudice",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "fire-island-film",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "jane-austens-period-drama",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "pride-prejudice-2005-film",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "pride-prejudice-a-latter-day-comedy",
+      "pride-and-prejudice",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Pride and Prejudice article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:45:13.719Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

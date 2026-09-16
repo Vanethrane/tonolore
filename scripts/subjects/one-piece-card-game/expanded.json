@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "one-piece-card-game",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game",
+        "fandom_title": "One Piece Card Game",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_figures",
+        "fandom_title": "One Piece Card Game figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_world_&_context",
+        "fandom_title": "One Piece Card Game world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_places",
+        "fandom_title": "One Piece Card Game places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_events",
+        "fandom_title": "One Piece Card Game events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_objects_&_artifacts",
+        "fandom_title": "One Piece Card Game objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_factions_&_groups",
+        "fandom_title": "One Piece Card Game factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_concepts",
+        "fandom_title": "One Piece Card Game concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_eras",
+        "fandom_title": "One Piece Card Game eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_works_&_media",
+        "fandom_title": "One Piece Card Game works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_symbols",
+        "fandom_title": "One Piece Card Game symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_controversies",
+        "fandom_title": "One Piece Card Game controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_geography",
+        "fandom_title": "One Piece Card Game geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_legacy",
+        "fandom_title": "One Piece Card Game legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_practices",
+        "fandom_title": "One Piece Card Game practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_1",
+        "fandom_title": "One Piece Card Game entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_2",
+        "fandom_title": "One Piece Card Game entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_3",
+        "fandom_title": "One Piece Card Game entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_4",
+        "fandom_title": "One Piece Card Game entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_5",
+        "fandom_title": "One Piece Card Game entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_6",
+        "fandom_title": "One Piece Card Game entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_7",
+        "fandom_title": "One Piece Card Game entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_8",
+        "fandom_title": "One Piece Card Game entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_9",
+        "fandom_title": "One Piece Card Game entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_10",
+        "fandom_title": "One Piece Card Game entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_11",
+        "fandom_title": "One Piece Card Game entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_12",
+        "fandom_title": "One Piece Card Game entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_13",
+        "fandom_title": "One Piece Card Game entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_14",
+        "fandom_title": "One Piece Card Game entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_15",
+        "fandom_title": "One Piece Card Game entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_16",
+        "fandom_title": "One Piece Card Game entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_17",
+        "fandom_title": "One Piece Card Game entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_18",
+        "fandom_title": "One Piece Card Game entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_19",
+        "fandom_title": "One Piece Card Game entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_20",
+        "fandom_title": "One Piece Card Game entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_21",
+        "fandom_title": "One Piece Card Game entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_22",
+        "fandom_title": "One Piece Card Game entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_23",
+        "fandom_title": "One Piece Card Game entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "one-piece-card-game-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/One_Piece_Card_Game_entry_24",
+        "fandom_title": "One Piece Card Game entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. One Piece Card Game article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T17:09:20.407Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

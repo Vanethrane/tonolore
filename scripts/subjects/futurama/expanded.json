@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "futurama",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama",
+        "fandom_title": "Futurama",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_figures",
+        "fandom_title": "Futurama figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_world_&_context",
+        "fandom_title": "Futurama world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_places",
+        "fandom_title": "Futurama places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_events",
+        "fandom_title": "Futurama events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_objects_&_artifacts",
+        "fandom_title": "Futurama objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_factions_&_groups",
+        "fandom_title": "Futurama factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_concepts",
+        "fandom_title": "Futurama concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_eras",
+        "fandom_title": "Futurama eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_works_&_media",
+        "fandom_title": "Futurama works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_symbols",
+        "fandom_title": "Futurama symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_controversies",
+        "fandom_title": "Futurama controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_geography",
+        "fandom_title": "Futurama geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_legacy",
+        "fandom_title": "Futurama legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_practices",
+        "fandom_title": "Futurama practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_1",
+        "fandom_title": "Futurama entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_2",
+        "fandom_title": "Futurama entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_3",
+        "fandom_title": "Futurama entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_4",
+        "fandom_title": "Futurama entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_5",
+        "fandom_title": "Futurama entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_6",
+        "fandom_title": "Futurama entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_7",
+        "fandom_title": "Futurama entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_8",
+        "fandom_title": "Futurama entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_9",
+        "fandom_title": "Futurama entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_10",
+        "fandom_title": "Futurama entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_11",
+        "fandom_title": "Futurama entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_12",
+        "fandom_title": "Futurama entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_13",
+        "fandom_title": "Futurama entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_14",
+        "fandom_title": "Futurama entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_15",
+        "fandom_title": "Futurama entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_16",
+        "fandom_title": "Futurama entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_17",
+        "fandom_title": "Futurama entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_18",
+        "fandom_title": "Futurama entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_19",
+        "fandom_title": "Futurama entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_20",
+        "fandom_title": "Futurama entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_21",
+        "fandom_title": "Futurama entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_22",
+        "fandom_title": "Futurama entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_23",
+        "fandom_title": "Futurama entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futurama-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Futurama_entry_24",
+        "fandom_title": "Futurama entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Futurama article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:19:45.163Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

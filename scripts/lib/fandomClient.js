@@ -4,6 +4,7 @@
  */
 
 const https = require("https");
+const { scrubWikiText, hasBrokenWikiProse } = require("./wikiPlainText");
 
 const USER_AGENT =
     "Ton-o-Lore/1.0 (fan lore encyclopedia; educational; contact: local-dev)";
@@ -163,7 +164,7 @@ async function listCategoryMembers(
 /**
  * Batch pageimages + canonical URLs for up to ~40 titles.
  */
-async function fetchPageIdentities(wikiHost, titles, thumbSize = 360) {
+async function fetchPageIdentities(wikiHost, titles, thumbSize = 800) {
     if (!titles.length) {
         return new Map();
     }
@@ -274,19 +275,7 @@ function introFromWikitext(wikitext, maxChars = 3200) {
     flush();
 
     const cleaned = paragraphs
-        .map((p) =>
-            p
-                .replace(/\{\{[^}]*\}\}/g, "")
-                .replace(/\[\[([^|\]]+)\|([^\]]+)\]\]/g, "$2")
-                .replace(/\[\[([^\]]+)\]\]/g, "$1")
-                .replace(/'{2,}/g, "")
-                .replace(/<ref[\s\S]*?<\/ref>/gi, "")
-                .replace(/<[^>]+>/g, "")
-                .replace(/\s+/g, " ")
-                .trim()
-                .replace(/^:+/, "")
-                .trim()
-        )
+        .map((p) => scrubWikiText(p).replace(/^:+/, "").trim())
         .filter((p) => {
             if (p.length < 40 || /^Redirect/i.test(p)) return false;
             if (/^The subject of this article/i.test(p)) return false;
@@ -298,6 +287,7 @@ function introFromWikitext(wikitext, maxChars = 3200) {
             if (/^For (the|other) .{0,80}see /i.test(p) && p.length < 100) {
                 return false;
             }
+            if (hasBrokenWikiProse(p)) return false;
             return true;
         });
 

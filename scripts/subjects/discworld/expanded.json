@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "discworld",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld",
+        "fandom_title": "Discworld",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_figures",
+        "fandom_title": "Discworld figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_world_&_context",
+        "fandom_title": "Discworld world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_places",
+        "fandom_title": "Discworld places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_events",
+        "fandom_title": "Discworld events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_objects_&_artifacts",
+        "fandom_title": "Discworld objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_factions_&_groups",
+        "fandom_title": "Discworld factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_concepts",
+        "fandom_title": "Discworld concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_eras",
+        "fandom_title": "Discworld eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_works_&_media",
+        "fandom_title": "Discworld works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_symbols",
+        "fandom_title": "Discworld symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_controversies",
+        "fandom_title": "Discworld controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_geography",
+        "fandom_title": "Discworld geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_legacy",
+        "fandom_title": "Discworld legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_practices",
+        "fandom_title": "Discworld practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_1",
+        "fandom_title": "Discworld entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_2",
+        "fandom_title": "Discworld entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_3",
+        "fandom_title": "Discworld entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_4",
+        "fandom_title": "Discworld entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_5",
+        "fandom_title": "Discworld entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_6",
+        "fandom_title": "Discworld entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_7",
+        "fandom_title": "Discworld entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_8",
+        "fandom_title": "Discworld entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_9",
+        "fandom_title": "Discworld entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_10",
+        "fandom_title": "Discworld entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_11",
+        "fandom_title": "Discworld entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_12",
+        "fandom_title": "Discworld entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_13",
+        "fandom_title": "Discworld entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_14",
+        "fandom_title": "Discworld entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_15",
+        "fandom_title": "Discworld entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_16",
+        "fandom_title": "Discworld entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_17",
+        "fandom_title": "Discworld entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_18",
+        "fandom_title": "Discworld entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_19",
+        "fandom_title": "Discworld entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_20",
+        "fandom_title": "Discworld entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_21",
+        "fandom_title": "Discworld entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_22",
+        "fandom_title": "Discworld entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_23",
+        "fandom_title": "Discworld entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "discworld-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Discworld_entry_24",
+        "fandom_title": "Discworld entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Discworld article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:40:51.395Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

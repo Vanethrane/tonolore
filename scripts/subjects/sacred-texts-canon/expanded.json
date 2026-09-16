@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "sacred-texts-canon",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons",
+        "fandom_title": "Sacred texts & canons",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_figures",
+        "fandom_title": "Sacred texts & canons figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_world_&_context",
+        "fandom_title": "Sacred texts & canons world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_places",
+        "fandom_title": "Sacred texts & canons places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_events",
+        "fandom_title": "Sacred texts & canons events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_objects_&_artifacts",
+        "fandom_title": "Sacred texts & canons objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_factions_&_groups",
+        "fandom_title": "Sacred texts & canons factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_concepts",
+        "fandom_title": "Sacred texts & canons concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_eras",
+        "fandom_title": "Sacred texts & canons eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_works_&_media",
+        "fandom_title": "Sacred texts & canons works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_symbols",
+        "fandom_title": "Sacred texts & canons symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_controversies",
+        "fandom_title": "Sacred texts & canons controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_geography",
+        "fandom_title": "Sacred texts & canons geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_legacy",
+        "fandom_title": "Sacred texts & canons legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_practices",
+        "fandom_title": "Sacred texts & canons practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_1",
+        "fandom_title": "Sacred texts & canons entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_2",
+        "fandom_title": "Sacred texts & canons entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_3",
+        "fandom_title": "Sacred texts & canons entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_4",
+        "fandom_title": "Sacred texts & canons entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_5",
+        "fandom_title": "Sacred texts & canons entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_6",
+        "fandom_title": "Sacred texts & canons entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_7",
+        "fandom_title": "Sacred texts & canons entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_8",
+        "fandom_title": "Sacred texts & canons entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_9",
+        "fandom_title": "Sacred texts & canons entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_10",
+        "fandom_title": "Sacred texts & canons entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_11",
+        "fandom_title": "Sacred texts & canons entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_12",
+        "fandom_title": "Sacred texts & canons entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_13",
+        "fandom_title": "Sacred texts & canons entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_14",
+        "fandom_title": "Sacred texts & canons entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_15",
+        "fandom_title": "Sacred texts & canons entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_16",
+        "fandom_title": "Sacred texts & canons entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_17",
+        "fandom_title": "Sacred texts & canons entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_18",
+        "fandom_title": "Sacred texts & canons entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_19",
+        "fandom_title": "Sacred texts & canons entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_20",
+        "fandom_title": "Sacred texts & canons entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_21",
+        "fandom_title": "Sacred texts & canons entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_22",
+        "fandom_title": "Sacred texts & canons entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_23",
+        "fandom_title": "Sacred texts & canons entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sacred-texts-canon-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Sacred_texts_&_canons_entry_24",
+        "fandom_title": "Sacred texts & canons entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Sacred texts & canons article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:07:59.348Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

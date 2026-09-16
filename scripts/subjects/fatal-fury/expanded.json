@@ -1,0 +1,535 @@
+{
+  "enrichments": [
+    {
+      "slug": "fatal-fury",
+      "description": "Fatal Fury, known as in Japan, is a fighting game series developed by SNK, first released on SNK's Neo Geo system. Similar to other games from the genre, the franchise involves rounds where the player is given access to both combos and special techniques needed to defeat enemies. The franchise was started by Fatal Fury: King of Fighters (1991), and has come to include several spin-offs and anime adaptations.\n\nThough only three characters were playable in the first installment, the cast was expanded with each new game. The story focuses on the antagonism between the children of the late Jeff Bogard, Terry and Andy, and the South Town crime lord Geese Howard as well as several fighters allied with both factions to see which side will win in a series of fighting competitions. This original story arc ends with the fourth instalment, Real Bout Fatal Fury (1995), with Geese's son Rock Howard taking over as protagonist in Garou: Mark of the Wolves (1999) to find the mystery behind his legacy. After Mark of the Wolves, the failure of the Neo Geo's successor and SNK's bankruptcy contributed to the end of the Fatal Fury franchise, until its 26-years hiatus was ended with Fatal Fury: City of the Wolves (2025), released on most modern system, which ends Rock's arc while giving the player new forms of exploring each character's role in the story for the first time.\n\nFatal Fury: King of Fighters was designed by Takashi Nishiyama, the creator of the original Street Fighter (1987) at Capcom. After leaving Capcom for SNK, Nishiyama wanted to create a fighting game with a storyline and characters that were easier to empathize with, something he wasn't able to achieve with Street Fighter. Fatal Fury inspired multiple sequels published by SNK following its success. There have also been several original video animations (OVA) and manga adaptation based on the story. Its IP and Art of Fighting share the same continuity by placing a younger Geese in the second installment, Art of Fighting 2 whereas Art of Fighting lead Ryo Sakazaki would return in the remake Fatal Fury: Wild Ambition. Both Fatal Fury and Art of Fighting became the basis for the later The King of Fighters games by SNK where Terry, Ryo and other SNK protagonists fight alongside other crossover characters created by SNK in new tournaments. Critical response to Fatal Fury was positive, drawing positive comparison to Street Fighter II based on special moves and visuals.\n\nThe original Fatal Fury is known for the two-plane system in which characters fight from two different planes. By stepping between the planes, attacks can be dodged with ease. Later games have dropped the two-plane system, replacing it with a complex system of dodging, including simple half second dodges into the background and a three plane system. Characters have moves that can attack across the two planes, attack both planes at once, or otherwise attack dodge characters. The plane system was fully abandoned from later releases beginning with Garou: Mark of the Wolves.",
+      "short_description": "Fatal Fury, known as in Japan, is a fighting game series developed by SNK, first released on SNK's Neo Geo system. Similar to other games from the genre, the franchise involves rounds where the player is given access to…",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury",
+        "fandom_title": "Fatal Fury",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_figures",
+        "fandom_title": "Fatal Fury figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_world_&_context",
+        "fandom_title": "Fatal Fury world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_places",
+        "fandom_title": "Fatal Fury places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_events",
+        "fandom_title": "Fatal Fury events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_objects_&_artifacts",
+        "fandom_title": "Fatal Fury objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_factions_&_groups",
+        "fandom_title": "Fatal Fury factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_concepts",
+        "fandom_title": "Fatal Fury concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_eras",
+        "fandom_title": "Fatal Fury eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_works_&_media",
+        "fandom_title": "Fatal Fury works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_symbols",
+        "fandom_title": "Fatal Fury symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_controversies",
+        "fandom_title": "Fatal Fury controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_geography",
+        "fandom_title": "Fatal Fury geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_legacy",
+        "fandom_title": "Fatal Fury legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_practices",
+        "fandom_title": "Fatal Fury practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_1",
+        "fandom_title": "Fatal Fury entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_2",
+        "fandom_title": "Fatal Fury entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_3",
+        "fandom_title": "Fatal Fury entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_4",
+        "fandom_title": "Fatal Fury entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_5",
+        "fandom_title": "Fatal Fury entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_6",
+        "fandom_title": "Fatal Fury entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_7",
+        "fandom_title": "Fatal Fury entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_8",
+        "fandom_title": "Fatal Fury entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_9",
+        "fandom_title": "Fatal Fury entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_10",
+        "fandom_title": "Fatal Fury entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_11",
+        "fandom_title": "Fatal Fury entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_12",
+        "fandom_title": "Fatal Fury entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_13",
+        "fandom_title": "Fatal Fury entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_14",
+        "fandom_title": "Fatal Fury entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_15",
+        "fandom_title": "Fatal Fury entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_16",
+        "fandom_title": "Fatal Fury entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_17",
+        "fandom_title": "Fatal Fury entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_18",
+        "fandom_title": "Fatal Fury entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_19",
+        "fandom_title": "Fatal Fury entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_20",
+        "fandom_title": "Fatal Fury entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_21",
+        "fandom_title": "Fatal Fury entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_22",
+        "fandom_title": "Fatal Fury entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_23",
+        "fandom_title": "Fatal Fury entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fatal-fury-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Fatal_Fury_entry_24",
+        "fandom_title": "Fatal Fury entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "characters-of-the-fatal-fury-series",
+      "description": "The following is a list of video game characters featured in the Fatal Fury fighting game series developed by SNK.",
+      "short_description": "The following is a list of video game characters featured in the Fatal Fury fighting game series developed by SNK."
+    }
+  ],
+  "entities": [
+    {
+      "slug": "characters-of-the-fatal-fury-series",
+      "name": "Characters of the Fatal Fury series",
+      "type": "person",
+      "description": "The following is a list of video game characters featured in the Fatal Fury fighting game series developed by SNK.",
+      "evidence": "fiction",
+      "parentSlug": "fatal-fury-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Characters_of_the_Fatal_Fury_series",
+        "fandom_title": "Characters of the Fatal Fury series",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": "The following is a list of video game characters featured in the Fatal Fury fighting game series developed by SNK."
+    }
+  ],
+  "relationships": [
+    [
+      "characters-of-the-fatal-fury-series",
+      "fatal-fury-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Fatal Fury article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:23:29.063Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 1,
+    "fandom_enriched_core": 0,
+    "fandom_created": 1,
+    "fandom_images": 0,
+    "fandom_intros": 0,
+    "description_ensure_at": "2026-09-14T15:24:28.410Z",
+    "description_ensure_count": 1
+  }
+}

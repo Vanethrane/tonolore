@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "suez-canal",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal",
+        "fandom_title": "Suez Canal",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_figures",
+        "fandom_title": "Suez Canal figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_world_&_context",
+        "fandom_title": "Suez Canal world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_places",
+        "fandom_title": "Suez Canal places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_events",
+        "fandom_title": "Suez Canal events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_objects_&_artifacts",
+        "fandom_title": "Suez Canal objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_factions_&_groups",
+        "fandom_title": "Suez Canal factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_concepts",
+        "fandom_title": "Suez Canal concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_eras",
+        "fandom_title": "Suez Canal eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_works_&_media",
+        "fandom_title": "Suez Canal works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_symbols",
+        "fandom_title": "Suez Canal symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_controversies",
+        "fandom_title": "Suez Canal controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_geography",
+        "fandom_title": "Suez Canal geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_legacy",
+        "fandom_title": "Suez Canal legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_practices",
+        "fandom_title": "Suez Canal practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_1",
+        "fandom_title": "Suez Canal entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_2",
+        "fandom_title": "Suez Canal entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_3",
+        "fandom_title": "Suez Canal entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_4",
+        "fandom_title": "Suez Canal entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_5",
+        "fandom_title": "Suez Canal entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_6",
+        "fandom_title": "Suez Canal entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_7",
+        "fandom_title": "Suez Canal entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_8",
+        "fandom_title": "Suez Canal entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_9",
+        "fandom_title": "Suez Canal entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_10",
+        "fandom_title": "Suez Canal entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_11",
+        "fandom_title": "Suez Canal entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_12",
+        "fandom_title": "Suez Canal entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_13",
+        "fandom_title": "Suez Canal entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_14",
+        "fandom_title": "Suez Canal entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_15",
+        "fandom_title": "Suez Canal entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_16",
+        "fandom_title": "Suez Canal entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_17",
+        "fandom_title": "Suez Canal entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_18",
+        "fandom_title": "Suez Canal entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_19",
+        "fandom_title": "Suez Canal entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_20",
+        "fandom_title": "Suez Canal entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_21",
+        "fandom_title": "Suez Canal entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_22",
+        "fandom_title": "Suez Canal entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_23",
+        "fandom_title": "Suez Canal entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suez-canal-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Suez_Canal_entry_24",
+        "fandom_title": "Suez Canal entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Suez Canal article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:42:22.057Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

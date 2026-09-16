@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "lord-of-the-rings-films",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films",
+        "fandom_title": "The Lord of the Rings films",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_figures",
+        "fandom_title": "The Lord of the Rings films figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_world_&_context",
+        "fandom_title": "The Lord of the Rings films world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_places",
+        "fandom_title": "The Lord of the Rings films places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_events",
+        "fandom_title": "The Lord of the Rings films events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_objects_&_artifacts",
+        "fandom_title": "The Lord of the Rings films objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_factions_&_groups",
+        "fandom_title": "The Lord of the Rings films factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_concepts",
+        "fandom_title": "The Lord of the Rings films concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_eras",
+        "fandom_title": "The Lord of the Rings films eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_works_&_media",
+        "fandom_title": "The Lord of the Rings films works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_symbols",
+        "fandom_title": "The Lord of the Rings films symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_controversies",
+        "fandom_title": "The Lord of the Rings films controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_geography",
+        "fandom_title": "The Lord of the Rings films geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_legacy",
+        "fandom_title": "The Lord of the Rings films legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_practices",
+        "fandom_title": "The Lord of the Rings films practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_1",
+        "fandom_title": "The Lord of the Rings films entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_2",
+        "fandom_title": "The Lord of the Rings films entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_3",
+        "fandom_title": "The Lord of the Rings films entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_4",
+        "fandom_title": "The Lord of the Rings films entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_5",
+        "fandom_title": "The Lord of the Rings films entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_6",
+        "fandom_title": "The Lord of the Rings films entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_7",
+        "fandom_title": "The Lord of the Rings films entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_8",
+        "fandom_title": "The Lord of the Rings films entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_9",
+        "fandom_title": "The Lord of the Rings films entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_10",
+        "fandom_title": "The Lord of the Rings films entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_11",
+        "fandom_title": "The Lord of the Rings films entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_12",
+        "fandom_title": "The Lord of the Rings films entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_13",
+        "fandom_title": "The Lord of the Rings films entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_14",
+        "fandom_title": "The Lord of the Rings films entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_15",
+        "fandom_title": "The Lord of the Rings films entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_16",
+        "fandom_title": "The Lord of the Rings films entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_17",
+        "fandom_title": "The Lord of the Rings films entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_18",
+        "fandom_title": "The Lord of the Rings films entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_19",
+        "fandom_title": "The Lord of the Rings films entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_20",
+        "fandom_title": "The Lord of the Rings films entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_21",
+        "fandom_title": "The Lord of the Rings films entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_22",
+        "fandom_title": "The Lord of the Rings films entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_23",
+        "fandom_title": "The Lord of the Rings films entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lord-of-the-rings-films-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_films_entry_24",
+        "fandom_title": "The Lord of the Rings films entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. The Lord of the Rings films article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:51:10.737Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

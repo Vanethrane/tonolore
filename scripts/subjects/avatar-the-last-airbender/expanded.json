@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T03:09:42.453Z",
+  "generated_at": "2026-09-14T17:17:29.346Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (avatar.fandom.com) for identification and commentary only. Avatar art © Nickelodeon / Paramount (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -53,25 +53,25 @@
       "slug": "aang",
       "name": "Aang",
       "type": "person",
-      "description": "Avatar Aang was a male Air Nomad and Avatar with the ability to bend all four elements.\n\nSometime after the Siege of the North, Aang was requested to meet the Tribe Elder, Master Wei. He was confronted by wolves, but easily defeated them without killing them; as he did this, he picked up a water skin. Once he reached the Elder, he was asked to investigate the disappearances of waterbenders from the tribe. He ventured back to where he was, entering an ice cave where he dodged ice and defeated more wolves; however, he could not find anything. As he returned to the tribe camp, he saw Zuko's ship docked at the edge of the snow and hastily ran back.\n\nAs he ran to the tribe, fighting off a few wolves, he saw in the distance Katara being taken by Fire Nation soldiers. When he finally reached the tribe camp, it was damaged and Katara was gone. He ran to a training area and found Sokka, and the two ventured to Appa who was trying to defeat a giant firebending machine. After they defeated the machine, the two climbed on Appa and headed to a small island where the ship had, according to a villager, headed.\n\nAfter leaving the Water Tribe village, the remaining members of Team Avatar traveled to an Earth Kingdom village referred to as the Port Village. At the village, Aang and Sokka briefly discovered a new ability of invisibility. This enabled them to sneak past some guards and enter the village. At the village, Aang and Sokka met the village elder. The sweet old lady told Aang and Sokka that she had not seen Katara, but would ask around for information and clues. In the meanwhile, she told them they could move around without revealing their identity by stealing Fire Nation Army clothes; Sokka and Aang subsequently went into the nearby Fire Nation barracks where they found uniforms and returned to the village. Upon returning to the village, the elder asked them for help with a major issue. She told them that the village's food was mysteriously disappearing. Aang agreed to help and fought through several small groups of hog monkeys to get to the mountains. There, they discovered that the Fire Nation was stealing and storing the village's food inside a cave located in the high mountains. They both informed the elder, and she thanked them. She also told them to speak to the Dock Merchant because he might have had some information. Aang and Sokka found the Dock Merchant at the docks. He told them that he saw Zuko's ship being captured and taken to the village docks, and the jailer imprisoned him and Katara in a prison in the mountains. With this information, Aang and Sokka headed to the prison.",
+      "description": "Shortly before the beginning of the Hundred Year War, Aang was frozen in an iceberg for a hundred years; he later emerged, still biologically twelve years old, into a world engulfed by war. The couple eventually married and raised a family of three children: Bumi, the oldest, a nonbender who became an airbender later in life; Kya, a waterbender; and the youngest, Tenzin, an airbender.\n\nAang was born to two Air Nomads in 12 BG. After selecting the Avatar relics from among thousands of toys, thereby inadvertently confirming his identity as the Avatar, he was taken away by the monks of the Southern Air Temple, who kept his position a secret from him. As an Air Nomad, Aang traveled extensively around the world. During his childhood, Aang was housed, raised, and educated at the Southern Air Temple, under the guardianship of Monk Gyatso, who served as his father figure, counselor, and tutor. After some time, he and several other young Air Nomad boys were taken to the Eastern Air Temple, where they each chose a sky bison as their lifelong companion. Aang approached his soon-to-be sky bison Appa and offered him an apple, which Appa accepted, thus marking the start of their deep and lifelong friendship.\n\nAang was always able to excel at any new bending moves he learned; at the age of six, he was a better airbender than children twice his age, and by the age of ten, Aang had proven himself to be better than his own teachers. He earned airbending tattoos and the status of an airbending master by the age of twelve for exhibiting prodigious talent with his native element and with his invention of the air scooter, making him the youngest airbending master in Air Nomad history at the time.\n\nIn his childhood, Aang also visited the other air temples, as evidenced by his obvious familiarity with the Western Air Temple, as well as cities in the Earth Kingdom, such as Omashu, where he developed a lasting friendship with the good-natured but eccentric Bumi.",
       "short_description": "Shortly before the beginning of the Hundred Year War, Aang was frozen in an iceberg for a hundred years; he later emerged, still biologically twelve years old, into a world engulfed by war. The couple eventually married…",
       "evidence": "fiction",
       "parentSlug": "avatar-the-last-airbender",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/avatar/images/2/21/Into_The_Inferno_Aang.png/revision/latest/scale-to-width-down/360?cb=20131009060746",
-      "image_source": "https://avatar.fandom.com/wiki/Aang_(games)",
+      "image_url": "https://static.wikia.nocookie.net/avatar/images/a/ae/Aang_at_Jasmine_Dragon.png/revision/latest/scale-to-width-down/180?cb=20250504214141",
+      "image_source": "https://avatar.fandom.com/wiki/Aang",
       "image_credit": "Fair-use identification thumbnail via Fandom. Avatar art © Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Aang (games)",
+      "image_alt": "Identification thumbnail for Aang",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
         "kind": "character",
-        "fandom_url": "https://avatar.fandom.com/wiki/Aang_(games)",
-        "fandom_title": "Aang (games)",
+        "fandom_url": "https://avatar.fandom.com/wiki/Aang",
+        "fandom_title": "Aang",
         "source_fandom": "avatar.fandom.com",
         "sources": [
           "fandom"
@@ -11130,6 +11130,58 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "air-nomad-caves",
+      "name": "Air Nomad caves",
+      "type": "place",
+      "description": "After the Red Lotus captured the airbenders at the Northern Air Temple, they were sent to this cave to be kept as hostages, guarded by several Red Lotus sentries. After Zaheer defeated Korra, he tied her up in chains in the sanctuary of the hideout. Kai, managing to escape being captured, found the cave after following the Red Lotus on his sky bison, Lefty. He led Team Avatar, Tenzin, Lin, and Suyin Beifong to the hideout. They defeated the Red Lotus sentries who guarded the airbenders and escaped.\n\nMeanwhile, Zaheer explained to Korra that he was going to end the Avatar Cycle and ordered a Red Lotus sentry to give Korra the poison.\n\nes:Cuevas de Nómadas Aire fr:Cavernes des Nomades de l'Air ru:Пещеры Воздушных кочевников\n\nCategory:A to Z Category:Air Nomads Category:Landforms Category:Legend of Korra Category:Locations Category:Red Lotus",
+      "short_description": "After the Red Lotus captured the airbenders at the Northern Air Temple, they were sent to this cave to be kept as hostages, guarded by several Red Lotus sentries. After Zaheer defeated Korra, he tied her up in chains in…",
+      "evidence": "fiction",
+      "parentSlug": "avatar-the-last-airbender",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/avatar/images/4/4e/Air_Nomad_caves.png/revision/latest/scale-to-width-down/180?cb=20150201222859",
+      "image_source": "https://avatar.fandom.com/wiki/Air_Nomad_caves",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Avatar art © Nickelodeon / Paramount (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Air Nomad caves",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://avatar.fandom.com/wiki/Air_Nomad_caves",
+        "fandom_title": "Air Nomad caves",
+        "source_fandom": "avatar.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "autumn-leaves",
+      "name": "Autumn Leaves",
+      "type": "organization",
+      "description": "Jasmine Island, a small, independent state, was heavily affected by the Hundred Year War, particularly a Fire Nation invasion known as \"The Devastation\". The islanders were still rebuilding by the end of the war, but once the physical and economic reconstruction was largely complete, new political divisions emerged. After \"The Devastation\", no elections had been held and the existing council had ruled for years with the general acquiescence of the entire community. When the council members such as Yuming finally stepped down and and announced new elections, various factions across the island saw this as a chance to kickstart substantial, genuine changes in reforms. Conversely, these factions – several influenced by past events and developments across the world – could not agree with each other and began to bitterly feud.\n\nThe Autumn Leaves were one group which emerged during this period. Recruited from those on the margins of the island's society, the group formed around Isonash and became politically aligned with revolutionary anarchism. Already disapproving of the existing power structures, the Autumn Leaves regarded the political infighting in the leadup of the elections as proof that the entire council was an outdated concept and should be removed. Isonash thus campaigned on the promise on anarchist reforms, with his followers actively undermining the entire election. Though the Autumn Leaves knew that their revolutionary demands were largely unpopular among the other islanders, they genuinely believed that their plans would \"free the people from a system that has held them back\". They strongly opposed the other political groups on the island, including the Climbing Vines, Antiquarians, and Risen Wave.\n\nThe group became even more radical when some of its members, including Isonash, met with the White Lotus anarchist Xai Bau. The latter espoused a more militant and radical form of anarchism, causing some Autumn Leaves to question the entire elections. He also distributed some of his written works among the locals and trained Isonash in community organization. Not all Autumn Leaves were supportive of Xai Bau, however, as one prominent member of the group – Aputi – quickly started to despise him and his views. In contrast to Xai Bau's militantism, Aputi opted for constructive grassroots anarchism and thus earned much local goodwill. Xai Bau eventually left Jasmine Island, though his influence remained within the divided anarchist group.\n\nOne month later, Soon after, it became known that someone had stolen a bag of golden jasmine seeds from the yearly harvest, a symbolically potent action. The group's efforts to disband Jasmine Island's council ultimately failed.",
+      "short_description": "Jasmine Island, a small, independent state, was heavily affected by the Hundred Year War, particularly a Fire Nation invasion known as \"The Devastation\". The islanders were still rebuilding by the end of the war, but…",
+      "evidence": "fiction",
+      "parentSlug": "avatar-the-last-airbender",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://avatar.fandom.com/wiki/Autumn_Leaves",
+        "fandom_title": "Autumn Leaves",
+        "source_fandom": "avatar.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -14399,6 +14451,22 @@
     ],
     [
       "armadillo-bears",
+      "avatar-the-last-airbender",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "air-nomad-caves",
+      "avatar-the-last-airbender",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "autumn-leaves",
       "avatar-the-last-airbender",
       "part_of",
       "Part of",

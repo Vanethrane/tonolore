@@ -1,0 +1,495 @@
+{
+  "enrichments": [
+    {
+      "slug": "lucha-underground",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground",
+        "fandom_title": "Lucha Underground",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "Lucha Underground was an American professional wrestling promotion founded in 2014 by United Artists Media Group. Lucha Underground also refers to its weekly television program, which featured characters portrayed by wrestlers from Lucha Libre AAA Worldwide and the American and Mexican independent circuits. The series originally aired in English on El Rey Network and in Spanish on UniMás.\n\nThe series was developed by Mark Burnett and Robert Rodriguez and produced by United Artists, MGM Television, and One Three Media. It premiered on October 29, 2014 and aired until November 7, 2018, consisting of four seasons for a total of 127 episodes. It was set and filmed in Boyle Heights and Downtown Los Angeles, California, at 516 South Anderson Street while the series later forged creative and production partnerships with other North American promotions.\n\nLucha Underground received generally positive reviews throughout its run, with praise for its action, characters, and cinematic presentation, with critics noting its in-universe style and departure from depicting professional wrestling as a legitimate sporting contest. The series had moderate viewership in its first two seasons, but the third and fourth season saw fluctuations in viewership after it was made available on Netflix prior to the fourth season premiere. The series was eventually cancelled due to budget concerns.\n\nIn January 2014, it was confirmed Mark Burnett would partner with Robert Rodriguez's El Rey Network to launch a weekly hour-long professional wrestling television series in the second half of the year; it would be affiliated with the Mexican wrestling promotion Lucha Libre AAA Worldwide (AAA). In July, it was tentatively titled Lucha: Uprising, before officially announced as Lucha Underground in August, with AAA wrestlers Blue Demon Jr., Pentagón Jr., Sexy Star, Fénix, and Drago joining the cast. It was to be narrated by Matt Striker and Vampiro and began filming on September 6 in front of a studio audience in Boyle Heights, California.",
+      "short_description": "Lucha Underground was an American professional wrestling promotion founded in 2014 by United Artists Media Group. Lucha Underground also refers to its weekly television program, which featured characters portrayed by…"
+    },
+    {
+      "slug": "lucha-underground-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_figures",
+        "fandom_title": "Lucha Underground figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_world_&_context",
+        "fandom_title": "Lucha Underground world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_places",
+        "fandom_title": "Lucha Underground places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_events",
+        "fandom_title": "Lucha Underground events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_objects_&_artifacts",
+        "fandom_title": "Lucha Underground objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_factions_&_groups",
+        "fandom_title": "Lucha Underground factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_concepts",
+        "fandom_title": "Lucha Underground concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_eras",
+        "fandom_title": "Lucha Underground eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_works_&_media",
+        "fandom_title": "Lucha Underground works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_symbols",
+        "fandom_title": "Lucha Underground symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_controversies",
+        "fandom_title": "Lucha Underground controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_geography",
+        "fandom_title": "Lucha Underground geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_legacy",
+        "fandom_title": "Lucha Underground legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_practices",
+        "fandom_title": "Lucha Underground practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_1",
+        "fandom_title": "Lucha Underground entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_2",
+        "fandom_title": "Lucha Underground entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_3",
+        "fandom_title": "Lucha Underground entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_4",
+        "fandom_title": "Lucha Underground entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_5",
+        "fandom_title": "Lucha Underground entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_6",
+        "fandom_title": "Lucha Underground entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_7",
+        "fandom_title": "Lucha Underground entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_8",
+        "fandom_title": "Lucha Underground entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_9",
+        "fandom_title": "Lucha Underground entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_10",
+        "fandom_title": "Lucha Underground entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_11",
+        "fandom_title": "Lucha Underground entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_12",
+        "fandom_title": "Lucha Underground entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_13",
+        "fandom_title": "Lucha Underground entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_14",
+        "fandom_title": "Lucha Underground entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_15",
+        "fandom_title": "Lucha Underground entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_16",
+        "fandom_title": "Lucha Underground entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_17",
+        "fandom_title": "Lucha Underground entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_18",
+        "fandom_title": "Lucha Underground entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_19",
+        "fandom_title": "Lucha Underground entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_20",
+        "fandom_title": "Lucha Underground entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_21",
+        "fandom_title": "Lucha Underground entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_22",
+        "fandom_title": "Lucha Underground entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_23",
+        "fandom_title": "Lucha Underground entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucha-underground-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucha_Underground_entry_24",
+        "fandom_title": "Lucha Underground entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Lucha Underground article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:32:51.887Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

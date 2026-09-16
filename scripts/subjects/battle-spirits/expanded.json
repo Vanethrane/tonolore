@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "battle-spirits",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits",
+        "fandom_title": "Battle Spirits",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_figures",
+        "fandom_title": "Battle Spirits figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_world_&_context",
+        "fandom_title": "Battle Spirits world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_places",
+        "fandom_title": "Battle Spirits places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_events",
+        "fandom_title": "Battle Spirits events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_objects_&_artifacts",
+        "fandom_title": "Battle Spirits objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_factions_&_groups",
+        "fandom_title": "Battle Spirits factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_concepts",
+        "fandom_title": "Battle Spirits concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_eras",
+        "fandom_title": "Battle Spirits eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_works_&_media",
+        "fandom_title": "Battle Spirits works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_symbols",
+        "fandom_title": "Battle Spirits symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_controversies",
+        "fandom_title": "Battle Spirits controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_geography",
+        "fandom_title": "Battle Spirits geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_legacy",
+        "fandom_title": "Battle Spirits legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_practices",
+        "fandom_title": "Battle Spirits practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_1",
+        "fandom_title": "Battle Spirits entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_2",
+        "fandom_title": "Battle Spirits entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_3",
+        "fandom_title": "Battle Spirits entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_4",
+        "fandom_title": "Battle Spirits entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_5",
+        "fandom_title": "Battle Spirits entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_6",
+        "fandom_title": "Battle Spirits entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_7",
+        "fandom_title": "Battle Spirits entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_8",
+        "fandom_title": "Battle Spirits entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_9",
+        "fandom_title": "Battle Spirits entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_10",
+        "fandom_title": "Battle Spirits entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_11",
+        "fandom_title": "Battle Spirits entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_12",
+        "fandom_title": "Battle Spirits entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_13",
+        "fandom_title": "Battle Spirits entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_14",
+        "fandom_title": "Battle Spirits entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_15",
+        "fandom_title": "Battle Spirits entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_16",
+        "fandom_title": "Battle Spirits entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_17",
+        "fandom_title": "Battle Spirits entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_18",
+        "fandom_title": "Battle Spirits entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_19",
+        "fandom_title": "Battle Spirits entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_20",
+        "fandom_title": "Battle Spirits entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_21",
+        "fandom_title": "Battle Spirits entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_22",
+        "fandom_title": "Battle Spirits entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_23",
+        "fandom_title": "Battle Spirits entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "battle-spirits-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Battle_Spirits_entry_24",
+        "fandom_title": "Battle Spirits entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Battle Spirits article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T17:08:53.731Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

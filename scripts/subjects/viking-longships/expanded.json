@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "viking-longships",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships",
+        "fandom_title": "Viking longships",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_figures",
+        "fandom_title": "Viking longships figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_world_&_context",
+        "fandom_title": "Viking longships world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_places",
+        "fandom_title": "Viking longships places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_events",
+        "fandom_title": "Viking longships events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_objects_&_artifacts",
+        "fandom_title": "Viking longships objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_factions_&_groups",
+        "fandom_title": "Viking longships factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_concepts",
+        "fandom_title": "Viking longships concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_eras",
+        "fandom_title": "Viking longships eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_works_&_media",
+        "fandom_title": "Viking longships works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_symbols",
+        "fandom_title": "Viking longships symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_controversies",
+        "fandom_title": "Viking longships controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_geography",
+        "fandom_title": "Viking longships geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_legacy",
+        "fandom_title": "Viking longships legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_practices",
+        "fandom_title": "Viking longships practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_1",
+        "fandom_title": "Viking longships entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_2",
+        "fandom_title": "Viking longships entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_3",
+        "fandom_title": "Viking longships entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_4",
+        "fandom_title": "Viking longships entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_5",
+        "fandom_title": "Viking longships entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_6",
+        "fandom_title": "Viking longships entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_7",
+        "fandom_title": "Viking longships entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_8",
+        "fandom_title": "Viking longships entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_9",
+        "fandom_title": "Viking longships entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_10",
+        "fandom_title": "Viking longships entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_11",
+        "fandom_title": "Viking longships entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_12",
+        "fandom_title": "Viking longships entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_13",
+        "fandom_title": "Viking longships entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_14",
+        "fandom_title": "Viking longships entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_15",
+        "fandom_title": "Viking longships entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_16",
+        "fandom_title": "Viking longships entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_17",
+        "fandom_title": "Viking longships entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_18",
+        "fandom_title": "Viking longships entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_19",
+        "fandom_title": "Viking longships entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_20",
+        "fandom_title": "Viking longships entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_21",
+        "fandom_title": "Viking longships entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_22",
+        "fandom_title": "Viking longships entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_23",
+        "fandom_title": "Viking longships entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-longships-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_longships_entry_24",
+        "fandom_title": "Viking longships entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Viking longships article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:39:48.936Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

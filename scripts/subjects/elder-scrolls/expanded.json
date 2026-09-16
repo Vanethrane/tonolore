@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T04:02:06.084Z",
+  "generated_at": "2026-09-14T19:50:09.354Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (elderscrolls.fandom.com) for identification and commentary only. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -72,7 +72,7 @@
         "fandom_preferred_image": true
       },
       "short_description": "Nirn is a planet referred to by otherworldly beings as the mortal plane and sometimes poetically called \"Mundus\" by both mortals and Daedric lords. The exact reasons and specifics behind Nirn's creation are largely…",
-      "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/8/8a/Nirn_Globe_Dark_Brotherhood_Promotion.png/revision/latest/scale-to-width-down/360?cb=20180403171408",
+      "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/8/8a/Nirn_Globe_Dark_Brotherhood_Promotion.png/revision/latest/scale-to-width-down/180?cb=20180403171408",
       "image_source": "https://elderscrolls.fandom.com/wiki/Nirn",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -248,7 +248,7 @@
         "fandom_preferred_image": true
       },
       "short_description": "The Aedra (singular: Aedroth) are one of the two groups of immortals which took part in the creation of Mundus. Their name is from the old Aldmeric language, and translates roughly into \"our ancestors,\" referring to…",
-      "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/d/d7/Statue_akatosh.jpg/revision/latest/scale-to-width-down/360?cb=20100202215234",
+      "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/d/d7/Statue_akatosh.jpg/revision/latest/scale-to-width-down/180?cb=20100202215234",
       "image_source": "https://elderscrolls.fandom.com/wiki/Aedra",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -270,7 +270,7 @@
         "fandom_preferred_image": true
       },
       "short_description": "Daedra (singular: Daedroth) The most powerful of the Daedra are referred to as Daedric Princes or Daedra Ladies/Lords, and rule over their own planes of Oblivion, which they shaped. Because they have no connection to…",
-      "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/a/ac/TESIV_Obliviongate2.png/revision/latest/scale-to-width-down/360?cb=20160831141504",
+      "image_url": "https://static.wikia.nocookie.net/elderscrolls/images/a/ac/TESIV_Obliviongate2.png/revision/latest/scale-to-width-down/180?cb=20160831141504",
       "image_source": "https://elderscrolls.fandom.com/wiki/Daedra",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bethesda Softworks / ZeniMax (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",

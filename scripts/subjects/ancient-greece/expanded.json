@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "ancient-greece",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece",
+        "fandom_title": "Ancient Greece",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_figures",
+        "fandom_title": "Ancient Greece figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_world_&_context",
+        "fandom_title": "Ancient Greece world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_places",
+        "fandom_title": "Ancient Greece places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_events",
+        "fandom_title": "Ancient Greece events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_objects_&_artifacts",
+        "fandom_title": "Ancient Greece objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_factions_&_groups",
+        "fandom_title": "Ancient Greece factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_concepts",
+        "fandom_title": "Ancient Greece concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_eras",
+        "fandom_title": "Ancient Greece eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_works_&_media",
+        "fandom_title": "Ancient Greece works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_symbols",
+        "fandom_title": "Ancient Greece symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_controversies",
+        "fandom_title": "Ancient Greece controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_geography",
+        "fandom_title": "Ancient Greece geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_legacy",
+        "fandom_title": "Ancient Greece legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_practices",
+        "fandom_title": "Ancient Greece practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_1",
+        "fandom_title": "Ancient Greece entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_2",
+        "fandom_title": "Ancient Greece entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_3",
+        "fandom_title": "Ancient Greece entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_4",
+        "fandom_title": "Ancient Greece entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_5",
+        "fandom_title": "Ancient Greece entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_6",
+        "fandom_title": "Ancient Greece entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_7",
+        "fandom_title": "Ancient Greece entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_8",
+        "fandom_title": "Ancient Greece entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_9",
+        "fandom_title": "Ancient Greece entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_10",
+        "fandom_title": "Ancient Greece entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_11",
+        "fandom_title": "Ancient Greece entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_12",
+        "fandom_title": "Ancient Greece entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_13",
+        "fandom_title": "Ancient Greece entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_14",
+        "fandom_title": "Ancient Greece entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_15",
+        "fandom_title": "Ancient Greece entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_16",
+        "fandom_title": "Ancient Greece entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_17",
+        "fandom_title": "Ancient Greece entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_18",
+        "fandom_title": "Ancient Greece entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_19",
+        "fandom_title": "Ancient Greece entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_20",
+        "fandom_title": "Ancient Greece entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_21",
+        "fandom_title": "Ancient Greece entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_22",
+        "fandom_title": "Ancient Greece entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_23",
+        "fandom_title": "Ancient Greece entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ancient-greece-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ancient_Greece_entry_24",
+        "fandom_title": "Ancient Greece entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Ancient Greece article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:11:01.431Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

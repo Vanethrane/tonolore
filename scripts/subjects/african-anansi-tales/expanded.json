@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "african-anansi-tales",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales",
+        "fandom_title": "Anansi tales",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_figures",
+        "fandom_title": "Anansi tales figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_world_&_context",
+        "fandom_title": "Anansi tales world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_places",
+        "fandom_title": "Anansi tales places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_events",
+        "fandom_title": "Anansi tales events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_objects_&_artifacts",
+        "fandom_title": "Anansi tales objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_factions_&_groups",
+        "fandom_title": "Anansi tales factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_concepts",
+        "fandom_title": "Anansi tales concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_eras",
+        "fandom_title": "Anansi tales eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_works_&_media",
+        "fandom_title": "Anansi tales works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_symbols",
+        "fandom_title": "Anansi tales symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_controversies",
+        "fandom_title": "Anansi tales controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_geography",
+        "fandom_title": "Anansi tales geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_legacy",
+        "fandom_title": "Anansi tales legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_practices",
+        "fandom_title": "Anansi tales practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_1",
+        "fandom_title": "Anansi tales entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_2",
+        "fandom_title": "Anansi tales entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_3",
+        "fandom_title": "Anansi tales entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_4",
+        "fandom_title": "Anansi tales entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_5",
+        "fandom_title": "Anansi tales entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_6",
+        "fandom_title": "Anansi tales entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_7",
+        "fandom_title": "Anansi tales entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_8",
+        "fandom_title": "Anansi tales entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_9",
+        "fandom_title": "Anansi tales entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_10",
+        "fandom_title": "Anansi tales entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_11",
+        "fandom_title": "Anansi tales entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_12",
+        "fandom_title": "Anansi tales entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_13",
+        "fandom_title": "Anansi tales entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_14",
+        "fandom_title": "Anansi tales entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_15",
+        "fandom_title": "Anansi tales entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_16",
+        "fandom_title": "Anansi tales entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_17",
+        "fandom_title": "Anansi tales entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_18",
+        "fandom_title": "Anansi tales entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_19",
+        "fandom_title": "Anansi tales entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_20",
+        "fandom_title": "Anansi tales entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_21",
+        "fandom_title": "Anansi tales entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_22",
+        "fandom_title": "Anansi tales entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_23",
+        "fandom_title": "Anansi tales entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "african-anansi-tales-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Anansi_tales_entry_24",
+        "fandom_title": "Anansi tales entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Anansi tales article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:32:13.651Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

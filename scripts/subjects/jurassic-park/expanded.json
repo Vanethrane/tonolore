@@ -1681,25 +1681,25 @@
       "slug": "bessie",
       "name": "Bessie",
       "type": "person",
-      "description": "Bessie was a female Stegosaurus living on Isla Nublar. While hunting down their bag full of photographs of the dinosaurs that they intended to sell for big profits, army men Bieber and Shandy encountered Bessie feeding from a tree. After giving the Stegosaurus her name, the duo attempted to move the animal out of their way, believing her to be completely harmless. However, Bessie soon attacked the duo, swinging her tail at them and scaring them off. Category:Female characters Category:Comic book characters Category:Living characters Category:Named animals Category:Stegosaurus Pages Category:Characters Category:Individual animals Category:Stubs",
+      "description": "Bessie is the name of a cow belonging to Sammy Gutierrez, and she is considered Sammy's favorite cow.\n\nWhen unconscious from the Scorpios rex's poison, Sammy Gutierrez mentions Bessie after mistaking the noises Kenji made for the cow. Kenji then pretends to be Bessie in order to calm Sammy down in her drugged state.\n\nSammy brings up Bessie to Darius and Ben asking if they remember her. It is also mentioned that Bessie had a calf at some point.\n\nCategory:Characters Category:Animals Category:Bovids Category:Jurassic World: Camp Cretaceous characters Category:Jurassic World: Chaos Theory characters Category:Females Category:Named animals Category:Unseen Characters Category:Individual animals",
       "short_description": "Bessie was a female Stegosaurus living on Isla Nublar. While hunting down their bag full of photographs of the dinosaurs that they intended to sell for big profits, army men Bieber and Shandy encountered Bessie feeding…",
       "evidence": "fiction",
       "parentSlug": "jurassic-park",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/jurassicpark/images/f/f0/Bessie_Topps_Comics.png/revision/latest/scale-to-width-down/360?cb=20181021002713",
-      "image_source": "https://jurassicpark.fandom.com/wiki/Bessie",
+      "image_url": "https://static.wikia.nocookie.net/jurassicpark/images/0/00/PictureNotFound.png/revision/latest/scale-to-width-down/180?cb=20250401232622",
+      "image_source": "https://jurassicpark.fandom.com/wiki/Bessie_(cow)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Universal / Amblin / Michael Crichton estate (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Bessie",
+      "image_alt": "Identification thumbnail for Bessie (cow)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
         "kind": "character",
-        "fandom_url": "https://jurassicpark.fandom.com/wiki/Bessie",
-        "fandom_title": "Bessie",
+        "fandom_url": "https://jurassicpark.fandom.com/wiki/Bessie_(cow)",
+        "fandom_title": "Bessie (cow)",
         "source_fandom": "jurassicpark.fandom.com",
         "sources": [
           "fandom"
@@ -15459,6 +15459,64 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "bienosaurus",
+      "name": "Bienosaurus",
+      "type": "person",
+      "description": "Bienosaurus is a genus of thyreophoran dinosaur living in the Sinemurian around 190 million years ago in China. It is a nomen dubium, as the remains cannot be distinguished from related taxa. The name honors Bian and is a reference to the Lufeng Formation (originally formally called Lower Lufeng Series).\n\nBienosaurus was illustrated by Timothy Bradley in the Dinopedia section of Jurassic Park Institute. However, it hadn’t received a dino card before its closure in 2006, It is it is inaccurately depicted as an ornithopod, despite being a thyreophoran.\n\nCategory:Dinosaurs Category:Thyreophorans Category:Jurassic Park Institute Animals Category:Animals of Asia Category:Jurassic Animals",
+      "short_description": "Bienosaurus is a genus of thyreophoran dinosaur living in the Sinemurian around 190 million years ago in China. It is a nomen dubium, as the remains cannot be distinguished from related taxa. The name honors Bian and is…",
+      "evidence": "fiction",
+      "parentSlug": "jurassic-park",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/jurassicpark/images/6/69/Bienosaurus.webp/revision/latest/scale-to-width-down/180?cb=20260911211253",
+      "image_source": "https://jurassicpark.fandom.com/wiki/Bienosaurus",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Universal / Amblin / Michael Crichton estate (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Bienosaurus",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://jurassicpark.fandom.com/wiki/Bienosaurus",
+        "fandom_title": "Bienosaurus",
+        "source_fandom": "jurassicpark.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "australia",
+      "name": "Australia",
+      "type": "place",
+      "description": "Australia, officially the Commonwealth of Australia, is a country located in Oceania neighboring New Zealand and Papua New Guinea. Its capital is Canberra. Australia is known for its desert climate and endemic species like the kangaroo, koala, emu, and wombat. However, it is also home to dangerous animals like the saltwater crocodile or the . Some Australian prehistoric animals include Australovenator, Leaellynasaura, Muttaburrasaurus, Procoptodon, Minmi, Thylacoleo, Megalania, and Koolasuchus.\n\nWhen the Nublar Six arrived in the desert of Mantah Corp Island, Kenji wonders if they are in Australia before Darius corrected him, noting that Australia is too far away for them to have gotten there from Isla Nublar.\n\nBy some point in 2022, a population of Stygimoloch and Dimorphodon resided within Australia. According to Dinotracker, a flock of Dimorphodon are seen hanging on a sign in Perth while a sick Stygimoloch is been filmed and shown transported to a sanctuary in Queensland.\n\nAustralia is one of the countries where visitors from your park come from.",
+      "short_description": "Australia, officially the Commonwealth of Australia, is a country located in Oceania neighboring New Zealand and Papua New Guinea. Its capital is Canberra. Australia is known for its desert climate and endemic species…",
+      "evidence": "fiction",
+      "parentSlug": "jurassic-park",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/jurassicpark/images/1/12/Australia-map-1400px.jpg/revision/latest/scale-to-width-down/180?cb=20240419141542",
+      "image_source": "https://jurassicpark.fandom.com/wiki/Australia",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Universal / Amblin / Michael Crichton estate (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Australia",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://jurassicpark.fandom.com/wiki/Australia",
+        "fandom_title": "Australia",
+        "source_fandom": "jurassicpark.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -19709,15 +19767,31 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "bienosaurus",
+      "jurassic-park",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "australia",
+      "jurassic-park",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (jurassicpark.fandom.com) for identification and commentary only. Character / franchise art © Universal / Amblin / Michael Crichton estate (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-13T03:59:23.373Z",
+  "generated_at": "2026-09-14T19:47:21.601Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://jurassicpark.fandom.com/wiki/",

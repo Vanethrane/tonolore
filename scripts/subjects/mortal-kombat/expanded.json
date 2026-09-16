@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T03:07:10.956Z",
+  "generated_at": "2026-09-14T17:14:52.102Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (mortalkombat.fandom.com) for identification and commentary only. Mortal Kombat art © NetherRealm / Warner Bros. (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -4570,25 +4570,25 @@
       "slug": "catwoman",
       "name": "Catwoman",
       "type": "person",
-      "description": "The Catwoman is a minor character of the television series Mortal Kombat: Conquest, performed by stunt actress Vicki Phillips. This character does not have a name, and was only referred to as \"the cat woman\" by other characters.\n\nThe Catwoman is the guardian that protects the entrance of hidden city of Shakaana. She attacks Kung Lao, Siro, Taja, and Dion as they approach the entrance to the city, with Dion running for cover when she appears. Though she was able to fight all three fighters, she was still overwhelmed and made a hasty retreat. She does not appear for the remainder of the series.\n\nCategory:Minor Characters Category:Mortal Kombat: Conquest Characters Category:Evil Characters Category:Female Characters Category:Non-canon Characters Category:Characters",
+      "description": "Selina Kyle, better known as Catwoman, is a Human antihero that resides in the DC Universe. She is a notorious master thief, and an adversary, ally and occasional love interest of Batman. She appears as a fighter in the crossover fighting game Mortal Kombat vs. DC Universe.\n\nWith her impressive acrobatic skills and having a negative attitude, her counterpart in the game is the impulsive Special Forces lieutenant, Sonya Blade.\n\nBorn and raised in the slums of lower Gotham City, Selina Kyle escaped the abusive orphanage she was placed in following the deaths of her parents, and used her natural athletic agility for crime. At eighteen, she became a prostitute on the city's streets. Soon after, she became greatly inspired by the actions of Gotham's new vigilante known as the Batman, and decided to follow a similar pattern in order to fulfill her selfish endeavors. As a cat enthusiast, highly-skilled martial artist, and gifted infiltrator, she donned a costume and became Catwoman. Since then she has walked the line between alluring thief and anti-hero vigilante.\n\nCatwoman first appears in Gotham, having just stolen a jewel from the Gotham Museum as she is approached by The Flash, who then questions her loyalties, and while Catwoman makes it clear she is only on her side and tries to escape, she cannot lose him thanks to his speed. Catwoman and Flash then fight though he defeats her in combat, and she drops her jewel.",
       "short_description": "Selina Kyle, better known as Catwoman, is a Human antihero that resides in the DC Universe. She is a notorious master thief, and an adversary, ally and occasional love interest of Batman. She appears as a fighter in the…",
       "evidence": "fiction",
       "parentSlug": "mortal-kombat",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/mkwikia/images/9/91/Cat-woman.jpg/revision/latest/scale-to-width-down/360?cb=20220218234750",
-      "image_source": "https://mortalkombat.fandom.com/wiki/Catwoman_(Mortal_Kombat:_Conquest)",
+      "image_url": "https://static.wikia.nocookie.net/mkwikia/images/7/7b/Cat_Woman.jpg/revision/latest/scale-to-width-down/180?cb=20080820213617",
+      "image_source": "https://mortalkombat.fandom.com/wiki/Catwoman",
       "image_credit": "Fair-use identification thumbnail via Fandom. Mortal Kombat art © NetherRealm / Warner Bros. (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Catwoman (Mortal Kombat: Conquest)",
+      "image_alt": "Identification thumbnail for Catwoman",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
         "kind": "character",
-        "fandom_url": "https://mortalkombat.fandom.com/wiki/Catwoman_(Mortal_Kombat:_Conquest)",
-        "fandom_title": "Catwoman (Mortal Kombat: Conquest)",
+        "fandom_url": "https://mortalkombat.fandom.com/wiki/Catwoman",
+        "fandom_title": "Catwoman",
         "source_fandom": "mortalkombat.fandom.com",
         "sources": [
           "fandom"
@@ -14008,7 +14008,7 @@
       "parentSlug": "mortal-kombat",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/mkwikia/images/4/44/Jademktcard.gif/revision/latest?cb=20110226221010",
+      "image_url": "https://static.wikia.nocookie.net/mkwikia/images/4/44/Jademktcard.gif/revision/latest/scale-to-width-down/180?cb=20110226221010",
       "image_source": "https://mortalkombat.fandom.com/wiki/Bojutsu",
       "image_credit": "Fair-use identification thumbnail via Fandom. Mortal Kombat art © NetherRealm / Warner Bros. (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",

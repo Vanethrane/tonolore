@@ -1,5 +1,6 @@
 export {
     NON_FREE_IMAGE_LIMITS,
+    LISTING_THUMB_EDGE_PX,
     MEDIA_LICENSE,
     MEDIA_PURPOSE,
     DEFAULT_MINIMALITY,
@@ -10,7 +11,12 @@ export {
     sectionReferencesMedia
 } from "./mediaSchema";
 
-export { constrainImageUrl, safeRenderSrc, enforceLoadedResolution } from "./constrainImage";
+export {
+    constrainImageUrl,
+    safeRenderSrc,
+    listingThumbSrc,
+    enforceLoadedResolution
+} from "./constrainImage";
 export {
     buildDesignCommentaryArticle,
     entityImageToMediaAsset

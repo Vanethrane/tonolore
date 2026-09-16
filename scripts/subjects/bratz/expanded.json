@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "bratz",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz",
+        "fandom_title": "Bratz",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_figures",
+        "fandom_title": "Bratz figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_world_&_context",
+        "fandom_title": "Bratz world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_places",
+        "fandom_title": "Bratz places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_events",
+        "fandom_title": "Bratz events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_objects_&_artifacts",
+        "fandom_title": "Bratz objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_factions_&_groups",
+        "fandom_title": "Bratz factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_concepts",
+        "fandom_title": "Bratz concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_eras",
+        "fandom_title": "Bratz eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_works_&_media",
+        "fandom_title": "Bratz works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_symbols",
+        "fandom_title": "Bratz symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_controversies",
+        "fandom_title": "Bratz controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_geography",
+        "fandom_title": "Bratz geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_legacy",
+        "fandom_title": "Bratz legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_practices",
+        "fandom_title": "Bratz practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_1",
+        "fandom_title": "Bratz entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_2",
+        "fandom_title": "Bratz entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_3",
+        "fandom_title": "Bratz entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_4",
+        "fandom_title": "Bratz entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_5",
+        "fandom_title": "Bratz entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_6",
+        "fandom_title": "Bratz entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_7",
+        "fandom_title": "Bratz entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_8",
+        "fandom_title": "Bratz entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_9",
+        "fandom_title": "Bratz entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_10",
+        "fandom_title": "Bratz entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_11",
+        "fandom_title": "Bratz entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_12",
+        "fandom_title": "Bratz entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_13",
+        "fandom_title": "Bratz entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_14",
+        "fandom_title": "Bratz entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_15",
+        "fandom_title": "Bratz entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_16",
+        "fandom_title": "Bratz entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_17",
+        "fandom_title": "Bratz entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_18",
+        "fandom_title": "Bratz entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_19",
+        "fandom_title": "Bratz entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_20",
+        "fandom_title": "Bratz entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_21",
+        "fandom_title": "Bratz entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_22",
+        "fandom_title": "Bratz entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_23",
+        "fandom_title": "Bratz entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bratz-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bratz_entry_24",
+        "fandom_title": "Bratz entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Bratz article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:26:04.652Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

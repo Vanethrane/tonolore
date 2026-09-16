@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "beijing-opera",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera",
+        "fandom_title": "Beijing opera",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_figures",
+        "fandom_title": "Beijing opera figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_world_&_context",
+        "fandom_title": "Beijing opera world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_places",
+        "fandom_title": "Beijing opera places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_events",
+        "fandom_title": "Beijing opera events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_objects_&_artifacts",
+        "fandom_title": "Beijing opera objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_factions_&_groups",
+        "fandom_title": "Beijing opera factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_concepts",
+        "fandom_title": "Beijing opera concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_eras",
+        "fandom_title": "Beijing opera eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_works_&_media",
+        "fandom_title": "Beijing opera works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_symbols",
+        "fandom_title": "Beijing opera symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_controversies",
+        "fandom_title": "Beijing opera controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_geography",
+        "fandom_title": "Beijing opera geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_legacy",
+        "fandom_title": "Beijing opera legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_practices",
+        "fandom_title": "Beijing opera practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_1",
+        "fandom_title": "Beijing opera entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_2",
+        "fandom_title": "Beijing opera entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_3",
+        "fandom_title": "Beijing opera entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_4",
+        "fandom_title": "Beijing opera entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_5",
+        "fandom_title": "Beijing opera entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_6",
+        "fandom_title": "Beijing opera entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_7",
+        "fandom_title": "Beijing opera entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_8",
+        "fandom_title": "Beijing opera entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_9",
+        "fandom_title": "Beijing opera entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_10",
+        "fandom_title": "Beijing opera entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_11",
+        "fandom_title": "Beijing opera entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_12",
+        "fandom_title": "Beijing opera entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_13",
+        "fandom_title": "Beijing opera entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_14",
+        "fandom_title": "Beijing opera entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_15",
+        "fandom_title": "Beijing opera entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_16",
+        "fandom_title": "Beijing opera entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_17",
+        "fandom_title": "Beijing opera entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_18",
+        "fandom_title": "Beijing opera entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_19",
+        "fandom_title": "Beijing opera entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_20",
+        "fandom_title": "Beijing opera entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_21",
+        "fandom_title": "Beijing opera entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_22",
+        "fandom_title": "Beijing opera entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_23",
+        "fandom_title": "Beijing opera entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "beijing-opera-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Beijing_opera_entry_24",
+        "fandom_title": "Beijing opera entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Beijing opera article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:53:09.602Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

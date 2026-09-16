@@ -1175,25 +1175,25 @@
       "slug": "ahmed",
       "name": "Ahmed",
       "type": "person",
-      "description": "Ahmed (Arabic: أحمد) is a character who is mentioned in the 1977 James Bond film The Spy Who Loved Me.\n\nIn the film Q made a magnetic salver with sharpened edge which serves to remove the head of the victim. After the successful trial Q told his assistant to bring that the tea party of Ahmed. It is unkown Ahmed was to be the intended victim or the witness.\n\nCategory:James Bond Characters Category:Film Characters Category:The Spy Who Loved Me (film) Characters Category:Male Characters Category:Characters with Unknown Status Category:Minor Characters Category:Arabs Category:Egyptians Category:1970s Film Characters",
+      "description": "Ahmed (Arabic: أحمد) is a minor character in the 1974 film The Man With The Golden Gun. He was played by Rocky Taylor.\n\nThe three thugs, Ahmed, Rahman, and their boss, observe Bond who is viewing a dancer, Saida, in a bar. They tail Bond who is on his to way to the the dancer's dressing room, on his way to retrieve a golden bullet which killed 002 that was seen on the dancer. With the three thugs finding Bond in the dressing room, a fight begins, with the thugs eventually managing to strike Bond from behind causing him to swallow the bullet. After the brutal brawl ends, the three thugs are rendered unconscious by Bond.\n\nCategory:James Bond Characters Category:Film Characters Category:The Man With The Golden Gun (film) Characters Category:Villains Category:Henchmen Category:Male Characters Category:Pawns Category:Characters Played by Stunt Performers Category:Minor Characters Category:Lebanese Category:Arabs Category:1970s Film Characters",
       "short_description": "Ahmed (Arabic: أحمد) is a minor character in the 1974 film The Man With The Golden Gun. He was played by Rocky Taylor.",
       "evidence": "fiction",
       "parentSlug": "james-bond",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/jamesbond/images/6/6c/Unknown_-_Infobox.png/revision/latest/scale-to-width-down/360?cb=20180704190153",
-      "image_source": "https://jamesbond.fandom.com/wiki/Ahmed_(The_Spy_Who_Loved_Me)",
+      "image_url": "https://static.wikia.nocookie.net/jamesbond/images/9/9a/Screenshot_2015-05-23_16.25.16.png/revision/latest/scale-to-width-down/180?cb=20150523144741",
+      "image_source": "https://jamesbond.fandom.com/wiki/Ahmed",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Eon Productions / Danjaq / Ian Fleming Publications (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Ahmed (The Spy Who Loved Me)",
+      "image_alt": "Identification thumbnail for Ahmed",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
         "kind": "character",
-        "fandom_url": "https://jamesbond.fandom.com/wiki/Ahmed_(The_Spy_Who_Loved_Me)",
-        "fandom_title": "Ahmed (The Spy Who Loved Me)",
+        "fandom_url": "https://jamesbond.fandom.com/wiki/Ahmed",
+        "fandom_title": "Ahmed",
         "source_fandom": "jamesbond.fandom.com",
         "sources": [
           "fandom"
@@ -12567,6 +12567,35 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "barrelhead-bar",
+      "name": "Barrelhead Bar",
+      "type": "place",
+      "description": "The Barrelhead Bar is a bar where James Bond met with Pam Bouvier.\n\nCategory:Locations Category:Buildings & Landmarks Category:Licence to Kill (film) Locations",
+      "short_description": "The Barrelhead Bar is a bar where James Bond met with Pam Bouvier.",
+      "evidence": "fiction",
+      "parentSlug": "james-bond",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/jamesbond/images/c/c2/BarrelheadBar.jpeg/revision/latest/scale-to-width-down/180?cb=20250402121120",
+      "image_source": "https://jamesbond.fandom.com/wiki/Barrelhead_Bar",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Eon Productions / Danjaq / Ian Fleming Publications (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Barrelhead Bar",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://jamesbond.fandom.com/wiki/Barrelhead_Bar",
+        "fandom_title": "Barrelhead Bar",
+        "source_fandom": "jamesbond.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -15985,15 +16014,23 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "barrelhead-bar",
+      "james-bond",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (jamesbond.fandom.com) for identification and commentary only. Character / franchise art © Eon Productions / Danjaq / Ian Fleming Publications (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-13T04:00:25.333Z",
+  "generated_at": "2026-09-14T19:48:23.579Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://jamesbond.fandom.com/wiki/",

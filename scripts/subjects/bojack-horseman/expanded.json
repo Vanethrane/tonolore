@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "bojack-horseman",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman",
+        "fandom_title": "BoJack Horseman",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_figures",
+        "fandom_title": "BoJack Horseman figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_world_&_context",
+        "fandom_title": "BoJack Horseman world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_places",
+        "fandom_title": "BoJack Horseman places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_events",
+        "fandom_title": "BoJack Horseman events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_objects_&_artifacts",
+        "fandom_title": "BoJack Horseman objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_factions_&_groups",
+        "fandom_title": "BoJack Horseman factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_concepts",
+        "fandom_title": "BoJack Horseman concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_eras",
+        "fandom_title": "BoJack Horseman eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_works_&_media",
+        "fandom_title": "BoJack Horseman works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_symbols",
+        "fandom_title": "BoJack Horseman symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_controversies",
+        "fandom_title": "BoJack Horseman controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_geography",
+        "fandom_title": "BoJack Horseman geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_legacy",
+        "fandom_title": "BoJack Horseman legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_practices",
+        "fandom_title": "BoJack Horseman practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_1",
+        "fandom_title": "BoJack Horseman entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_2",
+        "fandom_title": "BoJack Horseman entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_3",
+        "fandom_title": "BoJack Horseman entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_4",
+        "fandom_title": "BoJack Horseman entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_5",
+        "fandom_title": "BoJack Horseman entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_6",
+        "fandom_title": "BoJack Horseman entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_7",
+        "fandom_title": "BoJack Horseman entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_8",
+        "fandom_title": "BoJack Horseman entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_9",
+        "fandom_title": "BoJack Horseman entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_10",
+        "fandom_title": "BoJack Horseman entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_11",
+        "fandom_title": "BoJack Horseman entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_12",
+        "fandom_title": "BoJack Horseman entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_13",
+        "fandom_title": "BoJack Horseman entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_14",
+        "fandom_title": "BoJack Horseman entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_15",
+        "fandom_title": "BoJack Horseman entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_16",
+        "fandom_title": "BoJack Horseman entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_17",
+        "fandom_title": "BoJack Horseman entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_18",
+        "fandom_title": "BoJack Horseman entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_19",
+        "fandom_title": "BoJack Horseman entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_20",
+        "fandom_title": "BoJack Horseman entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_21",
+        "fandom_title": "BoJack Horseman entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_22",
+        "fandom_title": "BoJack Horseman entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_23",
+        "fandom_title": "BoJack Horseman entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bojack-horseman-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/BoJack_Horseman_entry_24",
+        "fandom_title": "BoJack Horseman entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. BoJack Horseman article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:20:26.860Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

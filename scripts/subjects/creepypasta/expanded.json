@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "creepypasta",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta",
+        "fandom_title": "Creepypasta",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_figures",
+        "fandom_title": "Creepypasta figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_world_&_context",
+        "fandom_title": "Creepypasta world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_places",
+        "fandom_title": "Creepypasta places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_events",
+        "fandom_title": "Creepypasta events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_objects_&_artifacts",
+        "fandom_title": "Creepypasta objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_factions_&_groups",
+        "fandom_title": "Creepypasta factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_concepts",
+        "fandom_title": "Creepypasta concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_eras",
+        "fandom_title": "Creepypasta eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_works_&_media",
+        "fandom_title": "Creepypasta works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_symbols",
+        "fandom_title": "Creepypasta symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_controversies",
+        "fandom_title": "Creepypasta controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_geography",
+        "fandom_title": "Creepypasta geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_legacy",
+        "fandom_title": "Creepypasta legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_practices",
+        "fandom_title": "Creepypasta practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_1",
+        "fandom_title": "Creepypasta entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_2",
+        "fandom_title": "Creepypasta entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_3",
+        "fandom_title": "Creepypasta entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_4",
+        "fandom_title": "Creepypasta entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_5",
+        "fandom_title": "Creepypasta entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_6",
+        "fandom_title": "Creepypasta entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_7",
+        "fandom_title": "Creepypasta entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_8",
+        "fandom_title": "Creepypasta entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_9",
+        "fandom_title": "Creepypasta entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_10",
+        "fandom_title": "Creepypasta entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_11",
+        "fandom_title": "Creepypasta entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_12",
+        "fandom_title": "Creepypasta entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_13",
+        "fandom_title": "Creepypasta entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_14",
+        "fandom_title": "Creepypasta entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_15",
+        "fandom_title": "Creepypasta entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_16",
+        "fandom_title": "Creepypasta entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_17",
+        "fandom_title": "Creepypasta entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_18",
+        "fandom_title": "Creepypasta entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_19",
+        "fandom_title": "Creepypasta entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_20",
+        "fandom_title": "Creepypasta entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_21",
+        "fandom_title": "Creepypasta entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_22",
+        "fandom_title": "Creepypasta entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_23",
+        "fandom_title": "Creepypasta entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "creepypasta-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Creepypasta_entry_24",
+        "fandom_title": "Creepypasta entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Creepypasta article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:48:22.605Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

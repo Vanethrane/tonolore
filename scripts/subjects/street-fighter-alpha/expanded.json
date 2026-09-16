@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "street-fighter-alpha",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha",
+        "fandom_title": "Street Fighter Alpha",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_figures",
+        "fandom_title": "Street Fighter Alpha figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_world_&_context",
+        "fandom_title": "Street Fighter Alpha world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_places",
+        "fandom_title": "Street Fighter Alpha places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_events",
+        "fandom_title": "Street Fighter Alpha events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_objects_&_artifacts",
+        "fandom_title": "Street Fighter Alpha objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_factions_&_groups",
+        "fandom_title": "Street Fighter Alpha factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_concepts",
+        "fandom_title": "Street Fighter Alpha concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_eras",
+        "fandom_title": "Street Fighter Alpha eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_works_&_media",
+        "fandom_title": "Street Fighter Alpha works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_symbols",
+        "fandom_title": "Street Fighter Alpha symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_controversies",
+        "fandom_title": "Street Fighter Alpha controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_geography",
+        "fandom_title": "Street Fighter Alpha geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_legacy",
+        "fandom_title": "Street Fighter Alpha legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_practices",
+        "fandom_title": "Street Fighter Alpha practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_1",
+        "fandom_title": "Street Fighter Alpha entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_2",
+        "fandom_title": "Street Fighter Alpha entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_3",
+        "fandom_title": "Street Fighter Alpha entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_4",
+        "fandom_title": "Street Fighter Alpha entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_5",
+        "fandom_title": "Street Fighter Alpha entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_6",
+        "fandom_title": "Street Fighter Alpha entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_7",
+        "fandom_title": "Street Fighter Alpha entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_8",
+        "fandom_title": "Street Fighter Alpha entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_9",
+        "fandom_title": "Street Fighter Alpha entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_10",
+        "fandom_title": "Street Fighter Alpha entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_11",
+        "fandom_title": "Street Fighter Alpha entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_12",
+        "fandom_title": "Street Fighter Alpha entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_13",
+        "fandom_title": "Street Fighter Alpha entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_14",
+        "fandom_title": "Street Fighter Alpha entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_15",
+        "fandom_title": "Street Fighter Alpha entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_16",
+        "fandom_title": "Street Fighter Alpha entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_17",
+        "fandom_title": "Street Fighter Alpha entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_18",
+        "fandom_title": "Street Fighter Alpha entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_19",
+        "fandom_title": "Street Fighter Alpha entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_20",
+        "fandom_title": "Street Fighter Alpha entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_21",
+        "fandom_title": "Street Fighter Alpha entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_22",
+        "fandom_title": "Street Fighter Alpha entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_23",
+        "fandom_title": "Street Fighter Alpha entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "street-fighter-alpha-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_entry_24",
+        "fandom_title": "Street Fighter Alpha entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Street Fighter Alpha article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:25:59.970Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

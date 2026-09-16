@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "ddt-pro-wrestling",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling",
+        "fandom_title": "DDT Pro-Wrestling",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_figures",
+        "fandom_title": "DDT Pro-Wrestling figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_world_&_context",
+        "fandom_title": "DDT Pro-Wrestling world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_places",
+        "fandom_title": "DDT Pro-Wrestling places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_events",
+        "fandom_title": "DDT Pro-Wrestling events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_objects_&_artifacts",
+        "fandom_title": "DDT Pro-Wrestling objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_factions_&_groups",
+        "fandom_title": "DDT Pro-Wrestling factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_concepts",
+        "fandom_title": "DDT Pro-Wrestling concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_eras",
+        "fandom_title": "DDT Pro-Wrestling eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_works_&_media",
+        "fandom_title": "DDT Pro-Wrestling works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_symbols",
+        "fandom_title": "DDT Pro-Wrestling symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_controversies",
+        "fandom_title": "DDT Pro-Wrestling controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_geography",
+        "fandom_title": "DDT Pro-Wrestling geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_legacy",
+        "fandom_title": "DDT Pro-Wrestling legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_practices",
+        "fandom_title": "DDT Pro-Wrestling practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_1",
+        "fandom_title": "DDT Pro-Wrestling entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_2",
+        "fandom_title": "DDT Pro-Wrestling entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_3",
+        "fandom_title": "DDT Pro-Wrestling entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_4",
+        "fandom_title": "DDT Pro-Wrestling entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_5",
+        "fandom_title": "DDT Pro-Wrestling entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_6",
+        "fandom_title": "DDT Pro-Wrestling entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_7",
+        "fandom_title": "DDT Pro-Wrestling entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_8",
+        "fandom_title": "DDT Pro-Wrestling entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_9",
+        "fandom_title": "DDT Pro-Wrestling entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_10",
+        "fandom_title": "DDT Pro-Wrestling entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_11",
+        "fandom_title": "DDT Pro-Wrestling entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_12",
+        "fandom_title": "DDT Pro-Wrestling entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_13",
+        "fandom_title": "DDT Pro-Wrestling entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_14",
+        "fandom_title": "DDT Pro-Wrestling entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_15",
+        "fandom_title": "DDT Pro-Wrestling entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_16",
+        "fandom_title": "DDT Pro-Wrestling entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_17",
+        "fandom_title": "DDT Pro-Wrestling entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_18",
+        "fandom_title": "DDT Pro-Wrestling entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_19",
+        "fandom_title": "DDT Pro-Wrestling entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_20",
+        "fandom_title": "DDT Pro-Wrestling entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_21",
+        "fandom_title": "DDT Pro-Wrestling entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_22",
+        "fandom_title": "DDT Pro-Wrestling entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_23",
+        "fandom_title": "DDT Pro-Wrestling entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ddt-pro-wrestling-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/DDT_Pro-Wrestling_entry_24",
+        "fandom_title": "DDT Pro-Wrestling entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. DDT Pro-Wrestling article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:33:25.117Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "altered-carbon",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon",
+        "fandom_title": "Altered Carbon",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_figures",
+        "fandom_title": "Altered Carbon figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_world_&_context",
+        "fandom_title": "Altered Carbon world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_places",
+        "fandom_title": "Altered Carbon places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_events",
+        "fandom_title": "Altered Carbon events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_objects_&_artifacts",
+        "fandom_title": "Altered Carbon objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_factions_&_groups",
+        "fandom_title": "Altered Carbon factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_concepts",
+        "fandom_title": "Altered Carbon concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_eras",
+        "fandom_title": "Altered Carbon eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_works_&_media",
+        "fandom_title": "Altered Carbon works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_symbols",
+        "fandom_title": "Altered Carbon symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_controversies",
+        "fandom_title": "Altered Carbon controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_geography",
+        "fandom_title": "Altered Carbon geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_legacy",
+        "fandom_title": "Altered Carbon legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_practices",
+        "fandom_title": "Altered Carbon practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_1",
+        "fandom_title": "Altered Carbon entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_2",
+        "fandom_title": "Altered Carbon entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_3",
+        "fandom_title": "Altered Carbon entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_4",
+        "fandom_title": "Altered Carbon entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_5",
+        "fandom_title": "Altered Carbon entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_6",
+        "fandom_title": "Altered Carbon entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_7",
+        "fandom_title": "Altered Carbon entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_8",
+        "fandom_title": "Altered Carbon entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_9",
+        "fandom_title": "Altered Carbon entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_10",
+        "fandom_title": "Altered Carbon entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_11",
+        "fandom_title": "Altered Carbon entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_12",
+        "fandom_title": "Altered Carbon entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_13",
+        "fandom_title": "Altered Carbon entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_14",
+        "fandom_title": "Altered Carbon entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_15",
+        "fandom_title": "Altered Carbon entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_16",
+        "fandom_title": "Altered Carbon entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_17",
+        "fandom_title": "Altered Carbon entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_18",
+        "fandom_title": "Altered Carbon entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_19",
+        "fandom_title": "Altered Carbon entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_20",
+        "fandom_title": "Altered Carbon entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_21",
+        "fandom_title": "Altered Carbon entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_22",
+        "fandom_title": "Altered Carbon entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_23",
+        "fandom_title": "Altered Carbon entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "altered-carbon-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Altered_Carbon_entry_24",
+        "fandom_title": "Altered Carbon entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Altered Carbon article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:29:34.269Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

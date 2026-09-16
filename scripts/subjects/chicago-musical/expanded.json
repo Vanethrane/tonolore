@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "chicago-musical",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)",
+        "fandom_title": "Chicago (musical)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_figures",
+        "fandom_title": "Chicago (musical) figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_world_&_context",
+        "fandom_title": "Chicago (musical) world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_places",
+        "fandom_title": "Chicago (musical) places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_events",
+        "fandom_title": "Chicago (musical) events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_objects_&_artifacts",
+        "fandom_title": "Chicago (musical) objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_factions_&_groups",
+        "fandom_title": "Chicago (musical) factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_concepts",
+        "fandom_title": "Chicago (musical) concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_eras",
+        "fandom_title": "Chicago (musical) eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_works_&_media",
+        "fandom_title": "Chicago (musical) works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_symbols",
+        "fandom_title": "Chicago (musical) symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_controversies",
+        "fandom_title": "Chicago (musical) controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_geography",
+        "fandom_title": "Chicago (musical) geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_legacy",
+        "fandom_title": "Chicago (musical) legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_practices",
+        "fandom_title": "Chicago (musical) practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_1",
+        "fandom_title": "Chicago (musical) entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_2",
+        "fandom_title": "Chicago (musical) entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_3",
+        "fandom_title": "Chicago (musical) entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_4",
+        "fandom_title": "Chicago (musical) entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_5",
+        "fandom_title": "Chicago (musical) entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_6",
+        "fandom_title": "Chicago (musical) entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_7",
+        "fandom_title": "Chicago (musical) entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_8",
+        "fandom_title": "Chicago (musical) entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_9",
+        "fandom_title": "Chicago (musical) entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_10",
+        "fandom_title": "Chicago (musical) entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_11",
+        "fandom_title": "Chicago (musical) entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_12",
+        "fandom_title": "Chicago (musical) entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_13",
+        "fandom_title": "Chicago (musical) entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_14",
+        "fandom_title": "Chicago (musical) entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_15",
+        "fandom_title": "Chicago (musical) entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_16",
+        "fandom_title": "Chicago (musical) entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_17",
+        "fandom_title": "Chicago (musical) entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_18",
+        "fandom_title": "Chicago (musical) entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_19",
+        "fandom_title": "Chicago (musical) entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_20",
+        "fandom_title": "Chicago (musical) entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_21",
+        "fandom_title": "Chicago (musical) entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_22",
+        "fandom_title": "Chicago (musical) entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_23",
+        "fandom_title": "Chicago (musical) entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chicago-musical-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Chicago_(musical)_entry_24",
+        "fandom_title": "Chicago (musical) entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Chicago (musical) article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:55:55.307Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

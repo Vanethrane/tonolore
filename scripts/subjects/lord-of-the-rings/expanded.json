@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-13T03:31:53.185Z",
+  "generated_at": "2026-09-14T17:42:53.927Z",
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (lotr.fandom.com) for identification and commentary only. Character / franchise art © Tolkien Estate / New Line / Warner Bros. / Amazon (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -61898,6 +61898,87 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "gaurin",
+      "name": "Gaurin",
+      "type": "person",
+      "description": "Gaurin appears in The Lay of the Children of Húrin (published in The Lays of Beleriand, volume III of The History of Middle-earth). During a magical \"whetting spell,\" Beleg invokes several legendary weapons of the past. Among them is the glaive of Gaurin, described as a weapon whose shining stroke split the rocks of Rodrim's hall.",
+      "short_description": "Gaurin appears in The Lay of the Children of Húrin (published in The Lays of Beleriand, volume III of The History of Middle-earth). During a magical \"whetting spell,\" Beleg invokes several legendary weapons of the past.…",
+      "evidence": "fiction",
+      "parentSlug": "lord-of-the-rings",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://lotr.fandom.com/wiki/Gaurin",
+        "fandom_title": "Gaurin",
+        "source_fandom": "lotr.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "high-fells-of-rhudaur",
+      "name": "High Fells of Rhudaur",
+      "type": "place",
+      "description": "The High Fells of Rhudaur was the location of the tombs made for the Nazgûl, created following their defeat at the hands of the Men of Arnor.\n\nDescribed more as a prison of the dead than as a grave, the tombs were located north of the Trollshaws (which used to part of the lands of Rhudaur before its collapse); near the source of the river Hoarwell and south of the Coldfells.\n\nThe High Fells and its corresponding history were created for Peter Jackson's , and are thus non-canonical.\n\nIn , the tombs are first mentioned by Lady Galadriel during the meeting of the White Council in Rivendell as part of their discussion concerning the rediscovery of the Witch-king of Angmar's Morgul-blade by Radagast in the ruins of Dol Guldur. The tombs are revealed as the location where the Witch-king was buried following the fall of the realm of Angmar, entombed there by the men of the North. The tombs themselves are said to be so dark that they would never come to light. As noted by Elrond, powerful spells lie upon the tombs, which should have prevented the crypts from ever being opened. Saruman however, rules that there is not enough proof that the Morgul-blade actually originated from the Witch-king's grave, and dismisses it.",
+      "short_description": "The High Fells of Rhudaur was the location of the tombs made for the Nazgûl, created following their defeat at the hands of the Men of Arnor.",
+      "evidence": "fiction",
+      "parentSlug": "lord-of-the-rings",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lotr/images/2/28/Gandalf_entering_High_Fells.jpg/revision/latest/scale-to-width-down/180?cb=20140104105508",
+      "image_source": "https://lotr.fandom.com/wiki/High_Fells_of_Rhudaur",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Tolkien Estate / New Line / Warner Bros. / Amazon (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for High Fells of Rhudaur",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://lotr.fandom.com/wiki/High_Fells_of_Rhudaur",
+        "fandom_title": "High Fells of Rhudaur",
+        "source_fandom": "lotr.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elven-brooches",
+      "name": "Elven-brooches",
+      "type": "object",
+      "description": "Elven-brooches, also known as leaves of Lórien, were brooches given by Galadriel as gifts to the members of the Fellowship of the Ring (except for Gandalf, presumed at the time to be dead) at the end of their stay at Lothlórien. They appeared as the new-opened leaves of a beech-tree.\n\nIn , after the breaking of the Fellowship, Peregrin Took intentionally dropped his brooch while being carried by Uruk-hai as a signal to Aragorn, Legolas, and Gimli, who were tracking the captured hobbits, that they were on the correct trail. In Henneth Annûn, Frodo showed his leaf to Faramir as proof of his claim to his friendship to Boromir, as well as his time spent in Lothlórien.\n\nIn Peter Jackson's , according to Celeborn, all the surviving Fellowship were given brooches in the form of a green leaf veined with silver to clasp the elven-cloaks they were also given.\n\nCategory:Elven objects Category:Objects Category:Rings & jewels",
+      "short_description": "Elven-brooches, also known as leaves of Lórien, were brooches given by Galadriel as gifts to the members of the Fellowship of the Ring (except for Gandalf, presumed at the time to be dead) at the end of their stay at…",
+      "evidence": "fiction",
+      "parentSlug": "lord-of-the-rings",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/lotr/images/1/18/Leaf_of_lorien.jpg/revision/latest/scale-to-width-down/180?cb=20140507192034",
+      "image_source": "https://lotr.fandom.com/wiki/Elven-brooches",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Tolkien Estate / New Line / Warner Bros. / Amazon (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Elven-brooches",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "item",
+        "fandom_url": "https://lotr.fandom.com/wiki/Elven-brooches",
+        "fandom_title": "Elven-brooches",
+        "source_fandom": "lotr.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -75724,6 +75805,30 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "gaurin",
+      "lord-of-the-rings",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "high-fells-of-rhudaur",
+      "lord-of-the-rings",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "elven-brooches",
+      "lord-of-the-rings",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "stats": {
@@ -75739,9 +75844,9 @@
     "fandom_titles": 1,
     "fandom_enriched_core": 0,
     "fandom_created": 1,
-    "fandom_images": 0,
+    "fandom_images": 1,
     "fandom_intros": 1,
-    "description_ensure_at": "2026-09-13T03:32:11.609Z",
+    "description_ensure_at": "2026-09-14T17:42:08.057Z",
     "description_ensure_count": 4
   },
   "source": {

@@ -16779,25 +16779,25 @@
       "slug": "alan-scott-earth-2",
       "name": "Alan Scott",
       "type": "person",
-      "description": "Alan Scott was a young, openly gay media mogul who dedicated his work to the heroes who gave their lives three years prior in the war against Darkseid. He was also the owner and CEO of Global Broadcasting Corporation (GBC) and was in a relationship with Chinese businessman and millionaire Sam Zhao. Whilst on a business trip in Sam's native China, he worked up the nerve to propose marriage to him. Unfortunately, just before Sam could accept the proposal, the train crashed suddenly, killing nearly every passenger except Alan—including Sam.\n\nAfter the crash, a Green Flame appeared before Alan Scott and told him that he had been chosen to become the protector of the Earth. With a threat on the horizon, it urged Alan to accept the combined power of the Earth's energies, using the engagement ring intended for Sam as a conduit for that power. This would allow him to create green energy constructs, limited only by his imagination. Though the Green Flame had saved Alan, it could not do anything to save the others, and so Alan accepted the offer for the sake of his lost love and the others who died.\n\nAlmost as soon as Alan became the protector of the Green, an opposing force chose its own Avatar. The Grey chose Grundy as its champion, and the dead man began sending the force of decay throughout the earth. He waited at Washington, D.C. for the Green's protector, claiming that they could not co-exist.\n\nAlan, upon seeing the destruction caused by Grundy, went to confront him, and was joined by other heroes; The Atom, Hawkgirl and Flash. During the battle, Alan realized that the only way to defeat Grundy was to confront the Grey. Alan sent his essence to confront the Grey but the Grey used the image of his dead lover, Sam, to tempt him. However, Alan soon saw through the deceit and left the grey, returning to his body.",
+      "description": "Alan Scott was the hero known as Green Lantern.\n\nVery little has been revealed about his specific background other than he was a formidable presence in the Justice Society of America of his source Earth but is not a member of its successor group Justice Society Infinity. It is presently unclear if he had a falling out with the successor group as did Jason Garrick, Dr. Fate and Spectre or merely retired.\n\nScott was revealed to have died sometime ago when his daughter Jade met the New Earth Alan Scott and both were surprised to see each other alive.",
       "short_description": "Alan Scott was a young, openly gay media mogul who dedicated his work to the heroes who gave their lives three years prior in the war against Darkseid. He was also the owner and CEO of Global Broadcasting Corporation…",
       "evidence": "fiction",
       "parentSlug": "dc",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/marvel_dc/images/4/4c/Earth_2_Vol_1_30_Textless.jpg/revision/latest/scale-to-width-down/360?cb=20150107211956",
-      "image_source": "https://dc.fandom.com/wiki/Alan_Scott_(Earth_2)",
+      "image_url": "https://static.wikia.nocookie.net/marvel_dc/images/d/d3/Green_Lantern_%28Earth-2%29_01.jpg/revision/latest/scale-to-width-down/180?cb=20140507143356",
+      "image_source": "https://dc.fandom.com/wiki/Alan_Scott_(Earth-2)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © DC Comics / Warner Bros. Discovery (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Alan Scott (Earth 2)",
+      "image_alt": "Identification thumbnail for Alan Scott (Earth-2)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
         "kind": "character",
-        "fandom_url": "https://dc.fandom.com/wiki/Alan_Scott_(Earth_2)",
-        "fandom_title": "Alan Scott (Earth 2)",
+        "fandom_url": "https://dc.fandom.com/wiki/Alan_Scott_(Earth-2)",
+        "fandom_title": "Alan Scott (Earth-2)",
         "source_fandom": "dc.fandom.com",
         "sources": [
           "fandom"
@@ -25839,6 +25839,62 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "11th-street-kids-dc-extended-universe",
+      "name": "11th Street Kids",
+      "type": "organization",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dc",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marvel_dc/images/6/6c/Project_Butterfly_DC_Extended_Universe_001.jpg/revision/latest/scale-to-width-down/180?cb=20220113171807",
+      "image_source": "https://dc.fandom.com/wiki/11th_Street_Kids_(DC_Extended_Universe)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © DC Comics / Warner Bros. Discovery (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 11th Street Kids (DC Extended Universe)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://dc.fandom.com/wiki/11th_Street_Kids_(DC_Extended_Universe)",
+        "fandom_title": "11th Street Kids (DC Extended Universe)",
+        "source_fandom": "dc.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chesapeake-bay",
+      "name": "Chesapeake Bay",
+      "type": "place",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "dc",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/marvel_dc/images/9/91/Chesapeake_Bay_001.jpg/revision/latest/scale-to-width-down/180?cb=20130330115631",
+      "image_source": "https://dc.fandom.com/wiki/Chesapeake_Bay",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © DC Comics / Warner Bros. Discovery (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Chesapeake Bay",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://dc.fandom.com/wiki/Chesapeake_Bay",
+        "fandom_title": "Chesapeake Bay",
+        "source_fandom": "dc.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -32833,15 +32889,31 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "11th-street-kids-dc-extended-universe",
+      "dc",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "chesapeake-bay",
+      "dc",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (dc.fandom.com) for identification and commentary only. Character / franchise art © DC Comics / Warner Bros. Discovery (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-13T03:45:42.188Z",
+  "generated_at": "2026-09-14T19:22:17.668Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://dc.fandom.com/wiki/",
@@ -32850,10 +32922,10 @@
   "stats": {
     "fandom_titles": 1,
     "fandom_enriched_core": 0,
-    "fandom_created": 1,
+    "fandom_created": 0,
     "fandom_images": 1,
     "fandom_intros": 0,
-    "description_ensure_at": "2026-09-12T17:58:19.841Z",
-    "description_ensure_count": 7
+    "description_ensure_at": "2026-09-14T19:03:21.244Z",
+    "description_ensure_count": 2
   }
 }

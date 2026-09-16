@@ -8,20 +8,26 @@ import "./sportsSubjectThemes.css";
 import { categoryTheme } from "./categoryThemes";
 import { connectionLoreBlurb } from "./connectionLore";
 import { entityTypeLabel } from "./entityTypeLabel";
-import { entityImageToMediaAsset, IpInfobox } from "./fairUse";
+import { entityImageToMediaAsset, IpInfobox, listingThumbSrc } from "./fairUse";
 import {
     fetchPageBySlug,
     fetchSubjectsCatalog,
     searchEntities
 } from "./staticData";
-import { siteOrigin, useDocumentSeo, buildBreadcrumbJsonLd } from "./useDocumentSeo";
+import { siteOrigin, useDocumentSeo, buildBreadcrumbJsonLd, schemaTypeForEntity, shortenSerpTitle } from "./useDocumentSeo";
 import {
     isLegalSlug,
     LEGAL_ROUTES,
     LegalPage,
     ReportErrorButton,
+    SubmitEditButton,
     SiteFooter
 } from "./legalPages";
+import {
+    deriveConnectionsFromPage,
+    derivePropertyHubs,
+    groupConnectionsByType
+} from "./deriveConnections";
 
 const LOGO_BACKDROP_CACHE = new Map();
 
@@ -922,10 +928,18 @@ function ConnectionCard({
         fromName,
         relationshipLabel: entityTypeLabel
     });
+    const relation =
+        connection.relationship ||
+        connection.title ||
+        entityTypeLabel(connection);
+    const initial = String(connection.name || "?")
+        .trim()
+        .charAt(0)
+        .toUpperCase();
 
     return (
         <a
-            className={`connection${featured ? " connection-featured" : ""}`}
+            className={`connection connection-card${featured ? " connection-featured" : ""}`}
             href={`/${path}`}
             onClick={(event) => {
                 if (
@@ -940,27 +954,33 @@ function ConnectionCard({
                 navigate({ type: "page", slug: path });
             }}
         >
-            {connection.image_url ? (
-                <img
-                    className="connection-thumb"
-                    src={connection.image_url}
-                    alt=""
-                    loading="lazy"
-                    referrerPolicy="no-referrer"
-                    onError={hideBrokenImage}
-                />
-            ) : null}
+            <div className="connection-media" aria-hidden="true">
+                {connection.image_url ? (
+                    <img
+                        className="connection-thumb"
+                        src={listingThumbSrc(connection.image_url)}
+                        alt=""
+                        loading="lazy"
+                        referrerPolicy="no-referrer"
+                        draggable={false}
+                        onContextMenu={(event) => event.preventDefault()}
+                        onError={hideBrokenImage}
+                    />
+                ) : (
+                    <span className="connection-monogram">{initial}</span>
+                )}
+            </div>
 
             <div className="connection-meta">
-                <span className="connection-type">
-                    {entityTypeLabel(connection)}
-                </span>
+                <span className="connection-type">{relation}</span>
                 {showBadge ? (
                     <span className="connection-badge">Featured</span>
                 ) : null}
             </div>
 
             <h3>{connection.name}</h3>
+
+            <p className="connection-kind">{entityTypeLabel(connection)}</p>
 
             {blurb ? <p>{blurb}</p> : null}
 
@@ -1025,12 +1045,13 @@ function SharedLoreSection({ entityName, connections, navigate }) {
     );
 }
 
-/** Linked pages that have identification thumbs — visual trailheads. */
-function PictureLinksSection({ connections, navigate }) {
+/** Linked pages as visual trailheads (images when available). */
+function PictureLinksSection({ connections, navigate, fromName }) {
     const pictured = (connections || []).filter(
         (connection) => connection.image_url
     );
-    if (!pictured.length) {
+    const cards = pictured.length ? pictured : (connections || []).slice(0, 24);
+    if (!cards.length) {
         return null;
     }
 
@@ -1039,50 +1060,84 @@ function PictureLinksSection({ connections, navigate }) {
             <div className="section-heading">
                 <h2>Picture links</h2>
                 <p className="section-lede">
-                    Related pages with identification images — tap a face or
-                    place to keep moving through the map.
+                    Related pages as visual cards — title, relationship, and a
+                    path deeper into the map.
                 </p>
             </div>
-            <div className="picture-link-grid">
-                {pictured.map((connection) => {
-                    const path = (
-                        connection.path || `/${connection.slug}`
-                    ).replace(/^\/+/, "");
-                    return (
-                        <a
-                            key={connection.id}
-                            className="picture-link"
-                            href={`/${path}`}
-                            onClick={(event) => {
-                                if (
-                                    event.metaKey ||
-                                    event.ctrlKey ||
-                                    event.shiftKey ||
-                                    event.altKey
-                                ) {
-                                    return;
-                                }
-                                event.preventDefault();
-                                navigate({ type: "page", slug: path });
-                            }}
-                        >
-                            <img
-                                src={connection.image_url}
-                                alt=""
-                                loading="lazy"
-                                referrerPolicy="no-referrer"
-                                onError={hideBrokenImage}
-                            />
-                            <span className="picture-link-name">
-                                {connection.name}
-                            </span>
-                            <span className="picture-link-type">
-                                {entityTypeLabel(connection)}
-                            </span>
-                        </a>
-                    );
-                })}
+            <div className="picture-link-grid connection-grid">
+                {cards.map((connection) => (
+                    <ConnectionCard
+                        key={`pic-${connection.id}`}
+                        connection={connection}
+                        navigate={navigate}
+                        fromName={fromName}
+                    />
+                ))}
             </div>
+        </section>
+    );
+}
+
+function PropertyHubsSection({ hubs, navigate, franchiseName }) {
+    if (!hubs?.length) {
+        return null;
+    }
+    return (
+        <section className="property-hubs" id="properties">
+            <div className="section-heading">
+                <h2>Properties</h2>
+                <p className="section-lede">
+                    Major shelves inside {franchiseName || "this franchise"} —
+                    movies, TV, books, games, and more.
+                </p>
+            </div>
+            <div className="connection-grid">
+                {hubs.map((hub) => (
+                    <ConnectionCard
+                        key={hub.id}
+                        connection={hub}
+                        navigate={navigate}
+                        fromName={franchiseName || "Franchise"}
+                        featured
+                    />
+                ))}
+            </div>
+        </section>
+    );
+}
+
+function GroupedConnectionsSection({
+    groups,
+    total,
+    navigate,
+    fromName
+}) {
+    return (
+        <section className="connections" id="connections">
+            <div className="section-heading">
+                <h2>Connections</h2>
+                <p className="section-lede">
+                    {total
+                        ? `${total} linked ${total === 1 ? "page" : "pages"}, grouped by kind.`
+                        : "No linked pages are mapped from here yet."}
+                </p>
+            </div>
+
+            {groups.map((group) => (
+                <div className="connection-type-group" key={group.id}>
+                    <h3 className="connection-type-heading">{group.label}</h3>
+                    <div className="connection-grid">
+                        {group.connections.map((connection) => (
+                            <ConnectionCard
+                                key={connection.id}
+                                connection={connection}
+                                navigate={navigate}
+                                fromName={fromName}
+                            />
+                        ))}
+                    </div>
+                </div>
+            ))}
         </section>
     );
 }
@@ -1252,17 +1307,41 @@ function Home({ navigate }) {
     return (
         <div className="app theme-home">
             <SiteHeader navigate={navigate} />
-            <main className="page">
+            <main className="page page-home">
                 <section className="hero hero-home">
-                    <div className="eyebrow">Start here</div>
-                    <h1 className="brand-hero">Ton-o-Lore</h1>
-                    <p className="description">
-                        Pick a medium, open a subject, then follow the strongest
-                        connections — each page is another door into the lore.
-                    </p>
+                    <div className="hero-home-art" aria-hidden="true">
+                        <img
+                            src="/brand/tonolore.jpg"
+                            alt=""
+                            width="1600"
+                            height="900"
+                            decoding="async"
+                            fetchPriority="high"
+                        />
+                    </div>
+                    <div className="hero-home-copy">
+                        <div className="eyebrow">Start here</div>
+                        <h1 className="brand-hero">Ton-o-Lore</h1>
+                        <p className="description">
+                            Pick a medium, open a subject, then follow the
+                            strongest connections — each page is another door
+                            into the lore.
+                        </p>
+                    </div>
                 </section>
 
-                <section className="subjects">
+                <section className="subjects subjects-home">
+                    <div className="subjects-home-art" aria-hidden="true">
+                        <img
+                            src="/brand/tonolore2.jpg"
+                            alt=""
+                            width="1400"
+                            height="900"
+                            loading="lazy"
+                            decoding="async"
+                        />
+                    </div>
+                    <div className="subjects-home-inner">
                     <div className="section-heading">
                         <h2>Browse by medium</h2>
                         <p className="section-lede">
@@ -1353,18 +1432,45 @@ function Home({ navigate }) {
                                 })}
                             </div>
                             <p className="subjects-fair-use muted">
-                                Category collage logos are low-resolution marks
-                                used under a fair-use rationale for commentary
-                                and learning identification only — not free or
-                                redistributable artwork. Rights remain with
+                                Subject logos are reduced-resolution marks used
+                                for encyclopedia listing context only — not free
+                                or redistributable artwork. Rights remain with
                                 their respective holders.
                             </p>
                         </>
                     )}
+                    </div>
+                </section>
+
+                <section className="home-map-break" aria-label="Mapped lore">
+                    <div className="home-map-break-art" aria-hidden="true">
+                        <img
+                            src="/brand/tonolore3.jpg"
+                            alt=""
+                            width="1400"
+                            height="900"
+                            loading="lazy"
+                            decoding="async"
+                        />
+                    </div>
+                    <div className="home-map-break-copy">
+                        <div className="eyebrow">Mapped entities</div>
+                        <h2>A desk full of doors</h2>
+                        <p>
+                            Franchises, mediums, and threads share one map —
+                            follow a picture, a name, or a connection and keep
+                            falling through the shelves.
+                        </p>
+                    </div>
                 </section>
             </main>
             <div className="page-actions page-actions-footer">
                 <ReportErrorButton
+                    pageUrl={`${siteOrigin()}/`}
+                    pageTitle="Ton-o-Lore home"
+                    entityName="Home"
+                />
+                <SubmitEditButton
                     pageUrl={`${siteOrigin()}/`}
                     pageTitle="Ton-o-Lore home"
                     entityName="Home"
@@ -1548,6 +1654,11 @@ function CategoryPage({ categoryId, navigate }) {
                     pageTitle={section.label}
                     entityName={section.label}
                 />
+                <SubmitEditButton
+                    pageUrl={`${siteOrigin()}/category/${categoryId}`}
+                    pageTitle={section.label}
+                    entityName={section.label}
+                />
             </div>
             <SiteFooter navigate={navigate} />
         </div>
@@ -1680,11 +1791,14 @@ function App() {
     const seo = useMemo(() => {
         if (route.type === "home") {
             return {
-                title: "Ton-o-Lore — Living lore maps for deep rabbit holes",
+                title: "Ton-o-Lore | Lore encyclopedia for deep rabbit holes",
                 description:
-                    "Explore canonical pages for people, places, events, and ideas across One Piece, Star Wars, Pokémon, Harry Potter, and more — built for long-tail discovery.",
+                    "Find people, places, and plot threads across One Piece, Star Wars, Marvel, DC, Pokémon, and more. Canonical lore pages built for search and discovery.",
                 canonicalUrl: `${origin}/`,
+                imageUrl: `${origin}/favicon.svg`,
                 type: "website",
+                robots:
+                    "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1",
                 jsonLd: {
                     "@context": "https://schema.org",
                     "@type": "WebSite",
@@ -1776,8 +1890,11 @@ function App() {
             };
         }
 
-        const title =
-            page.page.meta_title || `${page.entity.name} | Ton-o-Lore`;
+        const title = shortenSerpTitle(
+            page.page.meta_title || `${page.entity.name} | Ton-o-Lore`,
+            page.entity.name,
+            60
+        );
         const description =
             page.page.meta_description ||
             page.entity.short_description ||
@@ -1804,6 +1921,7 @@ function App() {
         crumbs.push({ label: page.entity.name });
 
         const breadcrumb = buildBreadcrumbJsonLd(origin, crumbs);
+        const aboutType = schemaTypeForEntity(page.entity);
         const webpage = {
             "@type": "WebPage",
             name: title,
@@ -1815,7 +1933,7 @@ function App() {
                 url: `${origin}/`
             },
             about: {
-                "@type": "Thing",
+                "@type": aboutType,
                 name: page.entity.name,
                 alternateName: page.entity.aliases || [],
                 description
@@ -1827,10 +1945,12 @@ function App() {
 
         return {
             title,
-            description,
+            description: String(description).slice(0, 160),
             canonicalUrl,
-            imageUrl: page.entity.image_url || null,
+            imageUrl: page.entity.image_url || `${origin}/favicon.svg`,
             type: "article",
+            robots:
+                "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1",
             jsonLd: {
                 "@context": "https://schema.org",
                 "@graph": breadcrumb ? [webpage, breadcrumb] : [webpage]
@@ -1861,6 +1981,11 @@ function App() {
                 <LegalPage slug={route.slug} navigate={navigate} />
                 <div className="page-actions page-actions-footer">
                     <ReportErrorButton
+                        pageUrl={`${origin}${routeToPath(route)}`}
+                        pageTitle={meta?.title || route.slug}
+                        entityName={meta?.title || route.slug}
+                    />
+                    <SubmitEditButton
                         pageUrl={`${origin}${routeToPath(route)}`}
                         pageTitle={meta?.title || route.slug}
                         entityName={meta?.title || route.slug}
@@ -1920,14 +2045,22 @@ function App() {
                         pageTitle="Page not found"
                         entityName={route.slug}
                     />
+                    <SubmitEditButton
+                        pageUrl={`${origin}${routeToPath(route)}`}
+                        pageTitle="Page not found"
+                        entityName={route.slug}
+                    />
                 </div>
                 <SiteFooter navigate={navigate} />
             </div>
         );
     }
 
-    const { featured, more, total } = rankConnections(page.connections);
+    const resolvedConnections = deriveConnectionsFromPage(page);
+    const { featured, more, total } = rankConnections(resolvedConnections);
     const allConnections = [...featured, ...more];
+    const connectionGroups = groupConnectionsByType(allConnections);
+    const propertyHubs = derivePropertyHubs(page, allConnections);
     const generated = splitGeneratedContent(page.page.content);
 
     const copyright = page.copyright;
@@ -1988,6 +2121,16 @@ function App() {
                         }
                         entityName={page.entity.name}
                     />
+                    <SubmitEditButton
+                        pageUrl={
+                            page.page.canonical_url ||
+                            `${origin}${page.page.slug}`
+                        }
+                        pageTitle={
+                            page.page.meta_title || page.entity.name
+                        }
+                        entityName={page.entity.name}
+                    />
                 </div>
 
                 {/* 1–2. Title, then picture */}
@@ -2035,60 +2178,26 @@ function App() {
                     )}
                 </section>
 
+                <PropertyHubsSection
+                    hubs={propertyHubs}
+                    navigate={navigate}
+                    franchiseName={brand?.name || page.entity.name}
+                />
+
                 {/* 4. Picture links */}
                 <PictureLinksSection
                     connections={allConnections}
                     navigate={navigate}
+                    fromName={page.entity.name}
                 />
 
                 {/* 5. Connections */}
-                <section className="connections" id="connections">
-                    <div className="section-heading">
-                        <h2>Connections</h2>
-                        <p className="section-lede">
-                            {total
-                                ? more.length
-                                    ? `Start with the strongest links — ${featured.length} featured of ${total}.`
-                                    : `${total} linked ${total === 1 ? "page" : "pages"} from here.`
-                                : "No linked pages are mapped from here yet."}
-                        </p>
-                    </div>
-
-                    {featured.length ? (
-                        <div
-                            className={`connection-grid${more.length ? " connection-grid-featured" : ""}`}
-                        >
-                            {featured.map((connection) => (
-                                <ConnectionCard
-                                    key={connection.id}
-                                    connection={connection}
-                                    navigate={navigate}
-                                    featured={Boolean(more.length)}
-                                    showBadge={Boolean(more.length)}
-                                    fromName={page.entity.name}
-                                />
-                            ))}
-                        </div>
-                    ) : null}
-
-                    {more.length ? (
-                        <details className="more-connections">
-                            <summary>
-                                More connections ({more.length})
-                            </summary>
-                            <div className="connection-grid">
-                                {more.map((connection) => (
-                                    <ConnectionCard
-                                        key={connection.id}
-                                        connection={connection}
-                                        navigate={navigate}
-                                        fromName={page.entity.name}
-                                    />
-                                ))}
-                            </div>
-                        </details>
-                    ) : null}
-                </section>
+                <GroupedConnectionsSection
+                    groups={connectionGroups}
+                    total={total}
+                    navigate={navigate}
+                    fromName={page.entity.name}
+                />
 
                 {/* 6. Did you know */}
                 {generated.didYouKnow ? (

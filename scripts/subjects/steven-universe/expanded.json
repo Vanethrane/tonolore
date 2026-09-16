@@ -1,0 +1,534 @@
+{
+  "enrichments": [
+    {
+      "slug": "steven-universe",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe",
+        "fandom_title": "Steven Universe",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "Steven Universe is an American animated television series created by Rebecca Sugar for Cartoon Network. It tells the coming-of-age story of a young boy, Steven Universe (Zach Callison), who lives with the Crystal Gems—magical, mineral-based aliens named Garnet (Estelle), Amethyst (Michaela Dietz) and Pearl (Deedee Magno Hall)—in the fictional town of Beach City. Steven, who is half-Gem, has adventures with his friends and helps the Gems protect the world from their own kind. The pilot premiered in May 2013, and the series ran for five seasons, from November 2013 to January 2019. The television film Steven Universe: The Movie was released in September 2019, and an epilogue limited series, Steven Universe Future, ran from December 2019 to March 2020. Books, comics, video games and soundtracks based on the series have also been released.\n\nThe themes of the series include love, family and the importance of healthy relationships. Sugar based the lead character on her younger brother Steven, who was an artist for the series. She developed Steven Universe while being a writer and storyboard artist on the animated television series Adventure Time, which she left when her show was greenlit for full production. The series adopted a storyboard-driven approach, where storyboard artists drew scenes, wrote dialogue and shaped the narrative. The design of Beach City and the Crystal Gems reflected Sugar's personal inspirations, such as Delaware beaches and childhood experiences, while incorporating influences from anime, video games and art history. Animation was handled by the South Korean studios Sunmin Image Pictures and Rough Draft Korea, while the music of composers Aivi & Surasshu became an integral part of the show's identity.\n\nThe series received critical acclaim for its storytelling, character development and visual design. Critics praised its exploration of complex themes such as identity, relationships and mental health, as well as its prominent LGBTQ representation, which included the character Garnet, a fusion embodying a same-sex relationship, whose component characters made history in the first same-sex wedding in children's animation. The voice acting and music were also lauded, with songs like \"Stronger Than You\" becoming popular and resonating with its audience. Steven Universe earned numerous accolades, including a GLAAD Media Award for Outstanding Kids & Family Program, becoming the first animated series to win the award, and a Peabody Award for Children's & Youth Programming, both respectively in 2019. It has consistently appeared on \"best-of\" lists for animation, including being ranked number 99 on BBC's 100 Greatest Television Series of the 21st Century list. Additionally, its influence inspired other creators and fostered a broad fanbase.",
+      "short_description": "Steven Universe is an American animated television series created by Rebecca Sugar for Cartoon Network. It tells the coming-of-age story of a young boy, Steven Universe (Zach Callison), who lives with the Crystal…"
+    },
+    {
+      "slug": "steven-universe-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_figures",
+        "fandom_title": "Steven Universe figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_world_&_context",
+        "fandom_title": "Steven Universe world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_places",
+        "fandom_title": "Steven Universe places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_events",
+        "fandom_title": "Steven Universe events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_objects_&_artifacts",
+        "fandom_title": "Steven Universe objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_factions_&_groups",
+        "fandom_title": "Steven Universe factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_concepts",
+        "fandom_title": "Steven Universe concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_eras",
+        "fandom_title": "Steven Universe eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_works_&_media",
+        "fandom_title": "Steven Universe works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_symbols",
+        "fandom_title": "Steven Universe symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_controversies",
+        "fandom_title": "Steven Universe controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_geography",
+        "fandom_title": "Steven Universe geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_legacy",
+        "fandom_title": "Steven Universe legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_practices",
+        "fandom_title": "Steven Universe practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_1",
+        "fandom_title": "Steven Universe entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_2",
+        "fandom_title": "Steven Universe entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_3",
+        "fandom_title": "Steven Universe entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_4",
+        "fandom_title": "Steven Universe entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_5",
+        "fandom_title": "Steven Universe entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_6",
+        "fandom_title": "Steven Universe entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_7",
+        "fandom_title": "Steven Universe entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_8",
+        "fandom_title": "Steven Universe entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_9",
+        "fandom_title": "Steven Universe entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_10",
+        "fandom_title": "Steven Universe entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_11",
+        "fandom_title": "Steven Universe entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_12",
+        "fandom_title": "Steven Universe entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_13",
+        "fandom_title": "Steven Universe entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_14",
+        "fandom_title": "Steven Universe entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_15",
+        "fandom_title": "Steven Universe entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_16",
+        "fandom_title": "Steven Universe entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_17",
+        "fandom_title": "Steven Universe entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_18",
+        "fandom_title": "Steven Universe entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_19",
+        "fandom_title": "Steven Universe entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_20",
+        "fandom_title": "Steven Universe entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_21",
+        "fandom_title": "Steven Universe entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_22",
+        "fandom_title": "Steven Universe entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_23",
+        "fandom_title": "Steven Universe entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steven-universe-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Steven_Universe_entry_24",
+        "fandom_title": "Steven Universe entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "amethyst-steven-universe",
+      "name": "Amethyst",
+      "type": "person",
+      "description": "Amethyst is a fictional character from the American animated television series Steven Universe, created by Rebecca Sugar. She is voiced by Michaela Dietz.\n\nBased on the gemstone amethyst, she is a Gem, a fictional alien being that exists as a magical gemstone projecting a holographic body, and one of the four \"Crystal Gems,\" a group of Gems who defend Earth. Her story arcs throughout the series mostly focus on overcoming her low self-esteem, mostly caused by her feeling inferior to other Gems.\n\nThe visual designs of the Crystal Gems are based on simple shapes to match their personalities, as inspired by the Bauhaus theory of design: Amethyst is based on a sphere, while Garnet is a square and Pearl is a cone. Amethyst's look was redesigned between the pilot episode of Steven Universe and the first regular episode.\n\nIn a July 2014 interview, Dietz said she was excited to have a panel on the show, to see \"the fans of the show and hear their thoughts,\" and praised the show's cast and crew. In an August 2014 interview, she noted that Amethyst was her \"first experience voicing a cartoon character\" and said that she was \"having such a blast\" voicing Amethyst.",
+      "short_description": "Amethyst is a fictional character from the American animated television series Steven Universe, created by Rebecca Sugar. She is voiced by Michaela Dietz.",
+      "evidence": "fiction",
+      "parentSlug": "steven-universe-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Amethyst_%28Steven_Universe%29_Scratch_sprite.svg/180px-Amethyst_%28Steven_Universe%29_Scratch_sprite.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Amethyst_(Steven_Universe)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Steven Universe article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Amethyst (Steven Universe)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Amethyst_(Steven_Universe)",
+        "fandom_title": "Amethyst (Steven Universe)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "amethyst-steven-universe",
+      "steven-universe-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Steven Universe article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:20:53.913Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

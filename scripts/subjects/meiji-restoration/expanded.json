@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "meiji-restoration",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration",
+        "fandom_title": "Meiji Restoration",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_figures",
+        "fandom_title": "Meiji Restoration figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_world_&_context",
+        "fandom_title": "Meiji Restoration world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_places",
+        "fandom_title": "Meiji Restoration places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_events",
+        "fandom_title": "Meiji Restoration events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_objects_&_artifacts",
+        "fandom_title": "Meiji Restoration objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_factions_&_groups",
+        "fandom_title": "Meiji Restoration factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_concepts",
+        "fandom_title": "Meiji Restoration concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_eras",
+        "fandom_title": "Meiji Restoration eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_works_&_media",
+        "fandom_title": "Meiji Restoration works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_symbols",
+        "fandom_title": "Meiji Restoration symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_controversies",
+        "fandom_title": "Meiji Restoration controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_geography",
+        "fandom_title": "Meiji Restoration geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_legacy",
+        "fandom_title": "Meiji Restoration legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_practices",
+        "fandom_title": "Meiji Restoration practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_1",
+        "fandom_title": "Meiji Restoration entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_2",
+        "fandom_title": "Meiji Restoration entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_3",
+        "fandom_title": "Meiji Restoration entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_4",
+        "fandom_title": "Meiji Restoration entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_5",
+        "fandom_title": "Meiji Restoration entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_6",
+        "fandom_title": "Meiji Restoration entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_7",
+        "fandom_title": "Meiji Restoration entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_8",
+        "fandom_title": "Meiji Restoration entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_9",
+        "fandom_title": "Meiji Restoration entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_10",
+        "fandom_title": "Meiji Restoration entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_11",
+        "fandom_title": "Meiji Restoration entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_12",
+        "fandom_title": "Meiji Restoration entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_13",
+        "fandom_title": "Meiji Restoration entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_14",
+        "fandom_title": "Meiji Restoration entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_15",
+        "fandom_title": "Meiji Restoration entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_16",
+        "fandom_title": "Meiji Restoration entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_17",
+        "fandom_title": "Meiji Restoration entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_18",
+        "fandom_title": "Meiji Restoration entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_19",
+        "fandom_title": "Meiji Restoration entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_20",
+        "fandom_title": "Meiji Restoration entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_21",
+        "fandom_title": "Meiji Restoration entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_22",
+        "fandom_title": "Meiji Restoration entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_23",
+        "fandom_title": "Meiji Restoration entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "meiji-restoration-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Meiji_Restoration_entry_24",
+        "fandom_title": "Meiji Restoration entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Meiji Restoration article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:11:31.428Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

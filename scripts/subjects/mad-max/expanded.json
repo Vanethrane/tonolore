@@ -1,0 +1,502 @@
+{
+  "enrichments": [
+    {
+      "slug": "mad-max",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max",
+        "fandom_title": "Mad Max",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "Mad Max is an Australian media franchise created by George Miller and Byron Kennedy. It centres on a series of post-apocalyptic and dystopian action films. The franchise began in 1979 with Mad Max, and was followed by three sequels: Mad Max 2 (1981; released in the United States as The Road Warrior), Mad Max Beyond Thunderdome (1985) and Mad Max: Fury Road (2015); Miller directed or co-directed all four films. A spin-off, Furiosa: A Mad Max Saga, was released in 2024 and was also directed by Miller. Mel Gibson originally portrayed the series's title character, Max Rockatansky, in the first three films, while Tom Hardy and Jacob Tomuri portrayed the character in the later two films.\n\nThe series follows Max Rockatansky, who starts the series as a police officer in a future Australia which is experiencing societal collapse due to war, critical resource shortages, and ecocide. As Australia devolves further into barbarity, Max becomes a wandering drifter in the wasteland. He periodically encounters remaining pockets of civilisation, which rope him into their political machinations or personal problems. Max, who is habitually wary of others, frequently struggles to decide whether to help others or go his own way. Ultimately, he assists the survivors in the nick of time before departing into the wasteland once more.\n\nThe series has had a highly positive reception; Mad Max 2 and Fury Road in particular have been ranked among the best action films ever made. The series has also had a significant impact on popular culture, most notably apocalyptic and post-apocalyptic fiction, and encompasses works in additional media including video games and comic books. In 2016, Fury Road became the first film of the Mad Max franchise to receive Academy Award recognition, winning six of its ten nominations. It is an example of the dieselpunk genre.\n\nThe exact causes of the collapse of civilization in the series are never specified, but some details are given. In the timeline of the first three films, the 1979 oil crisis caused by the Iranian Revolution worsened, leading to worldwide energy shortages and unrest. Tensions boiled over when Iranian forces attacked Saudi Arabia, igniting a massive war in the Middle East and around the world. In the timeline of the later two films (Fury Road and Furiosa), the collapse happened around the 2010s, and was caused by a combination of resource wars and subsequent environmental damage.",
+      "short_description": "Mad Max is an Australian media franchise created by George Miller and Byron Kennedy. It centres on a series of post-apocalyptic and dystopian action films. The franchise began in 1979 with Mad Max, and was followed by…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Mad_Max_%28logo%29.png/180px-Mad_Max_%28logo%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Mad_Max",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Mad Max article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Mad Max"
+    },
+    {
+      "slug": "mad-max-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_figures",
+        "fandom_title": "Mad Max figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_world_&_context",
+        "fandom_title": "Mad Max world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_places",
+        "fandom_title": "Mad Max places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_events",
+        "fandom_title": "Mad Max events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_objects_&_artifacts",
+        "fandom_title": "Mad Max objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_factions_&_groups",
+        "fandom_title": "Mad Max factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_concepts",
+        "fandom_title": "Mad Max concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_eras",
+        "fandom_title": "Mad Max eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_works_&_media",
+        "fandom_title": "Mad Max works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_symbols",
+        "fandom_title": "Mad Max symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_controversies",
+        "fandom_title": "Mad Max controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_geography",
+        "fandom_title": "Mad Max geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_legacy",
+        "fandom_title": "Mad Max legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_practices",
+        "fandom_title": "Mad Max practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_1",
+        "fandom_title": "Mad Max entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_2",
+        "fandom_title": "Mad Max entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_3",
+        "fandom_title": "Mad Max entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_4",
+        "fandom_title": "Mad Max entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_5",
+        "fandom_title": "Mad Max entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_6",
+        "fandom_title": "Mad Max entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_7",
+        "fandom_title": "Mad Max entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_8",
+        "fandom_title": "Mad Max entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_9",
+        "fandom_title": "Mad Max entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_10",
+        "fandom_title": "Mad Max entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_11",
+        "fandom_title": "Mad Max entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_12",
+        "fandom_title": "Mad Max entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_13",
+        "fandom_title": "Mad Max entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_14",
+        "fandom_title": "Mad Max entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_15",
+        "fandom_title": "Mad Max entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_16",
+        "fandom_title": "Mad Max entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_17",
+        "fandom_title": "Mad Max entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_18",
+        "fandom_title": "Mad Max entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_19",
+        "fandom_title": "Mad Max entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_20",
+        "fandom_title": "Mad Max entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_21",
+        "fandom_title": "Mad Max entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_22",
+        "fandom_title": "Mad Max entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_23",
+        "fandom_title": "Mad Max entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mad-max-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mad_Max_entry_24",
+        "fandom_title": "Mad Max entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Mad Max article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:49:51.722Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

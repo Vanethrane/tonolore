@@ -1,0 +1,773 @@
+{
+  "enrichments": [
+    {
+      "slug": "elden-ring",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring",
+        "fandom_title": "Elden Ring",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "Elden Ring is presented through a third-person perspective with players freely roaming its open world. The six main areas can be traversed using the player character's steed Torrent. Linear, hidden dungeons can be explored to find useful items. Players engage enemies using various weapons and magic spells, and can focus on non-direct engagement enabled by stealth mechanics. Throughout the game's world, checkpoints enable fast travel and allow players to improve their attributes using an in-game currency called runes. Elden Ring features an online multiplayer mode in which players join through cooperative play to fight bosses or engage in player versus player combat.\n\nFromSoftware wanted to create an open-world game based on Dark Souls. Miyazaki admired Martin's previous work and hoped that his contributions would produce a more accessible narrative than those of the company's earlier games. Martin was given freedom to design the backstory, while Miyazaki acted as lead writer for the in-game narrative. The developers concentrated on environmental scale and the story; the scale required the construction of several structures around its world.\n\nElden Ring won several Game of the Year awards and has been cited as one of the greatest games of all time, with praise directed towards its open world, gameplay systems, and setting. It sold over 30 million copies, also making it one of the best-selling games of all time. The downloadable content (DLC) Shadow of the Erdtree follows the player character in the Land of Shadow. It was released in June 2024 to similar acclaim and sold over ten million copies. A multiplayer-focused spinoff game, Elden Ring Nightreign, was released in 2025. A film adaptation is in production and is slated for a 2028 release.\n\nElden Ring is an action role-playing game set in third-person perspective. It includes elements that are similar to those in other FromSoftware-developed games, such as the Dark Souls series, Bloodborne, and Sekiro: Shadows Die Twice. The game is set in an open world; players can freely explore the Lands Between and its six main areas, which include Limgrave—an area of grassy plains and ancient ruins—and Caelid, a wasteland home to undead monsters. The open world is explored using the character's mount Torrent as the main mode of transportation, though players may use fast travel outside combat. Throughout the game, players encounter non-player characters (NPCs) and enemies, including demigods who rule each main area and serve as the game's main bosses. Aside from the main areas, Elden Ring has hidden dungeons, catacombs, tunnels, and caves where players can fight bosses and gather helpful items.",
+      "short_description": "Elden Ring is presented through a third-person perspective with players freely roaming its open world. The six main areas can be traversed using the player character's steed Torrent. Linear, hidden dungeons can be…"
+    },
+    {
+      "slug": "elden-ring-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_figures",
+        "fandom_title": "Elden Ring figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_world_&_context",
+        "fandom_title": "Elden Ring world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_places",
+        "fandom_title": "Elden Ring places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_events",
+        "fandom_title": "Elden Ring events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_objects_&_artifacts",
+        "fandom_title": "Elden Ring objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_factions_&_groups",
+        "fandom_title": "Elden Ring factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_concepts",
+        "fandom_title": "Elden Ring concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_eras",
+        "fandom_title": "Elden Ring eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_works_&_media",
+        "fandom_title": "Elden Ring works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_symbols",
+        "fandom_title": "Elden Ring symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_controversies",
+        "fandom_title": "Elden Ring controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_geography",
+        "fandom_title": "Elden Ring geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_legacy",
+        "fandom_title": "Elden Ring legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_practices",
+        "fandom_title": "Elden Ring practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_1",
+        "fandom_title": "Elden Ring entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_2",
+        "fandom_title": "Elden Ring entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_3",
+        "fandom_title": "Elden Ring entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_4",
+        "fandom_title": "Elden Ring entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_5",
+        "fandom_title": "Elden Ring entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_6",
+        "fandom_title": "Elden Ring entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_7",
+        "fandom_title": "Elden Ring entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_8",
+        "fandom_title": "Elden Ring entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_9",
+        "fandom_title": "Elden Ring entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_10",
+        "fandom_title": "Elden Ring entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_11",
+        "fandom_title": "Elden Ring entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_12",
+        "fandom_title": "Elden Ring entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_13",
+        "fandom_title": "Elden Ring entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_14",
+        "fandom_title": "Elden Ring entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_15",
+        "fandom_title": "Elden Ring entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_16",
+        "fandom_title": "Elden Ring entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_17",
+        "fandom_title": "Elden Ring entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_18",
+        "fandom_title": "Elden Ring entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_19",
+        "fandom_title": "Elden Ring entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_20",
+        "fandom_title": "Elden Ring entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_21",
+        "fandom_title": "Elden Ring entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_22",
+        "fandom_title": "Elden Ring entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_23",
+        "fandom_title": "Elden Ring entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_entry_24",
+        "fandom_title": "Elden Ring entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "elden-ring-nightreign",
+      "name": "Elden Ring Nightreign",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "elden-ring",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_Nightreign",
+        "fandom_title": "Elden Ring Nightreign",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "elden-ring-shadow-of-the-erdtree",
+      "name": "Elden Ring Shadow of the Erdtree",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "elden-ring",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Elden_Ring_Shadow_of_the_Erdtree",
+        "fandom_title": "Elden Ring Shadow of the Erdtree",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "list-of-internet-phenomena",
+      "name": "List of Internet phenomena",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "elden-ring",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Internet_map_1024_-_transparent%2C_inverted.png/180px-Internet_map_1024_-_transparent%2C_inverted.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/List_of_Internet_phenomena",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Elden Ring article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for List of Internet phenomena",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/List_of_Internet_phenomena",
+        "fandom_title": "List of Internet phenomena",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stormveil-castle",
+      "name": "Stormveil Castle",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "elden-ring",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Stormveil_Castle",
+        "fandom_title": "Stormveil Castle",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "malenia",
+      "name": "Malenia",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "elden-ring-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Malenia",
+        "fandom_title": "Malenia",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "patches-character",
+      "name": "Patches",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "elden-ring-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Patches_(character)",
+        "fandom_title": "Patches (character)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ranni-the-witch",
+      "name": "Ranni the Witch",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "elden-ring-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ranni_the_Witch",
+        "fandom_title": "Ranni the Witch",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "starscourge-radahn",
+      "name": "Starscourge Radahn",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "elden-ring-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Starscourge_Radahn",
+        "fandom_title": "Starscourge Radahn",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "torrent-elden-ring",
+      "name": "Torrent",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "elden-ring-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Torrent_(Elden_Ring)",
+        "fandom_title": "Torrent (Elden Ring)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "elden-ring-nightreign",
+      "elden-ring",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "elden-ring-shadow-of-the-erdtree",
+      "elden-ring",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "list-of-internet-phenomena",
+      "elden-ring",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "stormveil-castle",
+      "elden-ring",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "malenia",
+      "elden-ring-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "patches-character",
+      "elden-ring-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ranni-the-witch",
+      "elden-ring-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "starscourge-radahn",
+      "elden-ring-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "torrent-elden-ring",
+      "elden-ring-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Elden Ring article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:35:46.071Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

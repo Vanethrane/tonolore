@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "canal-boats",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges",
+        "fandom_title": "Canal boats & barges",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_figures",
+        "fandom_title": "Canal boats & barges figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_world_&_context",
+        "fandom_title": "Canal boats & barges world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_places",
+        "fandom_title": "Canal boats & barges places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_events",
+        "fandom_title": "Canal boats & barges events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_objects_&_artifacts",
+        "fandom_title": "Canal boats & barges objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_factions_&_groups",
+        "fandom_title": "Canal boats & barges factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_concepts",
+        "fandom_title": "Canal boats & barges concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_eras",
+        "fandom_title": "Canal boats & barges eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_works_&_media",
+        "fandom_title": "Canal boats & barges works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_symbols",
+        "fandom_title": "Canal boats & barges symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_controversies",
+        "fandom_title": "Canal boats & barges controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_geography",
+        "fandom_title": "Canal boats & barges geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_legacy",
+        "fandom_title": "Canal boats & barges legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_practices",
+        "fandom_title": "Canal boats & barges practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_1",
+        "fandom_title": "Canal boats & barges entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_2",
+        "fandom_title": "Canal boats & barges entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_3",
+        "fandom_title": "Canal boats & barges entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_4",
+        "fandom_title": "Canal boats & barges entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_5",
+        "fandom_title": "Canal boats & barges entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_6",
+        "fandom_title": "Canal boats & barges entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_7",
+        "fandom_title": "Canal boats & barges entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_8",
+        "fandom_title": "Canal boats & barges entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_9",
+        "fandom_title": "Canal boats & barges entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_10",
+        "fandom_title": "Canal boats & barges entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_11",
+        "fandom_title": "Canal boats & barges entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_12",
+        "fandom_title": "Canal boats & barges entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_13",
+        "fandom_title": "Canal boats & barges entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_14",
+        "fandom_title": "Canal boats & barges entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_15",
+        "fandom_title": "Canal boats & barges entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_16",
+        "fandom_title": "Canal boats & barges entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_17",
+        "fandom_title": "Canal boats & barges entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_18",
+        "fandom_title": "Canal boats & barges entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_19",
+        "fandom_title": "Canal boats & barges entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_20",
+        "fandom_title": "Canal boats & barges entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_21",
+        "fandom_title": "Canal boats & barges entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_22",
+        "fandom_title": "Canal boats & barges entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_23",
+        "fandom_title": "Canal boats & barges entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "canal-boats-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Canal_boats_&_barges_entry_24",
+        "fandom_title": "Canal boats & barges entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Canal boats & barges article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:20:37.089Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,0 +1,647 @@
+{
+  "enrichments": [
+    {
+      "slug": "mutants-and-masterminds",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_%26_Masterminds",
+        "fandom_title": "Mutants & Masterminds",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "Mutants & Masterminds (abbreviated \"M&M\" or \"MnM\") is a superhero role-playing game written by Steve Kenson and published by Green Ronin Publishing based on a variant of the d20 System by Wizards of the Coast. The game system is designed to allow players to create either heroes or villains.\n\nMutants & Masterminds was published in 2002; the setting, which was once known as Century City, became Freedom City. The first edition of M&M books featured graphic design and art direction by the design studio Super Unicorn, but other firms provide the artwork on all subsequent releases.\n\nA second edition of the Mutants & Masterminds system debuted at Gen Con in 2005 and saw wide release in October of that year.\n\nA third edition of Mutants & Masterminds was released in 2011 and it has also been translated to Italian by Kaizoku Press. In the previous year, Green Ronin Publishing had released another superhero role-playing game, DC Adventures. Both games have the same mechanical system and are fully compatible.",
+      "short_description": "Mutants & Masterminds (abbreviated \"M&M\" or \"MnM\") is a superhero role-playing game written by Steve Kenson and published by Green Ronin Publishing based on a variant of the d20 System by Wizards of the Coast. The game…"
+    },
+    {
+      "slug": "mutants-and-masterminds-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_figures",
+        "fandom_title": "Mutants & Masterminds figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_world_&_context",
+        "fandom_title": "Mutants & Masterminds world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_places",
+        "fandom_title": "Mutants & Masterminds places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_events",
+        "fandom_title": "Mutants & Masterminds events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_objects_&_artifacts",
+        "fandom_title": "Mutants & Masterminds objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_factions_&_groups",
+        "fandom_title": "Mutants & Masterminds factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_concepts",
+        "fandom_title": "Mutants & Masterminds concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_eras",
+        "fandom_title": "Mutants & Masterminds eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_works_&_media",
+        "fandom_title": "Mutants & Masterminds works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_symbols",
+        "fandom_title": "Mutants & Masterminds symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_controversies",
+        "fandom_title": "Mutants & Masterminds controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_geography",
+        "fandom_title": "Mutants & Masterminds geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_legacy",
+        "fandom_title": "Mutants & Masterminds legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_practices",
+        "fandom_title": "Mutants & Masterminds practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_1",
+        "fandom_title": "Mutants & Masterminds entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_2",
+        "fandom_title": "Mutants & Masterminds entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_3",
+        "fandom_title": "Mutants & Masterminds entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_4",
+        "fandom_title": "Mutants & Masterminds entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_5",
+        "fandom_title": "Mutants & Masterminds entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_6",
+        "fandom_title": "Mutants & Masterminds entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_7",
+        "fandom_title": "Mutants & Masterminds entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_8",
+        "fandom_title": "Mutants & Masterminds entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_9",
+        "fandom_title": "Mutants & Masterminds entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_10",
+        "fandom_title": "Mutants & Masterminds entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_11",
+        "fandom_title": "Mutants & Masterminds entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_12",
+        "fandom_title": "Mutants & Masterminds entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_13",
+        "fandom_title": "Mutants & Masterminds entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_14",
+        "fandom_title": "Mutants & Masterminds entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_15",
+        "fandom_title": "Mutants & Masterminds entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_16",
+        "fandom_title": "Mutants & Masterminds entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_17",
+        "fandom_title": "Mutants & Masterminds entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_18",
+        "fandom_title": "Mutants & Masterminds entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_19",
+        "fandom_title": "Mutants & Masterminds entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_20",
+        "fandom_title": "Mutants & Masterminds entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_21",
+        "fandom_title": "Mutants & Masterminds entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_22",
+        "fandom_title": "Mutants & Masterminds entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_23",
+        "fandom_title": "Mutants & Masterminds entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mutants-and-masterminds-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mutants_&_Masterminds_entry_24",
+        "fandom_title": "Mutants & Masterminds entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "the-algernon-files",
+      "name": "The Algernon Files",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "mutants-and-masterminds",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Algernon_Files",
+        "fandom_title": "The Algernon Files",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foes-of-freedom",
+      "name": "Foes of Freedom",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "mutants-and-masterminds",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Foes_of_Freedom",
+        "fandom_title": "Foes of Freedom",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "freedom-city",
+      "name": "Freedom City",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "mutants-and-masterminds",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Freedom_City",
+        "fandom_title": "Freedom City",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nocturnals-a-midnight-companion",
+      "name": "Nocturnals: A Midnight Companion",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "mutants-and-masterminds",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Nocturnals:_A_Midnight_Companion",
+        "fandom_title": "Nocturnals: A Midnight Companion",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "time-of-crisis",
+      "name": "Time of Crisis",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "mutants-and-masterminds",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Time_of_Crisis",
+        "fandom_title": "Time of Crisis",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "the-algernon-files",
+      "mutants-and-masterminds",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "foes-of-freedom",
+      "mutants-and-masterminds",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "freedom-city",
+      "mutants-and-masterminds",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "nocturnals-a-midnight-companion",
+      "mutants-and-masterminds",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "time-of-crisis",
+      "mutants-and-masterminds",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Mutants & Masterminds article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T17:04:14.028Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "aaa-wrestling",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA",
+        "fandom_title": "AAA",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_figures",
+        "fandom_title": "AAA figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_world_&_context",
+        "fandom_title": "AAA world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_places",
+        "fandom_title": "AAA places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_events",
+        "fandom_title": "AAA events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_objects_&_artifacts",
+        "fandom_title": "AAA objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_factions_&_groups",
+        "fandom_title": "AAA factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_concepts",
+        "fandom_title": "AAA concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_eras",
+        "fandom_title": "AAA eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_works_&_media",
+        "fandom_title": "AAA works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_symbols",
+        "fandom_title": "AAA symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_controversies",
+        "fandom_title": "AAA controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_geography",
+        "fandom_title": "AAA geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_legacy",
+        "fandom_title": "AAA legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_practices",
+        "fandom_title": "AAA practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_1",
+        "fandom_title": "AAA entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_2",
+        "fandom_title": "AAA entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_3",
+        "fandom_title": "AAA entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_4",
+        "fandom_title": "AAA entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_5",
+        "fandom_title": "AAA entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_6",
+        "fandom_title": "AAA entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_7",
+        "fandom_title": "AAA entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_8",
+        "fandom_title": "AAA entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_9",
+        "fandom_title": "AAA entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_10",
+        "fandom_title": "AAA entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_11",
+        "fandom_title": "AAA entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_12",
+        "fandom_title": "AAA entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_13",
+        "fandom_title": "AAA entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_14",
+        "fandom_title": "AAA entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_15",
+        "fandom_title": "AAA entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_16",
+        "fandom_title": "AAA entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_17",
+        "fandom_title": "AAA entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_18",
+        "fandom_title": "AAA entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_19",
+        "fandom_title": "AAA entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_20",
+        "fandom_title": "AAA entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_21",
+        "fandom_title": "AAA entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_22",
+        "fandom_title": "AAA entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_23",
+        "fandom_title": "AAA entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aaa-wrestling-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/AAA_entry_24",
+        "fandom_title": "AAA entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. AAA article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:30:48.424Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

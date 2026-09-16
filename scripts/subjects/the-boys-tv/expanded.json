@@ -1,0 +1,526 @@
+{
+  "enrichments": [
+    {
+      "slug": "the-boys-tv",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys",
+        "fandom_title": "The Boys",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_figures",
+        "fandom_title": "The Boys figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_world_&_context",
+        "fandom_title": "The Boys world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_places",
+        "fandom_title": "The Boys places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_events",
+        "fandom_title": "The Boys events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_objects_&_artifacts",
+        "fandom_title": "The Boys objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_factions_&_groups",
+        "fandom_title": "The Boys factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_concepts",
+        "fandom_title": "The Boys concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_eras",
+        "fandom_title": "The Boys eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_works_&_media",
+        "fandom_title": "The Boys works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_symbols",
+        "fandom_title": "The Boys symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_controversies",
+        "fandom_title": "The Boys controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_geography",
+        "fandom_title": "The Boys geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_legacy",
+        "fandom_title": "The Boys legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_practices",
+        "fandom_title": "The Boys practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_1",
+        "fandom_title": "The Boys entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_2",
+        "fandom_title": "The Boys entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_3",
+        "fandom_title": "The Boys entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_4",
+        "fandom_title": "The Boys entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_5",
+        "fandom_title": "The Boys entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_6",
+        "fandom_title": "The Boys entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_7",
+        "fandom_title": "The Boys entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_8",
+        "fandom_title": "The Boys entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_9",
+        "fandom_title": "The Boys entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_10",
+        "fandom_title": "The Boys entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_11",
+        "fandom_title": "The Boys entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_12",
+        "fandom_title": "The Boys entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_13",
+        "fandom_title": "The Boys entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_14",
+        "fandom_title": "The Boys entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_15",
+        "fandom_title": "The Boys entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_16",
+        "fandom_title": "The Boys entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_17",
+        "fandom_title": "The Boys entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_18",
+        "fandom_title": "The Boys entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_19",
+        "fandom_title": "The Boys entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_20",
+        "fandom_title": "The Boys entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_21",
+        "fandom_title": "The Boys entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_22",
+        "fandom_title": "The Boys entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_23",
+        "fandom_title": "The Boys entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boys-tv-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boys_entry_24",
+        "fandom_title": "The Boys entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "list-of-the-boys-characters",
+      "name": "List of The Boys characters",
+      "type": "person",
+      "description": "The following is a list of fictional characters from the comic-book series The Boys, created by Garth Ennis and Darick Robertson, and subsequent media franchise developed by Eric Kripke, consisting of a live-action series adaptation, the web series Seven on 7, the animated anthology series The Boys Presents: Diabolical, and the live-action spin-off series Gen V.\n\nMain cast {| class=\"wikitable plainrowheaders\" style=\"text-align:center;\"\n\n! scope=\"col\" rowspan=\"2\" style=\"width:21%;\" | Character ! scope=\"col\" rowspan=\"2\" style=\"width:15%;\" | Portrayed by ! scope=\"col\" colspan=\"5\" | The Boys ! scope=\"col\" colspan=\"2\" | Gen V ! scope=\"col\" | Vought Rising\n\n! style=\"width:8%;\" | 1 ! style=\"width:8%;\" | 2 ! style=\"width:8%;\" | 3 ! style=\"width:8%;\" | 4 ! style=\"width:8%;\" | 5 ! style=\"width:8%;\" | 1 ! style=\"width:8%;\" | 2 ! style=\"width:8%;\" | 1",
+      "short_description": "The following is a list of fictional characters from the comic-book series The Boys, created by Garth Ennis and Darick Robertson, and subsequent media franchise developed by Eric Kripke, consisting of a live-action…",
+      "evidence": "fiction",
+      "parentSlug": "the-boys-tv-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/List_of_The_Boys_characters",
+        "fandom_title": "List of The Boys characters",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "list-of-the-boys-characters",
+      "the-boys-tv-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. The Boys article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:56:52.099Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

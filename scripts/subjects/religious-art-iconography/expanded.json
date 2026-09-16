@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "religious-art-iconography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography",
+        "fandom_title": "Religious art & iconography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_figures",
+        "fandom_title": "Religious art & iconography figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_world_&_context",
+        "fandom_title": "Religious art & iconography world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_places",
+        "fandom_title": "Religious art & iconography places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_events",
+        "fandom_title": "Religious art & iconography events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_objects_&_artifacts",
+        "fandom_title": "Religious art & iconography objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_factions_&_groups",
+        "fandom_title": "Religious art & iconography factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_concepts",
+        "fandom_title": "Religious art & iconography concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_eras",
+        "fandom_title": "Religious art & iconography eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_works_&_media",
+        "fandom_title": "Religious art & iconography works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_symbols",
+        "fandom_title": "Religious art & iconography symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_controversies",
+        "fandom_title": "Religious art & iconography controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_geography",
+        "fandom_title": "Religious art & iconography geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_legacy",
+        "fandom_title": "Religious art & iconography legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_practices",
+        "fandom_title": "Religious art & iconography practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_1",
+        "fandom_title": "Religious art & iconography entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_2",
+        "fandom_title": "Religious art & iconography entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_3",
+        "fandom_title": "Religious art & iconography entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_4",
+        "fandom_title": "Religious art & iconography entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_5",
+        "fandom_title": "Religious art & iconography entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_6",
+        "fandom_title": "Religious art & iconography entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_7",
+        "fandom_title": "Religious art & iconography entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_8",
+        "fandom_title": "Religious art & iconography entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_9",
+        "fandom_title": "Religious art & iconography entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_10",
+        "fandom_title": "Religious art & iconography entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_11",
+        "fandom_title": "Religious art & iconography entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_12",
+        "fandom_title": "Religious art & iconography entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_13",
+        "fandom_title": "Religious art & iconography entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_14",
+        "fandom_title": "Religious art & iconography entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_15",
+        "fandom_title": "Religious art & iconography entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_16",
+        "fandom_title": "Religious art & iconography entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_17",
+        "fandom_title": "Religious art & iconography entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_18",
+        "fandom_title": "Religious art & iconography entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_19",
+        "fandom_title": "Religious art & iconography entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_20",
+        "fandom_title": "Religious art & iconography entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_21",
+        "fandom_title": "Religious art & iconography entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_22",
+        "fandom_title": "Religious art & iconography entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_23",
+        "fandom_title": "Religious art & iconography entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "religious-art-iconography-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Religious_art_&_iconography_entry_24",
+        "fandom_title": "Religious art & iconography entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Religious art & iconography article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:07:45.195Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

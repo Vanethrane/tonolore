@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "gravity-falls",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls",
+        "fandom_title": "Gravity Falls",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_figures",
+        "fandom_title": "Gravity Falls figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_world_&_context",
+        "fandom_title": "Gravity Falls world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_places",
+        "fandom_title": "Gravity Falls places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_events",
+        "fandom_title": "Gravity Falls events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_objects_&_artifacts",
+        "fandom_title": "Gravity Falls objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_factions_&_groups",
+        "fandom_title": "Gravity Falls factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_concepts",
+        "fandom_title": "Gravity Falls concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_eras",
+        "fandom_title": "Gravity Falls eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_works_&_media",
+        "fandom_title": "Gravity Falls works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_symbols",
+        "fandom_title": "Gravity Falls symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_controversies",
+        "fandom_title": "Gravity Falls controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_geography",
+        "fandom_title": "Gravity Falls geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_legacy",
+        "fandom_title": "Gravity Falls legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_practices",
+        "fandom_title": "Gravity Falls practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_1",
+        "fandom_title": "Gravity Falls entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_2",
+        "fandom_title": "Gravity Falls entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_3",
+        "fandom_title": "Gravity Falls entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_4",
+        "fandom_title": "Gravity Falls entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_5",
+        "fandom_title": "Gravity Falls entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_6",
+        "fandom_title": "Gravity Falls entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_7",
+        "fandom_title": "Gravity Falls entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_8",
+        "fandom_title": "Gravity Falls entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_9",
+        "fandom_title": "Gravity Falls entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_10",
+        "fandom_title": "Gravity Falls entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_11",
+        "fandom_title": "Gravity Falls entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_12",
+        "fandom_title": "Gravity Falls entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_13",
+        "fandom_title": "Gravity Falls entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_14",
+        "fandom_title": "Gravity Falls entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_15",
+        "fandom_title": "Gravity Falls entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_16",
+        "fandom_title": "Gravity Falls entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_17",
+        "fandom_title": "Gravity Falls entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_18",
+        "fandom_title": "Gravity Falls entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_19",
+        "fandom_title": "Gravity Falls entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_20",
+        "fandom_title": "Gravity Falls entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_21",
+        "fandom_title": "Gravity Falls entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_22",
+        "fandom_title": "Gravity Falls entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_23",
+        "fandom_title": "Gravity Falls entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gravity-falls-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gravity_Falls_entry_24",
+        "fandom_title": "Gravity Falls entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Gravity Falls article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:20:40.391Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

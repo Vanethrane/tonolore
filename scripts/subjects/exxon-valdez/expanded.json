@@ -1,0 +1,502 @@
+{
+  "enrichments": [
+    {
+      "slug": "exxon-valdez",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill",
+        "fandom_title": "Exxon Valdez oil spill",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "The Exxon Valdez oil spill was a major environmental disaster that occurred in Alaska's Prince William Sound on March 24, 1989. The spill occurred when Exxon Valdez, an oil supertanker owned by Exxon Shipping Company, bound for Long Beach, California, struck Prince William Sound's Bligh Reef, west of Tatitlek, Alaska, at 12:04&nbsp;a.m. The tanker spilled more than (or 37,000 tonnes) of crude oil over the next few days.\n\nThe Exxon Valdez spill is the second largest in U.S. waters, after the 2010 Deepwater Horizon oil spill, in terms of volume of oil released. It is the costliest disaster ever with no direct human fatalities. Prince William Sound's remote location, accessible only by helicopter, plane, or boat, made government and industry response efforts difficult and made existing response plans especially hard to implement. The region is a habitat for salmon, sea otters, seals, and seabirds. The oil, extracted from the Prudhoe Bay Oil Field, eventually affected of coastline, of which were heavily or moderately oiled.\n\nExxon Valdez was carrying of oil, of which approximately were spilled into the Prince William Sound.\n\nThe ship docked at the Valdez Marine Terminal at 11:30&nbsp;p.m. on March 22, 1989. Loading of crude oil was completed late in the day on the 23rd. The tanker left the terminal at 9:12&nbsp;p.m., March 23, 1989 (the deck log shows that it was clear of the dock at 9:21p.m.), loaded with 53,094,510 gallons (1,264,155 barrels) of crude oil. Captain Joseph Hazelwood retired to his cabin at 9:25p.m. Harbor pilot William Murphy and Third Mate Gregory Cousins were on the bridge while the tanker was accompanied by a single tug for the passage through the Valdez Narrows – a journey of about 7 miles. The pilot left the bridge shortly after the vessel left the narrows, at 11:24p.m. At this point, the captain was called to the bridge. Cousins helped the pilot disembark from the vessel, leaving the captain as the only officer on the bridge. At 11:25p.m. Exxon Valdez reported that the pilot had left. The captain advised traffic control and the ship maneuvered out of the outbound traffic lane in the Traffic Separation Scheme (TSS) to avoid small icebergs; a common occurrence since the Columbia Glacier calved such icebergs nearby. The vessel was placed on a due south course and set on autopilot. At 11:47p.m. the vessel left the traffic lane's eastern boundary. Following the maneuver, Hazelwood departed the navigation bridge and retired to his stateroom for the night.",
+      "short_description": "The Exxon Valdez oil spill was a major environmental disaster that occurred in Alaska's Prince William Sound on March 24, 1989. The spill occurred when Exxon Valdez, an oil supertanker owned by Exxon Shipping Company,…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Exxon_Valdez_Aerial.jpg/180px-Exxon_Valdez_Aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Exxon Valdez oil spill article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Exxon Valdez oil spill"
+    },
+    {
+      "slug": "exxon-valdez-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_figures",
+        "fandom_title": "Exxon Valdez oil spill figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_world_&_context",
+        "fandom_title": "Exxon Valdez oil spill world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_places",
+        "fandom_title": "Exxon Valdez oil spill places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_events",
+        "fandom_title": "Exxon Valdez oil spill events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_objects_&_artifacts",
+        "fandom_title": "Exxon Valdez oil spill objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_factions_&_groups",
+        "fandom_title": "Exxon Valdez oil spill factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_concepts",
+        "fandom_title": "Exxon Valdez oil spill concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_eras",
+        "fandom_title": "Exxon Valdez oil spill eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_works_&_media",
+        "fandom_title": "Exxon Valdez oil spill works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_symbols",
+        "fandom_title": "Exxon Valdez oil spill symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_controversies",
+        "fandom_title": "Exxon Valdez oil spill controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_geography",
+        "fandom_title": "Exxon Valdez oil spill geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_legacy",
+        "fandom_title": "Exxon Valdez oil spill legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_practices",
+        "fandom_title": "Exxon Valdez oil spill practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_1",
+        "fandom_title": "Exxon Valdez oil spill entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_2",
+        "fandom_title": "Exxon Valdez oil spill entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_3",
+        "fandom_title": "Exxon Valdez oil spill entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_4",
+        "fandom_title": "Exxon Valdez oil spill entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_5",
+        "fandom_title": "Exxon Valdez oil spill entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_6",
+        "fandom_title": "Exxon Valdez oil spill entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_7",
+        "fandom_title": "Exxon Valdez oil spill entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_8",
+        "fandom_title": "Exxon Valdez oil spill entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_9",
+        "fandom_title": "Exxon Valdez oil spill entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_10",
+        "fandom_title": "Exxon Valdez oil spill entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_11",
+        "fandom_title": "Exxon Valdez oil spill entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_12",
+        "fandom_title": "Exxon Valdez oil spill entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_13",
+        "fandom_title": "Exxon Valdez oil spill entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_14",
+        "fandom_title": "Exxon Valdez oil spill entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_15",
+        "fandom_title": "Exxon Valdez oil spill entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_16",
+        "fandom_title": "Exxon Valdez oil spill entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_17",
+        "fandom_title": "Exxon Valdez oil spill entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_18",
+        "fandom_title": "Exxon Valdez oil spill entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_19",
+        "fandom_title": "Exxon Valdez oil spill entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_20",
+        "fandom_title": "Exxon Valdez oil spill entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_21",
+        "fandom_title": "Exxon Valdez oil spill entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_22",
+        "fandom_title": "Exxon Valdez oil spill entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_23",
+        "fandom_title": "Exxon Valdez oil spill entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "exxon-valdez-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill_entry_24",
+        "fandom_title": "Exxon Valdez oil spill entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Exxon Valdez oil spill article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:10:25.453Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

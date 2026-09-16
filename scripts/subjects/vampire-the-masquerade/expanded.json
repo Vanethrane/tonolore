@@ -4,7 +4,7 @@
       "slug": "banu-haqim",
       "description": "The Banu Haqim, sometimes known (ignorantly or disparagingly) as Assamites, are one of the thirteen vampire clans of the World of Darkness.\n\nBased in their hidden fortress Alamut in the Middle East, they are traditionally seen by Western Kindred as dangerous assassins and diablerists, but in truth they are guardians, warriors, and scholars who seek to distance themselves from the Jyhad. Throughout their history, they have remained a self-sufficient and independent clan, although they have recently joined the Camarilla.\n\nFrom the beginning, the Banu Haqim were an isolated lot, centered around Alamut and the Middle East. Lacking competition for certain roles due to the relative absence of other Clans, the clan thus maintained its separation of duties over the millennia rather than becoming specialized to one particular mode of existence. The Viziers tended to the mortal herds, the judges (now the Warriors) tended to the clan's defense, and the Sorcerers pursued their secrets. This division of labor allowed the Banu Haqim to succeed on their own where a clan priding itself on its specialization, such as the noble Ventrue or the socialite Toreador, would have failed. They associated rarely with other Cainites, notably lending assistance to the Salubri during the Baali Wars and paying homage to the Brujah city of Carthage. This was, in no small place, attributed to the presence of the Antediluvian himself, who saw the squabbling over territory and mortal herds as reminders of the ill-fated Second City and tried to withdraw himself and his brood as well as he could. Nevertheless, small cabals supported various mortal nations, entangling themselves within the Jyhad, and this enraged their founder so greatly that he left Alamut, occasionally visiting it, but never staying for long, until he disappeared completely.\n\nThe rise of Western civilization brought the Children of Haqim into close contact with the rest of the Cainite world again. During the time of the Greek city-states and the height of Persian dominance, few clans other than the Brujah, Ravnos, Setites, and the Tzimisce had enjoyed more than sporadic encounters with the Children. However, as Rome expanded and, later, as Byzantium rose, those kingdoms' Cainite parasites moved with them, struggling in vain to control the first mortal institutions that were more complex than they could comprehend. The Children of Haqim never had an extensive role in the Roman Empire's life or death. Scattered members of all three castes moved through Roman society, particularly in the eastern and southern regions of the empire, and no few Warriors found mercenary employment as bodyguards or household troop commanders for wealthy Ventrue and Malkavians.",
       "short_description": "The Banu Haqim, sometimes known (ignorantly or disparagingly) as Assamites, are one of the thirteen vampire clans of the World of Darkness.",
-      "image_url": "https://static.wikia.nocookie.net/whitewolf/images/7/7a/SymbolClanBanuHaqimV5.png/revision/latest/scale-to-width-down/360?cb=20201203184536",
+      "image_url": "https://static.wikia.nocookie.net/whitewolf/images/7/7a/SymbolClanBanuHaqimV5.png/revision/latest/scale-to-width-down/180?cb=20201203184536",
       "image_source": "https://whitewolf.fandom.com/wiki/Banu_Haqim",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Paradox Interactive / White Wolf (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -4180,10 +4180,10 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (whitewolf.fandom.com) for identification and commentary only. Character / franchise art © Paradox Interactive / White Wolf (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-13T04:22:04.115Z",
+  "generated_at": "2026-09-14T20:03:18.643Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://whitewolf.fandom.com/wiki/",

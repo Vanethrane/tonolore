@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T04:05:50.238Z",
+  "generated_at": "2026-09-14T19:54:12.988Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (dune.fandom.com) for identification and commentary only. Character / franchise art © Herbert estate / Legendary / respective rights holders (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -559,7 +559,7 @@
     {
       "slug": "alia-atreides",
       "wikipedia_url": "https://en.wikipedia.org/wiki/Alia_Atreides",
-      "image_url": "https://static.wikia.nocookie.net/dune/images/8/8b/AliaSchoenherrCropped.jpg/revision/latest/scale-to-width-down/360?cb=20250604021658",
+      "image_url": "https://static.wikia.nocookie.net/dune/images/8/8b/AliaSchoenherrCropped.jpg/revision/latest/scale-to-width-down/180?cb=20250604021658",
       "image_source": "https://dune.fandom.com/wiki/Alia_Atreides",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Herbert estate / Legendary / respective rights holders (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -593,7 +593,7 @@
         "fandom_preferred_image": true
       },
       "short_description": "Arrakis (/əˈrɑːkɪs/), also known as \"Dune\", and later \"Rakis\" after the fall of God Emperor Leto Atreides II, was a harsh desert planet located on the far edge of the Old Imperium in the Canopus star system. It later…",
-      "image_url": "https://static.wikia.nocookie.net/dune/images/8/82/Analog-DuneWorld-SchoenherrArrakis.png/revision/latest/scale-to-width-down/360?cb=20250113164613",
+      "image_url": "https://static.wikia.nocookie.net/dune/images/8/82/Analog-DuneWorld-SchoenherrArrakis.png/revision/latest/scale-to-width-down/180?cb=20250113164613",
       "image_source": "https://dune.fandom.com/wiki/Arrakis",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Herbert estate / Legendary / respective rights holders (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",

@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "roman-aqueducts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts",
+        "fandom_title": "Roman aqueducts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_figures",
+        "fandom_title": "Roman aqueducts figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_world_&_context",
+        "fandom_title": "Roman aqueducts world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_places",
+        "fandom_title": "Roman aqueducts places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_events",
+        "fandom_title": "Roman aqueducts events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_objects_&_artifacts",
+        "fandom_title": "Roman aqueducts objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_factions_&_groups",
+        "fandom_title": "Roman aqueducts factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_concepts",
+        "fandom_title": "Roman aqueducts concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_eras",
+        "fandom_title": "Roman aqueducts eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_works_&_media",
+        "fandom_title": "Roman aqueducts works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_symbols",
+        "fandom_title": "Roman aqueducts symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_controversies",
+        "fandom_title": "Roman aqueducts controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_geography",
+        "fandom_title": "Roman aqueducts geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_legacy",
+        "fandom_title": "Roman aqueducts legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_practices",
+        "fandom_title": "Roman aqueducts practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_1",
+        "fandom_title": "Roman aqueducts entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_2",
+        "fandom_title": "Roman aqueducts entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_3",
+        "fandom_title": "Roman aqueducts entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_4",
+        "fandom_title": "Roman aqueducts entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_5",
+        "fandom_title": "Roman aqueducts entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_6",
+        "fandom_title": "Roman aqueducts entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_7",
+        "fandom_title": "Roman aqueducts entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_8",
+        "fandom_title": "Roman aqueducts entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_9",
+        "fandom_title": "Roman aqueducts entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_10",
+        "fandom_title": "Roman aqueducts entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_11",
+        "fandom_title": "Roman aqueducts entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_12",
+        "fandom_title": "Roman aqueducts entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_13",
+        "fandom_title": "Roman aqueducts entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_14",
+        "fandom_title": "Roman aqueducts entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_15",
+        "fandom_title": "Roman aqueducts entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_16",
+        "fandom_title": "Roman aqueducts entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_17",
+        "fandom_title": "Roman aqueducts entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_18",
+        "fandom_title": "Roman aqueducts entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_19",
+        "fandom_title": "Roman aqueducts entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_20",
+        "fandom_title": "Roman aqueducts entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_21",
+        "fandom_title": "Roman aqueducts entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_22",
+        "fandom_title": "Roman aqueducts entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_23",
+        "fandom_title": "Roman aqueducts entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roman-aqueducts-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roman_aqueducts_entry_24",
+        "fandom_title": "Roman aqueducts entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Roman aqueducts article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:22:25.053Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

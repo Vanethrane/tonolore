@@ -1,0 +1,502 @@
+{
+  "enrichments": [
+    {
+      "slug": "hurricane-sandy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy",
+        "fandom_title": "Hurricane Sandy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "Hurricane Sandy (unofficially referred to as Superstorm Sandy) was an extremely large and devastating tropical cyclone which ravaged the Caribbean and the coastal Mid-Atlantic region of the United States in late October 2012. It was the largest Atlantic hurricane on record as measured by diameter, with tropical-storm-force winds spanning . The storm inflicted nearly US$70&nbsp;billion in damage (equivalent to $&nbsp;billion in ), and killed 254 people in eight countries, from the Caribbean to Canada. The eighteenth named storm, tenth hurricane, and second major hurricane of the 2012 Atlantic hurricane season, Sandy was a Category 3 storm at its peak intensity when it made landfall in Cuba, though most of the damage it caused was after it became a Category 1–equivalent extratropical cyclone off the coast of the Northeastern United States.\n\nSandy developed from a tropical wave in the western Caribbean Sea on October 22, quickly strengthened, and was upgraded to Tropical Storm Sandy six hours later. Sandy moved slowly northward toward the Greater Antilles and gradually intensified. On October 24, Sandy became a hurricane, made landfall near Kingston, Jamaica, re-emerged a few hours later into the Caribbean Sea and strengthened into a Category 2 hurricane. On October 25, Sandy hit Cuba as a Category 3 hurricane, then weakened to a Category 1 hurricane. Early on October 26, Sandy moved through the Bahamas. On October 27, Sandy briefly weakened to a tropical storm and then strengthened back to a Category&nbsp;1 hurricane. Early on October 29, Sandy curved west-northwest (the \"left turn\" or \"left hook\") and then moved ashore near Brigantine, New Jersey, just to the northeast of Atlantic City, as a post-tropical cyclone with hurricane-force winds. Sandy continued drifting inland for another few days while gradually weakening, until it was absorbed by another approaching extratropical storm on November 2.\n\nIn Jamaica, winds left 70% of residents without electricity, blew roofs off buildings, killed one person, and caused about $100&nbsp;million (equivalent to $&nbsp;million in ) in damage. Sandy's outer bands brought flooding to Haiti, killing a total of 75 people, causing food shortages, and leaving about 200,000 homeless; the hurricane also caused two deaths in the Dominican Republic. In Puerto Rico, one man was swept away by a swollen river. In Cuba, there was extensive coastal flooding and wind damage inland, destroying some 15,000 homes, killing 11, and causing $2&nbsp;billion (equivalent to $&nbsp;billion in ) in damage. Sandy caused two deaths and an estimated $700&nbsp;million (equivalent to $&nbsp;million in ) in damage in the Bahamas.\n\nIn the United States, Hurricane Sandy affected 24 states, including the entire eastern seaboard from Florida to Maine and west across the Appalachian Mountains to Michigan and Wisconsin, with particularly severe damage in New Jersey and New York. Its storm surge hit New York City on October 29, flooding streets, tunnels and subway lines and cutting power in and around the city. Damage in the United States amounted to $65&nbsp;billion (equivalent to $&nbsp;billion in ).",
+      "short_description": "Hurricane Sandy (unofficially referred to as Superstorm Sandy) was an extremely large and devastating tropical cyclone which ravaged the Caribbean and the coastal Mid-Atlantic region of the United States in late October…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Sandy_2012-10-25_0320Z_%28cropped%29.png/180px-Sandy_2012-10-25_0320Z_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Hurricane_Sandy",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Hurricane Sandy article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Hurricane Sandy"
+    },
+    {
+      "slug": "hurricane-sandy-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_figures",
+        "fandom_title": "Hurricane Sandy figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_world_&_context",
+        "fandom_title": "Hurricane Sandy world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_places",
+        "fandom_title": "Hurricane Sandy places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_events",
+        "fandom_title": "Hurricane Sandy events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_objects_&_artifacts",
+        "fandom_title": "Hurricane Sandy objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_factions_&_groups",
+        "fandom_title": "Hurricane Sandy factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_concepts",
+        "fandom_title": "Hurricane Sandy concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_eras",
+        "fandom_title": "Hurricane Sandy eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_works_&_media",
+        "fandom_title": "Hurricane Sandy works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_symbols",
+        "fandom_title": "Hurricane Sandy symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_controversies",
+        "fandom_title": "Hurricane Sandy controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_geography",
+        "fandom_title": "Hurricane Sandy geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_legacy",
+        "fandom_title": "Hurricane Sandy legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_practices",
+        "fandom_title": "Hurricane Sandy practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_1",
+        "fandom_title": "Hurricane Sandy entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_2",
+        "fandom_title": "Hurricane Sandy entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_3",
+        "fandom_title": "Hurricane Sandy entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_4",
+        "fandom_title": "Hurricane Sandy entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_5",
+        "fandom_title": "Hurricane Sandy entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_6",
+        "fandom_title": "Hurricane Sandy entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_7",
+        "fandom_title": "Hurricane Sandy entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_8",
+        "fandom_title": "Hurricane Sandy entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_9",
+        "fandom_title": "Hurricane Sandy entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_10",
+        "fandom_title": "Hurricane Sandy entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_11",
+        "fandom_title": "Hurricane Sandy entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_12",
+        "fandom_title": "Hurricane Sandy entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_13",
+        "fandom_title": "Hurricane Sandy entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_14",
+        "fandom_title": "Hurricane Sandy entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_15",
+        "fandom_title": "Hurricane Sandy entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_16",
+        "fandom_title": "Hurricane Sandy entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_17",
+        "fandom_title": "Hurricane Sandy entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_18",
+        "fandom_title": "Hurricane Sandy entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_19",
+        "fandom_title": "Hurricane Sandy entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_20",
+        "fandom_title": "Hurricane Sandy entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_21",
+        "fandom_title": "Hurricane Sandy entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_22",
+        "fandom_title": "Hurricane Sandy entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_23",
+        "fandom_title": "Hurricane Sandy entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hurricane-sandy-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hurricane_Sandy_entry_24",
+        "fandom_title": "Hurricane Sandy entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Hurricane Sandy article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:11:05.935Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "korean-war",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War",
+        "fandom_title": "Korean War",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_figures",
+        "fandom_title": "Korean War figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_world_&_context",
+        "fandom_title": "Korean War world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_places",
+        "fandom_title": "Korean War places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_events",
+        "fandom_title": "Korean War events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_objects_&_artifacts",
+        "fandom_title": "Korean War objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_factions_&_groups",
+        "fandom_title": "Korean War factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_concepts",
+        "fandom_title": "Korean War concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_eras",
+        "fandom_title": "Korean War eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_works_&_media",
+        "fandom_title": "Korean War works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_symbols",
+        "fandom_title": "Korean War symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_controversies",
+        "fandom_title": "Korean War controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_geography",
+        "fandom_title": "Korean War geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_legacy",
+        "fandom_title": "Korean War legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_practices",
+        "fandom_title": "Korean War practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_1",
+        "fandom_title": "Korean War entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_2",
+        "fandom_title": "Korean War entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_3",
+        "fandom_title": "Korean War entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_4",
+        "fandom_title": "Korean War entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_5",
+        "fandom_title": "Korean War entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_6",
+        "fandom_title": "Korean War entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_7",
+        "fandom_title": "Korean War entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_8",
+        "fandom_title": "Korean War entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_9",
+        "fandom_title": "Korean War entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_10",
+        "fandom_title": "Korean War entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_11",
+        "fandom_title": "Korean War entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_12",
+        "fandom_title": "Korean War entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_13",
+        "fandom_title": "Korean War entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_14",
+        "fandom_title": "Korean War entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_15",
+        "fandom_title": "Korean War entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_16",
+        "fandom_title": "Korean War entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_17",
+        "fandom_title": "Korean War entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_18",
+        "fandom_title": "Korean War entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_19",
+        "fandom_title": "Korean War entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_20",
+        "fandom_title": "Korean War entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_21",
+        "fandom_title": "Korean War entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_22",
+        "fandom_title": "Korean War entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_23",
+        "fandom_title": "Korean War entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "korean-war-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Korean_War_entry_24",
+        "fandom_title": "Korean War entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Korean War article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:52:17.431Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

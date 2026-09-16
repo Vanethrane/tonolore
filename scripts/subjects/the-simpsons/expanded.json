@@ -3005,25 +3005,25 @@
       "slug": "alf",
       "name": "Alf",
       "type": "person",
-      "description": "Gordon Shumway (more commonly known as ALF) is an alien and the main character of the eponymous sitcom, ALF.\n\nAlf appeared in the cover for Us magazine in the 80's.\n\nMilhouse traded Bart's soul to Comic Book Guy in exchange for some Alf pogs.\n\nHe was in a lineup of other aliens, which Homer had to pick the alien he saw; this would also mark the first time original ALF voice Paul Fusco voiced him on The Simpsons.",
+      "description": "Alf is Apu's character in Earthland Realms.\n\nCleric was surprised to see Alf in her game, initially believing him to be a virus. Alf told her about the Shadow Knight and pulled her into hiding when he appeared. When the Shadow Knight's flame sword killed Turkey Skinner, Alf ate him.\n\nAlf was one of the characters who killed the Shadow Knight when he was weak. Warrior Marge later possibly killed him as a revenge.\n\nCategory:Characters Category:Male characters Category:One-time characters Category:Fictional Characters Category:Characters voiced by Hank Azaria",
       "short_description": "Alf is Apu's character in Earthland Realms.",
       "evidence": "fiction",
       "parentSlug": "the-simpsons",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/simpsons/images/1/11/Alf-Mayored_to_the_Mob.png/revision/latest/scale-to-width-down/360?cb=20200623182708",
-      "image_source": "https://simpsons.fandom.com/wiki/ALF",
+      "image_url": "https://static.wikia.nocookie.net/simpsons/images/7/77/Alf.png/revision/latest/scale-to-width-down/180?cb=20130315212236",
+      "image_source": "https://simpsons.fandom.com/wiki/Alf",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Matt Groening / 20th Television / Disney (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for ALF",
+      "image_alt": "Identification thumbnail for Alf",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
         "kind": "character",
-        "fandom_url": "https://simpsons.fandom.com/wiki/ALF",
-        "fandom_title": "ALF",
+        "fandom_url": "https://simpsons.fandom.com/wiki/Alf",
+        "fandom_title": "Alf",
         "source_fandom": "simpsons.fandom.com",
         "sources": [
           "fandom"
@@ -14769,6 +14769,35 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "1501-east-oak-street",
+      "name": "1501 East Oak Street",
+      "type": "place",
+      "description": "1501 East Oak Street is a meth lab located on East Oak Street. Homer came here by accident after Marge gave him a misleading address. The owner is the Meth Guy. There is an open kitchen and druggies sitting on the couch doing drugs. thumb|252px|The 'kitchen'. Homer is then caught in a gun fight and then a fire breaks out; Marge eventually saves Homer.\n\nHomer seems completely clueless about the fact that 1501 East Oak is a meth lab.\n\nCategory:Shops Category:One-time locations Category:Locations Category:Season 23 locations",
+      "short_description": "1501 East Oak Street is a meth lab located on East Oak Street. Homer came here by accident after Marge gave him a misleading address. The owner is the Meth Guy. There is an open kitchen and druggies sitting on the couch…",
+      "evidence": "fiction",
+      "parentSlug": "springfield",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/simpsons/images/2/26/1501.jpg/revision/latest/scale-to-width-down/180?cb=20120102091517",
+      "image_source": "https://simpsons.fandom.com/wiki/1501_East_Oak_Street",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Matt Groening / 20th Television / Disney (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for 1501 East Oak Street",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://simpsons.fandom.com/wiki/1501_East_Oak_Street",
+        "fandom_title": "1501 East Oak Street",
+        "source_fandom": "simpsons.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -18827,15 +18856,23 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "1501-east-oak-street",
+      "springfield",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (simpsons.fandom.com) for identification and commentary only. Character / franchise art © Matt Groening / 20th Television / Disney (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-13T03:53:12.318Z",
+  "generated_at": "2026-09-14T19:31:56.381Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://simpsons.fandom.com/wiki/",

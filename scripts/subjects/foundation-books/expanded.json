@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "foundation-books",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)",
+        "fandom_title": "Foundation (books)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_figures",
+        "fandom_title": "Foundation (books) figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_world_&_context",
+        "fandom_title": "Foundation (books) world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_places",
+        "fandom_title": "Foundation (books) places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_events",
+        "fandom_title": "Foundation (books) events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_objects_&_artifacts",
+        "fandom_title": "Foundation (books) objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_factions_&_groups",
+        "fandom_title": "Foundation (books) factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_concepts",
+        "fandom_title": "Foundation (books) concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_eras",
+        "fandom_title": "Foundation (books) eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_works_&_media",
+        "fandom_title": "Foundation (books) works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_symbols",
+        "fandom_title": "Foundation (books) symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_controversies",
+        "fandom_title": "Foundation (books) controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_geography",
+        "fandom_title": "Foundation (books) geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_legacy",
+        "fandom_title": "Foundation (books) legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_practices",
+        "fandom_title": "Foundation (books) practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_1",
+        "fandom_title": "Foundation (books) entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_2",
+        "fandom_title": "Foundation (books) entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_3",
+        "fandom_title": "Foundation (books) entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_4",
+        "fandom_title": "Foundation (books) entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_5",
+        "fandom_title": "Foundation (books) entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_6",
+        "fandom_title": "Foundation (books) entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_7",
+        "fandom_title": "Foundation (books) entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_8",
+        "fandom_title": "Foundation (books) entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_9",
+        "fandom_title": "Foundation (books) entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_10",
+        "fandom_title": "Foundation (books) entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_11",
+        "fandom_title": "Foundation (books) entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_12",
+        "fandom_title": "Foundation (books) entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_13",
+        "fandom_title": "Foundation (books) entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_14",
+        "fandom_title": "Foundation (books) entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_15",
+        "fandom_title": "Foundation (books) entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_16",
+        "fandom_title": "Foundation (books) entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_17",
+        "fandom_title": "Foundation (books) entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_18",
+        "fandom_title": "Foundation (books) entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_19",
+        "fandom_title": "Foundation (books) entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_20",
+        "fandom_title": "Foundation (books) entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_21",
+        "fandom_title": "Foundation (books) entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_22",
+        "fandom_title": "Foundation (books) entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_23",
+        "fandom_title": "Foundation (books) entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "foundation-books-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Foundation_(books)_entry_24",
+        "fandom_title": "Foundation (books) entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Foundation (books) article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:41:34.940Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

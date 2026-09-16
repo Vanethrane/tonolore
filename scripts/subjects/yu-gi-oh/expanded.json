@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T03:15:06.689Z",
+  "generated_at": "2026-09-14T17:23:14.039Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (yugioh.fandom.com) for identification and commentary only. Yu-Gi-Oh! art © Konami / Studio Dice (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -7160,7 +7160,7 @@
       "parentSlug": "yu-gi-oh",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/yugioh/images/6/68/Ai_%28archetype%29.png/revision/latest/scale-to-width-down/360?cb=20190703215758",
+      "image_url": "https://static.wikia.nocookie.net/yugioh/images/6/68/Ai_%28archetype%29.png/revision/latest/scale-to-width-down/180?cb=20190703215758",
       "image_source": "https://yugioh.fandom.com/wiki/A.I.",
       "image_credit": "Fair-use identification thumbnail via Fandom. Yu-Gi-Oh! art © Konami / Studio Dice (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",

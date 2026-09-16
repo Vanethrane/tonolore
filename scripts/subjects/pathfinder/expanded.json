@@ -5,10 +5,10 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (pathfinderwiki.com) for identification and commentary only. Character / franchise art © Paizo Inc. (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-13T04:21:16.936Z",
+  "generated_at": "2026-09-14T20:02:31.385Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://pathfinderwiki.com/wiki/",

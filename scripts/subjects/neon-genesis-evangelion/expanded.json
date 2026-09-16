@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "neon-genesis-evangelion",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion",
+        "fandom_title": "Neon Genesis Evangelion",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_figures",
+        "fandom_title": "Neon Genesis Evangelion figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_world_&_context",
+        "fandom_title": "Neon Genesis Evangelion world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_places",
+        "fandom_title": "Neon Genesis Evangelion places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_events",
+        "fandom_title": "Neon Genesis Evangelion events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_objects_&_artifacts",
+        "fandom_title": "Neon Genesis Evangelion objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_factions_&_groups",
+        "fandom_title": "Neon Genesis Evangelion factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_concepts",
+        "fandom_title": "Neon Genesis Evangelion concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_eras",
+        "fandom_title": "Neon Genesis Evangelion eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_works_&_media",
+        "fandom_title": "Neon Genesis Evangelion works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_symbols",
+        "fandom_title": "Neon Genesis Evangelion symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_controversies",
+        "fandom_title": "Neon Genesis Evangelion controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_geography",
+        "fandom_title": "Neon Genesis Evangelion geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_legacy",
+        "fandom_title": "Neon Genesis Evangelion legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_practices",
+        "fandom_title": "Neon Genesis Evangelion practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_1",
+        "fandom_title": "Neon Genesis Evangelion entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_2",
+        "fandom_title": "Neon Genesis Evangelion entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_3",
+        "fandom_title": "Neon Genesis Evangelion entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_4",
+        "fandom_title": "Neon Genesis Evangelion entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_5",
+        "fandom_title": "Neon Genesis Evangelion entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_6",
+        "fandom_title": "Neon Genesis Evangelion entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_7",
+        "fandom_title": "Neon Genesis Evangelion entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_8",
+        "fandom_title": "Neon Genesis Evangelion entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_9",
+        "fandom_title": "Neon Genesis Evangelion entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_10",
+        "fandom_title": "Neon Genesis Evangelion entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_11",
+        "fandom_title": "Neon Genesis Evangelion entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_12",
+        "fandom_title": "Neon Genesis Evangelion entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_13",
+        "fandom_title": "Neon Genesis Evangelion entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_14",
+        "fandom_title": "Neon Genesis Evangelion entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_15",
+        "fandom_title": "Neon Genesis Evangelion entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_16",
+        "fandom_title": "Neon Genesis Evangelion entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_17",
+        "fandom_title": "Neon Genesis Evangelion entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_18",
+        "fandom_title": "Neon Genesis Evangelion entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_19",
+        "fandom_title": "Neon Genesis Evangelion entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_20",
+        "fandom_title": "Neon Genesis Evangelion entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_21",
+        "fandom_title": "Neon Genesis Evangelion entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_22",
+        "fandom_title": "Neon Genesis Evangelion entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_23",
+        "fandom_title": "Neon Genesis Evangelion entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "neon-genesis-evangelion-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_entry_24",
+        "fandom_title": "Neon Genesis Evangelion entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Neon Genesis Evangelion article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:28:12.432Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,0 +1,537 @@
+{
+  "enrichments": [
+    {
+      "slug": "batman-the-animated-series",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series",
+        "fandom_title": "Batman: The Animated Series",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "Batman: The Animated Series (often shortened as Batman TAS or BTAS) is an American animated superhero television series based on the DC Comics superhero Batman. Developed by Bruce Timm and Eric Radomski, and produced by Warner Bros. Animation, it originally aired on Fox Kids from September 5, 1992, to September 15, 1995, with a total of 85 episodes. Mid-way through the series' run, it was re-titled The Adventures of Batman & Robin.\n\nBatman: The Animated Series has received widespread acclaim since its release and was hailed as a groundbreaking superhero show, receiving praise for its writing, art design, voice acting, orchestrated soundtrack, and modernization of its title character's source material. Its critical success led to the show winning multiple Daytime Emmy Awards, as well as the Primetime Emmy Award for Outstanding Animated Programming.\n\nAfter the series ended its original run, a follow-up titled The New Batman Adventures began airing on Kids' WB in 1997 as a continuation of the series, featuring a revamped animation style. Airing for 24 episodes, it has often been included in the same syndicated re-run packages and home media releases as the final season. Batman: The Animated Series also became the first in the continuity of the shared DC Animated Universe, which spawned further animated TV series, feature films, comic books, and video games helmed by much of the same creative talent, including the 1993 theatrical film Batman: Mask of the Phantasm.\n\nThe series adapts classic Batman comic book stories into episodes. Notable examples include \"The Laughing Fish\", which brought Joker's antics from Detective Comics #475-476 to animation as he attempts to copyright Jokerized fish. In \"The Cape & Cowl Conspiracy,\" Batman faced deadly traps inspired by Detective Comics #450. \"Moon of the Wolf\" sees Batman investigating werewolf attacks based on Batman #255. \"The Demon's Quest\" introduced Ra's Al Ghul from Batman #232 and #244. \"Two-Face\" delved into Harvey Dent's backstory, while \"A Bullet for Bullock\" had detective Harvey Bullock teaming up with Batman to solve a dangerous case.",
+      "short_description": "Batman: The Animated Series (often shortened as Batman TAS or BTAS) is an American animated superhero television series based on the DC Comics superhero Batman. Developed by Bruce Timm and Eric Radomski, and produced by…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Batman-_The_Animated_Series_logo.svg/180px-Batman-_The_Animated_Series_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Batman: The Animated Series article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Batman: The Animated Series"
+    },
+    {
+      "slug": "batman-the-animated-series-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_figures",
+        "fandom_title": "Batman: The Animated Series figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_world_&_context",
+        "fandom_title": "Batman: The Animated Series world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_places",
+        "fandom_title": "Batman: The Animated Series places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_events",
+        "fandom_title": "Batman: The Animated Series events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_objects_&_artifacts",
+        "fandom_title": "Batman: The Animated Series objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_factions_&_groups",
+        "fandom_title": "Batman: The Animated Series factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_concepts",
+        "fandom_title": "Batman: The Animated Series concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_eras",
+        "fandom_title": "Batman: The Animated Series eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_works_&_media",
+        "fandom_title": "Batman: The Animated Series works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_symbols",
+        "fandom_title": "Batman: The Animated Series symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_controversies",
+        "fandom_title": "Batman: The Animated Series controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_geography",
+        "fandom_title": "Batman: The Animated Series geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_legacy",
+        "fandom_title": "Batman: The Animated Series legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_practices",
+        "fandom_title": "Batman: The Animated Series practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_1",
+        "fandom_title": "Batman: The Animated Series entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_2",
+        "fandom_title": "Batman: The Animated Series entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_3",
+        "fandom_title": "Batman: The Animated Series entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_4",
+        "fandom_title": "Batman: The Animated Series entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_5",
+        "fandom_title": "Batman: The Animated Series entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_6",
+        "fandom_title": "Batman: The Animated Series entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_7",
+        "fandom_title": "Batman: The Animated Series entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_8",
+        "fandom_title": "Batman: The Animated Series entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_9",
+        "fandom_title": "Batman: The Animated Series entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_10",
+        "fandom_title": "Batman: The Animated Series entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_11",
+        "fandom_title": "Batman: The Animated Series entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_12",
+        "fandom_title": "Batman: The Animated Series entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_13",
+        "fandom_title": "Batman: The Animated Series entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_14",
+        "fandom_title": "Batman: The Animated Series entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_15",
+        "fandom_title": "Batman: The Animated Series entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_16",
+        "fandom_title": "Batman: The Animated Series entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_17",
+        "fandom_title": "Batman: The Animated Series entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_18",
+        "fandom_title": "Batman: The Animated Series entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_19",
+        "fandom_title": "Batman: The Animated Series entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_20",
+        "fandom_title": "Batman: The Animated Series entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_21",
+        "fandom_title": "Batman: The Animated Series entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_22",
+        "fandom_title": "Batman: The Animated Series entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_23",
+        "fandom_title": "Batman: The Animated Series entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "batman-the-animated-series-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Batman:_The_Animated_Series_entry_24",
+        "fandom_title": "Batman: The Animated Series entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "andrea-beaumont",
+      "name": "Andrea Beaumont",
+      "type": "person",
+      "description": "Andrea Beaumont, also known as the Phantasm, is a supervillain and antiheroine created by Alan Burnett and Paul Dini, and designed by Bruce Timm. Beaumont first appeared as the main antagonist in the 1993 DC Animated Universe (DCAU) film Batman: Mask of the Phantasm, where she was established as the fiancée of Bruce Wayne/Batman. Dana Delany provided the voice work for Andrea and Stacy Keach provided the electronically modified voice of her \"Phantasm\" alter ego; Keach also provided the voice of Andrea's father, Carl.\n\nAndrea Beaumont / Phantasm has made occasional appearances in various DCAU media. In December 2020,{{cite web|url=https://www.dccomics.com/blog/2020/09/10/batmancatwoman-begins |title=Batman/Catwoman Begins!\n\n]] In keeping with Batman: The Animated Series film noir inspiration and \"Dark Deco\" visual style, Bruce Timm created Andrea's civilian design to reference women's fashion from the 1940s, including: red hair in a long bob (reminiscent of Lauren Bacall), \"sweater girl\" sweaters, high-waisted pencil skirts, wrap dresses, and pumps.\n\nTimm designed the Phantasm's costume to reflect Alan Burnett's initial description of a Grim Reaper-esque character. Burnett wanted the villain to be reminiscent of the Ghost of Christmas Future, a similarity that the Joker mentions in the film. Timm went through approximately 20 different character designs for the Phantasm before creating a version that would evolve into the final design. Five alternate designs for the Phantasm's costume were featured in HBO's \"First Look\" television preview for Mask of the Phantasm.",
+      "short_description": "Andrea Beaumont, also known as the Phantasm, is a supervillain and antiheroine created by Alan Burnett and Paul Dini, and designed by Bruce Timm. Beaumont first appeared as the main antagonist in the 1993 DC Animated…",
+      "evidence": "fiction",
+      "parentSlug": "batman-the-animated-series-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Andrea_Beaumont",
+        "fandom_title": "Andrea Beaumont",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "andrea-beaumont",
+      "batman-the-animated-series-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Batman: The Animated Series article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:22:17.690Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0,
+    "description_ensure_at": "2026-09-13T16:22:03.706Z",
+    "description_ensure_count": 1
+  }
+}

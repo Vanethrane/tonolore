@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "qing-dynasty",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty",
+        "fandom_title": "Qing dynasty",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_figures",
+        "fandom_title": "Qing dynasty figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_world_&_context",
+        "fandom_title": "Qing dynasty world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_places",
+        "fandom_title": "Qing dynasty places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_events",
+        "fandom_title": "Qing dynasty events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_objects_&_artifacts",
+        "fandom_title": "Qing dynasty objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_factions_&_groups",
+        "fandom_title": "Qing dynasty factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_concepts",
+        "fandom_title": "Qing dynasty concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_eras",
+        "fandom_title": "Qing dynasty eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_works_&_media",
+        "fandom_title": "Qing dynasty works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_symbols",
+        "fandom_title": "Qing dynasty symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_controversies",
+        "fandom_title": "Qing dynasty controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_geography",
+        "fandom_title": "Qing dynasty geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_legacy",
+        "fandom_title": "Qing dynasty legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_practices",
+        "fandom_title": "Qing dynasty practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_1",
+        "fandom_title": "Qing dynasty entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_2",
+        "fandom_title": "Qing dynasty entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_3",
+        "fandom_title": "Qing dynasty entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_4",
+        "fandom_title": "Qing dynasty entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_5",
+        "fandom_title": "Qing dynasty entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_6",
+        "fandom_title": "Qing dynasty entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_7",
+        "fandom_title": "Qing dynasty entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_8",
+        "fandom_title": "Qing dynasty entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_9",
+        "fandom_title": "Qing dynasty entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_10",
+        "fandom_title": "Qing dynasty entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_11",
+        "fandom_title": "Qing dynasty entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_12",
+        "fandom_title": "Qing dynasty entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_13",
+        "fandom_title": "Qing dynasty entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_14",
+        "fandom_title": "Qing dynasty entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_15",
+        "fandom_title": "Qing dynasty entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_16",
+        "fandom_title": "Qing dynasty entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_17",
+        "fandom_title": "Qing dynasty entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_18",
+        "fandom_title": "Qing dynasty entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_19",
+        "fandom_title": "Qing dynasty entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_20",
+        "fandom_title": "Qing dynasty entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_21",
+        "fandom_title": "Qing dynasty entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_22",
+        "fandom_title": "Qing dynasty entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_23",
+        "fandom_title": "Qing dynasty entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "qing-dynasty-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Qing_dynasty_entry_24",
+        "fandom_title": "Qing dynasty entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Qing dynasty article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:59:26.562Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

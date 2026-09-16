@@ -1,0 +1,502 @@
+{
+  "enrichments": [
+    {
+      "slug": "tamagotchi",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi",
+        "fandom_title": "Tamagotchi",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "The original Tamagotchi, released locally in 1996 and worldwide in 1997, quickly became a major global toy fad for a period of time. Tamagotchi was brought back in 2004 and since then has received more new versions while Bandai has also expanded the franchise to other media and merchandise. , over units have been sold worldwide. It has been a staple children's toy in Japan since its early years.\n\nAccording to Bandai, the name is a portmanteau combining the two Japanese words , which means \"egg\", and \"watch\".\n\nTamagotchi was created in Japan by Akihiro Yokoi of WiZ and Aki Maita of Bandai. They both won the tongue-in-cheek 1997 Ig Nobel Prize for economics, dubbing them the father and mother of Tamagotchi. The first Tamagotchi was released by Bandai on November 23, 1996 (several months after the release of the unsuccessful Apple Pippin console) in Japan. It would then release in the United States on May 1, 1997. Tamagotchi is a keychain-sized virtual pet simulation game. The characters were first drawn in heta-uma, which was a popular style found in teen magazines, and were then converted to pixel art. They were worn like a wristwatch in the initial concept, hence the portmanteau name. Bandai and WiZ would later create a masculine counterpart to the Tamagotchi, the Digital Monster, which would spawn the Digimon franchise.\n\nThe original Tamagotchi sold about 40 million units worldwide during its run, including about 12 million in the US and Canada. The large success of the toy was a surprise for Bandai. But the company was also ill-prepared as it struggled to keep up with demand. At one point, Bandai employees were banned from carrying bags showing the Bandai logo in fear of theft as it was a sought after item. The Tamagotchi craze faded by 1998 and because of large overproduction of the toys that remained unsold (partly caused by miscommunication and that customers made reservations at multiple different retailers), Bandai made a 6 billion yen financial loss.",
+      "short_description": "The original Tamagotchi, released locally in 1996 and worldwide in 1997, quickly became a major global toy fad for a period of time. Tamagotchi was brought back in 2004 and since then has received more new versions…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Tamagotchi_0124_ubt.jpeg/180px-Tamagotchi_0124_ubt.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Tamagotchi",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Tamagotchi article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Tamagotchi"
+    },
+    {
+      "slug": "tamagotchi-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_figures",
+        "fandom_title": "Tamagotchi figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_world_&_context",
+        "fandom_title": "Tamagotchi world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_places",
+        "fandom_title": "Tamagotchi places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_events",
+        "fandom_title": "Tamagotchi events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_objects_&_artifacts",
+        "fandom_title": "Tamagotchi objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_factions_&_groups",
+        "fandom_title": "Tamagotchi factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_concepts",
+        "fandom_title": "Tamagotchi concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_eras",
+        "fandom_title": "Tamagotchi eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_works_&_media",
+        "fandom_title": "Tamagotchi works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_symbols",
+        "fandom_title": "Tamagotchi symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_controversies",
+        "fandom_title": "Tamagotchi controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_geography",
+        "fandom_title": "Tamagotchi geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_legacy",
+        "fandom_title": "Tamagotchi legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_practices",
+        "fandom_title": "Tamagotchi practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_1",
+        "fandom_title": "Tamagotchi entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_2",
+        "fandom_title": "Tamagotchi entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_3",
+        "fandom_title": "Tamagotchi entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_4",
+        "fandom_title": "Tamagotchi entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_5",
+        "fandom_title": "Tamagotchi entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_6",
+        "fandom_title": "Tamagotchi entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_7",
+        "fandom_title": "Tamagotchi entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_8",
+        "fandom_title": "Tamagotchi entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_9",
+        "fandom_title": "Tamagotchi entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_10",
+        "fandom_title": "Tamagotchi entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_11",
+        "fandom_title": "Tamagotchi entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_12",
+        "fandom_title": "Tamagotchi entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_13",
+        "fandom_title": "Tamagotchi entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_14",
+        "fandom_title": "Tamagotchi entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_15",
+        "fandom_title": "Tamagotchi entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_16",
+        "fandom_title": "Tamagotchi entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_17",
+        "fandom_title": "Tamagotchi entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_18",
+        "fandom_title": "Tamagotchi entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_19",
+        "fandom_title": "Tamagotchi entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_20",
+        "fandom_title": "Tamagotchi entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_21",
+        "fandom_title": "Tamagotchi entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_22",
+        "fandom_title": "Tamagotchi entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_23",
+        "fandom_title": "Tamagotchi entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tamagotchi-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Tamagotchi_entry_24",
+        "fandom_title": "Tamagotchi entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Tamagotchi article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:26:58.712Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "melty-blood",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood",
+        "fandom_title": "Melty Blood",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_figures",
+        "fandom_title": "Melty Blood figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_world_&_context",
+        "fandom_title": "Melty Blood world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_places",
+        "fandom_title": "Melty Blood places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_events",
+        "fandom_title": "Melty Blood events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_objects_&_artifacts",
+        "fandom_title": "Melty Blood objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_factions_&_groups",
+        "fandom_title": "Melty Blood factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_concepts",
+        "fandom_title": "Melty Blood concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_eras",
+        "fandom_title": "Melty Blood eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_works_&_media",
+        "fandom_title": "Melty Blood works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_symbols",
+        "fandom_title": "Melty Blood symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_controversies",
+        "fandom_title": "Melty Blood controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_geography",
+        "fandom_title": "Melty Blood geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_legacy",
+        "fandom_title": "Melty Blood legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_practices",
+        "fandom_title": "Melty Blood practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_1",
+        "fandom_title": "Melty Blood entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_2",
+        "fandom_title": "Melty Blood entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_3",
+        "fandom_title": "Melty Blood entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_4",
+        "fandom_title": "Melty Blood entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_5",
+        "fandom_title": "Melty Blood entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_6",
+        "fandom_title": "Melty Blood entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_7",
+        "fandom_title": "Melty Blood entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_8",
+        "fandom_title": "Melty Blood entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_9",
+        "fandom_title": "Melty Blood entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_10",
+        "fandom_title": "Melty Blood entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_11",
+        "fandom_title": "Melty Blood entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_12",
+        "fandom_title": "Melty Blood entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_13",
+        "fandom_title": "Melty Blood entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_14",
+        "fandom_title": "Melty Blood entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_15",
+        "fandom_title": "Melty Blood entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_16",
+        "fandom_title": "Melty Blood entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_17",
+        "fandom_title": "Melty Blood entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_18",
+        "fandom_title": "Melty Blood entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_19",
+        "fandom_title": "Melty Blood entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_20",
+        "fandom_title": "Melty Blood entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_21",
+        "fandom_title": "Melty Blood entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_22",
+        "fandom_title": "Melty Blood entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_23",
+        "fandom_title": "Melty Blood entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "melty-blood-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Melty_Blood_entry_24",
+        "fandom_title": "Melty Blood entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Melty Blood article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:58:09.773Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

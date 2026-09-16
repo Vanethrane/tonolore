@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "montauk-project",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project",
+        "fandom_title": "Montauk Project",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_figures",
+        "fandom_title": "Montauk Project figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_world_&_context",
+        "fandom_title": "Montauk Project world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_places",
+        "fandom_title": "Montauk Project places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_events",
+        "fandom_title": "Montauk Project events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_objects_&_artifacts",
+        "fandom_title": "Montauk Project objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_factions_&_groups",
+        "fandom_title": "Montauk Project factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_concepts",
+        "fandom_title": "Montauk Project concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_eras",
+        "fandom_title": "Montauk Project eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_works_&_media",
+        "fandom_title": "Montauk Project works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_symbols",
+        "fandom_title": "Montauk Project symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_controversies",
+        "fandom_title": "Montauk Project controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_geography",
+        "fandom_title": "Montauk Project geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_legacy",
+        "fandom_title": "Montauk Project legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_practices",
+        "fandom_title": "Montauk Project practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_1",
+        "fandom_title": "Montauk Project entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_2",
+        "fandom_title": "Montauk Project entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_3",
+        "fandom_title": "Montauk Project entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_4",
+        "fandom_title": "Montauk Project entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_5",
+        "fandom_title": "Montauk Project entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_6",
+        "fandom_title": "Montauk Project entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_7",
+        "fandom_title": "Montauk Project entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_8",
+        "fandom_title": "Montauk Project entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_9",
+        "fandom_title": "Montauk Project entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_10",
+        "fandom_title": "Montauk Project entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_11",
+        "fandom_title": "Montauk Project entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_12",
+        "fandom_title": "Montauk Project entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_13",
+        "fandom_title": "Montauk Project entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_14",
+        "fandom_title": "Montauk Project entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_15",
+        "fandom_title": "Montauk Project entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_16",
+        "fandom_title": "Montauk Project entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_17",
+        "fandom_title": "Montauk Project entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_18",
+        "fandom_title": "Montauk Project entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_19",
+        "fandom_title": "Montauk Project entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_20",
+        "fandom_title": "Montauk Project entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_21",
+        "fandom_title": "Montauk Project entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_22",
+        "fandom_title": "Montauk Project entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_23",
+        "fandom_title": "Montauk Project entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "montauk-project-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Montauk_Project_entry_24",
+        "fandom_title": "Montauk Project entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Montauk Project article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:39:09.536Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

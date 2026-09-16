@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "arkham-horror-lcg",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game",
+        "fandom_title": "Arkham Horror: The Card Game",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_figures",
+        "fandom_title": "Arkham Horror: The Card Game figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_world_&_context",
+        "fandom_title": "Arkham Horror: The Card Game world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_places",
+        "fandom_title": "Arkham Horror: The Card Game places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_events",
+        "fandom_title": "Arkham Horror: The Card Game events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_objects_&_artifacts",
+        "fandom_title": "Arkham Horror: The Card Game objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_factions_&_groups",
+        "fandom_title": "Arkham Horror: The Card Game factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_concepts",
+        "fandom_title": "Arkham Horror: The Card Game concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_eras",
+        "fandom_title": "Arkham Horror: The Card Game eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_works_&_media",
+        "fandom_title": "Arkham Horror: The Card Game works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_symbols",
+        "fandom_title": "Arkham Horror: The Card Game symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_controversies",
+        "fandom_title": "Arkham Horror: The Card Game controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_geography",
+        "fandom_title": "Arkham Horror: The Card Game geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_legacy",
+        "fandom_title": "Arkham Horror: The Card Game legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_practices",
+        "fandom_title": "Arkham Horror: The Card Game practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_1",
+        "fandom_title": "Arkham Horror: The Card Game entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_2",
+        "fandom_title": "Arkham Horror: The Card Game entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_3",
+        "fandom_title": "Arkham Horror: The Card Game entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_4",
+        "fandom_title": "Arkham Horror: The Card Game entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_5",
+        "fandom_title": "Arkham Horror: The Card Game entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_6",
+        "fandom_title": "Arkham Horror: The Card Game entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_7",
+        "fandom_title": "Arkham Horror: The Card Game entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_8",
+        "fandom_title": "Arkham Horror: The Card Game entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_9",
+        "fandom_title": "Arkham Horror: The Card Game entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_10",
+        "fandom_title": "Arkham Horror: The Card Game entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_11",
+        "fandom_title": "Arkham Horror: The Card Game entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_12",
+        "fandom_title": "Arkham Horror: The Card Game entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_13",
+        "fandom_title": "Arkham Horror: The Card Game entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_14",
+        "fandom_title": "Arkham Horror: The Card Game entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_15",
+        "fandom_title": "Arkham Horror: The Card Game entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_16",
+        "fandom_title": "Arkham Horror: The Card Game entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_17",
+        "fandom_title": "Arkham Horror: The Card Game entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_18",
+        "fandom_title": "Arkham Horror: The Card Game entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_19",
+        "fandom_title": "Arkham Horror: The Card Game entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_20",
+        "fandom_title": "Arkham Horror: The Card Game entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_21",
+        "fandom_title": "Arkham Horror: The Card Game entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_22",
+        "fandom_title": "Arkham Horror: The Card Game entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_23",
+        "fandom_title": "Arkham Horror: The Card Game entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arkham-horror-lcg-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game_entry_24",
+        "fandom_title": "Arkham Horror: The Card Game entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Arkham Horror: The Card Game article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T17:10:27.268Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

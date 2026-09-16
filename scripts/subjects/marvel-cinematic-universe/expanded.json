@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "marvel-cinematic-universe",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe",
+        "fandom_title": "Marvel Cinematic Universe",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_figures",
+        "fandom_title": "Marvel Cinematic Universe figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_world_&_context",
+        "fandom_title": "Marvel Cinematic Universe world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_places",
+        "fandom_title": "Marvel Cinematic Universe places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_events",
+        "fandom_title": "Marvel Cinematic Universe events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_objects_&_artifacts",
+        "fandom_title": "Marvel Cinematic Universe objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_factions_&_groups",
+        "fandom_title": "Marvel Cinematic Universe factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_concepts",
+        "fandom_title": "Marvel Cinematic Universe concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_eras",
+        "fandom_title": "Marvel Cinematic Universe eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_works_&_media",
+        "fandom_title": "Marvel Cinematic Universe works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_symbols",
+        "fandom_title": "Marvel Cinematic Universe symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_controversies",
+        "fandom_title": "Marvel Cinematic Universe controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_geography",
+        "fandom_title": "Marvel Cinematic Universe geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_legacy",
+        "fandom_title": "Marvel Cinematic Universe legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_practices",
+        "fandom_title": "Marvel Cinematic Universe practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_1",
+        "fandom_title": "Marvel Cinematic Universe entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_2",
+        "fandom_title": "Marvel Cinematic Universe entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_3",
+        "fandom_title": "Marvel Cinematic Universe entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_4",
+        "fandom_title": "Marvel Cinematic Universe entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_5",
+        "fandom_title": "Marvel Cinematic Universe entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_6",
+        "fandom_title": "Marvel Cinematic Universe entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_7",
+        "fandom_title": "Marvel Cinematic Universe entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_8",
+        "fandom_title": "Marvel Cinematic Universe entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_9",
+        "fandom_title": "Marvel Cinematic Universe entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_10",
+        "fandom_title": "Marvel Cinematic Universe entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_11",
+        "fandom_title": "Marvel Cinematic Universe entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_12",
+        "fandom_title": "Marvel Cinematic Universe entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_13",
+        "fandom_title": "Marvel Cinematic Universe entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_14",
+        "fandom_title": "Marvel Cinematic Universe entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_15",
+        "fandom_title": "Marvel Cinematic Universe entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_16",
+        "fandom_title": "Marvel Cinematic Universe entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_17",
+        "fandom_title": "Marvel Cinematic Universe entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_18",
+        "fandom_title": "Marvel Cinematic Universe entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_19",
+        "fandom_title": "Marvel Cinematic Universe entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_20",
+        "fandom_title": "Marvel Cinematic Universe entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_21",
+        "fandom_title": "Marvel Cinematic Universe entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_22",
+        "fandom_title": "Marvel Cinematic Universe entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_23",
+        "fandom_title": "Marvel Cinematic Universe entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marvel-cinematic-universe-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_entry_24",
+        "fandom_title": "Marvel Cinematic Universe entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Marvel Cinematic Universe article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:51:25.962Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

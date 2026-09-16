@@ -1,0 +1,501 @@
+{
+  "enrichments": [
+    {
+      "slug": "commedia-dellarte",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte",
+        "fandom_title": "Commedia dell'arte",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "Commedia dell'arte , ; .}} was an early form of professional theatre, originating from Italian theatre, that was popular throughout Europe between the 16th and 18th centuries. It was formerly called Italian comedy in English and is also known as , , and . is characterized by masked \"types\" which are standardised archetypical characters shared across all productions and identified via their names, costumes, and functions in the comedy.\n\nCommedia was responsible for the rise of actresses such as Isabella Andreini and improvised performances based on sketches or scenarios. A , such as The Tooth Puller, contains both scripted and improvised portions; key plot points and characters' entrances and exits are scripted, but the actors may otherwise be expected to improvise new gags on stage. A special characteristic of is the , a joke or \"something foolish or witty\", usually well known to the performers and to some extent a scripted routine. Another characteristic of is pantomime, which is mostly used by the character Arlecchino, now better known as Harlequin.\n\nThe characters of the usually represent fixed social types and stock characters, such as foolish old men, devious servants, or military officers full of false bravado. Confidenti Troupe, Desioi Troupe, and Fedeli Troupe.\n\nThe genesis of may be related to Carnival in Venice, where the author and actor Andrea Calmo had created the character Il Magnifico, the precursor to the (meaning 'old one' or simply 'old') Pantalone, by 1570. In the Flaminio Scala scenario, for example, Il Magnifico persists and is interchangeable with Pantalone into the 17th century. While Calmo's characters (which also included a Capitano type and a \"il Dottore\" type) were not masked, it is uncertain at what point the characters donned the mask. However, the connection to Carnival (the period between Epiphany and Ash Wednesday) would suggest that masking was a convention of Carnival and was applied at some point. The tradition in northern Italy is centred in Florence, Mantua, and Venice, where the major companies came under the protection of the various dukes. Concomitantly, a Neapolitan tradition emerged in the south and featured the prominent stage figure Pulcinella, which has been long associated with Naples and derived into various types elsewhere—most famously as the puppet character Punch (of the eponymous Punch and Judy shows) in England.",
+      "short_description": "Commedia dell'arte , ; .}} was an early form of professional theatre, originating from Italian theatre, that was popular throughout Europe between the 16th and 18th centuries. It was formerly called Italian comedy in…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Eduardo_De_Filippo.jpg/180px-Eduardo_De_Filippo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Commedia_dell%27arte",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Commedia dell'arte article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Commedia dell'arte"
+    },
+    {
+      "slug": "commedia-dellarte-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_figures",
+        "fandom_title": "Commedia dell'arte figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_world_&_context",
+        "fandom_title": "Commedia dell'arte world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_places",
+        "fandom_title": "Commedia dell'arte places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_events",
+        "fandom_title": "Commedia dell'arte events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_objects_&_artifacts",
+        "fandom_title": "Commedia dell'arte objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_factions_&_groups",
+        "fandom_title": "Commedia dell'arte factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_concepts",
+        "fandom_title": "Commedia dell'arte concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_eras",
+        "fandom_title": "Commedia dell'arte eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_works_&_media",
+        "fandom_title": "Commedia dell'arte works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_symbols",
+        "fandom_title": "Commedia dell'arte symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_controversies",
+        "fandom_title": "Commedia dell'arte controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_geography",
+        "fandom_title": "Commedia dell'arte geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_legacy",
+        "fandom_title": "Commedia dell'arte legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_practices",
+        "fandom_title": "Commedia dell'arte practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_1",
+        "fandom_title": "Commedia dell'arte entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_2",
+        "fandom_title": "Commedia dell'arte entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_3",
+        "fandom_title": "Commedia dell'arte entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_4",
+        "fandom_title": "Commedia dell'arte entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_5",
+        "fandom_title": "Commedia dell'arte entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_6",
+        "fandom_title": "Commedia dell'arte entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_7",
+        "fandom_title": "Commedia dell'arte entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_8",
+        "fandom_title": "Commedia dell'arte entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_9",
+        "fandom_title": "Commedia dell'arte entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_10",
+        "fandom_title": "Commedia dell'arte entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_11",
+        "fandom_title": "Commedia dell'arte entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_12",
+        "fandom_title": "Commedia dell'arte entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_13",
+        "fandom_title": "Commedia dell'arte entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_14",
+        "fandom_title": "Commedia dell'arte entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_15",
+        "fandom_title": "Commedia dell'arte entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_16",
+        "fandom_title": "Commedia dell'arte entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_17",
+        "fandom_title": "Commedia dell'arte entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_18",
+        "fandom_title": "Commedia dell'arte entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_19",
+        "fandom_title": "Commedia dell'arte entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_20",
+        "fandom_title": "Commedia dell'arte entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_21",
+        "fandom_title": "Commedia dell'arte entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_22",
+        "fandom_title": "Commedia dell'arte entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_23",
+        "fandom_title": "Commedia dell'arte entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "commedia-dellarte-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Commedia_dell'arte_entry_24",
+        "fandom_title": "Commedia dell'arte entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Commedia dell'arte article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:51:36.056Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

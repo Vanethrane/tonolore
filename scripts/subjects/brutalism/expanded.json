@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "brutalism",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism",
+        "fandom_title": "Brutalism",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_figures",
+        "fandom_title": "Brutalism figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_world_&_context",
+        "fandom_title": "Brutalism world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_places",
+        "fandom_title": "Brutalism places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_events",
+        "fandom_title": "Brutalism events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_objects_&_artifacts",
+        "fandom_title": "Brutalism objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_factions_&_groups",
+        "fandom_title": "Brutalism factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_concepts",
+        "fandom_title": "Brutalism concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_eras",
+        "fandom_title": "Brutalism eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_works_&_media",
+        "fandom_title": "Brutalism works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_symbols",
+        "fandom_title": "Brutalism symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_controversies",
+        "fandom_title": "Brutalism controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_geography",
+        "fandom_title": "Brutalism geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_legacy",
+        "fandom_title": "Brutalism legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_practices",
+        "fandom_title": "Brutalism practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_1",
+        "fandom_title": "Brutalism entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_2",
+        "fandom_title": "Brutalism entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_3",
+        "fandom_title": "Brutalism entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_4",
+        "fandom_title": "Brutalism entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_5",
+        "fandom_title": "Brutalism entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_6",
+        "fandom_title": "Brutalism entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_7",
+        "fandom_title": "Brutalism entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_8",
+        "fandom_title": "Brutalism entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_9",
+        "fandom_title": "Brutalism entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_10",
+        "fandom_title": "Brutalism entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_11",
+        "fandom_title": "Brutalism entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_12",
+        "fandom_title": "Brutalism entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_13",
+        "fandom_title": "Brutalism entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_14",
+        "fandom_title": "Brutalism entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_15",
+        "fandom_title": "Brutalism entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_16",
+        "fandom_title": "Brutalism entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_17",
+        "fandom_title": "Brutalism entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_18",
+        "fandom_title": "Brutalism entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_19",
+        "fandom_title": "Brutalism entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_20",
+        "fandom_title": "Brutalism entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_21",
+        "fandom_title": "Brutalism entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_22",
+        "fandom_title": "Brutalism entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_23",
+        "fandom_title": "Brutalism entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brutalism-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Brutalism_entry_24",
+        "fandom_title": "Brutalism entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Brutalism article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:23:33.869Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

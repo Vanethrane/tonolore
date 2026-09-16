@@ -1,0 +1,592 @@
+{
+  "enrichments": [
+    {
+      "slug": "the-x-files",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files",
+        "fandom_title": "The X-Files",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "The X-Files is an American science fiction drama television series created by Chris Carter. The original series aired from September 10, 1993, to May 19, 2002, on Fox, spanning nine seasons, with 202 episodes. A tenth season of six episodes ran from January to February 2016. Following the ratings success of this revival, The X-Files returned for an eleventh season of ten episodes, which ran from January to March 2018. In addition to the television series, two feature films have been released: the 1998 film The X-Files and the stand-alone film The X-Files: I Want to Believe, released in 2008, six years after the original television run ended.\n\nThe series revolves around Federal Bureau of Investigation (FBI) Special Agents Fox Mulder (David Duchovny) and Dana Scully (Gillian Anderson), who investigate the eponymous \"X-Files\": marginalized, unsolved cases involving paranormal phenomena. Mulder is a skilled criminal profiler, an ardent supernaturalist, and a conspiracy theorist who believes in the existence of the paranormal, whereas Scully is a medical doctor and skeptic who has been assigned to scientifically analyze Mulder's case files. Early in the series, both agents apparently become pawns in a much larger conflict and come to trust only each other and select others. The agents discover what appears to be a governmental agenda to hide evidence of extraterrestrial life. Mulder and Scully's shared adventures initially lead them to develop a close platonic bond, which develops into a complex romantic relationship. Roughly one third of the series' episodes follow a complicated mythopoeia-driven story arc about a planned alien invasion, whereas the other two-thirds may be described as \"monster of the week\" episodes that focus on a single villain, mutant, or monster.\n\nThe X-Files was inspired by earlier television series featuring elements of suspense, horror, and speculative science fiction, including The Twilight Zone, Night Gallery, Tales from the Darkside, Twin Peaks, and especially Kolchak: The Night Stalker. When creating the main characters, Carter sought to reverse gender stereotypes by making Mulder a believer and Scully a skeptic. The first seven seasons featured Duchovny and Anderson relatively equally. In the eighth and ninth seasons, Anderson took precedence while Duchovny appeared intermittently. New main characters were introduced: FBI Special Agents John Doggett (Robert Patrick) and Monica Reyes (Annabeth Gish), among others. Mulder and Scully's immediate superior, Assistant Director Walter Skinner (Mitch Pileggi), began to appear regularly. The first five seasons of The X-Files were filmed in Vancouver, British Columbia, before production eventually moved to Los Angeles, apparently to accommodate Duchovny's schedule. However, the series later returned to Vancouver with the filming of The X-Files: I Want to Believe as well as the tenth and eleventh seasons.",
+      "short_description": "The X-Files is an American science fiction drama television series created by Chris Carter. The original series aired from September 10, 1993, to May 19, 2002, on Fox, spanning nine seasons, with 202 episodes. A tenth…"
+    },
+    {
+      "slug": "the-x-files-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_figures",
+        "fandom_title": "The X-Files figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_world_&_context",
+        "fandom_title": "The X-Files world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_places",
+        "fandom_title": "The X-Files places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_events",
+        "fandom_title": "The X-Files events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_objects_&_artifacts",
+        "fandom_title": "The X-Files objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_factions_&_groups",
+        "fandom_title": "The X-Files factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_concepts",
+        "fandom_title": "The X-Files concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_eras",
+        "fandom_title": "The X-Files eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_works_&_media",
+        "fandom_title": "The X-Files works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_symbols",
+        "fandom_title": "The X-Files symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_controversies",
+        "fandom_title": "The X-Files controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_geography",
+        "fandom_title": "The X-Files geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_legacy",
+        "fandom_title": "The X-Files legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_practices",
+        "fandom_title": "The X-Files practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_1",
+        "fandom_title": "The X-Files entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_2",
+        "fandom_title": "The X-Files entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_3",
+        "fandom_title": "The X-Files entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_4",
+        "fandom_title": "The X-Files entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_5",
+        "fandom_title": "The X-Files entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_6",
+        "fandom_title": "The X-Files entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_7",
+        "fandom_title": "The X-Files entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_8",
+        "fandom_title": "The X-Files entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_9",
+        "fandom_title": "The X-Files entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_10",
+        "fandom_title": "The X-Files entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_11",
+        "fandom_title": "The X-Files entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_12",
+        "fandom_title": "The X-Files entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_13",
+        "fandom_title": "The X-Files entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_14",
+        "fandom_title": "The X-Files entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_15",
+        "fandom_title": "The X-Files entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_16",
+        "fandom_title": "The X-Files entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_17",
+        "fandom_title": "The X-Files entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_18",
+        "fandom_title": "The X-Files entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_19",
+        "fandom_title": "The X-Files entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_20",
+        "fandom_title": "The X-Files entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_21",
+        "fandom_title": "The X-Files entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_22",
+        "fandom_title": "The X-Files entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_23",
+        "fandom_title": "The X-Files entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-x-files-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_X-Files_entry_24",
+        "fandom_title": "The X-Files entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "cigarette-smoking-man",
+      "name": "Cigarette Smoking Man",
+      "type": "person",
+      "description": "The Cigarette Smoking Man (abbreviated CSM or C-Man; sometimes referred to as Cancer Man or the Smoking Man) is a fictional character and one of the primary antagonists of the American science fiction drama television series The X-Files. He serves as the arch-nemesis of FBI Special Agent Fox Mulder. In the show's sixth season, his name is said to be C.G.B. Spender, but Dana Scully suggests this is one of \"hundreds of aliases\"; the show's characters and fans continue to refer to him by variations of \"the Smoking Man\" because he is almost always seen chain-smoking Morley cigarettes, and because he was credited in the pilot episode and other episodes (such as the season 1 finale) as \"Smoking Man\". In the eleventh season, his soliloquy reveals his full birth name to be Carl Gerhard Busch, though whether he has any meaningful \"real\" identity in his later life outside of the Smoking Man persona is unclear.\n\nAlthough he utters only four audible words in the entire first season of the show, the Smoking Man eventually develops into the series' primary antagonist. In his early appearances, he is seen in the offices of Section Chief Scott Blevins and Assistant Director Walter Skinner, Mulder and his partner Dana Scully's supervisors. An influential man working for the powers that be, he is a key member in a government-conspiracy unit known only as the Syndicate, who are hiding the truth of alien existence and their plan to colonize Earth. His power and influence remain strong, even after most of the Syndicate is destroyed.\n\nThe Smoking Man is portrayed by Canadian actor William B. Davis. When Davis first took the role, the character was written as an extra for the pilot episode. He returned for small cameo appearances during the first season, making increasingly more appearances in the seasons that followed. Davis never received an award for his portrayal alone, but he was nominated for ensemble awards.\n\nTV Guide included him in their 2013 list of The 60 Nastiest Villains of All Time.",
+      "short_description": "The Cigarette Smoking Man (abbreviated CSM or C-Man; sometimes referred to as Cancer Man or the Smoking Man) is a fictional character and one of the primary antagonists of the American science fiction drama television…",
+      "evidence": "fiction",
+      "parentSlug": "the-x-files-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cigarette_Smoking_Man",
+        "fandom_title": "Cigarette Smoking Man",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "colonist-the-x-files",
+      "name": "Colonist",
+      "type": "person",
+      "description": "The Colonists are an extraterrestrial species and are also the primary group of antagonists in the science fiction television show The X-Files as well as the first X-Files feature film. The mystery revolving around their identity and purpose is slowly revealed across the course of the series. In the series' plot, the Colonists are collaborating with a group of United States government officials known as the Syndicate in a plan to colonize the Earth, hence their name.\n\nAccording to the series mythology, an extraterrestrial lifeform, known in the series' mythology simply as the Colonists, were originally present on Earth in the early stages of human evolution. They highly resemble the well-known \"grey aliens\" in their mature form. In their immature stage, they are more yellowish-colored, tall, and very aggressive, possessing fangs, claws and scale-like texture of their skin. This immature form is a protective stage, able to viciously defend itself from birth. This outer skin is eventually shed when the alien develops into its mature form. The immature form resembles that of a reptilian extraterrestrial and is referred to as the \"long-clawed\" form.\n\nThe aliens were forced to abandon the planet during the last ice age as their viral form is deactivated by extreme cold. Upon their departure, they left behind underground deposits of the black oil virus, in preparation for their return. The virus apparently contains the aliens' genetic blueprints, awaiting reconstitution when the master species returns to Earth. While away from Earth, the Colonists evidently sought out life throughout the universe in an effort to subdue other species and take over the universe. The Colonists eventually returned to Earth in 1947 when one of their ships crashed in New Mexico due to exposure to magnetite in the surrounding rocks. Shortly after this event, a select few power brokers, mainly in the United States and the Soviet Union (though some also came from other nations), first learned of the Colonist plot to retake the planet. These men eventually formed the Syndicate; they included the Well-Manicured Man (John Neville), The Smoking Man, and Bill Mulder (Peter Donat), among others.",
+      "short_description": "The Colonists are an extraterrestrial species and are also the primary group of antagonists in the science fiction television show The X-Files as well as the first X-Files feature film. The mystery revolving around…",
+      "evidence": "fiction",
+      "parentSlug": "the-x-files-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Colonist_(The_X-Files)",
+        "fandom_title": "Colonist (The X-Files)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marita-covarrubias",
+      "name": "Marita Covarrubias",
+      "type": "person",
+      "description": "Marita Covarrubias is a fictional character on the American science fiction television series The X-Files. She was initially introduced as an informant, leaking diplomatic information to FBI Special Agent Fox Mulder to aid his investigation of paranormal cases, dubbed X-Files. However, she was revealed to be an agent of the secretive Syndicate, although ultimately betraying that organization on several occasions. Introduced in the fourth season opener \"Herrenvolk\", the character remained a recurring presence until the series' finale, \"The Truth\".\n\nThe character of Marita Covarrubias was portrayed by Laurie Holden in all her appearances. She was introduced as a replacement for Steven Williams' character X, after the latter was killed by a Syndicate assassin. The character has received mixed criticism, being compared unfavorably to similar characters from the series.\n\nThe X-Files creator Chris Carter felt it would be \"more interesting for Mulder's next contact to be a woman\", noting that he \"wanted there to be some suspicion about whether Mulder would become involved with her romantically. X, the character who had previously filled Covarrubias' role as an informant in the series, had originally been cast as a female character. However Natalija Nogulich, the actress cast in that role, was replaced by Steven Williams after shooting her first scene.\n\nWhen auditioning for the role of Marita Covarrubias, Laurie Holden was not allowed access to an episode script, instead simply being told that her character worked for the United Nations and had an air of \"intelligent seriousness\". The actress had never seen the series before she auditioned for the part, and was required to audition using only three pages of scripted material from what would be her debut episode. The voice coach responsible for instructing Holden and Nicholas Lea in their Russian dialogue tested their proficiency by asking them to speak to Russian-speaking friends of his over the telephone. Holden felt that the two-part episode \"Two Fathers\" and \"One Son\" offered her \"cold, emotionless, private\" character a chance to come across as \"vulnerable, exposed and raw\".",
+      "short_description": "Marita Covarrubias is a fictional character on the American science fiction television series The X-Files. She was initially introduced as an informant, leaking diplomatic information to FBI Special Agent Fox Mulder to…",
+      "evidence": "fiction",
+      "parentSlug": "the-x-files-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Marita_Covarrubias",
+        "fandom_title": "Marita Covarrubias",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "cigarette-smoking-man",
+      "the-x-files-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "colonist-the-x-files",
+      "the-x-files-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "marita-covarrubias",
+      "the-x-files-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. The X-Files article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:54:05.184Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 1,
+    "fandom_enriched_core": 0,
+    "fandom_created": 1,
+    "fandom_images": 0,
+    "fandom_intros": 1,
+    "description_ensure_at": "2026-09-14T01:25:12.907Z",
+    "description_ensure_count": 1
+  }
+}

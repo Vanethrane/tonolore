@@ -1,0 +1,104 @@
+{
+  "enrichments": [
+    {
+      "slug": "peanuts-comics",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peanuts",
+        "fandom_title": "Peanuts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "Peanuts (subtitled featuring \"Good ol' Charlie Brown\" until January 1, 1987) is a syndicated daily and Sunday American comic strip written and illustrated by Charles M. Schulz, which eventually expanded into a media franchise. The strip originally ran from October 2, 1950 to February 13, 2000, continuing in reruns afterward. Peanuts is regarded as one of the most popular and influential comic strips in history, with 17,897 strips published in all, making it \"arguably the longest story ever told by one human being\". At the time of Schulz's death in 2000, Peanuts ran in over 2,600 newspapers, with a readership of roughly 355&nbsp;million across 75 countries, and had been translated into 21 languages. It helped to cement the four-panel gag strip as the standard in the United States, and together with its merchandise earned Schulz more than $1&nbsp;billion. Following successful animated television and stage-theatrical adaptations over the years, five animated theatrical films have been released. It is also one of the highest-grossing media franchises of all time.\n\nPeanuts focuses on a social circle of young children, where adults exist but are rarely seen or heard. The main character, Charlie Brown, is meek, nervous, and lacks self-confidence. He cannot fly a kite, win a baseball game, or kick a football held by his irascible friend Lucy Van Pelt, who always pulls it away at the last instant. Peanuts is a literary strip with philosophical, psychological, and sociological overtones, which was innovative in the 1950s. Its humor is psychologically complex and driven by the characters' interactions and relationships.\n\nSchulz drew every strip, through nearly 50 years, with no assistants, including the lettering and coloring process.\n\nPeanuts was originally titled Li'l Folks, a weekly panel cartoon that appeared in the St. Paul Pioneer Press (Schulz's hometown newspaper) from 1947 to 1950. Li'l Folks marked the first appearance of the name \"Charlie Brown\", also featuring a dog that looked much like the early 1950s version of Snoopy.",
+      "short_description": "Peanuts (subtitled featuring \"Good ol' Charlie Brown\" until January 1, 1987) is a syndicated daily and Sunday American comic strip written and illustrated by Charles M. Schulz, which eventually expanded into a media…"
+    },
+    {
+      "slug": "peanuts-comics-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peanuts_figures",
+        "fandom_title": "Peanuts figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "peanuts-comics-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Peanuts_world_&_context",
+        "fandom_title": "Peanuts world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "peanut",
+      "name": "Peanut",
+      "type": "topic",
+      "description": "The peanut (Arachis hypogaea), also known as the groundnut, goober (US, via Kikongo), goober pea, pindar (US, via Kikongo) or monkey nut (UK), is a legume crop grown mainly for its edible seeds, contained in underground pods. It is widely grown in the tropics and subtropics by small and large commercial producers, both as a grain legume{{cite book |last=Hymowitz |first=Theodore |chapter=Grain Legumes |chapter-url=https://www.hort.purdue.edu/newcrop/proceedings1990/V1-154.html |editor-last1=Janick |editor-first1=J. |editor-last2=Simon |editor-first2=J. E. |year=1990 |title=Advances in new crops |location=Portland, Oregon |publisher=Timber Press |pages=54–57\n\nThe peanut belongs to the flowering plant family Fabaceae (or Leguminosae), commonly known as the pea family, and is native to South America. Like most other legumes, peanuts harbor symbiotic nitrogen-fixing bacteria in root nodules, which improve soil fertility, making them valuable in crop rotations.\n\nEdible products include peanut oil and peanut butter. Peanut sauces are used in Latin America and Southeast Asia, while in the Indian subcontinent, they are added to salads and stews. In North America, peanuts are used in candies, cakes, and cookies, while peanut butter is widely eaten. Some people are allergic to peanuts and can have a fatal reaction.\n\nThe plant tops are used for silage, while oilcake meal is used as animal feed and as a fertilizer. Industrial uses include paint, varnish, and furniture polish made with peanut oil.",
+      "short_description": "The peanut (Arachis hypogaea), also known as the groundnut, goober (US, via Kikongo), goober pea, pindar (US, via Kikongo) or monkey nut (UK), is a legume crop grown mainly for its edible seeds, contained in underground…",
+      "evidence": "fiction",
+      "parentSlug": "peanuts-comics",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Arachis_hypogaea_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-163.jpg/180px-Arachis_hypogaea_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-163.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Peanut",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Peanuts article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Peanut",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Peanut",
+        "fandom_title": "Peanut",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "peanut",
+      "peanuts-comics",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Peanuts article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:58:56.422Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0,
+    "description_ensure_at": "2026-09-14T06:39:10.825Z",
+    "description_ensure_count": 1
+  }
+}

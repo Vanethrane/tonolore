@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "ecology-ecosystems",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems",
+        "fandom_title": "Ecology & ecosystems",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_figures",
+        "fandom_title": "Ecology & ecosystems figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_world_&_context",
+        "fandom_title": "Ecology & ecosystems world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_places",
+        "fandom_title": "Ecology & ecosystems places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_events",
+        "fandom_title": "Ecology & ecosystems events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_objects_&_artifacts",
+        "fandom_title": "Ecology & ecosystems objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_factions_&_groups",
+        "fandom_title": "Ecology & ecosystems factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_concepts",
+        "fandom_title": "Ecology & ecosystems concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_eras",
+        "fandom_title": "Ecology & ecosystems eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_works_&_media",
+        "fandom_title": "Ecology & ecosystems works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_symbols",
+        "fandom_title": "Ecology & ecosystems symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_controversies",
+        "fandom_title": "Ecology & ecosystems controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_geography",
+        "fandom_title": "Ecology & ecosystems geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_legacy",
+        "fandom_title": "Ecology & ecosystems legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_practices",
+        "fandom_title": "Ecology & ecosystems practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_1",
+        "fandom_title": "Ecology & ecosystems entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_2",
+        "fandom_title": "Ecology & ecosystems entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_3",
+        "fandom_title": "Ecology & ecosystems entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_4",
+        "fandom_title": "Ecology & ecosystems entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_5",
+        "fandom_title": "Ecology & ecosystems entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_6",
+        "fandom_title": "Ecology & ecosystems entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_7",
+        "fandom_title": "Ecology & ecosystems entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_8",
+        "fandom_title": "Ecology & ecosystems entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_9",
+        "fandom_title": "Ecology & ecosystems entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_10",
+        "fandom_title": "Ecology & ecosystems entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_11",
+        "fandom_title": "Ecology & ecosystems entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_12",
+        "fandom_title": "Ecology & ecosystems entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_13",
+        "fandom_title": "Ecology & ecosystems entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_14",
+        "fandom_title": "Ecology & ecosystems entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_15",
+        "fandom_title": "Ecology & ecosystems entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_16",
+        "fandom_title": "Ecology & ecosystems entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_17",
+        "fandom_title": "Ecology & ecosystems entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_18",
+        "fandom_title": "Ecology & ecosystems entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_19",
+        "fandom_title": "Ecology & ecosystems entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_20",
+        "fandom_title": "Ecology & ecosystems entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_21",
+        "fandom_title": "Ecology & ecosystems entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_22",
+        "fandom_title": "Ecology & ecosystems entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_23",
+        "fandom_title": "Ecology & ecosystems entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ecology-ecosystems-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Ecology_&_ecosystems_entry_24",
+        "fandom_title": "Ecology & ecosystems entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Ecology & ecosystems article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:38:01.037Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,0 +1,502 @@
+{
+  "enrichments": [
+    {
+      "slug": "roswell-incident",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident",
+        "fandom_title": "Roswell incident",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "Debris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging that the United States military recovered a crashed extraterrestrial spacecraft. After metallic and rubber debris was recovered by Roswell Army Air Field personnel, the United States Army Air Forces announced possession of a \"flying disc\". This announcement made international headlines, but was retracted within a day. The debris was from a complex and uncrewed military balloon train consisting of linked balloons and assorted equipment, operated from the nearby Alamogordo Army Air Field as part of the top-secret Project Mogul, a program intended to detect Soviet nuclear tests. To obscure the purpose and source of the debris, the army reported that it was merely a conventional weather balloon.\n\nIn 1978, retired United States Air Force officer Jesse Marcel claimed that the Army's weather balloon claim had been a cover story, and speculated that the debris was of extraterrestrial origin. Popularized by the 1980 book The Roswell Incident, this speculation became the basis for long-lasting and increasingly complex and contradictory conspiracy theories, which over time expanded the incident to include governments concealing evidence of extraterrestrial beings, grey aliens, multiple crashed flying saucers, alien corpses and autopsies, and the reverse engineering of extraterrestrial technology, none of which have any factual basis.\n\nIn the 1990s, the Air Force published multiple reports which established that the incident was related to Project Mogul, and not debris from a UFO. Despite this and a general lack of evidence, many UFO proponents claim that the Roswell debris was in fact derived from an alien craft, and accuse the US government of a cover-up. The conspiracy narrative has become a trope in science fiction literature, film, and television. The town of Roswell promotes itself as a destination for UFO-associated tourism.\n\nBy 1947, the United States had launched thousands of top-secret Project Mogul balloons carrying devices to listen for Soviet atomic tests. Later that month, Brazel discovered tinfoil, rubber, tape, and thin wooden beams scattered across several acres of the ranch.",
+      "short_description": "Debris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging that the United States military recovered a crashed extraterrestrial spacecraft. After metallic and…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Roswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Top_of_front_page.jpg/180px-Roswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Top_of_front_page.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Roswell_incident",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Roswell incident article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Roswell incident"
+    },
+    {
+      "slug": "roswell-incident-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_figures",
+        "fandom_title": "Roswell incident figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_world_&_context",
+        "fandom_title": "Roswell incident world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_places",
+        "fandom_title": "Roswell incident places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_events",
+        "fandom_title": "Roswell incident events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_objects_&_artifacts",
+        "fandom_title": "Roswell incident objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_factions_&_groups",
+        "fandom_title": "Roswell incident factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_concepts",
+        "fandom_title": "Roswell incident concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_eras",
+        "fandom_title": "Roswell incident eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_works_&_media",
+        "fandom_title": "Roswell incident works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_symbols",
+        "fandom_title": "Roswell incident symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_controversies",
+        "fandom_title": "Roswell incident controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_geography",
+        "fandom_title": "Roswell incident geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_legacy",
+        "fandom_title": "Roswell incident legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_practices",
+        "fandom_title": "Roswell incident practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_1",
+        "fandom_title": "Roswell incident entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_2",
+        "fandom_title": "Roswell incident entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_3",
+        "fandom_title": "Roswell incident entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_4",
+        "fandom_title": "Roswell incident entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_5",
+        "fandom_title": "Roswell incident entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_6",
+        "fandom_title": "Roswell incident entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_7",
+        "fandom_title": "Roswell incident entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_8",
+        "fandom_title": "Roswell incident entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_9",
+        "fandom_title": "Roswell incident entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_10",
+        "fandom_title": "Roswell incident entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_11",
+        "fandom_title": "Roswell incident entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_12",
+        "fandom_title": "Roswell incident entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_13",
+        "fandom_title": "Roswell incident entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_14",
+        "fandom_title": "Roswell incident entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_15",
+        "fandom_title": "Roswell incident entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_16",
+        "fandom_title": "Roswell incident entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_17",
+        "fandom_title": "Roswell incident entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_18",
+        "fandom_title": "Roswell incident entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_19",
+        "fandom_title": "Roswell incident entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_20",
+        "fandom_title": "Roswell incident entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_21",
+        "fandom_title": "Roswell incident entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_22",
+        "fandom_title": "Roswell incident entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_23",
+        "fandom_title": "Roswell incident entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "roswell-incident-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Roswell_incident_entry_24",
+        "fandom_title": "Roswell incident entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Roswell incident article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:35:23.195Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

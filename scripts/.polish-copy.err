@@ -1,0 +1,12 @@
+[polish] skinwalker-ranch failed: EPERM: operation not permitted, rename 'C:\Users\tknvrs\tonolore\tonolore\scripts\.polish-copy-state.json.23072.tmp' -> 'C:\Users\tknvrs\tonolore\tonolore\scripts\.polish-copy-state.json'
+[polish] fatal: Error: EPERM: operation not permitted, rename 'C:\Users\tknvrs\tonolore\tonolore\scripts\.polish-copy-state.json.23072.tmp' -> 'C:\Users\tknvrs\tonolore\tonolore\scripts\.polish-copy-state.json'
+    at Object.renameSync (node:fs:1013:11)
+    at saveState (C:\Users\tknvrs\tonolore\tonolore\scripts\maintenance\polishPageCopy.js:68:8)
+    at main (C:\Users\tknvrs\tonolore\tonolore\scripts\maintenance\polishPageCopy.js:276:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5) {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'C:\\Users\\tknvrs\\tonolore\\tonolore\\scripts\\.polish-copy-state.json.23072.tmp',
+  dest: 'C:\\Users\\tknvrs\\tonolore\\tonolore\\scripts\\.polish-copy-state.json'
+}

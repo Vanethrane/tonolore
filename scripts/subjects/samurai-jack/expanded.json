@@ -1,0 +1,495 @@
+{
+  "enrichments": [
+    {
+      "slug": "samurai-jack",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack",
+        "fandom_title": "Samurai Jack",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "Samurai Jack is an American animated science fantasy action-adventure television series created by Genndy Tartakovsky for Cartoon Network and later its nighttime programming block Adult Swim. It was produced by Cartoon Network Studios. Tartakovsky conceived Samurai Jack after finishing his work on his first Cartoon Network original series, Dexter's Laboratory, which premiered in 1996. Samurai Jack took inspiration from the 1972 televised drama Kung Fu, starring David Carradine, as well as Tartakovsky's fascination with the historic samurai culture of Japan and the Frank Miller comic series Ronin.\n\nThe titular character is an unnamed Japanese samurai prince who wields a mystic katana capable of cutting through virtually anything. He sets out to free his kingdom after it is taken over by an evil, shapeshifting demon lord known as Aku. The two engage in a fierce battle, but just as the prince is about to deliver the final strike, Aku sends him forward in time to a dystopian future ruled by the tyrannical demon. Adopting the name \"Jack\" after being addressed as such by beings in this time period, he quests to travel back to his own time and defeat Aku before he can take over the world. Jack's search for a way back to his own time period transcends Aku's control, but Jack's efforts are largely in vain due to the way back to his home ending up just out of his reach.\n\nThe series was initially broadcast from August 10, 2001, to September 25, 2004, airing for four seasons comprising thirteen episodes each, without concluding its overarching story. The show was revived thirteen years later with a darker, more mature fifth season that provided a conclusion to the series, with Williams Street assisting in production; the fifth season premiered on Cartoon Network's Adult Swim as part of its Toonami programming block on March 11, 2017, and concluded with its final episode on May 20, 2017. Episodes were directed by Tartakovsky, often in collaboration with others.\n\nSamurai Jack won eight Primetime Emmy Awards, including Outstanding Animated Program, as well as six Annie Awards and an OIAF Award. It is widely considered to be one of the greatest animated series of all time.",
+      "short_description": "Samurai Jack is an American animated science fantasy action-adventure television series created by Genndy Tartakovsky for Cartoon Network and later its nighttime programming block Adult Swim. It was produced by Cartoon…"
+    },
+    {
+      "slug": "samurai-jack-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_figures",
+        "fandom_title": "Samurai Jack figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_world_&_context",
+        "fandom_title": "Samurai Jack world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_places",
+        "fandom_title": "Samurai Jack places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_events",
+        "fandom_title": "Samurai Jack events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_objects_&_artifacts",
+        "fandom_title": "Samurai Jack objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_factions_&_groups",
+        "fandom_title": "Samurai Jack factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_concepts",
+        "fandom_title": "Samurai Jack concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_eras",
+        "fandom_title": "Samurai Jack eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_works_&_media",
+        "fandom_title": "Samurai Jack works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_symbols",
+        "fandom_title": "Samurai Jack symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_controversies",
+        "fandom_title": "Samurai Jack controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_geography",
+        "fandom_title": "Samurai Jack geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_legacy",
+        "fandom_title": "Samurai Jack legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_practices",
+        "fandom_title": "Samurai Jack practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_1",
+        "fandom_title": "Samurai Jack entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_2",
+        "fandom_title": "Samurai Jack entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_3",
+        "fandom_title": "Samurai Jack entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_4",
+        "fandom_title": "Samurai Jack entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_5",
+        "fandom_title": "Samurai Jack entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_6",
+        "fandom_title": "Samurai Jack entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_7",
+        "fandom_title": "Samurai Jack entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_8",
+        "fandom_title": "Samurai Jack entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_9",
+        "fandom_title": "Samurai Jack entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_10",
+        "fandom_title": "Samurai Jack entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_11",
+        "fandom_title": "Samurai Jack entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_12",
+        "fandom_title": "Samurai Jack entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_13",
+        "fandom_title": "Samurai Jack entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_14",
+        "fandom_title": "Samurai Jack entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_15",
+        "fandom_title": "Samurai Jack entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_16",
+        "fandom_title": "Samurai Jack entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_17",
+        "fandom_title": "Samurai Jack entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_18",
+        "fandom_title": "Samurai Jack entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_19",
+        "fandom_title": "Samurai Jack entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_20",
+        "fandom_title": "Samurai Jack entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_21",
+        "fandom_title": "Samurai Jack entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_22",
+        "fandom_title": "Samurai Jack entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_23",
+        "fandom_title": "Samurai Jack entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "samurai-jack-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Samurai_Jack_entry_24",
+        "fandom_title": "Samurai Jack entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Samurai Jack article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:22:44.391Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

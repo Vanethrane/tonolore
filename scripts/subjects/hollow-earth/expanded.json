@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "hollow-earth",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories",
+        "fandom_title": "Hollow Earth theories",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_figures",
+        "fandom_title": "Hollow Earth theories figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_world_&_context",
+        "fandom_title": "Hollow Earth theories world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_places",
+        "fandom_title": "Hollow Earth theories places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_events",
+        "fandom_title": "Hollow Earth theories events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_objects_&_artifacts",
+        "fandom_title": "Hollow Earth theories objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_factions_&_groups",
+        "fandom_title": "Hollow Earth theories factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_concepts",
+        "fandom_title": "Hollow Earth theories concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_eras",
+        "fandom_title": "Hollow Earth theories eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_works_&_media",
+        "fandom_title": "Hollow Earth theories works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_symbols",
+        "fandom_title": "Hollow Earth theories symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_controversies",
+        "fandom_title": "Hollow Earth theories controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_geography",
+        "fandom_title": "Hollow Earth theories geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_legacy",
+        "fandom_title": "Hollow Earth theories legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_practices",
+        "fandom_title": "Hollow Earth theories practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_1",
+        "fandom_title": "Hollow Earth theories entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_2",
+        "fandom_title": "Hollow Earth theories entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_3",
+        "fandom_title": "Hollow Earth theories entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_4",
+        "fandom_title": "Hollow Earth theories entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_5",
+        "fandom_title": "Hollow Earth theories entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_6",
+        "fandom_title": "Hollow Earth theories entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_7",
+        "fandom_title": "Hollow Earth theories entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_8",
+        "fandom_title": "Hollow Earth theories entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_9",
+        "fandom_title": "Hollow Earth theories entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_10",
+        "fandom_title": "Hollow Earth theories entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_11",
+        "fandom_title": "Hollow Earth theories entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_12",
+        "fandom_title": "Hollow Earth theories entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_13",
+        "fandom_title": "Hollow Earth theories entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_14",
+        "fandom_title": "Hollow Earth theories entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_15",
+        "fandom_title": "Hollow Earth theories entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_16",
+        "fandom_title": "Hollow Earth theories entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_17",
+        "fandom_title": "Hollow Earth theories entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_18",
+        "fandom_title": "Hollow Earth theories entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_19",
+        "fandom_title": "Hollow Earth theories entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_20",
+        "fandom_title": "Hollow Earth theories entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_21",
+        "fandom_title": "Hollow Earth theories entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_22",
+        "fandom_title": "Hollow Earth theories entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_23",
+        "fandom_title": "Hollow Earth theories entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hollow-earth-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Hollow_Earth_theories_entry_24",
+        "fandom_title": "Hollow Earth theories entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Hollow Earth theories article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:39:22.699Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

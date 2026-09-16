@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "back-to-the-future",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future",
+        "fandom_title": "Back to the Future",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_figures",
+        "fandom_title": "Back to the Future figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_world_&_context",
+        "fandom_title": "Back to the Future world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_places",
+        "fandom_title": "Back to the Future places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_events",
+        "fandom_title": "Back to the Future events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_objects_&_artifacts",
+        "fandom_title": "Back to the Future objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_factions_&_groups",
+        "fandom_title": "Back to the Future factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_concepts",
+        "fandom_title": "Back to the Future concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_eras",
+        "fandom_title": "Back to the Future eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_works_&_media",
+        "fandom_title": "Back to the Future works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_symbols",
+        "fandom_title": "Back to the Future symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_controversies",
+        "fandom_title": "Back to the Future controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_geography",
+        "fandom_title": "Back to the Future geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_legacy",
+        "fandom_title": "Back to the Future legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_practices",
+        "fandom_title": "Back to the Future practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_1",
+        "fandom_title": "Back to the Future entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_2",
+        "fandom_title": "Back to the Future entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_3",
+        "fandom_title": "Back to the Future entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_4",
+        "fandom_title": "Back to the Future entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_5",
+        "fandom_title": "Back to the Future entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_6",
+        "fandom_title": "Back to the Future entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_7",
+        "fandom_title": "Back to the Future entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_8",
+        "fandom_title": "Back to the Future entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_9",
+        "fandom_title": "Back to the Future entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_10",
+        "fandom_title": "Back to the Future entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_11",
+        "fandom_title": "Back to the Future entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_12",
+        "fandom_title": "Back to the Future entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_13",
+        "fandom_title": "Back to the Future entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_14",
+        "fandom_title": "Back to the Future entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_15",
+        "fandom_title": "Back to the Future entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_16",
+        "fandom_title": "Back to the Future entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_17",
+        "fandom_title": "Back to the Future entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_18",
+        "fandom_title": "Back to the Future entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_19",
+        "fandom_title": "Back to the Future entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_20",
+        "fandom_title": "Back to the Future entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_21",
+        "fandom_title": "Back to the Future entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_22",
+        "fandom_title": "Back to the Future entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_23",
+        "fandom_title": "Back to the Future entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "back-to-the-future-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Back_to_the_Future_entry_24",
+        "fandom_title": "Back to the Future entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Back to the Future article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:48:30.793Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

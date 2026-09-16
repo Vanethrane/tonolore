@@ -1,0 +1,597 @@
+{
+  "enrichments": [
+    {
+      "slug": "stargate-franchise",
+      "description": "Stargate is a military science fiction media franchise owned by Amazon MGM Studios. It is based on the film directed by Roland Emmerich, which he co-wrote with producer Dean Devlin; production company StudioCanal owns the rights to the original film. The franchise is based on the idea of an alien wormhole (specifically an Einstein–Rosen bridge) device (the Stargate) that enables nearly instantaneous travel across the cosmos. The franchise began with the film Stargate, released on October 28, 1994, by Metro-Goldwyn-Mayer and Carolco, which grossed US$197 million worldwide. In 1997, Brad Wright and Jonathan Glassner created a television series titled Stargate SG-1 as a sequel to the film. This show was joined by Stargate Atlantis in 2004, Stargate Universe in 2009, and a prequel web series, Stargate Origins, in 2018. Also consistent with the same story are a variety of books, video games and comic books, as well as the direct-to-DVD movies Stargate: Children of the Gods, Stargate: The Ark of Truth, and Stargate: Continuum, which concluded the first television show after 10 seasons.\n\nIn 2011, Stargate Universe, the last Stargate program on television, ended its run. Brad Wright announced that there were no more plans to continue the same story in further productions. In 2016, comic publisher American Mythology acquired the rights to publish new Stargate Atlantis stories set within the established franchise canon. This was expanded in 2017 to include new Stargate Universe comics as well, resolving the cliffhanger that ended the show. The predominant story arc thus ran for more than 15 years, including 18 seasons (364 episodes) of programming, and 22 comic book issues as of January 2020. However, a variety of other media either ignore this main continuity or reset it, while maintaining essential elements that define the franchise (mainly, the inclusion of a Stargate device). These include the 2002 animated series Stargate Infinity.",
+      "short_description": "Stargate is a military science fiction media franchise owned by Amazon MGM Studios. It is based on the film directed by Roland Emmerich, which he co-wrote with producer Dean Devlin; production company StudioCanal owns…",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate",
+        "fandom_title": "Stargate",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "carson-beckett",
+      "description": "Dr. Carson Beckett is a fictional Scottish character in the 2004 Canadian-American science fiction television series Stargate Atlantis, a spin-off series of Stargate SG-1. He is portrayed by Scottish-born Canadian actor Paul McGillion, who previously played Dr. Ernest Littlefield in the first season of SG-1. The character's Scottish nationality was only decided after McGillion's audition.\n\nDr. Beckett's character arc begins in the pilot episode \"Rising\". He is the discoverer and a carrier of the fictional Ancient Technology Activation gene, which allows humans to interact with specialized Ancient technology such as the Atlantis base. His medical expertise and his history with the Ancient gene earns him a spot on the Atlantis expedition, where he becomes the expedition's chief medical officer. Beckett is killed in an explosion in the third-season episode \"Sunday\", but he returns as a clone in season four and five.\n\nThe character's appearances were marked by positive reception. Despite being billed as a recurring character at first, he appeared in nearly every episode of the first season before the producers promoted him to a main character for the second and third seasons. The fan reaction to the character's death in season three was so strong that the Stargate Atlantis producers re-introduced the character in a recurring role in seasons four and five. In 2005, Paul McGillion was nominated for a Leo Award for \"Best Supporting Performance by a Male\" for his role as Beckett.",
+      "short_description": "Dr. Carson Beckett is a fictional Scottish character in the 2004 Canadian-American science fiction television series Stargate Atlantis, a spin-off series of Stargate SG-1. He is portrayed by Scottish-born Canadian actor…"
+    },
+    {
+      "slug": "stargate-franchise-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_figures",
+        "fandom_title": "Stargate figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_world_&_context",
+        "fandom_title": "Stargate world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_places",
+        "fandom_title": "Stargate places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_events",
+        "fandom_title": "Stargate events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_objects_&_artifacts",
+        "fandom_title": "Stargate objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_factions_&_groups",
+        "fandom_title": "Stargate factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_concepts",
+        "fandom_title": "Stargate concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_eras",
+        "fandom_title": "Stargate eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_works_&_media",
+        "fandom_title": "Stargate works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_symbols",
+        "fandom_title": "Stargate symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_controversies",
+        "fandom_title": "Stargate controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_geography",
+        "fandom_title": "Stargate geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_legacy",
+        "fandom_title": "Stargate legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_practices",
+        "fandom_title": "Stargate practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_1",
+        "fandom_title": "Stargate entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_2",
+        "fandom_title": "Stargate entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_3",
+        "fandom_title": "Stargate entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_4",
+        "fandom_title": "Stargate entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_5",
+        "fandom_title": "Stargate entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_6",
+        "fandom_title": "Stargate entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_7",
+        "fandom_title": "Stargate entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_8",
+        "fandom_title": "Stargate entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_9",
+        "fandom_title": "Stargate entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_10",
+        "fandom_title": "Stargate entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_11",
+        "fandom_title": "Stargate entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_12",
+        "fandom_title": "Stargate entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_13",
+        "fandom_title": "Stargate entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_14",
+        "fandom_title": "Stargate entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_15",
+        "fandom_title": "Stargate entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_16",
+        "fandom_title": "Stargate entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_17",
+        "fandom_title": "Stargate entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_18",
+        "fandom_title": "Stargate entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_19",
+        "fandom_title": "Stargate entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_20",
+        "fandom_title": "Stargate entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_21",
+        "fandom_title": "Stargate entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_22",
+        "fandom_title": "Stargate entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_23",
+        "fandom_title": "Stargate entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "stargate-franchise-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Stargate_entry_24",
+        "fandom_title": "Stargate entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "carson-beckett",
+      "name": "Carson Beckett",
+      "type": "person",
+      "description": "Dr. Carson Beckett is a fictional Scottish character in the 2004 Canadian-American science fiction television series Stargate Atlantis, a spin-off series of Stargate SG-1. He is portrayed by Scottish-born Canadian actor Paul McGillion, who previously played Dr. Ernest Littlefield in the first season of SG-1. The character's Scottish nationality was only decided after McGillion's audition.\n\nDr. Beckett's character arc begins in the pilot episode \"Rising\". He is the discoverer and a carrier of the fictional Ancient Technology Activation gene, which allows humans to interact with specialized Ancient technology such as the Atlantis base. His medical expertise and his history with the Ancient gene earns him a spot on the Atlantis expedition, where he becomes the expedition's chief medical officer. Beckett is killed in an explosion in the third-season episode \"Sunday\", but he returns as a clone in season four and five.\n\nThe character's appearances were marked by positive reception. Despite being billed as a recurring character at first, he appeared in nearly every episode of the first season before the producers promoted him to a main character for the second and third seasons. The fan reaction to the character's death in season three was so strong that the Stargate Atlantis producers re-introduced the character in a recurring role in seasons four and five. In 2005, Paul McGillion was nominated for a Leo Award for \"Best Supporting Performance by a Male\" for his role as Beckett.",
+      "evidence": "fiction",
+      "parentSlug": "stargate-franchise-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Carson_Beckett",
+        "fandom_title": "Carson Beckett",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": "Dr. Carson Beckett is a fictional Scottish character in the 2004 Canadian-American science fiction television series Stargate Atlantis, a spin-off series of Stargate SG-1. He is portrayed by Scottish-born Canadian actor…"
+    },
+    {
+      "slug": "samantha-carter",
+      "name": "Samantha Carter",
+      "type": "person",
+      "description": "Colonel Samantha \"Sam\" Carter, USAF, is a fictional character in the Canadian–American military science fiction Stargate franchise. Played by Amanda Tapping, she appears in all three shows in the franchise: Stargate SG-1, Stargate Atlantis, and Stargate Universe. She was a main character in all ten seasons of Stargate SG-1 (1997&ndash;2007). Following a recurring role in Stargate Atlantis for three seasons (2004&ndash;07), Carter became a main character in Season 4 of Atlantis (2007&ndash;08), and also appeared in the 2008 direct-to-DVD SG-1 films Stargate: The Ark of Truth and Stargate: Continuum. Amanda Tapping accepted a starring role in Sanctuary and appears in only the first and last episodes in Season 5 of Atlantis (2008&ndash;09). Carter also appears in two episodes of Season 1 of Stargate Universe.\n\nCaptain Samantha Carter first appears in \"Children of the Gods\", the pilot episode of Stargate SG-1, as a United States Air Force captain who joined the fictional SG-1 team under the command of Colonel Jack O'Neill. After being promoted to major in Season 3, Carter remains O'Neill's second-in-command until her promotion to lieutenant colonel early in Season 8, at which point she assumes command of the SG-1 team and O'Neill is promoted to brigadier general in order to lead Stargate Command. Between Seasons 8 and 9 of SG-1, following the defeat of the Replicators and downfall of the Goa'uld system lords, she accepts a position as Head of the Stargate Research and Development Program, based in Nevada. She is engaged in deep-space research when the Ori emerge. Upon her return to Earth, she is reassigned to SG-1, now under the command of Lieutenant Colonel Cameron Mitchell. Following the defeat of the Ori in Stargate: The Ark of Truth, Carter is promoted to full colonel and appointed as commander of the Atlantis expedition early in Season 4 of Atlantis. Carter is later given command of the Daedalus-class ship, the George Hammond.\n\nUnofficially in the online game Stargate: Resistance, it is implied by visual screenshots showing a general's office with her name on the desk label that she eventually succeeds Major General Hank Landry as commander of the SGC, implying an offscreen (non-canonical) promotion to brigadier general.\n\nOverall, Carter is the character with the most appearances across the Stargate franchise, though ranking as second-most&nbsp;— behind Teal'c&nbsp;— in the series Stargate SG-1.",
+      "short_description": "Colonel Samantha \"Sam\" Carter, USAF, is a fictional character in the Canadian–American military science fiction Stargate franchise. Played by Amanda Tapping, she appears in all three shows in the franchise: Stargate…",
+      "evidence": "fiction",
+      "parentSlug": "stargate-franchise-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Samantha_Carter",
+        "fandom_title": "Samantha Carter",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aiden-ford",
+      "name": "Aiden Ford",
+      "type": "person",
+      "description": "First Lieutenant Aiden Ford, USMC is a fictional character in the 2004 Canadian-American Sci-Fi Channel television series Stargate Atlantis, a military science fiction show about a combined civilian and military team exploring another galaxy via a network of alien transportation devices. Played by Rainbow Sun Francks, Aiden Ford is introduced as a main character in the season one premiere \"Rising\", holding the military rank of first lieutenant in the United States Marine Corps.\n\nFord is a regular in season one. He appears in a recurring role season two and appears once in a dream sequence in the season five premiere episode Search and Rescue. He later reappears in the official continuation novel Stargate Atlantis Legacy: The Third Path in which his ultimate fate is revealed.\n\nLieutenant Aiden Ford is introduced in the series premiere, \"Rising\", where he is stationed at the Antarctica outpost. Ford served in the Stargate Command (SGC) before and is twenty-five years old at the beginning of the first season. Ford served as John Sheppard's second-in-command after the events of \"Rising\" until a Wraith feeds upon Ford during a Wraith attack on Atlantis in season 2's \"The Siege, Part 3\". An exploding grenade blows them off a building into the ocean, and Ford's unconscious body and the still attached Wraith are recovered over an hour later. Ford survives after having an overdose of Wraith enzyme and later undergoes mental and physical changes. Ford develops a solid black left eye and becomes more aggressive and paranoid, fleeing Atlantis with a stolen Puddle Jumper.\n\nThe Atlantis team encounters him again in \"Runner\" where they learn that Ford began killing Wraiths throughout the Pegasus galaxy to harvest their enzyme that gave him abnormal strength. Ford is presumed dead when he deliberately jumps into the culling beam of a Wraith dart, but the Atlantis team encounters him again in the mid-season 2-parter \"The Lost Boys\"/\"The Hive\". The Wraith-enzyme allowed Ford to awake immediately after rematerializing on board a Wraith-hive ship, from where he escaped only to build up a small strike force of young men following his suit by informing them about the benefits of the Wraith-enzyme. Ford asks the Atlantis team for help in destroying an entire Wraith Hive-ship, but the mission fails and forces Sheppard to leave Ford behind on an about-to-explode hive ship. Ford is only seen again in Sheppard's dream in the season 5 episode \"Search and Rescue\".",
+      "short_description": "First Lieutenant Aiden Ford, USMC is a fictional character in the 2004 Canadian-American Sci-Fi Channel television series Stargate Atlantis, a military science fiction show about a combined civilian and military team…",
+      "evidence": "fiction",
+      "parentSlug": "stargate-franchise-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Aiden_Ford",
+        "fandom_title": "Aiden Ford",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "carson-beckett",
+      "stargate-franchise-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "samantha-carter",
+      "stargate-franchise-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "aiden-ford",
+      "stargate-franchise-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Stargate article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:27:47.532Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0,
+    "description_ensure_at": "2026-09-13T17:21:06.292Z",
+    "description_ensure_count": 2
+  }
+}

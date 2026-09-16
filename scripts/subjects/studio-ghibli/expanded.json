@@ -1,0 +1,3448 @@
+{
+  "enrichments": [
+    {
+      "slug": "studio-ghibli",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Studio_Ghibli_studio_3.jpg/180px-Studio_Ghibli_studio_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Studio_Ghibli",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Studio Ghibli article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Studio Ghibli",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Studio_Ghibli",
+        "fandom_title": "Studio Ghibli",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      }
+    },
+    {
+      "slug": "studio-ghibli-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Studio_Ghibli_figures",
+        "fandom_title": "Studio Ghibli figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "studio-ghibli-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Studio_Ghibli_world_&_context",
+        "fandom_title": "Studio Ghibli world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "studio-ghibli-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Studio_Ghibli_places",
+        "fandom_title": "Studio Ghibli places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "studio-ghibli-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Studio_Ghibli_events",
+        "fandom_title": "Studio Ghibli events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "studio-ghibli-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Studio_Ghibli_objects_&_artifacts",
+        "fandom_title": "Studio Ghibli objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "studio-ghibli-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Studio_Ghibli_factions_&_groups",
+        "fandom_title": "Studio Ghibli factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "studio-ghibli-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Studio_Ghibli_concepts",
+        "fandom_title": "Studio Ghibli concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "studio-ghibli-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Studio_Ghibli_eras",
+        "fandom_title": "Studio Ghibli eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "studio-ghibli-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Studio_Ghibli_works_&_media",
+        "fandom_title": "Studio Ghibli works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "studio-ghibli-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Studio_Ghibli_symbols",
+        "fandom_title": "Studio Ghibli symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "studio-ghibli-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Studio_Ghibli_controversies",
+        "fandom_title": "Studio Ghibli controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "anne-of-green-gables-1979-tv-series",
+      "name": "Anne of Green Gables",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Anne_of_Green_Gables_(1979_TV_series)",
+        "fandom_title": "Anne of Green Gables (1979 TV series)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "catbus",
+      "name": "Catbus",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Catbus",
+        "fandom_title": "Catbus",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chihiro-song",
+      "name": "Chihiro",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Chihiro_(song)",
+        "fandom_title": "Chihiro (song)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ghibli-museum",
+      "name": "Ghibli Museum",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Ghibli_Museum_2024.JPG/180px-Ghibli_Museum_2024.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Ghibli_Museum",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Studio Ghibli article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Ghibli Museum",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ghibli_Museum",
+        "fandom_title": "Ghibli Museum",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ghibli-museum-library",
+      "name": "Ghibli Museum Library",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ghibli_Museum_Library",
+        "fandom_title": "Ghibli Museum Library",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ghibli-park",
+      "name": "Ghibli Park",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ghibli_Park",
+        "fandom_title": "Ghibli Park",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "giant-god-warrior-appears-in-tokyo",
+      "name": "Giant God Warrior Appears in Tokyo",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Giant_God_Warrior_Appears_in_Tokyo",
+        "fandom_title": "Giant God Warrior Appears in Tokyo",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-kingdom-of-dreams-and-madness",
+      "name": "The Kingdom of Dreams and Madness",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Kingdom_of_Dreams_and_Madness",
+        "fandom_title": "The Kingdom of Dreams and Madness",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lofi-girl",
+      "name": "Lofi Girl",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Lofi_Girl_logo_%282024%29.svg/180px-Lofi_Girl_logo_%282024%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Lofi_Girl",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Studio Ghibli article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Lofi Girl",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Lofi_Girl",
+        "fandom_title": "Lofi Girl",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mobile-suit-gundam-unicorn",
+      "name": "Mobile Suit Gundam Unicorn",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_Unicorn",
+        "fandom_title": "Mobile Suit Gundam Unicorn",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "my-neighbour-totoro-play",
+      "name": "My Neighbour Totoro",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/My_Neighbour_Totoro_(play)",
+        "fandom_title": "My Neighbour Totoro (play)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nandaro",
+      "name": "Nandarō",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Nippon_Television_Network_20091114.jpg/180px-Flag_of_Nippon_Television_Network_20091114.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Nandar%C5%8D",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Studio Ghibli article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Nandarō",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Nandar%C5%8D",
+        "fandom_title": "Nandarō",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nausicaa-nausicaa-of-the-valley-of-the-wind",
+      "name": "Nausicaä",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Nausica%C3%A4_(Nausica%C3%A4_of_the_Valley_of_the_Wind)",
+        "fandom_title": "Nausicaä (Nausicaä of the Valley of the Wind)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "never-ending-man-hayao-miyazaki",
+      "name": "Never-Ending Man: Hayao Miyazaki",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Never-Ending_Man:_Hayao_Miyazaki",
+        "fandom_title": "Never-Ending Man: Hayao Miyazaki",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ni-no-kuni",
+      "name": "Ni no Kuni",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ni_no_Kuni",
+        "fandom_title": "Ni no Kuni",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ni-no-kuni-wrath-of-the-white-witch",
+      "name": "Ni no Kuni: Wrath of the White Witch",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ni_no_Kuni:_Wrath_of_the_White_Witch",
+        "fandom_title": "Ni no Kuni: Wrath of the White Witch",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ni-no-kuni-dominion-of-the-dark-djinn",
+      "name": "Ni no Kuni: Dominion of the Dark Djinn",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ni_no_Kuni:_Dominion_of_the_Dark_Djinn",
+        "fandom_title": "Ni no Kuni: Dominion of the Dark Djinn",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "panda-go-panda",
+      "name": "Panda! Go, Panda!",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Panda!_Go,_Panda!",
+        "fandom_title": "Panda! Go, Panda!",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shiki-jitsu",
+      "name": "Shiki-Jitsu",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Shiki-Jitsu",
+        "fandom_title": "Shiki-Jitsu",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-away",
+      "name": "Spirit away",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_away",
+        "fandom_title": "Spirit away",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-story-of-yanagawas-canals",
+      "name": "The Story of Yanagawa's Canals",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/6c/The_Story_of_Yanagawa%27s_Canals_poster.jpg/180px-The_Story_of_Yanagawa%27s_Canals_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/The_Story_of_Yanagawa%27s_Canals",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Studio Ghibli article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for The Story of Yanagawa's Canals",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Story_of_Yanagawa%27s_Canals",
+        "fandom_title": "The Story of Yanagawa's Canals",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "studio-kajino",
+      "name": "Studio Kajino",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Studio_Kajino",
+        "fandom_title": "Studio Kajino",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "susuwatari",
+      "name": "Susuwatari",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Susuwatari",
+        "fandom_title": "Susuwatari",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-day-tokyo-3-stood-still",
+      "name": "The Day Tokyo-3 Stood Still",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Day_Tokyo-3_Stood_Still",
+        "fandom_title": "The Day Tokyo-3 Stood Still",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tokuma-shoten",
+      "name": "Tokuma Shoten",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Meguro.jpg/180px-Meguro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Tokuma_Shoten",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Studio Ghibli article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Tokuma Shoten",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Tokuma_Shoten",
+        "fandom_title": "Tokuma Shoten",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "topcraft",
+      "name": "Topcraft",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Topcraft",
+        "fandom_title": "Topcraft",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "short-films-by-studio-ghibli",
+      "name": "Short films by Studio Ghibli",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Short_films_by_Studio_Ghibli",
+        "fandom_title": "Short films by Studio Ghibli",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "arrietty",
+      "name": "Arrietty",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Arrietty",
+        "fandom_title": "Arrietty",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "boro-the-caterpillar",
+      "name": "Boro the Caterpillar",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Boro_the_Caterpillar",
+        "fandom_title": "Boro the Caterpillar",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-boy-and-the-heron",
+      "name": "The Boy and the Heron",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Boy_and_the_Heron",
+        "fandom_title": "The Boy and the Heron",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "castle-in-the-sky",
+      "name": "Castle in the Sky",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Castle_in_the_Sky",
+        "fandom_title": "Castle in the Sky",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-cat-returns",
+      "name": "The Cat Returns",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Cat_Returns",
+        "fandom_title": "The Cat Returns",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earwig-and-the-witch",
+      "name": "Earwig and the Witch",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Earwig_and_the_Witch",
+        "fandom_title": "Earwig and the Witch",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "from-up-on-poppy-hill",
+      "name": "From Up on Poppy Hill",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/From_Up_on_Poppy_Hill",
+        "fandom_title": "From Up on Poppy Hill",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grave-of-the-fireflies",
+      "name": "Grave of the Fireflies",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grave_of_the_Fireflies",
+        "fandom_title": "Grave of the Fireflies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hoshi-o-katta-hi",
+      "name": "Hoshi o Katta Hi",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Hoshi_o_Katta_Hi",
+        "fandom_title": "Hoshi o Katta Hi",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "howls-moving-castle-film",
+      "name": "Howl's Moving Castle",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Howl%27s_Moving_Castle_(film)",
+        "fandom_title": "Howl's Moving Castle (film)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "iblard-jikan",
+      "name": "Iblard Jikan",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Iblard_Jikan",
+        "fandom_title": "Iblard Jikan",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kikis-delivery-service",
+      "name": "Kiki's Delivery Service",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Kiki%27s_Delivery_Service",
+        "fandom_title": "Kiki's Delivery Service",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "koros-big-day-out",
+      "name": "Koro's Big Day Out",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Koro's_Big_Day_Out",
+        "fandom_title": "Koro's Big Day Out",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kujiratori",
+      "name": "Kujiratori",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Kujiratori",
+        "fandom_title": "Kujiratori",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kuso-no-sora-tobu-kikaitachi",
+      "name": "Kūsō no Sora Tobu Kikaitachi",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Kūsō_no_Sora_Tobu_Kikaitachi",
+        "fandom_title": "Kūsō no Sora Tobu Kikaitachi",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "looking-for-a-home-film",
+      "name": "Looking for a Home",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Looking_for_a_Home_(film)",
+        "fandom_title": "Looking for a Home (film)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mizugumo-monmon",
+      "name": "Mizugumo Monmon",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mizugumo_Monmon",
+        "fandom_title": "Mizugumo Monmon",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "my-neighbor-totoro",
+      "name": "My Neighbor Totoro",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/My_Neighbor_Totoro",
+        "fandom_title": "My Neighbor Totoro",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "my-neighbors-the-yamadas",
+      "name": "My Neighbors the Yamadas",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/My_Neighbors_the_Yamadas",
+        "fandom_title": "My Neighbors the Yamadas",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nausicaa-of-the-valley-of-the-wind-film",
+      "name": "Nausicaä of the Valley of the Wind",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Nausicaä_of_the_Valley_of_the_Wind_(film)",
+        "fandom_title": "Nausicaä of the Valley of the Wind (film)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-night-of-taneyamagahara",
+      "name": "The Night of Taneyamagahara",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Night_of_Taneyamagahara",
+        "fandom_title": "The Night of Taneyamagahara",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ocean-waves",
+      "name": "Ocean Waves",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ocean_Waves",
+        "fandom_title": "Ocean Waves",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "on-your-mark-music-video",
+      "name": "On Your Mark",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/On_Your_Mark_(music_video)",
+        "fandom_title": "On Your Mark (music video)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "only-yesterday-1991-film",
+      "name": "Only Yesterday",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Only_Yesterday_(1991_film)",
+        "fandom_title": "Only Yesterday (1991 film)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pom-poko",
+      "name": "Pom Poko",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Pom_Poko",
+        "fandom_title": "Pom Poko",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ponyo",
+      "name": "Ponyo",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ponyo",
+        "fandom_title": "Ponyo",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "porco-rosso",
+      "name": "Porco Rosso",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Porco_Rosso",
+        "fandom_title": "Porco Rosso",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "princess-mononoke",
+      "name": "Princess Mononoke",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Princess_Mononoke",
+        "fandom_title": "Princess Mononoke",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-red-turtle",
+      "name": "The Red Turtle",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Red_Turtle",
+        "fandom_title": "The Red Turtle",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sora-iro-no-tane",
+      "name": "Sora Iro no Tane",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Sora_Iro_no_Tane",
+        "fandom_title": "Sora Iro no Tane",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirited-away",
+      "name": "Spirited Away",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirited_Away",
+        "fandom_title": "Spirited Away",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "a-sumo-wrestlers-tail",
+      "name": "A Sumo Wrestler's Tail",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/A_Sumo_Wrestler's_Tail",
+        "fandom_title": "A Sumo Wrestler's Tail",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-tale-of-the-princess-kaguya-film",
+      "name": "The Tale of the Princess Kaguya",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Tale_of_the_Princess_Kaguya_(film)",
+        "fandom_title": "The Tale of the Princess Kaguya (film)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tales-from-earthsea-film",
+      "name": "Tales from Earthsea",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Tales_from_Earthsea_(film)",
+        "fandom_title": "Tales from Earthsea (film)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "when-marnie-was-there-film",
+      "name": "When Marnie Was There",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/When_Marnie_Was_There_(film)",
+        "fandom_title": "When Marnie Was There (film)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "whisper-of-the-heart",
+      "name": "Whisper of the Heart",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Whisper_of_the_Heart",
+        "fandom_title": "Whisper of the Heart",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wind-rises",
+      "name": "The Wind Rises",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wind_Rises",
+        "fandom_title": "The Wind Rises",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "koriko-a-magical-year",
+      "name": "Koriko: A Magical Year",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Koriko:_A_Magical_Year",
+        "fandom_title": "Koriko: A Magical Year",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "monster-care-squad",
+      "name": "Monster Care Squad",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Monster_Care_Squad",
+        "fandom_title": "Monster Care Squad",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ryuutama",
+      "name": "Ryuutama",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ryuutama",
+        "fandom_title": "Ryuutama",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "wanderhome",
+      "name": "Wanderhome",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Wanderhome",
+        "fandom_title": "Wanderhome",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zin-never-dies",
+      "name": "Zin Never Dies",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Zin_Never_Dies",
+        "fandom_title": "Zin Never Dies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ni-no-kuni-cross-worlds",
+      "name": "Ni no Kuni: Cross Worlds",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ni_no_Kuni:_Cross_Worlds",
+        "fandom_title": "Ni no Kuni: Cross Worlds",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "music-of-ni-no-kuni",
+      "name": "Music of Ni no Kuni",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Music_of_Ni_no_Kuni",
+        "fandom_title": "Music of Ni no Kuni",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ninokuni",
+      "name": "NiNoKuni",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/NiNoKuni",
+        "fandom_title": "NiNoKuni",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ni-no-kuni-ii-revenant-kingdom",
+      "name": "Ni no Kuni II: Revenant Kingdom",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ni_no_Kuni_II:_Revenant_Kingdom",
+        "fandom_title": "Ni no Kuni II: Revenant Kingdom",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "steve-alpert",
+      "name": "Steve Alpert",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Steve_Alpert",
+        "fandom_title": "Steve Alpert",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "masashi-ando",
+      "name": "Masashi Ando",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Masashi_Ando",
+        "fandom_title": "Masashi Ando",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cecile-corbel",
+      "name": "Cécile Corbel",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cécile_Corbel",
+        "fandom_title": "Cécile Corbel",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "makiko-futaki",
+      "name": "Makiko Futaki",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Makiko_Futaki",
+        "fandom_title": "Makiko Futaki",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "joe-hisaishi",
+      "name": "Joe Hisaishi",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Joe_Hisaishi",
+        "fandom_title": "Joe Hisaishi",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mamoru-hosoda",
+      "name": "Mamoru Hosoda",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mamoru_Hosoda",
+        "fandom_title": "Mamoru Hosoda",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "naohisa-inoue",
+      "name": "Naohisa Inoue",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Naohisa_Inoue",
+        "fandom_title": "Naohisa Inoue",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mitsuo-iso",
+      "name": "Mitsuo Iso",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mitsuo_Iso",
+        "fandom_title": "Mitsuo Iso",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "yoshinori-kanada",
+      "name": "Yoshinori Kanada",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Yoshinori_Kanada",
+        "fandom_title": "Yoshinori Kanada",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sunao-katabuchi",
+      "name": "Sunao Katabuchi",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Sunao_Katabuchi",
+        "fandom_title": "Sunao Katabuchi",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "taku-kishimoto",
+      "name": "Taku Kishimoto",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Taku_Kishimoto",
+        "fandom_title": "Taku Kishimoto",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "yoshifumi-kondo",
+      "name": "Yoshifumi Kondō",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Yoshifumi_Kondō",
+        "fandom_title": "Yoshifumi Kondō",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "katsuya-kondo",
+      "name": "Katsuya Kondō",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Katsuya_Kondō",
+        "fandom_title": "Katsuya Kondō",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kitaro-kosaka",
+      "name": "Kitarō Kōsaka",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Kitarō_Kōsaka",
+        "fandom_title": "Kitarō Kōsaka",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "goro-miyazaki",
+      "name": "Goro Miyazaki",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Goro_Miyazaki",
+        "fandom_title": "Goro Miyazaki",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hayao-miyazaki",
+      "name": "Hayao Miyazaki",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Hayao_Miyazaki",
+        "fandom_title": "Hayao Miyazaki",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tomomi-mochizuki",
+      "name": "Tomomi Mochizuki",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Tomomi_Mochizuki",
+        "fandom_title": "Tomomi Mochizuki",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "yoshiyuki-momose",
+      "name": "Yoshiyuki Momose",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Yoshiyuki_Momose",
+        "fandom_title": "Yoshiyuki Momose",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hiroyuki-morita",
+      "name": "Hiroyuki Morita",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Hiroyuki_Morita",
+        "fandom_title": "Hiroyuki Morita",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "new-japan-philharmonic",
+      "name": "New Japan Philharmonic",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/New_Japan_Philharmonic",
+        "fandom_title": "New Japan Philharmonic",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kazuo-oga",
+      "name": "Kazuo Oga",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Kazuo_Oga",
+        "fandom_title": "Kazuo Oga",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hideo-ogata",
+      "name": "Hideo Ogata",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Hideo_Ogata",
+        "fandom_title": "Hideo Ogata",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "yasuo-otsuka",
+      "name": "Yasuo Ōtsuka",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Yasuo_Ōtsuka",
+        "fandom_title": "Yasuo Ōtsuka",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "toshio-suzuki",
+      "name": "Toshio Suzuki",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Toshio_Suzuki",
+        "fandom_title": "Toshio Suzuki",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "isao-takahata",
+      "name": "Isao Takahata",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Isao_Takahata",
+        "fandom_title": "Isao Takahata",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "eiko-tanaka",
+      "name": "Eiko Tanaka",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Eiko_Tanaka",
+        "fandom_title": "Eiko Tanaka",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "aoi-teshima",
+      "name": "Aoi Teshima",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Aoi_Teshima",
+        "fandom_title": "Aoi Teshima",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nizo-yamamoto",
+      "name": "Nizo Yamamoto",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Nizo_Yamamoto",
+        "fandom_title": "Nizo Yamamoto",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rio-yamase",
+      "name": "Rio Yamase",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Rio_Yamase",
+        "fandom_title": "Rio Yamase",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "akihiko-yamashita",
+      "name": "Akihiko Yamashita",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Akihiko_Yamashita",
+        "fandom_title": "Akihiko Yamashita",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hiromasa-yonebayashi",
+      "name": "Hiromasa Yonebayashi",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Hiromasa_Yonebayashi",
+        "fandom_title": "Hiromasa Yonebayashi",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kenichi-yoshida-animator",
+      "name": "Kenichi Yoshida",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Kenichi_Yoshida_(animator)",
+        "fandom_title": "Kenichi Yoshida (animator)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nausicaa-of-the-valley-of-the-wind-manga",
+      "name": "Nausicaä of the Valley of the Wind",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Nausicaä_of_the_Valley_of_the_Wind_(manga)",
+        "fandom_title": "Nausicaä of the Valley of the Wind (manga)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nausicaanet",
+      "name": "Nausicaa.net",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Nausicaa.net",
+        "fandom_title": "Nausicaa.net",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "warriors-of-the-wind",
+      "name": "Warriors of the Wind",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "studio-ghibli",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Warriors_of_the_Wind",
+        "fandom_title": "Warriors of the Wind",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "anne-of-green-gables-1979-tv-series",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "catbus",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "chihiro-song",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ghibli-museum",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ghibli-museum-library",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ghibli-park",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "giant-god-warrior-appears-in-tokyo",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-kingdom-of-dreams-and-madness",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lofi-girl",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mobile-suit-gundam-unicorn",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "my-neighbour-totoro-play",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "nandaro",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "nausicaa-nausicaa-of-the-valley-of-the-wind",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "never-ending-man-hayao-miyazaki",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ni-no-kuni",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ni-no-kuni-wrath-of-the-white-witch",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ni-no-kuni-dominion-of-the-dark-djinn",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "panda-go-panda",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "shiki-jitsu",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "spirit-away",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-story-of-yanagawas-canals",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "studio-kajino",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "susuwatari",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-day-tokyo-3-stood-still",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "tokuma-shoten",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "topcraft",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "short-films-by-studio-ghibli",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "arrietty",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "boro-the-caterpillar",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-boy-and-the-heron",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "castle-in-the-sky",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-cat-returns",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "earwig-and-the-witch",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "from-up-on-poppy-hill",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grave-of-the-fireflies",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "hoshi-o-katta-hi",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "howls-moving-castle-film",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "iblard-jikan",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "kikis-delivery-service",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "koros-big-day-out",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "kujiratori",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "kuso-no-sora-tobu-kikaitachi",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "looking-for-a-home-film",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mizugumo-monmon",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "my-neighbor-totoro",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "my-neighbors-the-yamadas",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "nausicaa-of-the-valley-of-the-wind-film",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-night-of-taneyamagahara",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ocean-waves",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "on-your-mark-music-video",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "only-yesterday-1991-film",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "pom-poko",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ponyo",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "porco-rosso",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "princess-mononoke",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-red-turtle",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "sora-iro-no-tane",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "spirited-away",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "a-sumo-wrestlers-tail",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-tale-of-the-princess-kaguya-film",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "tales-from-earthsea-film",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "when-marnie-was-there-film",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "whisper-of-the-heart",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-wind-rises",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "koriko-a-magical-year",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "monster-care-squad",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ryuutama",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "wanderhome",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "zin-never-dies",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ni-no-kuni-cross-worlds",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "music-of-ni-no-kuni",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ninokuni",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ni-no-kuni-ii-revenant-kingdom",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "steve-alpert",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "masashi-ando",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cecile-corbel",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "makiko-futaki",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "joe-hisaishi",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mamoru-hosoda",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "naohisa-inoue",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mitsuo-iso",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "yoshinori-kanada",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "sunao-katabuchi",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "taku-kishimoto",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "yoshifumi-kondo",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "katsuya-kondo",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "kitaro-kosaka",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "goro-miyazaki",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "hayao-miyazaki",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "tomomi-mochizuki",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "yoshiyuki-momose",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "hiroyuki-morita",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "new-japan-philharmonic",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "kazuo-oga",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "hideo-ogata",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "yasuo-otsuka",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "toshio-suzuki",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "isao-takahata",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "eiko-tanaka",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "aoi-teshima",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "nizo-yamamoto",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "rio-yamase",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "akihiko-yamashita",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "hiromasa-yonebayashi",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "kenichi-yoshida-animator",
+      "studio-ghibli-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "nausicaa-of-the-valley-of-the-wind-manga",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "nausicaanet",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "warriors-of-the-wind",
+      "studio-ghibli",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Studio Ghibli article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:28:38.485Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

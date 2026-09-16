@@ -1,0 +1,1102 @@
+{
+  "enrichments": [
+    {
+      "slug": "spawn-comics",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn",
+        "fandom_title": "Spawn",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_figures",
+        "fandom_title": "Spawn figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_world_&_context",
+        "fandom_title": "Spawn world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_places",
+        "fandom_title": "Spawn places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_events",
+        "fandom_title": "Spawn events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_objects_&_artifacts",
+        "fandom_title": "Spawn objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_factions_&_groups",
+        "fandom_title": "Spawn factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_concepts",
+        "fandom_title": "Spawn concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_eras",
+        "fandom_title": "Spawn eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_works_&_media",
+        "fandom_title": "Spawn works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_symbols",
+        "fandom_title": "Spawn symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_controversies",
+        "fandom_title": "Spawn controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_geography",
+        "fandom_title": "Spawn geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_legacy",
+        "fandom_title": "Spawn legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_practices",
+        "fandom_title": "Spawn practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_1",
+        "fandom_title": "Spawn entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_2",
+        "fandom_title": "Spawn entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_3",
+        "fandom_title": "Spawn entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_4",
+        "fandom_title": "Spawn entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_5",
+        "fandom_title": "Spawn entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_6",
+        "fandom_title": "Spawn entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_7",
+        "fandom_title": "Spawn entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_8",
+        "fandom_title": "Spawn entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_9",
+        "fandom_title": "Spawn entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_10",
+        "fandom_title": "Spawn entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_11",
+        "fandom_title": "Spawn entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_12",
+        "fandom_title": "Spawn entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_13",
+        "fandom_title": "Spawn entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_14",
+        "fandom_title": "Spawn entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_15",
+        "fandom_title": "Spawn entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_16",
+        "fandom_title": "Spawn entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_17",
+        "fandom_title": "Spawn entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_18",
+        "fandom_title": "Spawn entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_19",
+        "fandom_title": "Spawn entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_20",
+        "fandom_title": "Spawn entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_21",
+        "fandom_title": "Spawn entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_22",
+        "fandom_title": "Spawn entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_23",
+        "fandom_title": "Spawn entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-comics-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_entry_24",
+        "fandom_title": "Spawn entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "angela-character",
+      "name": "Angela",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "spawn-comics-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Angela_(character)",
+        "fandom_title": "Angela (character)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chapel-character",
+      "name": "Chapel",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "spawn-comics-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Chapel_(character)",
+        "fandom_title": "Chapel (character)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cogliostro",
+      "name": "Cogliostro",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "spawn-comics-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cogliostro",
+        "fandom_title": "Cogliostro",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "curse-character",
+      "name": "Curse",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "spawn-comics-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Curse_(character)",
+        "fandom_title": "Curse (character)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "list-of-spawn-characters",
+      "name": "List of Spawn characters",
+      "type": "person",
+      "description": "The comic book series Spawn, published by Image Comics, contains a variety of characters: the allies of the protagonist and his antagonists. Some of them went on to have spin-offs or debuted from spin-offs.\n\nSpawn, the main character of the series, is a CIA operative who was sent to hell, later protecting humanity from the war between heaven and hell.\n\n{| class=\"wikitable sortable\" !Character !Role\n\n{| class=\"wikitable sortable\" !Character !Role",
+      "evidence": "fiction",
+      "parentSlug": "spawn-comics-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/List_of_Spawn_characters",
+        "fandom_title": "List of Spawn characters",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      },
+      "short_description": "The comic book series Spawn, published by Image Comics, contains a variety of characters: the allies of the protagonist and his antagonists. Some of them went on to have spin-offs or debuted from spin-offs."
+    },
+    {
+      "slug": "freak-image-comics",
+      "name": "Freak",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "spawn-comics-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Freak_(Image_Comics)",
+        "fandom_title": "Freak (Image Comics)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "haunt-comics",
+      "name": "Haunt",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "spawn-comics-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Haunt_(comics)",
+        "fandom_title": "Haunt (comics)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heap-comics",
+      "name": "Heap",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "spawn-comics-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Airboy-Heap.jpg/180px-Airboy-Heap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Heap_(comics)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Spawn article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Heap (comics)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Heap_(comics)",
+        "fandom_title": "Heap (comics)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spawn-character",
+      "name": "Spawn",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "spawn-comics-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Spawn_(character)",
+        "fandom_title": "Spawn (character)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "malebolgia",
+      "name": "Malebolgia",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "spawn-comics-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Malebolgia",
+        "fandom_title": "Malebolgia",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mammon-comics",
+      "name": "Mammon",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "spawn-comics-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mammon_(comics)",
+        "fandom_title": "Mammon (comics)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "man-of-miracles-comics",
+      "name": "Man of Miracles",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "spawn-comics-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Man_of_Miracles_(comics)",
+        "fandom_title": "Man of Miracles (comics)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phlebiac-brothers",
+      "name": "Phlebiac Brothers",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "spawn-comics-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Phlebiac_Brothers",
+        "fandom_title": "Phlebiac Brothers",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "jessica-priest",
+      "name": "Jessica Priest",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "spawn-comics-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Jessica_Priest",
+        "fandom_title": "Jessica Priest",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sam-and-twitch",
+      "name": "Sam and Twitch",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "spawn-comics-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Sam_and_Twitch",
+        "fandom_title": "Sam and Twitch",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tiffany-image-comics",
+      "name": "Tiffany",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "spawn-comics-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Tiffany_(Image_Comics)",
+        "fandom_title": "Tiffany (Image Comics)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tremor-character",
+      "name": "Tremor",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "spawn-comics-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Tremor_(character)",
+        "fandom_title": "Tremor (character)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "violator-comics",
+      "name": "Violator",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "spawn-comics-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Violator_(comics)",
+        "fandom_title": "Violator (comics)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "jason-wynn",
+      "name": "Jason Wynn",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "spawn-comics-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Jason_Wynn",
+        "fandom_title": "Jason Wynn",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "zera-character",
+      "name": "Zera",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "spawn-comics-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Zera_(character)",
+        "fandom_title": "Zera (character)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "angela-character",
+      "spawn-comics-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "chapel-character",
+      "spawn-comics-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cogliostro",
+      "spawn-comics-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "curse-character",
+      "spawn-comics-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "list-of-spawn-characters",
+      "spawn-comics-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "freak-image-comics",
+      "spawn-comics-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "haunt-comics",
+      "spawn-comics-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "heap-comics",
+      "spawn-comics-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "spawn-character",
+      "spawn-comics-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "malebolgia",
+      "spawn-comics-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mammon-comics",
+      "spawn-comics-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "man-of-miracles-comics",
+      "spawn-comics-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "phlebiac-brothers",
+      "spawn-comics-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "jessica-priest",
+      "spawn-comics-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "sam-and-twitch",
+      "spawn-comics-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "tiffany-image-comics",
+      "spawn-comics-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "tremor-character",
+      "spawn-comics-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "violator-comics",
+      "spawn-comics-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "jason-wynn",
+      "spawn-comics-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "zera-character",
+      "spawn-comics-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Spawn article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:59:50.285Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T04:04:49.584Z",
+  "generated_at": "2026-09-14T19:53:05.451Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (destiny.fandom.com) for identification and commentary only. Character / franchise art © Bungie (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -445,7 +445,7 @@
         "fandom_preferred_image": true
       },
       "short_description": "Commander Zavala is a Gaming Legends Series Outfit in Fortnite: Battle Royale, that can be purchased in Item Shop for 1,500 V-Bucks or with the Legends of the Light and Dark Bundle for 2,700 V-Bucks. Commander Zavala…",
-      "image_url": "https://static.wikia.nocookie.net/destinypedia/images/b/b3/Commander_Zavala_29_-_Outfit_-_Fortnite.webp/revision/latest/scale-to-width-down/360?cb=20221205091655",
+      "image_url": "https://static.wikia.nocookie.net/destinypedia/images/b/b3/Commander_Zavala_29_-_Outfit_-_Fortnite.webp/revision/latest/scale-to-width-down/180?cb=20221205091655",
       "image_source": "https://destiny.fandom.com/wiki/Commander_Zavala_(Fortnite)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bungie (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -651,7 +651,7 @@
       "slug": "dreadnaught",
       "description": "The Dreadnaught is Oryx's ship and fortress and a destination in the Destiny expansion The Taken King.\n\nAfter killing the Worm god Akka, Oryx fashioned the remains of the Worm's body as the base for the Dreadnaught.\n\nOryx used the Dreadnaught to travel to the Solar System after learning that the Guardians of Earth had killed his son, Crota. Upon arrival, he positioned the ship in the rings of Saturn, and promptly wiped out the defending Awoken fleet with the ship's weapon.\n\nAs a result of Oryx's assault on their base on Mars' moon, Phobos, the Cabal sent their own infiltration unit, the Skyburners, to assault the ship, seeking vengeance. The Skyburners rammed their ship, Dantalion Exodus VI, into the Dreadnaught, and managed to breach the hull. Following the crash, Primus Ta'aun attempted to find and confront Oryx, only to be Taken before getting the chance. From there, Valus Mau'ual and Valus Tlu'urn attempted to overload the Dreadnaught's reactor, but were stopped by a team of Guardians, as the resulting explosion would have likely destroyed the entire solar system.",
       "short_description": "The Dreadnaught is Oryx's ship and fortress and a destination in the Destiny expansion The Taken King.",
-      "image_url": "https://static.wikia.nocookie.net/destinypedia/images/f/f2/Dreadnaught3.jpg/revision/latest/scale-to-width-down/360?cb=20160825103851",
+      "image_url": "https://static.wikia.nocookie.net/destinypedia/images/f/f2/Dreadnaught3.jpg/revision/latest/scale-to-width-down/180?cb=20160825103851",
       "image_source": "https://destiny.fandom.com/wiki/Dreadnaught",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Bungie (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",

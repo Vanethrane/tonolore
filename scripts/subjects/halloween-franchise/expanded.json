@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T03:11:08.722Z",
+  "generated_at": "2026-09-14T17:18:57.385Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (halloweenseries.fandom.com) for identification and commentary only. Halloween art © Trancas / Universal / respective rights holders. Not free or redistributable artwork."
   },
   "enrichments": [
@@ -569,7 +569,7 @@
       "type": "person",
       "evidence": "fiction",
       "short_description": "Samuel Loomis in halloween franchise.",
-      "description": "Tom Jones Jr. (Halloween Kills) Colin Mahan (voice, Halloween and Halloween Kills)\n\nDr. Samuel Loomis is a horror film character and one of the protagonists of the Halloween franchise. He first appeared in the original (1978).\n\nLoomis' history is complicated by the fact that the series follows several conflicting continuities. and Resurrection ignore the events of Halloween 4, 5, and 6, splitting the series into two separate timelines both originating from the inaugural film and its sequel. The 2018 film further branches off from the first film into a third timeline, and the remake's own timeline exists in an entirely new, separate continuity.\n\nOn November 5, 1963, six-year-old Michael Myers had been admitted to Smith's Grove Sanitarium for the October 31st murder of his older sister Judith. The child (now seven) was a blank, emotionless slate to Loomis, never speaking and barely even moving. The doctor recognized the deep-rooted trauma in the boy's psyche and knew that special treatment would be required if he were to ever help him, \"I met him, 15 years ago; I was told there was nothing left; no reason, no conscience, no understanding in even the most rudimentary sense of life or death, of good or evil, right or wrong. I met this...six-year-old child with this blank, pale, emotionless face, and...the blackest eyes - the Devil's eyes. I spent eight years trying to reach him, and then another seven trying to keep him locked up because I realized that what was living behind that boy's eyes was purely and simply... evil.\" Samuel Loomis, October 31, 1978,",
+      "description": "Dr. Samuel Loomis is a playable character in the 2026 video game Halloween: The Game.\n\nCategory:Halloween: The Game Category:Male characters Category:Main characters Category:Doctors Category:Medical personnel Category:Victims of Michael Myers",
       "aliases": [
         "Samuel Loomis"
       ],
@@ -581,19 +581,19 @@
         "discovered": true,
         "kind": "character",
         "canon": false,
-        "fandom_url": "https://halloweenmovie.fandom.com/wiki/Samuel_Loomis",
-        "fandom_title": "Samuel Loomis",
+        "fandom_url": "https://halloweenmovie.fandom.com/wiki/Samuel_Loomis_(Halloween:_The_Game)",
+        "fandom_title": "Samuel Loomis (Halloween: The Game)",
         "source_fandom": "halloweenseries.fandom.com",
         "sources": [
           "fandom"
         ]
       },
-      "image_url": "https://static.wikia.nocookie.net/halloweenmovie/images/d/d7/Samuel_Loomis_%28OG%29.png/revision/latest/scale-to-width-down/360?cb=20221111111051",
-      "image_source": "https://halloweenmovie.fandom.com/wiki/Samuel_Loomis",
+      "image_url": "https://static.wikia.nocookie.net/halloweenmovie/images/0/0e/Sam_Loomis_Halloween_2026_Game_Headshot.jpg/revision/latest/scale-to-width-down/180?cb=20250826000013",
+      "image_source": "https://halloweenmovie.fandom.com/wiki/Samuel_Loomis_(Halloween:_The_Game)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Halloween art © Trancas / Universal / respective rights holders. Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Samuel Loomis"
+      "image_alt": "Identification thumbnail for Samuel Loomis (Halloween: The Game)"
     },
     {
       "slug": "ben-meeker",
@@ -5557,25 +5557,25 @@
       "slug": "haddonfield-illinois",
       "name": "Haddonfield, Illinois",
       "type": "place",
-      "description": "Haddonfield, Illinois is a town located in Livingston County and is the main setting of the Halloween franchise.\n\nThe town today is a thriving community with a historical downtown area that offers residents tons of specialty shops, while large Victorian homes dot the rest of the area. Farms cover the outskirts of town. Haddonfield is located 150 miles from Smith's Grove Sanitarium.\n\nOver the years, the town became synonymous with the infamous serial killer Michael Myers, who continuously stalked and killed people in the town for 40 years. In the 4-6 Timeline only, celebrating Halloween was banned in Haddonfield in 1989 due to the murders.",
+      "description": "Realm of the Entity|locale=Livingston County|residents=The Shape Laurie Strode|first appearance=Dead by Daylight|known aliases=Suburbs}} Haddonfield is one of several Realms within Dead by Daylight, based on the location from the Halloween franchise. It was implemented into the game alongside the release of CHAPTER II: The HALLOWEEN® Chapter on 25 October 2016.\n\nThis Realm consists of 1 Map and is set in a suburb theme. Unlike previous Realms, it does not feature a primary color palette.\n\nThe only Map available in this Realm is Lampkin Lane.\n\nHaddonfield is a calm little town, without much going on. Or at least it was. If you were to ask anyone in the town, at the school or in a bar, if there’s something off with Haddonfield, they’d decline. To accept that this was the birthplace of one of the purest forms of evil is hard. People living here have always felt safe and protected. There were no boogeymen or other shady characters in the night. No lurking, no skulking. People slept perfectly fine for decades knowing this for a fact. So when Halloween came about, the town’s folks were reluctant to accept that Haddonfield is now forever known as an evil place. Gossip and made-up stories flooded the town.",
       "short_description": "Haddonfield, Illinois is a town located in Livingston County and is the main setting of the Halloween franchise.",
       "evidence": "fiction",
       "parentSlug": "halloween-franchise",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/halloweenmovie/images/9/98/Haddonfield_1978.jpg/revision/latest/scale-to-width-down/360?cb=20100325182415",
-      "image_source": "https://halloweenmovie.fandom.com/wiki/Haddonfield,_Illinois",
+      "image_url": "https://static.wikia.nocookie.net/halloweenmovie/images/3/3b/HaddonfieldDBD.png/revision/latest/scale-to-width-down/180?cb=20190128211918",
+      "image_source": "https://halloweenmovie.fandom.com/wiki/Haddonfield,_Illinois_(Dead_by_Daylight)",
       "image_credit": "Fair-use identification thumbnail via Fandom. Halloween art © Trancas / Universal / respective rights holders. Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Haddonfield, Illinois",
+      "image_alt": "Identification thumbnail for Haddonfield, Illinois (Dead by Daylight)",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
         "kind": "location",
-        "fandom_url": "https://halloweenmovie.fandom.com/wiki/Haddonfield,_Illinois",
-        "fandom_title": "Haddonfield, Illinois",
+        "fandom_url": "https://halloweenmovie.fandom.com/wiki/Haddonfield,_Illinois_(Dead_by_Daylight)",
+        "fandom_title": "Haddonfield, Illinois (Dead by Daylight)",
         "source_fandom": "halloweenseries.fandom.com",
         "sources": [
           "fandom"

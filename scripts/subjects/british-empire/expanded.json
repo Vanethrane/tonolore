@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "british-empire",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire",
+        "fandom_title": "British Empire",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_figures",
+        "fandom_title": "British Empire figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_world_&_context",
+        "fandom_title": "British Empire world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_places",
+        "fandom_title": "British Empire places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_events",
+        "fandom_title": "British Empire events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_objects_&_artifacts",
+        "fandom_title": "British Empire objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_factions_&_groups",
+        "fandom_title": "British Empire factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_concepts",
+        "fandom_title": "British Empire concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_eras",
+        "fandom_title": "British Empire eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_works_&_media",
+        "fandom_title": "British Empire works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_symbols",
+        "fandom_title": "British Empire symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_controversies",
+        "fandom_title": "British Empire controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_geography",
+        "fandom_title": "British Empire geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_legacy",
+        "fandom_title": "British Empire legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_practices",
+        "fandom_title": "British Empire practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_1",
+        "fandom_title": "British Empire entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_2",
+        "fandom_title": "British Empire entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_3",
+        "fandom_title": "British Empire entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_4",
+        "fandom_title": "British Empire entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_5",
+        "fandom_title": "British Empire entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_6",
+        "fandom_title": "British Empire entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_7",
+        "fandom_title": "British Empire entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_8",
+        "fandom_title": "British Empire entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_9",
+        "fandom_title": "British Empire entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_10",
+        "fandom_title": "British Empire entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_11",
+        "fandom_title": "British Empire entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_12",
+        "fandom_title": "British Empire entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_13",
+        "fandom_title": "British Empire entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_14",
+        "fandom_title": "British Empire entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_15",
+        "fandom_title": "British Empire entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_16",
+        "fandom_title": "British Empire entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_17",
+        "fandom_title": "British Empire entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_18",
+        "fandom_title": "British Empire entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_19",
+        "fandom_title": "British Empire entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_20",
+        "fandom_title": "British Empire entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_21",
+        "fandom_title": "British Empire entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_22",
+        "fandom_title": "British Empire entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_23",
+        "fandom_title": "British Empire entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "british-empire-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/British_Empire_entry_24",
+        "fandom_title": "British Empire entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. British Empire article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:13:08.311Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

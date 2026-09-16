@@ -1,0 +1,530 @@
+{
+  "enrichments": [
+    {
+      "slug": "the-wire",
+      "description": "The Wire is an American crime drama television series created and primarily written by American author and former police reporter David Simon for the cable network HBO. The series premiered on June 2, 2002, and ended on March 9, 2008, comprising 60 episodes over five seasons. The idea for the show started out as a police drama loosely based on the experiences of Simon's writing partner Ed Burns, a former homicide detective and public school teacher.\n\nSet and produced in Baltimore, Maryland, The Wire introduces a different institution of the city and its relationship to law enforcement in each season while retaining characters and advancing storylines from previous seasons. The five subjects are, in chronological order: the illegal drug trade, the port system, the city government and bureaucracy, education and schools, and the print news medium. Simon chose to set the show in Baltimore because of his familiarity with the city.\n\nWhen the series first aired, the large cast consisted mainly of actors who were unknown to television audiences, as well as numerous real-life Baltimore and Maryland figures in guest and recurring roles. Simon has said that despite its framing as a crime drama, the show is \"really about the American city, and about how we live together. It's about how institutions have an effect on individuals. Whether one is a cop, a longshoreman, a drug dealer, a politician, a judge or a lawyer, all are ultimately compromised and must contend with whatever institution to which they are committed\".\n\nLauded for high quality scripting and an uncommonly accurate exploration of society, politics and urban life, the series received average ratings and failed to win any major television awards when originally broadcast. Subsequently, the show gained a cult following, and is now widely considered one of the greatest television series of all time.",
+      "short_description": "The Wire is an American crime drama television series created and primarily written by American author and former police reporter David Simon for the cable network HBO. The series premiered on June 2, 2002, and ended on…",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire",
+        "fandom_title": "The Wire",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_figures",
+        "fandom_title": "The Wire figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_world_&_context",
+        "fandom_title": "The Wire world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_places",
+        "fandom_title": "The Wire places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_events",
+        "fandom_title": "The Wire events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_objects_&_artifacts",
+        "fandom_title": "The Wire objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_factions_&_groups",
+        "fandom_title": "The Wire factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_concepts",
+        "fandom_title": "The Wire concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_eras",
+        "fandom_title": "The Wire eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_works_&_media",
+        "fandom_title": "The Wire works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_symbols",
+        "fandom_title": "The Wire symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_controversies",
+        "fandom_title": "The Wire controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_geography",
+        "fandom_title": "The Wire geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_legacy",
+        "fandom_title": "The Wire legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_practices",
+        "fandom_title": "The Wire practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_1",
+        "fandom_title": "The Wire entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_2",
+        "fandom_title": "The Wire entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_3",
+        "fandom_title": "The Wire entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_4",
+        "fandom_title": "The Wire entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_5",
+        "fandom_title": "The Wire entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_6",
+        "fandom_title": "The Wire entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_7",
+        "fandom_title": "The Wire entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_8",
+        "fandom_title": "The Wire entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_9",
+        "fandom_title": "The Wire entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_10",
+        "fandom_title": "The Wire entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_11",
+        "fandom_title": "The Wire entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_12",
+        "fandom_title": "The Wire entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_13",
+        "fandom_title": "The Wire entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_14",
+        "fandom_title": "The Wire entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_15",
+        "fandom_title": "The Wire entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_16",
+        "fandom_title": "The Wire entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_17",
+        "fandom_title": "The Wire entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_18",
+        "fandom_title": "The Wire entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_19",
+        "fandom_title": "The Wire entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_20",
+        "fandom_title": "The Wire entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_21",
+        "fandom_title": "The Wire entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_22",
+        "fandom_title": "The Wire entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_23",
+        "fandom_title": "The Wire entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-wire-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Wire_entry_24",
+        "fandom_title": "The Wire entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "avon-barksdale",
+      "name": "Avon Barksdale",
+      "type": "person",
+      "description": "Avon Randolph Barksdale is a fictional character and one of the main antagonists in the American television series The Wire, played by Wood Harris. Barksdale is one of the most powerful drug dealers in Baltimore, Maryland, and runs the Barksdale Organization. Stringer Bell, his second in command, insulates Barksdale from law enforcement and potential enemies. Working for Barksdale and Bell is a large organization of drug dealers and enforcers.\n\nAccepting nothing less than absolute power, Barksdale is shrewd and intuitive, although not as cerebral as Bell. Barksdale is partly based on a real-life gang leader who ran a drug dealing operation in West Baltimore. He is the main antagonist of the first season.\n\nAt the start of season 1, Avon is a furtive but increasingly powerful force within West Baltimore's drug trade. His territory includes both the Franklin Terrace housing project and a nearby low-rise project referred to as \"the Pit\". Avon runs the organization with his second-in-command, Russell \"Stringer\" Bell, but isolates himself and String from the drug trade and eschews overt displays of wealth. He has a number of enforcers, most notably his old friend Wee-Bey Brice, and several lieutenants running drug crews in different areas. Beneath the lieutenants are hoppers who trade drugs and look out for police.\n\nEvery member of the Barksdale Organization is disciplined to strict rules designed to thwart police investigations, most notably a prohibition on cell phones. Lieutenants and enforcers carry pagers so they can be contacted. The pager messages are encoded to prevent traceable payphones from being used. Each pager-carrying member of the organization is identified by a number. When pages are returned with a phone call, no names are supposed to be used.",
+      "short_description": "Avon Randolph Barksdale is a fictional character and one of the main antagonists in the American television series The Wire, played by Wood Harris. Barksdale is one of the most powerful drug dealers in Baltimore,…",
+      "evidence": "fiction",
+      "parentSlug": "the-wire-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Avon_Barksdale",
+        "fandom_title": "Avon Barksdale",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "avon-barksdale",
+      "the-wire-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. The Wire article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:53:24.636Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0,
+    "description_ensure_at": "2026-09-13T19:44:01.539Z",
+    "description_ensure_count": 1
+  }
+}

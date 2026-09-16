@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "gundam-gunpla",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla",
+        "fandom_title": "Gundam Gunpla",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_figures",
+        "fandom_title": "Gundam Gunpla figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_world_&_context",
+        "fandom_title": "Gundam Gunpla world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_places",
+        "fandom_title": "Gundam Gunpla places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_events",
+        "fandom_title": "Gundam Gunpla events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_objects_&_artifacts",
+        "fandom_title": "Gundam Gunpla objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_factions_&_groups",
+        "fandom_title": "Gundam Gunpla factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_concepts",
+        "fandom_title": "Gundam Gunpla concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_eras",
+        "fandom_title": "Gundam Gunpla eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_works_&_media",
+        "fandom_title": "Gundam Gunpla works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_symbols",
+        "fandom_title": "Gundam Gunpla symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_controversies",
+        "fandom_title": "Gundam Gunpla controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_geography",
+        "fandom_title": "Gundam Gunpla geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_legacy",
+        "fandom_title": "Gundam Gunpla legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_practices",
+        "fandom_title": "Gundam Gunpla practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_1",
+        "fandom_title": "Gundam Gunpla entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_2",
+        "fandom_title": "Gundam Gunpla entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_3",
+        "fandom_title": "Gundam Gunpla entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_4",
+        "fandom_title": "Gundam Gunpla entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_5",
+        "fandom_title": "Gundam Gunpla entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_6",
+        "fandom_title": "Gundam Gunpla entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_7",
+        "fandom_title": "Gundam Gunpla entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_8",
+        "fandom_title": "Gundam Gunpla entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_9",
+        "fandom_title": "Gundam Gunpla entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_10",
+        "fandom_title": "Gundam Gunpla entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_11",
+        "fandom_title": "Gundam Gunpla entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_12",
+        "fandom_title": "Gundam Gunpla entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_13",
+        "fandom_title": "Gundam Gunpla entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_14",
+        "fandom_title": "Gundam Gunpla entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_15",
+        "fandom_title": "Gundam Gunpla entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_16",
+        "fandom_title": "Gundam Gunpla entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_17",
+        "fandom_title": "Gundam Gunpla entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_18",
+        "fandom_title": "Gundam Gunpla entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_19",
+        "fandom_title": "Gundam Gunpla entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_20",
+        "fandom_title": "Gundam Gunpla entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_21",
+        "fandom_title": "Gundam Gunpla entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_22",
+        "fandom_title": "Gundam Gunpla entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_23",
+        "fandom_title": "Gundam Gunpla entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gundam-gunpla-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Gundam_Gunpla_entry_24",
+        "fandom_title": "Gundam Gunpla entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Gundam Gunpla article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:28:20.924Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

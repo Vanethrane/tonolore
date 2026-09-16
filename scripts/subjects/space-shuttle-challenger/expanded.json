@@ -1,0 +1,502 @@
+{
+  "enrichments": [
+    {
+      "slug": "space-shuttle-challenger",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+        "fandom_title": "Space Shuttle Challenger disaster",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "On January 28, 1986, Space Shuttle Challenger broke apart 73 seconds into its flight, killing all seven crew members. The spacecraft disintegrated about above the Atlantic Ocean, off the coast of Cape Canaveral, Florida, at 16:39:13UTC (11:39:13a.m. EST, local time at the launch site). It was the first fatal accident involving an American spacecraft while in flight.\n\nThe mission, designated STS-51-L, was the 10th flight for the orbiter and the 25th flight of the NASA's Space Shuttle program. The crew was scheduled to deploy a commercial communications satellite and study Halley's Comet while they were in orbit, in addition to taking schoolteacher Christa McAuliffe into space under the Teacher in Space Project. This latter task resulted in a higher-than-usual media interest in and coverage of the mission, and the launch and subsequent disaster were seen live in many schools across the United States.\n\nThe cause of the disaster was the failure of the primary and secondary O-ring seals in a joint in the right Space Shuttle Solid Rocket Booster (SRB). The record-low temperatures on the morning of the launch had stiffened the rubber O-rings, reducing their ability to seal the joints. Shortly after liftoff the seals were breached, and hot pressurized gas from within the SRB leaked through the joint and burned through the aft attachment strut connecting it to the external propellant tank (ET), then into the tank itself. The collapse of the ET's internal structures and the rotation of the SRB that followed propelled the shuttle stack, traveling at a speed of Mach 1.92, into a direction that allowed aerodynamic forces to tear the orbiter apart. Both SRBs detached from the now-destroyed ET and continued to fly uncontrollably until the range safety officer (RSO) sent a signal to destroy them.\n\nThe crew compartment containing human remains, and many other fragments from the shuttle, were recovered from the ocean floor after a three-month search and recovery operation. The exact timing of the deaths of the crew is not known, but several crew members are thought to have survived the initial breakup of the spacecraft. The orbiter had no escape system, and the impact of the crew compartment at terminal velocity with the ocean surface was too violent to be survivable.",
+      "short_description": "On January 28, 1986, Space Shuttle Challenger broke apart 73 seconds into its flight, killing all seven crew members. The spacecraft disintegrated about above the Atlantic Ocean, off the coast of Cape Canaveral,…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Challenger_explosion.jpg/180px-Challenger_explosion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Space Shuttle Challenger disaster article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Space Shuttle Challenger disaster"
+    },
+    {
+      "slug": "space-shuttle-challenger-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_figures",
+        "fandom_title": "Space Shuttle Challenger disaster figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_world_&_context",
+        "fandom_title": "Space Shuttle Challenger disaster world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_places",
+        "fandom_title": "Space Shuttle Challenger disaster places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_events",
+        "fandom_title": "Space Shuttle Challenger disaster events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_objects_&_artifacts",
+        "fandom_title": "Space Shuttle Challenger disaster objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_factions_&_groups",
+        "fandom_title": "Space Shuttle Challenger disaster factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_concepts",
+        "fandom_title": "Space Shuttle Challenger disaster concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_eras",
+        "fandom_title": "Space Shuttle Challenger disaster eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_works_&_media",
+        "fandom_title": "Space Shuttle Challenger disaster works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_symbols",
+        "fandom_title": "Space Shuttle Challenger disaster symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_controversies",
+        "fandom_title": "Space Shuttle Challenger disaster controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_geography",
+        "fandom_title": "Space Shuttle Challenger disaster geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_legacy",
+        "fandom_title": "Space Shuttle Challenger disaster legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_practices",
+        "fandom_title": "Space Shuttle Challenger disaster practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_1",
+        "fandom_title": "Space Shuttle Challenger disaster entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_2",
+        "fandom_title": "Space Shuttle Challenger disaster entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_3",
+        "fandom_title": "Space Shuttle Challenger disaster entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_4",
+        "fandom_title": "Space Shuttle Challenger disaster entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_5",
+        "fandom_title": "Space Shuttle Challenger disaster entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_6",
+        "fandom_title": "Space Shuttle Challenger disaster entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_7",
+        "fandom_title": "Space Shuttle Challenger disaster entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_8",
+        "fandom_title": "Space Shuttle Challenger disaster entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_9",
+        "fandom_title": "Space Shuttle Challenger disaster entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_10",
+        "fandom_title": "Space Shuttle Challenger disaster entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_11",
+        "fandom_title": "Space Shuttle Challenger disaster entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_12",
+        "fandom_title": "Space Shuttle Challenger disaster entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_13",
+        "fandom_title": "Space Shuttle Challenger disaster entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_14",
+        "fandom_title": "Space Shuttle Challenger disaster entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_15",
+        "fandom_title": "Space Shuttle Challenger disaster entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_16",
+        "fandom_title": "Space Shuttle Challenger disaster entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_17",
+        "fandom_title": "Space Shuttle Challenger disaster entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_18",
+        "fandom_title": "Space Shuttle Challenger disaster entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_19",
+        "fandom_title": "Space Shuttle Challenger disaster entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_20",
+        "fandom_title": "Space Shuttle Challenger disaster entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_21",
+        "fandom_title": "Space Shuttle Challenger disaster entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_22",
+        "fandom_title": "Space Shuttle Challenger disaster entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_23",
+        "fandom_title": "Space Shuttle Challenger disaster entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "space-shuttle-challenger-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster_entry_24",
+        "fandom_title": "Space Shuttle Challenger disaster entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Space Shuttle Challenger disaster article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:13:06.692Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

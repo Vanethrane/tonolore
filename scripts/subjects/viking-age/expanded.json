@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "viking-age",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age",
+        "fandom_title": "Viking Age",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_figures",
+        "fandom_title": "Viking Age figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_world_&_context",
+        "fandom_title": "Viking Age world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_places",
+        "fandom_title": "Viking Age places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_events",
+        "fandom_title": "Viking Age events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_objects_&_artifacts",
+        "fandom_title": "Viking Age objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_factions_&_groups",
+        "fandom_title": "Viking Age factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_concepts",
+        "fandom_title": "Viking Age concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_eras",
+        "fandom_title": "Viking Age eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_works_&_media",
+        "fandom_title": "Viking Age works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_symbols",
+        "fandom_title": "Viking Age symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_controversies",
+        "fandom_title": "Viking Age controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_geography",
+        "fandom_title": "Viking Age geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_legacy",
+        "fandom_title": "Viking Age legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_practices",
+        "fandom_title": "Viking Age practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_1",
+        "fandom_title": "Viking Age entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_2",
+        "fandom_title": "Viking Age entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_3",
+        "fandom_title": "Viking Age entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_4",
+        "fandom_title": "Viking Age entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_5",
+        "fandom_title": "Viking Age entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_6",
+        "fandom_title": "Viking Age entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_7",
+        "fandom_title": "Viking Age entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_8",
+        "fandom_title": "Viking Age entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_9",
+        "fandom_title": "Viking Age entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_10",
+        "fandom_title": "Viking Age entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_11",
+        "fandom_title": "Viking Age entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_12",
+        "fandom_title": "Viking Age entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_13",
+        "fandom_title": "Viking Age entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_14",
+        "fandom_title": "Viking Age entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_15",
+        "fandom_title": "Viking Age entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_16",
+        "fandom_title": "Viking Age entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_17",
+        "fandom_title": "Viking Age entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_18",
+        "fandom_title": "Viking Age entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_19",
+        "fandom_title": "Viking Age entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_20",
+        "fandom_title": "Viking Age entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_21",
+        "fandom_title": "Viking Age entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_22",
+        "fandom_title": "Viking Age entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_23",
+        "fandom_title": "Viking Age entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "viking-age-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Viking_Age_entry_24",
+        "fandom_title": "Viking Age entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Viking Age article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:12:28.306Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "to-kill-a-mockingbird",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird",
+        "fandom_title": "To Kill a Mockingbird",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_figures",
+        "fandom_title": "To Kill a Mockingbird figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_world_&_context",
+        "fandom_title": "To Kill a Mockingbird world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_places",
+        "fandom_title": "To Kill a Mockingbird places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_events",
+        "fandom_title": "To Kill a Mockingbird events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_objects_&_artifacts",
+        "fandom_title": "To Kill a Mockingbird objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_factions_&_groups",
+        "fandom_title": "To Kill a Mockingbird factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_concepts",
+        "fandom_title": "To Kill a Mockingbird concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_eras",
+        "fandom_title": "To Kill a Mockingbird eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_works_&_media",
+        "fandom_title": "To Kill a Mockingbird works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_symbols",
+        "fandom_title": "To Kill a Mockingbird symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_controversies",
+        "fandom_title": "To Kill a Mockingbird controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_geography",
+        "fandom_title": "To Kill a Mockingbird geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_legacy",
+        "fandom_title": "To Kill a Mockingbird legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_practices",
+        "fandom_title": "To Kill a Mockingbird practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_1",
+        "fandom_title": "To Kill a Mockingbird entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_2",
+        "fandom_title": "To Kill a Mockingbird entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_3",
+        "fandom_title": "To Kill a Mockingbird entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_4",
+        "fandom_title": "To Kill a Mockingbird entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_5",
+        "fandom_title": "To Kill a Mockingbird entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_6",
+        "fandom_title": "To Kill a Mockingbird entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_7",
+        "fandom_title": "To Kill a Mockingbird entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_8",
+        "fandom_title": "To Kill a Mockingbird entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_9",
+        "fandom_title": "To Kill a Mockingbird entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_10",
+        "fandom_title": "To Kill a Mockingbird entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_11",
+        "fandom_title": "To Kill a Mockingbird entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_12",
+        "fandom_title": "To Kill a Mockingbird entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_13",
+        "fandom_title": "To Kill a Mockingbird entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_14",
+        "fandom_title": "To Kill a Mockingbird entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_15",
+        "fandom_title": "To Kill a Mockingbird entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_16",
+        "fandom_title": "To Kill a Mockingbird entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_17",
+        "fandom_title": "To Kill a Mockingbird entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_18",
+        "fandom_title": "To Kill a Mockingbird entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_19",
+        "fandom_title": "To Kill a Mockingbird entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_20",
+        "fandom_title": "To Kill a Mockingbird entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_21",
+        "fandom_title": "To Kill a Mockingbird entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_22",
+        "fandom_title": "To Kill a Mockingbird entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_23",
+        "fandom_title": "To Kill a Mockingbird entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "to-kill-a-mockingbird-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_entry_24",
+        "fandom_title": "To Kill a Mockingbird entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. To Kill a Mockingbird article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:46:06.603Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

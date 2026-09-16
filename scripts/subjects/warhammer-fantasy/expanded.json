@@ -1994,7 +1994,7 @@
       "parentSlug": "warhammer-fantasy",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/warhammerfb/images/f/fe/Aldrad%27s_Lance.jpg/revision/latest?cb=20161214192653",
+      "image_url": "https://static.wikia.nocookie.net/warhammerfb/images/f/fe/Aldrad%27s_Lance.jpg/revision/latest/scale-to-width-down/180?cb=20161214192653",
       "image_source": "https://warhammerfantasy.fandom.com/wiki/Aldrad%27s_Lance",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Games Workshop (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -17402,10 +17402,10 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (warhammerfantasy.fandom.com) for identification and commentary only. Character / franchise art © Games Workshop (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-13T04:21:40.462Z",
+  "generated_at": "2026-09-14T20:02:54.669Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://warhammerfantasy.fandom.com/wiki/",

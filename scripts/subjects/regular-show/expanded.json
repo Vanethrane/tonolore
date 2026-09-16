@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "regular-show",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show",
+        "fandom_title": "Regular Show",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_figures",
+        "fandom_title": "Regular Show figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_world_&_context",
+        "fandom_title": "Regular Show world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_places",
+        "fandom_title": "Regular Show places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_events",
+        "fandom_title": "Regular Show events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_objects_&_artifacts",
+        "fandom_title": "Regular Show objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_factions_&_groups",
+        "fandom_title": "Regular Show factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_concepts",
+        "fandom_title": "Regular Show concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_eras",
+        "fandom_title": "Regular Show eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_works_&_media",
+        "fandom_title": "Regular Show works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_symbols",
+        "fandom_title": "Regular Show symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_controversies",
+        "fandom_title": "Regular Show controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_geography",
+        "fandom_title": "Regular Show geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_legacy",
+        "fandom_title": "Regular Show legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_practices",
+        "fandom_title": "Regular Show practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_1",
+        "fandom_title": "Regular Show entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_2",
+        "fandom_title": "Regular Show entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_3",
+        "fandom_title": "Regular Show entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_4",
+        "fandom_title": "Regular Show entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_5",
+        "fandom_title": "Regular Show entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_6",
+        "fandom_title": "Regular Show entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_7",
+        "fandom_title": "Regular Show entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_8",
+        "fandom_title": "Regular Show entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_9",
+        "fandom_title": "Regular Show entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_10",
+        "fandom_title": "Regular Show entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_11",
+        "fandom_title": "Regular Show entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_12",
+        "fandom_title": "Regular Show entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_13",
+        "fandom_title": "Regular Show entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_14",
+        "fandom_title": "Regular Show entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_15",
+        "fandom_title": "Regular Show entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_16",
+        "fandom_title": "Regular Show entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_17",
+        "fandom_title": "Regular Show entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_18",
+        "fandom_title": "Regular Show entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_19",
+        "fandom_title": "Regular Show entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_20",
+        "fandom_title": "Regular Show entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_21",
+        "fandom_title": "Regular Show entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_22",
+        "fandom_title": "Regular Show entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_23",
+        "fandom_title": "Regular Show entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "regular-show-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Regular_Show_entry_24",
+        "fandom_title": "Regular Show entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Regular Show article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:22:57.403Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

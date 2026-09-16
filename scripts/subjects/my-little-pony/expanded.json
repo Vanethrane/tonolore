@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T03:15:26.731Z",
+  "generated_at": "2026-09-14T17:23:36.417Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (mlp.fandom.com) for identification and commentary only. My Little Pony art © Hasbro (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -175,7 +175,7 @@
       "parentSlug": "my-little-pony",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/mlp/images/b/b6/Princess_Argent_ID_Tails_of_Equestria.png/revision/latest/scale-to-width-down/360?cb=20191222034740",
+      "image_url": "https://static.wikia.nocookie.net/mlp/images/b/b6/Princess_Argent_ID_Tails_of_Equestria.png/revision/latest/scale-to-width-down/180?cb=20191222034740",
       "image_source": "https://mlp.fandom.com/wiki/List_of_prose_ponies",
       "image_credit": "Fair-use identification thumbnail via Fandom. My Little Pony art © Hasbro (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -15225,25 +15225,25 @@
       "slug": "canterlot",
       "name": "Canterlot",
       "type": "place",
-      "description": "Canterlot exists in a dimension different from Equestria. Its earliest known discovery in the series is by Star Swirl the Bearded, when he banished Adagio Dazzle, Aria Blaze, and Sonata Dusk to the human world as depicted in My Little Pony Equestria Girls: Rainbow Rocks, , Shadow Play - Part 2, and . In the first Equestria Girls film, Princess Twilight Sparkle visits the world that Canterlot is in when Sunset Shimmer steals her crown.\n\nSociety in Canterlot is considerably more technologically advanced than in Equestria, with smartphones, computers, and the internet being commonplace. In My Little Pony Equestria Girls: Legend of Everfree, Timber Spruce mentions Picasso, an apparent counterpart of the deceased Pinto-Picasso mentioned in and/or \"Picture Pattern\".\n\nMany areas of the city are horse- and pony-themed, such as the Wondercolt statue at Canterlot High School and the saddle-shaped amphitheater. One area of the city has tall skyscrapers and architectural features similar to Equestria's Manehattan, with one building closely resembling the Crystaller Building.\n\nThe house consists of a house, a barn-like garage, and a pigpen, and it bears a strong resemblance to Sweet Apple Acres in Ponyville.",
+      "description": "Lauren Faust's inspiration for Canterlot, with its castle carved into the side of the mountain, was Minas Tirith from The Lord of the Rings. Ted Anderson and Agnes Garbowska's inspiration for ancient Canterlot was ancient Rome.\n\nAccording to Lauren Faust, Canterlot was originally called \"Canterbury\", after the historical English city, and the name \"Canterlot\" was suggested by her husband Craig McCracken.\n\nThe city is featured prominently in such Canterlot-centered episodes as Sweet and Elite, during Rarity's stay at Princess Celestia's castle, and in A Canterlot Wedding, when Twilight Sparkle's brother Shining Armor gets married to Princess Cadance. In the latter episode, the city briefly comes under siege by Queen Chrysalis and the changelings.\n\nThe hills of Canterlot are mentioned in The Journal of the Two Sisters. The initial construction of Canterlot is featured in ; the construction of the city of Canterlot is briefly shown on page 1 and briefly described in Twilight Sparkle: Teacher for a Day and its Ruckus Reader later version Twilight Sparkle's Special Lesson. Ancient Canterlot is featured in , and Canterlot during Granny Smith's youth is briefly featured in a flashback in Family Appreciation Day.",
       "short_description": "Lauren Faust's inspiration for Canterlot, with its castle carved into the side of the mountain, was Minas Tirith from The Lord of the Rings. Ted Anderson and Agnes Garbowska's inspiration for ancient Canterlot was…",
       "evidence": "fiction",
       "parentSlug": "my-little-pony",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/mlp/images/d/d2/Equestria_Girls_website_-_Map_of_Canterlot.jpg/revision/latest/scale-to-width-down/360?cb=20170614181039",
-      "image_source": "https://mlp.fandom.com/wiki/Canterlot_(EG)",
+      "image_url": "https://static.wikia.nocookie.net/mlp/images/c/c3/Canterlot_outer_view_S2E9.png/revision/latest/scale-to-width-down/180?cb=20111204170657",
+      "image_source": "https://mlp.fandom.com/wiki/Canterlot",
       "image_credit": "Fair-use identification thumbnail via Fandom. My Little Pony art © Hasbro (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Canterlot (EG)",
+      "image_alt": "Identification thumbnail for Canterlot",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
         "kind": "location",
-        "fandom_url": "https://mlp.fandom.com/wiki/Canterlot_(EG)",
-        "fandom_title": "Canterlot (EG)",
+        "fandom_url": "https://mlp.fandom.com/wiki/Canterlot",
+        "fandom_title": "Canterlot",
         "source_fandom": "mlp.fandom.com",
         "sources": [
           "fandom"

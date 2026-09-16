@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "troy-legend",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend",
+        "fandom_title": "Trojan War legend",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_figures",
+        "fandom_title": "Trojan War legend figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_world_&_context",
+        "fandom_title": "Trojan War legend world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_places",
+        "fandom_title": "Trojan War legend places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_events",
+        "fandom_title": "Trojan War legend events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_objects_&_artifacts",
+        "fandom_title": "Trojan War legend objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_factions_&_groups",
+        "fandom_title": "Trojan War legend factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_concepts",
+        "fandom_title": "Trojan War legend concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_eras",
+        "fandom_title": "Trojan War legend eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_works_&_media",
+        "fandom_title": "Trojan War legend works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_symbols",
+        "fandom_title": "Trojan War legend symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_controversies",
+        "fandom_title": "Trojan War legend controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_geography",
+        "fandom_title": "Trojan War legend geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_legacy",
+        "fandom_title": "Trojan War legend legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_practices",
+        "fandom_title": "Trojan War legend practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_1",
+        "fandom_title": "Trojan War legend entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_2",
+        "fandom_title": "Trojan War legend entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_3",
+        "fandom_title": "Trojan War legend entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_4",
+        "fandom_title": "Trojan War legend entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_5",
+        "fandom_title": "Trojan War legend entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_6",
+        "fandom_title": "Trojan War legend entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_7",
+        "fandom_title": "Trojan War legend entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_8",
+        "fandom_title": "Trojan War legend entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_9",
+        "fandom_title": "Trojan War legend entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_10",
+        "fandom_title": "Trojan War legend entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_11",
+        "fandom_title": "Trojan War legend entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_12",
+        "fandom_title": "Trojan War legend entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_13",
+        "fandom_title": "Trojan War legend entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_14",
+        "fandom_title": "Trojan War legend entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_15",
+        "fandom_title": "Trojan War legend entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_16",
+        "fandom_title": "Trojan War legend entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_17",
+        "fandom_title": "Trojan War legend entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_18",
+        "fandom_title": "Trojan War legend entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_19",
+        "fandom_title": "Trojan War legend entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_20",
+        "fandom_title": "Trojan War legend entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_21",
+        "fandom_title": "Trojan War legend entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_22",
+        "fandom_title": "Trojan War legend entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_23",
+        "fandom_title": "Trojan War legend entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "troy-legend-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Trojan_War_legend_entry_24",
+        "fandom_title": "Trojan War legend entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Trojan War legend article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:34:55.202Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

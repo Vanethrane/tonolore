@@ -1,0 +1,3441 @@
+{
+  "enrichments": [
+    {
+      "slug": "grand-theft-auto",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_(video_game)",
+        "fandom_title": "Grand Theft Auto (video game)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_figures",
+        "fandom_title": "Grand Theft Auto figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "grand-theft-auto-2",
+      "name": "Grand Theft Auto 2",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_2",
+        "fandom_title": "Grand Theft Auto 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-iii",
+      "name": "Grand Theft Auto III",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_III",
+        "fandom_title": "Grand Theft Auto III",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-vi",
+      "name": "Grand Theft Auto VI",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+        "fandom_title": "Grand Theft Auto VI",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-vi-an-extended-look",
+      "name": "Grand Theft Auto VI: An Extended Look",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI:_An_Extended_Look",
+        "fandom_title": "Grand Theft Auto VI: An Extended Look",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-advance",
+      "name": "Grand Theft Auto Advance",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_Advance",
+        "fandom_title": "Grand Theft Auto Advance",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-chinatown-wars",
+      "name": "Grand Theft Auto: Chinatown Wars",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Chinatown_Wars",
+        "fandom_title": "Grand Theft Auto: Chinatown Wars",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-clone",
+      "name": "Grand Theft Auto clone",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_clone",
+        "fandom_title": "Grand Theft Auto clone",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "development-of-grand-theft-auto-vi",
+      "name": "Development of Grand Theft Auto VI",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Development_of_Grand_Theft_Auto_VI",
+        "fandom_title": "Development of Grand Theft Auto VI",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fivem",
+      "name": "FiveM",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/FiveM",
+        "fandom_title": "FiveM",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-gamechangers",
+      "name": "The Gamechangers",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Gamechangers",
+        "fandom_title": "The Gamechangers",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gta-gang",
+      "name": "GTA gang",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/GTA_gang",
+        "fandom_title": "GTA gang",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-childhood",
+      "name": "Grand Theft Childhood",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Childhood",
+        "fandom_title": "Grand Theft Childhood",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hot-coffee-minigame",
+      "name": "Hot Coffee",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Hot_Coffee_(minigame)",
+        "fandom_title": "Hot Coffee (minigame)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "jacked-the-outlaw-story-of-grand-theft-auto",
+      "name": "Jacked: The Outlaw Story of Grand Theft Auto",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Jacked:_The_Outlaw_Story_of_Grand_Theft_Auto",
+        "fandom_title": "Jacked: The Outlaw Story of Grand Theft Auto",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lcpdfr",
+      "name": "LCPDFR",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/LCPDFR",
+        "fandom_title": "LCPDFR",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-liberty-city-stories",
+      "name": "Grand Theft Auto: Liberty City Stories",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Liberty_City_Stories",
+        "fandom_title": "Grand Theft Auto: Liberty City Stories",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-london-1969",
+      "name": "Grand Theft Auto: London 1969",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_London_1969",
+        "fandom_title": "Grand Theft Auto: London 1969",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "los-santos-san-andreas",
+      "name": "Los Santos, San Andreas",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Los_Santos,_San_Andreas",
+        "fandom_title": "Los Santos, San Andreas",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lspdfr",
+      "name": "LSPDFR",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/LSPDFR",
+        "fandom_title": "LSPDFR",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-modding",
+      "name": "Grand Theft Auto modding",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_modding",
+        "fandom_title": "Grand Theft Auto modding",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "devin-moore-murderer",
+      "name": "Devin Moore",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Devin_Moore_(murderer)",
+        "fandom_title": "Devin Moore (murderer)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "multi-theft-auto",
+      "name": "Multi Theft Auto",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Multi_Theft_Auto",
+        "fandom_title": "Multi Theft Auto",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-online",
+      "name": "Grand Theft Auto Online",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_Online",
+        "fandom_title": "Grand Theft Auto Online",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "murder-of-khuan-phokaeng",
+      "name": "Murder of Khuan Phokaeng",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Murder_of_Khuan_Phokaeng",
+        "fandom_title": "Murder of Khuan Phokaeng",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rockstar-north",
+      "name": "Rockstar North",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Rockstar_North",
+        "fandom_title": "Rockstar North",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "strickland-v-sony",
+      "name": "Strickland v. Sony",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Strickland_v._Sony",
+        "fandom_title": "Strickland v. Sony",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-v-trailer",
+      "name": "Grand Theft Auto V Trailer",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V_Trailer",
+        "fandom_title": "Grand Theft Auto V Trailer",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-vi-trailer-1",
+      "name": "Grand Theft Auto VI Trailer 1",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI_Trailer_1",
+        "fandom_title": "Grand Theft Auto VI Trailer 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-vi-trailer-2",
+      "name": "Grand Theft Auto VI Trailer 2",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI_Trailer_2",
+        "fandom_title": "Grand Theft Auto VI Trailer 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-the-trilogy-the-definitive-edition",
+      "name": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_The_Trilogy_–_The_Definitive_Edition",
+        "fandom_title": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-vice-city",
+      "name": "Grand Theft Auto: Vice City",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City",
+        "fandom_title": "Grand Theft Auto: Vice City",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-vice-city-stories",
+      "name": "Grand Theft Auto: Vice City Stories",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City_Stories",
+        "fandom_title": "Grand Theft Auto: Vice City Stories",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "niko-bellic",
+      "name": "Niko Bellic",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Niko_Bellic",
+        "fandom_title": "Niko Bellic",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "carl-johnson-grand-theft-auto",
+      "name": "Carl Johnson",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Carl_Johnson_(Grand_Theft_Auto)",
+        "fandom_title": "Carl Johnson (Grand Theft Auto)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "trevor-philips",
+      "name": "Trevor Philips",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Trevor_Philips",
+        "fandom_title": "Trevor Philips",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "tommy-vercetti",
+      "name": "Tommy Vercetti",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Tommy_Vercetti",
+        "fandom_title": "Tommy Vercetti",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-iv",
+      "name": "Grand Theft Auto IV",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV",
+        "fandom_title": "Grand Theft Auto IV",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-iv-the-lost-and-damned",
+      "name": "Grand Theft Auto IV: The Lost and Damned",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV:_The_Lost_and_Damned",
+        "fandom_title": "Grand Theft Auto IV: The Lost and Damned",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-the-ballad-of-gay-tony",
+      "name": "Grand Theft Auto: The Ballad of Gay Tony",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_The_Ballad_of_Gay_Tony",
+        "fandom_title": "Grand Theft Auto: The Ballad of Gay Tony",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "no-sex-for-ben",
+      "name": "No Sex for Ben",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/No_Sex_for_Ben",
+        "fandom_title": "No Sex for Ben",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "uptown-riders",
+      "name": "Uptown Riders",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Uptown_Riders",
+        "fandom_title": "Uptown Riders",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-v",
+      "name": "Grand Theft Auto V",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V",
+        "fandom_title": "Grand Theft Auto V",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "michael-de-santa",
+      "name": "Michael De Santa",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Michael_De_Santa",
+        "fandom_title": "Michael De Santa",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "development-of-grand-theft-auto-v",
+      "name": "Development of Grand Theft Auto V",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Development_of_Grand_Theft_Auto_V",
+        "fandom_title": "Development of Grand Theft Auto V",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-v-enhanced",
+      "name": "Grand Theft Auto V Enhanced",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V_Enhanced",
+        "fandom_title": "Grand Theft Auto V Enhanced",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-hamlet",
+      "name": "Grand Theft Hamlet",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Hamlet",
+        "fandom_title": "Grand Theft Hamlet",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gta",
+      "name": "GTA+",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/GTA+",
+        "fandom_title": "GTA+",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lamar-roasts-franklin",
+      "name": "Lamar roasts Franklin",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Lamar_roasts_Franklin",
+        "fandom_title": "Lamar roasts Franklin",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "music-of-grand-theft-auto-v",
+      "name": "Music of Grand Theft Auto V",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Music_of_Grand_Theft_Auto_V",
+        "fandom_title": "Music of Grand Theft Auto V",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "notgtav",
+      "name": "NotGTAV",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/NotGTAV",
+        "fandom_title": "NotGTAV",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "reception-of-grand-theft-auto-v",
+      "name": "Reception of Grand Theft Auto V",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Reception_of_Grand_Theft_Auto_V",
+        "fandom_title": "Reception of Grand Theft Auto V",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sleepwalking-the-chain-gang-of-1974-song",
+      "name": "Sleepwalking",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Sleepwalking_(The_Chain_Gang_of_1974_song)",
+        "fandom_title": "Sleepwalking (The Chain Gang of 1974 song)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grand-theft-auto-san-andreas",
+      "name": "Grand Theft Auto: San Andreas",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas",
+        "fandom_title": "Grand Theft Auto: San Andreas",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ah-shit-here-we-go-again",
+      "name": "Ah shit, here we go again",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ah_shit,_here_we_go_again",
+        "fandom_title": "Ah shit, here we go again",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "drones-beavis-and-butt-head",
+      "name": "Drones",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Drones_(Beavis_and_Butt-Head)",
+        "fandom_title": "Drones (Beavis and Butt-Head)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "grove-street-families",
+      "name": "Grove Street Families",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Grove_Street_Families",
+        "fandom_title": "Grove Street Families",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kent-paul",
+      "name": "Kent Paul",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Kent_Paul",
+        "fandom_title": "Kent Paul",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "soundtracks-of-grand-theft-auto-san-andreas",
+      "name": "Soundtracks of Grand Theft Auto: San Andreas",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Soundtracks_of_Grand_Theft_Auto:_San_Andreas",
+        "fandom_title": "Soundtracks of Grand Theft Auto: San Andreas",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bone-county",
+      "name": "Bone County",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bone_County",
+        "fandom_title": "Bone County",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bayside-san-andreas",
+      "name": "Bayside, San Andreas",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bayside,_San_Andreas",
+        "fandom_title": "Bayside, San Andreas",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "el-quebrados",
+      "name": "El Quebrados",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/El_Quebrados",
+        "fandom_title": "El Quebrados",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "fort-carson-san-andreas",
+      "name": "Fort Carson, San Andreas",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Fort_Carson,_San_Andreas",
+        "fandom_title": "Fort Carson, San Andreas",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gant-bridge",
+      "name": "Gant Bridge",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Gant_Bridge",
+        "fandom_title": "Gant Bridge",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "las-venturas-san-andreas",
+      "name": "Las Venturas, San Andreas",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Las_Venturas,_San_Andreas",
+        "fandom_title": "Las Venturas, San Andreas",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "leonida-grand-theft-auto-6",
+      "name": "Leonida",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Leonida_(Grand_Theft_Auto_6)",
+        "fandom_title": "Leonida (Grand Theft Auto 6)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "leonida-keys",
+      "name": "Leonida Keys",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Leonida_Keys",
+        "fandom_title": "Leonida Keys",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "liberty-city-grand-theft-auto",
+      "name": "Liberty City",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Liberty_City_(Grand_Theft_Auto)",
+        "fandom_title": "Liberty City (Grand Theft Auto)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lil-probe-inn",
+      "name": "Lil Probe Inn",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Lil_Probe_Inn",
+        "fandom_title": "Lil Probe Inn",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lil-probeinn",
+      "name": "Lil' Probe'Inn",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Lil'_Probe'Inn",
+        "fandom_title": "Lil' Probe'Inn",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "los-santos-grand-theft-auto",
+      "name": "Los Santos",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Los_Santos_(Grand_Theft_Auto)",
+        "fandom_title": "Los Santos (Grand Theft Auto)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mount-kalaga",
+      "name": "Mount Kalaga",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mount_Kalaga",
+        "fandom_title": "Mount Kalaga",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "port-gellhorn",
+      "name": "Port Gellhorn",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Port_Gellhorn",
+        "fandom_title": "Port Gellhorn",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "san-fierro-san-andreas",
+      "name": "San Fierro, San Andreas",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/San_Fierro,_San_Andreas",
+        "fandom_title": "San Fierro, San Andreas",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unity-station-grand-theft-auto-san-andreas",
+      "name": "Unity Station",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Unity_Station_(Grand_Theft_Auto:_San_Andreas)",
+        "fandom_title": "Unity Station (Grand Theft Auto: San Andreas)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "verdant-meadows-airfield",
+      "name": "Verdant Meadows Airfield",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Verdant_Meadows_Airfield",
+        "fandom_title": "Verdant Meadows Airfield",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "vice-city",
+      "name": "Vice City",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Vice_City_(Grand_Theft_Auto_fictional_city)",
+        "fandom_title": "Vice City (Grand Theft Auto fictional city)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polish-girl",
+      "name": "Polish Girl",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Polish_Girl",
+        "fandom_title": "Polish Girl",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "auntie-poulet",
+      "name": "Auntie Poulet",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Auntie_Poulet",
+        "fandom_title": "Auntie Poulet",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "avery-carrington",
+      "name": "Avery Carrington",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Avery_Carrington",
+        "fandom_title": "Avery Carrington",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "big-mitch-baker",
+      "name": "\"Big\" Mitch Baker",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Big_Mitch_Baker",
+        "fandom_title": "Big Mitch Baker",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "raul-bautista",
+      "name": "Raul Bautista",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Raul_Bautista",
+        "fandom_title": "Raul Bautista",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "big-smoke-grand-theft-auto",
+      "name": "Big Smoke",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Big_Smoke_(Grand_Theft_Auto)",
+        "fandom_title": "Big Smoke (Grand Theft Auto)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brad-snider",
+      "name": "Brad Snider",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Brad_Snider",
+        "fandom_title": "Brad Snider",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "antonio-cipriani",
+      "name": "Antonio Cipriani",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Antonio_Cipriani",
+        "fandom_title": "Antonio Cipriani",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cj-grand-theft-auto",
+      "name": "CJ",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/CJ_(Grand_Theft_Auto)",
+        "fandom_title": "CJ (Grand Theft Auto)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cam-jones-gta",
+      "name": "Cam Jones",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cam_Jones_(GTA)",
+        "fandom_title": "Cam Jones (GTA)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "lucia-caminos",
+      "name": "Lucia Caminos",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Lucia_Caminos",
+        "fandom_title": "Lucia Caminos",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "candy-suxxx",
+      "name": "Candy suxxx",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Candy_Suxxx",
+        "fandom_title": "Candy Suxxx",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "carl-cj-johnson",
+      "name": "Carl 'CJ' Johnson",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Carl_'CJ'_Johnson",
+        "fandom_title": "Carl 'CJ' Johnson",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "phil-cassidy",
+      "name": "Phil Cassidy",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Phil_Cassidy",
+        "fandom_title": "Phil Cassidy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "catalina-grand-theft-auto",
+      "name": "Catalina",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Catalina_(Grand_Theft_Auto)",
+        "fandom_title": "Catalina (Grand Theft Auto)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cesar-vialpando",
+      "name": "Cesar Vialpando",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cesar_Vialpando",
+        "fandom_title": "Cesar Vialpando",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "antonio-toni-cipriani",
+      "name": "Antonio \"Toni\" Cipriani",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Antonio_\"Toni\"_Cipriani",
+        "fandom_title": "Antonio \"Toni\" Cipriani",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "toni-cipriani",
+      "name": "Toni Cipriani",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Toni_Cipriani",
+        "fandom_title": "Toni Cipriani",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cisco-grand-theft-auto-advance",
+      "name": "Cisco",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cisco_(Grand_Theft_Auto_Advance)",
+        "fandom_title": "Cisco (Grand Theft Auto Advance)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "claude-grand-theft-auto",
+      "name": "Claude",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Claude_(Grand_Theft_Auto)",
+        "fandom_title": "Claude (Grand Theft Auto)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "franklin-clinton",
+      "name": "Franklin Clinton",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Franklin_Clinton",
+        "fandom_title": "Franklin Clinton",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "colonel-cortez",
+      "name": "Colonel Cortez",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Colonel_Cortez",
+        "fandom_title": "Colonel Cortez",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "colonel-juan-garcia-cortez",
+      "name": "Colonel Juan Garcia Cortez",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Colonel_Juan_García_Cortez",
+        "fandom_title": "Colonel Juan García Cortez",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dave-norton-grand-theft-auto",
+      "name": "Dave Norton",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Dave_Norton_(Grand_Theft_Auto)",
+        "fandom_title": "Dave Norton (Grand Theft Auto)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "devin-weston",
+      "name": "Devin Weston",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Devin_Weston",
+        "fandom_title": "Devin Weston",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dr-isiah-friedlander",
+      "name": "Dr Isiah Friedlander",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Dr_Isiah_Friedlander",
+        "fandom_title": "Dr Isiah Friedlander",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "jason-duval",
+      "name": "Jason Duval",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Jason_Duval",
+        "fandom_title": "Jason Duval",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "earnest-kelly",
+      "name": "Earnest Kelly",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Earnest_Kelly",
+        "fandom_title": "Earnest Kelly",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "eddie-pulaski",
+      "name": "Eddie Pulaski",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Eddie_Pulaski",
+        "fandom_title": "Eddie Pulaski",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "frank-tenpenny",
+      "name": "Frank Tenpenny",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Frank_Tenpenny",
+        "fandom_title": "Frank Tenpenny",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gay-tony",
+      "name": "Gay Tony",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Gay_Tony",
+        "fandom_title": "Gay Tony",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "gta-san-andreas-girlfriends",
+      "name": "Gta san andreas girlfriends",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Gta_san_andreas_girlfriends",
+        "fandom_title": "Gta san andreas girlfriends",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "cal-hampton",
+      "name": "Cal Hampton",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Cal_Hampton",
+        "fandom_title": "Cal Hampton",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "brian-heder",
+      "name": "Brian Heder",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Brian_Heder",
+        "fandom_title": "Brian Heder",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "boobie-ike",
+      "name": "Boobie Ike",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Boobie_Ike",
+        "fandom_title": "Boobie Ike",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "juan-cortez",
+      "name": "Juan Cortez",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Juan_Cortez",
+        "fandom_title": "Juan Cortez",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "juan-garcia-cortes",
+      "name": "Juan García Cortes",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "grand-theft-auto",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Juan_García_Cortes",
+        "fandom_title": "Juan García Cortes",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "grand-theft-auto-2",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-iii",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-vi",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-vi-an-extended-look",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-advance",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-chinatown-wars",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-clone",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "development-of-grand-theft-auto-vi",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "fivem",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-gamechangers",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "gta-gang",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-childhood",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "hot-coffee-minigame",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "jacked-the-outlaw-story-of-grand-theft-auto",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lcpdfr",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-liberty-city-stories",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-london-1969",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "los-santos-san-andreas",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lspdfr",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-modding",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "devin-moore-murderer",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "multi-theft-auto",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-online",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "murder-of-khuan-phokaeng",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "rockstar-north",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "strickland-v-sony",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-v-trailer",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-vi-trailer-1",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-vi-trailer-2",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-the-trilogy-the-definitive-edition",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-vice-city",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-vice-city-stories",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "niko-bellic",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "carl-johnson-grand-theft-auto",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "trevor-philips",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "tommy-vercetti",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-iv",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-iv-the-lost-and-damned",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-the-ballad-of-gay-tony",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "no-sex-for-ben",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "uptown-riders",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-v",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "michael-de-santa",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "development-of-grand-theft-auto-v",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-v-enhanced",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-hamlet",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "gta",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lamar-roasts-franklin",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "music-of-grand-theft-auto-v",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "notgtav",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "reception-of-grand-theft-auto-v",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "sleepwalking-the-chain-gang-of-1974-song",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grand-theft-auto-san-andreas",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ah-shit-here-we-go-again",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "drones-beavis-and-butt-head",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "grove-street-families",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "kent-paul",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "soundtracks-of-grand-theft-auto-san-andreas",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bone-county",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bayside-san-andreas",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "el-quebrados",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "fort-carson-san-andreas",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "gant-bridge",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "las-venturas-san-andreas",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "leonida-grand-theft-auto-6",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "leonida-keys",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "liberty-city-grand-theft-auto",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lil-probe-inn",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lil-probeinn",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "los-santos-grand-theft-auto",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "mount-kalaga",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "port-gellhorn",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "san-fierro-san-andreas",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "unity-station-grand-theft-auto-san-andreas",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "verdant-meadows-airfield",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "vice-city",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "polish-girl",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "auntie-poulet",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "avery-carrington",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "big-mitch-baker",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "raul-bautista",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "big-smoke-grand-theft-auto",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "brad-snider",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "antonio-cipriani",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cj-grand-theft-auto",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cam-jones-gta",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "lucia-caminos",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "candy-suxxx",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "carl-cj-johnson",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "phil-cassidy",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "catalina-grand-theft-auto",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cesar-vialpando",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "antonio-toni-cipriani",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "toni-cipriani",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cisco-grand-theft-auto-advance",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "claude-grand-theft-auto",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "franklin-clinton",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "colonel-cortez",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "colonel-juan-garcia-cortez",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "dave-norton-grand-theft-auto",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "devin-weston",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "dr-isiah-friedlander",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "jason-duval",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "earnest-kelly",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "eddie-pulaski",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "frank-tenpenny",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "gay-tony",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "gta-san-andreas-girlfriends",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "cal-hampton",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "brian-heder",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "boobie-ike",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "juan-cortez",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "juan-garcia-cortes",
+      "grand-theft-auto",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Grand Theft Auto article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:36:36.655Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

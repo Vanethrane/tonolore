@@ -1,0 +1,530 @@
+{
+  "enrichments": [
+    {
+      "slug": "mission-impossible",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible",
+        "fandom_title": "Mission: Impossible",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "Mission: Impossible is an American multimedia franchise based on a fictional secret espionage agency known as the Impossible Missions Force (IMF). The 1966 TV series ran for seven seasons and was revived in 1988 for two seasons. It inspired a series of theatrical motion pictures starring Tom Cruise beginning in 1996.\n\nBy 2011, the franchise had generated over $4 billion in revenue, making it one of the highest-grossing media franchises of all time.\n\nThe most recent installment, Mission: Impossible – The Final Reckoning, premiered in Tokyo on May 5, 2025, and was released internationally on May 23. It earned about $598&nbsp;million worldwide, including $197.4&nbsp;million in the U.S. and Canada and $400.6&nbsp;million internationally, making it the highest-opening entry in the series and the eighth-highest-grossing film of 2025.\n\nAlthough its title suggests finality, franchise star Tom Cruise gave mixed signals. At the Cannes premiere, he said, \"It's the final... it's not called final for nothing\", while in other interviews he expressed interest in continuing the role into his eighties.",
+      "short_description": "Mission: Impossible is an American multimedia franchise based on a fictional secret espionage agency known as the Impossible Missions Force (IMF). The 1966 TV series ran for seven seasons and was revived in 1988 for two…"
+    },
+    {
+      "slug": "mission-impossible-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_figures",
+        "fandom_title": "Mission: Impossible figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_world_&_context",
+        "fandom_title": "Mission: Impossible world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_places",
+        "fandom_title": "Mission: Impossible places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_events",
+        "fandom_title": "Mission: Impossible events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_objects_&_artifacts",
+        "fandom_title": "Mission: Impossible objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_factions_&_groups",
+        "fandom_title": "Mission: Impossible factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_concepts",
+        "fandom_title": "Mission: Impossible concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_eras",
+        "fandom_title": "Mission: Impossible eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_works_&_media",
+        "fandom_title": "Mission: Impossible works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_symbols",
+        "fandom_title": "Mission: Impossible symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_controversies",
+        "fandom_title": "Mission: Impossible controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_geography",
+        "fandom_title": "Mission: Impossible geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_legacy",
+        "fandom_title": "Mission: Impossible legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_practices",
+        "fandom_title": "Mission: Impossible practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_1",
+        "fandom_title": "Mission: Impossible entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_2",
+        "fandom_title": "Mission: Impossible entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_3",
+        "fandom_title": "Mission: Impossible entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_4",
+        "fandom_title": "Mission: Impossible entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_5",
+        "fandom_title": "Mission: Impossible entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_6",
+        "fandom_title": "Mission: Impossible entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_7",
+        "fandom_title": "Mission: Impossible entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_8",
+        "fandom_title": "Mission: Impossible entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_9",
+        "fandom_title": "Mission: Impossible entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_10",
+        "fandom_title": "Mission: Impossible entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_11",
+        "fandom_title": "Mission: Impossible entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_12",
+        "fandom_title": "Mission: Impossible entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_13",
+        "fandom_title": "Mission: Impossible entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_14",
+        "fandom_title": "Mission: Impossible entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_15",
+        "fandom_title": "Mission: Impossible entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_16",
+        "fandom_title": "Mission: Impossible entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_17",
+        "fandom_title": "Mission: Impossible entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_18",
+        "fandom_title": "Mission: Impossible entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_19",
+        "fandom_title": "Mission: Impossible entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_20",
+        "fandom_title": "Mission: Impossible entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_21",
+        "fandom_title": "Mission: Impossible entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_22",
+        "fandom_title": "Mission: Impossible entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_23",
+        "fandom_title": "Mission: Impossible entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "mission-impossible-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Mission:_Impossible_entry_24",
+        "fandom_title": "Mission: Impossible entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "ethan-hunt",
+      "name": "Ethan Hunt",
+      "type": "person",
+      "description": "Ethan Matthew Hunt is a fictional character and the main protagonist of the Mission: Impossible film series. He is portrayed by Tom Cruise. The character of Ethan Hunt is a highly skilled field agent and operative for the Impossible Missions Force (IMF), a secret government agency that handles dangerous and high-stakes missions.\n\nIn the first film, Hunt acts as the IMF point man for an experienced field team led by veteran Jim Phelps (Jon Voight), his mentor. While attempting to prevent files containing information on all IMF's field agents from being stolen during a mission in Prague, the entire team, save for Hunt, appear to be killed, and the files are stolen. Hunt is seen as the main suspect as he learns that the mission was a set-up to expose a mole who had been selling secrets to an arms dealer called Max (Vanessa Redgrave); the real files are still secure at CIA headquarters in Langley. Hunt decides to steal the actual list himself for the arms dealer in exchange for a meeting with the actual mole and $10,000,000 in bearer bonds. He recruits a team of other disavowed agents such as hacker Luther Stickell (Ving Rhames), pilot Franz Krieger (Jean Reno), and Jim's wife Claire (Emmanuelle Béart), the only other survivor of the mission in Prague, to help him break into CIA headquarters in order to steal the genuine list in exchange for an introduction to the real mole, which he successfully does. Ethan later finds Jim alive and deduces that he is the real mole, working with Claire and Krieger to escape with the money and frame Ethan for their crimes. In a final confrontation aboard a TGV train in the Channel Tunnel, Claire is killed when she tries to protect Ethan, as Ethan clears his name by stopping and killing Phelps and Krieger before they are able to escape with the money and by securing the list. Ethan gets Luther reinstated as an IMF agent and considers leaving the IMF, but is offered a mission of his own during the flight home.\n\nIn the second film, Hunt is tasked with retrieving a deadly genetically engineered virus, known as \"Chimera\", from a rogue IMF agent, Sean Ambrose (Dougray Scott), who intends to release the virus after acquiring a controlling influence on the company that created it so that he can profit from sales of the cure. Hunt attempts to infiltrate Ambrose's inner circle through Ambrose's former girlfriend, Nyah Nordoff-Hall (Thandiwe Newton), an accomplished thief. During their mission, Hunt and Nordoff-Hall engage in an affair that complicates the mission. During a stand-off with Ambrose's forces, Nordoff-Hall is forced to infect herself with the last virus in order to save Hunt; with Hunt having destroyed the only other traces of the virus, she was thus able to shield Hunt until he could escape the confrontation. Subsequently, racing against time— the virus is incurable twenty hours after infection— Hunt manages to acquire the cure and is forced to kill Ambrose.",
+      "short_description": "Ethan Matthew Hunt is a fictional character and the main protagonist of the Mission: Impossible film series. He is portrayed by Tom Cruise. The character of Ethan Hunt is a highly skilled field agent and operative for…",
+      "evidence": "fiction",
+      "parentSlug": "mission-impossible-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ethan_Hunt",
+        "fandom_title": "Ethan Hunt",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "ethan-hunt",
+      "mission-impossible-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Mission: Impossible article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:49:25.689Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0,
+    "description_ensure_at": "2026-09-14T11:25:07.438Z",
+    "description_ensure_count": 1
+  }
+}

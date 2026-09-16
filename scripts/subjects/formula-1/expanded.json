@@ -16568,6 +16568,87 @@
           "fandom"
         ]
       }
+    },
+    {
+      "slug": "jazeman-jaafar",
+      "name": "Jazeman Jaafar",
+      "type": "person",
+      "description": "Jazeman Firhan Jaafar (born 13 November 1992) is a Malaysian racing driver.\n\nIn , he was given an evaluation test by .",
+      "short_description": "Jazeman Firhan Jaafar (born 13 November 1992) is a Malaysian racing driver.",
+      "evidence": "fiction",
+      "parentSlug": "formula-1",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/f1wikia/images/5/58/Jazeman.jpg/revision/latest/scale-to-width-down/180?cb=20220205024259",
+      "image_source": "https://f1.fandom.com/wiki/Jazeman_Jaafar",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Formula 1 marks © Formula One Group / FIA (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Jazeman Jaafar",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://f1.fandom.com/wiki/Jazeman_Jaafar",
+        "fandom_title": "Jazeman Jaafar",
+        "source_fandom": "f1.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "leyton-house-racing",
+      "name": "Leyton House Racing",
+      "type": "organization",
+      "description": "Leyton House Racing was a constructor that participated in Formula One during the and seasons. The team was owned by the Japanese real estate company, Leyton House. The team folded at the end of the 1991 season following the arrest of the team founder Akira Akagi for a financial scandal involving a Japanese bank.\n\nLeyton House was involved in various motorsport during the mid-1980s. Following the death of the team's driver Akira Hagiwara while testing Mercedes touring car at Sportsland Sugo, team founder Akira Akagi met the manager of Italian driver Ivan Capelli at an F3000 race at Imola. Capelli was eventually signed as Hagiwara's replacement for the 1986 Japanese Formula Two Championship, on the condition that Capelli keep a significant portion of the prize money to help his racing career in Europe. Akagi gave Capelli more prize money than originally agreed upon.\n\nAkagi arranged a sponsorship deal for Capelli to race in the 1986 International Formula 3000 Championship with Genoa Racing in a March. Capelli won the championship by 2 points over fellow Italian Pierluigi Martini.\n\nIn 1987, Akagi offered Capelli a full-time drive for a Formula Two season in Japan. Capelli declined the offer, wanting to make the move to Formula One instead. Akagi reached a title sponsorship deal with March Engineering for the 1987 Formula One Season to build a car for Capelli. This marked March's return to Formula One, having pulled out of the sport at the end of .",
+      "short_description": "Leyton House Racing was a constructor that participated in Formula One during the and seasons. The team was owned by the Japanese real estate company, Leyton House. The team folded at the end of the 1991 season…",
+      "evidence": "fiction",
+      "parentSlug": "formula-1",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "faction",
+        "fandom_url": "https://f1.fandom.com/wiki/Leyton_House_Racing",
+        "fandom_title": "Leyton House Racing",
+        "source_fandom": "f1.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "autodromo-hermanos-rodriguez",
+      "name": "Autódromo Hermanos Rodríguez",
+      "type": "place",
+      "description": "The Autódromo Hermanos Rodríguez (literally Rodríguez Brothers Racetrack) is a Grand Prix circuit located in the Magdalena Mixhuca Sports City, a public park in the heart of Mexico City. Named for Mexican brothers Ricardo and Pedro Rodríguez, both of whom competed in F1, the circuit hosted the World Championship Mexican Grand Prix between and , &ndash; and a non-championship event in .\n\nThe track is at an elevation of 2,285m (7,500 ft). The only other Formula One track that comes close to that figure is Kyalami Circuit, at a bit over 1,500m (4,900 ft). Because Mexico City has a population of close to 20 million, and is in an enclosed valley, the severe pollution and high altitude is problematic for the cars and personnel.\n\nThe Mexico City venue returned to the calendar to host a Grand Prix in 2015 and every year since then.\n\nAround 1958, a group of local businessmen wanted to attract Formula One to Mexico. The location chosen was a largely undeveloped park in the Magdalena Mixhuca district of Ciudad de Mexico, the national capital. The project created a race track, along with soccer fields, tennis courts and baseball diamonds. The track was named for the district, and was completed in 1962, in time to hold the required non-championship race. Sadly, that event was marred by the death of local hero Ricardo Rodríguez, who was killed when his suffered a suspension failure, and swerved into the barrier at the high-speed Peraltada curve. However, the Mexican Grand Prix was added to the calendar anyway.",
+      "short_description": "The Autódromo Hermanos Rodríguez (literally Rodríguez Brothers Racetrack) is a Grand Prix circuit located in the Magdalena Mixhuca Sports City, a public park in the heart of Mexico City. Named for Mexican brothers…",
+      "evidence": "fiction",
+      "parentSlug": "formula-1",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://static.wikia.nocookie.net/f1wikia/images/8/8c/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez_2015.png/revision/latest/scale-to-width-down/180?cb=20211029132852",
+      "image_source": "https://f1.fandom.com/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Formula 1 marks © Formula One Group / FIA (as applicable). Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Autódromo Hermanos Rodríguez",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://f1.fandom.com/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez",
+        "fandom_title": "Autódromo Hermanos Rodríguez",
+        "source_fandom": "f1.fandom.com",
+        "sources": [
+          "fandom"
+        ]
+      }
     }
   ],
   "relationships": [
@@ -21394,15 +21475,39 @@
       "Part of",
       0.9,
       0.85
+    ],
+    [
+      "jazeman-jaafar",
+      "formula-1",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "leyton-house-racing",
+      "formula-1",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "autodromo-hermanos-rodriguez",
+      "formula-1",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
     ]
   ],
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (f1.fandom.com) for identification and commentary only. Formula 1 marks © Formula One Group / FIA (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-13T03:21:26.650Z",
+  "generated_at": "2026-09-14T17:29:57.835Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://f1.fandom.com/wiki/",

@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "quantum-physics",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics",
+        "fandom_title": "Quantum physics",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_figures",
+        "fandom_title": "Quantum physics figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_world_&_context",
+        "fandom_title": "Quantum physics world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_places",
+        "fandom_title": "Quantum physics places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_events",
+        "fandom_title": "Quantum physics events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_objects_&_artifacts",
+        "fandom_title": "Quantum physics objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_factions_&_groups",
+        "fandom_title": "Quantum physics factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_concepts",
+        "fandom_title": "Quantum physics concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_eras",
+        "fandom_title": "Quantum physics eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_works_&_media",
+        "fandom_title": "Quantum physics works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_symbols",
+        "fandom_title": "Quantum physics symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_controversies",
+        "fandom_title": "Quantum physics controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_geography",
+        "fandom_title": "Quantum physics geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_legacy",
+        "fandom_title": "Quantum physics legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_practices",
+        "fandom_title": "Quantum physics practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_1",
+        "fandom_title": "Quantum physics entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_2",
+        "fandom_title": "Quantum physics entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_3",
+        "fandom_title": "Quantum physics entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_4",
+        "fandom_title": "Quantum physics entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_5",
+        "fandom_title": "Quantum physics entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_6",
+        "fandom_title": "Quantum physics entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_7",
+        "fandom_title": "Quantum physics entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_8",
+        "fandom_title": "Quantum physics entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_9",
+        "fandom_title": "Quantum physics entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_10",
+        "fandom_title": "Quantum physics entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_11",
+        "fandom_title": "Quantum physics entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_12",
+        "fandom_title": "Quantum physics entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_13",
+        "fandom_title": "Quantum physics entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_14",
+        "fandom_title": "Quantum physics entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_15",
+        "fandom_title": "Quantum physics entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_16",
+        "fandom_title": "Quantum physics entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_17",
+        "fandom_title": "Quantum physics entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_18",
+        "fandom_title": "Quantum physics entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_19",
+        "fandom_title": "Quantum physics entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_20",
+        "fandom_title": "Quantum physics entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_21",
+        "fandom_title": "Quantum physics entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_22",
+        "fandom_title": "Quantum physics entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_23",
+        "fandom_title": "Quantum physics entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "quantum-physics-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Quantum_physics_entry_24",
+        "fandom_title": "Quantum physics entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Quantum physics article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:38:18.128Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

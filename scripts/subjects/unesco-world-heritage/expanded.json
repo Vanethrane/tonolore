@@ -1,0 +1,500 @@
+{
+  "enrichments": [
+    {
+      "slug": "unesco-world-heritage",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/World_Heritage_Logo_global.svg/180px-World_Heritage_Logo_global.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/World_Heritage_Site",
+      "image_credit": "Fair-use identification thumbnail via Fandom. UNESCO World Heritage sites article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for World Heritage Site",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/World_Heritage_Site",
+        "fandom_title": "World Heritage Site",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_figures",
+        "fandom_title": "UNESCO World Heritage sites figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_world_&_context",
+        "fandom_title": "UNESCO World Heritage sites world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_places",
+        "fandom_title": "UNESCO World Heritage sites places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_events",
+        "fandom_title": "UNESCO World Heritage sites events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_objects_&_artifacts",
+        "fandom_title": "UNESCO World Heritage sites objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_factions_&_groups",
+        "fandom_title": "UNESCO World Heritage sites factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_concepts",
+        "fandom_title": "UNESCO World Heritage sites concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_eras",
+        "fandom_title": "UNESCO World Heritage sites eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_works_&_media",
+        "fandom_title": "UNESCO World Heritage sites works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_symbols",
+        "fandom_title": "UNESCO World Heritage sites symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_controversies",
+        "fandom_title": "UNESCO World Heritage sites controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_geography",
+        "fandom_title": "UNESCO World Heritage sites geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_legacy",
+        "fandom_title": "UNESCO World Heritage sites legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_practices",
+        "fandom_title": "UNESCO World Heritage sites practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_1",
+        "fandom_title": "UNESCO World Heritage sites entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_2",
+        "fandom_title": "UNESCO World Heritage sites entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_3",
+        "fandom_title": "UNESCO World Heritage sites entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_4",
+        "fandom_title": "UNESCO World Heritage sites entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_5",
+        "fandom_title": "UNESCO World Heritage sites entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_6",
+        "fandom_title": "UNESCO World Heritage sites entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_7",
+        "fandom_title": "UNESCO World Heritage sites entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_8",
+        "fandom_title": "UNESCO World Heritage sites entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_9",
+        "fandom_title": "UNESCO World Heritage sites entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_10",
+        "fandom_title": "UNESCO World Heritage sites entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_11",
+        "fandom_title": "UNESCO World Heritage sites entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_12",
+        "fandom_title": "UNESCO World Heritage sites entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_13",
+        "fandom_title": "UNESCO World Heritage sites entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_14",
+        "fandom_title": "UNESCO World Heritage sites entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_15",
+        "fandom_title": "UNESCO World Heritage sites entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_16",
+        "fandom_title": "UNESCO World Heritage sites entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_17",
+        "fandom_title": "UNESCO World Heritage sites entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_18",
+        "fandom_title": "UNESCO World Heritage sites entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_19",
+        "fandom_title": "UNESCO World Heritage sites entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_20",
+        "fandom_title": "UNESCO World Heritage sites entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_21",
+        "fandom_title": "UNESCO World Heritage sites entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_22",
+        "fandom_title": "UNESCO World Heritage sites entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_23",
+        "fandom_title": "UNESCO World Heritage sites entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "unesco-world-heritage-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/UNESCO_World_Heritage_sites_entry_24",
+        "fandom_title": "UNESCO World Heritage sites entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. UNESCO World Heritage sites article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:26:01.174Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

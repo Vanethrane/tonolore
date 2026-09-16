@@ -1,0 +1,1416 @@
+{
+  "enrichments": [
+    {
+      "slug": "bhopal-disaster",
+      "description": "On 3 December 1984, over 500,000 people in the vicinity of the Union Carbide India Limited pesticide plant in Bhopal, Madhya Pradesh, India, were exposed to the highly toxic gas methyl isocyanate, in what is considered the world's worst industrial disaster.*\n\nThe owner of the factory, Union Carbide India Limited (UCIL), was a publicly-traded company which was majority-owned and controlled by the UCC, while the remaining 49.1 percent stake was held by the Indian public and Indian government-controlled banks. In 1994, UCC sold its stake in UCIL to Eveready Industries India Limited (EIIL), which subsequently merged with McLeod Russel (India) Ltd. Eveready ended clean-up on the site in 1998, when it terminated its 99-year lease and turned over control of the site to the state government of Madhya Pradesh. Dow Chemical Company purchased UCC in 2001, seventeen years after the disaster.\n\nCivil and criminal cases filed in the United States against UCC and Warren Anderson, chief executive officer of the UCC at the time of the disaster, were dismissed and redirected to Indian courts on multiple occasions between 1986 and 2012, as the US courts focused on UCIL being a standalone entity of India. Civil and criminal cases were also filed in the District Court of Bhopal, India, involving UCC, UCIL, and Anderson. In June 2010, seven Indian nationals who were UCIL employees in 1984, including the former UCIL chairman Keshub Mahindra, were convicted in Bhopal of causing death by negligence and sentenced to two years' imprisonment and a fine of about $2,000 each, the maximum punishment allowed by Indian law. All were released on bail shortly after the verdict. An eighth former employee was also convicted, but died before the judgement was passed.\n\nThe UCIL factory was built in 1969 to produce the pesticide Sevin (UCC's brand name for carbaryl) using methyl isocyanate (MIC) as an intermediate. An MIC production plant was added to the UCIL site in 1979. The chemical process employed in the Bhopal plant had methylamine reacting with phosgene to form MIC, which was in turn reacted with 1-naphthol to form the final product, carbaryl. Another manufacturer, Bayer, also used this MIC-intermediate process at the chemical plant once owned by UCC at Institute, West Virginia in the United States.",
+      "short_description": "On 3 December 1984, over 500,000 people in the vicinity of the Union Carbide India Limited pesticide plant in Bhopal, Madhya Pradesh, India, were exposed to the highly toxic gas methyl isocyanate, in what is considered…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Union_Carbide_pesticide_factory%2C_Bhopal%2C_India%2C_1985.jpg/180px-Union_Carbide_pesticide_factory%2C_Bhopal%2C_India%2C_1985.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Bhopal_disaster",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Bhopal disaster article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Bhopal disaster",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster",
+        "fandom_title": "Bhopal disaster",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      }
+    },
+    {
+      "slug": "bhopal-disaster-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_figures",
+        "fandom_title": "Bhopal disaster figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_world_&_context",
+        "fandom_title": "Bhopal disaster world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_places",
+        "fandom_title": "Bhopal disaster places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_events",
+        "fandom_title": "Bhopal disaster events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_objects_&_artifacts",
+        "fandom_title": "Bhopal disaster objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_factions_&_groups",
+        "fandom_title": "Bhopal disaster factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_concepts",
+        "fandom_title": "Bhopal disaster concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_eras",
+        "fandom_title": "Bhopal disaster eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_works_&_media",
+        "fandom_title": "Bhopal disaster works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_symbols",
+        "fandom_title": "Bhopal disaster symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_controversies",
+        "fandom_title": "Bhopal disaster controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_geography",
+        "fandom_title": "Bhopal disaster geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_legacy",
+        "fandom_title": "Bhopal disaster legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_practices",
+        "fandom_title": "Bhopal disaster practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_1",
+        "fandom_title": "Bhopal disaster entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_2",
+        "fandom_title": "Bhopal disaster entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_3",
+        "fandom_title": "Bhopal disaster entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_4",
+        "fandom_title": "Bhopal disaster entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_5",
+        "fandom_title": "Bhopal disaster entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_6",
+        "fandom_title": "Bhopal disaster entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_7",
+        "fandom_title": "Bhopal disaster entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_8",
+        "fandom_title": "Bhopal disaster entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_9",
+        "fandom_title": "Bhopal disaster entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_10",
+        "fandom_title": "Bhopal disaster entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_11",
+        "fandom_title": "Bhopal disaster entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_12",
+        "fandom_title": "Bhopal disaster entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_13",
+        "fandom_title": "Bhopal disaster entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_14",
+        "fandom_title": "Bhopal disaster entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_15",
+        "fandom_title": "Bhopal disaster entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_16",
+        "fandom_title": "Bhopal disaster entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_17",
+        "fandom_title": "Bhopal disaster entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_18",
+        "fandom_title": "Bhopal disaster entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_19",
+        "fandom_title": "Bhopal disaster entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_20",
+        "fandom_title": "Bhopal disaster entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_21",
+        "fandom_title": "Bhopal disaster entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_22",
+        "fandom_title": "Bhopal disaster entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_23",
+        "fandom_title": "Bhopal disaster entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-disaster-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_disaster_entry_24",
+        "fandom_title": "Bhopal disaster entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "warren-anderson-american-businessman",
+      "name": "Warren Anderson",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Warren_Anderson_(American_businessman)",
+        "fandom_title": "Warren Anderson (American businessman)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "animals-people",
+      "name": "Animal's People",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Animal%27s_People",
+        "fandom_title": "Animal's People",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "shakeela-bano-bhopali",
+      "name": "Shakeela Bano Bhopali",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Shaeekla_Bano_singer.jpg/180px-Shaeekla_Bano_singer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Shakeela_Bano_Bhopali",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Bhopal disaster article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Shakeela Bano Bhopali",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Shakeela_Bano_Bhopali",
+        "fandom_title": "Shakeela Bano Bhopali",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "pablo-bartholomew",
+      "name": "Pablo Bartholomew",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Pablo_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "image_source": "https://en.wikipedia.org/wiki/Pablo_Bartholomew",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Bhopal disaster article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Pablo Bartholomew",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Pablo_Bartholomew",
+        "fandom_title": "Pablo Bartholomew",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rashida-bee",
+      "name": "Rashida Bee",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Rashida_Bee",
+        "fandom_title": "Rashida Bee",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "david-bergman-journalist",
+      "name": "David Bergman",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/David_Bergman_(journalist)",
+        "fandom_title": "David Bergman (journalist)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-play",
+      "name": "Bhopal",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_(play)",
+        "fandom_title": "Bhopal (play)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-express-film",
+      "name": "Bhopal Express",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal_Express_(film)",
+        "fandom_title": "Bhopal Express (film)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "bhopal-a-prayer-for-rain",
+      "name": "Bhopal: A Prayer for Rain",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Bhopal:_A_Prayer_for_Rain",
+        "fandom_title": "Bhopal: A Prayer for Rain",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "michael-v-ciresi",
+      "name": "Michael V. Ciresi",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/MikeCiresi2007-04-28.JPG/180px-MikeCiresi2007-04-28.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Michael_V._Ciresi",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Bhopal disaster article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Michael V. Ciresi",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Michael_V._Ciresi",
+        "fandom_title": "Michael V. Ciresi",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "dow-chemical-company",
+      "name": "Dow Chemical Company",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Dow_Chemical_Company_logo.svg/180px-Dow_Chemical_Company_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Dow_Chemical_Company",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Bhopal disaster article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Dow Chemical Company",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Dow_Chemical_Company",
+        "fandom_title": "Dow Chemical Company",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "five-past-midnight-in-bhopal",
+      "name": "Five past Midnight in Bhopal",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Five_past_Midnight_in_Bhopal",
+        "fandom_title": "Five past Midnight in Bhopal",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "marc-galanter-law-professor",
+      "name": "Marc Galanter",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Marc_Galanter_(law_professor)",
+        "fandom_title": "Marc Galanter (law professor)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "international-campaign-for-justice-in-bhopal",
+      "name": "International Campaign for Justice in Bhopal",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/International_Campaign_for_Justice_in_Bhopal",
+        "fandom_title": "International Campaign for Justice in Bhopal",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "international-medical-commission-on-bhopal",
+      "name": "International Medical Commission on Bhopal",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/International_Medical_Commission_on_Bhopal",
+        "fandom_title": "International Medical Commission on Bhopal",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "abdul-jabbar-khan-activist",
+      "name": "Abdul Jabbar Khan",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Abdul_Jabbar_Kahn_20130121.jpg/180px-Abdul_Jabbar_Kahn_20130121.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Abdul_Jabbar_Khan_(activist)",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Bhopal disaster article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Abdul Jabbar Khan (activist)",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Abdul_Jabbar_Khan_(activist)",
+        "fandom_title": "Abdul Jabbar Khan (activist)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "rajkumar-keswani",
+      "name": "Rajkumar Keswani",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Rajkumar_Keswani",
+        "fandom_title": "Rajkumar Keswani",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "keshub-mahindra",
+      "name": "Keshub Mahindra",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Keshub_Mahindra",
+        "fandom_title": "Keshub Mahindra",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "methyl-isocyanate",
+      "name": "Methyl isocyanate",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Methyl-isocyanate-3D-vdW.png/180px-Methyl-isocyanate-3D-vdW.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Methyl_isocyanate",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Bhopal disaster article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Methyl isocyanate",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Methyl_isocyanate",
+        "fandom_title": "Methyl isocyanate",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-ministry-of-utmost-happiness",
+      "name": "The Ministry of Utmost Happiness",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Ministry_of_Utmost_Happiness",
+        "fandom_title": "The Ministry of Utmost Happiness",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suroopa-mukherjee",
+      "name": "Suroopa Mukherjee",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Suroopa_Mukherjee",
+        "fandom_title": "Suroopa Mukherjee",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-railway-men",
+      "name": "The Railway Men",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Railway_Men",
+        "fandom_title": "The Railway Men",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "remember-bhopal-museum",
+      "name": "Remember Bhopal Museum",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Remember_Bhopal_Museum",
+        "fandom_title": "Remember Bhopal Museum",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sambhavna-trust-clinic",
+      "name": "Sambhavna Trust Clinic",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/SambhavnaEntrance.jpg/180px-SambhavnaEntrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Sambhavna_Trust_Clinic",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Bhopal disaster article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Sambhavna Trust Clinic",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Sambhavna_Trust_Clinic",
+        "fandom_title": "Sambhavna Trust Clinic",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "satinath-sarangi",
+      "name": "Satinath Sarangi",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Satinath_Sarangi",
+        "fandom_title": "Satinath Sarangi",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "champa-devi-shukla",
+      "name": "Champa Devi Shukla",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Champa_Devi_Shukla",
+        "fandom_title": "Champa Devi Shukla",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "students-for-bhopal",
+      "name": "Students for Bhopal",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Students_for_Bhopal",
+        "fandom_title": "Students for Bhopal",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "union-carbide-india-limited",
+      "name": "Union Carbide India Limited",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Union_Carbide_India_Limited",
+        "fandom_title": "Union Carbide India Limited",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "sunil-verma",
+      "name": "Sunil Verma",
+      "type": "topic",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "bhopal-disaster",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "topic",
+        "fandom_url": "https://en.wikipedia.org/wiki/Sunil_Verma",
+        "fandom_title": "Sunil Verma",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "warren-anderson-american-businessman",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "animals-people",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "shakeela-bano-bhopali",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "pablo-bartholomew",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "rashida-bee",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "david-bergman-journalist",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bhopal-play",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bhopal-express-film",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "bhopal-a-prayer-for-rain",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "michael-v-ciresi",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "dow-chemical-company",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "five-past-midnight-in-bhopal",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "marc-galanter-law-professor",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "international-campaign-for-justice-in-bhopal",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "international-medical-commission-on-bhopal",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "abdul-jabbar-khan-activist",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "rajkumar-keswani",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "keshub-mahindra",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "methyl-isocyanate",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-ministry-of-utmost-happiness",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "suroopa-mukherjee",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "the-railway-men",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "remember-bhopal-museum",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "sambhavna-trust-clinic",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "satinath-sarangi",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "champa-devi-shukla",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "students-for-bhopal",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "union-carbide-india-limited",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "sunil-verma",
+      "bhopal-disaster",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Bhopal disaster article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:10:09.879Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

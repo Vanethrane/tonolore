@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "it-stephen-king",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)",
+        "fandom_title": "It (Stephen King)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_figures",
+        "fandom_title": "It (Stephen King) figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_world_&_context",
+        "fandom_title": "It (Stephen King) world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_places",
+        "fandom_title": "It (Stephen King) places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_events",
+        "fandom_title": "It (Stephen King) events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_objects_&_artifacts",
+        "fandom_title": "It (Stephen King) objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_factions_&_groups",
+        "fandom_title": "It (Stephen King) factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_concepts",
+        "fandom_title": "It (Stephen King) concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_eras",
+        "fandom_title": "It (Stephen King) eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_works_&_media",
+        "fandom_title": "It (Stephen King) works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_symbols",
+        "fandom_title": "It (Stephen King) symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_controversies",
+        "fandom_title": "It (Stephen King) controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_geography",
+        "fandom_title": "It (Stephen King) geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_legacy",
+        "fandom_title": "It (Stephen King) legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_practices",
+        "fandom_title": "It (Stephen King) practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_1",
+        "fandom_title": "It (Stephen King) entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_2",
+        "fandom_title": "It (Stephen King) entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_3",
+        "fandom_title": "It (Stephen King) entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_4",
+        "fandom_title": "It (Stephen King) entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_5",
+        "fandom_title": "It (Stephen King) entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_6",
+        "fandom_title": "It (Stephen King) entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_7",
+        "fandom_title": "It (Stephen King) entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_8",
+        "fandom_title": "It (Stephen King) entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_9",
+        "fandom_title": "It (Stephen King) entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_10",
+        "fandom_title": "It (Stephen King) entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_11",
+        "fandom_title": "It (Stephen King) entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_12",
+        "fandom_title": "It (Stephen King) entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_13",
+        "fandom_title": "It (Stephen King) entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_14",
+        "fandom_title": "It (Stephen King) entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_15",
+        "fandom_title": "It (Stephen King) entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_16",
+        "fandom_title": "It (Stephen King) entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_17",
+        "fandom_title": "It (Stephen King) entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_18",
+        "fandom_title": "It (Stephen King) entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_19",
+        "fandom_title": "It (Stephen King) entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_20",
+        "fandom_title": "It (Stephen King) entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_21",
+        "fandom_title": "It (Stephen King) entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_22",
+        "fandom_title": "It (Stephen King) entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_23",
+        "fandom_title": "It (Stephen King) entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "it-stephen-king-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/It_(Stephen_King)_entry_24",
+        "fandom_title": "It (Stephen King) entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. It (Stephen King) article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:16:58.132Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

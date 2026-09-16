@@ -4,7 +4,7 @@
       "slug": "annie-leonhart",
       "description": "She possessed the ability to transform into a Titan known as the Female Titan. Trained from an early age by her father, she is selected as one of Marley's Warriors. In the year 845, she is sent on a mission to retrieve the Founding Titan, along with fellow Warriors Reiner Braun, Bertolt Hoover, and Marcel Galliard. As the Female Titan, she serves as a major antagonist prior to her defeat, at which point she crystallizes herself and is left in a comatose state. She was held underground in the custody of the Survey Corps for approximately four years before escaping during a battle between the Military, the Yeagerists, and the forces of Marley.\n\nAnnie is a young girl of considerably short height with a small yet very muscular build and physique. She has moderately short blonde hair that is often tied at the back with her right fringe mainly draping over the right side of her face (though she tends to push it to the side on occasion, possibly for better visibility); currently she wears it down and it falls slightly below her neck. She has an oval-shaped face, blue eyes, a Roman nose, and pale complexion. Her hair is particularly pale and, when untied, reaches down the nape of her neck. Her eyes, although of considerable size and proportion, often have a sullen vibe to their appearance. Annie's casual attire mainly consists of a hooded sweatshirt underneath a jacket accompanied by dark gray pants. She is often seen in the Training Corps uniform and then the Military Police Brigade uniform after graduation. Though Annie frequently dons hooded sweatshirts as part of her standard attire, she also wears her signature white hooded sweatshirt as part of her standard military attire. During risky missions, it is implied that she always wears her silver ring, which has a small folding blade, on her right index finger; she uses the blade as her primary means of causing self-injury to transform into her Female Titan form at any time.\n\nAnnie's appearance as the Female Titan changed quite drastically, though her overall physique and facial features remained mostly the same. The Titan body consisted mainly of exposed muscle tissue, with noticeably limited skin coverage, and fingers made out of bone. Along with a massive difference in height from Annie's human form, its face was laden with muscle lining, notably underneath the cheeks (giving it the capability to stretch its mouth far more than it seemed possible), along with yellowish teeth. Compared to the majority of other Titans encountered, Annie's Female Titan form seemed much stronger and more physically fit, bearing a lean build with visible muscle definition.",
       "short_description": "She possessed the ability to transform into a Titan known as the Female Titan. Trained from an early age by her father, she is selected as one of Marley's Warriors. In the year 845, she is sent on a mission to retrieve…",
-      "image_url": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/2e/Annie_Leonhart_character_image.png/revision/latest/scale-to-width-down/360?cb=20210410134101",
+      "image_url": "https://static.wikia.nocookie.net/shingekinokyojin/images/2/2e/Annie_Leonhart_character_image.png/revision/latest/scale-to-width-down/180?cb=20210410134101",
       "image_source": "https://attackontitan.fandom.com/wiki/Annie_Leonhart",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hajime Isayama / Kodansha (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -56,7 +56,7 @@
         ],
         "fandom_preferred_image": true
       },
-      "image_url": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/44/Attack_Titan_character_image_%28Eren_Yeager%29.png/revision/latest/scale-to-width-down/360?cb=20190412025701",
+      "image_url": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/44/Attack_Titan_character_image_%28Eren_Yeager%29.png/revision/latest/scale-to-width-down/180?cb=20190412025701",
       "image_source": "https://attackontitan.fandom.com/wiki/Attack_Titan",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hajime Isayama / Kodansha (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -376,7 +376,7 @@
       "slug": "marley",
       "description": "Marley serves as the main antagonist to the Eldians inside the Walls and filled Paradis Island with Titans to keep them inside. In year 854, Marley officially declared war on Paradis Island.\n\nMarley was a powerful nation in ancient times; however, around 2,000 years ago, a slave of the Eldians named Ymir gained the power of the Titans. King Fritz used her abilities to defeat Marley and force their surrender. One of the Marleyans attempted to assassinate Fritz several years after their defeat, but Ymir intervened and was killed instead. After Ymir's death, her power was split and passed down to her descendants in the form of the Nine Titans, who subsequently built the Eldian Empire. Using the Titans, the Eldians waged war against Marley and many other nations, utterly destroying them and obtaining complete rule over the continental mainland. This is considered to be the start of the Dark Ages.\n\nAbout 1,200 years ago, Lago, one of the largest cities in Marley, was destroyed by Titans of the Eldian Empire over the course of a single day. The Titans would continue their advance and went on to commit \"The Devastation of Monte\" and \"The Ravaging of Valle\" which resulted in the deaths of hundreds of thousands of Marleyans. Grisha Yeager allegedly dismissed the massacre as \"lies\"; however, he denied Eldia's brutal history of war and slavery.\n\nEventually the Eldian Empire began to run out of enemies and the nine aristocratic families who possessed the power of the Titans grew resentful of each other, creating a state of constant bloodshed. This eventually led to the Great Titan War. According to Marleyan legend, a legendary Marleyan hero named Helos turned the tides of war to his people's favor by manipulating the Eldians against each other, which allowed Marley to claim victory in the war and even succeed in obtaining seven of the Nine Titans that were in Eldia's possession. The first of these Titans was the War Hammer Titan, held by the Tybur family, who had turned against their king and sided with the Marleyan uprising.",
       "short_description": "Marley serves as the main antagonist to the Eldians inside the Walls and filled Paradis Island with Titans to keep them inside. In year 854, Marley officially declared war on Paradis Island.",
-      "image_url": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/00/Marley_territory.png/revision/latest/scale-to-width-down/360?cb=20171228043515",
+      "image_url": "https://static.wikia.nocookie.net/shingekinokyojin/images/0/00/Marley_territory.png/revision/latest/scale-to-width-down/180?cb=20171228043515",
       "image_source": "https://attackontitan.fandom.com/wiki/Marley",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Hajime Isayama / Kodansha (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -9477,10 +9477,10 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (attackontitan.fandom.com) for identification and commentary only. Character / franchise art © Hajime Isayama / Kodansha (as applicable). Not free or redistributable artwork."
   },
-  "generated_at": "2026-09-13T03:56:12.225Z",
+  "generated_at": "2026-09-14T19:43:50.059Z",
   "source": {
     "wikipedia": true,
     "fandom": "https://attackontitan.fandom.com/wiki/",

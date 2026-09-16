@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T04:01:27.833Z",
+  "generated_at": "2026-09-14T19:49:27.205Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (warhammer40k.fandom.com) for identification and commentary only. Character / franchise art © Games Workshop (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -61,7 +61,7 @@
       "slug": "emperor-of-mankind",
       "description": "The Emperor of Mankind, often referred to by His faithful as the \"God-Emperor,\" the \"Master of Mankind,\" or simply \"the Emperor,\" and who sometimes referred to Himself as \"Revelation,\" known to the forces of Chaos as the False Emperor or the Corpse Emperor, is the immortal Perpetual and psyker who serves as the reigning monarch of the Imperium of Man, and is described by the Imperial Ecclesiarchy and the Imperial Cult as the father, guardian and god of Humanity.\n\nThe Chaos Gods and the Daemons of the Warp refer to Him as \"the Anathema\" for He is the greatest embodiment of universal order in the galaxy today and the most potent foe of Chaos in existence. He was, and remains, the most powerful Human psyker to have ever been born.\n\nHe has sat immobile, His body slowly crumbling, within the Golden Throne of Terra for over 10,000 standard years. Although once a living man, His shattered, decaying body can no longer support life, and it is kept intact only by the cybernetic mechanisms of the Golden Throne and a potent mind itself sustained by the daily sacrifice of thousands of lives.\n\nThe Emperor chose to sacrifice His immortal life at the end of the Horus Heresy in the service and protection of Mankind. To Humanity's countless trillions across the galaxy-spanning Imperium, He is nothing less than God. Through His Imperium, Humanity is united and remains one of the most powerful intelligent species in the Milky Way galaxy as well as its most dominant in terms of both population and territory held.",
       "short_description": "The Emperor of Mankind, often referred to by His faithful as the \"God-Emperor,\" the \"Master of Mankind,\" or simply \"the Emperor,\" and who sometimes referred to Himself as \"Revelation,\" known to the forces of Chaos as…",
-      "image_url": "https://static.wikia.nocookie.net/warhammer40k/images/c/c3/No_Peace_Amongst_the_Stars_-_Warhammer_40%2C000_Official_Cinematic_Trailer/revision/latest/scale-to-width-down/360?cb=20260612164709",
+      "image_url": "https://static.wikia.nocookie.net/warhammer40k/images/c/c3/No_Peace_Amongst_the_Stars_-_Warhammer_40%2C000_Official_Cinematic_Trailer/revision/latest/scale-to-width-down/180?cb=20260612164709",
       "image_source": "https://warhammer40k.fandom.com/wiki/Emperor_of_Mankind",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Games Workshop (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
@@ -271,7 +271,7 @@
       "slug": "black-legion",
       "description": "\"We are returned!\" and \"Death to the False Emperor!\" (Post-Heresy)\n\nThe Black Legion, formerly known as the Sons of Horus and before that as the Luna Wolves, is a Traitor Legion of Chaos Space Marines that is the first in infamy, if not in treachery, whose name resounds as a curse throughout the scattered and war-torn realms of Humanity. The Black Legion was one of the 9 First Founding Legions of Space Marines who turned Traitor to the Imperium during the Horus Heresy in the early 31st Millennium.\n\nThe Black Legion, at that time still known as the \"Sons of Horus,\" became the primary instrument of its primarch, the Warmaster Horus, to overthrow the Emperor of Mankind and seize control of the Imperium in the name of Chaos.\n\nSuch are the crimes of the Black Legion in the 41st Millennium that it is easy to forget that the past was very different, and that there was a time when its Astartes and their perfidious master Horus were lauded above all of the other warriors of the Legiones Astartes, and were considered the most favoured servants of the Emperor.",
       "short_description": "\"We are returned!\" and \"Death to the False Emperor!\" (Post-Heresy)",
-      "image_url": "https://static.wikia.nocookie.net/warhammer40k/images/d/de/BlackLegionEyeofHorusArmourial.png/revision/latest/scale-to-width-down/360?cb=20170813040332",
+      "image_url": "https://static.wikia.nocookie.net/warhammer40k/images/d/de/BlackLegionEyeofHorusArmourial.png/revision/latest/scale-to-width-down/180?cb=20170813040332",
       "image_source": "https://warhammer40k.fandom.com/wiki/Black_Legion",
       "image_credit": "Fair-use identification thumbnail via Fandom. Character / franchise art © Games Workshop (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",

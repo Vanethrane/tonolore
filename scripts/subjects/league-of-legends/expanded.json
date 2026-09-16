@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "league-of-legends",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends",
+        "fandom_title": "League of Legends",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_figures",
+        "fandom_title": "League of Legends figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_world_&_context",
+        "fandom_title": "League of Legends world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_places",
+        "fandom_title": "League of Legends places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_events",
+        "fandom_title": "League of Legends events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_objects_&_artifacts",
+        "fandom_title": "League of Legends objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_factions_&_groups",
+        "fandom_title": "League of Legends factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_concepts",
+        "fandom_title": "League of Legends concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_eras",
+        "fandom_title": "League of Legends eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_works_&_media",
+        "fandom_title": "League of Legends works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_symbols",
+        "fandom_title": "League of Legends symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_controversies",
+        "fandom_title": "League of Legends controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_geography",
+        "fandom_title": "League of Legends geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_legacy",
+        "fandom_title": "League of Legends legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_practices",
+        "fandom_title": "League of Legends practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_1",
+        "fandom_title": "League of Legends entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_2",
+        "fandom_title": "League of Legends entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_3",
+        "fandom_title": "League of Legends entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_4",
+        "fandom_title": "League of Legends entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_5",
+        "fandom_title": "League of Legends entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_6",
+        "fandom_title": "League of Legends entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_7",
+        "fandom_title": "League of Legends entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_8",
+        "fandom_title": "League of Legends entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_9",
+        "fandom_title": "League of Legends entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_10",
+        "fandom_title": "League of Legends entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_11",
+        "fandom_title": "League of Legends entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_12",
+        "fandom_title": "League of Legends entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_13",
+        "fandom_title": "League of Legends entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_14",
+        "fandom_title": "League of Legends entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_15",
+        "fandom_title": "League of Legends entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_16",
+        "fandom_title": "League of Legends entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_17",
+        "fandom_title": "League of Legends entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_18",
+        "fandom_title": "League of Legends entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_19",
+        "fandom_title": "League of Legends entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_20",
+        "fandom_title": "League of Legends entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_21",
+        "fandom_title": "League of Legends entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_22",
+        "fandom_title": "League of Legends entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_23",
+        "fandom_title": "League of Legends entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "league-of-legends-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/League_of_Legends_entry_24",
+        "fandom_title": "League of Legends entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. League of Legends article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:38:55.185Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

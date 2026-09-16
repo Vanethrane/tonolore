@@ -1,0 +1,1065 @@
+{
+  "enrichments": [
+    {
+      "slug": "persona-series",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona",
+        "fandom_title": "Persona",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_figures",
+        "fandom_title": "Persona figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_world_&_context",
+        "fandom_title": "Persona world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_places",
+        "fandom_title": "Persona places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_events",
+        "fandom_title": "Persona events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_objects_&_artifacts",
+        "fandom_title": "Persona objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_factions_&_groups",
+        "fandom_title": "Persona factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_concepts",
+        "fandom_title": "Persona concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_eras",
+        "fandom_title": "Persona eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_works_&_media",
+        "fandom_title": "Persona works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_symbols",
+        "fandom_title": "Persona symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_controversies",
+        "fandom_title": "Persona controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_geography",
+        "fandom_title": "Persona geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_legacy",
+        "fandom_title": "Persona legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_practices",
+        "fandom_title": "Persona practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_1",
+        "fandom_title": "Persona entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_2",
+        "fandom_title": "Persona entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_3",
+        "fandom_title": "Persona entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_4",
+        "fandom_title": "Persona entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_5",
+        "fandom_title": "Persona entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_6",
+        "fandom_title": "Persona entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_7",
+        "fandom_title": "Persona entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_8",
+        "fandom_title": "Persona entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_9",
+        "fandom_title": "Persona entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_10",
+        "fandom_title": "Persona entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_11",
+        "fandom_title": "Persona entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_12",
+        "fandom_title": "Persona entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_13",
+        "fandom_title": "Persona entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_14",
+        "fandom_title": "Persona entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_15",
+        "fandom_title": "Persona entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_16",
+        "fandom_title": "Persona entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_17",
+        "fandom_title": "Persona entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_18",
+        "fandom_title": "Persona entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_19",
+        "fandom_title": "Persona entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_20",
+        "fandom_title": "Persona entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_21",
+        "fandom_title": "Persona entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_22",
+        "fandom_title": "Persona entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_23",
+        "fandom_title": "Persona entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "persona-series-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Persona_entry_24",
+        "fandom_title": "Persona entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "mitsuru-kirijo",
+      "name": "Mitsuru Kirijo",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "persona-series-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Mitsuru_Kirijo",
+        "fandom_title": "Mitsuru Kirijo",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "protagonist-of-persona-3",
+      "name": "Protagonist of Persona 3",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "persona-series-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Protagonist_of_Persona_3",
+        "fandom_title": "Protagonist of Persona 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "characters-of-persona-2",
+      "name": "Characters of Persona 2",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "persona-series-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Characters_of_Persona_2",
+        "fandom_title": "Characters of Persona 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nanako-dojima",
+      "name": "Nanako Dojima",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "persona-series-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Nanako_Dojima",
+        "fandom_title": "Nanako Dojima",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "yu-narukami",
+      "name": "Yu Narukami",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "persona-series-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Yu_Narukami",
+        "fandom_title": "Yu Narukami",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "chie-satonaka",
+      "name": "Chie Satonaka",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "persona-series-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Chie_Satonaka",
+        "fandom_title": "Chie Satonaka",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "naoto-shirogane",
+      "name": "Naoto Shirogane",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "persona-series-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Naoto_Shirogane",
+        "fandom_title": "Naoto Shirogane",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kanji-tatsumi",
+      "name": "Kanji Tatsumi",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "persona-series-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Kanji_Tatsumi",
+        "fandom_title": "Kanji Tatsumi",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "goro-akechi",
+      "name": "Goro Akechi",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "persona-series-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Goro_Akechi",
+        "fandom_title": "Goro Akechi",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "joker-persona",
+      "name": "Joker",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "persona-series-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Joker_(Persona)",
+        "fandom_title": "Joker (Persona)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "suguru-kamoshida",
+      "name": "Suguru Kamoshida",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "persona-series-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Suguru_Kamoshida",
+        "fandom_title": "Suguru Kamoshida",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "yusuke-kitagawa",
+      "name": "Yusuke Kitagawa",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "persona-series-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Yusuke_Kitagawa",
+        "fandom_title": "Yusuke Kitagawa",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "morgana-persona",
+      "name": "Morgana",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "persona-series-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Morgana_(Persona)",
+        "fandom_title": "Morgana (Persona)",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "makoto-niijima",
+      "name": "Makoto Niijima",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "persona-series-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Makoto_Niijima",
+        "fandom_title": "Makoto Niijima",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "haru-okumura",
+      "name": "Haru Okumura",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "persona-series-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Haru_Okumura",
+        "fandom_title": "Haru Okumura",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ryuji-sakamoto",
+      "name": "Ryuji Sakamoto",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "persona-series-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ryuji_Sakamoto",
+        "fandom_title": "Ryuji Sakamoto",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "futaba-sakura",
+      "name": "Futaba Sakura",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "persona-series-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Futaba_Sakura",
+        "fandom_title": "Futaba Sakura",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "ann-takamaki",
+      "name": "Ann Takamaki",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "persona-series-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Ann_Takamaki",
+        "fandom_title": "Ann Takamaki",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kasumi-yoshizawa",
+      "name": "Kasumi Yoshizawa",
+      "type": "person",
+      "description": "",
+      "evidence": "fiction",
+      "parentSlug": "persona-series-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Kasumi_Yoshizawa",
+        "fandom_title": "Kasumi Yoshizawa",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "mitsuru-kirijo",
+      "persona-series-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "protagonist-of-persona-3",
+      "persona-series-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "characters-of-persona-2",
+      "persona-series-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "nanako-dojima",
+      "persona-series-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "yu-narukami",
+      "persona-series-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "chie-satonaka",
+      "persona-series-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "naoto-shirogane",
+      "persona-series-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "kanji-tatsumi",
+      "persona-series-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "goro-akechi",
+      "persona-series-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "joker-persona",
+      "persona-series-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "suguru-kamoshida",
+      "persona-series-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "yusuke-kitagawa",
+      "persona-series-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "morgana-persona",
+      "persona-series-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "makoto-niijima",
+      "persona-series-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "haru-okumura",
+      "persona-series-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ryuji-sakamoto",
+      "persona-series-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "futaba-sakura",
+      "persona-series-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "ann-takamaki",
+      "persona-series-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "kasumi-yoshizawa",
+      "persona-series-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Persona article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:39:36.547Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

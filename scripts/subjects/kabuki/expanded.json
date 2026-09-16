@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "kabuki",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki",
+        "fandom_title": "Kabuki",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_figures",
+        "fandom_title": "Kabuki figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_world_&_context",
+        "fandom_title": "Kabuki world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_places",
+        "fandom_title": "Kabuki places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_events",
+        "fandom_title": "Kabuki events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_objects_&_artifacts",
+        "fandom_title": "Kabuki objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_factions_&_groups",
+        "fandom_title": "Kabuki factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_concepts",
+        "fandom_title": "Kabuki concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_eras",
+        "fandom_title": "Kabuki eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_works_&_media",
+        "fandom_title": "Kabuki works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_symbols",
+        "fandom_title": "Kabuki symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_controversies",
+        "fandom_title": "Kabuki controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_geography",
+        "fandom_title": "Kabuki geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_legacy",
+        "fandom_title": "Kabuki legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_practices",
+        "fandom_title": "Kabuki practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_1",
+        "fandom_title": "Kabuki entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_2",
+        "fandom_title": "Kabuki entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_3",
+        "fandom_title": "Kabuki entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_4",
+        "fandom_title": "Kabuki entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_5",
+        "fandom_title": "Kabuki entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_6",
+        "fandom_title": "Kabuki entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_7",
+        "fandom_title": "Kabuki entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_8",
+        "fandom_title": "Kabuki entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_9",
+        "fandom_title": "Kabuki entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_10",
+        "fandom_title": "Kabuki entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_11",
+        "fandom_title": "Kabuki entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_12",
+        "fandom_title": "Kabuki entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_13",
+        "fandom_title": "Kabuki entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_14",
+        "fandom_title": "Kabuki entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_15",
+        "fandom_title": "Kabuki entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_16",
+        "fandom_title": "Kabuki entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_17",
+        "fandom_title": "Kabuki entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_18",
+        "fandom_title": "Kabuki entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_19",
+        "fandom_title": "Kabuki entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_20",
+        "fandom_title": "Kabuki entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_21",
+        "fandom_title": "Kabuki entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_22",
+        "fandom_title": "Kabuki entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_23",
+        "fandom_title": "Kabuki entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "kabuki-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kabuki_entry_24",
+        "fandom_title": "Kabuki entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Kabuki article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:50:52.395Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "x-men-the-animated-series",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series",
+        "fandom_title": "X-Men: The Animated Series",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_figures",
+        "fandom_title": "X-Men: The Animated Series figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_world_&_context",
+        "fandom_title": "X-Men: The Animated Series world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_places",
+        "fandom_title": "X-Men: The Animated Series places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_events",
+        "fandom_title": "X-Men: The Animated Series events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_objects_&_artifacts",
+        "fandom_title": "X-Men: The Animated Series objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_factions_&_groups",
+        "fandom_title": "X-Men: The Animated Series factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_concepts",
+        "fandom_title": "X-Men: The Animated Series concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_eras",
+        "fandom_title": "X-Men: The Animated Series eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_works_&_media",
+        "fandom_title": "X-Men: The Animated Series works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_symbols",
+        "fandom_title": "X-Men: The Animated Series symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_controversies",
+        "fandom_title": "X-Men: The Animated Series controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_geography",
+        "fandom_title": "X-Men: The Animated Series geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_legacy",
+        "fandom_title": "X-Men: The Animated Series legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_practices",
+        "fandom_title": "X-Men: The Animated Series practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_1",
+        "fandom_title": "X-Men: The Animated Series entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_2",
+        "fandom_title": "X-Men: The Animated Series entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_3",
+        "fandom_title": "X-Men: The Animated Series entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_4",
+        "fandom_title": "X-Men: The Animated Series entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_5",
+        "fandom_title": "X-Men: The Animated Series entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_6",
+        "fandom_title": "X-Men: The Animated Series entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_7",
+        "fandom_title": "X-Men: The Animated Series entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_8",
+        "fandom_title": "X-Men: The Animated Series entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_9",
+        "fandom_title": "X-Men: The Animated Series entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_10",
+        "fandom_title": "X-Men: The Animated Series entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_11",
+        "fandom_title": "X-Men: The Animated Series entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_12",
+        "fandom_title": "X-Men: The Animated Series entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_13",
+        "fandom_title": "X-Men: The Animated Series entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_14",
+        "fandom_title": "X-Men: The Animated Series entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_15",
+        "fandom_title": "X-Men: The Animated Series entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_16",
+        "fandom_title": "X-Men: The Animated Series entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_17",
+        "fandom_title": "X-Men: The Animated Series entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_18",
+        "fandom_title": "X-Men: The Animated Series entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_19",
+        "fandom_title": "X-Men: The Animated Series entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_20",
+        "fandom_title": "X-Men: The Animated Series entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_21",
+        "fandom_title": "X-Men: The Animated Series entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_22",
+        "fandom_title": "X-Men: The Animated Series entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_23",
+        "fandom_title": "X-Men: The Animated Series entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "x-men-the-animated-series-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series_entry_24",
+        "fandom_title": "X-Men: The Animated Series entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. X-Men: The Animated Series article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:22:30.642Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

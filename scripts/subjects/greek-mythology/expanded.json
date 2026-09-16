@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T03:18:16.117Z",
+  "generated_at": "2026-09-14T17:26:39.864Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (greekmythology.fandom.com) for identification and commentary only. Mythology commentary uses public-domain traditions; modern marks remain with rights holders. Not free or redistributable artwork."
   },
   "enrichments": [
@@ -1970,7 +1970,7 @@
       "slug": "kytheros",
       "name": "Kytheros",
       "type": "person",
-      "description": "Kytheros was a River-God of Elis in the Peloponnesos, southern Greece.\n\nWrite the first section of your page here.\n\nWrite the second section of your page here.\n\nCategory:Deities Category:Immortals Category:Minor Gods Category:Minor Deities",
+      "description": "Kytheros was the god of the river of the same name. He was one of the children of Okeanos & Tethys. His river (which was truly no more than a stream) acted as one of the many tributaries which fed into the Alpheios by flowing down from Mount Pholoe merging with the Alpheios a short distance from Olympia after passing by the town of Herakleia.\n\nCategory:River Deities Category:Water Gods Category:Water Gods",
       "short_description": "Kytheros was the god of the river of the same name. He was one of the children of Okeanos & Tethys. His river (which was truly no more than a stream) acted as one of the many tributaries which fed into the Alpheios by…",
       "evidence": "fiction",
       "parentSlug": "greek-mythology",
@@ -1981,8 +1981,8 @@
         "discovered": true,
         "source": "fandom",
         "kind": "character",
-        "fandom_url": "https://greekmythology.fandom.com/wiki/Kyth%C3%AAros",
-        "fandom_title": "Kythêros",
+        "fandom_url": "https://greekmythology.fandom.com/wiki/Kytheros",
+        "fandom_title": "Kytheros",
         "source_fandom": "greekmythology.fandom.com",
         "sources": [
           "fandom"
@@ -5454,7 +5454,7 @@
       "slug": "kaeneus",
       "name": "Kaeneus",
       "type": "person",
-      "description": "Kaeneus was described as the daughter of Elatus, a Lapith leader and Hippea. In other version, Kaeneus was described as the daughter of Atrax, the son of the river god Peneus and Bura.\n\nSea god Poseidon was attracted towards Kaeneus stunning beauty and lusted after her. Kaeneus tried to escape Poseidon embraces, but Poseidon forced her to have sexual intercourse with him. Afterwards Poseidon promised to grant her anything she wished. Kaeneus wished to become a man, so that nothing like this could ever happen to her again.\n\nPoseidon granted her wish, and in addition, made her/him invulnerable to all weapons. Kaeneus then changed his name to Kaeneus and became a warrior, traveling all over Thessaly.\n\nNot only was Kaeneus an Argonaut but he was among the company of heroes that hunt the Kalydomian Boar.",
+      "description": "Kaeneus the son of Koronus from Gortyn was one of two Argonauts that bore the name (the other being the child of Elatus and Hippea). The exact amount of Kaeneus' involvement in the Quest for the Golden Fleece is unknown because he is onlly mentioned by name in the part where the Argonauts assemble.\n\n\"Another Caeneus, son of Coronus, from Gortyn\" Category:Argonauts",
       "short_description": "Kaeneus was described as the daughter of Elatus, a Lapith leader and Hippea. In other version, Kaeneus was described as the daughter of Atrax, the son of the river god Peneus and Bura.",
       "evidence": "fiction",
       "parentSlug": "greek-mythology",
@@ -5471,8 +5471,8 @@
         "discovered": true,
         "source": "fandom",
         "kind": "character",
-        "fandom_url": "https://greekmythology.fandom.com/wiki/Kaeneus",
-        "fandom_title": "Kaeneus",
+        "fandom_url": "https://greekmythology.fandom.com/wiki/Kaeneus_(Son_of_Koronus_from_Gortyn)",
+        "fandom_title": "Kaeneus (Son of Koronus from Gortyn)",
         "source_fandom": "greekmythology.fandom.com",
         "sources": [
           "fandom"

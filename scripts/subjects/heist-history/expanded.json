@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "heist-history",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists",
+        "fandom_title": "Famous heists",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_figures",
+        "fandom_title": "Famous heists figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_world_&_context",
+        "fandom_title": "Famous heists world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_places",
+        "fandom_title": "Famous heists places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_events",
+        "fandom_title": "Famous heists events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_objects_&_artifacts",
+        "fandom_title": "Famous heists objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_factions_&_groups",
+        "fandom_title": "Famous heists factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_concepts",
+        "fandom_title": "Famous heists concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_eras",
+        "fandom_title": "Famous heists eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_works_&_media",
+        "fandom_title": "Famous heists works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_symbols",
+        "fandom_title": "Famous heists symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_controversies",
+        "fandom_title": "Famous heists controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_geography",
+        "fandom_title": "Famous heists geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_legacy",
+        "fandom_title": "Famous heists legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_practices",
+        "fandom_title": "Famous heists practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_1",
+        "fandom_title": "Famous heists entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_2",
+        "fandom_title": "Famous heists entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_3",
+        "fandom_title": "Famous heists entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_4",
+        "fandom_title": "Famous heists entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_5",
+        "fandom_title": "Famous heists entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_6",
+        "fandom_title": "Famous heists entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_7",
+        "fandom_title": "Famous heists entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_8",
+        "fandom_title": "Famous heists entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_9",
+        "fandom_title": "Famous heists entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_10",
+        "fandom_title": "Famous heists entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_11",
+        "fandom_title": "Famous heists entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_12",
+        "fandom_title": "Famous heists entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_13",
+        "fandom_title": "Famous heists entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_14",
+        "fandom_title": "Famous heists entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_15",
+        "fandom_title": "Famous heists entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_16",
+        "fandom_title": "Famous heists entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_17",
+        "fandom_title": "Famous heists entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_18",
+        "fandom_title": "Famous heists entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_19",
+        "fandom_title": "Famous heists entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_20",
+        "fandom_title": "Famous heists entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_21",
+        "fandom_title": "Famous heists entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_22",
+        "fandom_title": "Famous heists entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_23",
+        "fandom_title": "Famous heists entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "heist-history-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Famous_heists_entry_24",
+        "fandom_title": "Famous heists entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Famous heists article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:45:47.456Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

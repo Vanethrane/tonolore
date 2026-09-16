@@ -1,0 +1,561 @@
+{
+  "enrichments": [
+    {
+      "slug": "he-man-motu",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe",
+        "fandom_title": "Masters of the Universe",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "Masters of the Universe (sometimes referred to as He-Man or She-Ra, or under the acronym MOTU) is an American sword and planet media franchise created by Mattel. The main premise revolves around the conflict between He-Man and Skeletor on the planet Eternia, with a vast lineup of supporting characters in a hybrid setting of medieval sword and sorcery, and sci-fi technology. A spinoff series revolves around He-Man's sister She-Ra and her rebellion against The Horde on the planet Etheria. Since its initial launch, the franchise has spawned a variety of products, including multiple lines of action figures, seven animated television series, several comic series, video games, books, magazines, a daily newspaper comic strip, and three feature films.\n\nMattel released the original \"Masters of the Universe\" 5.5-inch action-figure toy line in 1982. The series mythos began through the mini-comics that came packaged with the toys throughout the 1980s. These initial mini-comics were soon followed by serial comic books published by DC Comics. However, the setting and cast of characters became best known through Filmation's animated series He-Man and the Masters of the Universe, which debuted in the fall of 1983 and ran for 130 episodes over two seasons until December 1984.\n\nMasters of the Universe has usually focused on two primary characters, the blond muscular He-Man, \"the most powerful man in the universe\", and his nemesis, the evil skull-faced, blue-skinned sorcerer Skeletor, and their many moral-themed encounters on the planet Eternia. Set in a hybrid science fantasy world, He-Man battles with Skeletor to prevent him from conquering Eternia and discovering the secrets of Castle Grayskull, a mysterious ancient fortress with a skull-shaped facade, containing great power and magic.\n\nAs with many toy franchises that have been transferred to several different media, there are a number of story differences between the various versions of Masters of the Universe. In most continuities from the Filmation series onward, He-Man is the secret identity of Prince Adam, the son of the ruling royal family of Eternia, King Randor and Queen Marlena (a displaced astronaut from Earth). Adam becomes He-Man by holding aloft his magic Power Sword and uttering the words \"By the power of Grayskull... I have the power!\" and serves as the protector of good on Eternia. He is first given this ability by the Sorceress of Castle Grayskull, a powerful magic user and mystic guardian of the castle, who in many depictions is able to transform herself into the falcon Zoar.",
+      "short_description": "Masters of the Universe (sometimes referred to as He-Man or She-Ra, or under the acronym MOTU) is an American sword and planet media franchise created by Mattel. The main premise revolves around the conflict between…"
+    },
+    {
+      "slug": "he-man-motu-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_figures",
+        "fandom_title": "Masters of the Universe figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_world_&_context",
+        "fandom_title": "Masters of the Universe world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_places",
+        "fandom_title": "Masters of the Universe places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_events",
+        "fandom_title": "Masters of the Universe events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_objects_&_artifacts",
+        "fandom_title": "Masters of the Universe objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_factions_&_groups",
+        "fandom_title": "Masters of the Universe factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_concepts",
+        "fandom_title": "Masters of the Universe concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_eras",
+        "fandom_title": "Masters of the Universe eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_works_&_media",
+        "fandom_title": "Masters of the Universe works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_symbols",
+        "fandom_title": "Masters of the Universe symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_controversies",
+        "fandom_title": "Masters of the Universe controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_geography",
+        "fandom_title": "Masters of the Universe geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_legacy",
+        "fandom_title": "Masters of the Universe legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_practices",
+        "fandom_title": "Masters of the Universe practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_1",
+        "fandom_title": "Masters of the Universe entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_2",
+        "fandom_title": "Masters of the Universe entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_3",
+        "fandom_title": "Masters of the Universe entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_4",
+        "fandom_title": "Masters of the Universe entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_5",
+        "fandom_title": "Masters of the Universe entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_6",
+        "fandom_title": "Masters of the Universe entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_7",
+        "fandom_title": "Masters of the Universe entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_8",
+        "fandom_title": "Masters of the Universe entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_9",
+        "fandom_title": "Masters of the Universe entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_10",
+        "fandom_title": "Masters of the Universe entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_11",
+        "fandom_title": "Masters of the Universe entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_12",
+        "fandom_title": "Masters of the Universe entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_13",
+        "fandom_title": "Masters of the Universe entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_14",
+        "fandom_title": "Masters of the Universe entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_15",
+        "fandom_title": "Masters of the Universe entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_16",
+        "fandom_title": "Masters of the Universe entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_17",
+        "fandom_title": "Masters of the Universe entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_18",
+        "fandom_title": "Masters of the Universe entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_19",
+        "fandom_title": "Masters of the Universe entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_20",
+        "fandom_title": "Masters of the Universe entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_21",
+        "fandom_title": "Masters of the Universe entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_22",
+        "fandom_title": "Masters of the Universe entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_23",
+        "fandom_title": "Masters of the Universe entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "he-man-motu-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Masters_of_the_Universe_entry_24",
+        "fandom_title": "Masters of the Universe entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "catra",
+      "name": "Catra",
+      "type": "person",
+      "description": "Catra is a fictional character in the toyline, and animated television series, She-Ra: Princess of Power (1985–86), which is part of the Masters of the Universe franchise. In the 2018 reboot, She-Ra and the Princesses of Power, Catra is one of the central antagonists for the first four seasons before becoming an ally to the heroes in its final season, and the love interest of Princess Adora.\n\nIn both animated series, Catra is a Force-Captain of Hordak's Evil Horde, a position previously held by Adora before she defected in the 2018 reboot. in the second series she has cat-like features of her own, including a tail, large furry ears, a mane, and claws.\n\nCatra's first appearance in animated media is as one of the Horde captains of Hordak in the 1985 He-Man and She-Ra feature film The Secret of the Sword. In Filmation's She-Ra: Princess of Power cartoon series, Hordak is the leader of the Evil Horde, with Catra as of one of his minions. In early proposals for the show, Catra was the main antagonist, but when the Princess of Power toyline was released, Mattel decided to tie in the Evil Horde characters to Princess of Power toyline, to better integrate it with the Masters of the Universe franchise.\n\nWhen Adora is reconciled with her twin brother Adam, she leaves the Horde and is replaced by Catra as the Force-Captain. Several times, while serving Hordak, Catra strikes out on her own, showing that she does not need Hordak. This is quite evident when Catra betrays Hordak to Skeletor, in an attempt to overthrow him. Even though there are a few other female villains in The Horde, Catra does not get on that well with any of them, only working with them as a last resort. She appears to have a particularly intense rivalry with fellow female villain Scorpia. Along with the other Horde members, Catra holds an intense hatred for the character Imp.",
+      "short_description": "Catra is a fictional character in the toyline, and animated television series, She-Ra: Princess of Power (1985–86), which is part of the Masters of the Universe franchise. In the 2018 reboot, She-Ra and the Princesses…",
+      "evidence": "fiction",
+      "parentSlug": "he-man-motu-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Catra",
+        "fandom_title": "Catra",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "entrapta",
+      "name": "Entrapta",
+      "type": "person",
+      "description": "Entrapta is a fictional character who first appeared in the animated television series She-Ra: Princess of Power. She later reappeared in the reboot series, She-Ra and the Princesses of Power, with a bigger role and more character development than her original depiction, including a romantic relationship with Hordak.\n\nIn She-Ra: Princess of Power, Entrapta is the Horde's technician and a sidekick of Catra. Entrapta is a skilled inventor and is credited with designing advanced equipment for the Horde to employ in their battle against the Great Rebellion. Her specialty is devising traps and weaponry.\n\nIn She-Ra and the Princesses of Power, Entrapta is given an updated-origin storyline. Her hair is also purple, unlike in the original show where it was pink, and she is able to mentally control it at will as if it were another appendage, to manipulate it to fight enemies or to control her various machines.\n\nShowrunner ND Stevenson later confirmed that Entrapta was written as autistic. Entrapta is portrayed in the series as a skilled but reckless inventor and princess of Dryl. She has great interest in studies of robotics, and despite many failed experiments, she became one of the most knowledgeable people on First Ones' tech in Etheria.",
+      "short_description": "Entrapta is a fictional character who first appeared in the animated television series She-Ra: Princess of Power. She later reappeared in the reboot series, She-Ra and the Princesses of Power, with a bigger role and…",
+      "evidence": "fiction",
+      "parentSlug": "he-man-motu-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Entrapta",
+        "fandom_title": "Entrapta",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "catra",
+      "he-man-motu-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "entrapta",
+      "he-man-motu-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Masters of the Universe article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:24:45.390Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0,
+    "description_ensure_at": "2026-09-13T16:25:06.323Z",
+    "description_ensure_count": 1
+  }
+}

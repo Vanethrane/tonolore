@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "spirit-island",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island",
+        "fandom_title": "Spirit Island",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_figures",
+        "fandom_title": "Spirit Island figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_world_&_context",
+        "fandom_title": "Spirit Island world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_places",
+        "fandom_title": "Spirit Island places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_events",
+        "fandom_title": "Spirit Island events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_objects_&_artifacts",
+        "fandom_title": "Spirit Island objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_factions_&_groups",
+        "fandom_title": "Spirit Island factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_concepts",
+        "fandom_title": "Spirit Island concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_eras",
+        "fandom_title": "Spirit Island eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_works_&_media",
+        "fandom_title": "Spirit Island works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_symbols",
+        "fandom_title": "Spirit Island symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_controversies",
+        "fandom_title": "Spirit Island controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_geography",
+        "fandom_title": "Spirit Island geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_legacy",
+        "fandom_title": "Spirit Island legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_practices",
+        "fandom_title": "Spirit Island practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_1",
+        "fandom_title": "Spirit Island entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_2",
+        "fandom_title": "Spirit Island entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_3",
+        "fandom_title": "Spirit Island entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_4",
+        "fandom_title": "Spirit Island entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_5",
+        "fandom_title": "Spirit Island entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_6",
+        "fandom_title": "Spirit Island entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_7",
+        "fandom_title": "Spirit Island entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_8",
+        "fandom_title": "Spirit Island entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_9",
+        "fandom_title": "Spirit Island entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_10",
+        "fandom_title": "Spirit Island entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_11",
+        "fandom_title": "Spirit Island entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_12",
+        "fandom_title": "Spirit Island entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_13",
+        "fandom_title": "Spirit Island entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_14",
+        "fandom_title": "Spirit Island entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_15",
+        "fandom_title": "Spirit Island entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_16",
+        "fandom_title": "Spirit Island entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_17",
+        "fandom_title": "Spirit Island entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_18",
+        "fandom_title": "Spirit Island entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_19",
+        "fandom_title": "Spirit Island entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_20",
+        "fandom_title": "Spirit Island entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_21",
+        "fandom_title": "Spirit Island entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_22",
+        "fandom_title": "Spirit Island entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_23",
+        "fandom_title": "Spirit Island entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "spirit-island-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Spirit_Island_entry_24",
+        "fandom_title": "Spirit Island entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Spirit Island article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T17:06:51.979Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T03:10:33.760Z",
+  "generated_at": "2026-09-14T17:18:19.704Z",
   "source": {
     "wikipedia": true,
     "wikidata": true,
@@ -9,7 +9,7 @@
   "fair_use_policy": {
     "image_license": "fair_use",
     "image_usage": "fair_use_identification",
-    "max_edge_px": 360,
+    "max_edge_px": 180,
     "note": "Thumbnails may come from Wikipedia and/or Fandom (adventuretime.fandom.com) for identification and commentary only. Adventure Time art © Cartoon Network / Warner Bros. (as applicable). Not free or redistributable artwork."
   },
   "enrichments": [
@@ -1768,25 +1768,25 @@
       "slug": "banana-guards",
       "name": "Banana Guards",
       "type": "person",
-      "description": "They are the Banana Guards of Silent World. They are allies of Princess Bubblegum, and try to help her. They debut in \"Prismo The Wishmaster\". Because the world in which they live is a parody of silent cartoons from the 1920s, they don't speak.\n\nThey are gray Banana Guards, with white button-down coats and white chachucas. They don't have hands.\n\nCategory:Male Category:Candy People Category:AU Characters Category:Fionna and Cake Characters Category:Minor Characters",
+      "description": "Banana Guards are Candy People who guard Princess Bubblegum and her castle. The Banana Guards always appear in pairs prior to the episode \"Princess Cookie,\" but due to their role in that episode, it's clear that there are a large number of guards that all wear the same banana peel armor. The last known leader of the guards was Root Beer Guy (prior to his death) after his predecessor, Captain Banana Guard, was either dismissed or demoted due to incompetence.\n\nThe Banana Guards wear armor that has them look like cut bananas with chocolate poured on top, along with some pieces of what appears to be sugar. Or more likely, it’s salted caramel on their heads due to the lighter brown color. They are taller than most characters as displayed when they tower over Princess Bubblegum. Their feet are popsicle sticks and they hold long bronze sticks topped with diamond-shaped gems that have similar color to the sugar like cubes on their head. While they look like popsicles, they are actually bananas that have popsicle stick legs. Early banana guards resembled plantains. Although most guards are shown to be male, a female Banana Guard is seen in \"We Fixed a Truck\" and multiple females are seen in \"The Thin Yellow Line.\" In \"Rattleballs\" an Injured Banana Guard is missing the top portion of his armor which shows his head. This particular Guard appears to have black hair.\n\nAs hinted from their names, the Banana Guards' primary purpose is act as guards in the Candy Kingdom. They are usually seen in the Candy Castle as its security guards. They also act as bodyguards for Princess Bubblegum and prison guards for the Candy Dungeons. The Banana Guards also operate and monitor the surveillance system that are prevalent throughout the Candy Kingdom.\n\nThe banana guards also provide security for the Candy Vault.",
       "short_description": "Banana Guards are Candy People who guard Princess Bubblegum and her castle. The Banana Guards always appear in pairs prior to the episode \"Princess Cookie,\" but due to their role in that episode, it's clear that there…",
       "evidence": "fiction",
       "parentSlug": "adventure-time",
       "wikipedia_url": null,
       "wikidata_id": null,
-      "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/6/65/BGS.png/revision/latest?cb=20231231041140",
-      "image_source": "https://adventuretime.fandom.com/wiki/Banana_Guards_(Silent_World)",
+      "image_url": "https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/5/54/Banan_Guard.png/revision/latest/scale-to-width-down/180?cb=20120810080314",
+      "image_source": "https://adventuretime.fandom.com/wiki/Banana_Guards",
       "image_credit": "Fair-use identification thumbnail via Fandom. Adventure Time art © Cartoon Network / Warner Bros. (as applicable). Not free or redistributable artwork.",
       "image_license": "fair_use",
       "image_usage": "fair_use_identification",
-      "image_alt": "Identification thumbnail for Banana Guards (Silent World)",
+      "image_alt": "Identification thumbnail for Banana Guards",
       "metadata": {
         "canon": false,
         "discovered": true,
         "source": "fandom",
         "kind": "character",
-        "fandom_url": "https://adventuretime.fandom.com/wiki/Banana_Guards_(Silent_World)",
-        "fandom_title": "Banana Guards (Silent World)",
+        "fandom_url": "https://adventuretime.fandom.com/wiki/Banana_Guards",
+        "fandom_title": "Banana Guards",
         "source_fandom": "adventuretime.fandom.com",
         "sources": [
           "fandom"

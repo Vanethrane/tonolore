@@ -1,0 +1,530 @@
+{
+  "enrichments": [
+    {
+      "slug": "hitchhikers-guide",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "The Hitchhiker's Guide to the Galaxy HHGTTG, H2G2, or tHGttG.}} is a comedy science fiction franchise created by Douglas Adams. Originally a radio sitcom broadcast over two series on BBC Radio 4 between 1978 and 1980, it was soon adapted to other formats, including both novels and comic books, a 1981 BBC television series, a 1984 text adventure game, stage shows and a 2005 feature film.\n\nThe Hitchhiker's Guide to the Galaxy is an international multimedia phenomenon; the novels are the most widely distributed, having been translated into more than 30 languages by 2005. The first novel, The Hitchhiker's Guide to the Galaxy (1979), has been ranked fourth on the BBC's The Big Read poll. The sixth novel, And Another Thing..., was written by Eoin Colfer with additional unpublished material by Douglas Adams. In 2017, BBC Radio 4 announced a 40th-anniversary celebration with Dirk Maggs, one of the original producers, in charge. The first of six new episodes was broadcast on 8 March 2018.\n\nThe broad narrative of The Hitchhiker's Guide to the Galaxy follows the misadventures of the last surviving Earth man, Arthur Dent, following the demolition of the Earth to make way for a hyperspace bypass. Dent is rescued from Earth's destruction by Ford Prefect—a human-like alien writer for the electronic travel guide The Hitchhiker's Guide to the Galaxy—by hitchhiking onto a passing alien spacecraft. Following his rescue, Dent explores the galaxy with Prefect and encounters Trillian, another human who was taken from Earth (before its destruction) by the President of the Galaxy, Zaphod Beeblebrox, and Marvin the Paranoid Android. Certain narrative details were changed among the various adaptations.\n\nThe different versions of the series spell the title differently—thus Hitch-Hiker's Guide, Hitch Hiker's Guide, and Hitchhiker's Guide are used in different editions (UK or US), formats (audio or print), and compilations of the book, with some omitting the apostrophe. Some editions use different spellings on the spine and title page. The h2g2's English Usage in Approved Entries claims that Hitchhiker's Guide is the spelling that Adams preferred. At least two reference works make note of the inconsistency in the titles. Both, however, repeat the statement that Adams decided in 2000 that \"everyone should spell it the same way [one word, no hyphen] from then on.\"",
+      "short_description": "The Hitchhiker's Guide to the Galaxy HHGTTG, H2G2, or tHGttG.}} is a comedy science fiction franchise created by Douglas Adams. Originally a radio sitcom broadcast over two series on BBC Radio 4 between 1978 and 1980,…"
+    },
+    {
+      "slug": "hitchhikers-guide-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_figures",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_world_&_context",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_places",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_events",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_objects_&_artifacts",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_factions_&_groups",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_concepts",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_eras",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_works_&_media",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_symbols",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_controversies",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_geography",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_legacy",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_practices",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_1",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_2",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_3",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_4",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_5",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_6",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_7",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_8",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_9",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_10",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_11",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_12",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_13",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_14",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_15",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_16",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_17",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_18",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_19",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_20",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_21",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_22",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_23",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "hitchhikers-guide-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_entry_24",
+        "fandom_title": "The Hitchhiker's Guide to the Galaxy entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "zaphod-beeblebrox",
+      "name": "Zaphod Beeblebrox",
+      "type": "person",
+      "description": "Zaphod Beeblebrox () is a fictional character in the comic science fiction series The Hitchhiker's Guide to the Galaxy by Douglas Adams.\n\nHe is from a planet in the vicinity of Betelgeuse, and is a \"semi-half-cousin\" of Ford Prefect, with whom he \"shares three of the same mothers\". Because of \"an accident with a contraceptive and a time machine\", his father, grandfather, and great-grandfather are actually his direct descendants (see Zaphod Beeblebrox the Fourth).\n\nThis character is described across all versions as having two heads and three arms, though explanations of how he came to receive the extra appendages differs between versions. The original radio version never explained the second head, but did explain that Zaphod \"grew\" the third arm in the six months between meeting the character of Trillian on Earth, and the start of the series. The third radio series implies that he had a third arm when growing upthe fifth has him offer to Trillian that \"I'd grow my third arm back for you, baby\", when they first meet. In the novel, he said the third arm was \"recently ... fitted just beneath his right one to help improve his ski-boxing.\" According to the original Hitchhiker's radio series script book, an ad libbed comment by Mark Wing-Davey in the eighth radio episode (\"Put it there, and there, and there, and there! Whoa!\") would suggest that Zaphod had grown a fourth arm. In the television series, Ford Prefect simply remarks to Zaphod that \"the extra arm suits you.\" Eoin Colfer wrote and published an official 6th book for the Hitchhiker's series, in which it is implied Zaphod's third arm may have originally been grown so that he would have one hand for each of Eccentrica Galumbits's breasts.\n\nIn Infocom's text adventure game version of the story, Zaphod blends in on Earth by hiding his second head in a covered bird cage (an alternate Trillian also refers to this in Mostly Harmless). In the novel The Restaurant at the End of the Universe, the ghost of Zaphod's great-grandfather also has two heads. This and other information presented in the narrative prose seem to indicate that having two heads is a common – possibly even universal – trait of Zaphod's species.",
+      "short_description": "Zaphod Beeblebrox () is a fictional character in the comic science fiction series The Hitchhiker's Guide to the Galaxy by Douglas Adams.",
+      "evidence": "fiction",
+      "parentSlug": "hitchhikers-guide-figures",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "character",
+        "fandom_url": "https://en.wikipedia.org/wiki/Zaphod_Beeblebrox",
+        "fandom_title": "Zaphod Beeblebrox",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "zaphod-beeblebrox",
+      "hitchhikers-guide-figures",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. The Hitchhiker's Guide to the Galaxy article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:42:04.802Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 1,
+    "fandom_enriched_core": 0,
+    "fandom_created": 1,
+    "fandom_images": 0,
+    "fandom_intros": 1,
+    "description_ensure_at": "2026-09-14T16:42:05.312Z",
+    "description_ensure_count": 1
+  }
+}

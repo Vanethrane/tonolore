@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "maus",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus",
+        "fandom_title": "Maus",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_figures",
+        "fandom_title": "Maus figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_world_&_context",
+        "fandom_title": "Maus world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_places",
+        "fandom_title": "Maus places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_events",
+        "fandom_title": "Maus events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_objects_&_artifacts",
+        "fandom_title": "Maus objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_factions_&_groups",
+        "fandom_title": "Maus factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_concepts",
+        "fandom_title": "Maus concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_eras",
+        "fandom_title": "Maus eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_works_&_media",
+        "fandom_title": "Maus works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_symbols",
+        "fandom_title": "Maus symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_controversies",
+        "fandom_title": "Maus controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_geography",
+        "fandom_title": "Maus geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_legacy",
+        "fandom_title": "Maus legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_practices",
+        "fandom_title": "Maus practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_1",
+        "fandom_title": "Maus entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_2",
+        "fandom_title": "Maus entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_3",
+        "fandom_title": "Maus entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_4",
+        "fandom_title": "Maus entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_5",
+        "fandom_title": "Maus entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_6",
+        "fandom_title": "Maus entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_7",
+        "fandom_title": "Maus entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_8",
+        "fandom_title": "Maus entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_9",
+        "fandom_title": "Maus entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_10",
+        "fandom_title": "Maus entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_11",
+        "fandom_title": "Maus entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_12",
+        "fandom_title": "Maus entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_13",
+        "fandom_title": "Maus entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_14",
+        "fandom_title": "Maus entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_15",
+        "fandom_title": "Maus entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_16",
+        "fandom_title": "Maus entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_17",
+        "fandom_title": "Maus entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_18",
+        "fandom_title": "Maus entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_19",
+        "fandom_title": "Maus entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_20",
+        "fandom_title": "Maus entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_21",
+        "fandom_title": "Maus entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_22",
+        "fandom_title": "Maus entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_23",
+        "fandom_title": "Maus entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "maus-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Maus_entry_24",
+        "fandom_title": "Maus entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Maus article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T17:00:30.584Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

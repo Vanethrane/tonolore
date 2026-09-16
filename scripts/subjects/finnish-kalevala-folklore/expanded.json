@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "finnish-kalevala-folklore",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore",
+        "fandom_title": "Kalevala folklore",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_figures",
+        "fandom_title": "Kalevala folklore figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_world_&_context",
+        "fandom_title": "Kalevala folklore world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_places",
+        "fandom_title": "Kalevala folklore places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_events",
+        "fandom_title": "Kalevala folklore events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_objects_&_artifacts",
+        "fandom_title": "Kalevala folklore objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_factions_&_groups",
+        "fandom_title": "Kalevala folklore factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_concepts",
+        "fandom_title": "Kalevala folklore concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_eras",
+        "fandom_title": "Kalevala folklore eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_works_&_media",
+        "fandom_title": "Kalevala folklore works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_symbols",
+        "fandom_title": "Kalevala folklore symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_controversies",
+        "fandom_title": "Kalevala folklore controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_geography",
+        "fandom_title": "Kalevala folklore geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_legacy",
+        "fandom_title": "Kalevala folklore legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_practices",
+        "fandom_title": "Kalevala folklore practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_1",
+        "fandom_title": "Kalevala folklore entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_2",
+        "fandom_title": "Kalevala folklore entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_3",
+        "fandom_title": "Kalevala folklore entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_4",
+        "fandom_title": "Kalevala folklore entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_5",
+        "fandom_title": "Kalevala folklore entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_6",
+        "fandom_title": "Kalevala folklore entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_7",
+        "fandom_title": "Kalevala folklore entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_8",
+        "fandom_title": "Kalevala folklore entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_9",
+        "fandom_title": "Kalevala folklore entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_10",
+        "fandom_title": "Kalevala folklore entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_11",
+        "fandom_title": "Kalevala folklore entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_12",
+        "fandom_title": "Kalevala folklore entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_13",
+        "fandom_title": "Kalevala folklore entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_14",
+        "fandom_title": "Kalevala folklore entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_15",
+        "fandom_title": "Kalevala folklore entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_16",
+        "fandom_title": "Kalevala folklore entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_17",
+        "fandom_title": "Kalevala folklore entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_18",
+        "fandom_title": "Kalevala folklore entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_19",
+        "fandom_title": "Kalevala folklore entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_20",
+        "fandom_title": "Kalevala folklore entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_21",
+        "fandom_title": "Kalevala folklore entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_22",
+        "fandom_title": "Kalevala folklore entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_23",
+        "fandom_title": "Kalevala folklore entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "finnish-kalevala-folklore-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Kalevala_folklore_entry_24",
+        "fandom_title": "Kalevala folklore entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Kalevala folklore article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:31:20.358Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

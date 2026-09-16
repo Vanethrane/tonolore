@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "the-magnus-archives",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives",
+        "fandom_title": "The Magnus Archives",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_figures",
+        "fandom_title": "The Magnus Archives figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_world_&_context",
+        "fandom_title": "The Magnus Archives world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_places",
+        "fandom_title": "The Magnus Archives places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_events",
+        "fandom_title": "The Magnus Archives events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_objects_&_artifacts",
+        "fandom_title": "The Magnus Archives objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_factions_&_groups",
+        "fandom_title": "The Magnus Archives factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_concepts",
+        "fandom_title": "The Magnus Archives concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_eras",
+        "fandom_title": "The Magnus Archives eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_works_&_media",
+        "fandom_title": "The Magnus Archives works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_symbols",
+        "fandom_title": "The Magnus Archives symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_controversies",
+        "fandom_title": "The Magnus Archives controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_geography",
+        "fandom_title": "The Magnus Archives geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_legacy",
+        "fandom_title": "The Magnus Archives legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_practices",
+        "fandom_title": "The Magnus Archives practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_1",
+        "fandom_title": "The Magnus Archives entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_2",
+        "fandom_title": "The Magnus Archives entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_3",
+        "fandom_title": "The Magnus Archives entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_4",
+        "fandom_title": "The Magnus Archives entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_5",
+        "fandom_title": "The Magnus Archives entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_6",
+        "fandom_title": "The Magnus Archives entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_7",
+        "fandom_title": "The Magnus Archives entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_8",
+        "fandom_title": "The Magnus Archives entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_9",
+        "fandom_title": "The Magnus Archives entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_10",
+        "fandom_title": "The Magnus Archives entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_11",
+        "fandom_title": "The Magnus Archives entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_12",
+        "fandom_title": "The Magnus Archives entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_13",
+        "fandom_title": "The Magnus Archives entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_14",
+        "fandom_title": "The Magnus Archives entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_15",
+        "fandom_title": "The Magnus Archives entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_16",
+        "fandom_title": "The Magnus Archives entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_17",
+        "fandom_title": "The Magnus Archives entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_18",
+        "fandom_title": "The Magnus Archives entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_19",
+        "fandom_title": "The Magnus Archives entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_20",
+        "fandom_title": "The Magnus Archives entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_21",
+        "fandom_title": "The Magnus Archives entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_22",
+        "fandom_title": "The Magnus Archives entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_23",
+        "fandom_title": "The Magnus Archives entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "the-magnus-archives-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/The_Magnus_Archives_entry_24",
+        "fandom_title": "The Magnus Archives entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. The Magnus Archives article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:44:41.263Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

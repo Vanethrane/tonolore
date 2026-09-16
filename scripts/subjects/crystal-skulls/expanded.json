@@ -1,0 +1,493 @@
+{
+  "enrichments": [
+    {
+      "slug": "crystal-skulls",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls",
+        "fandom_title": "Crystal skulls",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_figures",
+        "fandom_title": "Crystal skulls figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_world_&_context",
+        "fandom_title": "Crystal skulls world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_places",
+        "fandom_title": "Crystal skulls places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_events",
+        "fandom_title": "Crystal skulls events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_objects_&_artifacts",
+        "fandom_title": "Crystal skulls objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_factions_&_groups",
+        "fandom_title": "Crystal skulls factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_concepts",
+        "fandom_title": "Crystal skulls concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_eras",
+        "fandom_title": "Crystal skulls eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_works_&_media",
+        "fandom_title": "Crystal skulls works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_symbols",
+        "fandom_title": "Crystal skulls symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_controversies",
+        "fandom_title": "Crystal skulls controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_geography",
+        "fandom_title": "Crystal skulls geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_legacy",
+        "fandom_title": "Crystal skulls legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_practices",
+        "fandom_title": "Crystal skulls practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_1",
+        "fandom_title": "Crystal skulls entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_2",
+        "fandom_title": "Crystal skulls entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_3",
+        "fandom_title": "Crystal skulls entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_4",
+        "fandom_title": "Crystal skulls entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_5",
+        "fandom_title": "Crystal skulls entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_6",
+        "fandom_title": "Crystal skulls entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_7",
+        "fandom_title": "Crystal skulls entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_8",
+        "fandom_title": "Crystal skulls entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_9",
+        "fandom_title": "Crystal skulls entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_10",
+        "fandom_title": "Crystal skulls entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_11",
+        "fandom_title": "Crystal skulls entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_12",
+        "fandom_title": "Crystal skulls entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_13",
+        "fandom_title": "Crystal skulls entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_14",
+        "fandom_title": "Crystal skulls entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_15",
+        "fandom_title": "Crystal skulls entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_16",
+        "fandom_title": "Crystal skulls entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_17",
+        "fandom_title": "Crystal skulls entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_18",
+        "fandom_title": "Crystal skulls entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_19",
+        "fandom_title": "Crystal skulls entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_20",
+        "fandom_title": "Crystal skulls entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_21",
+        "fandom_title": "Crystal skulls entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_22",
+        "fandom_title": "Crystal skulls entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_23",
+        "fandom_title": "Crystal skulls entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "crystal-skulls-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Crystal_skulls_entry_24",
+        "fandom_title": "Crystal skulls entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Crystal skulls article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T15:38:43.287Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

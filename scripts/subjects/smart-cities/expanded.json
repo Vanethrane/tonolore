@@ -1,0 +1,567 @@
+{
+  "enrichments": [
+    {
+      "slug": "smart-cities",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities",
+        "fandom_title": "Smart cities",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "A smart city is an urban model that leverages technology, human capital, and governance to improve sustainability, efficiency, and social inclusion, which are considered goals for cities of the future. Smart cities use digital technology to collect data and operate services. Data is collected from citizens, devices, buildings, or cameras. Smart city applications are diverse and include, but are not limited to, traffic and transportation systems, power plants, utilities, urban forestry, water supply networks, waste disposal, criminal investigations, information systems, schools, libraries, hospitals, and other community services. The foundation of a smart city is built on the integration of people, technology, and processes, which connect and interact across sectors such as healthcare, transportation, education, infrastructure, etc. Smart cities are characterized by the ways in which their local governments monitor, analyze, plan, and govern the city. In a smart city, data sharing extends to businesses, citizens, and other third parties who can derive benefit from using that data. The three largest sources of spending associated with smart cities as of 2022 were visual surveillance, public transit, and outdoor lighting.\n\nSmart cities integrate Information and Communication Technologies (ICT), and devices connected to the Internet of things (IOT) network to optimize city services and connect to citizens. ICT can enhance the quality, performance, and interactivity of urban services, reduce costs and resource consumption, and to increase contact between citizens and government. Smart city applications manage urban flows and allow for real-time responses. A smart city may be more prepared to respond to challenges than one with a conventional \"transactional\" relationship with its citizens. Yet, the term is open to many interpretations. Many cities have already adopted some sort of smart city technology.\n\nSmart city initiatives have been criticized as driven by corporations, poorly adapted to residents' needs, as largely unsuccessful, and as a move toward totalitarian surveillance.\n\nHistorically, cities functioned as centers of innovation, and the advent of the digital era presented opportunities and challenges to apply technology to create urban environments that are more efficient, sustainable, and livable.",
+      "short_description": "A smart city is an urban model that leverages technology, human capital, and governance to improve sustainability, efficiency, and social inclusion, which are considered goals for cities of the future. Smart cities use…"
+    },
+    {
+      "slug": "smart-cities-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_figures",
+        "fandom_title": "Smart cities figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_world_&_context",
+        "fandom_title": "Smart cities world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_places",
+        "fandom_title": "Smart cities places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_events",
+        "fandom_title": "Smart cities events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_objects_&_artifacts",
+        "fandom_title": "Smart cities objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_factions_&_groups",
+        "fandom_title": "Smart cities factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_concepts",
+        "fandom_title": "Smart cities concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_eras",
+        "fandom_title": "Smart cities eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_works_&_media",
+        "fandom_title": "Smart cities works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_symbols",
+        "fandom_title": "Smart cities symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_controversies",
+        "fandom_title": "Smart cities controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_geography",
+        "fandom_title": "Smart cities geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_legacy",
+        "fandom_title": "Smart cities legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_practices",
+        "fandom_title": "Smart cities practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_1",
+        "fandom_title": "Smart cities entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_2",
+        "fandom_title": "Smart cities entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_3",
+        "fandom_title": "Smart cities entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_4",
+        "fandom_title": "Smart cities entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_5",
+        "fandom_title": "Smart cities entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_6",
+        "fandom_title": "Smart cities entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_7",
+        "fandom_title": "Smart cities entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_8",
+        "fandom_title": "Smart cities entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_9",
+        "fandom_title": "Smart cities entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_10",
+        "fandom_title": "Smart cities entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_11",
+        "fandom_title": "Smart cities entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_12",
+        "fandom_title": "Smart cities entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_13",
+        "fandom_title": "Smart cities entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_14",
+        "fandom_title": "Smart cities entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_15",
+        "fandom_title": "Smart cities entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_16",
+        "fandom_title": "Smart cities entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_17",
+        "fandom_title": "Smart cities entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_18",
+        "fandom_title": "Smart cities entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_19",
+        "fandom_title": "Smart cities entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_20",
+        "fandom_title": "Smart cities entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_21",
+        "fandom_title": "Smart cities entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_22",
+        "fandom_title": "Smart cities entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_23",
+        "fandom_title": "Smart cities entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "smart-cities-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_cities_entry_24",
+        "fandom_title": "Smart cities entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [
+    {
+      "slug": "smart-city",
+      "name": "Smart city",
+      "type": "topic",
+      "description": "A smart city is an urban model that leverages technology, human capital, and governance to improve sustainability, efficiency, and social inclusion, which are considered goals for cities of the future. Smart cities use digital technology to collect data and operate services. Data is collected from citizens, devices, buildings, or cameras. Smart city applications are diverse and include, but are not limited to, traffic and transportation systems, power plants, utilities, urban forestry, water supply networks, waste disposal, criminal investigations, information systems, schools, libraries, hospitals, and other community services. The foundation of a smart city is built on the integration of people, technology, and processes, which connect and interact across sectors such as healthcare, transportation, education, infrastructure, etc. Smart cities are characterized by the ways in which their local governments monitor, analyze, plan, and govern the city. In a smart city, data sharing extends to businesses, citizens, and other third parties who can derive benefit from using that data. The three largest sources of spending associated with smart cities as of 2022 were visual surveillance, public transit, and outdoor lighting.\n\nSmart cities integrate Information and Communication Technologies (ICT), and devices connected to the Internet of things (IOT) network to optimize city services and connect to citizens. ICT can enhance the quality, performance, and interactivity of urban services, reduce costs and resource consumption, and to increase contact between citizens and government. Smart city applications manage urban flows and allow for real-time responses. A smart city may be more prepared to respond to challenges than one with a conventional \"transactional\" relationship with its citizens. Yet, the term is open to many interpretations. Many cities have already adopted some sort of smart city technology.\n\nSmart city initiatives have been criticized as driven by corporations, poorly adapted to residents' needs, as largely unsuccessful, and as a move toward totalitarian surveillance.\n\nHistorically, cities functioned as centers of innovation, and the advent of the digital era presented opportunities and challenges to apply technology to create urban environments that are more efficient, sustainable, and livable.",
+      "short_description": "A smart city is an urban model that leverages technology, human capital, and governance to improve sustainability, efficiency, and social inclusion, which are considered goals for cities of the future. Smart cities use…",
+      "evidence": "fiction",
+      "parentSlug": "smart-cities",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Clean_mobility_instead_of_dirty_traffic.jpg/180px-Clean_mobility_instead_of_dirty_traffic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Smart_city",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Smart cities article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Smart city",
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://en.wikipedia.org/wiki/Smart_city",
+        "fandom_title": "Smart city",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "urban-computing",
+      "name": "Urban computing",
+      "type": "topic",
+      "description": "Urban computing is an interdisciplinary field which pertains to the study and application of computing technology in urban areas. This involves the application of wireless networks, sensors, computational power, and data to improve the quality of densely populated areas. Urban computing is the technological framework for smart cities.\n\nThe term \"urban computing\" was first introduced by Eric Paulos at the 2004 UbiComp conference and in his paper The Familiar Stranger co-authored with Elizabeth Goodman. Although closely tied to the field of urban informatics, Marcus Foth differentiates the two in his preface to Handbook of Research on Urban Informatics by saying that urban computing, urban technology, and urban infrastructure focus more on technological dimensions whereas urban informatics focuses on the social and human implications of technology in cities.\n\nWithin the domain of computer science, urban computing draws from the domains of wireless and sensor networks, information science, and human-computer interaction. Urban computing uses many of the paradigms introduced by ubiquitous computing in that collections of devices are used to gather data about the urban environment to help improve the quality of life for people affected by cities. What further differentiates urban computing from traditional remote sensing networks is the variety of devices, inputs, and human interaction involved. In traditional sensor networks, devices are often purposefully built and specifically deployed for monitoring certain phenomenon such as temperature, noise, and light. As an interdisciplinary field, urban computing also has practitioners and applications in fields including civil engineering, anthropology, public history, health care, urban planning, and energy, among others.\n\nCities are more than a collection of places and people - places are continually reinvented and re-imagined by the people occupying them. As such, the prevalence of computing in urban spaces leads people to supplement their physical reality with what is virtually available. Toward this end, researchers engaged in ethnography, collective memory, and public history have leveraged urban computing strategies to introduce platforms that enable people to share their interpretation of the urban environment. Examples of such projects include CLIO—an urban computing system that came out of the Collective City Memory of Oulu study—which \"allows people to share personal memories, context annotate them and relate them with city landmarks, thus creating the collective city memory.\" and the Cleveland Historical project which aims to create a shared history of the city by allowing people to contribute stories through their own digital devices.",
+      "short_description": "Urban computing is an interdisciplinary field which pertains to the study and application of computing technology in urban areas. This involves the application of wireless networks, sensors, computational power, and…",
+      "evidence": "fiction",
+      "parentSlug": "smart-cities",
+      "wikipedia_url": null,
+      "wikidata_id": null,
+      "metadata": {
+        "canon": false,
+        "discovered": true,
+        "source": "fandom",
+        "kind": "location",
+        "fandom_url": "https://en.wikipedia.org/wiki/Urban_computing",
+        "fandom_title": "Urban computing",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    [
+      "smart-city",
+      "smart-cities",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ],
+    [
+      "urban-computing",
+      "smart-cities",
+      "part_of",
+      "Part of",
+      0.9,
+      0.85
+    ]
+  ],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Smart cities article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T16:27:02.000Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0,
+    "description_ensure_at": "2026-09-14T11:06:19.533Z",
+    "description_ensure_count": 1
+  }
+}

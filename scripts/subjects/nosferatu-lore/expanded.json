@@ -1,0 +1,502 @@
+{
+  "enrichments": [
+    {
+      "slug": "nosferatu-lore",
+      "description": "Nosferatu: A Symphony of Horror () is a 1922 silent German Expressionist vampire film directed by F. W. Murnau from a screenplay by Henrik Galeen. It stars Max Schreck as Count Orlok, a vampire who preys on the wife (Greta Schröder) of his estate agent (Gustav von Wangenheim) and brings the plague to their town.\n\nNosferatu was produced by and is an unofficial and unauthorized adaptation of Bram Stoker's 1897 novel Dracula. Various names and other details were changed from the novel, including Count Dracula being renamed Count Orlok. Although those changes are often represented as a defense against copyright infringement accusations, the original German intertitles acknowledged Dracula as the source. Film historian David Kalat states in his commentary track that since the film was \"a low-budget film made by Germans for German audiences... setting it in Germany with German-named characters makes the story more tangible and immediate for German-speaking viewers\".\n\nEven with several details altered, Stoker's widow, Florence, sued over the adaptation's copyright violation, and a court ruling ordered all copies of the film to be destroyed. However, several prints of Nosferatu survived, Critic and historian Kim Newman declared it as a film that set the template for the genre of horror film. The film entered the public domain worldwide in 2019.\n\nIn 1838, in the fictional German town of Wisborg, Thomas Hutter is sent to Transylvania by his employer, the eccentric estate agent Herr Knock, to visit a new client, Count Orlok, who is planning to buy a derelict house across from Hutter's own residence. As Hutter studies the route on a map, Knock secretly studies a mysterious correspondence in cabalistic symbols. While embarking on his journey, Hutter stops at an inn in which the locals are terrified by the mere mention of Orlok's name. In his room, he finds a book about vampires, which he initially scoffs at but puts in his baggage.",
+      "short_description": "Nosferatu: A Symphony of Horror () is a 1922 silent German Expressionist vampire film directed by F. W. Murnau from a screenplay by Henrik Galeen. It stars Max Schreck as Count Orlok, a vampire who preys on the wife…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/90/Nosferatu_poster_%28Albin_Grau%2C_1922%29_1.jpg/180px-Nosferatu_poster_%28Albin_Grau%2C_1922%29_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Nosferatu",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Nosferatu article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Nosferatu",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu",
+        "fandom_title": "Nosferatu",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      }
+    },
+    {
+      "slug": "nosferatu-lore-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_figures",
+        "fandom_title": "Nosferatu figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_world_&_context",
+        "fandom_title": "Nosferatu world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_places",
+        "fandom_title": "Nosferatu places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_events",
+        "fandom_title": "Nosferatu events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_objects_&_artifacts",
+        "fandom_title": "Nosferatu objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_factions_&_groups",
+        "fandom_title": "Nosferatu factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_concepts",
+        "fandom_title": "Nosferatu concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_eras",
+        "fandom_title": "Nosferatu eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_works_&_media",
+        "fandom_title": "Nosferatu works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_symbols",
+        "fandom_title": "Nosferatu symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_controversies",
+        "fandom_title": "Nosferatu controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_geography",
+        "fandom_title": "Nosferatu geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_legacy",
+        "fandom_title": "Nosferatu legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_practices",
+        "fandom_title": "Nosferatu practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_1",
+        "fandom_title": "Nosferatu entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_2",
+        "fandom_title": "Nosferatu entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_3",
+        "fandom_title": "Nosferatu entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_4",
+        "fandom_title": "Nosferatu entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_5",
+        "fandom_title": "Nosferatu entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_6",
+        "fandom_title": "Nosferatu entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_7",
+        "fandom_title": "Nosferatu entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_8",
+        "fandom_title": "Nosferatu entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_9",
+        "fandom_title": "Nosferatu entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_10",
+        "fandom_title": "Nosferatu entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_11",
+        "fandom_title": "Nosferatu entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_12",
+        "fandom_title": "Nosferatu entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_13",
+        "fandom_title": "Nosferatu entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_14",
+        "fandom_title": "Nosferatu entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_15",
+        "fandom_title": "Nosferatu entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_16",
+        "fandom_title": "Nosferatu entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_17",
+        "fandom_title": "Nosferatu entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_18",
+        "fandom_title": "Nosferatu entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_19",
+        "fandom_title": "Nosferatu entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_20",
+        "fandom_title": "Nosferatu entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_21",
+        "fandom_title": "Nosferatu entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_22",
+        "fandom_title": "Nosferatu entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_23",
+        "fandom_title": "Nosferatu entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nosferatu-lore-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nosferatu_entry_24",
+        "fandom_title": "Nosferatu entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Nosferatu article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:19:02.969Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

@@ -34,6 +34,7 @@ const {
     slugToRelativeDir,
     buildRobotsTxt,
     buildSitemapXml,
+    writeSitemapArtifacts,
     buildEntityPageHtml,
     buildHomeHtml,
     buildCategoryHtml,
@@ -603,13 +604,22 @@ async function main() {
         path.join(targetDir, "robots.txt"),
         buildRobotsTxt(SITE_URL)
     );
-    writeText(
-        path.join(targetDir, "sitemap.xml"),
-        buildSitemapXml(SITE_URL, sitemapEntries)
+    const sitemapInfo = writeSitemapArtifacts(
+        targetDir,
+        SITE_URL,
+        sitemapEntries,
+        writeText
     );
+    // Mirror sitemap + robots to repo root when exporting into docs/
+    if (path.resolve(targetDir) === path.resolve(path.join(root, "docs"))) {
+        writeText(path.join(root, "robots.txt"), buildRobotsTxt(SITE_URL));
+        writeSitemapArtifacts(root, SITE_URL, sitemapEntries, writeText);
+    }
 
     console.log(`Wrote ${written} page JSON files`);
-    console.log(`robots.txt + sitemap.xml (${sitemapEntries.length} urls)`);
+    console.log(
+        `robots.txt + sitemap index (${sitemapInfo.urlCount} urls, ${sitemapInfo.chunkCount} shards)`
+    );
     console.log("Done.");
 }
 

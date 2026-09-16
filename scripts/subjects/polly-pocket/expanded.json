@@ -1,0 +1,495 @@
+{
+  "enrichments": [
+    {
+      "slug": "polly-pocket",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket",
+        "fandom_title": "Polly Pocket",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      },
+      "description": "Polly Pocket is a toy line of inch-tall dolls and accessories sold by Mattel.\n\nOrigin Products (Chris Wiggs and Chris Taylor) had the basic concept in 1983 influenced by Torquil Norman's pre existing ideas for minature portable playsets. At this point it was a simple wooden stick figure that did not bend. The interior was a basic fabrication inside a powder compact. After it was shown to Bluebird Torquil Norman asked if the figure could be made to bend, this problem was duly solved by Brian Whitehead at Origin and after purchasing the licence Normans' team of designers at Bluebird created a series of Clam-case playsets available for sale on the toy market circa 1989, and with Mattel the main distributor. Between 2012 and 2018, it was not sold in the US and declined in other countries, with Brazil being the only country to sell the products throughout that period. Concerns grew due to loose magnets and the small size (which caused injuries to some children when ingested) and caused millions of Polly Pocket toys to be recalled from the shelves.\n\nTorquil Norman and Bluebird Toys of Swindon, England, had licensed the concept, and the first Polly Pocket toys appeared in stores in 1989. Mattel held a distribution arrangement with Bluebird Toys for Polly Pocket items in the early 1990s. In 1998, while production lulled/slowed, Bluebird Toys endured multiple hostile takeover attempts until Mattel finally purchased both the brand and Bluebird Toys later that year. The sets made by Bluebird Toys are now enthusiasts' collectibles.\n\nThe original Polly Pocket toys were plastic cases that opened to form a dollhouse or other playset with Polly Pocket figurines less than an inch tall. The dolls folded in the middle, like the case, and had circular bases that slotted into holes in the case interior, allowing them to stand securely at particular points in the house. This was particularly useful for moving points in the case. Because the dolls were so small, sometimes they came enclosed in pendants or large rings instead of the more typical playset cases.",
+      "short_description": "Polly Pocket is a toy line of inch-tall dolls and accessories sold by Mattel."
+    },
+    {
+      "slug": "polly-pocket-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_figures",
+        "fandom_title": "Polly Pocket figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_world_&_context",
+        "fandom_title": "Polly Pocket world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_places",
+        "fandom_title": "Polly Pocket places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_events",
+        "fandom_title": "Polly Pocket events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_objects_&_artifacts",
+        "fandom_title": "Polly Pocket objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_factions_&_groups",
+        "fandom_title": "Polly Pocket factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_concepts",
+        "fandom_title": "Polly Pocket concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_eras",
+        "fandom_title": "Polly Pocket eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_works_&_media",
+        "fandom_title": "Polly Pocket works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_symbols",
+        "fandom_title": "Polly Pocket symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_controversies",
+        "fandom_title": "Polly Pocket controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_geography",
+        "fandom_title": "Polly Pocket geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_legacy",
+        "fandom_title": "Polly Pocket legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_practices",
+        "fandom_title": "Polly Pocket practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_1",
+        "fandom_title": "Polly Pocket entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_2",
+        "fandom_title": "Polly Pocket entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_3",
+        "fandom_title": "Polly Pocket entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_4",
+        "fandom_title": "Polly Pocket entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_5",
+        "fandom_title": "Polly Pocket entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_6",
+        "fandom_title": "Polly Pocket entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_7",
+        "fandom_title": "Polly Pocket entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_8",
+        "fandom_title": "Polly Pocket entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_9",
+        "fandom_title": "Polly Pocket entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_10",
+        "fandom_title": "Polly Pocket entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_11",
+        "fandom_title": "Polly Pocket entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_12",
+        "fandom_title": "Polly Pocket entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_13",
+        "fandom_title": "Polly Pocket entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_14",
+        "fandom_title": "Polly Pocket entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_15",
+        "fandom_title": "Polly Pocket entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_16",
+        "fandom_title": "Polly Pocket entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_17",
+        "fandom_title": "Polly Pocket entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_18",
+        "fandom_title": "Polly Pocket entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_19",
+        "fandom_title": "Polly Pocket entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_20",
+        "fandom_title": "Polly Pocket entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_21",
+        "fandom_title": "Polly Pocket entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_22",
+        "fandom_title": "Polly Pocket entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_23",
+        "fandom_title": "Polly Pocket entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "polly-pocket-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Polly_Pocket_entry_24",
+        "fandom_title": "Polly Pocket entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Polly Pocket article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:25:51.401Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

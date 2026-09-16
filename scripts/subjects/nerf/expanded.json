@@ -1,0 +1,502 @@
+{
+  "enrichments": [
+    {
+      "slug": "nerf",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf",
+        "fandom_title": "Nerf",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ],
+        "fandom_preferred_image": true
+      },
+      "description": "Nerf is a toy brand formed by Parker Brothers and currently owned by Hasbro. Most of the toys are a variety of foam-based weaponry, with other Nerf products including balls for sports such as American football, basketball, and baseball. Their best known toys are their dart guns (referred to by Hasbro as \"blasters\") that shoot ammunition made from \"Nerf foam\" (partially reticulated polyether type polyurethane foam). Their primary slogan, introduced in the 1990s, is \"It's Nerf or Nothin'!\". Annual revenues under the Nerf brand are approximately million|link=yes}}.\n\nParker Brothers originally developed Nerf, beginning with a polyurethane foam ball. In 1969, Reyn Guyer, a Minnesota-based games inventor, and Minnesota Vikings kicker Fred Cox came to the company with a football game that was safe for indoor play, and after studying it carefully, Parker Brothers decided to eliminate everything but the foam ball. The inventors' in-house name for the ball was the \"falsie-ball\", referencing the sculpted padding for bras used to create the appearance of larger breasts. Parker Brothers instead chose the name \"Nerf\", taken from Nerf bars, the protective tubing used to avoid minor collisions during off-roading.\n\nIn 1970, the Nerf ball was introduced as the \"world's first official indoor ball\". Marketing slogans promised that one can \"Throw it indoors; you can't damage lamps or break windows. You can't hurt babies or old people.\" Some of the first TV commercials for the balls were joint promotions with General Foods' Kool-Aid drink mix, with Micky Dolenz, Davy Jones and Michael Nesmith of the Monkees playing with the balls on a living room soundstage (Kool-Aid sponsored the 1969–70 Saturday morning reruns of the Monkees' 1966–67 TV series). The ball filled a strong consumer need and by the year's end, more than four million Nerf balls had been sold. The ball was followed by a large version called the \"Super Nerf Ball\". Shortly after, in 1972, a basketball game called \"Nerfoop\" and the Nerf football (developed by longtime NFL kicker Fred Cox) joined the family, with the latter quickly becoming Nerf's most popular ball.\n\nThe company continued to add to the Nerf line until they handed control to Kenner Products, a sister company. In 1987, Kenner was bought by the Tonka Corporation, which itself was purchased by Hasbro in 1991, which then became the owner of Nerf. Throughout the 1990s and early 2000s, the Nerf brand served under the subsidiaries OddzOn and Larami before Hasbro took full control of the brand.",
+      "short_description": "Nerf is a toy brand formed by Parker Brothers and currently owned by Hasbro. Most of the toys are a variety of foam-based weaponry, with other Nerf products including balls for sports such as American football,…",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Nerf_orange_logo.png/180px-Nerf_orange_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "image_source": "https://en.wikipedia.org/wiki/Nerf",
+      "image_credit": "Fair-use identification thumbnail via Fandom. Nerf article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork.",
+      "image_license": "fair_use",
+      "image_usage": "fair_use_identification",
+      "image_alt": "Identification thumbnail for Nerf"
+    },
+    {
+      "slug": "nerf-figures",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_figures",
+        "fandom_title": "Nerf figures",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-world",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_world_&_context",
+        "fandom_title": "Nerf world & context",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-places",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_places",
+        "fandom_title": "Nerf places",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-events",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_events",
+        "fandom_title": "Nerf events",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-objects",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_objects_&_artifacts",
+        "fandom_title": "Nerf objects & artifacts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-factions",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_factions_&_groups",
+        "fandom_title": "Nerf factions & groups",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-concepts",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_concepts",
+        "fandom_title": "Nerf concepts",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-eras",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_eras",
+        "fandom_title": "Nerf eras",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-works",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_works_&_media",
+        "fandom_title": "Nerf works & media",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-symbols",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_symbols",
+        "fandom_title": "Nerf symbols",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-controversies",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_controversies",
+        "fandom_title": "Nerf controversies",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-geography",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_geography",
+        "fandom_title": "Nerf geography",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-legacy",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_legacy",
+        "fandom_title": "Nerf legacy",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-practices",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_practices",
+        "fandom_title": "Nerf practices",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-1",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_1",
+        "fandom_title": "Nerf entry 1",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-2",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_2",
+        "fandom_title": "Nerf entry 2",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-3",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_3",
+        "fandom_title": "Nerf entry 3",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-4",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_4",
+        "fandom_title": "Nerf entry 4",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-5",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_5",
+        "fandom_title": "Nerf entry 5",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-6",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_6",
+        "fandom_title": "Nerf entry 6",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-7",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_7",
+        "fandom_title": "Nerf entry 7",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-8",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_8",
+        "fandom_title": "Nerf entry 8",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-9",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_9",
+        "fandom_title": "Nerf entry 9",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-10",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_10",
+        "fandom_title": "Nerf entry 10",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-11",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_11",
+        "fandom_title": "Nerf entry 11",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-12",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_12",
+        "fandom_title": "Nerf entry 12",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-13",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_13",
+        "fandom_title": "Nerf entry 13",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-14",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_14",
+        "fandom_title": "Nerf entry 14",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-15",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_15",
+        "fandom_title": "Nerf entry 15",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-16",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_16",
+        "fandom_title": "Nerf entry 16",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-17",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_17",
+        "fandom_title": "Nerf entry 17",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-18",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_18",
+        "fandom_title": "Nerf entry 18",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-19",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_19",
+        "fandom_title": "Nerf entry 19",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-20",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_20",
+        "fandom_title": "Nerf entry 20",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-21",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_21",
+        "fandom_title": "Nerf entry 21",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-22",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_22",
+        "fandom_title": "Nerf entry 22",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-23",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_23",
+        "fandom_title": "Nerf entry 23",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    },
+    {
+      "slug": "nerf-entry-24",
+      "metadata": {
+        "fandom_url": "https://en.wikipedia.org/wiki/Nerf_entry_24",
+        "fandom_title": "Nerf entry 24",
+        "source_fandom": "en.wikipedia.org",
+        "sources": [
+          "wikipedia",
+          "fandom"
+        ]
+      }
+    }
+  ],
+  "entities": [],
+  "relationships": [],
+  "fair_use_policy": {
+    "image_license": "fair_use",
+    "image_usage": "fair_use_identification",
+    "max_edge_px": 180,
+    "note": "Thumbnails may come from Wikipedia and/or Fandom (en.wikipedia.org) for identification and commentary only. Nerf article text and identification images via Wikipedia; rights remain with original rights holders. Not free or redistributable artwork."
+  },
+  "generated_at": "2026-09-14T20:25:38.278Z",
+  "source": {
+    "wikipedia": true,
+    "fandom": "https://en.wikipedia.org/wiki/",
+    "host": "en.wikipedia.org"
+  },
+  "stats": {
+    "fandom_titles": 0,
+    "fandom_enriched_core": 0,
+    "fandom_created": 0,
+    "fandom_images": 0,
+    "fandom_intros": 0
+  }
+}

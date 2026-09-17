@@ -50,7 +50,12 @@ export async function fetchSubjectsCatalog() {
             return fromApi;
         }
     }
-    return readJson("/data/subjects.json");
+
+    try {
+        return await readJson("/data/seed-catalog.json");
+    } catch {
+        return readJson("/data/subjects.json");
+    }
 }
 
 export async function fetchPageBySlug(slug) {

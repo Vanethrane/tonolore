@@ -597,7 +597,6 @@ def refresh_global_page_links(registry):
     if not pages_dir.exists():
         return
 
-    all_links = build_global_link_list(registry)
     for page_dir in sorted(pages_dir.iterdir()):
         if not page_dir.is_dir():
             continue
@@ -609,13 +608,7 @@ def refresh_global_page_links(registry):
         except Exception:
             continue
 
-        nav_html = f'<section class="related-region"><h2>All pages</h2><ul>{all_links}</ul></section>'
-        if '<section class="related-region"><h2>All pages</h2>' in html_text:
-            html_text = re.sub(r'<section class="related-region"><h2>All pages</h2>.*?</section>', nav_html, html_text, flags=re.DOTALL)
-        elif '</main>' in html_text:
-            html_text = html_text.replace('</main>', f'{nav_html}</main>', 1)
-        else:
-            html_text = html_text.replace('</body>', f'{nav_html}</body>', 1)
+        html_text = re.sub(r'\s*<section class="related-region"><h2>All pages</h2>.*?</section>', '', html_text, flags=re.DOTALL)
         html_file.write_text(html_text, encoding='utf-8')
 
 
@@ -630,7 +623,6 @@ def create_page_html(title, article_content, subtopics, siblings, root_topic, re
 
     subtopics_html = build_validated_list_items(subtopics, registry, page_dir)
     siblings_html = build_validated_list_items(siblings, registry, page_dir)
-    all_pages_html = build_global_link_list(registry, title, page_dir)
     overview_target = (get_seed_dir(root_topic) / "index.html")
     overview_href = relative_href_from(page_dir, overview_target)
 
@@ -638,12 +630,8 @@ def create_page_html(title, article_content, subtopics, siblings, root_topic, re
     <div class="eyebrow"><a href="{overview_href}">&larr; Back to {root_topic}</a></div>
     <h1>{title}</h1>
     <div class="card">{article_content}</div>
-    <section class="related-region">
-      <h2>Directly connected topics</h2>
-      <ul>{subtopics_html}</ul>
-    </section>
+    {f'<section class="related-region"><h2>Directly connected topics</h2><ul>{subtopics_html}</ul></section>' if subtopics_html else ''}
     {f'<section class="related-region"><h2>Parallel topics</h2><ul>{siblings_html}</ul></section>' if siblings_html else ''}
-    <section class="related-region"><h2>All pages</h2><ul>{all_pages_html}</ul></section>
     """
 
     palette = theme_palette or build_theme_palette(root_topic)

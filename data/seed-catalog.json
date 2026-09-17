@@ -1,6 +1,14 @@
 {
   "categories": [
     {
+      "id": "battlestar-galactica",
+      "label": "Battlestar Galactica",
+      "blurb": "Generated lore pages for Battlestar Galactica — kept as a seed shelf for this topic.",
+      "subjectIds": [
+        "battlestar-galactica"
+      ]
+    },
+    {
       "id": "charizard",
       "label": "Charizard",
       "blurb": "Generated lore pages for Charizard — kept as a seed shelf for this topic.",
@@ -18,6 +26,22 @@
     }
   ],
   "subjects": [
+    {
+      "id": "battlestar-galactica",
+      "name": "Battlestar Galactica",
+      "slug": "battlestar-galactica",
+      "path": "/battlestar-galactica",
+      "theme": "battlestar-galactica",
+      "categories": [
+        "battlestar-galactica"
+      ],
+      "entity_count": 0,
+      "logo": {
+        "url": "/assets/tonolore.jpg",
+        "alt": "Battlestar Galactica"
+      },
+      "short_description": "Seed shelf for Battlestar Galactica."
+    },
     {
       "id": "charizard",
       "name": "Charizard",

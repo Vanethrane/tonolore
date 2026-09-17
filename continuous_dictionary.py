@@ -42,6 +42,123 @@ GENERIC_TITLES = {
     "search",
 }
 
+SEED_RULES = {
+    "one piece": {
+        "allow_terms": {
+            "one piece",
+            "monkey d luffy",
+            "luffy",
+            "roronoa zoro",
+            "zoro",
+            "nami",
+            "usopp",
+            "sanji",
+            "chopper",
+            "robin",
+            "franky",
+            "brook",
+            "jinbei",
+            "ace",
+            "sabo",
+            "shanks",
+            "buggy",
+            "law",
+            "kaido",
+            "big mom",
+            "whitebeard",
+            "marineford",
+            "alabasta",
+            "skypiea",
+            "wano",
+            "enies lobby",
+            "sabaody",
+            "dressrosa",
+            "impel down",
+            "straw hat",
+            "devil fruit",
+            "world government",
+            "celestial dragon",
+            "gorosei",
+            "haki",
+            "poneglyph",
+            "mugiwara",
+            "marines",
+            "pirate",
+        },
+        "block_terms": {
+            "live aid",
+            "re zero",
+            "f zero",
+            "kentucky route zero",
+            "battlestar galactica",
+            "mob psycho",
+            "attack on titan",
+            "skibidi",
+            "sym bionic titan",
+            "twin peaks",
+            "david cronenberg",
+            "mulholland drive",
+            "austria hungary",
+            "the elephant man",
+            "the straight story",
+            "one battle after another",
+            "atlantis the lost empire",
+            "one man band",
+            "cars film",
+            "drive 2011 film",
+            "sissy spacek",
+            "eternal sunshine",
+            "the matrix resurrections",
+            "black horror",
+            "dont look up",
+            "annabelle",
+            "bridgeton",
+            "jessica jones",
+            "wicked",
+            "melania",
+            "the lego movie",
+            "gods and monsters",
+            "the revenant",
+            "jazz jamaica",
+            "mongolian death worm",
+            "a recipe for seduction",
+        },
+        "block_media_types": True,
+    },
+    "star wars": {
+        "allow_terms": {
+            "star wars",
+            "jedi",
+            "sith",
+            "lightsaber",
+            "skywalker",
+            "vader",
+            "han solo",
+            "leia",
+            "chewbacca",
+            "yoda",
+            "darth",
+            "death star",
+            "clone wars",
+            "galactic empire",
+            "rebel alliance",
+        },
+        "block_terms": {
+            "one piece",
+            "attack on titan",
+            "f zero",
+            "live aid",
+        },
+        "block_media_types": True,
+    }
+}
+
+DEFAULT_SEED_RULES = {
+    "allow_terms": set(),
+    "block_terms": set(),
+    "block_media_types": True,
+}
+
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 DIST_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -136,6 +253,75 @@ def is_generic_topic(title):
     if "wikimedia" in lowered:
         return True
     return False
+
+
+def normalize_seed_text(value):
+    text = str(value or "").lower()
+    text = re.sub(r"[^a-z0-9\s]", " ", text)
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
+
+
+def parse_csv_terms(raw_value):
+    if raw_value is None:
+        return []
+    terms = []
+    for chunk in str(raw_value).replace("\n", ",").split(","):
+        cleaned = normalize_seed_text(chunk)
+        if cleaned and cleaned not in terms:
+            terms.append(cleaned)
+    return terms
+
+
+def get_seed_rules(root_topic, allow_terms=None, block_terms=None):
+    root_name = normalize_seed_text(root_topic or "")
+    if not root_name:
+        return DEFAULT_SEED_RULES
+
+    normalized_key = root_name.replace("-", " ")
+    direct = SEED_RULES.get(root_name)
+    if direct:
+        rules = dict(direct)
+    else:
+        rules = dict(SEED_RULES.get(normalized_key, DEFAULT_SEED_RULES))
+
+    if allow_terms is not None:
+        rules["allow_terms"] = set(allow_terms)
+    if block_terms is not None:
+        rules["block_terms"] = set(block_terms)
+    return rules
+
+
+def is_seed_relevant(topic, root_topic, article_text="", allow_terms=None, block_terms=None):
+    if not topic:
+        return False
+
+    root_name = normalize_seed_text(root_topic or "")
+    if not root_name:
+        return True
+
+    topic_text = normalize_seed_text(topic)
+    article_text = normalize_seed_text(article_text)
+
+    if topic_text in {"", root_name}:
+        return True
+
+    rules = get_seed_rules(root_topic, allow_terms, block_terms)
+    for blocked in rules.get("block_terms", set()):
+        if blocked in topic_text or blocked in article_text:
+            return False
+
+    if rules.get("block_media_types"):
+        if re.search(r"\b(season|episode|film|movie|series|miniseries|soundtrack|album|discography|song|show|web series|tv series|documentary|play|single|episode list)\b", topic_text):
+            return False
+
+    allow_terms = rules.get("allow_terms", set())
+    if allow_terms:
+        return any(term in topic_text or term in article_text for term in allow_terms) or root_name in topic_text
+
+    if root_name in topic_text:
+        return True
+    return True
 
 
 def build_theme_palette(topic):
@@ -273,12 +459,14 @@ def dedupe_preserve_order(items):
     return out
 
 
-def select_direct_links(topic, root_topic, registry):
+def select_direct_links(topic, root_topic, registry, allow_terms=None, block_terms=None):
     candidates = []
     for result in fetch_wikipedia_search(f'{topic} {root_topic}', max_items=12):
         if not result or result.lower() == topic.lower():
             continue
         if is_generic_topic(result):
+            continue
+        if not is_seed_relevant(result, root_topic, allow_terms=allow_terms, block_terms=block_terms):
             continue
         if slugify(result) in {slugify(x) for x in registry.keys()}:
             continue
@@ -445,13 +633,15 @@ def git_commit_and_push(processed_count, total_count, root_topic):
         print("\n[!] Git commit/push skipped: no changes or remote not configured.")
 
 
-def page_is_reliable(topic, article):
+def page_is_reliable(topic, article, root_topic=None, allow_terms=None, block_terms=None):
     if not article or not article.get("text"):
         return False
     text = article["text"]
     if len(text.strip()) < MIN_ARTICLE_TEXT:
         return False
     if re.search(r"^(?:an overview|a core entity|detailed lore)", text, flags=re.IGNORECASE):
+        return False
+    if root_topic and not is_seed_relevant(topic, root_topic, text, allow_terms=allow_terms, block_terms=block_terms):
         return False
     return True
 
@@ -605,8 +795,10 @@ def finalize_subject(root_topic, registry):
     return merged_registry
 
 
-def run_dictionary_builder(seed_override=None):
-    root_topic = (seed_override or sys.argv[1].strip() if len(sys.argv) > 1 and sys.argv[1].strip() else DEFAULT_SEED)
+def run_dictionary_builder(seed_override=None, allow_terms=None, block_terms=None):
+    root_topic = seed_override or (sys.argv[1].strip() if len(sys.argv) > 1 and sys.argv[1].strip() else DEFAULT_SEED)
+    allow_terms = parse_csv_terms(allow_terms)
+    block_terms = parse_csv_terms(block_terms)
     template_raw = None
     config = load_json(TEMPLATE_CONFIG_FILE, {})
     template_path = config.get("template_path")
@@ -634,16 +826,16 @@ def run_dictionary_builder(seed_override=None):
             continue
 
         article = fetch_wikipedia_article(current_topic, root_topic)
-        if not page_is_reliable(current_topic, article):
+        if not page_is_reliable(current_topic, article, root_topic, allow_terms=allow_terms, block_terms=block_terms):
             if not fetch_wikipedia_search(current_topic, 1):
-                print(f"\n[!] Rejecting low-quality page: {current_topic}")
+                print(f"\n[!] Rejecting off-seed or low-quality page: {current_topic}")
                 continue
             continue
 
         fandom = fetch_fandom_reference(current_topic, root_topic)
         google = fetch_google_reference(current_topic, root_topic)
 
-        related = select_direct_links(current_topic, root_topic, registry)
+        related = select_direct_links(current_topic, root_topic, registry, allow_terms=allow_terms, block_terms=block_terms)
         merged_text = article["text"]
         if fandom.get("summary"):
             merged_text += " " + fandom["summary"]
@@ -699,23 +891,46 @@ def run_dictionary_builder(seed_override=None):
     return root_topic
 
 
+def prompt_for_seed_config(default_seed=None):
+    seed = input("Enter seed topic to generate: ").strip() or (default_seed or DEFAULT_SEED)
+    allow_csv = input("Allow terms (CSV, optional): ").strip()
+    block_csv = input("Block terms (CSV, optional): ").strip()
+    return seed, parse_csv_terms(allow_csv), parse_csv_terms(block_csv)
+
+
 def prompt_for_next_seed():
     if not PROMPT_FOR_NEXT_SEED:
         return None
     next_seed = input("\nEnter the next seed topic (or press Enter to exit): ").strip()
-    return next_seed or None
+    if not next_seed:
+        return None
+    allow_csv = input("Allow terms (CSV, optional): ").strip()
+    block_csv = input("Block terms (CSV, optional): ").strip()
+    return next_seed, parse_csv_terms(allow_csv), parse_csv_terms(block_csv)
 
 
 if __name__ == "__main__":
+    seed_config = None
     while True:
-        seed = None
-        if len(sys.argv) > 1 and sys.argv[1].strip():
-            seed = sys.argv[1].strip()
-            sys.argv = [sys.argv[0]]
+        if seed_config is None:
+            if len(sys.argv) > 1 and sys.argv[1].strip():
+                seed = sys.argv[1].strip()
+                sys.argv = [sys.argv[0]]
+                allow_csv = input("Allow terms (CSV, optional): ").strip()
+                block_csv = input("Block terms (CSV, optional): ").strip()
+                allow_terms = parse_csv_terms(allow_csv)
+                block_terms = parse_csv_terms(block_csv)
+            else:
+                seed, allow_terms, block_terms = prompt_for_seed_config()
         else:
-            seed = input("Enter seed topic to generate: ").strip() or DEFAULT_SEED
-        run_dictionary_builder(seed)
-        next_seed = prompt_for_next_seed()
-        if not next_seed:
+            seed, allow_terms, block_terms = seed_config
+            seed_config = None
+
+        run_dictionary_builder(seed, allow_terms=allow_terms, block_terms=block_terms)
+
+        if not PROMPT_FOR_NEXT_SEED:
             break
-        seed = next_seed
+
+        seed_config = prompt_for_next_seed()
+        if not seed_config:
+            break

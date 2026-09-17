@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="referrer" content="no-referrer"/>
+<title>{{TITLE}}</title>
+<meta name="description" content="Canonical lore pages for people, places, events, and ideas — built for long-tail discovery across mapped subjects."/>
+<link rel="icon" type="image/svg+xml" href="/favicon.svg"/>
+
+<style>
+  :root { color-scheme: dark; }
+  body { margin: 0; font-family: Georgia, "Times New Roman", serif; background: #0b0d10; color: #e8e4db; line-height: 1.65; }
+  a { color: #3db8a0; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .wrap { width: min(920px, calc(100% - 40px)); margin: 0 auto; padding: 28px 0 72px; }
+  .site-bar { display: flex; gap: 16px; flex-wrap: wrap; align-items: baseline; margin-bottom: 22px; font-family: system-ui, sans-serif; font-size: 0.9rem; }
+  .site-bar strong { font-size: 1.15rem; letter-spacing: 0.04em; color: #f2efe8; }
+  .eyebrow { text-transform: uppercase; letter-spacing: 0.14em; font-size: 0.72rem; color: #e0a45a; font-family: system-ui, sans-serif; font-weight: 700; }
+  h1 { font-size: clamp(2rem, 5vw, 3.4rem); line-height: 1.05; margin: 10px 0 16px; color: #f2efe8; }
+  h2 { font-size: 1.45rem; margin: 36px 0 14px; border-bottom: 1px solid rgba(232,228,219,0.12); padding-bottom: 6px; }
+  .lede { color: #9a9488; max-width: 42rem; }
+  .card { display: block; padding: 20px; border: 1px solid rgba(232,228,219,0.12); background: #12161c; margin-bottom: 24px; border-radius: 4px; }
+  ul { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px; }
+  li { background: #12161c; padding: 10px 14px; border: 1px solid rgba(232,228,219,0.12); border-radius: 4px; }
+  .unlinked-topic { color: #64748b; }
+  main :where(p, li) { color: #cfc9bc; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <nav class="site-bar" aria-label="Site">
+    <strong><a href="../../index.html">Ton-o-Lore</a></strong>
+  </nav>
+
+  <main>
+    {{CONTENT}}
+  </main>
+</div>
+</body>
+</html>

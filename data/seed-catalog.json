@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "id": "charizard",
+      "label": "Charizard",
+      "blurb": "Generated lore pages for Charizard — kept as a seed shelf for this topic.",
+      "subjectIds": [
+        "charizard"
+      ]
+    },
+    {
+      "id": "pages",
+      "label": "Pages",
+      "blurb": "Generated lore pages for Pages — kept as a seed shelf for this topic.",
+      "subjectIds": [
+        "pages"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "id": "charizard",
+      "name": "Charizard",
+      "slug": "charizard",
+      "path": "/charizard",
+      "theme": "charizard",
+      "categories": [
+        "charizard"
+      ],
+      "entity_count": 0,
+      "logo": {
+        "url": "/assets/tonolore.jpg",
+        "alt": "Charizard"
+      },
+      "short_description": "Seed shelf for Charizard."
+    },
+    {
+      "id": "pages",
+      "name": "Pages",
+      "slug": "pages",
+      "path": "/pages",
+      "theme": "pages",
+      "categories": [
+        "pages"
+      ],
+      "entity_count": 0,
+      "logo": {
+        "url": "/assets/tonolore.jpg",
+        "alt": "Pages"
+      },
+      "short_description": "Seed shelf for Pages."
+    }
+  ]
+}

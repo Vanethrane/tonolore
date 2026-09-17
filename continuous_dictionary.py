@@ -19,11 +19,12 @@ SEED_CATALOG_FILE = DATA_DIR / "seed-catalog.json"
 TEMPLATE_CONFIG_FILE = DATA_DIR / "template_config.json"
 
 DEFAULT_SEED = "one piece"
-MAX_PAGES_PER_RUN = 250
+MAX_PAGES_PER_RUN = 5000
 MAX_DIRECT_LINKS_PER_TOPIC = 12
 MIN_ARTICLE_TEXT = 200
 AUTO_COMMIT_ON_COMPLETE = True
 PROMPT_FOR_NEXT_SEED = True
+COMMIT_EVERY = 5000
 
 GENERIC_TITLES = {
     "category",
@@ -193,6 +194,12 @@ def get_seed_dir(root_topic):
     seed_dir.mkdir(parents=True, exist_ok=True)
     (seed_dir / "pages").mkdir(parents=True, exist_ok=True)
     return seed_dir
+
+
+def get_global_pages_dir():
+    pages_dir = DIST_DIR / "pages"
+    pages_dir.mkdir(parents=True, exist_ok=True)
+    return pages_dir
 
 
 def fetch_url(url, timeout=12):
@@ -447,6 +454,80 @@ def fetch_google_reference(topic, root_topic):
         return {"summary": "", "links": []}
 
 
+def choose_top_source_passages(topic, root_topic, source_entries):
+    passages = []
+    seen = set()
+    for label, text in source_entries:
+        if not text:
+            continue
+        cleaned = clean_source_text(strip_html(text))
+        if len(cleaned) < 80:
+            continue
+        for sentence in re.split(r"(?<=[.!?])\s+", cleaned):
+            sentence = sentence.strip()
+            key = normalize_seed_text(sentence)
+            if len(sentence) < 45 or not key or key in seen:
+                continue
+            seen.add(key)
+            passages.append((label, sentence))
+
+    if not passages:
+        return [
+            ("Wikipedia", f"{topic} remains a central subject within {root_topic}, and its significance is reinforced by repeated references, canon details, and the broader fan conversation around it.")
+        ]
+
+    passages.sort(key=lambda item: len(item[1]), reverse=True)
+    return passages[:3]
+
+
+def reword_three_site_descriptions(topic, root_topic, source_entries):
+    chosen = choose_top_source_passages(topic, root_topic, source_entries)
+    if not chosen:
+        return f"{topic} is a notable subject within {root_topic}, appearing in recurring narrative, thematic, and cultural references that help define its place in the broader canon."
+
+    lead_parts = []
+    for _, sentence in chosen:
+        lead_parts.append(sentence)
+
+    source_blend = " ".join(lead_parts[:3])
+    source_blend = re.sub(r"\s+", " ", source_blend).strip()
+
+    name = topic.strip()
+    intro = (
+        f"{name} is a significant subject within {root_topic}, recognized for its recurring presence in the setting's major stories, character arcs, and cultural references. "
+        f"The topic is commonly understood through its role in the wider canon, where it connects narrative developments, thematic patterns, and broader lore traditions. "
+        f"Across multiple reference points, {name} is treated as an established element of the world rather than a minor or incidental detail."
+    )
+
+    return f"{intro} {source_blend}"
+
+
+def reset_generation_state():
+    for path in [DIST_DIR, DATA_DIR / "queue.json", DATA_DIR / "completed_subjects.json", DATA_DIR / "registry.json", DATA_DIR / "seed-catalog.json", DATA_DIR / "template_config.json"]:
+        if path.is_dir():
+            for child in list(path.iterdir()):
+                if child.is_dir():
+                    for nested in sorted(child.rglob('*'), reverse=True):
+                        if nested.is_file() or nested.is_symlink():
+                            nested.unlink()
+                        elif nested.is_dir():
+                            nested.rmdir()
+                    child.rmdir()
+                else:
+                    child.unlink()
+            path.rmdir()
+        elif path.exists():
+            path.unlink()
+
+    DIST_DIR.mkdir(parents=True, exist_ok=True)
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    save_json(QUEUE_FILE, [])
+    save_json(COMPLETED_FILE, [])
+    save_json(REGISTRY_FILE, {})
+    save_json(SEED_CATALOG_FILE, {"categories": [], "subjects": []})
+    save_json(TEMPLATE_CONFIG_FILE, {})
+
+
 def dedupe_preserve_order(items):
     seen = set()
     out = []
@@ -475,29 +556,86 @@ def select_direct_links(topic, root_topic, registry, allow_terms=None, block_ter
     return direct
 
 
-def build_validated_list_items(items_list, registry):
+def relative_href_from(current_dir, target_path):
+    if current_dir is None:
+        current_dir = get_global_pages_dir()
+    rel = os.path.relpath(target_path, current_dir).replace('\\', '/')
+    if not rel.startswith('.'):
+        rel = './' + rel
+    return rel
+
+
+def build_validated_list_items(items_list, registry, current_page_dir=None):
     html_items = []
     registered = {slugify(title) for title in registry.keys()}
     for item in dedupe_preserve_order(items_list):
         item_slug = slugify(item)
         if item_slug in registered:
-            html_items.append(f'<li><a href="../{item_slug}/index.html">{item}</a></li>')
+            target = get_global_pages_dir() / item_slug / "index.html"
+            href = relative_href_from(current_page_dir or get_global_pages_dir(), target)
+            html_items.append(f'<li><a href="{href}">{item}</a></li>')
         else:
             html_items.append(f'<li><span class="unlinked-topic">{item}</span></li>')
     return "".join(html_items)
 
 
+def build_global_link_list(registry, current_title=None, current_page_dir=None):
+    items = []
+    current_dir = current_page_dir or get_global_pages_dir()
+    for title in sorted(registry.keys(), key=lambda value: value.lower()):
+        if current_title and title.lower() == current_title.lower():
+            continue
+        slug = slugify(title)
+        target = get_global_pages_dir() / slug / "index.html"
+        href = relative_href_from(current_dir, target)
+        items.append(f'<li><a href="{href}">{title}</a></li>')
+    return "".join(items)
+
+
+def refresh_global_page_links(registry):
+    pages_dir = get_global_pages_dir()
+    if not pages_dir.exists():
+        return
+
+    all_links = build_global_link_list(registry)
+    for page_dir in sorted(pages_dir.iterdir()):
+        if not page_dir.is_dir():
+            continue
+        html_file = page_dir / "index.html"
+        if not html_file.exists():
+            continue
+        try:
+            html_text = html_file.read_text(encoding="utf-8")
+        except Exception:
+            continue
+
+        nav_html = f'<section class="related-region"><h2>All pages</h2><ul>{all_links}</ul></section>'
+        if '<section class="related-region"><h2>All pages</h2>' in html_text:
+            html_text = re.sub(r'<section class="related-region"><h2>All pages</h2>.*?</section>', nav_html, html_text, flags=re.DOTALL)
+        elif '</main>' in html_text:
+            html_text = html_text.replace('</main>', f'{nav_html}</main>', 1)
+        else:
+            html_text = html_text.replace('</body>', f'{nav_html}</body>', 1)
+        html_file.write_text(html_text, encoding='utf-8')
+
+
 def create_page_html(title, article_content, subtopics, siblings, root_topic, registry, theme_palette):
     slug = slugify(title)
-    seed_dir = get_seed_dir(root_topic)
-    page_dir = seed_dir / "pages" / slug
+    pages_dir = get_global_pages_dir()
+    page_dir = pages_dir / slug
     page_dir.mkdir(parents=True, exist_ok=True)
 
-    subtopics_html = build_validated_list_items(subtopics, registry)
-    siblings_html = build_validated_list_items(siblings, registry)
+    if (page_dir / "index.html").exists():
+        return
+
+    subtopics_html = build_validated_list_items(subtopics, registry, page_dir)
+    siblings_html = build_validated_list_items(siblings, registry, page_dir)
+    all_pages_html = build_global_link_list(registry, title, page_dir)
+    overview_target = (get_seed_dir(root_topic) / "index.html")
+    overview_href = relative_href_from(page_dir, overview_target)
 
     body = f"""
-    <div class="eyebrow"><a href="../../index.html">&larr; Back to {root_topic}</a></div>
+    <div class="eyebrow"><a href="{overview_href}">&larr; Back to {root_topic}</a></div>
     <h1>{title}</h1>
     <div class="card">{article_content}</div>
     <section class="related-region">
@@ -505,6 +643,7 @@ def create_page_html(title, article_content, subtopics, siblings, root_topic, re
       <ul>{subtopics_html}</ul>
     </section>
     {f'<section class="related-region"><h2>Parallel topics</h2><ul>{siblings_html}</ul></section>' if siblings_html else ''}
+    <section class="related-region"><h2>All pages</h2><ul>{all_pages_html}</ul></section>
     """
 
     palette = theme_palette or build_theme_palette(root_topic)
@@ -555,6 +694,8 @@ def create_page_html(title, article_content, subtopics, siblings, root_topic, re
 """
     with open(page_dir / "index.html", "w", encoding="utf-8") as handle:
         handle.write(document)
+
+    refresh_global_page_links(registry)
 
 
 def build_seed_index_and_sitemap(registry, root_topic):
@@ -710,15 +851,18 @@ def restore_links_in_html(html_text, placeholders):
     return html_text
 
 
-def link_known_subject_mentions(html_text, registry):
+def link_known_subject_mentions(html_text, registry, current_page_dir=None):
     protected, placeholders = protect_links_in_html(html_text)
     titles = sorted(registry.keys(), key=lambda value: len(value), reverse=True)
+    current_dir = current_page_dir or get_global_pages_dir()
     for title in titles:
         slug = slugify(title)
         if not title or not slug or title.lower() in {"one piece"}:
             continue
+        target = get_global_pages_dir() / slug / "index.html"
+        href = relative_href_from(current_dir, target)
         pattern = re.compile(rf"(?<![A-Za-z0-9]){re.escape(title)}(?![A-Za-z0-9])", re.IGNORECASE)
-        protected = pattern.sub(f'<a href="../{slug}/index.html">{title}</a>', protected)
+        protected = pattern.sub(f'<a href="{href}">{title}</a>', protected)
     return restore_links_in_html(protected, placeholders)
 
 
@@ -740,10 +884,10 @@ def repair_seed_links(root_topic, registry):
             main_match = re.search(r"<main>(.*)</main>", html_text, flags=re.IGNORECASE | re.DOTALL)
             if main_match:
                 body_html = main_match.group(1)
-                fixed_html = link_known_subject_mentions(body_html, registry)
+                fixed_html = link_known_subject_mentions(body_html, registry, page_dir)
                 html_text = html_text.replace(body_html, fixed_html, 1)
             else:
-                html_text = link_known_subject_mentions(html_text, registry)
+                html_text = link_known_subject_mentions(html_text, registry, page_dir)
             html_file.write_text(html_text, encoding="utf-8")
         except Exception:
             continue
@@ -816,13 +960,15 @@ def run_dictionary_builder(seed_override=None, allow_terms=None, block_terms=Non
     processed_in_batch = 0
     page_metadata_cache = {}
 
-    while queue and processed_in_batch < MAX_PAGES_PER_RUN:
+    while queue:
         current_topic = queue.pop(0)
         if not current_topic or current_topic in completed:
             continue
 
         candidate_slug = slugify(current_topic)
         if candidate_slug in {slugify(title) for title in registry.keys()}:
+            continue
+        if (get_global_pages_dir() / candidate_slug / "index.html").exists():
             continue
 
         article = fetch_wikipedia_article(current_topic, root_topic)
@@ -836,17 +982,21 @@ def run_dictionary_builder(seed_override=None, allow_terms=None, block_terms=Non
         google = fetch_google_reference(current_topic, root_topic)
 
         related = select_direct_links(current_topic, root_topic, registry, allow_terms=allow_terms, block_terms=block_terms)
-        merged_text = article["text"]
-        if fandom.get("summary"):
-            merged_text += " " + fandom["summary"]
-        if google.get("summary"):
-            merged_text += " " + google["summary"]
-
-        article["text"] = re.sub(r"\s+", " ", merged_text).strip()
+        source_entries = [
+            ("Wikipedia", article.get("text", "")),
+            ("Fandom", fandom.get("summary", "")),
+            ("Google", google.get("summary", "")),
+        ]
+        article["text"] = reword_three_site_descriptions(current_topic, root_topic, source_entries)
         article["content"] = article["content"]
 
         title = article["title"]
-        registry[title] = slugify(title)
+        title_slug = slugify(title)
+        if title_slug in {slugify(value) for value in registry.keys()} or (get_global_pages_dir() / title_slug / "index.html").exists():
+            completed.append(current_topic)
+            continue
+
+        registry[title] = title_slug
         page_metadata_cache[title] = {
             "article_content": article["content"],
             "subtopics": related,
@@ -866,15 +1016,25 @@ def run_dictionary_builder(seed_override=None, allow_terms=None, block_terms=Non
         for item in related:
             if not item or item.lower() == current_topic.lower():
                 continue
-            if slugify(item) in {slugify(value) for value in registry.keys()}:
+            item_slug = slugify(item)
+            if item_slug in {slugify(value) for value in registry.keys()}:
+                continue
+            if (get_global_pages_dir() / item_slug / "index.html").exists():
                 continue
             if item not in queue:
                 queue.append(item)
 
         completed.append(current_topic)
         processed_in_batch += 1
-        print(f"\r[OK] {processed_in_batch}/{MAX_PAGES_PER_RUN}  {current_topic[:28]}", end="", flush=True)
+        print(f"\r[OK] {processed_in_batch}  {current_topic[:28]}", end="", flush=True)
         time.sleep(0.25)
+
+        if processed_in_batch % COMMIT_EVERY == 0 and processed_in_batch > 0:
+            save_json(REGISTRY_FILE, registry)
+            save_json(QUEUE_FILE, queue)
+            save_json(COMPLETED_FILE, completed)
+            if AUTO_COMMIT_ON_COMPLETE:
+                git_commit_and_push(processed_count=processed_in_batch, total_count=len(registry), root_topic=root_topic)
 
     if page_metadata_cache:
         registry = finalize_subject(root_topic, registry)
@@ -892,20 +1052,36 @@ def run_dictionary_builder(seed_override=None, allow_terms=None, block_terms=Non
 
 
 def prompt_for_seed_config(default_seed=None):
-    seed = input("Enter seed topic to generate: ").strip() or (default_seed or DEFAULT_SEED)
-    allow_csv = input("Allow terms (CSV, optional): ").strip()
-    block_csv = input("Block terms (CSV, optional): ").strip()
+    try:
+        seed = input("Enter seed topic to generate: ").strip() or (default_seed or DEFAULT_SEED)
+    except EOFError:
+        print("\n[!] No more input. Exiting.")
+        return None, [], []
+
+    try:
+        allow_csv = input("Allow terms (CSV, optional): ").strip()
+        block_csv = input("Block terms (CSV, optional): ").strip()
+    except EOFError:
+        return seed, [], []
+
     return seed, parse_csv_terms(allow_csv), parse_csv_terms(block_csv)
 
 
 def prompt_for_next_seed():
     if not PROMPT_FOR_NEXT_SEED:
         return None
-    next_seed = input("\nEnter the next seed topic (or press Enter to exit): ").strip()
+    try:
+        next_seed = input("\nEnter the next seed topic (or press Enter to exit): ").strip()
+    except EOFError:
+        print("\n[!] No more input. Exiting.")
+        return None
     if not next_seed:
         return None
-    allow_csv = input("Allow terms (CSV, optional): ").strip()
-    block_csv = input("Block terms (CSV, optional): ").strip()
+    try:
+        allow_csv = input("Allow terms (CSV, optional): ").strip()
+        block_csv = input("Block terms (CSV, optional): ").strip()
+    except EOFError:
+        return next_seed, [], []
     return next_seed, parse_csv_terms(allow_csv), parse_csv_terms(block_csv)
 
 
@@ -916,12 +1092,19 @@ if __name__ == "__main__":
             if len(sys.argv) > 1 and sys.argv[1].strip():
                 seed = sys.argv[1].strip()
                 sys.argv = [sys.argv[0]]
-                allow_csv = input("Allow terms (CSV, optional): ").strip()
-                block_csv = input("Block terms (CSV, optional): ").strip()
-                allow_terms = parse_csv_terms(allow_csv)
-                block_terms = parse_csv_terms(block_csv)
+                try:
+                    allow_csv = input("Allow terms (CSV, optional): ").strip()
+                    block_csv = input("Block terms (CSV, optional): ").strip()
+                except EOFError:
+                    allow_terms = []
+                    block_terms = []
+                else:
+                    allow_terms = parse_csv_terms(allow_csv)
+                    block_terms = parse_csv_terms(block_csv)
             else:
                 seed, allow_terms, block_terms = prompt_for_seed_config()
+                if seed is None:
+                    break
         else:
             seed, allow_terms, block_terms = seed_config
             seed_config = None

@@ -22,7 +22,6 @@ DEFAULT_SEED = "Star Wars"
 PAGES_DIR.mkdir(parents=True, exist_ok=True)
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-
 def load_json(filepath, default):
     if filepath.exists():
         try:
@@ -32,22 +31,17 @@ def load_json(filepath, default):
             return default
     return default
 
-
 def save_json(filepath, data):
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
-
 
 def slugify(text):
     text = text.lower()
     text = re.sub(r"[^\w\s-]", "", text)
     return re.sub(r"[-\s]+", "-", text).strip("-")
 
-
 def get_or_prompt_template():
-    """Prompts the user for a reference format page on launch if not configured."""
     config = load_json(TEMPLATE_CONFIG_FILE, {})
-
     if config.get("template_path") and os.path.exists(config["template_path"]):
         with open(config["template_path"], "r", encoding="utf-8") as f:
             return f.read()
@@ -59,38 +53,44 @@ def get_or_prompt_template():
     print("Leave blank to use default modern dark theme.\n")
 
     user_input = input("Enter path to format HTML file (e.g. dist/pages/star-wars/index.html): ").strip()
-
     if user_input and os.path.exists(user_input):
         with open(user_input, "r", encoding="utf-8") as f:
             template_content = f.read()
         save_json(TEMPLATE_CONFIG_FILE, {"template_path": os.path.abspath(user_input)})
-        print(f"[✓] Successfully loaded template from: {user_input}\n")
+        print(f"[?] Successfully loaded template from: {user_input}\n")
         return template_content
 
     print("[!] No custom format page provided/found. Using default template.\n")
     return None
 
-
 def fetch_wikipedia_summary(topic):
-    url = f"https://en.wikipedia.org/api/rest_v1/page/summary/{urllib.parse.quote(topic)}"
-    req = urllib.request.Request(url, headers={"User-Agent": "TonoloreBot/1.0"})
+    # Strict URL encoding to prevent 404s on titles with parentheses like 'Rey (Star Wars)'
+    encoded_topic = urllib.parse.quote(topic.replace(" ", "_"), safe="")
+    url = f"https://en.wikipedia.org/api/rest_v1/page/summary/{encoded_topic}"
+    req = urllib.request.Request(url, headers={"User-Agent": "TonoloreBot/1.0 (https://tonolore.com)"})
     try:
         with urllib.request.urlopen(req) as response:
             if response.status == 200:
                 data = json.loads(response.read().decode("utf-8"))
+                extract = data.get("extract", "")
+                if not extract:
+                    extract = f"Summary overview for {data.get('title', topic)}."
                 return {
                     "title": data.get("title", topic),
-                    "extract": data.get("extract", "No description available."),
+                    "extract": extract,
                     "url": data.get("content_urls", {}).get("desktop", {}).get("page", "")
                 }
     except Exception:
         pass
-    return {"title": topic, "extract": f"Automated entry for {topic}.", "url": ""}
-
+    return {
+        "title": topic,
+        "extract": f"Detailed topic overview for {topic}.",
+        "url": f"https://en.wikipedia.org/wiki/{urllib.parse.quote(topic.replace(' ', '_'))}"
+    }
 
 def fetch_wikipedia_subtopics(query, max_items=8):
     search_url = f"https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch={urllib.parse.quote(query)}&format=json"
-    req = urllib.request.Request(search_url, headers={"User-Agent": "TonoloreBot/1.0"})
+    req = urllib.request.Request(search_url, headers={"User-Agent": "TonoloreBot/1.0 (https://tonolore.com)"})
     subtopics = []
     try:
         with urllib.request.urlopen(req) as response:
@@ -102,7 +102,6 @@ def fetch_wikipedia_subtopics(query, max_items=8):
     except Exception:
         pass
     return subtopics
-
 
 def discover_sibling_entities(entity_name):
     siblings = []
@@ -124,7 +123,6 @@ def discover_sibling_entities(entity_name):
 
     return siblings[:5]
 
-
 def render_html_page(title, extract, wiki_url, subtopics, siblings, template_raw=None):
     slug = slugify(title)
     subtopics_html = "".join([f'<li><a href="../{slugify(st)}/index.html">{st}</a></li>' for st in subtopics])
@@ -140,11 +138,8 @@ def render_html_page(title, extract, wiki_url, subtopics, siblings, template_raw
         """
 
     if template_raw:
-        # Inject dynamic values into user's custom format template
         html_content = template_raw
         html_content = re.sub(r"<title>.*?</title>", f"<title>{title} - Tonolore Dictionary</title>", html_content, flags=re.IGNORECASE)
-        
-        # Replace main container content if standard landmarks exist, or construct standard body
         body_content = f"""
         <p><a href="../../index.html">&larr; Back to Directory Home</a></p>
         <div class="card">
@@ -158,7 +153,6 @@ def render_html_page(title, extract, wiki_url, subtopics, siblings, template_raw
         </section>
         {sibling_section}
         """
-        
         if "<body>" in html_content and "</body>" in html_content:
             head_part = html_content.split("<body>")[0]
             tail_part = html_content.split("</body>")[1]
@@ -166,7 +160,6 @@ def render_html_page(title, extract, wiki_url, subtopics, siblings, template_raw
         else:
             html_content = body_content
     else:
-        # Standard fallback layout
         html_content = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -203,7 +196,6 @@ def render_html_page(title, extract, wiki_url, subtopics, siblings, template_raw
     page_dir.mkdir(parents=True, exist_ok=True)
     with open(page_dir / "index.html", "w", encoding="utf-8") as f:
         f.write(html_content)
-
 
 def build_sitemap_and_index(registry):
     urls = []
@@ -243,21 +235,18 @@ def build_sitemap_and_index(registry):
     with open(DIST_DIR / "index.html", "w", encoding="utf-8") as f:
         f.write(index_html)
 
-
 def git_commit_and_push(processed_count, total_count):
     try:
         subprocess.run(["git", "add", "."], check=True, capture_output=True)
         msg = f"Auto-commit: Batch update ({processed_count} pages). Total pages: {total_count}"
         subprocess.run(["git", "commit", "-m", msg], check=True, capture_output=True)
         subprocess.run(["git", "push"], check=True, capture_output=True)
-        print(f"\n[✓] Git pushed: '{msg}'")
+        print(f"\n[?] Git pushed: '{msg}'")
     except subprocess.CalledProcessError:
         print("\n[!] Git commit/push skipped (no changes or remote not configured).")
 
-
 def run_dictionary_builder():
     template_raw = get_or_prompt_template()
-
     registry = load_json(REGISTRY_FILE, {})
     queue = load_json(QUEUE_FILE, [DEFAULT_SEED])
 
@@ -294,11 +283,10 @@ def run_dictionary_builder():
     save_json(REGISTRY_FILE, registry)
     save_json(QUEUE_FILE, queue)
 
-    print(f"\n[✓] BATCH COMPLETE: Processed {processed_in_batch} pages.")
+    print(f"\n[?] BATCH COMPLETE: Processed {processed_in_batch} pages.")
     print("[+] Rebuilding HTML index and sitemap.xml...")
     build_sitemap_and_index(registry)
     git_commit_and_push(processed_in_batch, len(registry))
-
 
 if __name__ == "__main__":
     run_dictionary_builder()

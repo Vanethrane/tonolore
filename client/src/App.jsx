@@ -911,6 +911,19 @@ function Home({ navigate }) {
             <SiteHeader navigate={navigate} />
             <main className="page">
                 <section className="hero hero-home">
+                    <img
+                        src="/assets/tonolore.jpg"
+                        alt="Ton-o-Lore banner"
+                        style={{
+                            width: "100%",
+                            maxWidth: "960px",
+                            display: "block",
+                            margin: "0 auto 1rem",
+                            borderRadius: "18px",
+                            border: "1px solid rgba(255,255,255,0.08)",
+                            objectFit: "cover"
+                        }}
+                    />
                     <div className="eyebrow">Start here</div>
                     <h1 className="brand-hero">Ton-o-Lore</h1>
                     <p className="description">

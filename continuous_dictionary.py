@@ -259,7 +259,20 @@ def run_dictionary_builder():
         current_topic = queue.pop(0)
         slug = slugify(current_topic)
 
+        # If already in registry, discover its subtopics/siblings anyway so the queue stays populated
         if current_topic in registry or slug in registry.values():
+            subtopics = fetch_wikipedia_subtopics(current_topic)
+            siblings = discover_sibling_entities(current_topic)
+            
+            added_new = 0
+            for item in subtopics + siblings:
+                item_slug = slugify(item)
+                if item not in registry and item_slug not in registry.values() and item not in queue:
+                    queue.append(item)
+                    added_new += 1
+            
+            if added_new > 0:
+                print(f"[EXPANDING] '{current_topic}' already registered. Added {added_new} connected seeds to queue.")
             continue
 
         processed_in_batch += 1
@@ -273,6 +286,7 @@ def run_dictionary_builder():
         render_html_page(page_data["title"], page_data["extract"], page_data["url"], subtopics, siblings, template_raw)
         registry[page_data["title"]] = slug
 
+        # Append new subtopics and siblings to queue
         for item in subtopics + siblings:
             item_slug = slugify(item)
             if item not in registry and item_slug not in registry.values() and item not in queue:
@@ -283,10 +297,9 @@ def run_dictionary_builder():
     save_json(REGISTRY_FILE, registry)
     save_json(QUEUE_FILE, queue)
 
-    print(f"\n[?] BATCH COMPLETE: Processed {processed_in_batch} pages.")
+    print(f"\n[✓] BATCH COMPLETE: Processed {processed_in_batch} pages.")
     print("[+] Rebuilding HTML index and sitemap.xml...")
     build_sitemap_and_index(registry)
     git_commit_and_push(processed_in_batch, len(registry))
-
 if __name__ == "__main__":
     run_dictionary_builder()

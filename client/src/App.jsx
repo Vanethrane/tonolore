@@ -1,4 +1,5 @@
 ﻿import React, { useEffect, useMemo, useState } from "react";
+import tonoloreBanner from "../../assets/tonolore.jpg";
 import "./App.css";
 import "./musicSubjectThemes.css";
 import "./tabletopCardThemes.css";
@@ -12,6 +13,7 @@ import {
     fetchSubjectsCatalog,
     searchEntities
 } from "./staticData";
+import { syncPageAds } from "./pageAds";
 import { siteOrigin, useDocumentSeo } from "./useDocumentSeo";
 
 const FALLBACK_CATEGORIES = [
@@ -911,25 +913,19 @@ function Home({ navigate }) {
             <SiteHeader navigate={navigate} />
             <main className="page">
                 <section className="hero hero-home">
-                    <img
-                        src="/assets/tonolore.jpg"
-                        alt="Ton-o-Lore banner"
-                        style={{
-                            width: "100%",
-                            maxWidth: "960px",
-                            display: "block",
-                            margin: "0 auto 1rem",
-                            borderRadius: "18px",
-                            border: "1px solid rgba(255,255,255,0.08)",
-                            objectFit: "cover"
-                        }}
+                    <div
+                        className="hero-banner"
+                        aria-hidden="true"
+                        style={{ backgroundImage: `linear-gradient(135deg, rgba(10,12,16,0.72), rgba(10,12,16,0.38)), url(${tonoloreBanner})` }}
                     />
-                    <div className="eyebrow">Start here</div>
-                    <h1 className="brand-hero">Ton-o-Lore</h1>
-                    <p className="description">
-                        Pick a medium, open a subject, then follow the strongest
-                        connections — each page is another door into the lore.
-                    </p>
+                    <div className="hero-copy">
+                        <div className="eyebrow">Start here</div>
+                        <h1 className="brand-hero">Ton-o-Lore</h1>
+                        <p className="description">
+                            Pick a medium, open a subject, then follow the strongest
+                            connections — each page is another door into the lore.
+                        </p>
+                    </div>
                 </section>
 
                 <section className="subjects">
@@ -1246,6 +1242,10 @@ function App() {
             window.removeEventListener("popstate", handlePopState);
         };
     }, []);
+
+    useEffect(() => {
+        syncPageAds(route.type === "home");
+    }, [route]);
 
     useEffect(() => {
         if (route.type !== "page") {

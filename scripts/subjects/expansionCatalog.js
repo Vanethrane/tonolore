@@ -59,6 +59,13 @@ const EXPANSION_CATEGORIES = [
                 rights: "Public-domain historical record / respective modern rights holders",
                 accent: "#c9a05a",
                 blurb: "Overland and maritime corridors that moved goods, faiths, and stories across Eurasia."
+            },
+            {
+                id: "byzantine-empire",
+                name: "Byzantine Empire",
+                rights: "Public-domain historical record / respective modern rights holders",
+                accent: "#c9a227",
+                blurb: "The Roman Empire in the east — Constantinople, Orthodox rite, and a thousand years after the west fell."
             }
         ]
     },

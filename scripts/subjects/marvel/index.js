@@ -54,7 +54,14 @@ module.exports = mergeSubjectPackage({
         "infinity-stones": ["Infinity Gems", "Infinity Stones"],
         shield: ["SHIELD", "S.H.I.E.L.D.", "Strategic Homeland Intervention"],
         mutants: ["Homo superior", "Mutantkind"],
-        multiverse: ["Marvel Multiverse", "Alternate Earths"]
+        multiverse: ["Marvel Multiverse", "Alternate Earths"],
+        "reed-richards": ["Mister Fantastic", "Reed Richards", "Mr. Fantastic"],
+        "sue-storm": ["Invisible Woman", "Susan Storm", "Sue Richards"],
+        "human-torch": ["Johnny Storm", "John Storm", "The Human Torch"],
+        "the-thing": ["Ben Grimm", "Benjamin Grimm", "Thing"],
+        "chris-evans": ["Christopher Evans"],
+        "robert-downey-jr": ["RDJ", "Robert Downey Junior"],
+        "chris-hemsworth": ["Hemsworth"]
     },
     parents: {
         "iron-man": "avengers",
@@ -71,6 +78,22 @@ module.exports = mergeSubjectPackage({
         avengers: "marvel",
         "x-men": "marvel",
         "fantastic-four": "marvel",
-        "guardians-of-the-galaxy": "marvel"
+        "guardians-of-the-galaxy": "marvel",
+        "reed-richards": "fantastic-four",
+        "sue-storm": "fantastic-four",
+        "human-torch": "fantastic-four",
+        "the-thing": "fantastic-four",
+        "fantastic-four-2005": "marvel",
+        "chris-evans": "marvel",
+        "robert-downey-jr": "marvel",
+        "chris-hemsworth": "marvel",
+        "human-torch-portrayals": "human-torch",
+        "human-torch-chris-evans": "human-torch-portrayals",
+        "captain-america-portrayals": "captain-america",
+        "captain-america-chris-evans": "captain-america-portrayals",
+        "iron-man-portrayals": "iron-man",
+        "iron-man-robert-downey-jr": "iron-man-portrayals",
+        "thor-portrayals": "thor",
+        "thor-chris-hemsworth": "thor-portrayals"
     }
 });

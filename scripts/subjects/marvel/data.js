@@ -2,6 +2,8 @@
  * Marvel subject data — Marvel Comics universe and MCU.
  */
 
+const { addPortrayal, ensureActor } = require("../../lib/portrayals");
+
 const entities = [];
 const relationships = [];
 
@@ -216,6 +218,107 @@ entity(
     "Deadpool is Wade Wilson, a fourth-wall-breaking mercenary tied to Marvel's mutant and X-Men adjacent stories."
 );
 
+entity(
+    "reed-richards",
+    "Reed Richards",
+    "person",
+    "Mister Fantastic; leader of the Fantastic Four.",
+    "Reed Richards is Mister Fantastic, the elastic scientist who leads the Fantastic Four with Sue Storm, Johnny Storm, and Ben Grimm."
+);
+
+entity(
+    "sue-storm",
+    "Sue Storm",
+    "person",
+    "Invisible Woman of the Fantastic Four.",
+    "Sue Storm is the Invisible Woman, a founding Fantastic Four member and Reed Richards' partner, with force-field and invisibility powers."
+);
+
+entity(
+    "human-torch",
+    "Human Torch",
+    "person",
+    "Johnny Storm — the Fantastic Four's flaming youngest member.",
+    "Johnny Storm is the Human Torch, Sue Storm's brother and a founding Fantastic Four member who flies and projects flame."
+);
+
+entity(
+    "the-thing",
+    "The Thing",
+    "person",
+    "Ben Grimm — rocky-skinned Fantastic Four powerhouse.",
+    "Ben Grimm is the Thing, Reed Richards' oldest friend and the Fantastic Four's orange-rock strongman."
+);
+
+entity(
+    "fantastic-four-2005",
+    "Fantastic Four (2005 film)",
+    "work",
+    "Live-action Fantastic Four film with Chris Evans as Johnny Storm.",
+    "The 2005 Fantastic Four film, and its 2007 sequel, adapt Reed, Sue, Johnny, and Ben with Chris Evans as the Human Torch — a different screen saga from the MCU's Captain America films."
+);
+
+ensureActor(
+    { entity, rel },
+    "chris-evans",
+    "Chris Evans",
+    "Chris Evans played Johnny Storm in the 2005–07 Fantastic Four films and Steve Rogers / Captain America in the MCU. Those credits sit under each character — not under each other."
+);
+
+ensureActor(
+    { entity, rel },
+    "robert-downey-jr",
+    "Robert Downey Jr.",
+    "Robert Downey Jr. portrayed Tony Stark / Iron Man in the MCU, the role that launched the Avengers screen saga."
+);
+
+ensureActor(
+    { entity, rel },
+    "chris-hemsworth",
+    "Chris Hemsworth",
+    "Chris Hemsworth portrayed Thor in the MCU, nested under Thor — not under other Marvel teams he appeared beside."
+);
+
+const portray = { entity, rel };
+
+addPortrayal(portray, {
+    characterSlug: "human-torch",
+    characterName: "Johnny Storm / Human Torch",
+    roleName: "Human Torch",
+    actorSlug: "chris-evans",
+    actorName: "Chris Evans",
+    credit: "Fantastic Four 2005 and 2007",
+    workSlug: "fantastic-four-2005",
+    workName: "Fantastic Four (2005 film)"
+});
+
+addPortrayal(portray, {
+    characterSlug: "captain-america",
+    characterName: "Steve Rogers / Captain America",
+    roleName: "Captain America",
+    actorSlug: "chris-evans",
+    actorName: "Chris Evans",
+    credit: "MCU"
+});
+
+addPortrayal(portray, {
+    characterSlug: "iron-man",
+    characterName: "Tony Stark / Iron Man",
+    roleName: "Iron Man",
+    actorSlug: "robert-downey-jr",
+    actorName: "Robert Downey Jr.",
+    credit: "MCU"
+});
+
+addPortrayal(portray, {
+    characterSlug: "thor",
+    characterName: "Thor",
+    roleName: "Thor",
+    actorSlug: "chris-hemsworth",
+    actorName: "Chris Hemsworth",
+    credit: "MCU"
+});
+
 /* ---------- Places / objects / concepts ---------- */
 
 entity(
@@ -305,6 +408,13 @@ rel("loki", "asgard", "located_in", "Loki is of Asgard.", 0.98, 0.95);
 rel("loki", "thor", "opposed_by", "Loki and Thor are rival brothers.", 0.97, 0.94);
 rel("spider-man", "new-york-city", "located_in", "Spider-Man protects New York City.", 0.98, 0.95);
 rel("fantastic-four", "new-york-city", "located_in", "The Fantastic Four are based in New York City.", 0.97, 0.93);
+rel("reed-richards", "fantastic-four", "leads", "Reed Richards leads the Fantastic Four.", 0.99, 0.97);
+rel("sue-storm", "fantastic-four", "member_of", "Sue Storm is a founding Fantastic Four member.", 0.99, 0.97);
+rel("human-torch", "fantastic-four", "member_of", "Johnny Storm is the Fantastic Four's Human Torch.", 0.99, 0.97);
+rel("the-thing", "fantastic-four", "member_of", "Ben Grimm is the Thing of the Fantastic Four.", 0.99, 0.97);
+rel("human-torch", "sue-storm", "connected_to", "Johnny Storm is Sue Storm's brother.", 0.97, 0.94);
+rel("fantastic-four-2005", "fantastic-four", "adapted_from", "The 2005 film adapts the Fantastic Four.", 0.96, 0.92);
+rel("fantastic-four-2005", "marvel", "part_of", "The 2005 film is a Marvel screen work, not a parent of the MCU.", 0.94, 0.9);
 
 rel("thanos", "infinity-stones", "uses", "Thanos seeks the Infinity Stones.", 0.99, 0.98);
 rel("thanos", "avengers", "opposed_by", "Thanos wars against the Avengers.", 0.99, 0.97);

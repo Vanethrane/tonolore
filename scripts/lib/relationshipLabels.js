@@ -42,7 +42,8 @@ const RELATIONSHIP_LABELS = {
     inspired: { outgoing: "Inspired", incoming: "Inspired By" },
     involved: { outgoing: "Involved In", incoming: "Involves" },
     occurred_at: { outgoing: "Occurred At", incoming: "Site Of" },
-    located_in: { outgoing: "Located In", incoming: "Contains" }
+    located_in: { outgoing: "Located In", incoming: "Contains" },
+    portrayed: { outgoing: "Portrayed", incoming: "Portrayed By" }
 };
 
 function relationshipLabel(connection) {
@@ -77,7 +78,8 @@ const EXTRA_RELATIONSHIP_TYPES = [
     "uses",
     "contains",
     "opposed_by",
-    "motivated_by"
+    "motivated_by",
+    "portrayed"
 ];
 
 module.exports = {

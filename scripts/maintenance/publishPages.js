@@ -43,7 +43,7 @@ function stashStaticOverlay(fromDir) {
         names: []
     };
 
-    for (const name of ["data", "category", "robots.txt", "sitemap.xml"]) {
+    for (const name of ["data", "category", "sitemaps", "robots.txt", "sitemap.xml"]) {
         const src = path.join(fromDir, name);
         if (!fs.existsSync(src)) {
             continue;
@@ -112,7 +112,7 @@ function mirrorToRoot() {
         }
     }
 
-    for (const name of ["robots.txt", "sitemap.xml"]) {
+    for (const name of ["robots.txt", "sitemap.xml", "sitemaps"]) {
         const src = path.join(docs, name);
         if (fs.existsSync(src)) {
             fs.copyFileSync(src, path.join(root, name));

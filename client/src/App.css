@@ -657,9 +657,36 @@ a {
 }
 
 .hero-home {
+    position: relative;
     border-bottom: none;
     padding-bottom: 12px;
     margin-bottom: 28px;
+    min-height: 320px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.hero-banner {
+    position: absolute;
+    inset: 0 0 auto 0;
+    width: min(960px, 100%);
+    height: 220px;
+    margin: 0 auto;
+    border-radius: 18px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: grayscale(1) brightness(0.62) contrast(1.08);
+    box-shadow: 0 16px 38px rgba(0, 0, 0, 0.28);
+    opacity: 0.9;
+}
+
+.hero-copy {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    padding-top: 96px;
 }
 
 .eyebrow,
@@ -682,10 +709,14 @@ a {
 }
 
 .brand-hero {
-    background: linear-gradient(120deg, #f2efe8 20%, var(--accent) 90%);
+    position: relative;
+    z-index: 1;
+    margin-top: 12px;
+    background: linear-gradient(120deg, #f2efe8 18%, #e3d4a7 36%, var(--accent) 90%);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
+    text-shadow: 0 0 28px rgba(61, 184, 160, 0.18);
 }
 
 .description,

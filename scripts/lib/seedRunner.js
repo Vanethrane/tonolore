@@ -48,6 +48,26 @@ async function ensureUrlParentColumn(client) {
     `);
 }
 
+async function ensureUniverseScope(client) {
+    await client.query(`
+        ALTER TABLE entities
+        ADD COLUMN IF NOT EXISTS universe TEXT
+    `);
+    await client.query(`
+        UPDATE entities
+        SET universe = COALESCE(universe, metadata->>'universe')
+        WHERE universe IS NULL
+    `);
+    await client.query(`
+        ALTER TABLE entities
+        DROP CONSTRAINT IF EXISTS entities_slug_key
+    `);
+    await client.query(`
+        CREATE UNIQUE INDEX IF NOT EXISTS entities_universe_slug_uidx
+        ON entities (universe, slug)
+    `);
+}
+
 async function ensureImageColumns(client) {
     await client.query(`
         ALTER TABLE entities
@@ -176,6 +196,7 @@ async function seedSubject(subject, options = {}) {
         await ensureRelationshipTypes(client);
         await ensureUrlParentColumn(client);
         await ensureImageColumns(client);
+        await ensureUniverseScope(client);
         await client.query("BEGIN");
 
         const entityIds = {};
@@ -183,6 +204,7 @@ async function seedSubject(subject, options = {}) {
         for (const item of entities) {
             const metadata = {
                 ...(item.metadata || {}),
+                universe: subject.id,
                 kind:
                     item.metadata?.kind ||
                     item.kind ||
@@ -206,7 +228,8 @@ async function seedSubject(subject, options = {}) {
                     image_license,
                     image_usage,
                     image_alt,
-                    metadata
+                    metadata,
+                    universe
                 )
                 VALUES (
                     $1,
@@ -223,9 +246,10 @@ async function seedSubject(subject, options = {}) {
                     $12,
                     $13,
                     $14,
-                    $15
+                    $15,
+                    $16
                 )
-                ON CONFLICT (slug)
+                ON CONFLICT (universe, slug)
                 DO UPDATE SET
                     name = EXCLUDED.name,
                     type = EXCLUDED.type,
@@ -259,7 +283,8 @@ async function seedSubject(subject, options = {}) {
                     item.image_license || null,
                     item.image_usage || null,
                     item.image_alt || null,
-                    JSON.stringify(metadata)
+                    JSON.stringify(metadata),
+                    subject.id
                 ]
             );
 

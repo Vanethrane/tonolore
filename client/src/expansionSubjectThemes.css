@@ -92,6 +92,28 @@
 .subject-card.theme-preview-ancient-rome .connection-type,
 .subject-card.theme-preview-ancient-rome .follow { color: #c45a3a; }
 
+/* ---------- Byzantine Empire ---------- */
+.theme-byzantine-empire {
+    --accent: #c9a227;
+    --accent-soft: color-mix(in srgb, #c9a227 18%, transparent);
+    --warm: #e8d48a;
+    background:
+        radial-gradient(ellipse 45% 35% at 12% -5%, color-mix(in srgb, #c9a227 22%, transparent), transparent 55%),
+        linear-gradient(180deg, #141018 0%, #0c0a10 60%, #08060a 100%);
+}
+.theme-byzantine-empire .hero h1 { color: #f2efe8; }
+.theme-byzantine-empire .eyebrow,
+.theme-byzantine-empire .connection-type { color: #c9a227; }
+.theme-byzantine-empire .follow,
+.theme-byzantine-empire .content a,
+.theme-byzantine-empire .entity-link { color: #c9a227; }
+.subject-card.theme-preview-byzantine-empire {
+    border-color: color-mix(in srgb, #c9a227 42%, transparent);
+    background: linear-gradient(155deg, color-mix(in srgb, #c9a227 12%, #121018), #0a0a0e);
+}
+.subject-card.theme-preview-byzantine-empire .connection-type,
+.subject-card.theme-preview-byzantine-empire .follow { color: #c9a227; }
+
 
 /* ---------- World War II ---------- */
 .theme-world-war-ii {

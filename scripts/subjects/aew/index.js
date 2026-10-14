@@ -26,7 +26,37 @@ module.exports = mergeSubjectPackage({
     rawEntities,
     rawRelationships,
     aliases: {
-        "aew": ["AEW"]
+        aew: ["AEW", "All Elite Wrestling"],
+        "tony-khan": ["Khan"],
+        "the-elite": ["Elite", "The Elite (wrestling)"],
+        "cody-rhodes": ["Cody", "The American Nightmare"],
+        "kenny-omega": ["The Cleaner", "Omega"],
+        "young-bucks": ["Young Bucks", "Matt and Nick Jackson"],
+        "hangman-page": ["Hangman", "Adam Page", "Hangman Adam Page"],
+        "maxwell-jacob-friedman": ["MJF", "Maxwell Jacob Friedman"],
+        "jon-moxley": ["Moxley", "Mox", "Death Rider"],
+        "bryan-danielson": ["Danielson", "American Dragon"],
+        "will-ospreay": ["Ospreay"],
+        "mercedes-mone": ["Mercedes Monet", "Sasha Banks"],
+        "toni-storm": ["Timeless Toni Storm"],
+        "cm-punk": ["Punk", "Best in the World"],
+        "chris-jericho": ["Jericho", "Le Champion"],
+        "aew-dynamite": ["Dynamite", "Wednesday Night Dynamite"],
+        "aew-collision": ["Collision"],
+        "all-in": ["All In 2018", "All In London"],
+        "forbidden-door": ["The Forbidden Door"],
+        "dailys-place": ["Daily's Place", "Daily's Place Amphitheater"]
     },
-    parents: {}
+    parents: {
+        "kenny-omega": "the-elite",
+        "young-bucks": "the-elite",
+        "aew-dynamite": "aew",
+        "aew-collision": "aew",
+        "double-or-nothing": "aew",
+        "all-out": "aew",
+        "full-gear": "aew",
+        "revolution": "aew",
+        "forbidden-door": "aew"
+    }
 });
+

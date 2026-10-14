@@ -63,6 +63,48 @@ ${urls.join("\n")}
 `;
 }
 
+function pageAdsHtml() {
+    return `<div id="tonolore-page-ads">
+<script src="https://motionless-bus.com/b.3WVH0IP/3/pPv/bJmpVgJoZIDO0Z3INaTHAi3yN_DJYx5/L/TEcD1bMZDvcg0/NtzUMM" async></script>
+<script>
+(function(egmmhj){
+var d = document,
+    s = d.createElement('script'),
+    l = d.currentScript || d.scripts[d.scripts.length - 1];
+s.settings = egmmhj || {};
+s.src = "\\/\\/massivesalad.com\\/bpXmV.sYdYGNlt0cYwW\\/cT\\/seQmf9gu\\/ZAUflIkOP\\/T\\/cF1\\/MLD-cV0KNLzNcPtVNjznU_wZNDzuQA4LMJQA";
+s.async = true;
+s.referrerPolicy = 'no-referrer-when-downgrade';
+if (window.matchMedia("(max-width: 800px)").matches) l.parentNode.insertBefore(s, l);
+})({})
+</script>
+<script>
+(function(kokfmk){
+var d = document,
+    s = d.createElement('script'),
+    l = d.currentScript || d.scripts[d.scripts.length - 1];
+s.settings = kokfmk || {};
+s.src = "\\/\\/massivesalad.com\\/bnXEV.s\\/dpGNlv0lYDWucM\\/tegmh9bu\\/Z\\/UclHkzPXTDcf1eMRDPcH0TOpDRkftUNzzXUNwuNjzTQA5CM\\/wT";
+s.async = true;
+s.referrerPolicy = 'no-referrer-when-downgrade';
+if (!window.matchMedia("(max-width: 800px)").matches) l.parentNode.insertBefore(s, l);
+})({})
+</script>
+<script>
+(function(ogom){
+var d = document,
+    s = d.createElement('script'),
+    l = d.currentScript || d.scripts[d.scripts.length - 1];
+s.settings = ogom || {};
+s.src = "\\/\\/massivesalad.com\\/bQXDVIs.d\\/GElQ0\\/YiWlcI\\/Je\\/mX9iu\\/ZHUllRk\\/P_TAcY1YM\\/Duc\\/1_M\\/DsUwtGNnzBUAwkNNzVUAwHOkQA";
+s.async = true;
+s.referrerPolicy = 'no-referrer-when-downgrade';
+l.parentNode.insertBefore(s, l);
+})({})
+</script>
+</div>`;
+}
+
 function baseHead({
     title,
     description,
@@ -96,6 +138,18 @@ ${image ? `<meta property="og:image" content="${escapeHtml(image)}"/>` : ""}
 <meta name="twitter:title" content="${escapeHtml(title)}"/>
 <meta name="twitter:description" content="${escapeHtml(description)}"/>
 <link rel="icon" type="image/svg+xml" href="/favicon.svg"/>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E57J1V5PJ1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-E57J1V5PJ1', {
+    stream_id: '15776716286',
+    stream_url: 'https://www.tonolore.com',
+    page_location: window.location.href,
+    page_path: window.location.pathname
+  });
+</script>
 ${cssLinks}
 ${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>` : ""}
 <style>
@@ -237,6 +291,7 @@ ${trailHtml}
 ${page.content || ""}
 </main>
 </div>
+${pageAdsHtml()}
 </body>
 </html>
 `;
@@ -288,6 +343,7 @@ function buildHomeHtml({ siteUrl, categories, cssHrefs = [] }) {
     return `<!doctype html>
 <html lang="en">
 <head>
+<meta name="56e73f42618ba37eb0947eb6f1d95acd81e70894" content="56e73f42618ba37eb0947eb6f1d95acd81e70894" />
 ${baseHead({
     title,
     description,
@@ -394,6 +450,7 @@ ${siteBar(siteUrl)}
   <div class="card-grid">${cards}</div>
 </section>
 </div>
+${pageAdsHtml()}
 </body>
 </html>
 `;
@@ -418,6 +475,7 @@ ${siteBar(siteUrl)}
 <h1>Page not found</h1>
 <p class="lede"><a href="${escapeHtml(siteUrl)}/">Return to Ton-o-Lore</a></p>
 </div>
+${pageAdsHtml()}
 </body>
 </html>
 `;
@@ -432,5 +490,6 @@ module.exports = {
     buildEntityPageHtml,
     buildHomeHtml,
     buildCategoryHtml,
-    buildNotFoundHtml
+    buildNotFoundHtml,
+    pageAdsHtml
 };

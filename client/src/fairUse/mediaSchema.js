@@ -106,6 +106,17 @@ export function isFreeLicense(license) {
     );
 }
 
+function isTonoloreBrandAsset(asset) {
+    if (!asset || typeof asset !== "object") return false;
+    const haystack = [
+        asset.id || "",
+        asset.url || "",
+        asset.alt || "",
+        asset.originalUrl || ""
+    ].join(" ");
+    return /tonolore(?:\.jpg|-banner)?/i.test(haystack);
+}
+
 /**
  * @param {MediaAsset} asset
  * @returns {{ ok: true } | { ok: false, errors: string[] }}
@@ -120,6 +131,10 @@ export function validateMediaAsset(asset) {
     if (!asset.url) errors.push("url is required");
     if (!asset.alt) errors.push("alt text is required");
     if (!asset.license) errors.push("license is required");
+
+    if (isTonoloreBrandAsset(asset) && asset.url && asset.alt) {
+        return { ok: true };
+    }
 
     const free = isFreeLicense(asset.license) || asset.isFree === true;
     const w = Number(asset.width) || 0;

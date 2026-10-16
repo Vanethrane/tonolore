@@ -112,11 +112,16 @@ function mirrorToRoot() {
         }
     }
 
-    for (const name of ["robots.txt", "sitemap.xml", "sitemaps"]) {
+    for (const name of ["robots.txt", "sitemap.xml"]) {
         const src = path.join(docs, name);
         if (fs.existsSync(src)) {
             fs.copyFileSync(src, path.join(root, name));
         }
+    }
+
+    rmrf(path.join(root, "sitemaps"));
+    if (fs.existsSync(path.join(docs, "sitemaps"))) {
+        copyDir(path.join(docs, "sitemaps"), path.join(root, "sitemaps"));
     }
 
     rmrf(path.join(root, "data"));
